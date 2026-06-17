@@ -1,6 +1,6 @@
 <doc id="transcript_227" name="0263_NMYB_jungII_f_LESN_Vers8" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="227.xml" title="Transcript: Transcript_227">
-<u who="spk_308" sex="female" age="jung (18-35) +matura" name="Informant 0263" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:00" end="0:01:37.933000" persName="Informant 0263" residence="Neumarkt an der Ybbs" age_lower="18" age_upper="35">
+<u who="spk_308" sex="female" age="jung (18-35) +matura" name="Informant 0263" location="Neumarkt an der Ybbs" lat="48.1401281" lon="15.0576682" start="0:00:00" end="0:01:37.933000" age_lower="18" age_upper="35">
 <pause duration="35,6s"/>
 Einst	-	-	ae-Diph äMono eiReal LautNach LautVor MG mhd. /ei/ Nas	0:00:35.630000	0:00:36.096000
 stritten	-	-	LautNach LautVor MG Ons Ons+ P sPal sPal+ sPal-t	0:00:36.096000	0:00:36.706000

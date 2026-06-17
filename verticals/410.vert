@@ -1,8 +1,8 @@
 <doc id="transcript_410" name="4066_WIENW_alt_m_AI_Teil1" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="410.xml" title="Transcript: Transcript_410">
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:00:00" end="0:09:45.986000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:00:00" end="0:09:45.986000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:00:00" end="0:09:53.686000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:00:00" end="0:09:53.686000" age_lower="65" age_upper="999">
 und	-	-	-	0:09:45.986000	0:09:49.306000
 und	-	-	-	0:09:45.986000	0:09:49.306000
 der	-	-	-	0:09:45.986000	0:09:49.306000
@@ -26,9 +26,9 @@ zu	-	-	-	0:09:50.499000	0:09:53.179000
 arbeiten	-	-	-	0:09:50.499000	0:09:53.179000
 das	-	-	-	0:09:53.179000	0:09:53.686000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:53.686000" end="0:09:54.033000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:09:53.686000" end="0:09:54.033000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:53.686000" end="0:10:15.572000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:09:53.686000" end="0:10:15.572000" age_lower="65" age_upper="999">
 s	-	-	-	0:09:53.686000	0:09:54.033000
 das	-	-	-	0:09:54.033000	0:09:55.104000
 war	-	-	-	0:09:54.033000	0:09:55.104000
@@ -85,15 +85,15 @@ sind	-	-	-	0:10:11.477000	0:10:14.424000
 kennengelernt	-	-	-	0:10:14.424000	0:10:15.572000
 dor	-	-	-	0:10:14.424000	0:10:15.572000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:15.572000" end="0:10:15.747000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:15.572000" end="0:10:15.747000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:10:15.572000	0:10:15.747000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:15.572000" end="0:10:15.747000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:15.572000" end="0:10:15.747000" age_lower="65" age_upper="999">
 t	-	-	-	0:10:15.572000	0:10:15.747000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:15.747000" end="0:10:15.939000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:15.747000" end="0:10:15.939000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:15.747000" end="0:10:19.534000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:15.747000" end="0:10:19.534000" age_lower="65" age_upper="999">
 wo	-	-	-	0:10:15.939000	0:10:18.603000
 die	-	-	-	0:10:15.939000	0:10:18.603000
 haben	-	-	-	0:10:15.939000	0:10:18.603000
@@ -105,7 +105,7 @@ das	-	-	-	0:10:18.603000	0:10:19.534000
 war	-	-	-	0:10:18.603000	0:10:19.534000
 toll	-	-	-	0:10:18.603000	0:10:19.534000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:19.534000" end="0:10:22.433000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:19.534000" end="0:10:22.433000" age_lower="1" age_upper="999">
 u	-	-	-	0:10:19.534000	0:10:21.956000
 und	-	-	-	0:10:19.534000	0:10:21.956000
 was	-	-	-	0:10:19.534000	0:10:21.956000
@@ -116,15 +116,15 @@ beruflich	-	-	-	0:10:19.534000	0:10:21.956000
 genau	-	-	-	0:10:19.534000	0:10:21.956000
 gemacht	-	-	-	0:10:21.956000	0:10:22.433000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:21.956000" end="0:10:23.433000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:21.956000" end="0:10:23.433000" age_lower="65" age_upper="999">
 es	-	-	-	0:10:21.956000	0:10:22.433000
 war	-	-	-	0:10:21.956000	0:10:22.433000
 eine	-	-	-	0:10:21.956000	0:10:22.433000
 kaufmännische	-	-	-	0:10:22.433000	0:10:23.433000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:23.433000" end="0:10:23.906000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:23.433000" end="0:10:23.906000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:23.433000" end="0:10:33.353000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:23.433000" end="0:10:33.353000" age_lower="65" age_upper="999">
 eine	-	-	-	0:10:23.433000	0:10:23.906000
 K	-	-	-	0:10:23.433000	0:10:23.906000
 da	-	-	-	0:10:23.433000	0:10:23.906000
@@ -155,14 +155,14 @@ es	-	-	-	0:10:32.400000	0:10:33.353000
 damals	-	-	-	0:10:32.400000	0:10:33.353000
 geheißen	-	-	-	0:10:32.400000	0:10:33.353000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:10:33.353000" end="0:10:34.227000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:10:33.353000" end="0:10:34.227000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:33.353000" end="0:10:33.807000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:33.353000" end="0:10:33.807000" age_lower="65" age_upper="999">
 hat	-	-	-	0:10:33.353000	0:10:33.807000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:10:34.227000" end="0:10:34.778000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:10:34.227000" end="0:10:34.778000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:34.419000" end="0:10:38.945000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:34.419000" end="0:10:38.945000" age_lower="65" age_upper="999">
 wir	-	-	-	0:10:34.419000	0:10:34.778000
 haben	-	-	-	0:10:34.419000	0:10:34.778000
 damals	-	-	-	0:10:34.778000	0:10:38.203000
@@ -176,9 +176,9 @@ eingsackelt	-	-	-	0:10:34.778000	0:10:38.203000
 jede	-	-	-	0:10:38.203000	0:10:38.945000
 w	-	-	-	0:10:38.203000	0:10:38.945000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:38.945000" end="0:10:39.120000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:38.945000" end="0:10:39.120000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:38.945000" end="0:10:50.226000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:38.945000" end="0:10:50.226000" age_lower="65" age_upper="999">
 diese	-	-	-	0:10:38.945000	0:10:39.120000
 e	-	-	-	0:10:39.120000	0:10:40.667000
 am	-	-	-	0:10:39.120000	0:10:40.667000
@@ -213,32 +213,32 @@ muss	-	-	-	0:10:49.732000	0:10:50.226000
 man	-	-	-	0:10:49.732000	0:10:50.226000
 sich	-	-	-	0:10:49.732000	0:10:50.226000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:50.226000" end="0:10:50.484000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:50.226000" end="0:10:50.484000" age_lower="1" age_upper="999">
 ah	-	-	-	0:10:50.226000	0:10:50.484000
 so	-	-	-	0:10:50.226000	0:10:50.484000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:50.226000" end="0:10:50.484000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:50.226000" end="0:10:50.484000" age_lower="65" age_upper="999">
 vors	-	-	-	0:10:50.226000	0:10:50.484000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:50.484000" end="0:10:50.539000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:50.484000" end="0:10:50.539000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:50.484000" end="0:10:50.539000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:50.484000" end="0:10:50.539000" age_lower="65" age_upper="999">
 tön	-	-	-	0:10:50.484000	0:10:50.539000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:50.539000" end="0:10:51.608000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:50.539000" end="0:10:51.608000" age_lower="1" age_upper="999">
 ie	-	-	-	0:10:50.539000	0:10:51.608000
 haben	-	-	-	0:10:50.539000	0:10:51.608000
 dann	-	-	-	0:10:50.539000	0:10:51.608000
 jeder	-	-	-	0:10:50.539000	0:10:51.608000
 ein	-	-	-	0:10:50.539000	0:10:51.608000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:50.539000" end="0:10:51.608000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:50.539000" end="0:10:51.608000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:51.608000" end="0:10:52.805000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:10:51.608000" end="0:10:52.805000" age_lower="1" age_upper="999">
 kuvert	-	-	-	0:10:51.608000	0:10:52.805000
 bekommen	-	-	-	0:10:51.608000	0:10:52.805000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:51.608000" end="0:11:00.008000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:10:51.608000" end="0:11:00.008000" age_lower="65" age_upper="999">
 und	-	-	-	0:10:51.608000	0:10:52.805000
 jeder	-	-	-	0:10:51.608000	0:10:52.805000
 hat	-	-	-	0:10:51.608000	0:10:52.805000
@@ -263,14 +263,14 @@ laut	-	-	-	0:10:57.404000	0:11:00.008000
 kollektivvertrog	-	-	-	0:10:57.404000	0:11:00.008000
 zugestanden	-	-	-	0:10:57.404000	0:11:00.008000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:00.008000" end="0:11:00.215000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:00.008000" end="0:11:00.215000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:00.008000" end="0:11:00.215000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:00.008000" end="0:11:00.215000" age_lower="65" age_upper="999">
 hat	-	-	-	0:11:00.008000	0:11:00.215000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:00.215000" end="0:11:00.407000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:00.215000" end="0:11:00.407000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:00.215000" end="0:11:06" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:00.215000" end="0:11:06" age_lower="65" age_upper="999">
 das	-	-	-	0:11:00.407000	0:11:03.648000
 war	-	-	-	0:11:00.407000	0:11:03.648000
 also	-	-	-	0:11:00.407000	0:11:03.648000
@@ -287,9 +287,9 @@ war	-	-	-	0:11:03.648000	0:11:06
 der	-	-	-	0:11:03.648000	0:11:06
 Einkauf	-	-	-	0:11:03.648000	0:11:06
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:06" end="0:11:06.609000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:06" end="0:11:06.609000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:06.609000" end="0:11:39.172000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:06.609000" end="0:11:39.172000" age_lower="65" age_upper="999">
 Abteilung	-	-	-	0:11:06.609000	0:11:07.855000
 Einkauf	-	-	-	0:11:06.609000	0:11:07.855000
 wo	-	-	-	0:11:07.855000	0:11:10.508000
@@ -373,9 +373,9 @@ nach	-	-	-	0:11:37.106000	0:11:39.172000
 vollkommen	-	-	-	0:11:37.106000	0:11:39.172000
 richtig	-	-	-	0:11:37.106000	0:11:39.172000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:39.172000" end="0:11:39.546000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:11:39.172000" end="0:11:39.546000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:39.172000" end="0:12:02.199000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:11:39.172000" end="0:12:02.199000" age_lower="65" age_upper="999">
 die	-	-	-	0:11:39.172000	0:11:39.546000
 das	-	-	-	0:11:39.172000	0:11:39.546000
 gemacht	-	-	-	0:11:39.546000	0:11:40.087000
@@ -432,17 +432,17 @@ mir	-	-	-	0:11:59.699000	0:12:02.199000
 nicht	-	-	-	0:11:59.699000	0:12:02.199000
 geschadet	-	-	-	0:11:59.699000	0:12:02.199000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:02.199000" end="0:12:03.006000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:02.199000" end="0:12:03.006000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:02.199000" end="0:12:03.006000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:02.199000" end="0:12:03.006000" age_lower="65" age_upper="999">
 man	-	-	-	0:12:02.199000	0:12:03.006000
 es	-	-	-	0:12:02.199000	0:12:03.006000
 einmal	-	-	-	0:12:02.199000	0:12:03.006000
 so	-	-	-	0:12:02.199000	0:12:03.006000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:03.006000" end="0:12:03.452000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:03.006000" end="0:12:03.452000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:03.006000" end="0:12:09.912000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:03.006000" end="0:12:09.912000" age_lower="65" age_upper="999">
 dass	-	-	-	0:12:03.006000	0:12:03.452000
 man	-	-	-	0:12:03.006000	0:12:03.452000
 sowas	-	-	-	0:12:03.452000	0:12:04.704000
@@ -465,9 +465,9 @@ einfach	-	-	-	0:12:08.606000	0:12:09.912000
 auch	-	-	-	0:12:08.606000	0:12:09.912000
 dazu	-	-	-	0:12:08.606000	0:12:09.912000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:09.912000" end="0:12:10.559000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:09.912000" end="0:12:10.559000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:09.912000" end="0:12:31.719000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:09.912000" end="0:12:31.719000" age_lower="65" age_upper="999">
 zu	-	-	-	0:12:09.912000	0:12:10.559000
 v	-	-	-	0:12:09.912000	0:12:10.559000
 erstehen	-	-	-	0:12:10.559000	0:12:11.046000
@@ -531,9 +531,9 @@ da	-	-	-	0:12:30.006000	0:12:31.719000
 sein	-	-	-	0:12:30.006000	0:12:31.719000
 sollte	-	-	-	0:12:30.006000	0:12:31.719000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:31.719000" end="0:12:32.112000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:12:31.719000" end="0:12:32.112000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:32.112000" end="0:13:06.206000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:12:32.112000" end="0:13:06.206000" age_lower="65" age_upper="999">
 also	-	-	-	0:12:32.306000	0:12:34.479000
 es	-	-	-	0:12:32.306000	0:12:34.479000
 ist	-	-	-	0:12:32.306000	0:12:34.479000
@@ -611,9 +611,9 @@ dort	-	-	-	0:13:04.946000	0:13:06.206000
 erlebt	-	-	-	0:13:04.946000	0:13:06.206000
 habe	-	-	-	0:13:04.946000	0:13:06.206000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:06.206000" end="0:13:06.506000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:06.206000" end="0:13:06.506000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:06.506000" end="0:13:40.939000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:06.506000" end="0:13:40.939000" age_lower="65" age_upper="999">
 ich	-	-	-	0:13:06.506000	0:13:08.352000
 wollte	-	-	-	0:13:06.506000	0:13:08.352000
 eigentlich	-	-	-	0:13:06.506000	0:13:08.352000
@@ -702,9 +702,9 @@ man	-	-	-	0:13:37.806000	0:13:40.939000
 eh	-	-	-	0:13:37.806000	0:13:40.939000
 tagtäglich	-	-	-	0:13:37.806000	0:13:40.939000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:40.939000" end="0:13:41.432000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:40.939000" end="0:13:41.432000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:41.432000" end="0:13:57.832000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:41.432000" end="0:13:57.832000" age_lower="65" age_upper="999">
 zwanzig	-	-	-	0:13:41.432000	0:13:42.792000
 heute	-	-	-	0:13:41.432000	0:13:42.792000
 und	-	-	-	0:13:41.432000	0:13:42.792000
@@ -746,9 +746,9 @@ in	-	-	-	0:13:54.706000	0:13:57.832000
 einem	-	-	-	0:13:54.706000	0:13:57.832000
 handballclub	-	-	-	0:13:54.706000	0:13:57.832000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:57.832000" end="0:13:58.626000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:13:57.832000" end="0:13:58.626000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:58.626000" end="0:14:28.906000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:13:58.626000" end="0:14:28.906000" age_lower="65" age_upper="999">
 ich	-	-	-	0:13:58.626000	0:14:00.032000
 war	-	-	-	0:13:58.626000	0:14:00.032000
 bei	-	-	-	0:13:58.626000	0:14:00.032000
@@ -836,9 +836,9 @@ Eltern	-	-	-	0:14:26.606000	0:14:28.906000
 aufnähen	-	-	-	0:14:26.606000	0:14:28.906000
 müssen	-	-	-	0:14:26.606000	0:14:28.906000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:28.906000" end="0:14:29.306000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:28.906000" end="0:14:29.306000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:28.906000" end="0:14:32.306000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:28.906000" end="0:14:32.306000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:14:28.906000	0:14:29.306000
 muss	-	-	-	0:14:29.306000	0:14:31.072000
 man	-	-	-	0:14:29.306000	0:14:31.072000
@@ -851,10 +851,10 @@ die	-	-	-	0:14:31.252000	0:14:32.162000
 heute	-	-	-	0:14:31.252000	0:14:32.162000
 verdienen	-	-	-	0:14:31.252000	0:14:32.162000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:32.306000" end="0:14:32.766000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:32.306000" end="0:14:32.766000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:32.306000	0:14:32.766000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:32.766000" end="0:14:52.832000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:32.766000" end="0:14:52.832000" age_lower="65" age_upper="999">
 wir	-	-	-	0:14:32.766000	0:14:35.059000
 haben	-	-	-	0:14:32.766000	0:14:35.059000
 das	-	-	-	0:14:32.766000	0:14:35.059000
@@ -925,9 +925,9 @@ wir	-	-	-	0:14:52.232000	0:14:52.832000
 haben	-	-	-	0:14:52.232000	0:14:52.832000
 an	-	-	-	0:14:52.232000	0:14:52.832000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:52.832000" end="0:14:53.179000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:14:52.832000" end="0:14:53.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:53.179000" end="0:15:23.732000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:14:53.179000" end="0:15:23.732000" age_lower="65" age_upper="999">
 an	-	-	-	0:14:53.179000	0:14:54.186000
 Trainer	-	-	-	0:14:53.179000	0:14:54.186000
 gehabt	-	-	-	0:14:53.179000	0:14:54.186000
@@ -1022,9 +1022,9 @@ dieser	-	-	-	0:15:22.959000	0:15:23.732000
 Zeit	-	-	-	0:15:22.959000	0:15:23.732000
 v	-	-	-	0:15:22.959000	0:15:23.732000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:23.732000" end="0:15:24.052000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:23.732000" end="0:15:24.052000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:23.732000" end="0:15:56.152000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:23.732000" end="0:15:56.152000" age_lower="65" age_upper="999">
 all	-	-	-	0:15:23.732000	0:15:24.052000
 ich	-	-	-	0:15:24.052000	0:15:25.332000
 außerdem	-	-	-	0:15:24.052000	0:15:25.332000
@@ -1110,10 +1110,10 @@ sich	-	-	-	0:15:55.126000	0:15:56.152000
 das	-	-	-	0:15:55.126000	0:15:56.152000
 vorstön	-	-	-	0:15:55.126000	0:15:56.152000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:56.152000" end="0:15:56.665000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:15:56.152000" end="0:15:56.665000" age_lower="1" age_upper="999">
 Wahnsinn	-	-	-	0:15:56.152000	0:15:56.665000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:56.372000" end="0:16:33.059000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:15:56.372000" end="0:16:33.059000" age_lower="65" age_upper="999">
 so	-	-	-	0:15:56.372000	0:15:56.665000
 haben	-	-	-	0:15:56.372000	0:15:56.665000
 uns	-	-	-	0:15:56.665000	0:15:57.906000
@@ -1225,9 +1225,9 @@ hat	-	-	-	0:16:32.506000	0:16:33.059000
 uns	-	-	-	0:16:32.506000	0:16:33.059000
 nich	-	-	-	0:16:32.506000	0:16:33.059000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:33.059000" end="0:16:33.512000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:33.059000" end="0:16:33.512000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:33.059000" end="0:16:54.366000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:33.059000" end="0:16:54.366000" age_lower="65" age_upper="999">
 t	-	-	-	0:16:33.059000	0:16:33.512000
 gescha	-	-	-	0:16:33.059000	0:16:33.512000
 det	-	-	-	0:16:33.512000	0:16:33.786000
@@ -1284,9 +1284,9 @@ nicht	-	-	-	0:16:53.266000	0:16:54.168000
 ganz	-	-	-	0:16:53.266000	0:16:54.168000
 passt	-	-	-	0:16:53.266000	0:16:54.168000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:54.366000" end="0:16:55.306000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:54.366000" end="0:16:55.306000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:54.366000" end="0:16:58.326000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:54.366000" end="0:16:58.326000" age_lower="65" age_upper="999">
 weil	-	-	-	0:16:55.306000	0:16:57.006000
 äh	-	-	-	0:16:55.306000	0:16:57.006000
 ich	-	-	-	0:16:55.306000	0:16:57.006000
@@ -1300,9 +1300,9 @@ niemand	-	-	-	0:16:57.006000	0:16:58.326000
 da	-	-	-	0:16:57.006000	0:16:58.326000
 nehmen	-	-	-	0:16:57.006000	0:16:58.326000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:58.326000" end="0:16:59.332000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:16:58.326000" end="0:16:59.332000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:58.326000" end="0:17:38.952000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:16:58.326000" end="0:17:38.952000" age_lower="65" age_upper="999">
 da	-	-	-	0:16:58.326000	0:16:59.332000
 sehe	-	-	-	0:16:58.326000	0:16:59.332000
 ich	-	-	-	0:16:59.332000	0:16:59.959000
@@ -1426,9 +1426,9 @@ was	-	-	-	0:17:38.306000	0:17:38.952000
 wass	-	-	-	0:17:38.306000	0:17:38.952000
 ich	-	-	-	0:17:38.306000	0:17:38.952000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:38.952000" end="0:17:39.552000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:38.952000" end="0:17:39.552000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:38.952000" end="0:17:45.166000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:38.952000" end="0:17:45.166000" age_lower="65" age_upper="999">
 so	-	-	-	0:17:38.952000	0:17:39.552000
 aber	-	-	-	0:17:39.552000	0:17:41.206000
 sind	-	-	-	0:17:39.552000	0:17:41.206000
@@ -1447,9 +1447,9 @@ kommt	-	-	-	0:17:44.052000	0:17:45.166000
 man	-	-	-	0:17:44.052000	0:17:45.166000
 wirklich	-	-	-	0:17:44.052000	0:17:45.166000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:45.166000" end="0:17:45.572000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:17:45.166000" end="0:17:45.572000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:45.166000" end="0:18:00.206000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:17:45.166000" end="0:18:00.206000" age_lower="65" age_upper="999">
 mit	-	-	-	0:17:45.166000	0:17:45.572000
 allen	-	-	-	0:17:45.166000	0:17:45.572000
 Gruppen	-	-	-	0:17:45.572000	0:17:46.472000
@@ -1494,9 +1494,9 @@ zum	-	-	-	0:17:57.006000	0:18:00.206000
 SONSTIGE	SONSTIGE	-	-	0:17:57.006000	0:18:00.206000
 zurückgegangen	-	-	-	0:17:57.006000	0:18:00.206000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:00.206000" end="0:18:00.786000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:00.206000" end="0:18:00.786000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:00.786000" end="0:18:22.292000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:00.786000" end="0:18:22.292000" age_lower="65" age_upper="999">
 und	-	-	-	0:18:00.786000	0:18:05.106000
 bin	-	-	-	0:18:00.786000	0:18:05.106000
 dort	-	-	-	0:18:00.786000	0:18:05.106000
@@ -1547,9 +1547,9 @@ in	-	-	-	0:18:17.546000	0:18:22.292000
 die	-	-	-	0:18:17.546000	0:18:22.292000
 Bundesbahn	-	-	-	0:18:17.546000	0:18:22.292000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:22.292000" end="0:18:22.712000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:18:22.292000" end="0:18:22.712000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:22.292000" end="0:19:06.044000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:18:22.292000" end="0:19:06.044000" age_lower="65" age_upper="999">
 äh	-	-	-	0:18:22.292000	0:18:22.712000
 SONSTIGE	SONSTIGE	-	-	0:18:22.906000	0:18:25.426000
 hat	-	-	-	0:18:22.906000	0:18:25.426000
@@ -1661,9 +1661,9 @@ noch	-	-	-	0:19:04.349000	0:19:06.044000
 Jungfrau	-	-	-	0:19:04.349000	0:19:06.044000
 ist	-	-	-	0:19:04.349000	0:19:06.044000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:06.044000" end="0:19:06.839000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:06.044000" end="0:19:06.839000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:06.839000" end="0:19:27.012000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:06.839000" end="0:19:27.012000" age_lower="65" age_upper="999">
 der	-	-	-	0:19:06.839000	0:19:10.204000
 Chef	-	-	-	0:19:06.839000	0:19:10.204000
 ist	-	-	-	0:19:06.839000	0:19:10.204000
@@ -1736,9 +1736,9 @@ kann	-	-	-	0:19:26.169000	0:19:27.012000
 man	-	-	-	0:19:26.169000	0:19:27.012000
 sich	-	-	-	0:19:26.169000	0:19:27.012000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:27.012000" end="0:19:27.809000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:27.012000" end="0:19:27.809000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:27.012000" end="0:19:34.239000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:27.012000" end="0:19:34.239000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:19:27.012000	0:19:27.809000
 vorstellen	-	-	-	0:19:27.012000	0:19:27.809000
 und	-	-	-	0:19:27.809000	0:19:31.204000
@@ -1763,15 +1763,15 @@ gunst	-	-	-	0:19:32.564000	0:19:34.239000
 der	-	-	-	0:19:32.564000	0:19:34.239000
 Chefs	-	-	-	0:19:32.564000	0:19:34.239000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:34.239000" end="0:19:34.494000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:34.239000" end="0:19:34.494000" age_lower="1" age_upper="999">
 ah	-	-	-	0:19:34.239000	0:19:34.494000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:34.239000" end="0:19:34.494000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:34.239000" end="0:19:34.494000" age_lower="65" age_upper="999">
 pau	-	-	-	0:19:34.239000	0:19:34.494000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:34.494000" end="0:19:35.203000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:19:34.494000" end="0:19:35.203000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:34.494000" end="0:20:43.106000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:19:34.494000" end="0:20:43.106000" age_lower="65" age_upper="999">
 senlos	-	-	-	0:19:34.494000	0:19:35.203000
 sozusagen	-	-	-	0:19:35.203000	0:19:36.604000
 haben	-	-	-	0:19:35.203000	0:19:36.604000
@@ -1977,18 +1977,18 @@ den	-	-	-	0:20:41.566000	0:20:43.106000
 ganzen	-	-	-	0:20:41.566000	0:20:43.106000
 Bereich	-	-	-	0:20:41.566000	0:20:43.106000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:43.106000" end="0:20:43.512000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:43.106000" end="0:20:43.512000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:43.512000" end="0:20:45.852000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:43.512000" end="0:20:45.852000" age_lower="65" age_upper="999">
 hat	-	-	-	0:20:43.512000	0:20:45.852000
 man	-	-	-	0:20:43.512000	0:20:45.852000
 nicht	-	-	-	0:20:43.512000	0:20:45.852000
 wirklich	-	-	-	0:20:43.512000	0:20:45.852000
 geholfen	-	-	-	0:20:43.512000	0:20:45.852000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:45.852000" end="0:20:46.179000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:45.852000" end="0:20:46.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:46.179000" end="0:20:51.922000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:46.179000" end="0:20:51.922000" age_lower="65" age_upper="999">
 sie	-	-	-	0:20:46.179000	0:20:47.155000
 war	-	-	-	0:20:46.179000	0:20:47.155000
 zwar	-	-	-	0:20:46.179000	0:20:47.155000
@@ -2011,9 +2011,9 @@ vorne	-	-	-	0:20:49.326000	0:20:51.922000
 war	-	-	-	0:20:49.326000	0:20:51.922000
 fürchterlich	-	-	-	0:20:49.326000	0:20:51.922000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:51.922000" end="0:20:52.119000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:20:51.922000" end="0:20:52.119000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:51.922000" end="0:21:22.406000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:20:51.922000" end="0:21:22.406000" age_lower="65" age_upper="999">
 nein	-	-	-	0:20:52.119000	0:20:53.259000
 ja	-	-	-	0:20:52.119000	0:20:53.259000
 ist	-	-	-	0:20:53.259000	0:20:54.606000
@@ -2093,9 +2093,9 @@ der	-	-	-	0:21:20.172000	0:21:22.406000
 Chef	-	-	-	0:21:20.172000	0:21:22.406000
 geworden	-	-	-	0:21:20.172000	0:21:22.406000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:22.406000" end="0:21:23.106000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:22.406000" end="0:21:23.106000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:23.106000" end="0:21:58.872000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:23.106000" end="0:21:58.872000" age_lower="65" age_upper="999">
 nein	-	-	-	0:21:23.106000	0:21:24.806000
 ja	-	-	-	0:21:23.106000	0:21:24.806000
 habe	-	-	-	0:21:24.806000	0:21:26.852000
@@ -2214,9 +2214,9 @@ ich	-	-	-	0:21:58.209000	0:21:58.872000
 war	-	-	-	0:21:58.209000	0:21:58.872000
 weg	-	-	-	0:21:58.209000	0:21:58.872000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:58.872000" end="0:21:59.505000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:21:58.872000" end="0:21:59.505000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:59.505000" end="0:22:19.405000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:21:59.505000" end="0:22:19.405000" age_lower="65" age_upper="999">
 ich	-	-	-	0:21:59.505000	0:22:01.744000
 f	-	-	-	0:21:59.505000	0:22:01.744000
 xxx	-	-	-	0:21:59.505000	0:22:01.744000
@@ -2274,7 +2274,7 @@ SONSTIGE	SONSTIGE	-	-	0:22:14.859000	0:22:19.204000
 SONSTIGE	SONSTIGE	-	-	0:22:14.859000	0:22:19.204000
 gestanden	-	-	-	0:22:14.859000	0:22:19.204000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:19.405000" end="0:22:20.852000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:19.405000" end="0:22:20.852000" age_lower="1" age_upper="999">
 heißt	-	-	-	0:22:19.405000	0:22:20.245000
 Sie	-	-	-	0:22:19.405000	0:22:20.245000
 haben	-	-	-	0:22:19.405000	0:22:20.245000
@@ -2282,7 +2282,7 @@ es	-	-	-	0:22:19.405000	0:22:20.245000
 nicht	-	-	-	0:22:19.405000	0:22:20.245000
 bereut	-	-	-	0:22:20.245000	0:22:20.852000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:20.245000" end="0:22:32.805000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:20.245000" end="0:22:32.805000" age_lower="65" age_upper="999">
 im	-	-	-	0:22:20.245000	0:22:20.852000
 Personal	-	-	-	0:22:20.245000	0:22:20.852000
 Büro	-	-	-	0:22:20.852000	0:22:21.185000
@@ -2316,9 +2316,9 @@ Glück	-	-	-	0:22:29.705000	0:22:31.160000
 da	-	-	-	0:22:31.160000	0:22:32.805000
 SONSTIGE	SONSTIGE	-	-	0:22:31.160000	0:22:32.805000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:32.805000" end="0:22:33.545000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:22:32.805000" end="0:22:33.545000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:33.545000" end="0:23:04.205000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:22:33.545000" end="0:23:04.205000" age_lower="65" age_upper="999">
 Platz	-	-	-	0:22:33.545000	0:22:34.305000
 zu	-	-	-	0:22:33.545000	0:22:34.305000
 finden	-	-	-	0:22:33.545000	0:22:34.305000
@@ -2394,9 +2394,9 @@ könnt	-	-	-	0:23:02.846000	0:23:04.205000
 nicht	-	-	-	0:23:02.846000	0:23:04.205000
 machen	-	-	-	0:23:02.846000	0:23:04.205000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:04.205000" end="0:23:04.899000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:04.205000" end="0:23:04.899000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:04.205000" end="0:23:26.063000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:04.205000" end="0:23:26.063000" age_lower="65" age_upper="999">
 hat	-	-	-	0:23:04.205000	0:23:04.899000
 den	-	-	-	0:23:04.205000	0:23:04.899000
 hat	-	-	-	0:23:04.899000	0:23:06.945000
@@ -2468,15 +2468,15 @@ ah	-	-	-	0:23:22.772000	0:23:26.063000
 fabriken	-	-	-	0:23:22.772000	0:23:26.063000
 tet	-	-	-	0:23:22.772000	0:23:26.063000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:26.063000" end="0:23:26.345000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:26.063000" end="0:23:26.345000" age_lower="1" age_upper="999">
 hm	-	-	-	0:23:26.063000	0:23:26.345000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:26.063000" end="0:23:26.345000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:26.063000" end="0:23:26.345000" age_lower="65" age_upper="999">
 tet	-	-	-	0:23:26.063000	0:23:26.345000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:26.345000" end="0:23:26.605000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:23:26.345000" end="0:23:26.605000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:26.345000" end="0:24:03.005000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:23:26.345000" end="0:24:03.005000" age_lower="65" age_upper="999">
 sagen	-	-	-	0:23:26.605000	0:23:26.965000
 habe	-	-	-	0:23:26.965000	0:23:30.352000
 zum	-	-	-	0:23:26.965000	0:23:30.352000
@@ -2576,9 +2576,9 @@ gehabt	-	-	-	0:23:55.405000	0:24:01.505000
 aussprache>anglodanubian	-	-	-	0:24:01.505000	0:24:03.005000
 lloyd;>	-	-	-	0:24:01.505000	0:24:03.005000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:03.005000" end="0:24:03.652000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:03.005000" end="0:24:03.652000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:03.652000" end="0:24:28.105000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:03.652000" end="0:24:28.105000" age_lower="65" age_upper="999">
 das	-	-	-	0:24:03.652000	0:24:06.105000
 ist	-	-	-	0:24:03.652000	0:24:06.105000
 ursprünglich	-	-	-	0:24:03.652000	0:24:06.105000
@@ -2642,9 +2642,9 @@ rot	-	-	-	0:24:25.839000	0:24:28.105000
 angehaucht	-	-	-	0:24:25.839000	0:24:28.105000
 war	-	-	-	0:24:25.839000	0:24:28.105000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:28.105000" end="0:24:28.645000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:28.105000" end="0:24:28.645000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:28.645000" end="0:24:38.105000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:28.645000" end="0:24:38.105000" age_lower="65" age_upper="999">
 das	-	-	-	0:24:28.645000	0:24:30.645000
 war	-	-	-	0:24:28.645000	0:24:30.645000
 ein	-	-	-	0:24:28.645000	0:24:30.645000
@@ -2671,9 +2671,9 @@ bei	-	-	-	0:24:35.905000	0:24:38.105000
 uns	-	-	-	0:24:35.905000	0:24:38.105000
 SONSTIGE	SONSTIGE	-	-	0:24:35.905000	0:24:38.105000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:38.105000" end="0:24:38.479000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:38.105000" end="0:24:38.479000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:38.479000" end="0:24:45.052000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:38.479000" end="0:24:45.052000" age_lower="65" age_upper="999">
 die	-	-	-	0:24:38.479000	0:24:43.305000
 gut	-	-	-	0:24:38.479000	0:24:43.305000
 d	-	-	-	0:24:38.479000	0:24:43.305000
@@ -2690,34 +2690,34 @@ also	-	-	-	0:24:43.305000	0:24:45.052000
 auch	-	-	-	0:24:43.305000	0:24:45.052000
 große	-	-	-	0:24:43.305000	0:24:45.052000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:45.052000" end="0:24:47.252000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:45.052000" end="0:24:47.252000" age_lower="1" age_upper="999">
 entschuldigung	-	-	-	0:24:46.305000	0:24:47.252000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:46.305000" end="0:24:47.705000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:46.305000" end="0:24:47.705000" age_lower="65" age_upper="999">
 wullen	-	-	-	0:24:46.305000	0:24:47.252000
 Sie	-	-	-	0:24:46.305000	0:24:47.252000
 was	-	-	-	0:24:46.305000	0:24:47.252000
 trinken	-	-	-	0:24:47.252000	0:24:47.705000
 oder	-	-	-	0:24:47.252000	0:24:47.705000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:47.705000" end="0:24:48.405000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:47.705000" end="0:24:48.405000" age_lower="1" age_upper="999">
 danke	-	-	-	0:24:47.705000	0:24:48.405000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:48.405000" end="0:24:49.405000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:48.405000" end="0:24:49.405000" age_lower="1" age_upper="999">
 xxx	-	-	-	0:24:48.405000	0:24:49.405000
 xxx	-	-	-	0:24:48.405000	0:24:49.405000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:48.405000" end="0:24:49.405000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:48.405000" end="0:24:49.405000" age_lower="65" age_upper="999">
 große	-	-	-	0:24:48.405000	0:24:49.405000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:49.405000" end="0:24:50.465000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:49.405000" end="0:24:50.465000" age_lower="1" age_upper="999">
 ja	-	-	-	0:24:49.405000	0:24:49.925000
 schon	-	-	-	0:24:49.405000	0:24:49.925000
 Wasser	-	-	-	0:24:49.405000	0:24:49.925000
 xxx	-	-	-	0:24:49.925000	0:24:50.465000
 xxx	-	-	-	0:24:49.925000	0:24:50.465000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:49.925000" end="0:24:51.211000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:49.925000" end="0:24:51.211000" age_lower="65" age_upper="999">
 gibst	-	-	-	0:24:49.925000	0:24:50.465000
 du	-	-	-	0:24:49.925000	0:24:50.465000
 mir	-	-	-	0:24:49.925000	0:24:50.465000
@@ -2725,22 +2725,22 @@ bitte	-	-	-	0:24:50.465000	0:24:51.211000
 ein	-	-	-	0:24:50.465000	0:24:51.211000
 gibst	-	-	-	0:24:50.465000	0:24:51.211000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:51.211000" end="0:24:51.619000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:51.211000" end="0:24:51.619000" age_lower="1" age_upper="999">
 was	-	-	-	0:24:51.211000	0:24:51.619000
 denn	-	-	-	0:24:51.211000	0:24:51.619000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:51.211000" end="0:24:52.205000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:51.211000" end="0:24:52.205000" age_lower="65" age_upper="999">
 du	-	-	-	0:24:51.211000	0:24:51.619000
 mir	-	-	-	0:24:51.211000	0:24:51.619000
 ein	-	-	-	0:24:51.211000	0:24:51.619000
 Wasser	-	-	-	0:24:51.619000	0:24:52.205000
 bitte	-	-	-	0:24:51.619000	0:24:52.205000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:52.205000" end="0:24:52.785000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:24:52.205000" end="0:24:52.785000" age_lower="1" age_upper="999">
 ein	-	-	-	0:24:52.205000	0:24:52.785000
 Wasser	-	-	-	0:24:52.205000	0:24:52.785000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:52.785000" end="0:24:55.092000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:52.785000" end="0:24:55.092000" age_lower="65" age_upper="999">
 ich	-	-	-	0:24:52.785000	0:24:52.945000
 weil	-	-	-	0:24:52.945000	0:24:55.092000
 sonst	-	-	-	0:24:52.945000	0:24:55.092000
@@ -2753,9 +2753,9 @@ vorm	-	-	-	0:24:52.945000	0:24:55.092000
 Mund	-	-	-	0:24:52.945000	0:24:55.092000
 bald	-	-	-	0:24:52.945000	0:24:55.092000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:55.092000" end="0:24:55.705000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:24:55.092000" end="0:24:55.705000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:55.092000" end="0:25:10.085000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:24:55.092000" end="0:25:10.085000" age_lower="65" age_upper="999">
 und	-	-	-	0:24:55.705000	0:25:01.732000
 ah	-	-	-	0:24:55.705000	0:25:01.732000
 hat	-	-	-	0:24:55.705000	0:25:01.732000
@@ -2787,9 +2787,9 @@ mitbringt	-	-	-	0:25:07.845000	0:25:09.405000
 und	-	-	-	0:25:09.405000	0:25:10.085000
 d	-	-	-	0:25:09.405000	0:25:10.085000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:10.085000" end="0:25:10.363000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:10.085000" end="0:25:10.363000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:10.085000" end="0:25:35.872000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:10.085000" end="0:25:35.872000" age_lower="65" age_upper="999">
 iese	-	-	-	0:25:10.085000	0:25:10.363000
 Leute	-	-	-	0:25:10.363000	0:25:10.952000
 die	-	-	-	0:25:10.952000	0:25:13.505000
@@ -2862,20 +2862,20 @@ allen	-	-	-	0:25:32.705000	0:25:35.872000
 Kirchen	-	-	-	0:25:32.705000	0:25:35.872000
 SONSTIGE	SONSTIGE	-	-	0:25:32.705000	0:25:35.872000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:35.872000" end="0:25:36.105000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:35.872000" end="0:25:36.105000" age_lower="1" age_upper="999">
 ah	-	-	-	0:25:35.872000	0:25:36.105000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:35.872000" end="0:25:36.105000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:35.872000" end="0:25:36.105000" age_lower="65" age_upper="999">
 gehabt	-	-	-	0:25:35.872000	0:25:36.105000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:36.105000" end="0:25:36.405000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:36.105000" end="0:25:36.405000" age_lower="1" age_upper="999">
 eine	-	-	-	0:25:36.105000	0:25:36.405000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:36.105000" end="0:25:36.405000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:36.105000" end="0:25:36.405000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:36.405000" end="0:25:36.839000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:25:36.405000" end="0:25:36.839000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:36.839000" end="0:26:07.405000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:25:36.839000" end="0:26:07.405000" age_lower="65" age_upper="999">
 ich	-	-	-	0:25:36.839000	0:25:39.205000
 habe	-	-	-	0:25:36.839000	0:25:39.205000
 dann	-	-	-	0:25:36.839000	0:25:39.205000
@@ -2955,9 +2955,9 @@ als	-	-	-	0:26:05.005000	0:26:07.405000
 prämien	-	-	-	0:26:05.005000	0:26:07.405000
 rechnen	-	-	-	0:26:05.005000	0:26:07.405000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:07.405000" end="0:26:07.905000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:07.405000" end="0:26:07.905000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:07.905000" end="0:26:27.430000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:07.905000" end="0:26:27.430000" age_lower="65" age_upper="999">
 und	-	-	-	0:26:07.905000	0:26:09.304000
 war	-	-	-	0:26:07.905000	0:26:09.304000
 verantwortlich	-	-	-	0:26:07.905000	0:26:09.304000
@@ -3018,15 +3018,15 @@ oft	-	-	-	0:26:25.545000	0:26:27.430000
 unterschiedlicher	-	-	-	0:26:25.545000	0:26:27.430000
 Meinung	-	-	-	0:26:25.545000	0:26:27.430000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:27.430000" end="0:26:27.627000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:27.430000" end="0:26:27.627000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:26:27.430000	0:26:27.627000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:27.430000" end="0:26:27.627000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:27.430000" end="0:26:27.627000" age_lower="65" age_upper="999">
 waren	-	-	-	0:26:27.430000	0:26:27.627000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:27.627000" end="0:26:27.825000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:27.627000" end="0:26:27.825000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:27.627000" end="0:26:50.052000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:27.627000" end="0:26:50.052000" age_lower="65" age_upper="999">
 aber	-	-	-	0:26:27.825000	0:26:28.865000
 wie	-	-	-	0:26:28.865000	0:26:29.407000
 gesagt	-	-	-	0:26:28.865000	0:26:29.407000
@@ -3078,9 +3078,9 @@ Verein	-	-	-	0:26:48.205000	0:26:50.052000
 auf	-	-	-	0:26:48.205000	0:26:50.052000
 gegenseitigkeit	-	-	-	0:26:48.205000	0:26:50.052000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:50.052000" end="0:26:50.659000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:50.052000" end="0:26:50.659000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:50.659000" end="0:26:57.445000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:50.659000" end="0:26:57.445000" age_lower="65" age_upper="999">
 das	-	-	-	0:26:50.659000	0:26:53.705000
 ist	-	-	-	0:26:50.659000	0:26:53.705000
 also	-	-	-	0:26:50.659000	0:26:53.705000
@@ -3105,13 +3105,13 @@ als	-	-	-	0:26:53.705000	0:26:57.445000
 ein	-	-	-	0:26:53.705000	0:26:57.445000
 gortenverein	-	-	-	0:26:53.705000	0:26:57.445000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:57.445000" end="0:26:58.305000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:57.445000" end="0:26:58.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:57.845000" end="0:27:00.405000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:57.845000" end="0:27:00.405000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:58.305000" end="0:26:58.431000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:26:58.305000" end="0:26:58.431000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:58.305000" end="0:27:09.465000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:26:58.305000" end="0:27:09.465000" age_lower="65" age_upper="999">
 von	-	-	-	0:26:58.305000	0:26:58.431000
 der	-	-	-	0:26:58.431000	0:27:00.405000
 Art	-	-	-	0:26:58.431000	0:27:00.405000
@@ -3149,31 +3149,31 @@ sie	-	-	-	0:27:08.225000	0:27:09.465000
 eigentlich	-	-	-	0:27:08.225000	0:27:09.465000
 gegründet	-	-	-	0:27:08.225000	0:27:09.465000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:09.465000" end="0:27:10.099000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:09.465000" end="0:27:10.099000" age_lower="1" age_upper="999">
 also	-	-	-	0:27:09.465000	0:27:10.099000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:09.465000" end="0:27:10.099000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:09.465000" end="0:27:10.099000" age_lower="65" age_upper="999">
 damals	-	-	-	0:27:09.465000	0:27:10.099000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:10.099000" end="0:27:11.245000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:10.099000" end="0:27:11.245000" age_lower="1" age_upper="999">
 rechtlich	-	-	-	0:27:10.099000	0:27:10.605000
 geseh	-	-	-	0:27:10.605000	0:27:11.245000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:10.605000" end="0:27:11.245000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:10.605000" end="0:27:11.245000" age_lower="65" age_upper="999">
 bitte	-	-	-	0:27:10.605000	0:27:11.245000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:11.245000" end="0:27:12.379000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:11.245000" end="0:27:12.379000" age_lower="1" age_upper="999">
 en	-	-	-	0:27:11.245000	0:27:11.385000
 rechtlich	-	-	-	0:27:11.385000	0:27:12.379000
 gesehen	-	-	-	0:27:11.385000	0:27:12.379000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:12.379000" end="0:27:13.152000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:12.379000" end="0:27:13.152000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:27:12.379000	0:27:12.798000
 ein	-	-	-	0:27:12.798000	0:27:13.152000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:13.152000" end="0:27:13.425000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:13.152000" end="0:27:13.425000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:13.152000" end="0:27:42.240000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:13.152000" end="0:27:42.240000" age_lower="65" age_upper="999">
 ist	-	-	-	0:27:13.152000	0:27:13.425000
 RECHTSsituation	-	-	-	0:27:13.152000	0:27:13.425000
 rechtssituation	-	-	-	0:27:13.425000	0:27:14.831000
@@ -3245,9 +3245,9 @@ nur	-	-	-	0:27:40.172000	0:27:41.952000
 eine	-	-	-	0:27:40.172000	0:27:41.952000
 vertrogsänderung	-	-	-	0:27:40.172000	0:27:41.952000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:42.240000" end="0:27:42.611000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:27:42.240000" end="0:27:42.611000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:42.240000" end="0:28:05.159000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:27:42.240000" end="0:28:05.159000" age_lower="65" age_upper="999">
 gar	-	-	-	0:27:42.240000	0:27:42.611000
 nix	-	-	-	0:27:42.240000	0:27:42.611000
 und	-	-	-	0:27:42.859000	0:27:44.265000
@@ -3305,9 +3305,9 @@ aufeinander	-	-	-	0:27:59.905000	0:28:05.159000
 getroffen	-	-	-	0:27:59.905000	0:28:05.159000
 sind	-	-	-	0:27:59.905000	0:28:05.159000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:05.159000" end="0:28:05.472000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:05.159000" end="0:28:05.472000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:05.472000" end="0:28:33.519000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:05.472000" end="0:28:33.519000" age_lower="65" age_upper="999">
 wir	-	-	-	0:28:05.472000	0:28:07.952000
 haben	-	-	-	0:28:05.472000	0:28:07.952000
 das	-	-	-	0:28:05.472000	0:28:07.952000
@@ -3397,9 +3397,9 @@ die	-	-	-	0:28:31.992000	0:28:33.226000
 große	-	-	-	0:28:31.992000	0:28:33.226000
 SONSTIGE	SONSTIGE	-	-	0:28:31.992000	0:28:33.226000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:33.519000" end="0:28:34.632000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:33.519000" end="0:28:34.632000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:33.519000" end="0:28:48.305000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:33.519000" end="0:28:48.305000" age_lower="65" age_upper="999">
 waren	-	-	-	0:28:33.519000	0:28:34.632000
 weg	-	-	-	0:28:33.519000	0:28:34.632000
 wirklich	-	-	-	0:28:33.519000	0:28:34.632000
@@ -3442,9 +3442,9 @@ meinen	-	-	-	0:28:46.005000	0:28:48.305000
 Bereich	-	-	-	0:28:46.005000	0:28:48.305000
 halt	-	-	-	0:28:46.005000	0:28:48.305000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:48.305000" end="0:28:48.785000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:28:48.305000" end="0:28:48.785000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:48.785000" end="0:29:14.432000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:28:48.785000" end="0:29:14.432000" age_lower="65" age_upper="999">
 u	-	-	-	0:28:48.785000	0:28:50.352000
 also	-	-	-	0:28:48.785000	0:28:50.352000
 Mitarbeiter	-	-	-	0:28:48.785000	0:28:50.352000
@@ -3515,7 +3515,7 @@ Titel	-	-	-	0:29:12.105000	0:29:14.099000
 als	-	-	-	0:29:12.105000	0:29:14.099000
 SONSTIGE	SONSTIGE	-	-	0:29:12.105000	0:29:14.099000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:14.432000" end="0:29:18.752000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:14.432000" end="0:29:18.752000" age_lower="1" age_upper="999">
 also	-	-	-	0:29:14.432000	0:29:16.482000
 eine	-	-	-	0:29:14.432000	0:29:16.482000
 besserer	-	-	-	0:29:14.432000	0:29:16.482000
@@ -3528,15 +3528,15 @@ viel	-	-	-	0:29:17.772000	0:29:18.752000
 mehr	-	-	-	0:29:17.772000	0:29:18.752000
 davon	-	-	-	0:29:17.772000	0:29:18.752000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:17.772000" end="0:29:18.752000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:17.772000" end="0:29:18.752000" age_lower="65" age_upper="999">
 da	-	-	-	0:29:17.772000	0:29:18.752000
 da	-	-	-	0:29:17.772000	0:29:18.752000
 Status	-	-	-	0:29:17.772000	0:29:18.752000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:18.752000" end="0:29:18.999000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:18.752000" end="0:29:18.999000" age_lower="1" age_upper="999">
 hat	-	-	-	0:29:18.752000	0:29:18.999000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:18.999000" end="0:29:31.845000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:18.999000" end="0:29:31.845000" age_lower="65" age_upper="999">
 äh	-	-	-	0:29:19.205000	0:29:19.805000
 ich	-	-	-	0:29:19.805000	0:29:23.332000
 bin	-	-	-	0:29:19.805000	0:29:23.332000
@@ -3569,9 +3569,9 @@ meinem	-	-	-	0:29:30.505000	0:29:31.845000
 Job	-	-	-	0:29:30.505000	0:29:31.845000
 mache	-	-	-	0:29:30.505000	0:29:31.845000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:31.845000" end="0:29:32.305000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:29:31.845000" end="0:29:32.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:32.305000" end="0:30:06.259000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:29:32.305000" end="0:30:06.259000" age_lower="65" age_upper="999">
 und	-	-	-	0:29:32.305000	0:29:34.572000
 und	-	-	-	0:29:32.305000	0:29:34.572000
 äh	-	-	-	0:29:32.305000	0:29:34.572000
@@ -3683,9 +3683,9 @@ sein	-	-	-	0:30:02.705000	0:30:05.905000
 <<kichernd>von	-	-	-	0:30:02.705000	0:30:05.905000
 wem;>	-	-	-	0:30:02.705000	0:30:05.905000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:06.259000" end="0:30:06.432000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:06.259000" end="0:30:06.432000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:06.259000" end="0:30:27.892000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:06.259000" end="0:30:27.892000" age_lower="65" age_upper="999">
 und	-	-	-	0:30:06.432000	0:30:08.799000
 kommt	-	-	-	0:30:06.432000	0:30:08.799000
 da	-	-	-	0:30:06.432000	0:30:08.799000
@@ -3757,14 +3757,14 @@ sich	-	-	-	0:30:26.805000	0:30:27.892000
 keine	-	-	-	0:30:26.805000	0:30:27.892000
 gmer	-	-	-	0:30:26.805000	0:30:27.892000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:27.892000" end="0:30:28.052000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:27.892000" end="0:30:28.052000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:27.892000" end="0:30:28.052000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:27.892000" end="0:30:28.052000" age_lower="65" age_upper="999">
 kt	-	-	-	0:30:27.892000	0:30:28.052000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:28.052000" end="0:30:28.239000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:28.052000" end="0:30:28.239000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:28.239000" end="0:30:40.841000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:28.239000" end="0:30:40.841000" age_lower="65" age_upper="999">
 wissen	-	-	-	0:30:28.239000	0:30:29.565000
 es	-	-	-	0:30:28.239000	0:30:29.565000
 Herr	-	-	-	0:30:28.239000	0:30:29.565000
@@ -3808,9 +3808,9 @@ Herr	-	-	-	0:30:38.505000	0:30:40.841000
 Dings	-	-	-	0:30:38.505000	0:30:40.841000
 ghaßen	-	-	-	0:30:38.505000	0:30:40.841000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:40.841000" end="0:30:41.305000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:30:40.841000" end="0:30:41.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:40.841000" end="0:32:58.805000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:30:40.841000" end="0:32:58.805000" age_lower="65" age_upper="999">
 d	-	-	-	0:30:40.841000	0:30:41.305000
 nicht	-	-	-	0:30:40.841000	0:30:41.305000
 d	-	-	-	0:30:41.305000	0:30:42.145000
@@ -4207,9 +4207,9 @@ das	-	-	-	0:32:53.205000	0:32:58.805000
 westliche	-	-	-	0:32:53.205000	0:32:58.805000
 ORT	ORT	-	-	0:32:53.205000	0:32:58.805000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:58.805000" end="0:32:59.505000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:32:58.805000" end="0:32:59.505000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:59.505000" end="0:33:28.905000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:32:59.505000" end="0:33:28.905000" age_lower="65" age_upper="999">
 weil	-	-	-	0:32:59.505000	0:33:00.956000
 die	-	-	-	0:32:59.505000	0:33:00.956000
 haben	-	-	-	0:32:59.505000	0:33:00.956000
@@ -4305,9 +4305,9 @@ SONSTIGE	SONSTIGE	-	-	0:33:26.058000	0:33:28.405000
 hinausgeschmissen	-	-	-	0:33:26.058000	0:33:28.405000
 und	-	-	-	0:33:28.405000	0:33:28.905000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:28.905000" end="0:33:29.405000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:33:28.905000" end="0:33:29.405000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:28.905000" end="0:34:27.578000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:33:28.905000" end="0:34:27.578000" age_lower="65" age_upper="999">
 der	-	-	-	0:33:28.905000	0:33:29.405000
 letzte	-	-	-	0:33:28.905000	0:33:29.405000
 war	-	-	-	0:33:29.405000	0:33:30.125000
@@ -4471,9 +4471,9 @@ gedauert	-	-	-	0:34:25.891000	0:34:27.578000
 also	-	-	-	0:34:25.891000	0:34:27.578000
 die	-	-	-	0:34:25.891000	0:34:27.578000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:27.578000" end="0:34:27.938000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:34:27.578000" end="0:34:27.938000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:27.578000" end="0:35:14.338000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:34:27.578000" end="0:35:14.338000" age_lower="65" age_upper="999">
 waren	-	-	-	0:34:27.578000	0:34:27.938000
 f	-	-	-	0:34:27.578000	0:34:27.938000
 mindestens	-	-	-	0:34:27.938000	0:34:29.829000
@@ -4610,10 +4610,10 @@ gegeben	-	-	-	0:35:09.705000	0:35:13.285000
 dieses	-	-	-	0:35:13.285000	0:35:14.338000
 Viertel	-	-	-	0:35:13.285000	0:35:14.338000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:14.338000" end="0:35:15.005000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:14.338000" end="0:35:15.005000" age_lower="1" age_upper="999">
 hm	-	-	-	0:35:14.338000	0:35:14.738000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:14.738000" end="0:35:36.738000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:14.738000" end="0:35:36.738000" age_lower="65" age_upper="999">
 d	-	-	-	0:35:14.738000	0:35:15.005000
 o	-	-	-	0:35:15.005000	0:35:16.338000
 hat	-	-	-	0:35:15.005000	0:35:16.338000
@@ -4683,9 +4683,9 @@ ist	-	-	-	0:35:34.918000	0:35:36.738000
 wenn	-	-	-	0:35:34.918000	0:35:36.738000
 ch	-	-	-	0:35:34.918000	0:35:36.738000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:36.738000" end="0:35:37.058000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:36.738000" end="0:35:37.058000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:36.738000" end="0:35:41.345000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:36.738000" end="0:35:41.345000" age_lower="65" age_upper="999">
 so	-	-	-	0:35:36.738000	0:35:37.058000
 woll	-	-	-	0:35:36.738000	0:35:37.058000
 vo_	-	-	-	0:35:37.058000	0:35:37.192000
@@ -4706,9 +4706,9 @@ seine	-	-	-	0:35:40.345000	0:35:41.345000
 würde	-	-	-	0:35:40.345000	0:35:41.345000
 war	-	-	-	0:35:40.345000	0:35:41.345000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:41.345000" end="0:35:41.595000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:35:41.345000" end="0:35:41.595000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:41.345000" end="0:36:06.818000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:35:41.345000" end="0:36:06.818000" age_lower="65" age_upper="999">
 da	-	-	-	0:35:41.345000	0:35:41.595000
 t	-	-	-	0:35:41.345000	0:35:41.595000
 passend	-	-	-	0:35:41.595000	0:35:42.012000
@@ -4778,9 +4778,9 @@ nicht	-	-	-	0:36:03.632000	0:36:03.932000
 bin	-	-	-	0:36:03.932000	0:36:06.818000
 hingifohren	-	-	-	0:36:03.932000	0:36:06.818000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:06.818000" end="0:36:07.029000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:06.818000" end="0:36:07.029000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:06.818000" end="0:36:13.552000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:06.818000" end="0:36:13.552000" age_lower="65" age_upper="999">
 einmal	-	-	-	0:36:07.029000	0:36:07.578000
 zu	-	-	-	0:36:07.029000	0:36:07.578000
 ihm	-	-	-	0:36:07.029000	0:36:07.578000
@@ -4800,9 +4800,9 @@ Stunden	-	-	-	0:36:10.345000	0:36:12.132000
 derortig	-	-	-	0:36:12.132000	0:36:13.552000
 umgedreht	-	-	-	0:36:12.132000	0:36:13.552000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:13.552000" end="0:36:14.065000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:13.552000" end="0:36:14.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:14.065000" end="0:36:19.358000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:14.065000" end="0:36:19.358000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:36:14.065000	0:36:16.812000
 dass	-	-	-	0:36:14.065000	0:36:16.812000
 ich	-	-	-	0:36:14.065000	0:36:16.812000
@@ -4822,14 +4822,14 @@ auch	-	-	-	0:36:16.812000	0:36:19.284000
 weg	-	-	-	0:36:16.812000	0:36:19.284000
 et	-	-	-	0:36:19.284000	0:36:19.358000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:19.358000" end="0:36:19.558000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:19.358000" end="0:36:19.558000" age_lower="1" age_upper="999">
 hm	-	-	-	0:36:19.358000	0:36:19.558000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:19.358000" end="0:36:19.558000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:19.358000" end="0:36:19.558000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:19.558000" end="0:36:19.825000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:19.558000" end="0:36:19.825000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:19.825000" end="0:36:42.205000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:19.825000" end="0:36:42.205000" age_lower="65" age_upper="999">
 und	-	-	-	0:36:19.825000	0:36:26.725000
 ah	-	-	-	0:36:19.825000	0:36:26.725000
 habe	-	-	-	0:36:19.825000	0:36:26.725000
@@ -4889,9 +4889,9 @@ Schweiz	-	-	-	0:36:39.518000	0:36:42.016000
 gesessen	-	-	-	0:36:39.518000	0:36:42.016000
 nicht	-	-	-	0:36:42.016000	0:36:42.205000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:42.205000" end="0:36:42.499000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:36:42.205000" end="0:36:42.499000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:42.205000" end="0:37:06.318000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:36:42.205000" end="0:37:06.318000" age_lower="65" age_upper="999">
 der	-	-	-	0:36:42.205000	0:36:42.499000
 wohnt	-	-	-	0:36:42.205000	0:36:42.499000
 in	-	-	-	0:36:42.205000	0:36:42.499000
@@ -4947,9 +4947,9 @@ SONSTIGE	SONSTIGE	-	-	0:37:00.638000	0:37:06.318000
 der	-	-	-	0:37:00.638000	0:37:06.318000
 sachsparten	-	-	-	0:37:00.638000	0:37:06.318000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:06.318000" end="0:37:07.072000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:37:06.318000" end="0:37:07.072000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:06.318000" end="0:38:05.512000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:37:06.318000" end="0:38:05.512000" age_lower="65" age_upper="999">
 das	-	-	-	0:37:06.318000	0:37:07.072000
 ist	-	-	-	0:37:06.318000	0:37:07.072000
 SONSTIGE	SONSTIGE	-	-	0:37:07.072000	0:37:07.905000
@@ -5111,18 +5111,18 @@ ich	-	-	-	0:38:03.612000	0:38:05.512000
 jetzt	-	-	-	0:38:03.612000	0:38:05.512000
 Sie	-	-	-	0:38:03.612000	0:38:05.512000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:05.512000" end="0:38:06.158000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:05.512000" end="0:38:06.158000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:05.512000" end="0:38:06.972000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:05.512000" end="0:38:06.972000" age_lower="65" age_upper="999">
 das	-	-	-	0:38:05.512000	0:38:06.158000
 wo	-	-	-	0:38:05.512000	0:38:06.158000
 ren	-	-	-	0:38:06.158000	0:38:06.972000
 seine	-	-	-	0:38:06.158000	0:38:06.972000
 Worte	-	-	-	0:38:06.158000	0:38:06.972000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:06.972000" end="0:38:07.272000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:06.972000" end="0:38:07.272000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:06.972000" end="0:38:37.085000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:06.972000" end="0:38:37.085000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:38:06.972000	0:38:07.272000
 gut	-	-	-	0:38:07.272000	0:38:09.138000
 und	-	-	-	0:38:09.138000	0:38:11.485000
@@ -5199,9 +5199,9 @@ eine	-	-	-	0:38:35.492000	0:38:37.085000
 Prüfung	-	-	-	0:38:35.492000	0:38:37.085000
 ablegen	-	-	-	0:38:35.492000	0:38:37.085000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:37.085000" end="0:38:37.685000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:37.085000" end="0:38:37.685000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:37.685000" end="0:38:55.943000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:37.685000" end="0:38:55.943000" age_lower="65" age_upper="999">
 eine	-	-	-	0:38:37.685000	0:38:43.458000
 Prüfung	-	-	-	0:38:37.685000	0:38:43.458000
 die	-	-	-	0:38:37.685000	0:38:43.458000
@@ -5257,10 +5257,10 @@ nein	-	-	-	0:38:55.452000	0:38:55.645000
 das	-	-	-	0:38:55.645000	0:38:55.943000
 ist	-	-	-	0:38:55.645000	0:38:55.943000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:55.943000" end="0:38:56.198000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:38:55.943000" end="0:38:56.198000" age_lower="1" age_upper="999">
 ah	-	-	-	0:38:55.943000	0:38:56.198000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:55.943000" end="0:39:06.405000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:38:55.943000" end="0:39:06.405000" age_lower="65" age_upper="999">
 aber	-	-	-	0:38:55.943000	0:38:56.198000
 da	-	-	-	0:38:56.198000	0:38:59.832000
 hat	-	-	-	0:38:56.198000	0:38:59.832000
@@ -5298,10 +5298,10 @@ schon	-	-	-	0:39:04.985000	0:39:06.405000
 ziemlich	-	-	-	0:39:04.985000	0:39:06.405000
 viel	-	-	-	0:39:04.985000	0:39:06.405000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:06.405000" end="0:39:07.365000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:06.405000" end="0:39:07.365000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:39:06.405000	0:39:07.165000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:07.165000" end="0:39:30.632000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:07.165000" end="0:39:30.632000" age_lower="65" age_upper="999">
 un	-	-	-	0:39:07.165000	0:39:07.365000
 d	-	-	-	0:39:07.365000	0:39:11.125000
 dazu	-	-	-	0:39:07.365000	0:39:11.125000
@@ -5361,9 +5361,9 @@ viel	-	-	-	0:39:28.392000	0:39:30.232000
 Stress	-	-	-	0:39:28.392000	0:39:30.232000
 heute	-	-	-	0:39:30.232000	0:39:30.632000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:30.632000" end="0:39:31.132000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:30.632000" end="0:39:31.132000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:30.632000" end="0:39:51.470000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:30.632000" end="0:39:51.470000" age_lower="65" age_upper="999">
 würden	-	-	-	0:39:30.632000	0:39:31.132000
 es	-	-	-	0:39:30.632000	0:39:31.132000
 wahrschein	-	-	-	0:39:30.632000	0:39:31.132000
@@ -5428,9 +5428,9 @@ wie	-	-	-	0:39:49.545000	0:39:51.470000
 ein	-	-	-	0:39:49.545000	0:39:51.470000
 fümfazwanzg	-	-	-	0:39:49.545000	0:39:51.470000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:51.470000" end="0:39:51.872000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:51.470000" end="0:39:51.872000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:51.470000" end="0:39:56.638000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:51.470000" end="0:39:56.638000" age_lower="65" age_upper="999">
 jähriger	-	-	-	0:39:51.470000	0:39:51.872000
 wortwertlich	-	-	-	0:39:51.872000	0:39:52.818000
 nan	-	-	-	0:39:52.818000	0:39:53.158000
@@ -5448,9 +5448,9 @@ Zeit	-	-	-	0:39:54.152000	0:39:56.638000
 wirklich	-	-	-	0:39:54.152000	0:39:56.638000
 ausgefallen	-	-	-	0:39:54.152000	0:39:56.638000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:56.638000" end="0:39:57.345000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:39:56.638000" end="0:39:57.345000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:57.345000" end="0:40:03.598000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:39:57.345000" end="0:40:03.598000" age_lower="65" age_upper="999">
 und	-	-	-	0:39:57.345000	0:39:59.098000
 äh	-	-	-	0:39:57.345000	0:39:59.098000
 habe	-	-	-	0:39:57.345000	0:39:59.098000
@@ -5473,9 +5473,9 @@ ich	-	-	-	0:40:00.798000	0:40:03.598000
 mich	-	-	-	0:40:00.798000	0:40:03.598000
 wieder	-	-	-	0:40:00.798000	0:40:03.598000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:03.598000" end="0:40:03.958000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:03.598000" end="0:40:03.958000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:03.598000" end="0:40:36.345000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:03.598000" end="0:40:36.345000" age_lower="65" age_upper="999">
 in	-	-	-	0:40:03.598000	0:40:03.958000
 Schuss	-	-	-	0:40:03.598000	0:40:03.958000
 gebracht	-	-	-	0:40:03.958000	0:40:04.438000
@@ -5569,9 +5569,9 @@ da	-	-	-	0:40:33.718000	0:40:36.345000
 Marketing	-	-	-	0:40:33.718000	0:40:36.345000
 Chef	-	-	-	0:40:33.718000	0:40:36.345000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:36.345000" end="0:40:37.178000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:36.345000" end="0:40:37.178000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:36.345000" end="0:40:40.485000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:36.345000" end="0:40:40.485000" age_lower="65" age_upper="999">
 in	-	-	-	0:40:36.345000	0:40:37.178000
 unserem	-	-	-	0:40:36.345000	0:40:37.178000
 direkten	-	-	-	0:40:37.178000	0:40:38.832000
@@ -5584,11 +5584,11 @@ uns	-	-	-	0:40:38.832000	0:40:40.485000
 bestens	-	-	-	0:40:38.832000	0:40:40.485000
 verstanden	-	-	-	0:40:38.832000	0:40:40.485000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:40.485000" end="0:40:40.912000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:40:40.485000" end="0:40:40.912000" age_lower="1" age_upper="999">
 ah	-	-	-	0:40:40.485000	0:40:40.912000
 ja	-	-	-	0:40:40.485000	0:40:40.912000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:40.485000" end="0:41:09.038000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:40:40.485000" end="0:41:09.038000" age_lower="65" age_upper="999">
 bis	-	-	-	0:40:40.485000	0:40:40.912000
 heute	-	-	-	0:40:40.485000	0:40:40.912000
 wir	-	-	-	0:40:40.912000	0:40:42.805000
@@ -5672,10 +5672,10 @@ ein	-	-	-	0:41:06.605000	0:41:09.038000
 harte	-	-	-	0:41:06.605000	0:41:09.038000
 Sache	-	-	-	0:41:06.605000	0:41:09.038000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:09.038000" end="0:41:09.792000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:09.038000" end="0:41:09.792000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:41:09.038000	0:41:09.452000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:09.452000" end="0:41:16.238000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:09.452000" end="0:41:16.238000" age_lower="65" age_upper="999">
 ich	-	-	-	0:41:09.452000	0:41:09.792000
 habe	-	-	-	0:41:09.452000	0:41:09.792000
 Jahre	-	-	-	0:41:09.792000	0:41:10.732000
@@ -5696,15 +5696,15 @@ am	-	-	-	0:41:10.732000	0:41:16.238000
 dienstwogen	-	-	-	0:41:10.732000	0:41:16.238000
 darauf	-	-	-	0:41:10.732000	0:41:16.238000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:16.238000" end="0:41:16.592000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:16.238000" end="0:41:16.592000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:16.238000" end="0:41:16.592000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:16.238000" end="0:41:16.592000" age_lower="65" age_upper="999">
 gehabt	-	-	-	0:41:16.238000	0:41:16.592000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:16.592000" end="0:41:17.632000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:16.592000" end="0:41:17.632000" age_lower="1" age_upper="999">
 Wahnsinn	-	-	-	0:41:16.592000	0:41:17.632000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:16.592000" end="0:41:29.605000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:16.592000" end="0:41:29.605000" age_lower="65" age_upper="999">
 ich	-	-	-	0:41:16.592000	0:41:17.632000
 habe	-	-	-	0:41:16.592000	0:41:17.632000
 olle	-	-	-	0:41:16.592000	0:41:17.632000
@@ -5753,9 +5753,9 @@ gemacht	-	-	-	0:41:27.632000	0:41:29.358000
 und	-	-	-	0:41:29.358000	0:41:29.605000
 hat	-	-	-	0:41:29.358000	0:41:29.605000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:29.605000" end="0:41:30.012000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:41:29.605000" end="0:41:30.012000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:29.605000" end="0:42:54.205000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:41:29.605000" end="0:42:54.205000" age_lower="65" age_upper="999">
 mich	-	-	-	0:41:29.605000	0:41:30.012000
 auch	-	-	-	0:41:29.605000	0:41:30.012000
 es	-	-	-	0:41:29.605000	0:41:30.012000
@@ -6027,9 +6027,9 @@ Antrag	-	-	-	0:42:50.225000	0:42:54.205000
 zerrissen	-	-	-	0:42:50.225000	0:42:54.205000
 hat	-	-	-	0:42:50.225000	0:42:54.205000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:42:54.205000" end="0:42:54.565000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:42:54.205000" end="0:42:54.565000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:54.205000" end="0:42:59.825000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:54.205000" end="0:42:59.825000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:42:54.205000	0:42:54.565000
 gut	-	-	-	0:42:54.565000	0:42:55.692000
 war	-	-	-	0:42:55.692000	0:42:57.645000
@@ -6045,16 +6045,16 @@ eigentlich	-	-	-	0:42:57.645000	0:42:59.825000
 gut	-	-	-	0:42:57.645000	0:42:59.825000
 mitzammen	-	-	-	0:42:57.645000	0:42:59.825000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:42:59.825000" end="0:43:00.638000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:42:59.825000" end="0:43:00.638000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:59.825000" end="0:43:00.998000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:42:59.825000" end="0:43:00.998000" age_lower="65" age_upper="999">
 gearbeitet	-	-	-	0:42:59.825000	0:43:00.638000
 also	-	-	-	0:43:00.638000	0:43:00.998000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:00.998000" end="0:43:01.792000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:00.998000" end="0:43:01.792000" age_lower="1" age_upper="999">
 ts	-	-	-	0:43:00.998000	0:43:01.792000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:00.998000" end="0:43:59.751000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:00.998000" end="0:43:59.751000" age_lower="65" age_upper="999">
 bestes	-	-	-	0:43:00.998000	0:43:01.792000
 ein	-	-	-	0:43:01.792000	0:43:02.698000
 und	-	-	-	0:43:01.792000	0:43:02.698000
@@ -6246,15 +6246,15 @@ weiter	-	-	-	0:43:58.905000	0:43:59.438000
 so	-	-	-	0:43:59.438000	0:43:59.751000
 f	-	-	-	0:43:59.438000	0:43:59.751000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:59.751000" end="0:43:59.985000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:59.751000" end="0:43:59.985000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:43:59.751000	0:43:59.985000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:59.751000" end="0:43:59.985000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:59.751000" end="0:43:59.985000" age_lower="65" age_upper="999">
 Ort	-	-	-	0:43:59.751000	0:43:59.985000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:59.985000" end="0:44:00.218000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:43:59.985000" end="0:44:00.218000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:59.985000" end="0:44:36.778000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:43:59.985000" end="0:44:36.778000" age_lower="65" age_upper="999">
 nein	-	-	-	0:43:59.985000	0:44:00.218000
 und	-	-	-	0:44:00.218000	0:44:03.865000
 plötzlich	-	-	-	0:44:00.218000	0:44:03.865000
@@ -6388,9 +6388,9 @@ gesagt	-	-	-	0:44:34.558000	0:44:36.551000
 hat	-	-	-	0:44:34.558000	0:44:36.551000
 nan	-	-	-	0:44:36.551000	0:44:36.778000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:44:36.778000" end="0:44:37.331000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:44:36.778000" end="0:44:37.331000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:37.185000" end="0:45:08.458000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:44:37.185000" end="0:45:08.458000" age_lower="65" age_upper="999">
 ein	-	-	-	0:44:37.185000	0:44:37.331000
 ein	-	-	-	0:44:37.331000	0:44:39.311000
 und	-	-	-	0:44:37.331000	0:44:39.311000
@@ -6502,14 +6502,14 @@ mir	-	-	-	0:45:07.131000	0:45:08.258000
 egal	-	-	-	0:45:07.131000	0:45:08.258000
 nicht	-	-	-	0:45:08.258000	0:45:08.458000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:08.458000" end="0:45:08.585000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:08.458000" end="0:45:08.585000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:08.458000" end="0:45:08.585000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:08.458000" end="0:45:08.585000" age_lower="65" age_upper="999">
 t	-	-	-	0:45:08.458000	0:45:08.585000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:08.585000" end="0:45:08.951000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:08.585000" end="0:45:08.951000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:08.951000" end="0:45:13.258000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:08.951000" end="0:45:13.258000" age_lower="65" age_upper="999">
 nur	-	-	-	0:45:08.951000	0:45:11.405000
 ist	-	-	-	0:45:08.951000	0:45:11.405000
 das	-	-	-	0:45:08.951000	0:45:11.405000
@@ -6529,12 +6529,12 @@ die	-	-	-	0:45:11.405000	0:45:13.258000
 Augen	-	-	-	0:45:11.405000	0:45:13.258000
 schauen	-	-	-	0:45:11.405000	0:45:13.258000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:13.258000" end="0:45:13.631000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:13.258000" end="0:45:13.631000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:13.383000" end="0:45:13.631000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:13.383000" end="0:45:13.631000" age_lower="65" age_upper="999">
 einen	-	-	-	0:45:13.383000	0:45:13.631000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:13.631000" end="0:45:16.005000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:13.631000" end="0:45:16.005000" age_lower="1" age_upper="999">
 er	-	-	-	0:45:13.631000	0:45:15.465000
 hat	-	-	-	0:45:13.631000	0:45:15.465000
 das	-	-	-	0:45:13.631000	0:45:15.465000
@@ -6546,13 +6546,13 @@ dire	-	-	-	0:45:13.631000	0:45:15.465000
 kt	-	-	-	0:45:15.465000	0:45:16.005000
 an	-	-	-	0:45:15.465000	0:45:16.005000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:15.465000" end="0:45:16.005000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:15.465000" end="0:45:16.005000" age_lower="65" age_upper="999">
 nichts	-	-	-	0:45:15.465000	0:45:16.005000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:16.005000" end="0:45:16.538000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:16.005000" end="0:45:16.538000" age_lower="1" age_upper="999">
 gesprochen	-	-	-	0:45:16.005000	0:45:16.538000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:16.005000" end="0:45:25.185000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:16.005000" end="0:45:25.185000" age_lower="65" age_upper="999">
 nie	-	-	-	0:45:16.005000	0:45:16.538000
 e	-	-	-	0:45:16.005000	0:45:16.538000
 twas	-	-	-	0:45:16.538000	0:45:17.018000
@@ -6585,9 +6585,9 @@ auch	-	-	-	0:45:24.038000	0:45:24.978000
 dabei	-	-	-	0:45:24.038000	0:45:24.978000
 ge	-	-	-	0:45:24.978000	0:45:25.185000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:25.185000" end="0:45:25.465000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:25.185000" end="0:45:25.465000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:25.185000" end="0:45:52.578000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:25.185000" end="0:45:52.578000" age_lower="65" age_upper="999">
 Wesen	-	-	-	0:45:25.185000	0:45:25.465000
 im	-	-	-	0:45:25.465000	0:45:26.978000
 normalen	-	-	-	0:45:25.465000	0:45:26.978000
@@ -6685,9 +6685,9 @@ wieder	-	-	-	0:45:50.565000	0:45:52.578000
 einen	-	-	-	0:45:50.565000	0:45:52.578000
 K	-	-	-	0:45:50.565000	0:45:52.578000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:52.578000" end="0:45:52.958000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:45:52.578000" end="0:45:52.958000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:52.578000" end="0:46:08.445000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:45:52.578000" end="0:46:08.445000" age_lower="65" age_upper="999">
 opf	-	-	-	0:45:52.578000	0:45:52.958000
 o	-	-	-	0:45:52.578000	0:45:52.958000
 er	-	-	-	0:45:52.578000	0:45:52.958000
@@ -6754,10 +6754,10 @@ dann	-	-	-	0:46:06.371000	0:46:08.191000
 eskaliert	-	-	-	0:46:06.371000	0:46:08.191000
 nicht	-	-	-	0:46:08.191000	0:46:08.445000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:08.445000" end="0:46:09.091000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:08.445000" end="0:46:09.091000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:46:08.445000	0:46:08.811000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:46:08.811000" end="0:46:38.898000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:46:08.811000" end="0:46:38.898000" age_lower="65" age_upper="999">
 und	-	-	-	0:46:08.811000	0:46:09.091000
 mein	-	-	-	0:46:09.091000	0:46:10.678000
 Chef	-	-	-	0:46:09.091000	0:46:10.678000
@@ -6851,9 +6851,9 @@ zu	-	-	-	0:46:36.331000	0:46:38.898000
 Hause	-	-	-	0:46:36.331000	0:46:38.898000
 gewesen	-	-	-	0:46:36.331000	0:46:38.898000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:38.898000" end="0:46:39.811000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:46:38.898000" end="0:46:39.811000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:46:39.705000" end="0:47:03.485000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:46:39.705000" end="0:47:03.485000" age_lower="65" age_upper="999">
 ein	-	-	-	0:46:39.705000	0:46:39.811000
 paar	-	-	-	0:46:39.811000	0:46:40.645000
 Tage	-	-	-	0:46:39.811000	0:46:40.645000
@@ -6931,15 +6931,15 @@ ich	-	-	-	0:47:02.025000	0:47:03.485000
 gestanden	-	-	-	0:47:02.025000	0:47:03.485000
 bi	-	-	-	0:47:02.025000	0:47:03.485000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:03.485000" end="0:47:03.638000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:03.485000" end="0:47:03.638000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:47:03.485000	0:47:03.638000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:03.485000" end="0:47:03.638000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:03.485000" end="0:47:03.638000" age_lower="65" age_upper="999">
 ein	-	-	-	0:47:03.485000	0:47:03.638000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:03.638000" end="0:47:03.965000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:03.638000" end="0:47:03.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:03.638000" end="0:47:23.378000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:03.638000" end="0:47:23.378000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:47:03.638000	0:47:03.965000
 SONSTIGE	SONSTIGE	-	-	0:47:04.725000	0:47:05.511000
 eine	-	-	-	0:47:05.511000	0:47:05.678000
@@ -7002,9 +7002,9 @@ kein	-	-	-	0:47:21.911000	0:47:23.225000
 Problem	-	-	-	0:47:21.911000	0:47:23.225000
 nicht	-	-	-	0:47:23.225000	0:47:23.378000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:23.378000" end="0:47:23.691000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:23.378000" end="0:47:23.691000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:23.378000" end="0:47:35.558000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:23.378000" end="0:47:35.558000" age_lower="65" age_upper="999">
 t	-	-	-	0:47:23.378000	0:47:23.691000
 und	-	-	-	0:47:23.691000	0:47:26.238000
 so	-	-	-	0:47:23.691000	0:47:26.238000
@@ -7044,10 +7044,10 @@ zwei	-	-	-	0:47:33.845000	0:47:35.558000
 Kinder	-	-	-	0:47:33.845000	0:47:35.558000
 gehabt	-	-	-	0:47:33.845000	0:47:35.558000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:35.558000" end="0:47:36.198000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:35.558000" end="0:47:36.198000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:47:35.558000	0:47:35.865000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:35.865000" end="0:47:45.378000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:35.865000" end="0:47:45.378000" age_lower="65" age_upper="999">
 zwa	-	-	-	0:47:35.865000	0:47:36.198000
 Klasse	-	-	-	0:47:36.198000	0:47:37.291000
 Kinder	-	-	-	0:47:36.198000	0:47:37.291000
@@ -7070,9 +7070,9 @@ bin	-	-	-	0:47:41.811000	0:47:45.378000
 ein	-	-	-	0:47:41.811000	0:47:45.378000
 eisenbahnnarr	-	-	-	0:47:41.811000	0:47:45.378000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:45.378000" end="0:47:46.058000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:45.378000" end="0:47:46.058000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:46.058000" end="0:47:51.831000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:46.058000" end="0:47:51.831000" age_lower="65" age_upper="999">
 muss	-	-	-	0:47:46.058000	0:47:47.031000
 ich	-	-	-	0:47:46.058000	0:47:47.031000
 ehrlich	-	-	-	0:47:46.058000	0:47:47.031000
@@ -7090,39 +7090,39 @@ Teil	-	-	-	0:47:50.045000	0:47:51.831000
 da	-	-	-	0:47:50.045000	0:47:51.831000
 eh	-	-	-	0:47:50.045000	0:47:51.831000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:51.831000" end="0:47:52.478000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:51.831000" end="0:47:52.478000" age_lower="1" age_upper="999">
 ah	-	-	-	0:47:51.831000	0:47:52.478000
 ja	-	-	-	0:47:51.831000	0:47:52.478000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:51.831000" end="0:47:52.478000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:51.831000" end="0:47:52.478000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:47:52.478000" end="0:47:52.818000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:47:52.478000" end="0:47:52.818000" age_lower="1" age_upper="999">
 das	-	-	-	0:47:52.478000	0:47:52.818000
 ein	-	-	-	0:47:52.478000	0:47:52.818000
 es	-	-	-	0:47:52.478000	0:47:52.818000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:52.478000" end="0:47:52.818000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:52.478000" end="0:47:52.818000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:47:52.818000" end="0:47:53.391000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:47:52.818000" end="0:47:53.391000" age_lower="1" age_upper="999">
 pielzeug	-	-	-	0:47:52.818000	0:47:53.391000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:52.818000" end="0:47:53.391000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:52.818000" end="0:47:53.391000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:47:53.391000" end="0:47:54.631000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:47:53.391000" end="0:47:54.631000" age_lower="1" age_upper="999">
 das	-	-	-	0:47:53.391000	0:47:54.631000
 sind	-	-	-	0:47:53.391000	0:47:54.631000
 spielzeugsochen	-	-	-	0:47:53.391000	0:47:54.631000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:54.005000" end="0:47:54.631000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:54.005000" end="0:47:54.631000" age_lower="65" age_upper="999">
 da	-	-	-	0:47:54.005000	0:47:54.631000
 oben	-	-	-	0:47:54.005000	0:47:54.631000
 steht	-	-	-	0:47:54.005000	0:47:54.631000
 ein	-	-	-	0:47:54.005000	0:47:54.631000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:54.631000" end="0:47:55.525000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:54.631000" end="0:47:55.525000" age_lower="1" age_upper="999">
 ein	-	-	-	0:47:54.631000	0:47:55.525000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:54.631000" end="0:47:56.431000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:54.631000" end="0:47:56.431000" age_lower="65" age_upper="999">
 eine	-	-	-	0:47:54.631000	0:47:55.525000
 große	-	-	-	0:47:54.631000	0:47:55.525000
 lock	-	-	-	0:47:54.631000	0:47:55.525000
@@ -7133,20 +7133,20 @@ von	-	-	-	0:47:55.525000	0:47:56.431000
 jetzt	-	-	-	0:47:55.525000	0:47:56.431000
 nicht	-	-	-	0:47:55.525000	0:47:56.431000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:56.431000" end="0:47:56.951000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:56.431000" end="0:47:56.951000" age_lower="1" age_upper="999">
 ah	-	-	-	0:47:56.431000	0:47:56.951000
 ja	-	-	-	0:47:56.431000	0:47:56.951000
 ja	-	-	-	0:47:56.431000	0:47:56.951000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:56.431000" end="0:47:57.240000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:56.431000" end="0:47:57.240000" age_lower="65" age_upper="999">
 dass	-	-	-	0:47:56.431000	0:47:56.951000
 dich	-	-	-	0:47:56.431000	0:47:56.951000
 dass	-	-	-	0:47:56.951000	0:47:57.240000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:57.240000" end="0:47:57.471000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:47:57.240000" end="0:47:57.471000" age_lower="1" age_upper="999">
 doch	-	-	-	0:47:57.240000	0:47:57.471000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:57.240000" end="0:48:04.871000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:47:57.240000" end="0:48:04.871000" age_lower="65" age_upper="999">
 die	-	-	-	0:47:57.240000	0:47:57.471000
 die	-	-	-	0:47:57.471000	0:48:00.818000
 perle	-	-	-	0:47:57.471000	0:48:00.818000
@@ -7170,9 +7170,9 @@ noch	-	-	-	0:48:00.818000	0:48:04.871000
 eine	-	-	-	0:48:00.818000	0:48:04.871000
 Wohnung	-	-	-	0:48:00.818000	0:48:04.871000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:04.871000" end="0:48:05.511000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:04.871000" end="0:48:05.511000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:05.511000" end="0:48:07.511000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:05.511000" end="0:48:07.511000" age_lower="65" age_upper="999">
 die	-	-	-	0:48:05.511000	0:48:06.738000
 gehört	-	-	-	0:48:05.511000	0:48:06.738000
 nur	-	-	-	0:48:05.511000	0:48:06.738000
@@ -7181,7 +7181,7 @@ Eisenbahn	-	-	-	0:48:05.511000	0:48:06.738000
 da	-	-	-	0:48:06.738000	0:48:07.511000
 modellbahn	-	-	-	0:48:06.738000	0:48:07.511000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:07.511000" end="0:48:09.511000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:07.511000" end="0:48:09.511000" age_lower="1" age_upper="999">
 aso	-	-	-	0:48:07.511000	0:48:08.780000
 da	-	-	-	0:48:07.511000	0:48:08.780000
 haben	-	-	-	0:48:07.511000	0:48:08.780000
@@ -7191,7 +7191,7 @@ ein	-	-	-	0:48:07.511000	0:48:08.780000
 ne	-	-	-	0:48:08.780000	0:48:09.511000
 richtige	-	-	-	0:48:08.780000	0:48:09.511000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:08.780000" end="0:48:10.571000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:08.780000" end="0:48:10.571000" age_lower="65" age_upper="999">
 ja	-	-	-	0:48:08.780000	0:48:09.511000
 aber	-	-	-	0:48:08.780000	0:48:09.511000
 ja	-	-	-	0:48:08.780000	0:48:09.511000
@@ -7204,9 +7204,9 @@ können	-	-	-	0:48:09.511000	0:48:10.571000
 es	-	-	-	0:48:09.511000	0:48:10.571000
 es	-	-	-	0:48:09.511000	0:48:10.571000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:10.571000" end="0:48:12.218000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:10.571000" end="0:48:12.218000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:10.571000" end="0:48:12.218000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:10.571000" end="0:48:12.218000" age_lower="65" age_upper="999">
 dann	-	-	-	0:48:10.571000	0:48:12.218000
 kurz	-	-	-	0:48:10.571000	0:48:12.218000
 anschauen	-	-	-	0:48:10.571000	0:48:12.218000
@@ -7217,11 +7217,11 @@ es	-	-	-	0:48:10.571000	0:48:12.218000
 Sie	-	-	-	0:48:10.571000	0:48:12.218000
 intressiert	-	-	-	0:48:10.571000	0:48:12.218000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:12.218000" end="0:48:13.351000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:12.218000" end="0:48:13.351000" age_lower="1" age_upper="999">
 ge	-	-	-	0:48:12.218000	0:48:13.091000
 rn	-	-	-	0:48:13.091000	0:48:13.351000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:13.091000" end="0:48:17.358000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:13.091000" end="0:48:17.358000" age_lower="65" age_upper="999">
 un	-	-	-	0:48:13.091000	0:48:13.351000
 d	-	-	-	0:48:13.351000	0:48:17.358000
 und	-	-	-	0:48:13.351000	0:48:17.358000
@@ -7232,12 +7232,12 @@ viel	-	-	-	0:48:13.351000	0:48:17.358000
 mit	-	-	-	0:48:13.351000	0:48:17.358000
 nostalgiebahnen	-	-	-	0:48:13.351000	0:48:17.358000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:17.358000" end="0:48:18.085000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:17.358000" end="0:48:18.085000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:17.358000" end="0:48:18.085000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:17.358000" end="0:48:18.085000" age_lower="65" age_upper="999">
 herum	-	-	-	0:48:17.358000	0:48:18.085000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:18.085000" end="0:48:20.878000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:18.085000" end="0:48:20.878000" age_lower="1" age_upper="999">
 also	-	-	-	0:48:18.085000	0:48:20.878000
 dann	-	-	-	0:48:18.085000	0:48:20.878000
 in	-	-	-	0:48:18.085000	0:48:20.878000
@@ -7245,7 +7245,7 @@ ganz	-	-	-	0:48:18.085000	0:48:20.878000
 Österreich	-	-	-	0:48:18.085000	0:48:20.878000
 wahrscheinlich	-	-	-	0:48:18.085000	0:48:20.878000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:20.878000" end="0:48:35.311000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:20.878000" end="0:48:35.311000" age_lower="65" age_upper="999">
 f	-	-	-	0:48:20.878000	0:48:24.458000
 so	-	-	-	0:48:20.878000	0:48:24.458000
 ja	-	-	-	0:48:20.878000	0:48:24.458000
@@ -7296,25 +7296,25 @@ sagt	-	-	-	0:48:34.551000	0:48:35.311000
 Ihnen	-	-	-	0:48:34.551000	0:48:35.311000
 nix	-	-	-	0:48:34.551000	0:48:35.311000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:35.311000" end="0:48:35.798000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:35.311000" end="0:48:35.798000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:35.311000" end="0:48:36.278000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:35.311000" end="0:48:36.278000" age_lower="65" age_upper="999">
 Sie	-	-	-	0:48:35.311000	0:48:35.798000
 sind	-	-	-	0:48:35.311000	0:48:35.798000
 ja	-	-	-	0:48:35.311000	0:48:35.798000
 [GRAZ]O	-	-	-	0:48:35.311000	0:48:35.798000
 ORT	ORT	-	-	0:48:35.798000	0:48:36.278000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:36.278000" end="0:48:36.965000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:36.278000" end="0:48:36.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:36.278000" end="0:48:36.965000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:36.278000" end="0:48:36.965000" age_lower="65" age_upper="999">
 nein	-	-	-	0:48:36.278000	0:48:36.965000
 das	-	-	-	0:48:36.278000	0:48:36.965000
 ah	-	-	-	0:48:36.278000	0:48:36.965000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:48:36.585000" end="0:48:36.965000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:48:36.585000" end="0:48:36.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:36.965000" end="0:48:41.318000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:36.965000" end="0:48:41.318000" age_lower="65" age_upper="999">
 sagt	-	-	-	0:48:36.965000	0:48:37.745000
 ihnen	-	-	-	0:48:36.965000	0:48:37.745000
 eh	-	-	-	0:48:36.965000	0:48:37.745000
@@ -7332,16 +7332,16 @@ eröffnet	-	-	-	0:48:39.138000	0:48:40.631000
 wurde	-	-	-	0:48:39.138000	0:48:40.631000
 nostalgiebahn	-	-	-	0:48:40.631000	0:48:41.318000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:41.318000" end="0:48:41.765000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:41.318000" end="0:48:41.765000" age_lower="1" age_upper="999">
 ah	-	-	-	0:48:41.318000	0:48:41.765000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:41.765000" end="0:48:42.085000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:41.765000" end="0:48:42.085000" age_lower="65" age_upper="999">
 aber	-	-	-	0:48:41.765000	0:48:42.085000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:42.085000" end="0:48:42.311000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:42.085000" end="0:48:42.311000" age_lower="1" age_upper="999">
 schaue	-	-	-	0:48:42.085000	0:48:42.311000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:42.311000" end="0:48:45.725000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:42.311000" end="0:48:45.725000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:48:42.311000	0:48:45.725000
 ja	-	-	-	0:48:42.311000	0:48:45.725000
 dürfen	-	-	-	0:48:42.311000	0:48:45.725000
@@ -7350,10 +7350,10 @@ vom	-	-	-	0:48:42.311000	0:48:45.725000
 hauptbahnhof	-	-	-	0:48:42.311000	0:48:45.725000
 wegfahren	-	-	-	0:48:42.311000	0:48:45.725000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:45.725000" end="0:48:46.618000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:45.725000" end="0:48:46.618000" age_lower="1" age_upper="999">
 is	-	-	-	0:48:45.725000	0:48:46.438000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:46.438000" end="0:48:58.745000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:46.438000" end="0:48:58.745000" age_lower="65" age_upper="999">
 nach	-	-	-	0:48:46.438000	0:48:46.618000
 ORT	ORT	-	-	0:48:46.618000	0:48:47.265000
 ist	-	-	-	0:48:47.265000	0:48:48.325000
@@ -7391,9 +7391,9 @@ immer	-	-	-	0:48:53.478000	0:48:58.745000
 den	-	-	-	0:48:53.478000	0:48:58.745000
 Bergen	-	-	-	0:48:53.478000	0:48:58.745000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:58.745000" end="0:48:59.371000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:48:58.745000" end="0:48:59.371000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:59.371000" end="0:49:39.131000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:48:59.371000" end="0:49:39.131000" age_lower="65" age_upper="999">
 ich	-	-	-	0:48:59.371000	0:49:03.225000
 bin	-	-	-	0:48:59.371000	0:49:03.225000
 ein	-	-	-	0:48:59.371000	0:49:03.225000
@@ -7514,9 +7514,9 @@ meine	-	-	-	0:49:36.985000	0:49:39.131000
 Großvater	-	-	-	0:49:36.985000	0:49:39.131000
 mitge	-	-	-	0:49:36.985000	0:49:39.131000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:39.131000" end="0:49:39.585000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:39.131000" end="0:49:39.585000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:49:39.131000" end="0:49:58.811000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:49:39.131000" end="0:49:58.811000" age_lower="65" age_upper="999">
 gemacht	-	-	-	0:49:39.131000	0:49:39.585000
 und	-	-	-	0:49:39.585000	0:49:44.265000
 hat	-	-	-	0:49:39.585000	0:49:44.265000
@@ -7574,9 +7574,9 @@ viele	-	-	-	0:49:53.305000	0:49:58.811000
 Sprachen	-	-	-	0:49:53.305000	0:49:58.811000
 gesprochen	-	-	-	0:49:53.305000	0:49:58.811000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:58.811000" end="0:49:59.338000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:49:58.811000" end="0:49:59.338000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:49:59.338000" end="0:50:29.091000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:49:59.338000" end="0:50:29.091000" age_lower="65" age_upper="999">
 und	-	-	-	0:49:59.338000	0:50:02.651000
 zwar	-	-	-	0:49:59.338000	0:50:02.651000
 also	-	-	-	0:49:59.338000	0:50:02.651000
@@ -7665,9 +7665,9 @@ er	-	-	-	0:50:27.945000	0:50:29.091000
 die	-	-	-	0:50:27.945000	0:50:29.091000
 spra	-	-	-	0:50:27.945000	0:50:29.091000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:29.091000" end="0:50:29.405000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:50:29.091000" end="0:50:29.405000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:50:29.091000" end="0:51:04.305000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:50:29.091000" end="0:51:04.305000" age_lower="65" age_upper="999">
 aber	-	-	-	0:50:29.091000	0:50:29.405000
 ge	-	-	-	0:50:29.091000	0:50:29.405000
 kannte	-	-	-	0:50:29.405000	0:50:29.991000
@@ -7780,9 +7780,9 @@ war	-	-	-	0:51:02.378000	0:51:04.305000
 ein	-	-	-	0:51:02.378000	0:51:04.305000
 kunsttischler	-	-	-	0:51:02.378000	0:51:04.305000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:04.305000" end="0:51:05.085000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:04.305000" end="0:51:05.085000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:05.085000" end="0:51:27.518000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:05.085000" end="0:51:27.518000" age_lower="65" age_upper="999">
 der	-	-	-	0:51:05.085000	0:51:07.211000
 hat	-	-	-	0:51:05.085000	0:51:07.211000
 arbeiten	-	-	-	0:51:05.085000	0:51:07.211000
@@ -7849,27 +7849,27 @@ noch	-	-	-	0:51:25.378000	0:51:27.518000
 sehr	-	-	-	0:51:25.378000	0:51:27.518000
 in	-	-	-	0:51:25.378000	0:51:27.518000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:27.518000" end="0:51:28.671000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:27.518000" end="0:51:28.671000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:51:27.518000	0:51:28.671000
 ist	-	-	-	0:51:27.518000	0:51:28.671000
 ja	-	-	-	0:51:27.518000	0:51:28.671000
 lustig	-	-	-	0:51:27.518000	0:51:28.671000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:27.518000" end="0:51:28.671000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:27.518000" end="0:51:28.671000" age_lower="65" age_upper="999">
 tensiv	-	-	-	0:51:27.518000	0:51:28.671000
 kann	-	-	-	0:51:27.518000	0:51:28.671000
 ich	-	-	-	0:51:27.518000	0:51:28.671000
 nur	-	-	-	0:51:27.518000	0:51:28.671000
 so	-	-	-	0:51:27.518000	0:51:28.671000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:28.671000" end="0:51:28.938000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:28.671000" end="0:51:28.938000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:28.671000" end="0:51:28.938000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:28.671000" end="0:51:28.938000" age_lower="65" age_upper="999">
 gen	-	-	-	0:51:28.671000	0:51:28.938000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:28.938000" end="0:51:29.591000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:28.938000" end="0:51:29.591000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:29.591000" end="0:51:32.745000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:29.591000" end="0:51:32.745000" age_lower="65" age_upper="999">
 äh	-	-	-	0:51:29.591000	0:51:32.745000
 wir	-	-	-	0:51:29.591000	0:51:32.745000
 ich	-	-	-	0:51:29.591000	0:51:32.745000
@@ -7878,10 +7878,10 @@ außerdem	-	-	-	0:51:29.591000	0:51:32.745000
 ein	-	-	-	0:51:29.591000	0:51:32.745000
 wohnmobil	-	-	-	0:51:29.591000	0:51:32.745000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:32.745000" end="0:51:33.431000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:32.745000" end="0:51:33.431000" age_lower="1" age_upper="999">
 is	-	-	-	0:51:32.745000	0:51:33.338000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:33.338000" end="0:51:34.878000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:33.338000" end="0:51:34.878000" age_lower="65" age_upper="999">
 mich	-	-	-	0:51:33.338000	0:51:33.431000
 t	-	-	-	0:51:33.431000	0:51:34.878000
 dem	-	-	-	0:51:33.431000	0:51:34.878000
@@ -7889,9 +7889,9 @@ pf	-	-	-	0:51:33.431000	0:51:34.878000
 e	-	-	-	0:51:33.431000	0:51:34.878000
 sind	-	-	-	0:51:33.431000	0:51:34.878000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:34.878000" end="0:51:35.238000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:51:34.878000" end="0:51:35.238000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:34.878000" end="0:51:51.238000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:34.878000" end="0:51:51.238000" age_lower="65" age_upper="999">
 die	-	-	-	0:51:34.878000	0:51:35.238000
 die	-	-	-	0:51:34.878000	0:51:35.238000
 meisten	-	-	-	0:51:35.238000	0:51:36.605000
@@ -7942,9 +7942,9 @@ englischen	-	-	-	0:51:49.118000	0:51:51.238000
 Bereich	-	-	-	0:51:49.118000	0:51:51.238000
 überall	-	-	-	0:51:49.118000	0:51:51.238000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:49.638000" end="0:51:51.238000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:51:49.638000" end="0:51:51.238000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:51.238000" end="0:52:19.551000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:51:51.238000" end="0:52:19.551000" age_lower="65" age_upper="999">
 unterwegs	-	-	-	0:51:51.238000	0:51:52.071000
 und	-	-	-	0:51:52.071000	0:51:54.518000
 meine	-	-	-	0:51:52.071000	0:51:54.518000
@@ -8021,9 +8021,9 @@ drei	-	-	-	0:52:18.285000	0:52:19.338000
 höchsten	-	-	-	0:52:18.285000	0:52:19.338000
 a	-	-	-	0:52:19.338000	0:52:19.551000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:19.551000" end="0:52:19.905000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:19.551000" end="0:52:19.905000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:19.551000" end="0:52:45.091000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:19.551000" end="0:52:45.091000" age_lower="65" age_upper="999">
 ge	-	-	-	0:52:19.551000	0:52:19.905000
 in	-	-	-	0:52:19.905000	0:52:20.825000
 Österreich	-	-	-	0:52:19.905000	0:52:20.825000
@@ -8103,16 +8103,16 @@ nächsten	-	-	-	0:52:43.485000	0:52:45.091000
 hübel	-	-	-	0:52:43.485000	0:52:45.091000
 gel	-	-	-	0:52:43.485000	0:52:45.091000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:45.091000" end="0:52:46.031000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:45.091000" end="0:52:46.031000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:45.091000" end="0:52:46.031000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:45.091000" end="0:52:46.031000" age_lower="65" age_upper="999">
 noch	-	-	-	0:52:45.091000	0:52:46.031000
 immer	-	-	-	0:52:45.091000	0:52:46.031000
 hinauf	-	-	-	0:52:45.091000	0:52:46.031000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:46.031000" end="0:52:46.391000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:46.031000" end="0:52:46.391000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:46.391000" end="0:52:49.685000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:46.391000" end="0:52:49.685000" age_lower="65" age_upper="999">
 wobei	-	-	-	0:52:46.391000	0:52:47.685000
 man	-	-	-	0:52:46.391000	0:52:47.685000
 jetzt	-	-	-	0:52:46.391000	0:52:47.685000
@@ -8127,10 +8127,10 @@ zum	-	-	-	0:52:47.685000	0:52:49.685000
 Schifahren	-	-	-	0:52:47.685000	0:52:49.685000
 aufgehört	-	-	-	0:52:47.685000	0:52:49.685000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:49.685000" end="0:52:50.111000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:52:49.685000" end="0:52:50.111000" age_lower="1" age_upper="999">
 hm	-	-	-	0:52:49.685000	0:52:49.827000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:49.827000" end="0:53:24.438000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:52:49.827000" end="0:53:24.438000" age_lower="65" age_upper="999">
 muss	-	-	-	0:52:49.827000	0:52:50.111000
 ich	-	-	-	0:52:49.827000	0:52:50.111000
 leider	-	-	-	0:52:50.111000	0:52:50.678000
@@ -8236,10 +8236,10 @@ f	-	-	-	0:53:21.911000	0:53:24.438000
 durchzechte	-	-	-	0:53:21.911000	0:53:24.438000
 Nacht	-	-	-	0:53:21.911000	0:53:24.438000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:53:24.438000" end="0:53:24.905000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:53:24.438000" end="0:53:24.905000" age_lower="1" age_upper="999">
 oje	-	-	-	0:53:24.438000	0:53:24.905000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:53:24.905000" end="0:53:49.471000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:53:24.905000" end="0:53:49.471000" age_lower="65" age_upper="999">
 dann	-	-	-	0:53:24.905000	0:53:26.145000
 Schifahren	-	-	-	0:53:24.905000	0:53:26.145000
 gegangen	-	-	-	0:53:24.905000	0:53:26.145000
@@ -8323,9 +8323,9 @@ Marker	-	-	-	0:53:46.698000	0:53:49.065000
 gegeben	-	-	-	0:53:46.698000	0:53:49.065000
 d	-	-	-	0:53:49.065000	0:53:49.471000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:53:49.471000" end="0:53:49.771000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:53:49.471000" end="0:53:49.771000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:53:49.471000" end="0:54:06.578000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:53:49.471000" end="0:54:06.578000" age_lower="65" age_upper="999">
 o	-	-	-	0:53:49.471000	0:53:49.771000
 hat	-	-	-	0:53:49.471000	0:53:49.771000
 man	-	-	-	0:53:49.771000	0:53:49.971000
@@ -8385,16 +8385,16 @@ fünf	-	-	-	0:54:02.698000	0:54:06.578000
 gebrochen	-	-	-	0:54:02.698000	0:54:06.578000
 hat	-	-	-	0:54:02.698000	0:54:06.578000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:06.578000" end="0:54:06.771000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:06.578000" end="0:54:06.771000" age_lower="1" age_upper="999">
 o	-	-	-	0:54:06.578000	0:54:06.771000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:06.578000" end="0:54:06.771000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:06.578000" end="0:54:06.771000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:54:06.578000	0:54:06.771000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:06.771000" end="0:54:07.011000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:06.771000" end="0:54:07.011000" age_lower="1" age_upper="999">
 je	-	-	-	0:54:06.771000	0:54:07.011000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:06.771000" end="0:54:14.277000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:06.771000" end="0:54:14.277000" age_lower="65" age_upper="999">
 ich	-	-	-	0:54:06.771000	0:54:07.011000
 habe	-	-	-	0:54:06.771000	0:54:07.011000
 das	-	-	-	0:54:06.771000	0:54:07.011000
@@ -8430,7 +8430,7 @@ gebrochen	-	-	-	0:54:12.631000	0:54:14.164000
 habe	-	-	-	0:54:12.631000	0:54:14.164000
 war	-	-	-	0:54:14.164000	0:54:14.277000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:14.277000" end="0:54:15.771000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:14.277000" end="0:54:15.771000" age_lower="1" age_upper="999">
 ach	-	-	-	0:54:14.277000	0:54:15.771000
 sie	-	-	-	0:54:14.277000	0:54:15.771000
 haben	-	-	-	0:54:14.277000	0:54:15.771000
@@ -8439,7 +8439,7 @@ gar	-	-	-	0:54:14.277000	0:54:15.771000
 nicht	-	-	-	0:54:14.277000	0:54:15.771000
 behan	-	-	-	0:54:14.277000	0:54:15.771000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:14.277000" end="0:54:15.771000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:14.277000" end="0:54:15.771000" age_lower="65" age_upper="999">
 ja	-	-	-	0:54:14.277000	0:54:15.771000
 niemand	-	-	-	0:54:14.277000	0:54:15.771000
 es	-	-	-	0:54:14.277000	0:54:15.771000
@@ -8449,11 +8449,11 @@ ein	-	-	-	0:54:14.277000	0:54:15.771000
 Arzt	-	-	-	0:54:14.277000	0:54:15.771000
 da	-	-	-	0:54:14.277000	0:54:15.771000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:15.771000" end="0:54:16.418000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:15.771000" end="0:54:16.418000" age_lower="1" age_upper="999">
 deln	-	-	-	0:54:15.771000	0:54:16.418000
 lassen	-	-	-	0:54:15.771000	0:54:16.418000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:15.771000" end="0:54:18.511000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:15.771000" end="0:54:18.511000" age_lower="65" age_upper="999">
 der	-	-	-	0:54:15.771000	0:54:16.418000
 hat	-	-	-	0:54:15.771000	0:54:16.418000
 das	-	-	-	0:54:15.771000	0:54:16.418000
@@ -8467,10 +8467,10 @@ außen	-	-	-	0:54:17.144000	0:54:17.844000
 da	-	-	-	0:54:17.844000	0:54:18.511000
 Fuß	-	-	-	0:54:17.844000	0:54:18.511000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:18.511000" end="0:54:18.838000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:18.511000" end="0:54:18.838000" age_lower="1" age_upper="999">
 klar	-	-	-	0:54:18.511000	0:54:18.838000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:18.511000" end="0:54:25.718000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:18.511000" end="0:54:25.718000" age_lower="65" age_upper="999">
 war	-	-	-	0:54:18.511000	0:54:18.838000
 so	-	-	-	0:54:18.511000	0:54:18.838000
 ein	-	-	-	0:54:18.838000	0:54:20.344000
@@ -8492,10 +8492,10 @@ gips	-	-	-	0:54:20.544000	0:54:25.184000
 gehabt	-	-	-	0:54:20.544000	0:54:25.184000
 klorerweis	-	-	-	0:54:25.184000	0:54:25.718000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:25.718000" end="0:54:26.524000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:25.718000" end="0:54:26.524000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:54:25.718000	0:54:26.064000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:26.064000" end="0:54:28.524000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:26.064000" end="0:54:28.524000" age_lower="65" age_upper="999">
 und	-	-	-	0:54:26.064000	0:54:26.524000
 öh	-	-	-	0:54:26.524000	0:54:28.524000
 zu	-	-	-	0:54:26.524000	0:54:28.524000
@@ -8507,9 +8507,9 @@ wieder	-	-	-	0:54:26.524000	0:54:28.524000
 Schi	-	-	-	0:54:26.524000	0:54:28.524000
 gefahren	-	-	-	0:54:26.524000	0:54:28.524000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:28.524000" end="0:54:29.111000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:28.524000" end="0:54:29.111000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:28.898000" end="0:54:33.158000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:28.898000" end="0:54:33.158000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:54:28.898000	0:54:29.111000
 also	-	-	-	0:54:29.111000	0:54:33.158000
 das	-	-	-	0:54:29.111000	0:54:33.158000
@@ -8523,19 +8523,19 @@ ageliebe	-	-	-	0:54:29.111000	0:54:33.158000
 dazu	-	-	-	0:54:29.111000	0:54:33.158000
 Gehör	-	-	-	0:54:29.111000	0:54:33.158000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:33.158000" end="0:54:33.231000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:33.158000" end="0:54:33.231000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:33.158000" end="0:54:33.231000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:33.158000" end="0:54:33.231000" age_lower="65" age_upper="999">
 t	-	-	-	0:54:33.158000	0:54:33.231000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:33.231000" end="0:54:33.358000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:33.231000" end="0:54:33.358000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:33.231000" end="0:54:33.358000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:33.231000" end="0:54:33.358000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:54:33.231000	0:54:33.358000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:33.358000" end="0:54:33.531000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:33.358000" end="0:54:33.531000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:33.358000" end="0:54:42.178000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:33.358000" end="0:54:42.178000" age_lower="65" age_upper="999">
 und	-	-	-	0:54:33.358000	0:54:33.531000
 bin	-	-	-	0:54:33.531000	0:54:34.471000
 jedes	-	-	-	0:54:33.531000	0:54:34.471000
@@ -8568,9 +8568,9 @@ gaudegruppen	-	-	-	0:54:40.398000	0:54:41.584000
 und	-	-	-	0:54:41.584000	0:54:42.178000
 und	-	-	-	0:54:41.584000	0:54:42.178000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:42.178000" end="0:54:42.564000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:54:42.178000" end="0:54:42.564000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:42.178000" end="0:55:25.884000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:54:42.178000" end="0:55:25.884000" age_lower="65" age_upper="999">
 sind	-	-	-	0:54:42.178000	0:54:42.564000
 eig	-	-	-	0:54:42.178000	0:54:42.564000
 immer	-	-	-	0:54:42.564000	0:54:44.778000
@@ -8701,10 +8701,10 @@ das	-	-	-	0:55:24.398000	0:55:25.884000
 knie	-	-	-	0:55:24.398000	0:55:25.884000
 Probleme	-	-	-	0:55:24.398000	0:55:25.884000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:25.884000" end="0:55:26.624000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:25.884000" end="0:55:26.624000" age_lower="1" age_upper="999">
 oje	-	-	-	0:55:25.884000	0:55:26.624000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:26.624000" end="0:55:31.038000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:26.624000" end="0:55:31.038000" age_lower="65" age_upper="999">
 und	-	-	-	0:55:26.624000	0:55:29.038000
 das	-	-	-	0:55:26.624000	0:55:29.038000
 war	-	-	-	0:55:26.624000	0:55:29.038000
@@ -8724,9 +8724,9 @@ knie	-	-	-	0:55:29.038000	0:55:31.038000
 nicht	-	-	-	0:55:29.038000	0:55:31.038000
 mehr	-	-	-	0:55:29.038000	0:55:31.038000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:31.038000" end="0:55:31.624000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:31.038000" end="0:55:31.624000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:31.624000" end="0:55:35.584000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:31.624000" end="0:55:35.584000" age_lower="65" age_upper="999">
 und	-	-	-	0:55:31.624000	0:55:35.584000
 ich	-	-	-	0:55:31.624000	0:55:35.584000
 will	-	-	-	0:55:31.624000	0:55:35.584000
@@ -8736,19 +8736,19 @@ zaghaft	-	-	-	0:55:31.624000	0:55:35.584000
 zu	-	-	-	0:55:31.624000	0:55:35.584000
 fahren	-	-	-	0:55:31.624000	0:55:35.584000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:35.584000" end="0:55:36.198000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:35.584000" end="0:55:36.198000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:36.198000" end="0:55:37.151000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:36.198000" end="0:55:37.151000" age_lower="65" age_upper="999">
 verstehen	-	-	-	0:55:36.198000	0:55:36.724000
 Sie	-	-	-	0:55:36.198000	0:55:36.724000
 das	-	-	-	0:55:36.724000	0:55:37.151000
 macht	-	-	-	0:55:36.724000	0:55:37.151000
 mir	-	-	-	0:55:36.724000	0:55:37.151000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:37.151000" end="0:55:37.364000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:55:37.151000" end="0:55:37.364000" age_lower="1" age_upper="999">
 ja	-	-	-	0:55:37.151000	0:55:37.364000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:37.151000" end="0:56:02.064000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:55:37.151000" end="0:56:02.064000" age_lower="65" age_upper="999">
 keinen	-	-	-	0:55:37.151000	0:55:37.364000
 es	-	-	-	0:55:37.151000	0:55:37.364000
 pass	-	-	-	0:55:37.364000	0:55:37.738000
@@ -8823,9 +8823,9 @@ sehr	-	-	-	0:55:58.044000	0:56:02.064000
 viele	-	-	-	0:55:58.044000	0:56:02.064000
 Reisen	-	-	-	0:55:58.044000	0:56:02.064000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:02.064000" end="0:56:02.478000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:02.064000" end="0:56:02.478000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:02.478000" end="0:56:11.711000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:02.478000" end="0:56:11.711000" age_lower="65" age_upper="999">
 ich	-	-	-	0:56:02.478000	0:56:04.071000
 bin	-	-	-	0:56:02.478000	0:56:04.071000
 einem	-	-	-	0:56:02.478000	0:56:04.071000
@@ -8850,19 +8850,19 @@ und	-	-	-	0:56:10.758000	0:56:11.711000
 ein	-	-	-	0:56:10.758000	0:56:11.711000
 abcampen	-	-	-	0:56:10.758000	0:56:11.711000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:11.711000" end="0:56:13.351000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:11.711000" end="0:56:13.351000" age_lower="1" age_upper="999">
 ah	-	-	-	0:56:11.711000	0:56:12.058000
 aso	-	-	-	0:56:12.058000	0:56:13.351000
 und	-	-	-	0:56:12.058000	0:56:13.351000
 das	-	-	-	0:56:12.058000	0:56:13.351000
 ist	-	-	-	0:56:12.058000	0:56:13.351000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:12.058000" end="0:56:13.891000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:12.058000" end="0:56:13.891000" age_lower="65" age_upper="999">
 und	-	-	-	0:56:12.058000	0:56:13.351000
 dazwischen	-	-	-	0:56:12.058000	0:56:13.351000
 bitte	-	-	-	0:56:13.351000	0:56:13.891000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:13.891000" end="0:56:17.044000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:13.891000" end="0:56:17.044000" age_lower="1" age_upper="999">
 so	-	-	-	0:56:13.891000	0:56:15.638000
 eine	-	-	-	0:56:13.891000	0:56:15.638000
 das	-	-	-	0:56:13.891000	0:56:15.638000
@@ -8876,7 +8876,7 @@ dann	-	-	-	0:56:16.064000	0:56:17.044000
 gemeinsam	-	-	-	0:56:16.064000	0:56:17.044000
 fahren	-	-	-	0:56:16.064000	0:56:17.044000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:16.064000" end="0:56:19.651000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:16.064000" end="0:56:19.651000" age_lower="65" age_upper="999">
 ja	-	-	-	0:56:16.064000	0:56:17.044000
 ja	-	-	-	0:56:16.064000	0:56:17.044000
 ja	-	-	-	0:56:16.064000	0:56:17.044000
@@ -8890,9 +8890,9 @@ zehn	-	-	-	0:56:17.044000	0:56:19.651000
 Autos	-	-	-	0:56:17.044000	0:56:19.651000
 mitsammen	-	-	-	0:56:17.044000	0:56:19.651000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:19.651000" end="0:56:20.131000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:19.651000" end="0:56:20.131000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:20.131000" end="0:56:28.711000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:20.131000" end="0:56:28.711000" age_lower="65" age_upper="999">
 und	-	-	-	0:56:20.131000	0:56:22.344000
 und	-	-	-	0:56:20.131000	0:56:22.344000
 heuer	-	-	-	0:56:20.131000	0:56:22.344000
@@ -8917,10 +8917,10 @@ und	-	-	-	0:56:25.844000	0:56:27.964000
 schlösser	-	-	-	0:56:25.844000	0:56:27.964000
 Straßen	-	-	-	0:56:27.964000	0:56:28.711000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:28.711000" end="0:56:29.078000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:28.711000" end="0:56:29.078000" age_lower="1" age_upper="999">
 is	-	-	-	0:56:28.711000	0:56:28.916000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:28.916000" end="0:56:39.458000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:28.916000" end="0:56:39.458000" age_lower="65" age_upper="999">
 die	-	-	-	0:56:28.916000	0:56:29.078000
 die	-	-	-	0:56:29.078000	0:56:29.804000
 eine	-	-	-	0:56:29.078000	0:56:29.804000
@@ -8957,9 +8957,9 @@ halt	-	-	-	0:56:36.011000	0:56:39.458000
 Spass	-	-	-	0:56:36.011000	0:56:39.458000
 macht	-	-	-	0:56:36.011000	0:56:39.458000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:39.458000" end="0:56:40.444000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:39.458000" end="0:56:40.444000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:39.844000" end="0:56:48.611000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:39.844000" end="0:56:48.611000" age_lower="65" age_upper="999">
 anschauen	-	-	-	0:56:39.844000	0:56:40.444000
 täte	-	-	-	0:56:39.844000	0:56:40.444000
 es	-	-	-	0:56:40.444000	0:56:40.951000
@@ -8993,12 +8993,12 @@ noch	-	-	-	0:56:45.284000	0:56:48.611000
 noch	-	-	-	0:56:45.284000	0:56:48.611000
 ORT	ORT	-	-	0:56:45.284000	0:56:48.611000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:48.611000" end="0:56:49.398000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:48.611000" end="0:56:49.398000" age_lower="1" age_upper="999">
 ach	-	-	-	0:56:48.611000	0:56:49.098000
 sch	-	-	-	0:56:48.611000	0:56:49.098000
 ön	-	-	-	0:56:49.098000	0:56:49.398000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:49.098000" end="0:56:51.358000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:49.098000" end="0:56:51.358000" age_lower="65" age_upper="999">
 ich	-	-	-	0:56:49.098000	0:56:49.398000
 war	-	-	-	0:56:49.098000	0:56:49.398000
 noch	-	-	-	0:56:49.098000	0:56:49.398000
@@ -9012,11 +9012,11 @@ mich	-	-	-	0:56:50.184000	0:56:51.358000
 ein	-	-	-	0:56:50.184000	0:56:51.358000
 wohne	-	-	-	0:56:50.184000	0:56:51.358000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:56:51.358000" end="0:56:52.044000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:56:51.358000" end="0:56:52.044000" age_lower="1" age_upper="999">
 schen	-	-	-	0:56:51.358000	0:56:52.044000
 ja	-	-	-	0:56:51.358000	0:56:52.044000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:51.358000" end="0:56:52.931000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:51.358000" end="0:56:52.931000" age_lower="65" age_upper="999">
 mobil	-	-	-	0:56:51.358000	0:56:52.044000
 nicht	-	-	-	0:56:51.358000	0:56:52.044000
 hin	-	-	-	0:56:51.358000	0:56:52.044000
@@ -9026,23 +9026,23 @@ ich	-	-	-	0:56:52.044000	0:56:52.931000
 nicht	-	-	-	0:56:52.044000	0:56:52.931000
 dort	-	-	-	0:56:52.044000	0:56:52.931000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:52.931000" end="0:56:53.144000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:56:52.931000" end="0:56:53.144000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:52.931000" end="0:56:53.144000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:52.931000" end="0:56:53.144000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:56:52.931000	0:56:53.144000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:56:53.144000" end="0:56:54.144000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:56:53.144000" end="0:56:54.144000" age_lower="1" age_upper="999">
 na	-	-	-	0:56:53.144000	0:56:53.931000
 bitteschön	-	-	-	0:56:53.144000	0:56:53.931000
 ja	-	-	-	0:56:53.931000	0:56:54.144000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:54.144000" end="0:56:54.791000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:54.144000" end="0:56:54.791000" age_lower="65" age_upper="999">
 und	-	-	-	0:56:54.144000	0:56:54.791000
 äh	-	-	-	0:56:54.144000	0:56:54.791000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:56:54.791000" end="0:56:55.064000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:56:54.791000" end="0:56:55.064000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:54.791000" end="0:57:03.771000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:56:54.791000" end="0:57:03.771000" age_lower="65" age_upper="999">
 und	-	-	-	0:56:54.791000	0:56:55.064000
 ja	-	-	-	0:56:55.064000	0:56:55.404000
 und	-	-	-	0:56:55.404000	0:56:57.191000
@@ -9067,9 +9067,9 @@ Indien	-	-	-	0:57:02.444000	0:57:03.184000
 ah	-	-	-	0:57:03.184000	0:57:03.771000
 viert	-	-	-	0:57:03.184000	0:57:03.771000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:03.771000" end="0:57:04.318000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:03.771000" end="0:57:04.318000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:03.771000" end="0:57:06.078000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:03.771000" end="0:57:06.078000" age_lower="65" age_upper="999">
 ein	-	-	-	0:57:03.771000	0:57:04.318000
 zwö	-	-	-	0:57:03.771000	0:57:04.318000
 ein	-	-	-	0:57:04.318000	0:57:06.078000
@@ -9077,18 +9077,18 @@ zwölf	-	-	-	0:57:04.318000	0:57:06.078000
 ein	-	-	-	0:57:04.318000	0:57:06.078000
 vierzehntä	-	-	-	0:57:04.318000	0:57:06.078000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:06.078000" end="0:57:06.478000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:06.078000" end="0:57:06.478000" age_lower="1" age_upper="999">
 vierzehnt	-	-	-	0:57:06.078000	0:57:06.478000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:06.078000" end="0:57:06.478000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:06.078000" end="0:57:06.478000" age_lower="65" age_upper="999">
 gige	-	-	-	0:57:06.078000	0:57:06.478000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:06.478000" end="0:57:07.284000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:06.478000" end="0:57:07.284000" age_lower="1" age_upper="999">
 ägige	-	-	-	0:57:06.478000	0:57:07.284000
 wäre	-	-	-	0:57:06.478000	0:57:07.284000
 das	-	-	-	0:57:06.478000	0:57:07.284000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:07.284000" end="0:57:19.178000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:07.284000" end="0:57:19.178000" age_lower="65" age_upper="999">
 aber	-	-	-	0:57:07.284000	0:57:09.531000
 vom	-	-	-	0:57:07.284000	0:57:09.531000
 vom	-	-	-	0:57:07.284000	0:57:09.531000
@@ -9119,10 +9119,10 @@ dort	-	-	-	0:57:14.284000	0:57:19.044000
 besuchen	-	-	-	0:57:14.284000	0:57:19.044000
 zu	-	-	-	0:57:19.044000	0:57:19.178000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:19.178000" end="0:57:19.451000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:19.178000" end="0:57:19.451000" age_lower="1" age_upper="999">
 ah	-	-	-	0:57:19.178000	0:57:19.451000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:19.178000" end="0:57:26.198000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:19.178000" end="0:57:26.198000" age_lower="65" age_upper="999">
 um	-	-	-	0:57:19.178000	0:57:19.451000
 bei	-	-	-	0:57:19.178000	0:57:19.451000
 spiele	-	-	-	0:57:19.451000	0:57:19.718000
@@ -9153,9 +9153,9 @@ Freunde	-	-	-	0:57:23.598000	0:57:26.198000
 auch	-	-	-	0:57:23.598000	0:57:26.198000
 mitfahren	-	-	-	0:57:23.598000	0:57:26.198000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:26.198000" end="0:57:26.644000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:26.198000" end="0:57:26.644000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:26.198000" end="0:57:34.038000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:26.198000" end="0:57:34.038000" age_lower="65" age_upper="999">
 die	-	-	-	0:57:26.198000	0:57:26.644000
 sind	-	-	-	0:57:26.198000	0:57:26.644000
 auch	-	-	-	0:57:26.198000	0:57:26.644000
@@ -9183,7 +9183,7 @@ nicht	-	-	-	0:57:31.464000	0:57:31.844000
 geräuschvoll	-	-	-	0:57:31.844000	0:57:34.038000
 ja	-	-	-	0:57:31.844000	0:57:34.038000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:34.038000" end="0:57:35.831000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:34.038000" end="0:57:35.831000" age_lower="1" age_upper="999">
 und	-	-	-	0:57:34.038000	0:57:34.858000
 da	-	-	-	0:57:34.038000	0:57:34.858000
 zwischen	-	-	-	0:57:34.858000	0:57:35.831000
@@ -9192,51 +9192,51 @@ man	-	-	-	0:57:34.858000	0:57:35.831000
 keine	-	-	-	0:57:34.858000	0:57:35.831000
 f	-	-	-	0:57:34.858000	0:57:35.831000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:34.858000" end="0:57:35.831000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:34.858000" end="0:57:35.831000" age_lower="65" age_upper="999">
 sonst	-	-	-	0:57:34.858000	0:57:35.831000
 wie	-	-	-	0:57:34.858000	0:57:35.831000
 gesagt	-	-	-	0:57:34.858000	0:57:35.831000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:35.831000" end="0:57:37.098000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:35.831000" end="0:57:37.098000" age_lower="1" age_upper="999">
 ohrt	-	-	-	0:57:35.831000	0:57:36.571000
 michgemacht	-	-	-	0:57:35.831000	0:57:36.571000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:36.571000" end="0:57:37.098000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:36.571000" end="0:57:37.098000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:37.098000" end="0:57:37.444000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:37.098000" end="0:57:37.444000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:37.098000" end="0:57:37.678000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:37.098000" end="0:57:37.678000" age_lower="1" age_upper="999">
 Bahn	-	-	-	0:57:37.098000	0:57:37.444000
 Sinn	-	-	-	0:57:37.444000	0:57:37.678000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:37.678000" end="0:57:38.458000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:37.678000" end="0:57:38.458000" age_lower="1" age_upper="999">
 kommt	-	-	-	0:57:37.678000	0:57:38.038000
 auch	-	-	-	0:57:38.038000	0:57:38.458000
 da	-	-	-	0:57:38.038000	0:57:38.458000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:38.038000" end="0:57:38.458000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:38.038000" end="0:57:38.458000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:38.458000" end="0:57:38.804000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:57:38.458000" end="0:57:38.804000" age_lower="1" age_upper="999">
 zu	-	-	-	0:57:38.458000	0:57:38.804000
 ja	-	-	-	0:57:38.458000	0:57:38.804000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:38.458000" end="0:57:39.124000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:38.458000" end="0:57:39.124000" age_lower="65" age_upper="999">
 eine	-	-	-	0:57:38.458000	0:57:38.804000
 meiner	-	-	-	0:57:38.804000	0:57:39.124000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:39.124000" end="0:57:39.444000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:39.124000" end="0:57:39.444000" age_lower="1" age_upper="999">
 es	-	-	-	0:57:39.124000	0:57:39.444000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:39.124000" end="0:57:45.964000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:39.124000" end="0:57:45.964000" age_lower="65" age_upper="999">
 interessantesten	-	-	-	0:57:39.444000	0:57:41.871000
 und	-	-	-	0:57:39.444000	0:57:41.871000
 größten	-	-	-	0:57:39.444000	0:57:41.871000
 Reisen	-	-	-	0:57:39.444000	0:57:41.871000
 ORT	ORT	-	-	0:57:41.871000	0:57:45.964000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:45.964000" end="0:57:46.678000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:45.964000" end="0:57:46.678000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:46.678000" end="0:57:52.664000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:46.678000" end="0:57:52.664000" age_lower="65" age_upper="999">
 dort	-	-	-	0:57:46.678000	0:57:49.251000
 einsteigen	-	-	-	0:57:46.678000	0:57:49.251000
 in	-	-	-	0:57:46.678000	0:57:49.251000
@@ -9254,17 +9254,17 @@ ORT	ORT	-	-	0:57:49.251000	0:57:52.664000
 zu	-	-	-	0:57:49.251000	0:57:52.664000
 fahren	-	-	-	0:57:49.251000	0:57:52.664000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:52.664000" end="0:57:53.158000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:52.664000" end="0:57:53.158000" age_lower="1" age_upper="999">
 ah	-	-	-	0:57:52.664000	0:57:53.158000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:53.158000" end="0:57:56.664000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:53.158000" end="0:57:56.664000" age_lower="65" age_upper="999">
 mit	-	-	-	0:57:53.158000	0:57:56.664000
 aufenthoiten	-	-	-	0:57:53.158000	0:57:56.664000
 zwischendurch	-	-	-	0:57:53.158000	0:57:56.664000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:56.664000" end="0:57:57.311000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:57:56.664000" end="0:57:57.311000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:57.311000" end="0:58:04.731000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:57:57.311000" end="0:58:04.731000" age_lower="65" age_upper="999">
 und	-	-	-	0:57:57.311000	0:58:01.198000
 zwar	-	-	-	0:57:57.311000	0:58:01.198000
 in	-	-	-	0:57:57.311000	0:58:01.198000
@@ -9286,9 +9286,9 @@ Probleme	-	-	-	0:58:01.198000	0:58:03.944000
 in	-	-	-	0:58:03.944000	0:58:04.731000
 ORT	ORT	-	-	0:58:03.944000	0:58:04.731000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:04.731000" end="0:58:05.298000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:04.731000" end="0:58:05.298000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:05.298000" end="0:58:26.251000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:05.298000" end="0:58:26.251000" age_lower="65" age_upper="999">
 das	-	-	-	0:58:05.298000	0:58:08.024000
 ist	-	-	-	0:58:05.298000	0:58:08.024000
 die	-	-	-	0:58:05.298000	0:58:08.024000
@@ -9326,12 +9326,12 @@ sechs	-	-	-	0:58:19.571000	0:58:22.398000
 Tage	-	-	-	0:58:19.571000	0:58:22.398000
 in	-	-	-	0:58:19.571000	0:58:22.398000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:26.251000" end="0:58:30.198000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:26.251000" end="0:58:30.198000" age_lower="1" age_upper="999">
 ich	-	-	-	0:58:26.251000	0:58:30.198000
 war	-	-	-	0:58:26.251000	0:58:30.198000
 nicht	-	-	-	0:58:26.251000	0:58:30.198000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:26.251000" end="0:58:31.091000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:26.251000" end="0:58:31.091000" age_lower="65" age_upper="999">
 tse	-	-	-	0:58:26.251000	0:58:30.198000
 tse	-	-	-	0:58:26.251000	0:58:30.198000
 jetzt	-	-	-	0:58:30.198000	0:58:31.091000
@@ -9339,41 +9339,41 @@ habe	-	-	-	0:58:30.198000	0:58:31.091000
 ich	-	-	-	0:58:30.198000	0:58:31.091000
 mein	-	-	-	0:58:30.198000	0:58:31.091000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:31.091000" end="0:58:31.998000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:31.091000" end="0:58:31.998000" age_lower="1" age_upper="999">
 ich	-	-	-	0:58:31.091000	0:58:31.591000
 war	-	-	-	0:58:31.091000	0:58:31.591000
 nicht	-	-	-	0:58:31.591000	0:58:31.998000
 da	-	-	-	0:58:31.591000	0:58:31.998000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:31.591000" end="0:58:31.998000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:31.591000" end="0:58:31.998000" age_lower="65" age_upper="999">
 mein	-	-	-	0:58:31.591000	0:58:31.998000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:31.998000" end="0:58:32.791000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:31.998000" end="0:58:32.791000" age_lower="1" age_upper="999">
 bei	-	-	-	0:58:31.998000	0:58:32.258000
 d	-	-	-	0:58:32.524000	0:58:32.791000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:32.524000" end="0:58:32.791000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:32.524000" end="0:58:32.791000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:32.791000" end="0:58:33.031000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:32.791000" end="0:58:33.031000" age_lower="1" age_upper="999">
 es	-	-	-	0:58:32.791000	0:58:33.031000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:32.791000" end="0:58:33.031000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:32.791000" end="0:58:33.031000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:32.791000" end="0:58:33.031000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:32.791000" end="0:58:33.031000" age_lower="65" age_upper="999">
 nein	-	-	-	0:58:32.791000	0:58:33.031000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:33.031000" end="0:58:33.141000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:33.031000" end="0:58:33.141000" age_lower="1" age_upper="999">
 d	-	-	-	0:58:33.031000	0:58:33.141000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:33.031000" end="0:58:33.141000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:33.031000" end="0:58:33.141000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:33.141000" end="0:58:34.291000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:33.141000" end="0:58:34.291000" age_lower="1" age_upper="999">
 es	-	-	-	0:58:33.141000	0:58:33.471000
 war	-	-	-	0:58:33.141000	0:58:33.471000
 meiner	-	-	-	0:58:33.471000	0:58:34.291000
 Zeit	-	-	-	0:58:33.471000	0:58:34.291000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:33.471000" end="0:58:34.531000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:33.471000" end="0:58:34.531000" age_lower="65" age_upper="999">
 nein	-	-	-	0:58:33.471000	0:58:34.291000
 da	-	-	-	0:58:33.471000	0:58:34.291000
 warst	-	-	-	0:58:33.471000	0:58:34.291000
@@ -9382,17 +9382,17 @@ nicht	-	-	-	0:58:33.471000	0:58:34.291000
 da	-	-	-	0:58:33.471000	0:58:34.291000
 bei	-	-	-	0:58:34.291000	0:58:34.531000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:34.531000" end="0:58:35.958000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="0:58:34.531000" end="0:58:35.958000" age_lower="1" age_upper="999">
 vor	-	-	-	0:58:34.531000	0:58:35.958000
 meiner	-	-	-	0:58:34.531000	0:58:35.958000
 Zeit	-	-	-	0:58:34.531000	0:58:35.958000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:35.958000" end="0:58:36.924000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:35.958000" end="0:58:36.924000" age_lower="65" age_upper="999">
 mongolei	-	-	-	0:58:35.958000	0:58:36.924000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:36.924000" end="0:58:37.471000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:58:36.924000" end="0:58:37.471000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:37.471000" end="0:59:12.611000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:58:37.471000" end="0:59:12.611000" age_lower="65" age_upper="999">
 sechs	-	-	-	0:58:37.471000	0:58:39.264000
 Tage	-	-	-	0:58:37.471000	0:58:39.264000
 in	-	-	-	0:58:37.471000	0:58:39.264000
@@ -9484,10 +9484,10 @@ in	-	-	-	0:59:08.531000	0:59:12.611000
 jurten	-	-	-	0:59:08.531000	0:59:12.611000
 gewohnt	-	-	-	0:59:08.531000	0:59:12.611000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:12.611000" end="0:59:13.298000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:12.611000" end="0:59:13.298000" age_lower="1" age_upper="999">
 N/A	-	-	-	0:59:12.611000	0:59:13.038000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:13.038000" end="0:59:22.471000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:13.038000" end="0:59:22.471000" age_lower="65" age_upper="999">
 in	-	-	-	0:59:13.038000	0:59:13.298000
 die	-	-	-	0:59:13.038000	0:59:13.298000
 in	-	-	-	0:59:13.298000	0:59:14.238000
@@ -9514,10 +9514,10 @@ dort	-	-	-	0:59:19.704000	0:59:22.471000
 kennt	-	-	-	0:59:19.704000	0:59:22.471000
 Österreich	-	-	-	0:59:19.704000	0:59:22.471000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:22.471000" end="0:59:23.324000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:22.471000" end="0:59:23.324000" age_lower="1" age_upper="999">
 wirklich	-	-	-	0:59:22.471000	0:59:23.324000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:23.324000" end="0:59:36.518000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:23.324000" end="0:59:36.518000" age_lower="65" age_upper="999">
 in	-	-	-	0:59:23.324000	0:59:25.458000
 der	-	-	-	0:59:23.324000	0:59:25.458000
 mongolei	-	-	-	0:59:23.324000	0:59:25.458000
@@ -9559,9 +9559,9 @@ in	-	-	-	0:59:35.098000	0:59:36.518000
 der	-	-	-	0:59:35.098000	0:59:36.518000
 mongolei	-	-	-	0:59:35.098000	0:59:36.518000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:36.518000" end="0:59:37.738000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:36.518000" end="0:59:37.738000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:37.738000" end="0:59:51.818000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:37.738000" end="0:59:51.818000" age_lower="65" age_upper="999">
 und	-	-	-	0:59:37.738000	0:59:40.478000
 es	-	-	-	0:59:37.738000	0:59:40.478000
 hat	-	-	-	0:59:37.738000	0:59:40.478000
@@ -9599,11 +9599,11 @@ von	-	-	-	0:59:47.478000	0:59:49.818000
 herden	-	-	-	0:59:49.818000	0:59:51.818000
 nachgezüchtet	-	-	-	0:59:49.818000	0:59:51.818000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:51.818000" end="0:59:52.944000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:51.818000" end="0:59:52.944000" age_lower="1" age_upper="999">
 ein	-	-	-	0:59:51.818000	0:59:52.724000
 ha	-	-	-	0:59:52.724000	0:59:52.944000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:52.724000" end="0:59:57.484000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:52.724000" end="0:59:57.484000" age_lower="65" age_upper="999">
 und	-	-	-	0:59:52.724000	0:59:52.944000
 diese	-	-	-	0:59:52.944000	0:59:53.818000
 herden	-	-	-	0:59:52.944000	0:59:53.818000
@@ -9620,11 +9620,11 @@ mongolei	-	-	-	0:59:55.784000	0:59:57.484000
 geschenkt	-	-	-	0:59:55.784000	0:59:57.484000
 worden	-	-	-	0:59:55.784000	0:59:57.484000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:57.484000" end="0:59:58.204000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="0:59:57.484000" end="0:59:58.204000" age_lower="1" age_upper="999">
 ah	-	-	-	0:59:57.484000	0:59:58.118000
 ok	-	-	-	0:59:58.118000	0:59:58.204000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:58.118000" end="1:00:07.791000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="0:59:58.118000" end="1:00:07.791000" age_lower="65" age_upper="999">
 die	-	-	-	0:59:58.118000	0:59:58.204000
 sind	-	-	-	0:59:58.204000	0:59:59.558000
 unheimlich	-	-	-	0:59:58.204000	0:59:59.558000
@@ -9659,9 +9659,9 @@ war	-	-	-	1:00:07.051000	1:00:07.791000
 es	-	-	-	1:00:07.051000	1:00:07.791000
 gleich	-	-	-	1:00:07.051000	1:00:07.791000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:07.791000" end="1:00:08.458000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:07.791000" end="1:00:08.458000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:00:07.791000" end="1:00:13.684000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:00:07.791000" end="1:00:13.684000" age_lower="65" age_upper="999">
 üwerglücklich	-	-	-	1:00:07.791000	1:00:08.458000
 und	-	-	-	1:00:08.458000	1:00:09.304000
 jeder	-	-	-	1:00:08.458000	1:00:09.304000
@@ -9681,10 +9681,10 @@ unhamlich	-	-	-	1:00:11.851000	1:00:13.684000
 nette	-	-	-	1:00:11.851000	1:00:13.684000
 Menschen	-	-	-	1:00:11.851000	1:00:13.684000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:13.684000" end="1:00:14.104000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:13.684000" end="1:00:14.104000" age_lower="1" age_upper="999">
 N/A	-	-	-	1:00:13.684000	1:00:13.964000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:00:13.964000" end="1:00:43.058000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:00:13.964000" end="1:00:43.058000" age_lower="65" age_upper="999">
 es	-	-	-	1:00:13.964000	1:00:14.104000
 ist	-	-	-	1:00:14.104000	1:00:15.191000
 ja	-	-	-	1:00:14.104000	1:00:15.191000
@@ -9785,10 +9785,10 @@ aufgstonden	-	-	-	1:00:39.558000	1:00:42.638000
 sind	-	-	-	1:00:39.558000	1:00:42.638000
 w	-	-	-	1:00:42.638000	1:00:43.058000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:43.058000" end="1:00:43.351000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:00:43.058000" end="1:00:43.351000" age_lower="1" age_upper="999">
 ist	-	-	-	1:00:43.058000	1:00:43.351000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:00:43.058000" end="1:01:00.278000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:00:43.058000" end="1:01:00.278000" age_lower="65" age_upper="999">
 or	-	-	-	1:00:43.058000	1:00:43.351000
 schon	-	-	-	1:00:43.058000	1:00:43.351000
 bacherlworm	-	-	-	1:00:43.351000	1:00:44.444000
@@ -9838,9 +9838,9 @@ Form	-	-	-	1:00:56.324000	1:01:00.278000
 beschenkt	-	-	-	1:00:56.324000	1:01:00.278000
 werden	-	-	-	1:00:56.324000	1:01:00.278000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:00.278000" end="1:01:00.684000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:00.278000" end="1:01:00.684000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:00.684000" end="1:01:10.344000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:00.684000" end="1:01:10.344000" age_lower="65" age_upper="999">
 das	-	-	-	1:01:00.684000	1:01:02.351000
 haben	-	-	-	1:01:00.684000	1:01:02.351000
 wir	-	-	-	1:01:00.684000	1:01:02.351000
@@ -9876,17 +9876,17 @@ paar	-	-	-	1:01:07.304000	1:01:10.344000
 mannerschnitten	-	-	-	1:01:07.304000	1:01:10.344000
 mitgehabt	-	-	-	1:01:07.304000	1:01:10.344000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:10.344000" end="1:01:10.671000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:10.344000" end="1:01:10.671000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:10.344000" end="1:01:11.084000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:10.344000" end="1:01:11.084000" age_lower="65" age_upper="999">
 so	-	-	-	1:01:10.344000	1:01:10.671000
 pa	-	-	-	1:01:10.344000	1:01:10.671000
 ckeln	-	-	-	1:01:10.671000	1:01:10.951000
 nicht	-	-	-	1:01:10.951000	1:01:11.084000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:11.084000" end="1:01:11.638000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:11.084000" end="1:01:11.638000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:11.084000" end="1:01:13.251000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:11.084000" end="1:01:13.251000" age_lower="65" age_upper="999">
 die	-	-	-	1:01:11.084000	1:01:11.638000
 normal	-	-	-	1:01:11.084000	1:01:11.638000
 jetzt	-	-	-	1:01:11.638000	1:01:13.251000
@@ -9897,28 +9897,28 @@ ihm	-	-	-	1:01:11.638000	1:01:13.251000
 drei	-	-	-	1:01:11.638000	1:01:13.251000
 manner	-	-	-	1:01:11.638000	1:01:13.251000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:13.251000" end="1:01:14.724000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:13.251000" end="1:01:14.724000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:13.251000" end="1:01:14.884000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:13.251000" end="1:01:14.884000" age_lower="65" age_upper="999">
 drei	-	-	-	1:01:13.251000	1:01:14.724000
 Packeln	-	-	-	1:01:13.251000	1:01:14.724000
 mannerschnitten	-	-	-	1:01:13.251000	1:01:14.724000
 geben	-	-	-	1:01:13.251000	1:01:14.724000
 nicht	-	-	-	1:01:14.724000	1:01:14.884000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:14.884000" end="1:01:14.944000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:14.884000" end="1:01:14.944000" age_lower="1" age_upper="999">
 es	-	-	-	1:01:14.884000	1:01:14.944000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:14.884000" end="1:01:14.944000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:14.884000" end="1:01:14.944000" age_lower="65" age_upper="999">
 t	-	-	-	1:01:14.884000	1:01:14.944000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:14.944000" end="1:01:16.298000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:14.944000" end="1:01:16.298000" age_lower="1" age_upper="999">
 heißt	-	-	-	1:01:14.944000	1:01:16.298000
 Sie	-	-	-	1:01:14.944000	1:01:16.298000
 haben	-	-	-	1:01:14.944000	1:01:16.298000
 improvisier	-	-	-	1:01:14.944000	1:01:16.298000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:14.944000" end="1:01:16.298000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:14.944000" end="1:01:16.298000" age_lower="65" age_upper="999">
 nein	-	-	-	1:01:14.944000	1:01:16.298000
 das	-	-	-	1:01:14.944000	1:01:16.298000
 haben	-	-	-	1:01:14.944000	1:01:16.298000
@@ -9927,10 +9927,10 @@ nicht	-	-	-	1:01:14.944000	1:01:16.298000
 einmal	-	-	-	1:01:14.944000	1:01:16.298000
 gekannt	-	-	-	1:01:14.944000	1:01:16.298000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:16.298000" end="1:01:16.544000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:16.298000" end="1:01:16.544000" age_lower="1" age_upper="999">
 t	-	-	-	1:01:16.298000	1:01:16.544000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:16.544000" end="1:01:32.251000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:16.544000" end="1:01:32.251000" age_lower="65" age_upper="999">
 die	-	-	-	1:01:16.544000	1:01:18.351000
 Kinder	-	-	-	1:01:16.544000	1:01:18.351000
 haben	-	-	-	1:01:16.544000	1:01:18.351000
@@ -9967,9 +9967,9 @@ mit	-	-	-	1:01:28.278000	1:01:32.251000
 vergorener	-	-	-	1:01:28.278000	1:01:32.251000
 stutenmilch	-	-	-	1:01:28.278000	1:01:32.251000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:32.251000" end="1:01:32.831000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:32.251000" end="1:01:32.831000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:32.831000" end="1:01:42.544000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:32.831000" end="1:01:42.544000" age_lower="65" age_upper="999">
 der	-	-	-	1:01:32.831000	1:01:35.064000
 Chef	-	-	-	1:01:32.831000	1:01:35.064000
 trinke	-	-	-	1:01:32.831000	1:01:35.064000
@@ -10004,11 +10004,11 @@ der	-	-	-	1:01:41.764000	1:01:42.544000
 ist	-	-	-	1:01:41.764000	1:01:42.544000
 beleidigt	-	-	-	1:01:41.764000	1:01:42.544000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:01:42.544000" end="1:01:43.531000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:01:42.544000" end="1:01:43.531000" age_lower="1" age_upper="999">
 furchbar	-	-	-	1:01:42.544000	1:01:43.531000
 grauslich	-	-	-	1:01:42.544000	1:01:43.531000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:42.544000" end="1:01:48.764000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:42.544000" end="1:01:48.764000" age_lower="65" age_upper="999">
 wem	-	-	-	1:01:42.544000	1:01:43.531000
 man	-	-	-	1:01:42.544000	1:01:43.531000
 das	-	-	-	1:01:42.544000	1:01:43.531000
@@ -10031,9 +10031,9 @@ raus	-	-	-	1:01:45.764000	1:01:48.764000
 aus	-	-	-	1:01:45.764000	1:01:48.764000
 mir	-	-	-	1:01:45.764000	1:01:48.764000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:48.764000" end="1:01:49.078000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:01:48.764000" end="1:01:49.078000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:48.764000" end="1:02:08.911000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:01:48.764000" end="1:02:08.911000" age_lower="65" age_upper="999">
 das	-	-	-	1:01:48.764000	1:01:49.078000
 sch	-	-	-	1:01:48.764000	1:01:49.078000
 meckt	-	-	-	1:01:49.078000	1:01:50.471000
@@ -10103,9 +10103,9 @@ der	-	-	-	1:02:06.911000	1:02:08.911000
 Wüste	-	-	-	1:02:06.911000	1:02:08.911000
 gehinab	-	-	-	1:02:06.911000	1:02:08.911000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:08.911000" end="1:02:09.718000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:08.911000" end="1:02:09.718000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:09.718000" end="1:02:35.444000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:09.718000" end="1:02:35.444000" age_lower="65" age_upper="999">
 und	-	-	-	1:02:09.718000	1:02:11.504000
 ob	-	-	-	1:02:09.718000	1:02:11.504000
 Sie	-	-	-	1:02:09.718000	1:02:11.504000
@@ -10166,18 +10166,18 @@ das	-	-	-	1:02:32.571000	1:02:35.444000
 glaubt	-	-	-	1:02:32.571000	1:02:35.444000
 niemand	-	-	-	1:02:32.571000	1:02:35.444000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:35.444000" end="1:02:36.091000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:35.444000" end="1:02:36.091000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:36.091000" end="1:02:37.038000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:36.091000" end="1:02:37.038000" age_lower="65" age_upper="999">
 ich	-	-	-	1:02:36.091000	1:02:36.691000
 habe	-	-	-	1:02:36.091000	1:02:36.691000
 Bilder	-	-	-	1:02:36.091000	1:02:36.691000
 also	-	-	-	1:02:36.691000	1:02:37.038000
 äh	-	-	-	1:02:36.691000	1:02:37.038000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:37.038000" end="1:02:37.451000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:37.038000" end="1:02:37.451000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:37.451000" end="1:02:44.924000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:37.451000" end="1:02:44.924000" age_lower="65" age_upper="999">
 dort	-	-	-	1:02:37.451000	1:02:40.738000
 steht	-	-	-	1:02:37.451000	1:02:40.738000
 unser	-	-	-	1:02:37.451000	1:02:40.738000
@@ -10201,24 +10201,24 @@ und	-	-	-	1:02:42.431000	1:02:44.924000
 zwatausend	-	-	-	1:02:42.431000	1:02:44.924000
 me	-	-	-	1:02:42.431000	1:02:44.924000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:44.924000" end="1:02:45.218000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:44.924000" end="1:02:45.218000" age_lower="1" age_upper="999">
 ah	-	-	-	1:02:44.924000	1:02:45.218000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:44.924000" end="1:02:45.218000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:44.924000" end="1:02:45.218000" age_lower="65" age_upper="999">
 ter	-	-	-	1:02:44.924000	1:02:45.218000
 ist	-	-	-	1:02:44.924000	1:02:45.218000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:45.218000" end="1:02:45.391000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:45.218000" end="1:02:45.391000" age_lower="1" age_upper="999">
 eine	-	-	-	1:02:45.218000	1:02:45.391000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:45.218000" end="1:02:46.358000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:45.218000" end="1:02:46.358000" age_lower="65" age_upper="999">
 das	-	-	-	1:02:45.218000	1:02:45.391000
 die	-	-	-	1:02:45.391000	1:02:46.144000
 ebenen	-	-	-	1:02:45.391000	1:02:46.144000
 dort	-	-	-	1:02:45.391000	1:02:46.144000
 nicht	-	-	-	1:02:46.144000	1:02:46.358000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:46.358000" end="1:02:47.578000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:46.358000" end="1:02:47.578000" age_lower="1" age_upper="999">
 das	-	-	-	1:02:46.358000	1:02:46.644000
 heißt	-	-	-	1:02:46.358000	1:02:46.644000
 da	-	-	-	1:02:46.644000	1:02:47.578000
@@ -10226,15 +10226,15 @@ ist	-	-	-	1:02:46.644000	1:02:47.578000
 das	-	-	-	1:02:46.644000	1:02:47.578000
 Klima	-	-	-	1:02:46.644000	1:02:47.578000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:46.644000" end="1:02:47.578000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:46.644000" end="1:02:47.578000" age_lower="65" age_upper="999">
 ist	-	-	-	1:02:46.644000	1:02:47.578000
 ein	-	-	-	1:02:46.644000	1:02:47.578000
 hochland	-	-	-	1:02:46.644000	1:02:47.578000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:47.578000" end="1:02:47.884000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:02:47.578000" end="1:02:47.884000" age_lower="1" age_upper="999">
 so	-	-	-	1:02:47.578000	1:02:47.884000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:47.884000" end="1:03:00.724000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:02:47.884000" end="1:03:00.724000" age_lower="65" age_upper="999">
 das	-	-	-	1:02:47.884000	1:02:49.098000
 vom	-	-	-	1:02:47.884000	1:02:49.098000
 Klima	-	-	-	1:02:47.884000	1:02:49.098000
@@ -10279,9 +10279,9 @@ die	-	-	-	1:02:58.831000	1:03:00.724000
 kamele	-	-	-	1:02:58.831000	1:03:00.724000
 herum	-	-	-	1:02:58.831000	1:03:00.724000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:00.724000" end="1:03:01.218000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:00.724000" end="1:03:01.218000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:01.218000" end="1:03:14.484000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:01.218000" end="1:03:14.484000" age_lower="65" age_upper="999">
 und	-	-	-	1:03:01.218000	1:03:03.404000
 sonstige	-	-	-	1:03:01.218000	1:03:03.404000
 Tiere	-	-	-	1:03:01.218000	1:03:03.404000
@@ -10316,9 +10316,9 @@ in	-	-	-	1:03:11.011000	1:03:14.484000
 der	-	-	-	1:03:11.011000	1:03:14.484000
 Hauptstadt	-	-	-	1:03:11.011000	1:03:14.484000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:14.484000" end="1:03:14.951000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:14.484000" end="1:03:14.951000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:14.951000" end="1:03:26.751000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:14.951000" end="1:03:26.751000" age_lower="65" age_upper="999">
 die	-	-	-	1:03:14.951000	1:03:17.184000
 zweite	-	-	-	1:03:14.951000	1:03:17.184000
 Hälfte	-	-	-	1:03:14.951000	1:03:17.184000
@@ -10345,9 +10345,9 @@ den	-	-	-	1:03:24.658000	1:03:26.751000
 herden	-	-	-	1:03:24.658000	1:03:26.751000
 nach	-	-	-	1:03:24.658000	1:03:26.751000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:26.751000" end="1:03:27.224000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:26.751000" end="1:03:27.224000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:26.751000" end="1:03:37.171000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:26.751000" end="1:03:37.171000" age_lower="65" age_upper="999">
 nicht	-	-	-	1:03:26.751000	1:03:27.224000
 um	-	-	-	1:03:26.751000	1:03:27.224000
 gekehrt	-	-	-	1:03:27.224000	1:03:27.824000
@@ -10383,9 +10383,9 @@ und	-	-	-	1:03:36.131000	1:03:37.171000
 wieder	-	-	-	1:03:36.131000	1:03:37.171000
 stehe	-	-	-	1:03:36.131000	1:03:37.171000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:03:37.171000" end="1:03:38.358000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:03:37.171000" end="1:03:38.358000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:37.171000" end="1:03:45.784000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:37.171000" end="1:03:45.784000" age_lower="65" age_upper="999">
 t	-	-	-	1:03:37.171000	1:03:38.358000
 auch	-	-	-	1:03:37.171000	1:03:38.358000
 ein	-	-	-	1:03:37.171000	1:03:38.358000
@@ -10415,20 +10415,20 @@ sich	-	-	-	1:03:43.784000	1:03:45.784000
 am	-	-	-	1:03:43.784000	1:03:45.784000
 Pferde	-	-	-	1:03:43.784000	1:03:45.784000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:45.784000" end="1:03:46.431000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:45.784000" end="1:03:46.431000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:46.431000" end="1:03:48.011000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:46.431000" end="1:03:48.011000" age_lower="65" age_upper="999">
 und	-	-	-	1:03:46.431000	1:03:48.011000
 zwar	-	-	-	1:03:46.431000	1:03:48.011000
 von	-	-	-	1:03:46.431000	1:03:48.011000
 so	-	-	-	1:03:46.431000	1:03:48.011000
 an	-	-	-	1:03:46.431000	1:03:48.011000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:48.011000" end="1:03:48.558000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:03:48.011000" end="1:03:48.558000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	1:03:48.011000	1:03:48.558000
 t>	-	-	-	1:03:48.011000	1:03:48.558000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:48.011000" end="1:04:17.064000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:03:48.011000" end="1:04:17.064000" age_lower="65" age_upper="999">
 der	-	-	-	1:03:48.011000	1:03:48.558000
 sitzt	-	-	-	1:03:48.011000	1:03:48.558000
 mit	-	-	-	1:03:48.558000	1:03:49.571000
@@ -10534,9 +10534,9 @@ noch	-	-	-	1:04:14.698000	1:04:17.064000
 einmal	-	-	-	1:04:14.698000	1:04:17.064000
 machen	-	-	-	1:04:14.698000	1:04:17.064000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:17.064000" end="1:04:17.375000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:17.064000" end="1:04:17.375000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:04:17.064000" end="1:04:40.878000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:04:17.064000" end="1:04:40.878000" age_lower="65" age_upper="999">
 weil	-	-	-	1:04:17.064000	1:04:17.375000
 die	-	-	-	1:04:17.064000	1:04:17.375000
 man	-	-	-	1:04:17.064000	1:04:17.375000
@@ -10610,9 +10610,9 @@ man	-	-	-	1:04:39.064000	1:04:40.878000
 Café	-	-	-	1:04:39.064000	1:04:40.878000
 sacher	-	-	-	1:04:39.064000	1:04:40.878000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:40.878000" end="1:04:41.758000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:40.878000" end="1:04:41.758000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:04:41.758000" end="1:04:50.341000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:04:41.758000" end="1:04:50.341000" age_lower="65" age_upper="999">
 kein	-	-	-	1:04:41.758000	1:04:43.098000
 Witz	-	-	-	1:04:41.758000	1:04:43.098000
 und	-	-	-	1:04:43.098000	1:04:45.971000
@@ -10638,9 +10638,9 @@ uns	-	-	-	1:04:48.944000	1:04:50.078000
 in	-	-	-	1:04:50.078000	1:04:50.341000
 ORT	ORT	-	-	1:04:50.078000	1:04:50.341000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:50.341000" end="1:04:50.671000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:04:50.341000" end="1:04:50.671000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:04:50.341000" end="1:05:12.791000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:04:50.341000" end="1:05:12.791000" age_lower="65" age_upper="999">
 ORT	ORT	-	-	1:04:50.341000	1:04:50.671000
 mit	-	-	-	1:04:50.671000	1:04:52.491000
 diesen	-	-	-	1:04:50.671000	1:04:52.491000
@@ -10701,17 +10701,17 @@ Berliner	-	-	-	1:05:11.091000	1:05:12.791000
 wollen	-	-	-	1:05:11.091000	1:05:12.791000
 es	-	-	-	1:05:11.091000	1:05:12.791000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:12.791000" end="1:05:13.371000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:12.791000" end="1:05:13.371000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:13.371000" end="1:05:14.937000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:13.371000" end="1:05:14.937000" age_lower="65" age_upper="999">
 sagt	-	-	-	1:05:13.371000	1:05:14.937000
 zum	-	-	-	1:05:13.371000	1:05:14.937000
 kropfen	-	-	-	1:05:13.371000	1:05:14.937000
 Berliner	-	-	-	1:05:13.371000	1:05:14.937000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:14.937000" end="1:05:15.491000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:14.937000" end="1:05:15.491000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:14.937000" end="1:05:19.511000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:14.937000" end="1:05:19.511000" age_lower="65" age_upper="999">
 nein	-	-	-	1:05:14.937000	1:05:15.491000
 da	-	-	-	1:05:15.491000	1:05:16.937000
 ist	-	-	-	1:05:15.491000	1:05:16.937000
@@ -10730,9 +10730,9 @@ da	-	-	-	1:05:17.257000	1:05:19.511000
 nicht	-	-	-	1:05:17.257000	1:05:19.511000
 Berliner	-	-	-	1:05:17.257000	1:05:19.511000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:19.511000" end="1:05:19.777000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:19.511000" end="1:05:19.777000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:19.777000" end="1:05:36.797000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:19.777000" end="1:05:36.797000" age_lower="65" age_upper="999">
 ihr	-	-	-	1:05:19.777000	1:05:22.591000
 seid	-	-	-	1:05:19.777000	1:05:22.591000
 eine	-	-	-	1:05:19.777000	1:05:22.591000
@@ -10782,11 +10782,11 @@ der	-	-	-	1:05:35.084000	1:05:36.797000
 sacher	-	-	-	1:05:35.084000	1:05:36.797000
 heißt	-	-	-	1:05:35.084000	1:05:36.797000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:36.797000" end="1:05:37.524000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:36.797000" end="1:05:37.524000" age_lower="1" age_upper="999">
 ach	-	-	-	1:05:36.797000	1:05:37.524000
 so	-	-	-	1:05:36.797000	1:05:37.524000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:37.524000" end="1:05:45.071000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:37.524000" end="1:05:45.071000" age_lower="65" age_upper="999">
 genau	-	-	-	1:05:39.197000	1:05:40.504000
 so	-	-	-	1:05:39.197000	1:05:40.504000
 schreibt	-	-	-	1:05:39.197000	1:05:40.504000
@@ -10809,10 +10809,10 @@ das	-	-	-	1:05:43.451000	1:05:45.071000
 dort	-	-	-	1:05:43.451000	1:05:45.071000
 aufgemacht	-	-	-	1:05:43.451000	1:05:45.071000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:45.071000" end="1:05:45.617000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:45.071000" end="1:05:45.617000" age_lower="1" age_upper="999">
 aha	-	-	-	1:05:45.071000	1:05:45.617000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:45.617000" end="1:05:53.444000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:45.617000" end="1:05:53.444000" age_lower="65" age_upper="999">
 und	-	-	-	1:05:45.617000	1:05:47.917000
 hat	-	-	-	1:05:45.617000	1:05:47.917000
 natürlich	-	-	-	1:05:45.617000	1:05:47.917000
@@ -10841,9 +10841,9 @@ angerufen	-	-	-	1:05:51.004000	1:05:52.584000
 ORT	ORT	-	-	1:05:52.584000	1:05:53.111000
 und	-	-	-	1:05:53.111000	1:05:53.444000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:53.444000" end="1:05:53.937000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:05:53.444000" end="1:05:53.937000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:53.444000" end="1:05:59.481000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:53.444000" end="1:05:59.481000" age_lower="65" age_upper="999">
 habe	-	-	-	1:05:53.444000	1:05:53.937000
 ihm	-	-	-	1:05:53.444000	1:05:53.937000
 gesagt	-	-	-	1:05:53.444000	1:05:53.937000
@@ -10865,24 +10865,24 @@ der	-	-	-	1:05:56.351000	1:05:59.204000
 Stadt	-	-	-	1:05:56.351000	1:05:59.204000
 und	-	-	-	1:05:59.204000	1:05:59.481000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:05:59.481000" end="1:05:59.897000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:05:59.481000" end="1:05:59.897000" age_lower="1" age_upper="999">
 die	-	-	-	1:05:59.481000	1:05:59.897000
 kat	-	-	-	1:05:59.481000	1:05:59.897000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:59.481000" end="1:05:59.897000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:05:59.481000" end="1:05:59.897000" age_lower="65" age_upper="999">
 und	-	-	-	1:05:59.481000	1:05:59.897000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:05:59.897000" end="1:06:01.217000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:05:59.897000" end="1:06:01.217000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	1:05:59.897000	1:06:01.217000
 oder	-	-	-	1:05:59.897000	1:06:01.217000
 wie	-	-	-	1:05:59.897000	1:06:01.217000
 haßt	-	-	-	1:05:59.897000	1:06:01.217000
 das	-	-	-	1:05:59.897000	1:06:01.217000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:01.217000" end="1:06:01.484000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:01.217000" end="1:06:01.484000" age_lower="65" age_upper="999">
 wie	-	-	-	1:06:01.217000	1:06:01.484000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:01.484000" end="1:06:02.857000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:01.484000" end="1:06:02.857000" age_lower="1" age_upper="999">
 wie	-	-	-	1:06:01.484000	1:06:02.444000
 hat	-	-	-	1:06:01.484000	1:06:02.444000
 das	-	-	-	1:06:01.484000	1:06:02.444000
@@ -10890,31 +10890,31 @@ die	-	-	-	1:06:01.484000	1:06:02.444000
 Stadt	-	-	-	1:06:01.484000	1:06:02.444000
 ghaßen	-	-	-	1:06:02.444000	1:06:02.857000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:02.444000" end="1:06:03.137000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:02.444000" end="1:06:03.137000" age_lower="65" age_upper="999">
 ORT	ORT	-	-	1:06:02.444000	1:06:02.857000
 ba	-	-	-	1:06:02.444000	1:06:02.857000
 ORT	ORT	-	-	1:06:02.857000	1:06:03.137000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:03.137000" end="1:06:03.511000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:03.137000" end="1:06:03.511000" age_lower="1" age_upper="999">
 ah	-	-	-	1:06:03.137000	1:06:03.344000
 ORT	ORT	-	-	1:06:03.137000	1:06:03.344000
 li	-	-	-	1:06:03.344000	1:06:03.511000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:03.344000" end="1:06:03.511000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:03.344000" end="1:06:03.511000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:03.511000" end="1:06:04.011000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:03.511000" end="1:06:04.011000" age_lower="1" age_upper="999">
 ba	-	-	-	1:06:03.511000	1:06:03.624000
 ORT	ORT	-	-	1:06:03.624000	1:06:04.011000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:03.624000" end="1:06:04.211000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:03.624000" end="1:06:04.211000" age_lower="65" age_upper="999">
 ORT	ORT	-	-	1:06:03.624000	1:06:04.011000
 ba	-	-	-	1:06:03.624000	1:06:04.011000
 ORT	ORT	-	-	1:06:04.011000	1:06:04.211000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:04.211000" end="1:06:04.384000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:04.211000" end="1:06:04.384000" age_lower="1" age_upper="999">
 ja	-	-	-	1:06:04.211000	1:06:04.384000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:04.384000" end="1:06:25.584000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:04.384000" end="1:06:25.584000" age_lower="65" age_upper="999">
 und	-	-	-	1:06:04.384000	1:06:08.551000
 äh	-	-	-	1:06:04.384000	1:06:08.551000
 und	-	-	-	1:06:04.384000	1:06:08.551000
@@ -10996,9 +10996,9 @@ sofort	-	-	-	1:06:24.131000	1:06:25.317000
 ändern	-	-	-	1:06:24.131000	1:06:25.317000
 nicht	-	-	-	1:06:25.317000	1:06:25.584000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:25.584000" end="1:06:25.851000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:25.584000" end="1:06:25.851000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:25.584000" end="1:06:34.817000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:25.584000" end="1:06:34.817000" age_lower="65" age_upper="999">
 und	-	-	-	1:06:25.584000	1:06:25.851000
 hat	-	-	-	1:06:25.851000	1:06:26.617000
 man	-	-	-	1:06:25.851000	1:06:26.617000
@@ -11031,10 +11031,10 @@ nicht	-	-	-	1:06:33.171000	1:06:33.451000
 und	-	-	-	1:06:33.451000	1:06:34.817000
 dadurch	-	-	-	1:06:33.451000	1:06:34.817000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:34.817000" end="1:06:35.104000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:34.817000" end="1:06:35.104000" age_lower="1" age_upper="999">
 ja	-	-	-	1:06:34.817000	1:06:35.104000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:34.817000" end="1:06:38.717000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:34.817000" end="1:06:38.717000" age_lower="65" age_upper="999">
 sind	-	-	-	1:06:34.817000	1:06:35.104000
 das	-	-	-	1:06:34.817000	1:06:35.104000
 ein	-	-	-	1:06:34.817000	1:06:35.104000
@@ -11055,7 +11055,7 @@ die	-	-	-	1:06:37.351000	1:06:38.437000
 iwernommen	-	-	-	1:06:37.351000	1:06:38.437000
 nicht	-	-	-	1:06:38.437000	1:06:38.717000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:38.717000" end="1:06:41.037000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:38.717000" end="1:06:41.037000" age_lower="1" age_upper="999">
 da	-	-	-	1:06:39.244000	1:06:41.037000
 haben	-	-	-	1:06:39.244000	1:06:41.037000
 sie	-	-	-	1:06:39.244000	1:06:41.037000
@@ -11063,15 +11063,15 @@ sich	-	-	-	1:06:39.244000	1:06:41.037000
 sozusagen	-	-	-	1:06:39.244000	1:06:41.037000
 angepasst	-	-	-	1:06:39.244000	1:06:41.037000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:41.037000" end="1:06:42.111000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:41.037000" end="1:06:42.111000" age_lower="65" age_upper="999">
 mehr	-	-	-	1:06:41.037000	1:06:42.111000
 oder	-	-	-	1:06:41.037000	1:06:42.111000
 weni	-	-	-	1:06:41.037000	1:06:42.111000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:42.111000" end="1:06:42.311000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:42.111000" end="1:06:42.311000" age_lower="1" age_upper="999">
 ja	-	-	-	1:06:42.111000	1:06:42.311000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:42.111000" end="1:06:47.697000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:42.111000" end="1:06:47.697000" age_lower="65" age_upper="999">
 ger	-	-	-	1:06:42.111000	1:06:42.311000
 nicht	-	-	-	1:06:42.311000	1:06:42.697000
 ja	-	-	-	1:06:42.697000	1:06:44.844000
@@ -11097,28 +11097,28 @@ mit	-	-	-	1:06:45.824000	1:06:47.344000
 ihr	-	-	-	1:06:45.824000	1:06:47.344000
 puh	-	-	-	1:06:47.344000	1:06:47.697000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:47.697000" end="1:06:48.837000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:47.697000" end="1:06:48.837000" age_lower="1" age_upper="999">
 ja	-	-	-	1:06:47.697000	1:06:48.837000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:48.837000" end="1:06:49.744000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:48.837000" end="1:06:49.744000" age_lower="65" age_upper="999">
 Sie	-	-	-	1:06:48.837000	1:06:49.744000
 haben	-	-	-	1:06:48.837000	1:06:49.744000
 ja	-	-	-	1:06:48.837000	1:06:49.744000
 sicher	-	-	-	1:06:48.837000	1:06:49.744000
 noch	-	-	-	1:06:48.837000	1:06:49.744000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:49.047000" end="1:06:49.977000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:49.047000" end="1:06:49.977000" age_lower="1" age_upper="999">
 je	-	-	-	1:06:49.047000	1:06:49.411000
 oh	-	-	-	1:06:49.047000	1:06:49.411000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:49.977000" end="1:06:50.631000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:49.977000" end="1:06:50.631000" age_lower="65" age_upper="999">
 ich	-	-	-	1:06:49.977000	1:06:50.631000
 glaube	-	-	-	1:06:49.977000	1:06:50.631000
 ich	-	-	-	1:06:49.977000	1:06:50.631000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:50.631000" end="1:06:51.011000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:50.631000" end="1:06:51.011000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:50.631000" end="1:06:53.711000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:50.631000" end="1:06:53.711000" age_lower="65" age_upper="999">
 glaube	-	-	-	1:06:50.631000	1:06:51.011000
 ich	-	-	-	1:06:50.631000	1:06:51.011000
 habe	-	-	-	1:06:50.631000	1:06:51.011000
@@ -11133,11 +11133,11 @@ es	-	-	-	1:06:52.311000	1:06:53.711000
 äh	-	-	-	1:06:52.311000	1:06:53.711000
 äh	-	-	-	1:06:52.311000	1:06:53.711000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:53.711000" end="1:06:54.484000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:53.711000" end="1:06:54.484000" age_lower="1" age_upper="999">
 aber	-	-	-	1:06:53.711000	1:06:54.484000
 da	-	-	-	1:06:53.711000	1:06:54.484000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:53.711000" end="1:06:54.944000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:53.711000" end="1:06:54.944000" age_lower="65" age_upper="999">
 nicht	-	-	-	1:06:53.711000	1:06:54.484000
 nicht	-	-	-	1:06:53.711000	1:06:54.484000
 zu	-	-	-	1:06:53.711000	1:06:54.484000
@@ -11145,7 +11145,7 @@ v	-	-	-	1:06:53.711000	1:06:54.484000
 iel	-	-	-	1:06:54.484000	1:06:54.944000
 war	-	-	-	1:06:54.484000	1:06:54.944000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:54.944000" end="1:06:56.964000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:54.944000" end="1:06:56.964000" age_lower="1" age_upper="999">
 dafür	-	-	-	1:06:54.944000	1:06:56.437000
 bin	-	-	-	1:06:54.944000	1:06:56.437000
 ich	-	-	-	1:06:54.944000	1:06:56.437000
@@ -11153,46 +11153,46 @@ ja	-	-	-	1:06:54.944000	1:06:56.437000
 auch	-	-	-	1:06:54.944000	1:06:56.437000
 da	-	-	-	1:06:54.944000	1:06:56.437000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:56.717000" end="1:06:56.964000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:56.717000" end="1:06:56.964000" age_lower="65" age_upper="999">
 ja	-	-	-	1:06:56.717000	1:06:56.964000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:56.964000" end="1:06:57.631000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:56.964000" end="1:06:57.631000" age_lower="1" age_upper="999">
 ja	-	-	-	1:06:56.964000	1:06:57.631000
 vielleicht	-	-	-	1:06:56.964000	1:06:57.631000
 sagt	-	-	-	1:06:56.964000	1:06:57.631000
 es	-	-	-	1:06:56.964000	1:06:57.631000
 ja	-	-	-	1:06:56.964000	1:06:57.631000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:56.964000" end="1:06:57.631000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:56.964000" end="1:06:57.631000" age_lower="65" age_upper="999">
 aber	-	-	-	1:06:56.964000	1:06:57.631000
 ich	-	-	-	1:06:56.964000	1:06:57.631000
 weiss	-	-	-	1:06:56.964000	1:06:57.631000
 ja	-	-	-	1:06:56.964000	1:06:57.631000
 nicht	-	-	-	1:06:56.964000	1:06:57.631000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:57.631000" end="1:06:58.297000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:57.631000" end="1:06:58.297000" age_lower="1" age_upper="999">
 wenn	-	-	-	1:06:57.631000	1:06:58.297000
 nächste	-	-	-	1:06:57.631000	1:06:58.297000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:57.631000" end="1:06:58.391000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:57.631000" end="1:06:58.391000" age_lower="65" age_upper="999">
 was	-	-	-	1:06:57.631000	1:06:58.297000
 Sie	-	-	-	1:06:57.631000	1:06:58.297000
 noch	-	-	-	1:06:57.631000	1:06:58.297000
 alle	-	-	-	1:06:57.631000	1:06:58.297000
 es	-	-	-	1:06:58.297000	1:06:58.391000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:58.391000" end="1:06:59.377000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:06:58.391000" end="1:06:59.377000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:58.391000" end="1:06:59.377000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:06:58.391000" end="1:06:59.377000" age_lower="65" age_upper="999">
 unterbringen	-	-	-	1:06:58.391000	1:06:59.377000
 wollen	-	-	-	1:06:58.391000	1:06:59.377000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:59.377000" end="1:07:00.464000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:06:59.377000" end="1:07:00.464000" age_lower="1" age_upper="999">
 noch	-	-	-	1:06:59.377000	1:07:00.057000
 f	-	-	-	1:06:59.377000	1:07:00.057000
 ein	-	-	-	1:07:00.057000	1:07:00.464000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:00.057000" end="1:07:11.704000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:00.057000" end="1:07:11.704000" age_lower="1" age_upper="999">
 wie	-	-	-	1:07:00.464000	1:07:03.044000
 wie	-	-	-	1:07:00.464000	1:07:03.044000
 ist	-	-	-	1:07:00.464000	1:07:03.044000
@@ -11225,7 +11225,7 @@ auch	-	-	-	1:07:08.804000	1:07:10.904000
 ORT	ORT	-	-	1:07:08.804000	1:07:10.904000
 oder	-	-	-	1:07:08.804000	1:07:10.904000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:10.904000" end="1:07:16.364000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:10.904000" end="1:07:16.364000" age_lower="65" age_upper="999">
 ja	-	-	-	1:07:10.904000	1:07:11.704000
 als	-	-	-	1:07:10.904000	1:07:11.704000
 o	-	-	-	1:07:11.704000	1:07:14.104000
@@ -11238,21 +11238,21 @@ allein	-	-	-	1:07:14.104000	1:07:15.771000
 dadurch	-	-	-	1:07:14.104000	1:07:15.771000
 öh	-	-	-	1:07:15.771000	1:07:16.364000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:16.364000" end="1:07:18.157000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:16.364000" end="1:07:18.157000" age_lower="1" age_upper="999">
 durch	-	-	-	1:07:16.364000	1:07:17.464000
 die	-	-	-	1:07:16.364000	1:07:17.464000
 Hobbys	-	-	-	1:07:16.364000	1:07:17.464000
 wahrschein	-	-	-	1:07:17.464000	1:07:17.884000
 lich	-	-	-	1:07:17.884000	1:07:18.157000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:17.884000" end="1:07:18.777000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:17.884000" end="1:07:18.777000" age_lower="65" age_upper="999">
 durch	-	-	-	1:07:17.884000	1:07:18.157000
 die	-	-	-	1:07:17.884000	1:07:18.157000
 Hobbys	-	-	-	1:07:18.157000	1:07:18.777000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:18.777000" end="1:07:19.484000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:18.777000" end="1:07:19.484000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:18.777000" end="1:07:22.751000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:18.777000" end="1:07:22.751000" age_lower="65" age_upper="999">
 also	-	-	-	1:07:18.777000	1:07:19.484000
 ich	-	-	-	1:07:18.777000	1:07:19.484000
 habe	-	-	-	1:07:18.777000	1:07:19.484000
@@ -11264,9 +11264,9 @@ in	-	-	-	1:07:21.377000	1:07:22.751000
 dem	-	-	-	1:07:21.377000	1:07:22.751000
 SONSTIGE	SONSTIGE	-	-	1:07:21.377000	1:07:22.751000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:22.751000" end="1:07:23.664000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:22.751000" end="1:07:23.664000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:23.664000" end="1:07:38.291000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:23.664000" end="1:07:38.291000" age_lower="65" age_upper="999">
 ich	-	-	-	1:07:23.664000	1:07:26.377000
 habe	-	-	-	1:07:23.664000	1:07:26.377000
 gute	-	-	-	1:07:23.664000	1:07:26.377000
@@ -11306,9 +11306,9 @@ ein	-	-	-	1:07:34.864000	1:07:37.831000
 Bruder	-	-	-	1:07:34.864000	1:07:37.831000
 nicht	-	-	-	1:07:37.831000	1:07:38.291000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:38.291000" end="1:07:38.757000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:07:38.291000" end="1:07:38.757000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:38.757000" end="1:08:09.951000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:07:38.757000" end="1:08:09.951000" age_lower="65" age_upper="999">
 und	-	-	-	1:07:38.757000	1:07:42.637000
 wir	-	-	-	1:07:38.757000	1:07:42.637000
 sind	-	-	-	1:07:38.757000	1:07:42.637000
@@ -11411,9 +11411,9 @@ einem	-	-	-	1:08:05.857000	1:08:09.951000
 Lokal	-	-	-	1:08:05.857000	1:08:09.951000
 getroffen	-	-	-	1:08:05.857000	1:08:09.951000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:09.951000" end="1:08:10.431000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:09.951000" end="1:08:10.431000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:08:10.431000" end="1:08:44.211000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:08:10.431000" end="1:08:44.211000" age_lower="65" age_upper="999">
 das	-	-	-	1:08:10.431000	1:08:12.791000
 war	-	-	-	1:08:10.431000	1:08:12.791000
 in	-	-	-	1:08:10.431000	1:08:12.791000
@@ -11500,9 +11500,9 @@ Teller	-	-	-	1:08:41.850000	1:08:44.211000
 Pommes	-	-	-	1:08:41.850000	1:08:44.211000
 frites	-	-	-	1:08:41.850000	1:08:44.211000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:44.211000" end="1:08:46.144000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:08:44.211000" end="1:08:46.144000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:08:44.977000" end="1:09:12.537000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:08:44.977000" end="1:09:12.537000" age_lower="65" age_upper="999">
 das	-	-	-	1:08:44.977000	1:08:46.144000
 waren	-	-	-	1:08:44.977000	1:08:46.144000
 durt	-	-	-	1:08:44.977000	1:08:46.144000
@@ -11615,9 +11615,9 @@ Pommes	-	-	-	1:09:09.511000	1:09:12.537000
 frites	-	-	-	1:09:09.511000	1:09:12.537000
 gegessen	-	-	-	1:09:09.511000	1:09:12.537000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:12.537000" end="1:09:12.857000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:12.537000" end="1:09:12.857000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:12.537000" end="1:09:18.211000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:12.537000" end="1:09:18.211000" age_lower="65" age_upper="999">
 aber	-	-	-	1:09:12.537000	1:09:12.857000
 ein	-	-	-	1:09:12.537000	1:09:12.857000
 eine	-	-	-	1:09:12.857000	1:09:13.676000
@@ -11645,76 +11645,76 @@ uns	-	-	-	1:09:16.451000	1:09:18.211000
 heute	-	-	-	1:09:16.451000	1:09:18.211000
 noch	-	-	-	1:09:16.451000	1:09:18.211000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:18.211000" end="1:09:18.977000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:18.211000" end="1:09:18.977000" age_lower="1" age_upper="999">
 ah	-	-	-	1:09:18.211000	1:09:18.977000
 schön	-	-	-	1:09:18.211000	1:09:18.977000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:18.977000" end="1:09:19.743000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:18.977000" end="1:09:19.743000" age_lower="65" age_upper="999">
 regelmäßig	-	-	-	1:09:18.977000	1:09:19.743000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:19.743000" end="1:09:20.191000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:19.743000" end="1:09:20.191000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:19.743000" end="1:09:21.004000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:19.743000" end="1:09:21.004000" age_lower="65" age_upper="999">
 Regel	-	-	-	1:09:19.743000	1:09:20.191000
 wirk	-	-	-	1:09:19.743000	1:09:20.191000
 lich	-	-	-	1:09:20.191000	1:09:21.004000
 regelmäßig	-	-	-	1:09:20.191000	1:09:21.004000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:21.004000" end="1:09:22.497000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:21.004000" end="1:09:22.497000" age_lower="1" age_upper="999">
 und	-	-	-	1:09:21.004000	1:09:22.497000
 das	-	-	-	1:09:21.004000	1:09:22.497000
 seit	-	-	-	1:09:21.004000	1:09:22.497000
 der	-	-	-	1:09:21.004000	1:09:22.497000
 Schulzeit	-	-	-	1:09:21.004000	1:09:22.497000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:21.004000" end="1:09:22.497000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:21.004000" end="1:09:22.497000" age_lower="65" age_upper="999">
 machen	-	-	-	1:09:21.004000	1:09:22.497000
 machen	-	-	-	1:09:21.004000	1:09:22.497000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:22.497000" end="1:09:23.044000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:22.497000" end="1:09:23.044000" age_lower="1" age_upper="999">
 das	-	-	-	1:09:22.497000	1:09:23.044000
 ist	-	-	-	1:09:22.497000	1:09:23.044000
 schun	-	-	-	1:09:22.497000	1:09:23.044000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:22.497000" end="1:09:23.044000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:22.497000" end="1:09:23.044000" age_lower="65" age_upper="999">
 gemeinsame	-	-	-	1:09:22.497000	1:09:23.044000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:23.044000" end="1:09:23.571000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:23.044000" end="1:09:23.571000" age_lower="1" age_upper="999">
 ein	-	-	-	1:09:23.044000	1:09:23.243000
 lei	-	-	-	1:09:23.044000	1:09:23.243000
 stung	-	-	-	1:09:23.243000	1:09:23.571000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:23.243000" end="1:09:23.571000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:23.243000" end="1:09:23.571000" age_lower="65" age_upper="999">
 das	-	-	-	1:09:23.243000	1:09:23.571000
 hat	-	-	-	1:09:23.243000	1:09:23.571000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:23.571000" end="1:09:24.060000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:23.571000" end="1:09:24.060000" age_lower="1" age_upper="999">
 ja	-	-	-	1:09:23.571000	1:09:24.060000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:23.571000" end="1:09:24.060000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:23.571000" end="1:09:24.060000" age_lower="65" age_upper="999">
 sich	-	-	-	1:09:23.571000	1:09:24.060000
 dann	-	-	-	1:09:23.571000	1:09:24.060000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:24.060000" end="1:09:24.331000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:24.060000" end="1:09:24.331000" age_lower="1" age_upper="999">
 ja	-	-	-	1:09:24.060000	1:09:24.331000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:24.060000" end="1:09:24.504000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:24.060000" end="1:09:24.504000" age_lower="65" age_upper="999">
 mich	-	-	-	1:09:24.060000	1:09:24.331000
 t	-	-	-	1:09:24.331000	1:09:24.504000
 un	-	-	-	1:09:24.331000	1:09:24.504000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:24.504000" end="1:09:24.756000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:24.504000" end="1:09:24.756000" age_lower="1" age_upper="999">
 ja	-	-	-	1:09:24.504000	1:09:24.756000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:24.504000" end="1:09:25.991000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:24.504000" end="1:09:25.991000" age_lower="65" age_upper="999">
 sren	-	-	-	1:09:24.504000	1:09:24.756000
 Kindern	-	-	-	1:09:24.756000	1:09:25.991000
 vermischt	-	-	-	1:09:24.756000	1:09:25.991000
 </u>
-<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:25.991000" end="1:09:26.331000" persName="Informant 4066_G" age_lower="" age_upper="999">
+<u who="spk_735" sex="female" age="Unspezifisch" name="Informant 4066_G" location="UNK" lat="None" lon="None" start="1:09:25.991000" end="1:09:26.331000" age_lower="1" age_upper="999">
 ja	-	-	-	1:09:25.991000	1:09:26.331000
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:25.991000" end="1:09:44.697000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:25.991000" end="1:09:44.697000" age_lower="65" age_upper="999">
 ja	-	-	-	1:09:25.991000	1:09:26.331000
 alle	-	-	-	1:09:26.331000	1:09:27.424000
 haben	-	-	-	1:09:26.331000	1:09:27.424000
@@ -11772,9 +11772,9 @@ paar	-	-	-	1:09:43.551000	1:09:44.697000
 Jahr	-	-	-	1:09:43.551000	1:09:44.697000
 hintrein	-	-	-	1:09:43.551000	1:09:44.697000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:44.697000" end="1:09:45.243000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:44.697000" end="1:09:45.243000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:44.697000" end="1:09:53.477000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:44.697000" end="1:09:53.477000" age_lower="65" age_upper="999">
 onder	-	-	-	1:09:44.697000	1:09:45.243000
 gemacht	-	-	-	1:09:44.697000	1:09:45.243000
 haben	-	-	-	1:09:45.243000	1:09:45.437000
@@ -11803,9 +11803,9 @@ weihnochtslieder	-	-	-	1:09:50.584000	1:09:53.477000
 dort	-	-	-	1:09:50.584000	1:09:53.477000
 gekräht	-	-	-	1:09:50.584000	1:09:53.477000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:53.477000" end="1:09:54.277000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:09:53.477000" end="1:09:54.277000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:53.477000" end="1:10:00.537000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:09:53.477000" end="1:10:00.537000" age_lower="65" age_upper="999">
 mitten	-	-	-	1:09:53.477000	1:09:54.277000
 im	-	-	-	1:09:53.477000	1:09:54.277000
 Wald	-	-	-	1:09:53.477000	1:09:54.277000
@@ -11832,9 +11832,9 @@ Abendessen	-	-	-	1:09:59.011000	1:10:00.344000
 gegangen	-	-	-	1:09:59.011000	1:10:00.344000
 nicht	-	-	-	1:10:00.344000	1:10:00.537000
 </u>
-<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:10:00.537000" end="1:10:02.537000" persName="Informant EXP12" age_lower="" age_upper="999">
+<u who="spk_627" sex="female" age="UNK" name="Informant EXP12" location="UNK" lat="None" lon="None" start="1:10:00.537000" end="1:10:02.537000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:10:00.537000" end="1:10:02.537000" persName="Informant 4066" residence="Währing, Wien, 1180, Österreich" age_lower="65" age_upper="999">
+<u who="spk_682" sex="male" age="alt (65+) männlich" name="Informant 4066" location="Währing, Wien, 1180, Österreich" lat="48.234115" lon="16.321605699999996" start="1:10:00.537000" end="1:10:02.537000" age_lower="65" age_upper="999">
 </u>
 </file>
 </doc>

@@ -1,12 +1,12 @@
 <doc id="transcript_466" name="0033_ALLE_alt_f_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="466.xml" title="Transcript: Transcript_466">
-<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:21.726000" end="0:00:22.926000" persName="Informant 0033" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="65" age_upper="999">
+<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:21.726000" end="0:00:22.926000" age_lower="65" age_upper="999">
 Nordwind	-	-	-	0:00:21.726000	0:00:22.926000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:21.726000" end="0:00:22.926000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:21.726000" end="0:00:22.926000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:21.726000	0:00:22.926000
 </u>
-<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:21.726000" end="0:01:07.766000" persName="Informant 0033" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="65" age_upper="999">
+<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:21.726000" end="0:01:07.766000" age_lower="65" age_upper="999">
 und	-	-	-	0:00:21.726000	0:00:22.926000
 Sonne	-	-	-	0:00:21.726000	0:00:22.926000
 .	-	-	-	0:00:21.726000	0:00:22.926000
@@ -151,10 +151,10 @@ wäre	-	-	-	0:01:04.180000	0:01:07.766000
 /	-	-	-	0:01:04.180000	0:01:07.766000
 war	-	-	-	0:01:04.180000	0:01:07.766000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:07.780000" end="0:01:09.900000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:07.780000" end="0:01:09.900000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:07.780000	0:01:09.900000
 </u>
-<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:07.780000" end="0:01:09.900000" persName="Informant 0033" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="65" age_upper="999">
+<u who="spk_66" sex="female" age="Alt (65+)" name="Informant 0033" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:07.780000" end="0:01:09.900000" age_lower="65" age_upper="999">
 XXX	-	-	-	0:01:07.780000	0:01:09.900000
 </u>
 </file>

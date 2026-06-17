@@ -1,6 +1,6 @@
 <doc id="transcript_215" name="0324_0331_OBER_GFG_TEST1" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="215.xml" title="Transcript: Transcript_215">
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:01.433000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:01.433000" age_lower="1" age_upper="999">
 ab	ab	ADP	-	0:00:00	0:00:01.433000
 jetzt	jetzt	ADV	-	0:00:00	0:00:01.433000
 läuft	laufen	VERB	-	0:00:00	0:00:01.433000
@@ -8,15 +8,15 @@ das	der	DET	-	0:00:00	0:00:01.433000
 Gerät	Gerät	NOUN	-	0:00:00	0:00:01.433000
 .	-	-	-	0:00:00	0:00:01.433000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:01.426000" end="0:00:01.800000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:01.426000" end="0:00:01.800000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:00:01.426000	0:00:01.800000
 .	-	-	-	0:00:01.426000	0:00:01.800000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:01.800000" end="0:00:02.353000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:01.800000" end="0:00:02.353000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:00:01.800000	0:00:02.353000
 .	-	-	-	0:00:01.800000	0:00:02.353000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:01.800000" end="0:00:04.353000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:01.800000" end="0:00:04.353000" age_lower="1" age_upper="999">
 und	und	CCONJ	-	0:00:01.800000	0:00:02.353000
 dann	dann	ADV	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:00:02.353000	0:00:04.353000
 wünsche	wünsche	VERB	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Wunsch Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:00:02.353000	0:00:04.353000
@@ -28,15 +28,15 @@ Vergnügen	Vergnügen	NOUN	Abschied Anrede_Form Anrede_Name Appo Appo- Dimin Dim
 okay	okay	NOUN	-	0:00:02.353000	0:00:04.353000
 ?	-	-	-	0:00:02.353000	0:00:04.353000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:04.353000" end="0:00:04.766000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:04.353000" end="0:00:04.766000" age_lower="18" age_upper="35">
 danke	danke	PART	-	0:00:04.353000	0:00:04.766000
 .	-	-	-	0:00:04.353000	0:00:04.766000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:04.766000" end="0:00:05.053000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:04.766000" end="0:00:05.053000" age_lower="1" age_upper="999">
 gut	gut	ADJ	-	0:00:04.766000	0:00:05.053000
 .	-	-	-	0:00:04.766000	0:00:05.053000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:05.053000" end="0:00:07.386000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:05.053000" end="0:00:07.386000" age_lower="18" age_upper="35">
 danke	danke	PART	-	0:00:05.053000	0:00:05.386000
 .	-	-	-	0:00:05.053000	0:00:05.386000
 willst	wollen	VERB	-	0:00:05.386000	0:00:07.386000
@@ -45,14 +45,14 @@ anfangen	anfangen	VERB	-	0:00:05.386000	0:00:07.386000
 oder	oder	CCONJ	-	0:00:05.386000	0:00:07.386000
 /?	-	-	-	0:00:05.386000	0:00:07.386000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:07.386000" end="0:00:08.113000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:07.386000" end="0:00:08.113000" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:00:07.386000	0:00:08.113000
 ist	sein	AUX	-	0:00:07.386000	0:00:08.113000
 es	ich	PRON	-	0:00:07.386000	0:00:08.113000
 gleich	gleichen	ADV	-	0:00:07.386000	0:00:08.113000
 .	-	-	-	0:00:07.386000	0:00:08.113000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:08.113000" end="0:00:12.406000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:08.113000" end="0:00:12.406000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:00:08.113000	0:00:09.986000
 ,	-	-	-	0:00:08.113000	0:00:09.986000
 nachher	nachher	ADV	-	0:00:08.113000	0:00:09.986000
@@ -71,11 +71,11 @@ nämlich	nämlich	ADV	-	0:00:09.986000	0:00:12.406000
 nicht	nicht	PART	-	0:00:09.986000	0:00:12.406000
 zu	-	-	-	0:00:09.986000	0:00:12.406000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:12.406000" end="0:00:12.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:12.406000" end="0:00:12.906000" age_lower="18" age_upper="35">
 oje	oje	PROPN	-	0:00:12.406000	0:00:12.906000
 .	-	-	-	0:00:12.406000	0:00:12.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:12.406000" end="0:00:15.800000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:12.406000" end="0:00:15.800000" age_lower="18" age_upper="35">
 beantworten	bock	ADJ	-	0:00:12.406000	0:00:12.906000
 .	-	-	-	0:00:12.406000	0:00:12.906000
 stell	stell	ADJ	-	0:00:12.906000	0:00:14.073000
@@ -90,7 +90,7 @@ umziehen	umziehen	VERB	-	0:00:14.073000	0:00:15.800000
 würdest	werden	NOUN	-	0:00:14.073000	0:00:15.800000
 .	-	-	-	0:00:14.073000	0:00:15.800000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:15.800000" end="0:00:25.546000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:15.800000" end="0:00:25.546000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ähm	ähm	PROPN	-	0:00:15.800000	0:00:19.806000
 täte	tun	VERB	KONJ	0:00:15.800000	0:00:19.806000
@@ -128,10 +128,10 @@ Berge	Berg	NOUN	-	0:00:24.640000	0:00:25.546000
 gibt	geben	VERB	-	0:00:24.640000	0:00:25.546000
 .	-	-	-	0:00:24.640000	0:00:25.546000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:25.553000" end="0:00:26.440000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:25.553000" end="0:00:26.440000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:25.553000" end="0:00:36.980000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:25.553000" end="0:00:36.980000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 wo	wo	ADV	-	0:00:25.553000	0:00:26.440000
 auch	auch	ADV	-	0:00:26.440000	0:00:30.606000
@@ -160,7 +160,7 @@ nicht	nicht	PART	KONJ	0:00:30.606000	0:00:36.980000
 einleben	einleben	VERB	KONJ	0:00:30.606000	0:00:36.980000
 .	-	-	-	0:00:30.606000	0:00:36.980000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:36.980000" end="0:00:38.373000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:36.980000" end="0:00:38.373000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:36.980000	0:00:38.013000
 ,	-	-	-	0:00:36.980000	0:00:38.013000
 einfach	einfach	ADV	-	0:00:36.980000	0:00:38.013000
@@ -168,11 +168,11 @@ die	der	DET	-	0:00:36.980000	0:00:38.013000
 Mentalität	Mentalität	NOUN	-	0:00:36.980000	0:00:38.013000
 und	und	CCONJ	-	0:00:38.013000	0:00:38.373000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:38.013000" end="0:00:38.373000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:38.013000" end="0:00:38.373000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:38.013000	0:00:38.373000
 .	-	-	-	0:00:38.013000	0:00:38.373000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:38.373000" end="0:00:44.853000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:38.373000" end="0:00:44.853000" age_lower="18" age_upper="35">
 (Sonstiges)	Sonstiges	NOUN	-	0:00:38.373000	0:00:39.113000
 gell	gell	ADJ	-	0:00:38.373000	0:00:39.113000
 ?	-	-	-	0:00:38.373000	0:00:39.113000
@@ -198,7 +198,7 @@ Süden	Süden	NOUN	-	0:00:41.233000	0:00:42.640000
 was	was	PRON	-	0:00:42.640000	0:00:44.853000
 ?	-	-	-	0:00:42.640000	0:00:44.853000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:44.853000" end="0:00:52.866000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:44.853000" end="0:00:52.866000" age_lower="18" age_upper="35">
 warte	-	-	-	0:00:44.853000	0:00:46.206000
 ,	-	-	-	0:00:44.853000	0:00:46.206000
 dann	-	-	-	0:00:44.853000	0:00:46.206000
@@ -221,7 +221,7 @@ so	so	ADV	-	0:00:51.726000	0:00:52.866000
 ein	einen	ADP	-	0:00:51.726000	0:00:52.866000
 ?	-	-	-	0:00:51.726000	0:00:52.866000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:52.866000" end="0:01:06.453000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:00:52.866000" end="0:01:06.453000" age_lower="18" age_upper="35">
 hm	hm	X	-	0:00:52.866000	0:00:58.140000
 ja	ja	ADV	-	0:00:52.866000	0:00:58.140000
 die	der	DET	-	0:00:52.866000	0:00:58.140000
@@ -272,11 +272,11 @@ Leute	-	-	-	0:01:03.460000	0:01:06.453000
 darauf	-	-	-	0:01:03.460000	0:01:06.453000
 aufmerksam	-	-	-	0:01:03.460000	0:01:06.453000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:06.453000" end="0:01:06.773000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:06.453000" end="0:01:06.773000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:06.453000	0:01:06.773000
 .	-	-	-	0:01:06.453000	0:01:06.773000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:06.453000" end="0:01:18.326000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:06.453000" end="0:01:18.326000" age_lower="18" age_upper="35">
 machen	-	-	-	0:01:06.453000	0:01:06.773000
 ,	-	-	-	0:01:06.453000	0:01:06.773000
 *wast*	-	-	-	0:01:06.773000	0:01:08.126000
@@ -322,11 +322,11 @@ damische	damische	ADJ	-	0:01:16.220000	0:01:18.326000
 Aderle	Aderle	NOUN	-	0:01:16.220000	0:01:18.326000
 angehaut	angehaut	VERB	-	0:01:16.220000	0:01:18.326000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:18.326000" end="0:01:18.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:18.326000" end="0:01:18.660000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:18.326000	0:01:18.660000
 .	-	-	-	0:01:18.326000	0:01:18.660000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:18.326000" end="0:01:19.693000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:18.326000" end="0:01:19.693000" age_lower="18" age_upper="35">
 gell	gell	ADJ	-	0:01:18.326000	0:01:18.660000
 ?	-	-	-	0:01:18.326000	0:01:18.660000
 *hast*	-	-	-	0:01:18.660000	0:01:19.693000
@@ -334,27 +334,27 @@ schon	-	-	-	0:01:18.660000	0:01:19.693000
 *weißt*	-	-	-	0:01:18.660000	0:01:19.693000
 ,	-	-	-	0:01:18.660000	0:01:19.693000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:19.693000" end="0:01:20.033000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:19.693000" end="0:01:20.033000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:19.693000	0:01:20.033000
 ?	-	-	-	0:01:19.693000	0:01:20.033000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:19.693000" end="0:01:20.600000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:19.693000" end="0:01:20.600000" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:01:19.693000	0:01:20.033000
 die	der	PRON	-	0:01:19.693000	0:01:20.033000
 dazu	dazu	ADV	-	0:01:20.033000	0:01:20.600000
 sagen	sagen	VERB	-	0:01:20.033000	0:01:20.600000
 ?	-	-	-	0:01:20.033000	0:01:20.600000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:20.600000" end="0:01:21.166000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:20.600000" end="0:01:21.166000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:01:20.600000	0:01:21.166000
 .	-	-	-	0:01:20.600000	0:01:21.166000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:21.166000" end="0:01:22.506000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:21.166000" end="0:01:22.506000" age_lower="18" age_upper="35">
 "_narrisches_	-	-	-	0:01:21.166000	0:01:22.506000
 Bein"	-	-	-	0:01:21.166000	0:01:22.506000
 .	-	-	-	0:01:21.166000	0:01:22.506000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:22.506000" end="0:01:26.113000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:22.506000" end="0:01:26.113000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:01:22.506000	0:01:23.906000
 ,	-	-	-	0:01:22.506000	0:01:23.906000
 das	der	PRON	-	0:01:22.506000	0:01:23.906000
@@ -368,22 +368,22 @@ sagen	-	-	-	0:01:23.906000	0:01:26.113000
 "_Narrenbeinle_"	-	-	?? DIM	0:01:23.906000	0:01:26.113000
 .	-	-	-	0:01:23.906000	0:01:26.113000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:26.113000" end="0:01:26.920000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:26.113000" end="0:01:26.920000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:01:26.113000	0:01:26.920000
 ?	-	-	-	0:01:26.113000	0:01:26.920000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:26.920000" end="0:01:27.693000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:26.920000" end="0:01:27.693000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:26.920000	0:01:27.693000
 .	-	-	-	0:01:26.920000	0:01:27.693000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:27.693000" end="0:01:28.466000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:27.693000" end="0:01:28.466000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:27.693000	0:01:28.466000
 weil	weil	SCONJ	-	0:01:27.693000	0:01:28.466000
 ich	ich	PRON	-	0:01:27.693000	0:01:28.466000
 habe	habe	AUX	-	0:01:27.693000	0:01:28.466000
 nur	nur	ADV	-	0:01:27.693000	0:01:28.466000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:28.466000" end="0:01:30.053000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:28.466000" end="0:01:30.053000" age_lower="18" age_upper="35">
 das	der	PRON	KONJ	0:01:28.466000	0:01:30.053000
 wäre	sein	AUX	KONJ	0:01:28.466000	0:01:30.053000
 aber	aber	ADV	-	0:01:28.466000	0:01:30.053000
@@ -392,11 +392,11 @@ weiter	weit	ADV	KONJ	0:01:28.466000	0:01:30.053000
 weg	weg	ADP	KONJ	0:01:28.466000	0:01:30.053000
 .	-	-	-	0:01:28.466000	0:01:30.053000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:28.466000" end="0:01:30.053000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:28.466000" end="0:01:30.053000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:30.053000" end="0:01:31.673000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:30.053000" end="0:01:31.673000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:30.053000" end="0:01:34.933000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:30.053000" end="0:01:34.933000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:30.053000	0:01:31.673000
 ich	ich	PRON	-	0:01:30.053000	0:01:31.673000
 habe	habe	AUX	-	0:01:30.053000	0:01:31.673000
@@ -424,21 +424,21 @@ mir	sich	PRON	??	0:01:34.100000	0:01:34.933000
 auch	auch	ADV	-	0:01:34.100000	0:01:34.933000
 eben	eben	ADV	-	0:01:34.100000	0:01:34.933000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:34.933000" end="0:01:35.353000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:34.933000" end="0:01:35.353000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:34.933000	0:01:35.353000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:34.933000" end="0:01:35.953000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:34.933000" end="0:01:35.953000" age_lower="18" age_upper="35">
 das	der	DET	-	0:01:34.933000	0:01:35.353000
 damische	damische	ADJ	-	0:01:34.933000	0:01:35.353000
 Aderl	Aderl	NOUN	-	0:01:35.353000	0:01:35.953000
 angehauen	anhauen	VERB	-	0:01:35.353000	0:01:35.953000
 ,	-	-	-	0:01:35.353000	0:01:35.953000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:35.953000" end="0:01:36.393000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:35.953000" end="0:01:36.393000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:35.953000	0:01:36.393000
 ?	-	-	-	0:01:35.953000	0:01:36.393000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:35.953000" end="0:01:40.526000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:35.953000" end="0:01:40.526000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:01:35.953000	0:01:36.393000
 sage	sage	VERB	-	0:01:35.953000	0:01:36.393000
 ich	ich	PRON	-	0:01:35.953000	0:01:36.393000
@@ -464,9 +464,9 @@ dir	sich	PRON	-	0:01:39.320000	0:01:40.526000
 los	los	ADP	-	0:01:39.320000	0:01:40.526000
 ?"	-	-	-	0:01:39.320000	0:01:40.526000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:40.526000" end="0:01:41.066000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:40.526000" end="0:01:41.066000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:41.066000" end="0:01:45.093000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:41.066000" end="0:01:45.093000" age_lower="18" age_upper="35">
 "ja	ja	ADV	-	0:01:41.066000	0:01:41.979000
 wie	wie	ADV	-	0:01:41.066000	0:01:41.979000
 gesagt	sagen	VERB	-	0:01:41.066000	0:01:41.979000
@@ -489,10 +489,10 @@ was	was	PRON	-	0:01:44.633000	0:01:45.093000
 mit	mit	ADP	-	0:01:44.633000	0:01:45.093000
 uns	sich	PRON	-	0:01:44.633000	0:01:45.093000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:45.093000" end="0:01:45.400000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:45.093000" end="0:01:45.400000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:01:45.093000	0:01:45.400000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:45.093000" end="0:01:46.846000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:45.093000" end="0:01:46.846000" age_lower="18" age_upper="35">
 daheim	daheim	ADV	-	0:01:45.093000	0:01:45.400000
 los	los	ADV	-	0:01:45.400000	0:01:45.906000
 ist	sein	AUX	-	0:01:45.400000	0:01:45.906000
@@ -502,20 +502,20 @@ das	der	PRON	-	0:01:45.906000	0:01:46.846000
 heißt	heißen	VERB	-	0:01:45.906000	0:01:46.846000
 (damisches)	damisches	PRON	-	0:01:45.906000	0:01:46.846000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:46.846000" end="0:01:47.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:46.846000" end="0:01:47.140000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:46.846000	0:01:47.140000
 .	-	-	-	0:01:46.846000	0:01:47.140000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:47.140000" end="0:01:48.346000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:47.140000" end="0:01:48.346000" age_lower="18" age_upper="35">
 ar/	-	-	-	0:01:47.140000	0:01:48.346000
 eh	eh	ADV	-	0:01:47.140000	0:01:48.346000
 voll	voll	ADJ	-	0:01:47.140000	0:01:48.346000
 gestört	stören	VERB	-	0:01:47.140000	0:01:48.346000
 .	-	-	-	0:01:47.140000	0:01:48.346000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:48.346000" end="0:01:48.966000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:48.346000" end="0:01:48.966000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:48.346000" end="0:01:50.726000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:48.346000" end="0:01:50.726000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:01:48.346000	0:01:48.966000
 ja	ja	PART	-	0:01:48.966000	0:01:50.726000
 ,	-	-	-	0:01:48.966000	0:01:50.726000
@@ -527,23 +527,23 @@ schon	schon	ADV	-	0:01:48.966000	0:01:50.726000
 sein	mein	AUX	-	0:01:48.966000	0:01:50.726000
 .	-	-	-	0:01:48.966000	0:01:50.726000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:50.726000" end="0:01:54.026000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:50.726000" end="0:01:54.026000" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 gut	gut	ADJ	-	0:01:50.726000	0:01:54.026000
 .	-	-	-	0:01:50.726000	0:01:54.026000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:50.726000" end="0:01:54.926000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:50.726000" end="0:01:54.926000" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 passt	passt	PROPN	-	0:01:50.726000	0:01:54.026000
 ja	ja	ADV	-	0:01:54.026000	0:01:54.926000
 dann	dann	ADV	-	0:01:54.026000	0:01:54.926000
 .	-	-	-	0:01:54.026000	0:01:54.926000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:54.926000" end="0:01:55.253000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:54.926000" end="0:01:55.253000" age_lower="18" age_upper="35">
 (bin)	sein	AUX	-	0:01:54.926000	0:01:55.253000
 /.	-	-	-	0:01:54.926000	0:01:55.253000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:55.253000" end="0:02:04.153000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:01:55.253000" end="0:02:04.153000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:01:55.253000	0:02:04.153000
 ja	ja	PART	-	0:01:55.253000	0:02:04.153000
 ,	-	-	-	0:01:55.253000	0:02:04.153000
@@ -554,7 +554,7 @@ und	und	CCONJ	-	0:01:55.253000	0:02:04.153000
 Hobby	Hobby	NOUN	-	0:01:55.253000	0:02:04.153000
 .	-	-	-	0:01:55.253000	0:02:04.153000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:04.153000" end="0:02:08.380000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:04.153000" end="0:02:08.380000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:02:04.153000	0:02:08.380000
 ,	-	-	-	0:02:04.153000	0:02:08.380000
 also	also	ADV	-	0:02:04.153000	0:02:08.380000
@@ -569,10 +569,10 @@ das	der	DET	-	0:02:04.153000	0:02:08.380000
 Lesen	Lese	NOUN	-	0:02:04.153000	0:02:08.380000
 .	-	-	-	0:02:04.153000	0:02:08.380000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:08.380000" end="0:02:08.913000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:08.380000" end="0:02:08.913000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:08.380000	0:02:08.913000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:08.913000" end="0:02:17.780000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:08.913000" end="0:02:17.780000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	0:02:08.913000	0:02:11.900000
 das	der	DET	-	0:02:08.913000	0:02:11.900000
@@ -610,11 +610,11 @@ oder	oder	CCONJ	-	0:02:15.040000	0:02:17.780000
 so	so	ADV	-	0:02:15.040000	0:02:17.780000
 .	-	-	-	0:02:15.040000	0:02:17.780000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:17.780000" end="0:02:18.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:17.780000" end="0:02:18.246000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:02:17.780000	0:02:18.246000
 .	-	-	-	0:02:17.780000	0:02:18.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:18.246000" end="0:02:23.986000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:18.246000" end="0:02:23.986000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:02:18.246000	0:02:21.966000
 ja	ja	ADV	-	0:02:18.246000	0:02:21.966000
@@ -636,11 +636,11 @@ Berge	Berg	NOUN	-	0:02:21.966000	0:02:23.333000
 .	-	-	-	0:02:21.966000	0:02:23.333000
 eben	eben	ADV	-	0:02:23.333000	0:02:23.986000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:23.333000" end="0:02:23.986000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:23.333000" end="0:02:23.986000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:23.333000	0:02:23.986000
 .	-	-	-	0:02:23.333000	0:02:23.986000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:23.986000" end="0:02:27.173000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:23.986000" end="0:02:27.173000" age_lower="18" age_upper="35">
 im	im	ADP	-	0:02:23.986000	0:02:27.173000
 Sommer	Sommer	NOUN	-	0:02:23.986000	0:02:27.173000
 eben	eben	ADV	-	0:02:23.986000	0:02:27.173000
@@ -652,23 +652,23 @@ Skifahren	Skifahren	NOUN	-	0:02:23.986000	0:02:27.173000
 und	und	CCONJ	-	0:02:23.986000	0:02:27.173000
 Skitourengehen	Skitourengehen	NOUN	-	0:02:23.986000	0:02:27.173000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:27.173000" end="0:02:28" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:27.173000" end="0:02:28" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 mhm	mhm	PROPN	-	0:02:27.173000	0:02:28
 .	-	-	-	0:02:27.173000	0:02:28
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:28" end="0:02:28.880000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:28" end="0:02:28.880000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:02:28	0:02:28.880000
 im	im	ADP	-	0:02:28	0:02:28.880000
 Sommer	Sommer	NOUN	-	0:02:28	0:02:28.880000
 halt	halt	ADV	-	0:02:28	0:02:28.880000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:28.880000" end="0:02:29.786000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:28.880000" end="0:02:29.786000" age_lower="18" age_upper="35">
 zum	zum	ADP	-	0:02:28.880000	0:02:29.786000
 Wandern	Wandern	NOUN	-	0:02:28.880000	0:02:29.786000
 .	-	-	-	0:02:28.880000	0:02:29.786000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:29.786000" end="0:02:33.153000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:29.786000" end="0:02:33.153000" age_lower="18" age_upper="35">
 Wandern	Wandern	NOUN	-	0:02:29.786000	0:02:33.153000
 ,	-	-	-	0:02:29.786000	0:02:33.153000
 Klettern	Klettern	PROPN	-	0:02:29.786000	0:02:33.153000
@@ -679,7 +679,7 @@ alles	alle	DET	-	0:02:29.786000	0:02:33.153000
 Mögliche	Mögliche	NOUN	-	0:02:29.786000	0:02:33.153000
 .	-	-	-	0:02:29.786000	0:02:33.153000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:33.153000" end="0:02:35.820000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:33.153000" end="0:02:35.820000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:02:33.153000	0:02:35.820000
 ,	-	-	-	0:02:33.153000	0:02:35.820000
@@ -688,13 +688,13 @@ Hobby	Hobby	NOUN	-	0:02:33.153000	0:02:35.820000
 .	-	-	-	0:02:33.153000	0:02:35.820000
 hm	hm	X	-	0:02:33.153000	0:02:35.820000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:35.820000" end="0:02:36.773000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:35.820000" end="0:02:36.773000" age_lower="18" age_upper="35">
 hm	hm	X	-	0:02:35.820000	0:02:36.773000
 und	und	CCONJ	-	0:02:35.820000	0:02:36.773000
 deine	mein	PROPN	-	0:02:35.820000	0:02:36.773000
 ?	-	-	-	0:02:35.820000	0:02:36.773000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:36.773000" end="0:02:49.646000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:36.773000" end="0:02:49.646000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ah	ah	X	-	0:02:36.773000	0:02:40.579000
 ja	ja	PART	-	0:02:36.773000	0:02:40.579000
@@ -740,10 +740,10 @@ Papa	Papa	NOUN	-	0:02:45.726000	0:02:49.646000
 Treidelfahren	Treidelfahren	PROPN	-	0:02:45.726000	0:02:49.646000
 .	-	-	-	0:02:45.726000	0:02:49.646000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:49.646000" end="0:02:50.326000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:49.646000" end="0:02:50.326000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:02:49.646000	0:02:50.326000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:50.326000" end="0:02:56.973000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:50.326000" end="0:02:56.973000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ja	ja	PART	-	0:02:50.326000	0:02:53.373000
 .	-	-	-	0:02:50.326000	0:02:53.373000
@@ -760,15 +760,15 @@ gell	gell	ADJ	-	0:02:53.373000	0:02:56.340000
 ?	-	-	-	0:02:53.373000	0:02:56.340000
 also	also	ADV	-	0:02:56.340000	0:02:56.973000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:56.973000" end="0:02:57.973000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:56.973000" end="0:02:57.973000" age_lower="18" age_upper="35">
 wäre	sein	AUX	KONJ	0:02:56.973000	0:02:57.973000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:02:56.973000	0:02:57.973000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:56.973000" end="0:02:57.973000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:56.973000" end="0:02:57.973000" age_lower="18" age_upper="35">
 (schön)	-	-	-	0:02:56.973000	0:02:57.973000
 häufchenweise	häufchenweise	ADV	-	0:02:56.973000	0:02:57.973000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:57.973000" end="0:03:00.880000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:57.973000" end="0:03:00.880000" age_lower="18" age_upper="35">
 sie	ich	PRON	KONJ	0:02:57.973000	0:02:59.380000
 wäre	sein	AUX	KONJ	0:02:57.973000	0:02:59.380000
 uns	sich	PRON	KONJ	0:02:57.973000	0:02:59.380000
@@ -776,14 +776,14 @@ wahrscheinlich	wahrscheinlich	ADJ	KONJ	0:02:57.973000	0:02:59.380000
 dankbar	dankbar	ADJ	KONJ	0:02:57.973000	0:02:59.380000
 .	-	-	-	0:02:57.973000	0:02:59.380000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:59.380000" end="0:03:02.546000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:02:59.380000" end="0:03:02.546000" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:03:00.880000	0:03:02.546000
 jetzt	jetzt	ADV	-	0:03:00.880000	0:03:02.546000
 ach	ach	ADV	-	0:03:00.880000	0:03:02.546000
 so	so	ADV	-	0:03:00.880000	0:03:02.546000
 /.	-	-	-	0:03:00.880000	0:03:02.546000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:02.546000" end="0:03:04.326000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:02.546000" end="0:03:04.326000" age_lower="18" age_upper="35">
 ach	ach	X	-	0:03:02.546000	0:03:03.240000
 so	so	ADV	-	0:03:02.546000	0:03:03.240000
 jetzt	jetzt	ADV	-	0:03:02.546000	0:03:03.240000
@@ -797,14 +797,14 @@ fragen	fragen	VERB	-	0:03:03.240000	0:03:04.326000
 gell	gell	ADJ	-	0:03:03.240000	0:03:04.326000
 ?	-	-	-	0:03:03.240000	0:03:04.326000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:03.240000" end="0:03:04.326000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:03.240000" end="0:03:04.326000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:03:03.240000	0:03:04.326000
 genau	genau	ADJ	-	0:03:03.240000	0:03:04.326000
 ,	-	-	-	0:03:03.240000	0:03:04.326000
 ja	ja	PART	-	0:03:03.240000	0:03:04.326000
 .	-	-	-	0:03:03.240000	0:03:04.326000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:04.326000" end="0:03:08.826000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:04.326000" end="0:03:08.826000" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 ja	ja	PART	-	0:03:04.326000	0:03:08.826000
 ,	-	-	-	0:03:04.326000	0:03:08.826000
@@ -817,7 +817,7 @@ deiner	sich	DET	-	0:03:04.326000	0:03:08.826000
 Kindheit	Kindheit	NOUN	-	0:03:04.326000	0:03:08.826000
 .	-	-	-	0:03:04.326000	0:03:08.826000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:08.826000" end="0:03:37.173000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:08.826000" end="0:03:37.173000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:08.826000	0:03:11.646000
 ,	-	-	-	0:03:08.826000	0:03:11.646000
 im	im	ADP	-	0:03:08.826000	0:03:11.646000
@@ -891,15 +891,15 @@ sei	sein	AUX	-	0:03:31.320000	0:03:37.173000
 Dank	Dank	NOUN	-	0:03:31.320000	0:03:37.173000
 .	-	-	-	0:03:31.320000	0:03:37.173000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:37.173000" end="0:03:37.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:37.173000" end="0:03:37.473000" age_lower="18" age_upper="35">
 hm	hm	X	-	0:03:37.173000	0:03:37.473000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:37.473000" end="0:03:38.573000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:37.473000" end="0:03:38.573000" age_lower="18" age_upper="35">
 du	du	PRON	-	0:03:37.473000	0:03:38.573000
 auch	auch	ADV	-	0:03:37.473000	0:03:38.573000
 ?	-	-	-	0:03:37.473000	0:03:38.573000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:38.573000" end="0:03:44.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:38.573000" end="0:03:44.513000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:38.573000	0:03:39.673000
 ,	-	-	-	0:03:38.573000	0:03:39.673000
 also	also	ADV	-	0:03:38.573000	0:03:39.673000
@@ -925,10 +925,10 @@ Gärtnerei	Gärtnerei	NOUN	-	0:03:41.786000	0:03:44.513000
 gespielt	spielen	VERB	-	0:03:41.786000	0:03:44.513000
 .	-	-	-	0:03:41.786000	0:03:44.513000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:44.513000" end="0:03:45.166000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:44.513000" end="0:03:45.166000" age_lower="18" age_upper="35">
 hm	hm	X	-	0:03:44.513000	0:03:45.166000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:45.166000" end="0:03:49.646000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:45.166000" end="0:03:49.646000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:03:45.166000	0:03:49.646000
 <pause duration="1,3s"/>
 Viecher	Viech	NOUN	-	0:03:45.166000	0:03:49.646000
@@ -943,7 +943,7 @@ Tierhaarallergie	Tierhaarallergie	NOUN	-	0:03:45.166000	0:03:49.646000
 habe	habe	AUX	-	0:03:45.166000	0:03:49.646000
 .	-	-	-	0:03:45.166000	0:03:49.646000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:49.646000" end="0:03:51.033000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:49.646000" end="0:03:51.033000" age_lower="18" age_upper="35">
 oh	oh	X	-	0:03:49.646000	0:03:51.033000
 okay	okay	PROPN	-	0:03:49.646000	0:03:51.033000
 ,	-	-	-	0:03:49.646000	0:03:51.033000
@@ -951,17 +951,17 @@ ja	ja	ADV	-	0:03:49.646000	0:03:51.033000
 das	der	PRON	-	0:03:49.646000	0:03:51.033000
 ist	sein	AUX	-	0:03:49.646000	0:03:51.033000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:51.033000" end="0:03:51.773000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:51.033000" end="0:03:51.773000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:03:51.033000	0:03:51.773000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:51.033000" end="0:03:52.026000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:51.033000" end="0:03:52.026000" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:03:51.033000	0:03:51.773000
 blöd	blöd	ADJ	-	0:03:51.033000	0:03:51.773000
 ja	ja	PART	-	0:03:51.033000	0:03:51.773000
 .	-	-	-	0:03:51.033000	0:03:51.773000
 mhm	mhm	PROPN	-	0:03:51.773000	0:03:52.026000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:52.026000" end="0:03:59.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:52.026000" end="0:03:59.606000" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:03:52.026000	0:03:53.926000
 sonst	sonst	ADV	-	0:03:52.026000	0:03:53.926000
 eigentlich	eigentlich	ADV	-	0:03:52.026000	0:03:53.926000
@@ -986,24 +986,24 @@ im	im	ADP	-	0:03:58.093000	0:03:59.606000
 Vergleich	Vergleich	NOUN	-	0:03:58.093000	0:03:59.606000
 langweilig	langweilig	ADJ	-	0:03:58.093000	0:03:59.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:58.093000" end="0:03:59.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:58.093000" end="0:03:59.606000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:03:58.093000	0:03:59.606000
 so	so	ADV	-	0:03:58.093000	0:03:59.606000
 lustig	lustig	ADJ	-	0:03:58.093000	0:03:59.606000
 vor	vor	ADP	-	0:03:58.093000	0:03:59.606000
 .	-	-	-	0:03:58.093000	0:03:59.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:59.606000" end="0:04:00.120000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:59.606000" end="0:04:00.120000" age_lower="18" age_upper="35">
 vor	vor	ADP	-	0:03:59.606000	0:04:00.120000
 .	-	-	-	0:03:59.606000	0:04:00.120000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:59.606000" end="0:04:00.120000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:03:59.606000" end="0:04:00.120000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:59.606000	0:04:00.120000
 .	-	-	-	0:03:59.606000	0:04:00.120000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.120000" end="0:04:00.993000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.120000" end="0:04:00.993000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.120000" end="0:04:00.993000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.120000" end="0:04:00.993000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:04:00.120000	0:04:00.993000
 denke	denken	VERB	-	0:04:00.120000	0:04:00.993000
 es	ich	PRON	-	0:04:00.120000	0:04:00.993000
@@ -1012,9 +1012,9 @@ nämlich	nämlich	ADV	-	0:04:00.120000	0:04:00.993000
 auch	auch	ADV	-	0:04:00.120000	0:04:00.993000
 ,	-	-	-	0:04:00.120000	0:04:00.993000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.993000" end="0:04:02.386000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.993000" end="0:04:02.386000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.993000" end="0:04:03.053000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:00.993000" end="0:04:03.053000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:04:00.993000	0:04:02.386000
 da	da	ADV	-	0:04:00.993000	0:04:02.386000
 jemand	jemand	PRON	-	0:04:00.993000	0:04:02.386000
@@ -1023,12 +1023,12 @@ darf	dürfen	VERB	-	0:04:00.993000	0:04:02.386000
 ja	ja	PART	-	0:04:02.386000	0:04:03.053000
 .	-	-	-	0:04:02.386000	0:04:03.053000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:03.053000" end="0:04:05.880000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:03.053000" end="0:04:05.880000" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 (so)	so	ADV	-	0:04:03.053000	0:04:05.880000
 .	-	-	-	0:04:03.053000	0:04:05.880000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:05.880000" end="0:04:14.540000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:05.880000" end="0:04:14.540000" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 passt	passt	PROPN	-	0:04:05.880000	0:04:11.893000
 ,	-	-	-	0:04:05.880000	0:04:11.893000
@@ -1051,7 +1051,7 @@ als	als	ADP	-	0:04:12.540000	0:04:14.540000
 Fußballweltmeister	Fußballweltmeister	NOUN	-	0:04:12.540000	0:04:14.540000
 .	-	-	-	0:04:12.540000	0:04:14.540000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:14.540000" end="0:04:18.786000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:14.540000" end="0:04:18.786000" age_lower="18" age_upper="35">
 um	um	ADP	-	0:04:14.540000	0:04:16.966000
 Gottes	Gott	NOUN	-	0:04:14.540000	0:04:16.966000
 Willen	Wille	NOUN	-	0:04:14.540000	0:04:16.966000
@@ -1062,7 +1062,7 @@ die	der	DET	-	0:04:14.540000	0:04:16.966000
 Fußballfrage	Fußballfrage	NOUN	-	0:04:14.540000	0:04:16.966000
 .	-	-	-	0:04:14.540000	0:04:16.966000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:16.966000" end="0:04:18.786000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:16.966000" end="0:04:18.786000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:04:16.966000	0:04:18.786000
 ich	ich	PRON	-	0:04:16.966000	0:04:18.786000
 wi/	-	-	-	0:04:16.966000	0:04:18.786000
@@ -1076,9 +1076,9 @@ dich	sich	PRON	-	0:04:16.966000	0:04:18.786000
 ja	ja	ADV	-	0:04:16.966000	0:04:18.786000
 .	-	-	-	0:04:16.966000	0:04:18.786000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:18.786000" end="0:04:21.173000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:18.786000" end="0:04:21.173000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:18.786000" end="0:04:21.173000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:18.786000" end="0:04:21.173000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:04:18.786000	0:04:21.173000
 soll	soll	VERB	-	0:04:18.786000	0:04:21.173000
 ich	ich	PRON	-	0:04:18.786000	0:04:21.173000
@@ -1086,7 +1086,7 @@ drauf	drauf	ADV	-	0:04:18.786000	0:04:21.173000
 beantworten	beantworten	VERB	-	0:04:18.786000	0:04:21.173000
 ?	-	-	-	0:04:18.786000	0:04:21.173000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:21.173000" end="0:04:24.573000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:21.173000" end="0:04:24.573000" age_lower="18" age_upper="35">
 Fußball	Fußball	NOUN	-	0:04:21.173000	0:04:22.873000
 interessiert	interessieren	VERB	-	0:04:21.173000	0:04:22.873000
 mich	sich	PRON	-	0:04:21.173000	0:04:22.873000
@@ -1103,7 +1103,7 @@ Reissackel	Reissackel	NOUN	DIM	0:04:22.873000	0:04:24.573000
 umfällt	umfallen	VERB	-	0:04:22.873000	0:04:24.573000
 .	-	-	-	0:04:22.873000	0:04:24.573000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:24.573000" end="0:04:29.713000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:24.573000" end="0:04:29.713000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:04:24.573000	0:04:26.313000
 okay	okay	VERB	-	0:04:24.573000	0:04:26.313000
 ,	-	-	-	0:04:24.573000	0:04:26.313000
@@ -1131,7 +1131,7 @@ trinken	trinken	VERB	-	0:04:28.446000	0:04:29.713000
 passt	passt	PROPN	-	0:04:28.446000	0:04:29.713000
 .	-	-	-	0:04:28.446000	0:04:29.713000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:29.713000" end="0:04:31.613000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:29.713000" end="0:04:31.613000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:04:29.713000	0:04:31.613000
 <pause duration="0,6s"/>
 *is*	der	PRON	-	0:04:29.713000	0:04:31.613000
@@ -1140,21 +1140,21 @@ meine	meinen	DET	-	0:04:29.713000	0:04:31.613000
 Meinung	Meinung	NOUN	-	0:04:29.713000	0:04:31.613000
 .	-	-	-	0:04:29.713000	0:04:31.613000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:31.613000" end="0:04:32.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:31.613000" end="0:04:32.246000" age_lower="18" age_upper="35">
 passt	passt	PROPN	-	0:04:31.613000	0:04:32.246000
 .	-	-	-	0:04:31.613000	0:04:32.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:32.246000" end="0:04:34.893000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:32.246000" end="0:04:34.893000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:32.246000" end="0:04:35.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:32.246000" end="0:04:35.246000" age_lower="18" age_upper="35">
 bitte	bitte	PART	-	0:04:34.893000	0:04:35.246000
 .	-	-	-	0:04:34.893000	0:04:35.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:35.246000" end="0:04:36.393000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:35.246000" end="0:04:36.393000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:35.246000" end="0:04:36.393000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:35.246000" end="0:04:36.393000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:36.393000" end="0:04:45.860000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:36.393000" end="0:04:45.860000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ähm	ähm	X	-	0:04:36.393000	0:04:43.553000
 <pause duration="1,8s"/>
@@ -1182,7 +1182,7 @@ gelesen	-	-	-	0:04:43.553000	0:04:45.860000
 hast	-	-	-	0:04:43.553000	0:04:45.860000
 .	-	-	-	0:04:43.553000	0:04:45.860000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:45.860000" end="0:05:19.233000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:04:45.860000" end="0:05:19.233000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 mhm	mhm	PROPN	-	0:04:45.860000	0:04:52.886000
 <pause duration="1,2s"/>
@@ -1277,11 +1277,11 @@ das	der	PRON	-	0:05:17.940000	0:05:19.233000
 *weißt*	-	-	-	0:05:17.940000	0:05:19.233000
 ,	-	-	-	0:05:17.940000	0:05:19.233000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:19.233000" end="0:05:19.800000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:19.233000" end="0:05:19.800000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:05:19.233000	0:05:19.800000
 .	-	-	-	0:05:19.233000	0:05:19.800000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:19.233000" end="0:05:22.486000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:19.233000" end="0:05:22.486000" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:05:19.233000	0:05:19.800000
 habe	-	-	-	0:05:19.233000	0:05:19.800000
 ich	-	-	-	0:05:19.233000	0:05:19.800000
@@ -1301,16 +1301,16 @@ gehabt	-	-	-	0:05:20.686000	0:05:21.946000
 eh	-	-	-	0:05:21.946000	0:05:22.486000
 .	-	-	-	0:05:21.946000	0:05:22.486000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:22.486000" end="0:05:22.786000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:22.486000" end="0:05:22.786000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:05:22.486000	0:05:22.786000
 .	-	-	-	0:05:22.486000	0:05:22.786000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:22.786000" end="0:05:24.180000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:22.786000" end="0:05:24.180000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:05:22.786000	0:05:24.180000
 ja	ja	PART	-	0:05:22.786000	0:05:24.180000
 .	-	-	-	0:05:22.786000	0:05:24.180000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:24.180000" end="0:05:27.306000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:24.180000" end="0:05:27.306000" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 fällt	fällen	VERB	-	0:05:24.180000	0:05:27.306000
 dir	sich	PRON	-	0:05:24.180000	0:05:27.306000
@@ -1318,7 +1318,7 @@ nichts	nichts	PRON	-	0:05:24.180000	0:05:27.306000
 ein	einen	ADP	-	0:05:24.180000	0:05:27.306000
 ?	-	-	-	0:05:24.180000	0:05:27.306000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:27.306000" end="0:05:30.520000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:27.306000" end="0:05:30.520000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:05:27.306000	0:05:30.520000
 ich	ich	PRON	-	0:05:27.306000	0:05:30.520000
 bin	sein	AUX	-	0:05:27.306000	0:05:30.520000
@@ -1334,7 +1334,7 @@ Kopf	Kopf	NOUN	-	0:05:27.306000	0:05:30.520000
 ist	sein	AUX	-	0:05:27.306000	0:05:30.520000
 schon	schon	ADV	-	0:05:27.306000	0:05:30.520000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:30.520000" end="0:05:31.573000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:30.520000" end="0:05:31.573000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:05:30.520000	0:05:31.573000
 ,	-	-	-	0:05:30.520000	0:05:31.573000
 ich	ich	PRON	-	0:05:30.520000	0:05:31.573000
@@ -1342,10 +1342,10 @@ verstehe	verstehen	VERB	-	0:05:30.520000	0:05:31.573000
 dich	sich	PRON	-	0:05:30.520000	0:05:31.573000
 .	-	-	-	0:05:30.520000	0:05:31.573000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:30.520000" end="0:05:31.573000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:30.520000" end="0:05:31.573000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:05:30.520000	0:05:31.573000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:31.573000" end="0:05:32.946000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:31.573000" end="0:05:32.946000" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:05:31.573000	0:05:32.946000
 ist	sein	AUX	-	0:05:31.573000	0:05:32.946000
 es	ich	PRON	-	0:05:31.573000	0:05:32.946000
@@ -1354,7 +1354,7 @@ so	so	ADV	-	0:05:31.573000	0:05:32.946000
 gegangen	gehen	VERB	-	0:05:31.573000	0:05:32.946000
 .	-	-	-	0:05:31.573000	0:05:32.946000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:31.573000" end="0:05:44.206000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:31.573000" end="0:05:44.206000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:05:32.946000	0:05:35.946000
 bin	sein	AUX	-	0:05:32.946000	0:05:35.946000
 gerade	gerade	ADV	-	0:05:32.946000	0:05:35.946000
@@ -1392,7 +1392,7 @@ mal	mal	ADV	-	0:05:43.013000	0:05:44.206000
 super	super	PROPN	-	0:05:43.013000	0:05:44.206000
 .	-	-	-	0:05:43.013000	0:05:44.206000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:44.206000" end="0:05:45.866000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:44.206000" end="0:05:45.866000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:05:44.206000	0:05:45.866000
 .	-	-	-	0:05:44.206000	0:05:45.866000
 das	der	PRON	-	0:05:44.206000	0:05:45.866000
@@ -1403,9 +1403,9 @@ ein	einen	DET	-	0:05:44.206000	0:05:45.866000
 Film	Film	NOUN	-	0:05:44.206000	0:05:45.866000
 ,	-	-	-	0:05:44.206000	0:05:45.866000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:44.206000" end="0:05:45.866000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:44.206000" end="0:05:45.866000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:45.866000" end="0:05:47.406000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:45.866000" end="0:05:47.406000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:05:45.866000	0:05:46.633000
 dem	der	PRON	-	0:05:45.866000	0:05:46.633000
 ich	ich	PRON	-	0:05:45.866000	0:05:46.633000
@@ -1415,21 +1415,21 @@ anfangen	anfangen	VERB	-	0:05:46.633000	0:05:47.406000
 kann	können	VERB	-	0:05:46.633000	0:05:47.406000
 .	-	-	-	0:05:46.633000	0:05:47.406000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:46.633000" end="0:05:47.406000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:46.633000" end="0:05:47.406000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:05:46.633000	0:05:47.406000
 ?	-	-	-	0:05:46.633000	0:05:47.406000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:47.406000" end="0:05:48.073000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:47.406000" end="0:05:48.073000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:05:47.406000	0:05:48.073000
 habe	habe	AUX	-	0:05:47.406000	0:05:48.073000
 die	der	DET	-	0:05:47.406000	0:05:48.073000
 ersten	erst	ADJ	-	0:05:47.406000	0:05:48.073000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:47.406000" end="0:05:48.073000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:47.406000" end="0:05:48.073000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:05:47.406000	0:05:48.073000
 /.	-	-	-	0:05:47.406000	0:05:48.073000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:48.073000" end="0:05:49.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:48.073000" end="0:05:49.513000" age_lower="18" age_upper="35">
 zwei	zwei	NUM	-	0:05:48.073000	0:05:49.513000
 Teile	Teil	NOUN	-	0:05:48.073000	0:05:49.513000
 habe	habe	AUX	-	0:05:48.073000	0:05:49.513000
@@ -1437,9 +1437,9 @@ ich	ich	PRON	-	0:05:48.073000	0:05:49.513000
 gesehen	sehen	VERB	-	0:05:48.073000	0:05:49.513000
 .	-	-	-	0:05:48.073000	0:05:49.513000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:48.073000" end="0:05:49.513000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:48.073000" end="0:05:49.513000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:49.513000" end="0:05:51.493000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:49.513000" end="0:05:51.493000" age_lower="18" age_upper="35">
 den	der	DET	-	0:05:49.513000	0:05:51.493000
 dritten	dritt	NOUN	-	0:05:49.513000	0:05:51.493000
 habe	habe	AUX	-	0:05:49.513000	0:05:51.493000
@@ -1449,7 +1449,7 @@ dann	dann	ADV	-	0:05:49.513000	0:05:51.493000
 geschenkt	schenken	VERB	-	0:05:49.513000	0:05:51.493000
 .	-	-	-	0:05:49.513000	0:05:51.493000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:51.493000" end="0:05:54.853000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:51.493000" end="0:05:54.853000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:05:51.493000	0:05:52.373000
 ist	sein	AUX	-	0:05:51.493000	0:05:52.373000
 mit	mit	ADP	-	0:05:51.493000	0:05:52.373000
@@ -1467,13 +1467,13 @@ man	man	PRON	-	0:05:53.460000	0:05:54.853000
 anschauen	anschauen	VERB	-	0:05:53.460000	0:05:54.853000
 .	-	-	-	0:05:53.460000	0:05:54.853000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:54.853000" end="0:05:57.126000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:54.853000" end="0:05:57.126000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:05:54.853000	0:05:56.126000
 stehe	stehen	VERB	-	0:05:54.853000	0:05:56.126000
 dazu	dazu	ADV	-	0:05:54.853000	0:05:56.126000
 .	-	-	-	0:05:54.853000	0:05:56.126000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:56.126000" end="0:05:58.306000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:56.126000" end="0:05:58.306000" age_lower="18" age_upper="35">
 puh	puh	X	-	0:05:56.126000	0:05:57.126000
 .	-	-	-	0:05:56.126000	0:05:57.126000
 *magst*	-	-	-	0:05:57.126000	0:05:58.306000
@@ -1481,12 +1481,12 @@ puh	puh	X	-	0:05:56.126000	0:05:57.126000
 Potter"	-	-	-	0:05:57.126000	0:05:58.306000
 ?	-	-	-	0:05:57.126000	0:05:58.306000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:58.306000" end="0:06:00.226000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:05:58.306000" end="0:06:00.226000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:05:58.306000	0:06:00.226000
 .	-	-	-	0:05:58.306000	0:06:00.226000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:00.226000" end="0:06:01.893000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:00.226000" end="0:06:01.893000" age_lower="18" age_upper="35">
 wieso	-	-	-	0:06:00.226000	0:06:01.460000
 *magst*	-	-	-	0:06:00.226000	0:06:01.460000
 dann	-	-	-	0:06:00.226000	0:06:01.460000
@@ -1498,18 +1498,18 @@ nicht	-	-	-	0:06:00.226000	0:06:01.460000
 das	der	PRON	-	0:06:01.460000	0:06:01.893000
 verstehe	verstehen	VERB	-	0:06:01.460000	0:06:01.893000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:01.893000" end="0:06:02.206000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:01.893000" end="0:06:02.206000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:06:01.893000	0:06:02.206000
 weiß	weiß	VERB	-	0:06:01.893000	0:06:02.206000
 nicht	nicht	PART	-	0:06:01.893000	0:06:02.206000
 .	-	-	-	0:06:01.893000	0:06:02.206000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:01.893000" end="0:06:02.206000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:01.893000" end="0:06:02.206000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:06:01.893000	0:06:02.206000
 nicht	nicht	PART	-	0:06:01.893000	0:06:02.206000
 .	-	-	-	0:06:01.893000	0:06:02.206000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:02.206000" end="0:06:08.853000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:02.206000" end="0:06:08.853000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:06:02.206000	0:06:07.980000
 ist	sein	AUX	-	0:06:02.206000	0:06:07.980000
 mir	sich	PRON	-	0:06:02.206000	0:06:07.980000
@@ -1524,7 +1524,7 @@ Kampf=	Kampfszenen	NOUN	-	0:06:02.206000	0:06:07.980000
 szenen	-	SPACE	-	0:06:07.980000	0:06:08.853000
 .	-	-	-	0:06:07.980000	0:06:08.853000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:07.980000" end="0:06:10.253000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:07.980000" end="0:06:10.253000" age_lower="18" age_upper="35">
 okay	okay	PROPN	-	0:06:07.980000	0:06:08.853000
 okay	okay	PROPN	-	0:06:07.980000	0:06:08.853000
 .	-	-	-	0:06:07.980000	0:06:08.853000
@@ -1537,11 +1537,11 @@ okay	okay	NOUN	-	0:06:08.853000	0:06:09.860000
 weil	weil	SCONJ	-	0:06:09.860000	0:06:10.253000
 normaler=	normalerweise	ADV	-	0:06:09.860000	0:06:10.253000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:10.253000" end="0:06:10.526000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:10.253000" end="0:06:10.526000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:10.253000	0:06:10.526000
 /.	-	-	-	0:06:10.253000	0:06:10.526000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:10.253000" end="0:06:14.633000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:10.253000" end="0:06:14.633000" age_lower="18" age_upper="35">
 weise	-	SPACE	-	0:06:10.253000	0:06:10.526000
 das	der	PRON	-	0:06:10.526000	0:06:11.006000
 sind	sein	AUX	-	0:06:10.526000	0:06:11.006000
@@ -1564,7 +1564,7 @@ dann	dann	ADV	-	0:06:11.006000	0:06:14.633000
 auch	auch	ADV	-	0:06:11.006000	0:06:14.633000
 .	-	-	-	0:06:11.006000	0:06:14.633000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:14.633000" end="0:06:17.533000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:14.633000" end="0:06:17.533000" age_lower="18" age_upper="35">
 nein	na	X	-	0:06:14.633000	0:06:17.533000
 ,	-	-	-	0:06:14.633000	0:06:17.533000
 ich	ich	PRON	-	0:06:14.633000	0:06:17.533000
@@ -1578,25 +1578,25 @@ zum	zum	ADP	-	0:06:14.633000	0:06:17.533000
 Lesen	Lese	NOUN	-	0:06:14.633000	0:06:17.533000
 .	-	-	-	0:06:14.633000	0:06:17.533000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:17.533000" end="0:06:17.866000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:17.533000" end="0:06:17.866000" age_lower="18" age_upper="35">
 hm	hm	PROPN	-	0:06:17.533000	0:06:17.866000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:17.866000" end="0:06:19.713000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:17.866000" end="0:06:19.713000" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:06:17.866000	0:06:19.713000
 das	der	PRON	-	0:06:17.866000	0:06:19.713000
 schon	schon	ADV	-	0:06:17.866000	0:06:19.713000
 mittelprächtig	mittelprächtig	ADJ	-	0:06:17.866000	0:06:19.713000
 .	-	-	-	0:06:17.866000	0:06:19.713000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:19.713000" end="0:06:20.846000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:19.713000" end="0:06:20.846000" age_lower="18" age_upper="35">
 okay	okay	VERB	-	0:06:19.713000	0:06:20.846000
 ja	ja	ADV	-	0:06:19.713000	0:06:20.846000
 .	-	-	-	0:06:19.713000	0:06:20.846000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:20.846000" end="0:06:21.646000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:20.846000" end="0:06:21.646000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:20.846000	0:06:21.646000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:20.846000" end="0:06:28.313000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:20.846000" end="0:06:28.313000" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:06:20.846000	0:06:21.646000
 das	der	PRON	-	0:06:20.846000	0:06:21.646000
 das	der	PRON	-	0:06:21.646000	0:06:24.046000
@@ -1641,7 +1641,7 @@ verfilmt	verfilmen	VERB	-	0:06:27.100000	0:06:28.313000
 haben	haben	AUX	-	0:06:27.100000	0:06:28.313000
 .	-	-	-	0:06:27.100000	0:06:28.313000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:28.313000" end="0:06:29.720000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:28.313000" end="0:06:29.720000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:06:28.313000	0:06:29.380000
 das	der	PRON	-	0:06:28.313000	0:06:29.380000
 ist	sein	AUX	-	0:06:28.313000	0:06:29.380000
@@ -1651,11 +1651,11 @@ so	so	ADV	-	0:06:28.313000	0:06:29.380000
 ja	ja	PART	-	0:06:29.380000	0:06:29.720000
 .	-	-	-	0:06:29.380000	0:06:29.720000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:29.380000" end="0:06:30.440000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:29.380000" end="0:06:30.440000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:29.380000	0:06:29.720000
 .	-	-	-	0:06:29.380000	0:06:29.720000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:30.440000" end="0:06:35.246000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:30.440000" end="0:06:35.246000" age_lower="18" age_upper="35">
 das	der	DET	-	0:06:30.440000	0:06:32.726000
 einzige	einzig	PRON	-	0:06:30.440000	0:06:32.726000
 ,	-	-	-	0:06:30.440000	0:06:32.726000
@@ -1678,10 +1678,10 @@ was	was	PRON	-	0:06:33.246000	0:06:35.246000
 sagt	sagen	VERB	-	0:06:33.246000	0:06:35.246000
 ?	-	-	-	0:06:33.246000	0:06:35.246000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:35.246000" end="0:06:35.966000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:35.246000" end="0:06:35.966000" age_lower="18" age_upper="35">
 mm	mm	PROPN	-	0:06:35.246000	0:06:35.966000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:35.966000" end="0:06:44.860000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:35.966000" end="0:06:44.860000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:06:35.966000	0:06:37.613000
 das	der	PRON	-	0:06:35.966000	0:06:37.613000
 sind	sein	AUX	-	0:06:35.966000	0:06:37.613000
@@ -1708,10 +1708,10 @@ Fernsehserie	Fernsehserie	NOUN	-	0:06:40.700000	0:06:44.860000
 verfilmt	verfilmen	VERB	-	0:06:40.700000	0:06:44.860000
 .	-	-	-	0:06:40.700000	0:06:44.860000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:44.860000" end="0:06:45.313000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:44.860000" end="0:06:45.313000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:44.860000	0:06:45.313000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:45.313000" end="0:06:52.373000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:45.313000" end="0:06:52.373000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:45.313000	0:06:47.313000
 das	der	PRON	-	0:06:45.313000	0:06:47.313000
 ist	sein	AUX	-	0:06:45.313000	0:06:47.313000
@@ -1742,11 +1742,11 @@ Wälzern	Wälzern	NOUN	-	0:06:51.053000	0:06:52.373000
 nicht	-	-	-	0:06:51.053000	0:06:52.373000
 .	-	-	-	0:06:51.053000	0:06:52.373000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:52.373000" end="0:06:52.913000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:52.373000" end="0:06:52.913000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:06:52.373000	0:06:52.913000
 .	-	-	-	0:06:52.373000	0:06:52.913000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:52.913000" end="0:06:57.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:52.913000" end="0:06:57.906000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:06:52.913000	0:06:57.246000
 die	der	PRON	-	0:06:52.913000	0:06:57.246000
 ist	sein	AUX	-	0:06:52.913000	0:06:57.246000
@@ -1763,22 +1763,22 @@ also	also	ADV	-	0:06:57.246000	0:06:57.906000
 die	der	PRON	-	0:06:57.246000	0:06:57.906000
 /.	-	-	-	0:06:57.246000	0:06:57.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:57.906000" end="0:06:58.866000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:57.906000" end="0:06:58.866000" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:06:57.906000	0:06:58.866000
 ?	-	-	-	0:06:57.906000	0:06:58.866000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:58.866000" end="0:06:59.233000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:58.866000" end="0:06:59.233000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:58.866000	0:06:59.233000
 .	-	-	-	0:06:58.866000	0:06:59.233000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:59.233000" end="0:07:00.826000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:06:59.233000" end="0:07:00.826000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:59.233000	0:07:00.826000
 ja	ja	PART	-	0:06:59.233000	0:07:00.826000
 ,	-	-	-	0:06:59.233000	0:07:00.826000
 das	der	PRON	-	0:06:59.233000	0:07:00.826000
 /.	-	-	-	0:06:59.233000	0:07:00.826000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:00.826000" end="0:07:02.080000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:00.826000" end="0:07:02.080000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:07:00.826000	0:07:01.640000
 das	der	PRON	-	0:07:00.826000	0:07:01.640000
 ist	sein	AUX	-	0:07:00.826000	0:07:01.640000
@@ -1790,15 +1790,15 @@ es	ich	PRON	-	0:07:01.640000	0:07:01.780000
 mir	sich	PRON	-	0:07:01.780000	0:07:02.080000
 so	so	ADV	-	0:07:01.780000	0:07:02.080000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:01.780000" end="0:07:02.080000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:01.780000" end="0:07:02.080000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:01.780000	0:07:02.080000
 .	-	-	-	0:07:01.780000	0:07:02.080000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:02.080000" end="0:07:02.526000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:02.080000" end="0:07:02.526000" age_lower="18" age_upper="35">
 geht	gehen	VERB	-	0:07:02.080000	0:07:02.526000
 .	-	-	-	0:07:02.080000	0:07:02.526000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:02.526000" end="0:07:05.660000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:02.526000" end="0:07:05.660000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:02.526000	0:07:03.386000
 ja	ja	PART	-	0:07:02.526000	0:07:03.386000
 .	-	-	-	0:07:02.526000	0:07:03.386000
@@ -1819,10 +1819,10 @@ mal	mal	ADV	-	0:07:03.386000	0:07:05.660000
 (gedacht)	gedenken	VERB	-	0:07:03.386000	0:07:05.660000
 .	-	-	-	0:07:03.386000	0:07:05.660000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:05.660000" end="0:07:05.980000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:05.660000" end="0:07:05.980000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:05.660000	0:07:05.980000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:05.980000" end="0:07:08.706000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:05.980000" end="0:07:08.706000" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:07:05.980000	0:07:08.706000
 einmal	-	-	-	0:07:05.980000	0:07:08.706000
 /.	-	-	-	0:07:05.980000	0:07:08.706000
@@ -1834,19 +1834,19 @@ Jahr"	-	-	-	0:07:05.980000	0:07:08.706000
 angeschaut	-	-	-	0:07:05.980000	0:07:08.706000
 ?	-	-	-	0:07:05.980000	0:07:08.706000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:08.706000" end="0:07:09.846000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:08.706000" end="0:07:09.846000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:07:08.706000	0:07:09.846000
 ,	-	-	-	0:07:08.706000	0:07:09.846000
 ich	ich	PRON	-	0:07:08.706000	0:07:09.846000
 habe	habe	AUX	-	0:07:08.706000	0:07:09.846000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:08.706000" end="0:07:09.846000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:08.706000" end="0:07:09.846000" age_lower="18" age_upper="35">
 im	im	ADP	-	0:07:08.706000	0:07:09.846000
 im	im	ADP	-	0:07:08.706000	0:07:09.846000
 Kino	Kino	NOUN	-	0:07:08.706000	0:07:09.846000
 ?	-	-	-	0:07:08.706000	0:07:09.846000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:09.846000" end="0:07:10.860000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:09.846000" end="0:07:10.860000" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:07:09.846000	0:07:10.546000
 nur	nur	ADV	-	0:07:09.846000	0:07:10.546000
 das	der	DET	-	0:07:09.846000	0:07:10.546000
@@ -1854,11 +1854,11 @@ Buch	Buch	NOUN	-	0:07:09.846000	0:07:10.546000
 gelesen	lesen	VERB	-	0:07:10.546000	0:07:10.860000
 .	-	-	-	0:07:10.546000	0:07:10.860000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:10.546000" end="0:07:10.860000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:10.546000" end="0:07:10.860000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:10.546000	0:07:10.860000
 .	-	-	-	0:07:10.546000	0:07:10.860000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:10.860000" end="0:07:12.206000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:10.860000" end="0:07:12.206000" age_lower="18" age_upper="35">
 den	der	DET	-	0:07:10.860000	0:07:11.206000
 Film	Film	NOUN	-	0:07:10.860000	0:07:11.206000
 habe	habe	AUX	-	0:07:11.206000	0:07:12.206000
@@ -1868,17 +1868,17 @@ nicht	nicht	PART	-	0:07:11.206000	0:07:12.206000
 gesehen	sehen	VERB	-	0:07:11.206000	0:07:12.206000
 .	-	-	-	0:07:11.206000	0:07:12.206000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:11.206000" end="0:07:12.206000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:11.206000" end="0:07:12.206000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:11.206000	0:07:12.206000
 das	der	DET	-	0:07:11.206000	0:07:12.206000
 Buch	Buch	NOUN	-	0:07:11.206000	0:07:12.206000
 habe	habe	AUX	-	0:07:11.206000	0:07:12.206000
 ich	ich	PRON	-	0:07:11.206000	0:07:12.206000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:12.206000" end="0:07:13.313000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:12.206000" end="0:07:13.313000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:12.206000	0:07:13.313000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:12.206000" end="0:07:24.926000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:12.206000" end="0:07:24.926000" age_lower="18" age_upper="35">
 nämlich	nämlich	ADV	-	0:07:12.206000	0:07:13.313000
 auch	auch	ADV	-	0:07:12.206000	0:07:13.313000
 gelesen	lesen	VERB	-	0:07:12.206000	0:07:13.313000
@@ -1935,11 +1935,11 @@ haben	haben	AUX	-	0:07:21.460000	0:07:24.926000
 möchte	mögen	VERB	-	0:07:21.460000	0:07:24.926000
 ,	-	-	-	0:07:21.460000	0:07:24.926000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:24.926000" end="0:07:25.246000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:24.926000" end="0:07:25.246000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:24.926000	0:07:25.246000
 .	-	-	-	0:07:24.926000	0:07:25.246000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:24.926000" end="0:07:27.940000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:24.926000" end="0:07:27.940000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:07:24.926000	0:07:25.246000
 ?	-	-	-	0:07:24.926000	0:07:25.246000
 im	-	-	-	0:07:25.246000	0:07:27.940000
@@ -1955,10 +1955,10 @@ vorgegangen	vorgehen	VERB	-	0:07:25.246000	0:07:27.940000
 ist	sein	AUX	-	0:07:25.246000	0:07:27.940000
 .	-	-	-	0:07:25.246000	0:07:27.940000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:27.940000" end="0:07:30.173000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:27.940000" end="0:07:30.173000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:27.940000	0:07:30.173000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:27.940000" end="0:07:30.173000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:27.940000" end="0:07:30.173000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:07:27.940000	0:07:30.173000
 haben	haben	AUX	-	0:07:27.940000	0:07:30.173000
 sie	ich	PRON	-	0:07:27.940000	0:07:30.173000
@@ -1968,19 +1968,19 @@ das	der	DET	-	0:07:27.940000	0:07:30.173000
 das	der	PRON	-	0:07:27.940000	0:07:30.173000
 hat	haben	AUX	-	0:07:27.940000	0:07:30.173000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.173000" end="0:07:30.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.173000" end="0:07:30.513000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:30.173000	0:07:30.513000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.173000" end="0:07:30.726000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.173000" end="0:07:30.726000" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:07:30.173000	0:07:30.513000
 einfach	einfach	ADV	-	0:07:30.173000	0:07:30.513000
 nicht	nicht	PART	-	0:07:30.513000	0:07:30.726000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.726000" end="0:07:31.186000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.726000" end="0:07:31.186000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:30.726000	0:07:31.186000
 .	-	-	-	0:07:30.726000	0:07:31.186000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.726000" end="0:07:35.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:30.726000" end="0:07:35.606000" age_lower="18" age_upper="35">
 gegeben	geben	VERB	-	0:07:30.726000	0:07:31.186000
 .	-	-	-	0:07:30.726000	0:07:31.186000
 *weißt*	-	-	-	0:07:31.186000	0:07:31.993000
@@ -2005,11 +2005,11 @@ eine	einen	DET	-	0:07:34.053000	0:07:35.606000
 Kopfstimme	Kopfstimme	NOUN	-	0:07:34.053000	0:07:35.606000
 wenigstens	wenigstens	ADV	-	0:07:34.053000	0:07:35.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:35.606000" end="0:07:36" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:35.606000" end="0:07:36" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:35.606000	0:07:36
 .	-	-	-	0:07:35.606000	0:07:36
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:35.606000" end="0:07:43.513000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:35.606000" end="0:07:43.513000" age_lower="18" age_upper="35">
 machen	machen	VERB	-	0:07:35.606000	0:07:36
 .	-	-	-	0:07:35.606000	0:07:36
 *weißt*	-	-	-	0:07:36	0:07:36.300000
@@ -2053,7 +2053,7 @@ komplette	komplette	ADJ	-	0:07:40.946000	0:07:43.513000
 Buch	Buch	NOUN	-	0:07:40.946000	0:07:43.513000
 auch	auch	ADV	-	0:07:40.946000	0:07:43.513000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:43.513000" end="0:07:46.966000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:43.513000" end="0:07:46.966000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:43.513000	0:07:46.966000
 ,	-	-	-	0:07:43.513000	0:07:46.966000
 das	der	PRON	-	0:07:43.513000	0:07:46.966000
@@ -2063,7 +2063,7 @@ das	der	DET	-	0:07:43.513000	0:07:46.966000
 Hauptding	Hauptding	NOUN	-	0:07:43.513000	0:07:46.966000
 vom	vom	ADP	-	0:07:43.513000	0:07:46.966000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:43.513000" end="0:07:46.966000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:43.513000" end="0:07:46.966000" age_lower="18" age_upper="35">
 ausgemacht	ausmachen	VERB	-	0:07:43.513000	0:07:46.966000
 .	-	-	-	0:07:43.513000	0:07:46.966000
 das	der	PRON	-	0:07:43.513000	0:07:46.966000
@@ -2077,13 +2077,13 @@ alles	alle	PRON	-	0:07:43.513000	0:07:46.966000
 ja	ja	PART	-	0:07:43.513000	0:07:46.966000
 .	-	-	-	0:07:43.513000	0:07:46.966000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:46.966000" end="0:07:47.566000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:46.966000" end="0:07:47.566000" age_lower="18" age_upper="35">
 Buch	Buch	NOUN	-	0:07:46.966000	0:07:47.566000
 ,	-	-	-	0:07:46.966000	0:07:47.566000
 ja	ja	PART	-	0:07:46.966000	0:07:47.566000
 .	-	-	-	0:07:46.966000	0:07:47.566000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:47.566000" end="0:07:55.100000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:47.566000" end="0:07:55.100000" age_lower="18" age_upper="35">
 und	-	-	-	0:07:47.566000	0:07:50.546000
 desto	-	-	-	0:07:47.566000	0:07:50.546000
 wa/	-	-	-	0:07:47.566000	0:07:50.546000
@@ -2117,22 +2117,22 @@ drüber	drüber	ADV	-	0:07:51.753000	0:07:55.100000
 geredet	reden	VERB	-	0:07:51.753000	0:07:55.100000
 .	-	-	-	0:07:51.753000	0:07:55.100000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.100000" end="0:07:55.446000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.100000" end="0:07:55.446000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:55.100000	0:07:55.446000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.100000" end="0:07:55.866000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.100000" end="0:07:55.866000" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:07:55.100000	0:07:55.446000
 ,	-	-	-	0:07:55.100000	0:07:55.446000
 das	der	PRON	-	0:07:55.100000	0:07:55.446000
 war	sein	AUX	-	0:07:55.446000	0:07:55.866000
 eigentlich	eigentlich	ADV	-	0:07:55.446000	0:07:55.866000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.866000" end="0:07:56.813000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.866000" end="0:07:56.813000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:55.866000	0:07:56.813000
 ja	ja	ADV	-	0:07:55.866000	0:07:56.813000
 .	-	-	-	0:07:55.866000	0:07:56.813000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.866000" end="0:08:00.106000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:07:55.866000" end="0:08:00.106000" age_lower="18" age_upper="35">
 das	der	DET	-	0:07:55.866000	0:07:56.813000
 Hauptding	Hauptding	NOUN	-	0:07:55.866000	0:07:56.813000
 .	-	-	-	0:07:55.866000	0:07:56.813000
@@ -2155,9 +2155,9 @@ ich	ich	PRON	-	0:07:59.233000	0:08:00.106000
 das	der	PRON	-	0:07:59.233000	0:08:00.106000
 .	-	-	-	0:07:59.233000	0:08:00.106000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:00.106000" end="0:08:00.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:00.106000" end="0:08:00.473000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:00.473000" end="0:08:01.553000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:00.473000" end="0:08:01.553000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:08:00.473000	0:08:01.553000
 das	der	PRON	-	0:08:00.473000	0:08:01.553000
 hat	haben	AUX	-	0:08:00.473000	0:08:01.553000
@@ -2166,11 +2166,11 @@ so	so	ADV	-	0:08:00.473000	0:08:01.553000
 angezipft	angezipft	VERB	-	0:08:00.473000	0:08:01.553000
 .	-	-	-	0:08:00.473000	0:08:01.553000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:01.553000" end="0:08:02.040000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:01.553000" end="0:08:02.040000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:01.553000	0:08:02.040000
 .	-	-	-	0:08:01.553000	0:08:02.040000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:02.040000" end="0:08:03.400000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:02.040000" end="0:08:03.400000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:08:02.040000	0:08:03.400000
 das	der	DET	-	0:08:02.040000	0:08:03.400000
 Buch	Buch	NOUN	-	0:08:02.040000	0:08:03.400000
@@ -2179,7 +2179,7 @@ echt	echt	ADJ	-	0:08:02.040000	0:08:03.400000
 gut	gut	ADJ	-	0:08:02.040000	0:08:03.400000
 .	-	-	-	0:08:02.040000	0:08:03.400000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:03.400000" end="0:08:06.853000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:03.400000" end="0:08:06.853000" age_lower="18" age_upper="35">
 ((1,0s))	-	-	-	0:08:03.400000	0:08:06.853000
 mit	mit	ADP	-	0:08:03.400000	0:08:06.853000
 ist	sein	AUX	-	0:08:03.400000	0:08:06.853000
@@ -2193,7 +2193,7 @@ gleich	gleichen	ADJ	-	0:08:03.400000	0:08:06.853000
 gegangen	gehen	VERB	-	0:08:03.400000	0:08:06.853000
 .	-	-	-	0:08:03.400000	0:08:06.853000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:06.853000" end="0:08:08.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:06.853000" end="0:08:08.606000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:08:06.853000	0:08:08.606000
 da	da	ADV	-	0:08:06.853000	0:08:08.606000
 habe	habe	AUX	-	0:08:06.853000	0:08:08.606000
@@ -2205,7 +2205,7 @@ gelesen	lesen	VERB	-	0:08:06.853000	0:08:08.606000
 ähm	ähm	X	-	0:08:06.853000	0:08:08.606000
 .	-	-	-	0:08:06.853000	0:08:08.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:08.606000" end="0:08:09.760000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:08.606000" end="0:08:09.760000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:08:08.606000	0:08:09.446000
 habe	habe	AUX	-	0:08:08.606000	0:08:09.446000
 ich	ich	PRON	-	0:08:08.606000	0:08:09.446000
@@ -2215,11 +2215,11 @@ zuerst	zuerst	ADV	-	0:08:08.606000	0:08:09.446000
 das	der	DET	-	0:08:09.446000	0:08:09.760000
 Buch	Buch	NOUN	-	0:08:09.446000	0:08:09.760000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:09.446000" end="0:08:09.760000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:09.446000" end="0:08:09.760000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:09.446000	0:08:09.760000
 .	-	-	-	0:08:09.446000	0:08:09.760000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:09.760000" end="0:08:15.980000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:09.760000" end="0:08:15.980000" age_lower="18" age_upper="35">
 gelesen	lesen	VERB	-	0:08:09.760000	0:08:11.300000
 und	und	CCONJ	-	0:08:09.760000	0:08:11.300000
 dann	dann	ADV	-	0:08:09.760000	0:08:11.300000
@@ -2258,10 +2258,10 @@ aber	aber	CCONJ	-	0:08:15.600000	0:08:15.980000
 das	der	PRON	-	0:08:15.600000	0:08:15.980000
 war	sein	AUX	-	0:08:15.600000	0:08:15.980000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:15.600000" end="0:08:15.980000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:15.600000" end="0:08:15.980000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:08:15.600000	0:08:15.980000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:15.980000" end="0:08:18.940000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:15.980000" end="0:08:18.940000" age_lower="18" age_upper="35">
 halt	halt	ADV	-	0:08:15.980000	0:08:18.533000
 der	der	DET	-	0:08:15.980000	0:08:18.533000
 Film	Film	NOUN	-	0:08:15.980000	0:08:18.533000
@@ -2278,7 +2278,7 @@ tun	tun	VERB	-	0:08:15.980000	0:08:18.533000
 gehabt	haben	AUX	-	0:08:18.533000	0:08:18.940000
 .	-	-	-	0:08:18.533000	0:08:18.940000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:18.533000" end="0:08:23.813000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:18.533000" end="0:08:23.813000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:08:18.533000	0:08:18.940000
 .	-	-	-	0:08:18.533000	0:08:18.940000
 <pause duration="1,0s"/>
@@ -2298,11 +2298,11 @@ dran	dran	ADV	-	0:08:18.940000	0:08:23.813000
 gell	gell	ADJ	-	0:08:18.940000	0:08:23.813000
 ?	-	-	-	0:08:18.940000	0:08:23.813000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:23.813000" end="0:08:24.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:23.813000" end="0:08:24.140000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:23.813000	0:08:24.140000
 .	-	-	-	0:08:23.813000	0:08:24.140000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:24.140000" end="0:08:31.660000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:24.140000" end="0:08:31.660000" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 Dialekt	Dialekt	NOUN	-	0:08:24.140000	0:08:28.946000
 im	im	ADP	-	0:08:24.140000	0:08:28.946000
@@ -2321,17 +2321,17 @@ Peter	Peter	PROPN	-	0:08:30.080000	0:08:31.660000
 Niederwölz	Niederwölz	PROPN	-	0:08:30.080000	0:08:31.660000
 ?	-	-	-	0:08:30.080000	0:08:31.660000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:31.660000" end="0:08:33.686000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:31.660000" end="0:08:33.686000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:31.660000" end="0:08:33.686000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:31.660000" end="0:08:33.686000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:33.686000" end="0:08:37.006000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:33.686000" end="0:08:37.006000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 mir	sich	PRON	-	0:08:33.686000	0:08:35.686000
 gleich	gleichen	ADV	-	0:08:33.686000	0:08:35.686000
 .	-	-	-	0:08:33.686000	0:08:35.686000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:35.686000" end="0:08:37.893000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:35.686000" end="0:08:37.893000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:08:35.686000	0:08:37.006000
 ,	-	-	-	0:08:35.686000	0:08:37.006000
@@ -2344,11 +2344,11 @@ ja	ja	ADV	-	0:08:37.486000	0:08:37.893000
 nicht	nicht	PART	-	0:08:37.486000	0:08:37.893000
 ,	-	-	-	0:08:37.486000	0:08:37.893000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:37.893000" end="0:08:38.240000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:37.893000" end="0:08:38.240000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:37.893000	0:08:38.240000
 .	-	-	-	0:08:37.893000	0:08:38.240000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:37.893000" end="0:08:41.133000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:37.893000" end="0:08:41.133000" age_lower="18" age_upper="35">
 ob	ob	SCONJ	-	0:08:37.893000	0:08:38.240000
 wir	ich	PRON	-	0:08:37.893000	0:08:38.240000
 unterschiedliche	unterschiedlich	ADJ	-	0:08:38.240000	0:08:39.613000
@@ -2361,7 +2361,7 @@ unterschiedliche	unterschiedlich	ADJ	-	0:08:39.613000	0:08:41.133000
 Dialekte	Dialekt	NOUN	-	0:08:39.613000	0:08:41.133000
 ?	-	-	-	0:08:39.613000	0:08:41.133000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:41.133000" end="0:08:49.013000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:41.133000" end="0:08:49.013000" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 ich	ich	PRON	-	0:08:41.133000	0:08:43.206000
 glaube	glauben	VERB	-	0:08:41.133000	0:08:43.206000
@@ -2391,10 +2391,10 @@ SONSTIGE	SONSTIGE	NOUN	-	0:08:46.780000	0:08:48.013000
 SONSTIGE	SONSTIGE	PROPN	-	0:08:48.013000	0:08:49.013000
 .	-	-	-	0:08:48.013000	0:08:49.013000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:48.013000" end="0:08:49.013000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:48.013000" end="0:08:49.013000" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:08:48.013000	0:08:49.013000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:49.013000" end="0:08:53.173000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:49.013000" end="0:08:53.173000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 also	also	ADV	-	0:08:49.013000	0:08:53.173000
 große	groß	ADJ	KONJ	0:08:49.013000	0:08:53.173000
@@ -2407,7 +2407,7 @@ nicht	nicht	PART	KONJ	0:08:49.013000	0:08:53.173000
 aufgefallen	auffallen	VERB	KONJ	0:08:49.013000	0:08:53.173000
 .	-	-	-	0:08:49.013000	0:08:53.173000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:53.173000" end="0:08:56.020000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:53.173000" end="0:08:56.020000" age_lower="18" age_upper="35">
 mir	sich	PRON	-	0:08:53.173000	0:08:54.200000
 eben	eben	ADV	-	0:08:53.173000	0:08:54.200000
 auch	auch	ADV	-	0:08:53.173000	0:08:54.200000
@@ -2419,11 +2419,11 @@ auch	-	-	-	0:08:54.200000	0:08:56.020000
 nicht	nicht	PART	-	0:08:54.200000	0:08:56.020000
 .	-	-	-	0:08:54.200000	0:08:56.020000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:56.020000" end="0:08:56.500000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:56.020000" end="0:08:56.500000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:08:56.020000	0:08:56.500000
 .	-	-	-	0:08:56.020000	0:08:56.500000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:56.500000" end="0:08:59.573000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:56.500000" end="0:08:59.573000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 reden	reden	VERB	-	0:08:56.500000	0:08:59.006000
 die	der	DET	-	0:08:56.500000	0:08:59.006000
@@ -2435,7 +2435,7 @@ nein	nein	PART	-	0:08:59.006000	0:08:59.573000
 gell	gell	ADJ	-	0:08:59.006000	0:08:59.573000
 ?	-	-	-	0:08:59.006000	0:08:59.573000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:59.573000" end="0:09:03.266000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:08:59.573000" end="0:09:03.266000" age_lower="18" age_upper="35">
 vielleicht	vielleicht	ADV	-	0:08:59.573000	0:09:01.733000
 noch	noch	ADV	-	0:08:59.573000	0:09:01.733000
 ein	einen	DET	-	0:08:59.573000	0:09:01.733000
@@ -2443,20 +2443,20 @@ bissel	bissel	NOUN	-	0:08:59.573000	0:09:01.733000
 uriger	urig	NOUN	-	0:08:59.573000	0:09:01.733000
 .	-	-	-	0:08:59.573000	0:09:01.733000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:01.733000" end="0:09:04.053000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:01.733000" end="0:09:04.053000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:09:03.266000	0:09:04.053000
 kann	können	VERB	-	0:09:03.266000	0:09:04.053000
 sein	mein	AUX	-	0:09:03.266000	0:09:04.053000
 .	-	-	-	0:09:03.266000	0:09:04.053000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:04.053000" end="0:09:05.246000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:04.053000" end="0:09:05.246000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:09:04.053000	0:09:05.246000
 sonst	sonst	ADV	-	0:09:04.053000	0:09:05.246000
 glaube	glauben	VERB	-	0:09:04.053000	0:09:05.246000
 ich	ich	PRON	-	0:09:04.053000	0:09:05.246000
 /.	-	-	-	0:09:04.053000	0:09:05.246000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:05.246000" end="0:09:11.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:05.246000" end="0:09:11.606000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:09:05.246000	0:09:05.766000
 .	-	-	-	0:09:05.246000	0:09:05.766000
 <pause duration="3,4s"/>
@@ -2473,25 +2473,25 @@ Haufen	Haufen	NOUN	-	0:09:09.466000	0:09:11.606000
 drauf	drauf	ADP	-	0:09:09.466000	0:09:11.606000
 .	-	-	-	0:09:09.466000	0:09:11.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:11.606000" end="0:09:12.173000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:11.606000" end="0:09:12.173000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:11.606000	0:09:12.173000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:12.173000" end="0:09:13.726000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:12.173000" end="0:09:13.726000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:09:12.173000	0:09:13.726000
 also	also	ADV	-	0:09:12.173000	0:09:13.726000
 weil	weil	SCONJ	-	0:09:12.173000	0:09:13.726000
 /.	-	-	-	0:09:12.173000	0:09:13.726000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:13.726000" end="0:09:14.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:13.726000" end="0:09:14.473000" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:09:13.726000	0:09:14.200000
 muss	muss	VERB	-	0:09:13.726000	0:09:14.200000
 ich	ich	PRON	-	0:09:14.200000	0:09:14.473000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:14.200000" end="0:09:14.473000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:14.200000" end="0:09:14.473000" age_lower="18" age_upper="35">
 voll	voll	ADJ	-	0:09:14.200000	0:09:14.473000
 .	-	-	-	0:09:14.200000	0:09:14.473000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:14.473000" end="0:09:15.580000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:14.473000" end="0:09:15.580000" age_lower="18" age_upper="35">
 dich	sich	PRON	-	0:09:14.473000	0:09:14.640000
 wieder	wieder	ADV	-	0:09:14.640000	0:09:15.580000
 fragen	fragen	VERB	-	0:09:14.640000	0:09:15.580000
@@ -2499,11 +2499,11 @@ fragen	fragen	VERB	-	0:09:14.640000	0:09:15.580000
 gell	gell	ADJ	-	0:09:14.640000	0:09:15.580000
 ?	-	-	-	0:09:14.640000	0:09:15.580000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:14.640000" end="0:09:15.580000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:14.640000" end="0:09:15.580000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:14.640000	0:09:15.580000
 mhm	mhm	PROPN	-	0:09:14.640000	0:09:15.580000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:15.580000" end="0:09:29.946000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:15.580000" end="0:09:29.946000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 schauen	schauen	VERB	-	0:09:15.580000	0:09:18.986000
 ,	-	-	-	0:09:15.580000	0:09:18.986000
@@ -2535,16 +2535,16 @@ Wünschen	Wunsch	NOUN	-	0:09:27.100000	0:09:29.946000
 frei"	frei	ADP	-	0:09:27.100000	0:09:29.946000
 .	-	-	-	0:09:27.100000	0:09:29.946000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:29.946000" end="0:09:33.653000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:29.946000" end="0:09:33.653000" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 ähm	ähm	PROPN	-	0:09:29.946000	0:09:33.653000
 Aladdin	Aladin	PROPN	-	0:09:29.946000	0:09:33.653000
 .	-	-	-	0:09:29.946000	0:09:33.653000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:33.653000" end="0:09:34.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:33.653000" end="0:09:34.606000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:33.653000	0:09:34.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:34.606000" end="0:10:18.353000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:09:34.606000" end="0:10:18.353000" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 ja	ja	ADV	-	0:09:34.606000	0:09:41.926000
 <pause duration="2,7s"/>
@@ -2684,11 +2684,11 @@ deppert	deppert	VERB	-	0:10:17.120000	0:10:18.353000
 werde	werden	AUX	-	0:10:17.120000	0:10:18.353000
 .	-	-	-	0:10:17.120000	0:10:18.353000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:18.353000" end="0:10:19.520000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:18.353000" end="0:10:19.520000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:18.353000" end="0:10:19.520000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:18.353000" end="0:10:19.520000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:19.520000" end="0:10:24.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:19.520000" end="0:10:24.513000" age_lower="18" age_upper="35">
 finde	finden	VERB	-	0:10:19.520000	0:10:21.880000
 ich	ich	PRON	-	0:10:19.520000	0:10:21.880000
 alle	all	DET	-	0:10:19.520000	0:10:21.880000
@@ -2710,7 +2710,7 @@ wünschen	wünschen	VERB	KONJ	0:10:22.553000	0:10:23.060000
 also	also	ADV	-	0:10:23.060000	0:10:24.513000
 /.	-	-	-	0:10:23.060000	0:10:24.513000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:23.060000" end="0:10:30.686000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:23.060000" end="0:10:30.686000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:23.060000	0:10:24.513000
 .	-	-	-	0:10:23.060000	0:10:24.513000
 ja	ja	ADV	-	0:10:24.513000	0:10:26.506000
@@ -2747,14 +2747,14 @@ nein	nein	PART	-	0:10:29.880000	0:10:30.686000
 ich	ich	PRON	-	0:10:29.880000	0:10:30.686000
 würde	werden	AUX	-	0:10:29.880000	0:10:30.686000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:30.686000" end="0:10:31.453000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:30.686000" end="0:10:31.453000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:10:30.686000	0:10:31.453000
 so	so	ADV	-	0:10:30.686000	0:10:31.453000
 richtig	richtig	ADJ	-	0:10:30.686000	0:10:31.453000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:30.686000" end="0:10:31.453000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:30.686000" end="0:10:31.453000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:31.453000" end="0:10:33.165000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:31.453000" end="0:10:33.165000" age_lower="18" age_upper="35">
 viele	viel	PRON	-	0:10:31.453000	0:10:32.213000
 ,	-	-	-	0:10:31.453000	0:10:32.213000
 ich	ich	PRON	KONJ	0:10:31.453000	0:10:32.213000
@@ -2767,7 +2767,7 @@ anfangen	anfangen	VERB	-	0:10:32.213000	0:10:33.165000
 damit	damit	ADV	-	0:10:32.213000	0:10:33.165000
 .	-	-	-	0:10:32.213000	0:10:33.165000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:33.165000" end="0:10:35.053000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:33.165000" end="0:10:35.053000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:10:33.165000	0:10:35.053000
 ,	-	-	-	0:10:33.165000	0:10:35.053000
 eh	eh	X	-	0:10:33.165000	0:10:35.053000
@@ -2777,11 +2777,11 @@ ist	sein	AUX	-	0:10:33.165000	0:10:35.053000
 eh	eh	ADV	-	0:10:33.165000	0:10:35.053000
 erstens	erstens	ADV	-	0:10:33.165000	0:10:35.053000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:35.053000" end="0:10:35.220000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:35.053000" end="0:10:35.220000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:35.053000	0:10:35.220000
 .	-	-	-	0:10:35.053000	0:10:35.220000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:35.220000" end="0:10:37.986000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:35.220000" end="0:10:37.986000" age_lower="18" age_upper="35">
 einmal	einmal	ADV	-	0:10:35.220000	0:10:37.986000
 das	der	PRON	-	0:10:35.220000	0:10:37.986000
 und	und	CCONJ	-	0:10:35.220000	0:10:37.986000
@@ -2799,11 +2799,11 @@ auch	auch	ADV	-	0:10:35.220000	0:10:37.986000
 keine	kein	DET	-	0:10:35.220000	0:10:37.986000
 Freude	Freude	NOUN	-	0:10:35.220000	0:10:37.986000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:37.986000" end="0:10:38.266000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:37.986000" end="0:10:38.266000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:37.986000	0:10:38.266000
 .	-	-	-	0:10:37.986000	0:10:38.266000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:37.986000" end="0:10:42.140000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:37.986000" end="0:10:42.140000" age_lower="18" age_upper="35">
 mehr	mehr	ADV	-	0:10:37.986000	0:10:38.266000
 .	-	-	-	0:10:37.986000	0:10:38.266000
 weil	weil	SCONJ	-	0:10:38.266000	0:10:39.733000
@@ -2832,11 +2832,11 @@ drüber	-	-	-	0:10:41.100000	0:10:42.140000
 nicht	nicht	PART	-	0:10:41.100000	0:10:42.140000
 ?	-	-	-	0:10:41.100000	0:10:42.140000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:42.140000" end="0:10:42.353000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:42.140000" end="0:10:42.353000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:10:42.140000	0:10:42.353000
 .	-	-	-	0:10:42.140000	0:10:42.353000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:42.353000" end="0:10:52.306000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:42.353000" end="0:10:52.306000" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:10:42.353000	0:10:43.386000
 du	du	PRON	-	0:10:42.353000	0:10:43.386000
 dir	sich	PRON	-	0:10:42.353000	0:10:43.386000
@@ -2860,17 +2860,17 @@ von	von	ADP	-	0:10:45.033000	0:10:52.306000
 erzähle	erzählen	NOUN	-	0:10:45.033000	0:10:52.306000
 von	von	ADP	-	0:10:45.033000	0:10:52.306000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:52.306000" end="0:10:53.773000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:52.306000" end="0:10:53.773000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:52.306000" end="0:10:53.773000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:52.306000" end="0:10:53.773000" age_lower="18" age_upper="35">
 "Dorffeste	Dorffeste	NOUN	-	0:10:52.306000	0:10:53.773000
 von	von	ADP	-	0:10:52.306000	0:10:53.773000
 früher"	früh	ADJ	-	0:10:52.306000	0:10:53.773000
 .	-	-	-	0:10:52.306000	0:10:53.773000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:53.773000" end="0:10:55.280000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:53.773000" end="0:10:55.280000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:53.773000" end="0:10:55.280000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:53.773000" end="0:10:55.280000" age_lower="18" age_upper="35">
 kommen	kommen	VERB	-	0:10:53.773000	0:10:55.280000
 noch	noch	ADV	-	0:10:53.773000	0:10:55.280000
 Skandale	Skandal	NOUN	-	0:10:53.773000	0:10:55.280000
@@ -2878,9 +2878,9 @@ von	von	ADP	-	0:10:53.773000	0:10:55.280000
 dir	sich	PRON	-	0:10:53.773000	0:10:55.280000
 .	-	-	-	0:10:53.773000	0:10:55.280000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:55.280000" end="0:10:56.466000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:55.280000" end="0:10:56.466000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:55.280000" end="0:10:56.466000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:55.280000" end="0:10:56.466000" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:10:55.280000	0:10:56.466000
 bin	-	-	-	0:10:55.280000	0:10:56.466000
 ich	-	-	-	0:10:55.280000	0:10:56.466000
@@ -2888,7 +2888,7 @@ aber	-	-	-	0:10:55.280000	0:10:56.466000
 neugierig	-	-	-	0:10:55.280000	0:10:56.466000
 .	-	-	-	0:10:55.280000	0:10:56.466000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:56.466000" end="0:11:03.480000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:10:56.466000" end="0:11:03.480000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:10:56.466000	0:10:59.213000
 glaube	glauben	VERB	-	0:10:56.466000	0:10:59.213000
 ,	-	-	-	0:10:56.466000	0:10:59.213000
@@ -2908,9 +2908,9 @@ vergessen	vergessen	VERB	-	0:10:59.213000	0:11:01.313000
 verdrängt	verdrängen	VERB	-	0:10:59.213000	0:11:01.313000
 .	-	-	-	0:10:59.213000	0:11:01.313000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:01.313000" end="0:11:03.480000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:01.313000" end="0:11:03.480000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:03.480000" end="0:11:07.133000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:03.480000" end="0:11:07.133000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 was	was	PRON	-	0:11:03.480000	0:11:07.133000
 gibt	geben	VERB	-	0:11:03.480000	0:11:07.133000
@@ -2923,28 +2923,28 @@ zu	zu	PART	-	0:11:03.480000	0:11:07.133000
 erzählen	erzählen	VERB	-	0:11:03.480000	0:11:07.133000
 ?	-	-	-	0:11:03.480000	0:11:07.133000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:07.133000" end="0:11:09.660000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:07.133000" end="0:11:09.660000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 warte	-	-	-	0:11:07.133000	0:11:09.660000
 einmal	-	-	-	0:11:07.133000	0:11:09.660000
 .	-	-	-	0:11:07.133000	0:11:09.660000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:09.660000" end="0:11:10.166000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:09.660000" end="0:11:10.166000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:11:09.660000	0:11:10.166000
 meine	meinen	VERB	-	0:11:09.660000	0:11:10.166000
 ,	-	-	-	0:11:09.660000	0:11:10.166000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:10.166000" end="0:11:10.906000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:10.166000" end="0:11:10.906000" age_lower="18" age_upper="35">
 hi	hi	PROPN	Anrede_Form Anrede_Name Anruf Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name+ OrgFunk Pro- Redupl Vorname Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:11:10.166000	0:11:10.906000
 NAME	NAME	PROPN	Anrede_Form Anrede_Name Anruf Appo Appo- Begrüßung Dimin Dimin- Exprkomp GrammForm Gruß GrußFunk Lautung Name+ OrgFunk Pro- Redupl Vorname Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	0:11:10.166000	0:11:10.906000
 .	-	-	-	0:11:10.166000	0:11:10.906000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:10.906000" end="0:11:11.966000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:10.906000" end="0:11:11.966000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 hallo	hallo	PROPN	-	0:11:10.906000	0:11:11.966000
 .	-	-	-	0:11:10.906000	0:11:11.966000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:11.966000" end="0:11:14.586000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:11.966000" end="0:11:14.586000" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:11:11.966000	0:11:14.586000
 wir	ich	PRON	-	0:11:11.966000	0:11:14.586000
 zwei	zwei	NUM	-	0:11:11.966000	0:11:14.586000
@@ -2961,12 +2961,12 @@ führen	fahren	VERB	-	0:11:11.966000	0:11:14.586000
 *weißt*	-	-	-	0:11:11.966000	0:11:14.586000
 ?	-	-	-	0:11:11.966000	0:11:14.586000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:14.586000" end="0:11:16.440000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:14.586000" end="0:11:16.440000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:11:14.586000	0:11:16.440000
 Person))	-	-	-	0:11:14.586000	0:11:16.440000
 SONSTIGE	SONSTIGE	-	-	0:11:14.586000	0:11:16.440000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:14.586000" end="0:11:25.133000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:14.586000" end="0:11:25.133000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	ähm	X	-	0:11:16.440000	0:11:18.440000
 die	der	PRON	-	0:11:16.440000	0:11:18.440000
@@ -3007,7 +3007,7 @@ aufschneiden	aufschneiden	VERB	-	0:11:23.733000	0:11:24.500000
 magst	-	-	-	0:11:24.500000	0:11:25.133000
 ?	-	-	-	0:11:24.500000	0:11:25.133000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:25.133000" end="0:11:28.520000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:25.133000" end="0:11:28.520000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	und	CCONJ	-	0:11:25.133000	0:11:28.520000
 nicht	nicht	PART	-	0:11:25.133000	0:11:28.520000
@@ -3021,7 +3021,7 @@ Blödsinn	Blödsinn	NOUN	-	0:11:25.133000	0:11:28.520000
 rede	rede	VERB	-	0:11:25.133000	0:11:28.520000
 .	-	-	-	0:11:25.133000	0:11:28.520000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:25.133000" end="0:11:29.020000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:25.133000" end="0:11:29.020000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 also	also	ADV	-	0:11:25.133000	0:11:28.520000
 es	ich	PRON	-	0:11:25.133000	0:11:28.520000
@@ -3035,11 +3035,11 @@ von	von	ADP	-	0:11:25.133000	0:11:28.520000
 der	der	DET	-	0:11:25.133000	0:11:28.520000
 NAME	NAME	NOUN	-	0:11:28.520000	0:11:29.020000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:29.020000" end="0:11:31.973000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:29.020000" end="0:11:31.973000" age_lower="18" age_upper="35">
 hallo	hallo	PROPN	-	0:11:29.020000	0:11:29.320000
 .	-	-	-	0:11:29.020000	0:11:29.320000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:29.320000" end="0:11:32.933000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:29.320000" end="0:11:32.933000" age_lower="18" age_upper="35">
 kommen	kommen	VERB	-	0:11:29.320000	0:11:31.973000
 jetzt	jetzt	ADV	-	0:11:29.320000	0:11:31.973000
 die	der	DET	-	0:11:29.320000	0:11:31.973000
@@ -3057,24 +3057,24 @@ gefragt	fragen	VERB	-	0:11:31.973000	0:11:32.933000
 gell	gell	ADJ	-	0:11:31.973000	0:11:32.933000
 ?	-	-	-	0:11:31.973000	0:11:32.933000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:32.933000" end="0:11:34.333000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:32.933000" end="0:11:34.333000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:11:32.933000	0:11:34.333000
 Person))	-	-	-	0:11:32.933000	0:11:34.333000
 SONSTIGE	SONSTIGE	-	-	0:11:32.933000	0:11:34.333000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:32.933000" end="0:11:34.333000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:32.933000" end="0:11:34.333000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:34.333000" end="0:11:34.973000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:34.333000" end="0:11:34.973000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:34.973000" end="0:11:36.773000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:34.973000" end="0:11:36.773000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:11:34.973000	0:11:36.773000
 ,	-	-	-	0:11:34.973000	0:11:36.773000
 also	also	ADV	-	0:11:34.973000	0:11:36.773000
 bitte	bitte	ADV	-	0:11:34.973000	0:11:36.773000
 .	-	-	-	0:11:34.973000	0:11:36.773000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:36.773000" end="0:11:39.920000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:36.773000" end="0:11:39.920000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:11:36.773000	0:11:38.700000
 also	also	ADV	-	0:11:36.773000	0:11:38.700000
 Skandale	Skandal	NOUN	-	0:11:36.773000	0:11:38.700000
@@ -3093,9 +3093,9 @@ immer	immer	ADV	-	0:11:38.700000	0:11:39.920000
 lustig	lustig	ADJ	-	0:11:38.700000	0:11:39.920000
 .	-	-	-	0:11:38.700000	0:11:39.920000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:39.920000" end="0:11:40.706000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:39.920000" end="0:11:40.706000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:40.706000" end="0:11:45.300000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:40.706000" end="0:11:45.300000" age_lower="18" age_upper="35">
 man	man	PRON	-	0:11:40.706000	0:11:43.940000
 hat	haben	AUX	-	0:11:40.706000	0:11:43.940000
 vielleicht	vielleicht	ADV	-	0:11:40.706000	0:11:43.940000
@@ -3113,9 +3113,9 @@ Glasel	Glasel	NOUN	-	0:11:40.706000	0:11:43.940000
 geschaut	schauen	VERB	-	0:11:43.940000	0:11:45.300000
 .	-	-	-	0:11:43.940000	0:11:45.300000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:43.940000" end="0:11:45.300000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:43.940000" end="0:11:45.300000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:45.300000" end="0:11:50.733000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:45.300000" end="0:11:50.733000" age_lower="18" age_upper="35">
 dass	dass	SCONJ	-	0:11:45.300000	0:11:47.706000
 man	man	PRON	-	0:11:45.300000	0:11:47.706000
 es	ich	PRON	-	0:11:45.300000	0:11:47.706000
@@ -3137,7 +3137,7 @@ immer	immer	ADV	-	0:11:47.706000	0:11:50.733000
 brav	brav	ADJ	-	0:11:47.706000	0:11:50.733000
 .	-	-	-	0:11:47.706000	0:11:50.733000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:50.733000" end="0:11:55.420000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:50.733000" end="0:11:55.420000" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 wenn	wenn	SCONJ	-	0:11:50.733000	0:11:54.933000
 ich	ich	PRON	-	0:11:50.733000	0:11:54.933000
@@ -3151,32 +3151,32 @@ täte	-	-	-	0:11:54.933000	0:11:55.420000
 es	-	-	-	0:11:54.933000	0:11:55.420000
 wahrscheinlich	-	-	-	0:11:54.933000	0:11:55.420000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:55.420000" end="0:11:56.466000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:55.420000" end="0:11:56.466000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:11:55.420000	0:11:56.466000
 war	sein	AUX	-	0:11:55.420000	0:11:56.466000
 immer	immer	ADV	-	0:11:55.420000	0:11:56.466000
 relativ	relativ	ADJ	-	0:11:55.420000	0:11:56.466000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:55.420000" end="0:11:56.466000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:55.420000" end="0:11:56.466000" age_lower="18" age_upper="35">
 immer	-	-	-	0:11:55.420000	0:11:56.466000
 "ui"	-	-	-	0:11:55.420000	0:11:56.466000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:56.466000" end="0:11:56.780000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:56.466000" end="0:11:56.780000" age_lower="18" age_upper="35">
 brav	brav	ADJ	-	0:11:56.466000	0:11:56.780000
 .	-	-	-	0:11:56.466000	0:11:56.780000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:56.780000" end="0:11:58.386000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:56.780000" end="0:11:58.386000" age_lower="18" age_upper="35">
 relativ	-	-	-	0:11:56.780000	0:11:58.386000
 ,	-	-	-	0:11:56.780000	0:11:58.386000
 okay	okay	PROPN	-	0:11:56.780000	0:11:58.386000
 okay	okay	PROPN	-	0:11:56.780000	0:11:58.386000
 .	-	-	-	0:11:56.780000	0:11:58.386000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:58.386000" end="0:11:59.653000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:58.386000" end="0:11:59.653000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:58.386000" end="0:11:59.653000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:58.386000" end="0:11:59.653000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:59.653000" end="0:12:14" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:11:59.653000" end="0:12:14" age_lower="18" age_upper="35">
 das	der	DET	-	0:11:59.653000	0:12:01.366000
 Skandalöseste	skandalös	NOUN	-	0:11:59.653000	0:12:01.366000
 war	sein	AUX	-	0:11:59.653000	0:12:01.366000
@@ -3224,11 +3224,11 @@ später	spät	ADJ	-	0:12:09.720000	0:12:12.973000
 gebeichtet	beichten	VERB	-	0:12:09.720000	0:12:12.973000
 .	-	-	-	0:12:09.720000	0:12:12.973000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:12.973000" end="0:12:14" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:12.973000" end="0:12:14" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:14" end="0:12:18.086000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:14" end="0:12:18.086000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:14" end="0:12:31.033000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:14" end="0:12:31.033000" age_lower="18" age_upper="35">
 okay	okay	VERB	-	0:12:14	0:12:18.086000
 also	also	ADV	-	0:12:14	0:12:18.086000
 immer	immer	ADV	-	0:12:14	0:12:18.086000
@@ -3280,7 +3280,7 @@ du	du	PRON	-	0:12:29.666000	0:12:31.033000
 da	da	ADV	-	0:12:29.666000	0:12:31.033000
 ?	-	-	-	0:12:29.666000	0:12:31.033000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:31.033000" end="0:12:32.546000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:31.033000" end="0:12:32.546000" age_lower="18" age_upper="35">
 ((drite	-	-	-	0:12:31.033000	0:12:32.546000
 Person))	-	-	-	0:12:31.033000	0:12:32.546000
 SONSTIGE	SONSTIGE	-	-	0:12:31.033000	0:12:32.546000
@@ -3290,7 +3290,7 @@ immer	-	-	-	0:12:31.033000	0:12:32.546000
 brav	-	-	-	0:12:31.033000	0:12:32.546000
 SONSTIGE	SONSTIGE	-	-	0:12:31.033000	0:12:32.546000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:31.033000" end="0:12:34.586000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:31.033000" end="0:12:34.586000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 <pause duration="0,7s"/>
 *siehst*	-	-	-	0:12:32.546000	0:12:33.633000
@@ -3299,9 +3299,9 @@ ja	-	-	-	0:12:33.633000	0:12:34.586000
 *siehst*	-	-	-	0:12:33.633000	0:12:34.586000
 ?	-	-	-	0:12:33.633000	0:12:34.586000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:34.586000" end="0:12:38.860000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:34.586000" end="0:12:38.860000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:34.586000" end="0:12:39.760000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:34.586000" end="0:12:39.760000" age_lower="18" age_upper="35">
 immer	immer	ADV	-	0:12:34.586000	0:12:38.860000
 brav	brav	ADJ	-	0:12:34.586000	0:12:38.860000
 gewesen	sein	AUX	-	0:12:34.586000	0:12:38.860000
@@ -3310,7 +3310,7 @@ ja	ja	PART	-	0:12:38.860000	0:12:39.760000
 passt	passt	PROPN	-	0:12:38.860000	0:12:39.760000
 .	-	-	-	0:12:38.860000	0:12:39.760000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:39.760000" end="0:12:43.033000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:39.760000" end="0:12:43.033000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 ach	ach	X	-	0:12:39.760000	0:12:43.033000
 so	so	ADV	-	0:12:39.760000	0:12:43.033000
@@ -3326,11 +3326,11 @@ fragen	fragen	VERB	-	0:12:39.760000	0:12:43.033000
 gell	gell	ADJ	-	0:12:39.760000	0:12:43.033000
 ?	-	-	-	0:12:39.760000	0:12:43.033000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:43.033000" end="0:12:43.200000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:43.033000" end="0:12:43.200000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:43.033000	0:12:43.200000
 .	-	-	-	0:12:43.033000	0:12:43.200000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:43.200000" end="0:12:48.665000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:43.200000" end="0:12:48.665000" age_lower="18" age_upper="35">
 <pause duration="3,0s"/>
 du	du	PRON	-	0:12:43.200000	0:12:46.733000
 hast	haben	AUX	-	0:12:43.200000	0:12:46.733000
@@ -3348,10 +3348,10 @@ gell	gell	ADJ	-	0:12:46.733000	0:12:48.240000
 dann	dann	ADV	-	0:12:48.240000	0:12:48.665000
 /.	-	-	-	0:12:48.240000	0:12:48.665000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:48.240000" end="0:12:48.665000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:48.240000" end="0:12:48.665000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:12:48.240000	0:12:48.665000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:48.665000" end="0:12:52.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:48.665000" end="0:12:52.606000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 gehe	gehen	VERB	-	0:12:48.665000	0:12:52.086000
 ich	ich	PRON	-	0:12:48.665000	0:12:52.086000
@@ -3363,10 +3363,10 @@ ich	ich	PRON	-	0:12:52.086000	0:12:52.606000
 habe	habe	AUX	-	0:12:52.086000	0:12:52.606000
 zwar	zwar	ADV	-	0:12:52.086000	0:12:52.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:52.086000" end="0:12:52.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:52.086000" end="0:12:52.606000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:12:52.086000	0:12:52.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:52.606000" end="0:12:56.533000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:52.606000" end="0:12:56.533000" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:12:52.606000	0:12:53.506000
 keine	kein	DET	-	0:12:52.606000	0:12:53.506000
 Zeit	Zeit	NOUN	-	0:12:52.606000	0:12:53.506000
@@ -3384,15 +3384,15 @@ dass	dass	SCONJ	-	0:12:54.665000	0:12:56.533000
 das	der	PRON	-	0:12:54.665000	0:12:56.533000
 /.	-	-	-	0:12:54.665000	0:12:56.533000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:54.665000" end="0:12:58.020000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:54.665000" end="0:12:58.020000" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:54.665000	0:12:56.533000
 Urlaubsziele	-	-	-	0:12:56.533000	0:12:58.020000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:58.020000" end="0:12:58.653000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:58.020000" end="0:12:58.653000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:12:58.020000	0:12:58.653000
 /.	-	-	-	0:12:58.020000	0:12:58.653000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:58.653000" end="0:13:02.093000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:12:58.653000" end="0:13:02.093000" age_lower="18" age_upper="35">
 *glaubst*	-	-	-	0:12:58.653000	0:13:00.580000
 ,	-	-	-	0:12:58.653000	0:13:00.580000
 ist	sein	AUX	-	0:12:58.653000	0:13:00.580000
@@ -3413,24 +3413,24 @@ schön	schön	ADJ	-	0:13:01.306000	0:13:02.093000
 war	sein	AUX	-	0:13:01.306000	0:13:02.093000
 ?	-	-	-	0:13:01.306000	0:13:02.093000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:02.093000" end="0:13:02.993000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:02.093000" end="0:13:02.993000" age_lower="18" age_upper="35">
 "rede	rede	NOUN	-	0:13:02.093000	0:13:02.993000
 über"	über	ADP	-	0:13:02.093000	0:13:02.993000
 .	-	-	-	0:13:02.093000	0:13:02.993000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:02.993000" end="0:13:03.846000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:02.993000" end="0:13:03.846000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:13:02.993000	0:13:03.846000
 rede	rede	VERB	-	0:13:02.993000	0:13:03.846000
 ich	ich	PRON	-	0:13:02.993000	0:13:03.846000
 über	über	ADP	-	0:13:02.993000	0:13:03.846000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:03.846000" end="0:13:04.680000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:03.846000" end="0:13:04.680000" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:13:03.846000	0:13:04.680000
 dir	-	-	-	0:13:03.846000	0:13:04.680000
 aussuchen	-	-	-	0:13:03.846000	0:13:04.680000
 .	-	-	-	0:13:03.846000	0:13:04.680000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:03.846000" end="0:13:25.833000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:03.846000" end="0:13:25.833000" age_lower="18" age_upper="35">
 Urlaubsziele	Urlaubsziele	NOUN	-	0:13:03.846000	0:13:04.680000
 .	-	-	-	0:13:03.846000	0:13:04.680000
 ja	ja	PART	-	0:13:04.680000	0:13:07.526000
@@ -3518,10 +3518,10 @@ so	-	-	-	0:13:23.733000	0:13:25.833000
 gemütlich	-	-	-	0:13:23.733000	0:13:25.833000
 und	-	-	-	0:13:23.733000	0:13:25.833000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:25.833000" end="0:13:26.206000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:25.833000" end="0:13:26.206000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:13:25.833000	0:13:26.206000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:26.206000" end="0:13:41.966000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:26.206000" end="0:13:41.966000" age_lower="18" age_upper="35">
 es	-	-	-	0:13:26.206000	0:13:27.193000
 hat	-	-	-	0:13:26.206000	0:13:27.193000
 alles	-	-	-	0:13:26.206000	0:13:27.193000
@@ -3580,12 +3580,12 @@ fünfzig	fünfzig	NUM	-	0:13:36.400000	0:13:41.966000
 Grad	Grad	NOUN	-	0:13:36.400000	0:13:41.966000
 jeden	jed	DET	-	0:13:36.400000	0:13:41.966000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:41.966000" end="0:13:42.986000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:41.966000" end="0:13:42.986000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:13:41.966000	0:13:42.986000
 ja	ja	ADV	-	0:13:41.966000	0:13:42.986000
 .	-	-	-	0:13:41.966000	0:13:42.986000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:41.966000" end="0:13:55.533000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:41.966000" end="0:13:55.533000" age_lower="18" age_upper="35">
 Tag	Tag	NOUN	-	0:13:41.966000	0:13:42.986000
 in	in	ADP	-	0:13:41.966000	0:13:42.986000
 der	der	DET	-	0:13:41.966000	0:13:42.986000
@@ -3643,14 +3643,14 @@ ich	ich	PRON	-	0:13:55.133000	0:13:55.533000
 sage	sage	VERB	-	0:13:55.133000	0:13:55.533000
 ,	-	-	-	0:13:55.133000	0:13:55.533000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:55.533000" end="0:13:56.693000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:55.533000" end="0:13:56.693000" age_lower="18" age_upper="35">
 *wost*	-	-	-	0:13:55.533000	0:13:56.693000
 unbedingt	-	-	-	0:13:55.533000	0:13:56.693000
 hin	-	-	-	0:13:55.533000	0:13:56.693000
 musst	-	-	-	0:13:55.533000	0:13:56.693000
 .	-	-	-	0:13:55.533000	0:13:56.693000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:55.533000" end="0:13:57.126000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:55.533000" end="0:13:57.126000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:13:55.533000	0:13:56.693000
 muss	muss	VERB	-	0:13:55.533000	0:13:56.693000
 ich	ich	PRON	-	0:13:55.533000	0:13:56.693000
@@ -3659,16 +3659,16 @@ ja	ja	ADV	-	0:13:55.533000	0:13:56.693000
 genau	genau	ADJ	-	0:13:56.693000	0:13:57.126000
 .	-	-	-	0:13:56.693000	0:13:57.126000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:57.126000" end="0:13:57.653000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:57.126000" end="0:13:57.653000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:13:57.126000	0:13:57.653000
 ,	-	-	-	0:13:57.126000	0:13:57.653000
 das	der	PRON	-	0:13:57.126000	0:13:57.653000
 ist	sein	AUX	-	0:13:57.126000	0:13:57.653000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:57.126000" end="0:13:57.653000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:57.126000" end="0:13:57.653000" age_lower="18" age_upper="35">
 (immer)	immer	ADV	-	0:13:57.126000	0:13:57.653000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:57.653000" end="0:14:02.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:13:57.653000" end="0:14:02.906000" age_lower="18" age_upper="35">
 bei	bei	ADP	-	0:13:57.653000	0:13:58.893000
 mir	sich	PRON	-	0:13:57.653000	0:13:58.893000
 wieder	wieder	ADV	-	0:13:57.653000	0:13:58.893000
@@ -3692,11 +3692,11 @@ weiß	weiß	VERB	-	0:14:01.460000	0:14:02.613000
 ,	-	-	-	0:14:01.460000	0:14:02.613000
 wo	wo	ADV	-	0:14:02.613000	0:14:02.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:02.613000" end="0:14:02.906000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:02.613000" end="0:14:02.906000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:14:02.613000	0:14:02.906000
 ?	-	-	-	0:14:02.613000	0:14:02.906000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:02.906000" end="0:14:04.766000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:02.906000" end="0:14:04.766000" age_lower="18" age_upper="35">
 anfangen	anfangen	VERB	-	0:14:02.906000	0:14:03.873000
 und	und	CCONJ	-	0:14:02.906000	0:14:03.873000
 wo	wo	ADV	-	0:14:02.906000	0:14:03.873000
@@ -3708,13 +3708,13 @@ also	also	ADV	-	0:14:03.873000	0:14:04.766000
 ich	ich	PRON	-	0:14:03.873000	0:14:04.766000
 möchte	mögen	VERB	-	0:14:03.873000	0:14:04.766000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:03.873000" end="0:14:04.766000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:03.873000" end="0:14:04.766000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:14:03.873000	0:14:04.766000
 ?	-	-	-	0:14:03.873000	0:14:04.766000
 wow	wow	PROPN	-	0:14:03.873000	0:14:04.766000
 .	-	-	-	0:14:03.873000	0:14:04.766000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:04.766000" end="0:14:18.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:04.766000" end="0:14:18.606000" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:14:04.766000	0:14:09.260000
 großteils	großteils	ADV	-	0:14:04.766000	0:14:09.260000
 einmal	einmal	ADV	-	0:14:04.766000	0:14:09.260000
@@ -3759,11 +3759,11 @@ zum	zum	ADP	-	0:14:16.953000	0:14:18.606000
 Berggehen	Berggehen	NOUN	-	0:14:16.953000	0:14:18.606000
 .	-	-	-	0:14:16.953000	0:14:18.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:18.606000" end="0:14:19.240000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:18.606000" end="0:14:19.240000" age_lower="18" age_upper="35">
 boah	boah	NOUN	-	0:14:18.606000	0:14:19.240000
 .	-	-	-	0:14:18.606000	0:14:19.240000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:19.240000" end="0:14:25.833000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:19.240000" end="0:14:25.833000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 und	und	CCONJ	-	0:14:19.240000	0:14:23.280000
 ja	ja	ADV	-	0:14:19.240000	0:14:23.280000
@@ -3784,7 +3784,7 @@ ausgehen	-	-	-	0:14:23.280000	0:14:25.833000
 aber	aber	CCONJ	-	0:14:23.280000	0:14:25.833000
 /.	-	-	-	0:14:23.280000	0:14:25.833000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:25.833000" end="0:14:27.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:25.833000" end="0:14:27.246000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:14:25.833000	0:14:27.246000
 ,	-	-	-	0:14:25.833000	0:14:27.246000
 hast	haben	AUX	-	0:14:25.833000	0:14:27.246000
@@ -3794,7 +3794,7 @@ das	der	DET	-	0:14:25.833000	0:14:27.246000
 Reisefieber	Reisefieber	NOUN	-	0:14:25.833000	0:14:27.246000
 ?	-	-	-	0:14:25.833000	0:14:27.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:27.246000" end="0:14:29.260000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:27.246000" end="0:14:29.260000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:14:27.246000	0:14:28.666000
 wohl	wohl	ADV	-	0:14:27.246000	0:14:28.666000
 ,	-	-	-	0:14:27.246000	0:14:28.666000
@@ -3802,23 +3802,23 @@ also	also	ADV	-	0:14:27.246000	0:14:28.666000
 so	so	ADV	-	0:14:28.666000	0:14:29.260000
 alle	all	DET	-	0:14:28.666000	0:14:29.260000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:28.666000" end="0:14:29.260000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:28.666000" end="0:14:29.260000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:28.666000	0:14:29.260000
 ?	-	-	-	0:14:28.666000	0:14:29.260000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:29.260000" end="0:14:30.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:29.260000" end="0:14:30.606000" age_lower="18" age_upper="35">
 paar	paar	DET	-	0:14:29.260000	0:14:30.606000
 Jahre	Jahr	NOUN	-	0:14:29.260000	0:14:30.606000
 eine	einen	DET	-	0:14:29.260000	0:14:30.606000
 größere	groß	ADJ	-	0:14:29.260000	0:14:30.606000
 Reise	Reise	NOUN	-	0:14:29.260000	0:14:30.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:30.606000" end="0:14:31.500000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:30.606000" end="0:14:31.500000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 boah	boah	NOUN	-	0:14:30.606000	0:14:31.500000
 .	-	-	-	0:14:30.606000	0:14:31.500000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:31.500000" end="0:14:32.665000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:31.500000" end="0:14:32.665000" age_lower="18" age_upper="35">
 möchte	mögen	VERB	-	0:14:31.500000	0:14:32.665000
 ich	ich	PRON	-	0:14:31.500000	0:14:32.665000
 machen	machen	VERB	-	0:14:31.500000	0:14:32.665000
@@ -3827,7 +3827,7 @@ meinem	mein	DET	-	0:14:31.500000	0:14:32.665000
 Leben	Leben	NOUN	-	0:14:31.500000	0:14:32.665000
 .	-	-	-	0:14:31.500000	0:14:32.665000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:32.665000" end="0:14:36.740000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:32.665000" end="0:14:36.740000" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 mhm	mhm	PROPN	-	0:14:32.665000	0:14:36.740000
 vielleicht	vielleicht	ADV	-	0:14:32.665000	0:14:36.740000
@@ -3839,12 +3839,12 @@ bei	bei	ADP	-	0:14:32.665000	0:14:36.740000
 mir	sich	PRON	-	0:14:32.665000	0:14:36.740000
 .	-	-	-	0:14:32.665000	0:14:36.740000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:36.740000" end="0:14:37.253000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:36.740000" end="0:14:37.253000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:14:36.740000	0:14:37.253000
 voll	voll	ADJ	-	0:14:36.740000	0:14:37.253000
 .	-	-	-	0:14:36.740000	0:14:37.253000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:37.253000" end="0:14:38.720000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:37.253000" end="0:14:38.720000" age_lower="18" age_upper="35">
 kann	können	VERB	-	0:14:37.253000	0:14:38.720000
 man	man	PRON	-	0:14:37.253000	0:14:38.720000
 sowas	sowas	ADJ	-	0:14:37.253000	0:14:38.720000
@@ -3854,16 +3854,16 @@ hat	haben	AUX	-	0:14:37.253000	0:14:38.720000
 man	man	PRON	-	0:14:37.253000	0:14:38.720000
 das	der	DET	-	0:14:37.253000	0:14:38.720000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:38.720000" end="0:14:39.165000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:38.720000" end="0:14:39.165000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:38.720000	0:14:39.165000
 ,	-	-	-	0:14:38.720000	0:14:39.165000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:38.720000" end="0:14:39.165000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:38.720000" end="0:14:39.165000" age_lower="18" age_upper="35">
 im	im	ADP	-	0:14:38.720000	0:14:39.165000
 Blut	Blut	NOUN	-	0:14:38.720000	0:14:39.165000
 ?	-	-	-	0:14:38.720000	0:14:39.165000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:39.165000" end="0:14:46.573000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:39.165000" end="0:14:46.573000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:14:39.165000	0:14:40.406000
 .	-	-	-	0:14:39.165000	0:14:40.406000
 nein	nein	PART	-	0:14:39.165000	0:14:40.406000
@@ -3885,10 +3885,10 @@ nach	nach	ADP	-	0:14:40.406000	0:14:46.573000
 Marokko	Marokko	PROPN	-	0:14:40.406000	0:14:46.573000
 .	-	-	-	0:14:40.406000	0:14:46.573000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:46.573000" end="0:14:47.113000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:46.573000" end="0:14:47.113000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:14:46.573000	0:14:47.113000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:47.113000" end="0:14:50.273000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:47.113000" end="0:14:50.273000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:14:47.113000	0:14:50
 da	da	ADV	-	0:14:47.113000	0:14:50
 hat	haben	AUX	-	0:14:47.113000	0:14:50
@@ -3907,10 +3907,10 @@ gehabt	haben	AUX	-	0:14:47.113000	0:14:50
 .	-	-	-	0:14:47.113000	0:14:50
 also	also	ADV	-	0:14:50	0:14:50.273000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:50" end="0:14:50.273000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:50" end="0:14:50.273000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:14:50	0:14:50.273000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:50.273000" end="0:15:05.480000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:14:50.273000" end="0:15:05.480000" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:14:50.273000	0:14:53.040000
 sind	sein	AUX	-	0:14:50.273000	0:14:53.040000
 da	da	ADV	-	0:14:50.273000	0:14:53.040000
@@ -3961,12 +3961,12 @@ schnell	schnellen	ADJ	-	0:15:01.500000	0:15:05.480000
 islamisch	islamisch	ADJ	-	0:15:01.500000	0:15:05.480000
 .	-	-	-	0:15:01.500000	0:15:05.480000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:05.480000" end="0:15:06.433000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:05.480000" end="0:15:06.433000" age_lower="18" age_upper="35">
 ah	ah	PROPN	-	0:15:05.480000	0:15:06.433000
 ja	ja	ADV	-	0:15:05.480000	0:15:06.433000
 .	-	-	-	0:15:05.480000	0:15:06.433000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:06.433000" end="0:15:14.366000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:06.433000" end="0:15:14.366000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 das	der	PRON	-	0:15:06.433000	0:15:09.506000
 also	also	ADV	-	0:15:06.433000	0:15:09.506000
@@ -4001,10 +4001,10 @@ da	da	ADV	-	0:15:13.126000	0:15:14.366000
 weg	weg	ADP	-	0:15:13.126000	0:15:14.366000
 ."	-	-	-	0:15:13.126000	0:15:14.366000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:14.366000" end="0:15:15.120000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:14.366000" end="0:15:15.120000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:15:14.366000	0:15:15.120000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:15.120000" end="0:15:25.933000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:15.120000" end="0:15:25.933000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:15:15.120000	0:15:18.340000
 eben	eben	ADV	-	0:15:15.120000	0:15:18.340000
 dann	dann	ADV	-	0:15:15.120000	0:15:18.340000
@@ -4043,11 +4043,11 @@ fasziniert	faszinieren	VERB	-	0:15:23.900000	0:15:25.033000
 und	und	CCONJ	-	0:15:25.033000	0:15:25.933000
 seitdem	seitdem	ADV	-	0:15:25.033000	0:15:25.933000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:25.033000" end="0:15:25.933000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:25.033000" end="0:15:25.933000" age_lower="18" age_upper="35">
 okay	okay	PROPN	-	0:15:25.033000	0:15:25.933000
 .	-	-	-	0:15:25.033000	0:15:25.933000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:25.933000" end="0:15:30.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:25.933000" end="0:15:30.473000" age_lower="18" age_upper="35">
 eigentlich	eigentlich	ADV	-	0:15:25.933000	0:15:28.006000
 ,	-	-	-	0:15:25.933000	0:15:28.006000
 wenn	wenn	SCONJ	-	0:15:25.933000	0:15:28.006000
@@ -4071,15 +4071,15 @@ ersten	erst	ADJ	-	0:15:29.233000	0:15:30.473000
 mal	mal	NOUN	-	0:15:29.233000	0:15:30.473000
 .	-	-	-	0:15:29.233000	0:15:30.473000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:30.473000" end="0:15:32.780000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:30.473000" end="0:15:32.780000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:15:30.473000	0:15:32.780000
 ja	ja	ADV	-	0:15:30.473000	0:15:32.780000
 eh	eh	ADV	-	0:15:30.473000	0:15:32.780000
 vielleicht	vielleicht	ADV	-	0:15:30.473000	0:15:32.780000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:32.780000" end="0:15:33.240000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:32.780000" end="0:15:33.240000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:33.240000" end="0:15:50.133000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:33.240000" end="0:15:50.133000" age_lower="18" age_upper="35">
 muss	muss	VERB	-	0:15:33.240000	0:15:35.093000
 man	man	PRON	-	0:15:33.240000	0:15:35.093000
 echt	echt	ADJ	-	0:15:33.240000	0:15:35.093000
@@ -4153,10 +4153,10 @@ oder	-	-	-	0:15:48.486000	0:15:50.133000
 was	-	-	-	0:15:48.486000	0:15:50.133000
 ,	-	-	-	0:15:48.486000	0:15:50.133000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:50.133000" end="0:15:50.320000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:50.133000" end="0:15:50.320000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:15:50.133000	0:15:50.320000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:50.133000" end="0:16:00.033000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:15:50.133000" end="0:16:00.033000" age_lower="18" age_upper="35">
 gell	gell	ADJ	-	0:15:50.133000	0:15:50.320000
 ?	-	-	-	0:15:50.133000	0:15:50.320000
 aber	aber	CCONJ	-	0:15:50.320000	0:15:52.066000
@@ -4211,11 +4211,11 @@ ja	ja	ADV	-	0:15:58.193000	0:16:00.033000
 alles	alle	PRON	-	0:15:58.193000	0:16:00.033000
 harmlos	harmlos	ADJ	-	0:15:58.193000	0:16:00.033000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:00.033000" end="0:16:00.480000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:00.033000" end="0:16:00.480000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:16:00.033000	0:16:00.480000
 .	-	-	-	0:16:00.033000	0:16:00.480000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:00.033000" end="0:16:05.553000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:00.033000" end="0:16:05.553000" age_lower="18" age_upper="35">
 gegen	gegen	ADP	-	0:16:00.033000	0:16:00.480000
 die	der	DET	-	0:16:00.033000	0:16:00.480000
 Städte	Stadt	NOUN	-	0:16:00.480000	0:16:01.486000
@@ -4241,11 +4241,11 @@ da	da	ADV	-	0:16:03.253000	0:16:05.553000
 fühle	fühlen	VERB	-	0:16:03.253000	0:16:05.553000
 ,	-	-	-	0:16:03.253000	0:16:05.553000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:05.553000" end="0:16:05.946000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:05.553000" end="0:16:05.946000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:05.553000	0:16:05.946000
 .	-	-	-	0:16:05.553000	0:16:05.946000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:05.553000" end="0:16:10.433000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:05.553000" end="0:16:10.433000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:16:05.553000	0:16:05.946000
 ich	ich	PRON	-	0:16:05.553000	0:16:05.946000
 das	der	PRON	-	0:16:05.553000	0:16:05.946000
@@ -4273,7 +4273,7 @@ zum	-	-	-	0:16:07.933000	0:16:10.433000
 (ausprobieren)	-	-	-	0:16:07.933000	0:16:10.433000
 .	-	-	-	0:16:07.933000	0:16:10.433000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:10.433000" end="0:16:14.413000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:10.433000" end="0:16:14.413000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:16:10.433000	0:16:12.800000
 ich	ich	PRON	-	0:16:10.433000	0:16:12.800000
 meine	meinen	DET	-	0:16:10.433000	0:16:12.800000
@@ -4296,16 +4296,16 @@ gerne	gerne	ADV	-	0:16:12.800000	0:16:14.413000
 heim	heim	ADP	-	0:16:12.800000	0:16:14.413000
 .	-	-	-	0:16:12.800000	0:16:14.413000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:14.413000" end="0:16:15.040000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:14.413000" end="0:16:15.040000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:16:14.413000	0:16:15.040000
 ja	ja	PART	-	0:16:14.413000	0:16:15.040000
 .	-	-	-	0:16:14.413000	0:16:15.040000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:15.040000" end="0:16:16.840000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:15.040000" end="0:16:16.840000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 also	also	ADV	-	0:16:15.040000	0:16:16.313000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:16.313000" end="0:16:19.393000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:16.313000" end="0:16:19.393000" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:16:16.313000	0:16:16.840000
 lange	lang	ADV	-	0:16:16.313000	0:16:16.840000
 dauert	dauern	VERB	-	0:16:16.313000	0:16:16.840000
@@ -4323,16 +4323,16 @@ hast	-	-	-	0:16:18.213000	0:16:19.060000
 wie	-	-	-	0:16:19.060000	0:16:19.393000
 lange	-	-	-	0:16:19.060000	0:16:19.393000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:19.393000" end="0:16:19.873000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:19.393000" end="0:16:19.873000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:16:19.393000	0:16:19.873000
 halt	halt	ADV	-	0:16:19.393000	0:16:19.873000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:19.393000" end="0:16:19.873000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:19.393000" end="0:16:19.873000" age_lower="18" age_upper="35">
 *warst*	-	-	-	0:16:19.393000	0:16:19.873000
 da	-	-	-	0:16:19.393000	0:16:19.873000
 ?	-	-	-	0:16:19.393000	0:16:19.873000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:19.873000" end="0:16:25.080000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:19.873000" end="0:16:25.080000" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:16:19.873000	0:16:21.120000
 total	total	ADJ	-	0:16:19.873000	0:16:21.120000
 unterschiedlich	unterschiedlich	ADJ	-	0:16:19.873000	0:16:21.120000
@@ -4357,11 +4357,11 @@ Tage	Tag	NOUN	-	0:16:22.560000	0:16:25.080000
 unterwegs	unterwegs	ADV	-	0:16:22.560000	0:16:25.080000
 .	-	-	-	0:16:22.560000	0:16:25.080000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:25.080000" end="0:16:25.980000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:25.080000" end="0:16:25.980000" age_lower="18" age_upper="35">
 boah	boah	NOUN	-	0:16:25.080000	0:16:25.980000
 .	-	-	-	0:16:25.080000	0:16:25.980000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:25.980000" end="0:16:35.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:25.980000" end="0:16:35.513000" age_lower="18" age_upper="35">
 eben	eben	ADV	-	0:16:25.980000	0:16:30.606000
 davon	davon	ADV	-	0:16:25.980000	0:16:30.606000
 achtzehn	achtzehn	NUM	-	0:16:25.980000	0:16:30.606000
@@ -4391,7 +4391,7 @@ Tage	Tag	NOUN	-	0:16:30.606000	0:16:35.513000
 Sightseeing	Sightseeing	PROPN	-	0:16:30.606000	0:16:35.513000
 .	-	-	-	0:16:30.606000	0:16:35.513000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:35.513000" end="0:16:36.720000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:35.513000" end="0:16:36.720000" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:16:35.513000	0:16:36.720000
 es	ich	PRON	-	0:16:35.513000	0:16:36.720000
 da	da	ADV	-	0:16:35.513000	0:16:36.720000
@@ -4400,18 +4400,18 @@ Gruppe	Gruppe	NOUN	-	0:16:35.513000	0:16:36.720000
 oder	oder	CCONJ	-	0:16:35.513000	0:16:36.720000
 wie	wie	ADV	-	0:16:35.513000	0:16:36.720000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:36.720000" end="0:16:37.593000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:36.720000" end="0:16:37.593000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:16:36.720000	0:16:37.593000
 eben	eben	ADV	-	0:16:36.720000	0:16:37.593000
 .	-	-	-	0:16:36.720000	0:16:37.593000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:36.720000" end="0:16:37.593000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:36.720000" end="0:16:37.593000" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:16:36.720000	0:16:37.593000
 (ist	sein	AUX	-	0:16:36.720000	0:16:37.593000
 das)	der	PRON	-	0:16:36.720000	0:16:37.593000
 ?	-	-	-	0:16:36.720000	0:16:37.593000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:37.593000" end="0:16:39.806000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:37.593000" end="0:16:39.806000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:16:37.593000	0:16:39.806000
 einer	einer	DET	-	0:16:37.593000	0:16:39.806000
 Bergführerin	Bergführerin	NOUN	-	0:16:37.593000	0:16:39.806000
@@ -4419,10 +4419,10 @@ aus	aus	ADP	-	0:16:37.593000	0:16:39.806000
 ([Hohental]O)	-	-	-	0:16:37.593000	0:16:39.806000
 .	-	-	-	0:16:37.593000	0:16:39.806000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:39.806000" end="0:16:40.120000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:39.806000" end="0:16:40.120000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:39.806000	0:16:40.120000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:40.120000" end="0:16:51.460000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:40.120000" end="0:16:51.460000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 die	der	PRON	-	0:16:40.120000	0:16:43.266000
 <pause duration="0,6s"/>
@@ -4454,10 +4454,10 @@ die	-	-	-	0:16:47.713000	0:16:51.460000
 NAME	NAME	-	-	0:16:47.713000	0:16:51.460000
 .	-	-	-	0:16:47.713000	0:16:51.460000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:51.460000" end="0:16:51.940000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:51.460000" end="0:16:51.940000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:51.460000	0:16:51.940000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:51.940000" end="0:16:55.506000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:51.940000" end="0:16:55.506000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:16:51.940000	0:16:55.506000
 dann	dann	ADV	-	0:16:51.940000	0:16:55.506000
 hat	haben	AUX	-	0:16:51.940000	0:16:55.506000
@@ -4473,16 +4473,16 @@ her	her	ADP	-	0:16:51.940000	0:16:55.506000
 also	also	ADV	-	0:16:51.940000	0:16:55.506000
 .	-	-	-	0:16:51.940000	0:16:55.506000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:55.506000" end="0:16:56.400000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:55.506000" end="0:16:56.400000" age_lower="18" age_upper="35">
 boah	boah	PROPN	-	0:16:55.506000	0:16:56.400000
 geil	geil	NOUN	-	0:16:55.506000	0:16:56.400000
 .	-	-	-	0:16:55.506000	0:16:56.400000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:56.400000" end="0:16:56.993000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:56.400000" end="0:16:56.993000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:56.400000	0:16:56.993000
 .	-	-	-	0:16:56.400000	0:16:56.993000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:56.993000" end="0:16:59.946000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:56.993000" end="0:16:59.946000" age_lower="18" age_upper="35">
 toll	tollen	ADJ	-	0:16:56.993000	0:16:58.520000
 .	-	-	-	0:16:56.993000	0:16:58.520000
 hm	hm	X	-	0:16:56.993000	0:16:58.520000
@@ -4491,10 +4491,10 @@ cooles	cool	ADJ	-	0:16:58.520000	0:16:59.946000
 Erlebnis	Erlebnis	NOUN	-	0:16:58.520000	0:16:59.946000
 .	-	-	-	0:16:58.520000	0:16:59.946000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:59.946000" end="0:17:00.506000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:16:59.946000" end="0:17:00.506000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:16:59.946000	0:17:00.506000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:00.506000" end="0:17:08.617000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:00.506000" end="0:17:08.617000" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 passt	passt	PROPN	-	0:17:00.506000	0:17:03.833000
 ,	-	-	-	0:17:00.506000	0:17:03.833000
@@ -4516,9 +4516,9 @@ von	-	-	-	0:17:05.086000	0:17:08.617000
 besonderen	-	-	-	0:17:05.086000	0:17:08.617000
 Schulerlebnis	-	-	-	0:17:05.086000	0:17:08.617000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:08.617000" end="0:17:09.106000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:08.617000" end="0:17:09.106000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:09.106000" end="0:17:11.964000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:09.106000" end="0:17:11.964000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 was	-	-	-	0:17:09.106000	0:17:11.964000
 *bist*	-	-	-	0:17:09.106000	0:17:11.964000
@@ -4530,16 +4530,16 @@ gegangen	-	-	-	0:17:09.106000	0:17:11.964000
 überhaupt	-	-	-	0:17:09.106000	0:17:11.964000
 ?	-	-	-	0:17:09.106000	0:17:11.964000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:11.964000" end="0:17:17.252000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:11.964000" end="0:17:17.252000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 Volksschule	Volksschule	PROPN	-	0:17:11.964000	0:17:14.540000
 ,	-	-	-	0:17:11.964000	0:17:14.540000
 Hauptschule	Hauptschule	PROPN	-	0:17:11.964000	0:17:14.540000
 ORT	ORT	PROPN	-	0:17:11.964000	0:17:14.540000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:14.540000" end="0:17:17.252000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:14.540000" end="0:17:17.252000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:17.252000" end="0:17:21.160000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:17.252000" end="0:17:21.160000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:17:17.252000	0:17:21.160000
 dann	dann	ADV	-	0:17:17.252000	0:17:21.160000
 in	in	ADP	-	0:17:17.252000	0:17:21.160000
@@ -4551,7 +4551,7 @@ in	in	ADP	-	0:17:17.252000	0:17:21.160000
 ORT	ORT	PROPN	-	0:17:17.252000	0:17:21.160000
 .	-	-	-	0:17:17.252000	0:17:21.160000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:21.160000" end="0:17:23.160000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:21.160000" end="0:17:23.160000" age_lower="18" age_upper="35">
 (okay)	okay	ADJ	-	0:17:21.160000	0:17:23.160000
 Garten	Garten	NOUN	-	0:17:21.160000	0:17:23.160000
 /.	-	-	-	0:17:21.160000	0:17:23.160000
@@ -4563,7 +4563,7 @@ auch	auch	ADV	-	0:17:21.160000	0:17:23.160000
 noch	noch	ADV	-	0:17:21.160000	0:17:23.160000
 ?	-	-	-	0:17:21.160000	0:17:23.160000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:23.160000" end="0:17:30.326000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:23.160000" end="0:17:30.326000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:23.160000	0:17:24.260000
 ,	-	-	-	0:17:23.160000	0:17:24.260000
 die	der	PRON	-	0:17:23.160000	0:17:24.260000
@@ -4588,10 +4588,10 @@ neunte	neunte	ADJ	-	0:17:26.260000	0:17:30.326000
 Schuljahr	Schuljahr	NOUN	-	0:17:26.260000	0:17:30.326000
 .	-	-	-	0:17:26.260000	0:17:30.326000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:30.326000" end="0:17:30.700000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:30.326000" end="0:17:30.700000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:17:30.326000	0:17:30.700000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:30.700000" end="0:17:34.266000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:30.700000" end="0:17:34.266000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:17:30.700000	0:17:31.600000
 bist	sein	AUX	-	0:17:30.700000	0:17:31.600000
 dann	dann	ADV	-	0:17:30.700000	0:17:31.600000
@@ -4609,7 +4609,7 @@ den	der	DET	-	0:17:32.920000	0:17:34.266000
 Facharbeiter	Facharbeiter	NOUN	-	0:17:32.920000	0:17:34.266000
 .	-	-	-	0:17:32.920000	0:17:34.266000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:34.266000" end="0:17:36.973000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:34.266000" end="0:17:36.973000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:17:34.266000	0:17:36.973000
 ?	-	-	-	0:17:34.266000	0:17:36.973000
 also	-	-	-	0:17:34.266000	0:17:36.973000
@@ -4619,17 +4619,17 @@ schon	-	-	-	0:17:34.266000	0:17:36.973000
 gelernt	-	-	-	0:17:34.266000	0:17:36.973000
 ?	-	-	-	0:17:34.266000	0:17:36.973000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:36.973000" end="0:17:38.646000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:36.973000" end="0:17:38.646000" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:17:36.973000	0:17:38.646000
 ,	-	-	-	0:17:36.973000	0:17:38.646000
 ja	ja	PART	-	0:17:36.973000	0:17:38.646000
 .	-	-	-	0:17:36.973000	0:17:38.646000
 also	also	ADV	-	0:17:36.973000	0:17:38.646000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:38.646000" end="0:17:38.993000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:38.646000" end="0:17:38.993000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:38.646000	0:17:38.993000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:38.993000" end="0:17:42.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:38.993000" end="0:17:42.513000" age_lower="18" age_upper="35">
 du	du	PRON	-	0:17:38.993000	0:17:42.513000
 hast	haben	AUX	-	0:17:38.993000	0:17:42.513000
 in	in	ADP	-	0:17:38.993000	0:17:42.513000
@@ -4640,10 +4640,10 @@ ein	einen	DET	-	0:17:38.993000	0:17:42.513000
 vierzehnmonatiges	vierzehnmonatiges	ADJ	-	0:17:38.993000	0:17:42.513000
 Pflichtpraktikum	Pflichtpraktikum	NOUN	-	0:17:38.993000	0:17:42.513000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:42.513000" end="0:17:42.973000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:42.513000" end="0:17:42.973000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:42.513000	0:17:42.973000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:42.973000" end="0:17:47.786000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:42.973000" end="0:17:47.786000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 und	und	CCONJ	-	0:17:42.973000	0:17:47.786000
 <pause duration="1,1s"/>
@@ -4656,10 +4656,10 @@ dritter	dritt	ADJ	-	0:17:42.973000	0:17:47.786000
 Klasse	Klasse	NOUN	-	0:17:42.973000	0:17:47.786000
 .	-	-	-	0:17:42.973000	0:17:47.786000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:47.786000" end="0:17:48.186000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:47.786000" end="0:17:48.186000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:47.786000	0:17:48.186000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:48.186000" end="0:17:51.860000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:48.186000" end="0:17:51.860000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 und	und	CCONJ	-	0:17:48.186000	0:17:51.860000
 ma/	-	-	-	0:17:48.186000	0:17:51.860000
@@ -4672,16 +4672,16 @@ fertig	fertigen	ADJ	-	0:17:48.186000	0:17:51.860000
 dann	dann	ADV	-	0:17:48.186000	0:17:51.860000
 .	-	-	-	0:17:48.186000	0:17:51.860000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:51.860000" end="0:17:53.673000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:51.860000" end="0:17:53.673000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 und	-	-	-	0:17:51.860000	0:17:53.673000
 ist	-	-	-	0:17:51.860000	0:17:53.673000
 das	-	-	-	0:17:51.860000	0:17:53.673000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:53.673000" end="0:17:53.886000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:53.673000" end="0:17:53.886000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:53.673000	0:17:53.886000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:53.886000" end="0:17:58.013000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:53.886000" end="0:17:58.013000" age_lower="18" age_upper="35">
 ist	-	-	-	0:17:53.886000	0:17:55.713000
 das	-	-	-	0:17:53.886000	0:17:55.713000
 findest	-	-	-	0:17:53.886000	0:17:55.713000
@@ -4700,7 +4700,7 @@ machst	-	-	-	0:17:55.706000	0:17:57.306000
 oder	oder	CCONJ	-	0:17:57.306000	0:17:58.013000
 /?	-	-	-	0:17:57.306000	0:17:58.013000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:58.013000" end="0:18:06.160000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:17:58.013000" end="0:18:06.160000" age_lower="18" age_upper="35">
 *täte*	-	-	KONJ	0:17:58.013000	0:17:58.313000
 sagen	-	-	KONJ	0:17:58.013000	0:17:58.313000
 ,	-	-	-	0:17:58.013000	0:17:58.313000
@@ -4726,11 +4726,11 @@ im	-	-	-	0:18:03.013000	0:18:06.160000
 Jahr	-	-	-	0:18:03.013000	0:18:06.160000
 .	-	-	-	0:18:03.013000	0:18:06.160000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:06.160000" end="0:18:06.593000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:06.160000" end="0:18:06.593000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:06.160000	0:18:06.593000
 .	-	-	-	0:18:06.160000	0:18:06.593000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:06.593000" end="0:18:09.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:06.593000" end="0:18:09.140000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:18:06.593000	0:18:09.140000
 vom	vom	ADP	-	0:18:06.593000	0:18:09.140000
 Fachlichen	Fachliche	NOUN	-	0:18:06.593000	0:18:09.140000
@@ -4739,10 +4739,10 @@ sicher	sichern	ADJ	-	0:18:06.593000	0:18:09.140000
 vertiefend	vertiefen	ADJ	-	0:18:06.593000	0:18:09.140000
 .	-	-	-	0:18:06.593000	0:18:09.140000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:09.140000" end="0:18:09.506000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:09.140000" end="0:18:09.506000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:18:09.140000	0:18:09.506000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:09.506000" end="0:18:18.466000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:09.506000" end="0:18:18.466000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 du	du	PRON	-	0:18:09.506000	0:18:13.586000
 musst	musst	PROPN	-	0:18:09.506000	0:18:13.586000
@@ -4776,11 +4776,11 @@ gemacht	machen	VERB	-	0:18:17.300000	0:18:18.466000
 hat	haben	AUX	-	0:18:17.300000	0:18:18.466000
 .	-	-	-	0:18:17.300000	0:18:18.466000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:18.473000" end="0:18:18.980000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:18.473000" end="0:18:18.980000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:18:18.473000	0:18:18.980000
 .	-	-	-	0:18:18.473000	0:18:18.980000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:18.980000" end="0:18:25.006000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:18.980000" end="0:18:25.006000" age_lower="18" age_upper="35">
 *wennst*	-	-	-	0:18:18.980000	0:18:20.100000
 jetzt	-	-	-	0:18:18.980000	0:18:20.100000
 fertig	-	-	-	0:18:18.980000	0:18:20.100000
@@ -4801,10 +4801,10 @@ eben	Betrieb	NOUN	?? KONJ	0:18:20.100000	0:18:25.006000
 wollte	wollen	VERB	?? KONJ	0:18:20.100000	0:18:25.006000
 ,	-	-	-	0:18:20.100000	0:18:25.006000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:25.006000" end="0:18:25.546000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:25.006000" end="0:18:25.546000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:18:25.006000	0:18:25.546000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:25.546000" end="0:18:36.546000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:25.546000" end="0:18:36.546000" age_lower="18" age_upper="35">
 schon	schon	ADV	-	0:18:25.546000	0:18:27.740000
 damals	damals	ADV	-	0:18:25.546000	0:18:27.740000
 ,	-	-	-	0:18:25.546000	0:18:27.740000
@@ -4853,13 +4853,13 @@ gemacht	machen	VERB	-	0:18:35.206000	0:18:36.546000
 habe	habe	AUX	-	0:18:35.206000	0:18:36.546000
 .	-	-	-	0:18:35.206000	0:18:36.546000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:36.546000" end="0:18:37.066000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:36.546000" end="0:18:37.066000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:18:36.546000	0:18:37.066000
 oder	oder	CCONJ	-	0:18:36.546000	0:18:37.066000
 was	was	PRON	-	0:18:36.546000	0:18:37.066000
 ?	-	-	-	0:18:36.546000	0:18:37.066000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:37.066000" end="0:18:40.846000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:37.066000" end="0:18:40.846000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:18:37.066000	0:18:40.846000
 o/	-	-	-	0:18:37.066000	0:18:40.846000
 ich	ich	PRON	-	0:18:37.066000	0:18:40.846000
@@ -4878,7 +4878,7 @@ vom	vom	ADP	-	0:18:37.066000	0:18:40.846000
 Masterkurs	Masterkurs	NOUN	-	0:18:37.066000	0:18:40.846000
 .	-	-	-	0:18:37.066000	0:18:40.846000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:40.846000" end="0:18:43.266000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:40.846000" end="0:18:43.266000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	der	PRON	-	0:18:40.846000	0:18:43.266000
 ist	sein	AUX	-	0:18:40.846000	0:18:43.266000
@@ -4890,11 +4890,11 @@ arg	arg	PROPN	-	0:18:40.846000	0:18:43.266000
 oder	oder	CCONJ	-	0:18:40.846000	0:18:43.266000
 ?	-	-	-	0:18:40.846000	0:18:43.266000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:43.266000" end="0:18:43.433000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:43.266000" end="0:18:43.433000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:43.266000	0:18:43.433000
 .	-	-	-	0:18:43.266000	0:18:43.433000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:43.433000" end="0:18:57.840000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:43.433000" end="0:18:57.840000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:18:43.433000	0:18:44.786000
 habe	habe	AUX	-	0:18:43.433000	0:18:44.786000
 aber	aber	ADV	-	0:18:43.433000	0:18:44.786000
@@ -4964,11 +4964,11 @@ oder	-	-	-	0:18:54.360000	0:18:57.840000
 Floristin	-	-	-	0:18:54.360000	0:18:57.840000
 halt	-	-	-	0:18:54.360000	0:18:57.840000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:57.840000" end="0:18:58.146000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:57.840000" end="0:18:58.146000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:57.840000	0:18:58.146000
 .	-	-	-	0:18:57.840000	0:18:58.146000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:58.146000" end="0:19:03.386000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:18:58.146000" end="0:19:03.386000" age_lower="18" age_upper="35">
 in	-	-	-	0:18:58.146000	0:18:58.946000
 das	-	-	-	0:18:58.146000	0:18:58.946000
 _dings_	-	-	-	0:18:58.146000	0:18:58.946000
@@ -4993,14 +4993,14 @@ was	was	PRON	-	0:18:58.946000	0:19:03.386000
 auch	auch	ADV	-	0:18:58.946000	0:19:03.386000
 /.	-	-	-	0:18:58.946000	0:19:03.386000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:03.386000" end="0:19:03.806000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:03.386000" end="0:19:03.806000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:19:03.386000	0:19:03.806000
 glaube	glauben	VERB	-	0:19:03.386000	0:19:03.806000
 ,	-	-	-	0:19:03.386000	0:19:03.806000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:03.386000" end="0:19:03.806000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:03.386000" end="0:19:03.806000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:03.806000" end="0:19:06.086000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:03.806000" end="0:19:06.086000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:19:03.806000	0:19:04.433000
 glaube	glauben	VERB	-	0:19:03.806000	0:19:04.433000
 echt	echt	ADJ	-	0:19:03.806000	0:19:04.433000
@@ -5016,7 +5016,7 @@ Matura	Matura	NOUN	-	0:19:05.200000	0:19:06.086000
 ja	ja	PART	-	0:19:05.200000	0:19:06.086000
 .	-	-	-	0:19:05.200000	0:19:06.086000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:05.200000" end="0:19:07.006000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:05.200000" end="0:19:07.006000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:19:05.200000	0:19:06.086000
 ja	ja	PART	-	0:19:05.200000	0:19:06.086000
 ,	-	-	-	0:19:05.200000	0:19:06.086000
@@ -5028,10 +5028,10 @@ noch	noch	ADV	-	0:19:06.086000	0:19:07.006000
 nicht	nicht	PART	-	0:19:06.086000	0:19:07.006000
 ,	-	-	-	0:19:06.086000	0:19:07.006000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:07.006000" end="0:19:07.313000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:07.006000" end="0:19:07.313000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:07.006000	0:19:07.313000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:07.006000" end="0:19:13.560000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:07.006000" end="0:19:13.560000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:19:07.006000	0:19:07.313000
 sie	ich	PRON	-	0:19:07.006000	0:19:07.313000
 hat	haben	AUX	-	0:19:07.006000	0:19:07.313000
@@ -5073,11 +5073,11 @@ was	was	PRON	-	0:19:11.966000	0:19:13.560000
 mit	mit	ADP	-	0:19:11.966000	0:19:13.560000
 Blumen	Blume	NOUN	-	0:19:11.966000	0:19:13.560000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:13.560000" end="0:19:13.946000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:13.560000" end="0:19:13.946000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:19:13.560000	0:19:13.946000
 .	-	-	-	0:19:13.560000	0:19:13.946000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:13.560000" end="0:19:17.186000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:13.560000" end="0:19:17.186000" age_lower="18" age_upper="35">
 machen	machen	VERB	-	0:19:13.560000	0:19:13.946000
 nicht	nicht	PART	-	0:19:13.946000	0:19:16.393000
 ?	-	-	-	0:19:13.946000	0:19:16.393000
@@ -5099,27 +5099,27 @@ eine	einen	DET	-	0:19:16.393000	0:19:17.186000
 Schule	Schule	NOUN	-	0:19:16.393000	0:19:17.186000
 überhaupt	überhaupt	ADV	-	0:19:16.393000	0:19:17.186000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:17.186000" end="0:19:17.533000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:17.186000" end="0:19:17.533000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:17.186000	0:19:17.533000
 .	-	-	-	0:19:17.186000	0:19:17.533000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:17.186000" end="0:19:19.440000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:17.186000" end="0:19:19.440000" age_lower="18" age_upper="35">
 gibt	geben	VERB	-	0:19:17.186000	0:19:17.533000
 .	-	-	-	0:19:17.186000	0:19:17.533000
 also	also	ADV	-	0:19:17.533000	0:19:19.440000
 <pause duration="1,0s"/>
 mhm	mhm	PROPN	-	0:19:17.533000	0:19:19.440000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:19.440000" end="0:19:20.033000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:19.440000" end="0:19:20.033000" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:19:19.440000	0:19:20.033000
 gäbe	geben	VERB	-	0:19:19.440000	0:19:20.033000
 auch	-	-	-	0:19:19.440000	0:19:20.033000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:19.440000" end="0:19:20.033000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:19.440000" end="0:19:20.033000" age_lower="18" age_upper="35">
 interessant	interessant	ADJ	-	0:19:19.440000	0:19:20.033000
 .	-	-	-	0:19:19.440000	0:19:20.033000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:20.033000" end="0:19:24.260000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:20.033000" end="0:19:24.260000" age_lower="18" age_upper="35">
 in	in	ADP	-	0:19:20.033000	0:19:23.686000
 Schönbrunn	Schönbrunn	PROPN	-	0:19:20.033000	0:19:23.686000
 draußen	draußen	ADV	-	0:19:20.033000	0:19:23.686000
@@ -5129,10 +5129,10 @@ HBLA	HBLA	PROPN	-	0:19:20.033000	0:19:23.686000
 also	also	ADV	-	0:19:23.693000	0:19:24.260000
 mit	mit	ADP	-	0:19:23.693000	0:19:24.260000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:23.693000" end="0:19:24.260000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:23.693000" end="0:19:24.260000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:23.693000	0:19:24.260000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:24.260000" end="0:19:33.753000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:24.260000" end="0:19:33.753000" age_lower="18" age_upper="35">
 Matura	Matura	NOUN	-	0:19:24.260000	0:19:25.680000
 praktisch	praktisch	ADJ	-	0:19:24.260000	0:19:25.680000
 das	der	DET	-	0:19:24.260000	0:19:25.680000
@@ -5175,7 +5175,7 @@ einfach	einfach	ADV	-	0:19:31.753000	0:19:33.753000
 näher	nähern	ADJ	-	0:19:31.753000	0:19:33.753000
 .	-	-	-	0:19:31.753000	0:19:33.753000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:33.753000" end="0:19:39.320000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:33.753000" end="0:19:39.320000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 mhm	mhm	PROPN	-	0:19:33.753000	0:19:39.320000
 <pause duration="1,2s"/>
@@ -5192,7 +5192,7 @@ dich	sich	PRON	-	0:19:33.753000	0:19:39.320000
 spezialisiert	spezialisieren	VERB	-	0:19:33.753000	0:19:39.320000
 oder	oder	CCONJ	-	0:19:33.753000	0:19:39.320000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:39.320000" end="0:19:41.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:39.320000" end="0:19:41.513000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:19:39.320000	0:19:41.513000
 ,	-	-	-	0:19:39.320000	0:19:41.513000
 das	der	PRON	-	0:19:39.320000	0:19:41.513000
@@ -5201,7 +5201,7 @@ auch	auch	ADV	-	0:19:39.320000	0:19:41.513000
 Gartenbau	Gartenbau	NOUN	-	0:19:39.320000	0:19:41.513000
 .	-	-	-	0:19:39.320000	0:19:41.513000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:39.320000" end="0:19:46.106000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:39.320000" end="0:19:46.106000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:19:39.320000	0:19:41.513000
 Garten	Garten	NOUN	-	0:19:39.320000	0:19:41.513000
 Gartenbau	Gartenbau	NOUN	-	0:19:39.320000	0:19:41.513000
@@ -5221,13 +5221,13 @@ so	so	ADV	-	0:19:41.513000	0:19:46.106000
 aus	aus	ADP	-	0:19:41.513000	0:19:46.106000
 .	-	-	-	0:19:41.513000	0:19:46.106000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:46.106000" end="0:19:47.160000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:46.106000" end="0:19:47.160000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:46.106000" end="0:19:51.626000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:46.106000" end="0:19:51.626000" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 ?	-	-	-	0:19:47.160000	0:19:51.626000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:51.626000" end="0:19:55.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:51.626000" end="0:19:55.473000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:19:51.626000	0:19:52.240000
 .	-	-	-	0:19:51.626000	0:19:52.240000
 <pause duration="2,1s"/>
@@ -5239,7 +5239,7 @@ ums	ums	ADP	-	0:19:52.240000	0:19:55.473000
 Fernsehen	Fernsehen	NOUN	-	0:19:52.240000	0:19:55.473000
 .	-	-	-	0:19:52.240000	0:19:55.473000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:55.473000" end="0:19:59.146000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:55.473000" end="0:19:59.146000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:19:55.473000	0:19:59.146000
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:19:55.473000	0:19:59.146000
@@ -5253,12 +5253,12 @@ viel	viel	DET	-	0:19:55.473000	0:19:59.146000
 Fernsehen	Fernsehen	NOUN	-	0:19:55.473000	0:19:59.146000
 .	-	-	-	0:19:55.473000	0:19:59.146000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:59.146000" end="0:20:01.146000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:59.146000" end="0:20:01.146000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:19:59.146000	0:20:01.146000
 ja	ja	PART	-	0:19:59.146000	0:20:01.146000
 .	-	-	-	0:19:59.146000	0:20:01.146000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:59.146000" end="0:20:03" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:19:59.146000" end="0:20:03" age_lower="18" age_upper="35">
 nur	nur	ADV	-	0:19:59.146000	0:20:01.146000
 anscheinend	anscheinen	ADJ	-	0:19:59.146000	0:20:01.146000
 haben	haben	AUX	-	0:19:59.146000	0:20:01.146000
@@ -5273,7 +5273,7 @@ das	der	PRON	-	0:19:59.146000	0:20:01.146000
 <pause duration="1,5s"/>
 ähm	ähm	PROPN	-	0:20:01.146000	0:20:03
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:03" end="0:20:05.686000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:03" end="0:20:05.686000" age_lower="18" age_upper="35">
 dann	dann	ADV	-	0:20:03	0:20:05.686000
 frage	fragen	VERB	-	0:20:03	0:20:05.686000
 ich	ich	PRON	-	0:20:03	0:20:05.686000
@@ -5284,7 +5284,7 @@ in	in	ADP	-	0:20:03	0:20:05.686000
 Österreich	Österreich	PROPN	-	0:20:03	0:20:05.686000
 .	-	-	-	0:20:03	0:20:05.686000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:05.686000" end="0:20:44.706000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:05.686000" end="0:20:44.706000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 rede	rede	VERB	-	0:20:05.686000	0:20:08.280000
 über	über	ADP	-	0:20:05.686000	0:20:08.280000
@@ -5426,10 +5426,10 @@ Deutsch	Deutsch	NOUN	-	0:20:40.473000	0:20:44.706000
 geredet	reden	VERB	-	0:20:40.473000	0:20:44.706000
 ,	-	-	-	0:20:40.473000	0:20:44.706000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:44.706000" end="0:20:45.100000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:44.706000" end="0:20:45.100000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:44.706000	0:20:45.100000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:44.706000" end="0:20:47.700000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:44.706000" end="0:20:47.700000" age_lower="18" age_upper="35">
 dann	-	-	-	0:20:44.706000	0:20:45.100000
 wird	-	-	-	0:20:44.706000	0:20:45.100000
 Schwyzerdütsch	-	-	-	0:20:45.100000	0:20:47.700000
@@ -5440,9 +5440,9 @@ verstehen	-	-	-	0:20:45.100000	0:20:47.700000
 keinen	-	-	-	0:20:45.100000	0:20:47.700000
 .	-	-	-	0:20:45.100000	0:20:47.700000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:47.700000" end="0:20:49.400000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:47.700000" end="0:20:49.400000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:47.700000" end="0:20:50.266000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:47.700000" end="0:20:50.266000" age_lower="18" age_upper="35">
 (weißt	wissen	VERB	-	0:20:47.700000	0:20:49.400000
 nicht	nicht	PART	-	0:20:47.700000	0:20:49.400000
 mal	mal	ADV	-	0:20:47.700000	0:20:49.400000
@@ -5455,10 +5455,10 @@ das	der	PRON	-	0:20:49.400000	0:20:50.266000
 ist	sein	AUX	-	0:20:49.400000	0:20:50.266000
 echt	echt	ADJ	-	0:20:49.400000	0:20:50.266000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:50.266000" end="0:20:50.620000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:50.266000" end="0:20:50.620000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:50.266000	0:20:50.620000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:50.266000" end="0:20:53.060000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:50.266000" end="0:20:53.060000" age_lower="18" age_upper="35">
 hartcore	hartcore	PROPN	-	0:20:50.266000	0:20:50.620000
 da	da	ADV	-	0:20:50.620000	0:20:51.146000
 draußen	draußen	ADV	-	0:20:50.620000	0:20:51.146000
@@ -5475,18 +5475,18 @@ jetzt	jetzt	ADV	-	0:20:52.013000	0:20:53.060000
 redet	reden	VERB	-	0:20:52.013000	0:20:53.060000
 ,	-	-	-	0:20:52.013000	0:20:53.060000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.060000" end="0:20:53.546000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.060000" end="0:20:53.546000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:20:53.060000	0:20:53.546000
 .	-	-	-	0:20:53.060000	0:20:53.546000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.060000" end="0:20:53.546000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.060000" end="0:20:53.546000" age_lower="18" age_upper="35">
 den	-	-	-	0:20:53.060000	0:20:53.546000
 *wost*	-	-	-	0:20:53.060000	0:20:53.546000
 jetzt	-	-	-	0:20:53.060000	0:20:53.546000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.546000" end="0:20:55.546000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.546000" end="0:20:55.546000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.546000" end="0:20:57.546000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:53.546000" end="0:20:57.546000" age_lower="18" age_upper="35">
 auf	-	-	-	0:20:53.546000	0:20:55.546000
 der	-	-	-	0:20:53.546000	0:20:55.546000
 Straße	-	-	-	0:20:53.546000	0:20:55.546000
@@ -5498,7 +5498,7 @@ so	so	ADV	-	0:20:55.546000	0:20:57.546000
 ja	ja	PART	-	0:20:55.546000	0:20:57.546000
 .	-	-	-	0:20:55.546000	0:20:57.546000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:57.546000" end="0:21:05.740000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:20:57.546000" end="0:21:05.740000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:20:57.546000	0:20:58.320000
 wie	wie	ADV	-	0:20:57.546000	0:20:58.320000
 kommt	kommen	VERB	-	0:20:57.546000	0:20:58.320000
@@ -5522,7 +5522,7 @@ die	der	DET	-	0:21:01.333000	0:21:03.240000
 Englisch	Englisch	NOUN	-	0:21:01.333000	0:21:03.240000
 ?	-	-	-	0:21:01.333000	0:21:03.240000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:05.746000" end="0:21:26.453000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:05.746000" end="0:21:26.453000" age_lower="18" age_upper="35">
 na	na	X	-	0:21:05.746000	0:21:06.786000
 ja	ja	ADV	-	0:21:05.746000	0:21:06.786000
 ich	ich	PRON	-	0:21:05.746000	0:21:06.786000
@@ -5597,7 +5597,7 @@ Englisch	Englisch	NOUN	-	0:21:23.773000	0:21:26.453000
 also	also	ADV	-	0:21:23.773000	0:21:26.453000
 /.	-	-	-	0:21:23.773000	0:21:26.453000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:26.453000" end="0:21:29.106000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:26.453000" end="0:21:29.106000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:21:26.453000	0:21:27.426000
 ich	ich	PRON	-	0:21:26.453000	0:21:27.426000
 finde	finden	VERB	-	0:21:26.453000	0:21:27.426000
@@ -5610,11 +5610,11 @@ extrem	extrem	ADJ	-	0:21:27.426000	0:21:29.106000
 schwach	schwach	ADJ	-	0:21:27.426000	0:21:29.106000
 .	-	-	-	0:21:27.426000	0:21:29.106000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:29.106000" end="0:21:30.013000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:29.106000" end="0:21:30.013000" age_lower="18" age_upper="35">
 schwach	schwach	ADJ	-	0:21:29.106000	0:21:30.013000
 ?	-	-	-	0:21:29.106000	0:21:30.013000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:30.013000" end="0:21:31.120000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:30.013000" end="0:21:31.120000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:30.013000	0:21:30.786000
 ,	-	-	-	0:21:30.013000	0:21:30.786000
 also	also	ADV	-	0:21:30.013000	0:21:30.786000
@@ -5623,11 +5623,11 @@ meine	meinen	VERB	-	0:21:30.013000	0:21:30.786000
 vielleicht	vielleicht	ADV	-	0:21:30.786000	0:21:31.120000
 du	du	PRON	-	0:21:30.786000	0:21:31.120000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:30.786000" end="0:21:31.120000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:30.786000" end="0:21:31.120000" age_lower="18" age_upper="35">
 *findest*	-	-	-	0:21:30.786000	0:21:31.120000
 ?	-	-	-	0:21:30.786000	0:21:31.120000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:31.120000" end="0:21:35.946000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:31.120000" end="0:21:35.946000" age_lower="18" age_upper="35">
 bist	sein	AUX	-	0:21:31.120000	0:21:33.220000
 schon	schon	ADV	-	0:21:31.120000	0:21:33.220000
 wieder	wieder	ADV	-	0:21:31.120000	0:21:33.220000
@@ -5650,11 +5650,11 @@ wesentlich	wesentlich	ADJ	-	0:21:33.220000	0:21:35.406000
 besser	gut	ADJ	-	0:21:35.406000	0:21:35.946000
 .	-	-	-	0:21:35.406000	0:21:35.946000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:35.406000" end="0:21:35.946000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:35.406000" end="0:21:35.946000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:35.406000	0:21:35.946000
 .	-	-	-	0:21:35.406000	0:21:35.946000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:35.946000" end="0:22:02.686000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:21:35.946000" end="0:22:02.686000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	aber	CCONJ	-	0:21:35.946000	0:21:41.953000
 eben	eben	ADV	-	0:21:35.946000	0:21:41.953000
@@ -5737,10 +5737,10 @@ und	und	CCONJ	-	0:22:01.753000	0:22:02.686000
 mir	sich	PRON	-	0:22:01.753000	0:22:02.686000
 war	sein	AUX	-	0:22:01.753000	0:22:02.686000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:01.753000" end="0:22:02.686000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:01.753000" end="0:22:02.686000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:01.753000	0:22:02.686000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:02.686000" end="0:22:12.380000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:02.686000" end="0:22:12.380000" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:22:02.686000	0:22:05.066000
 in	in	ADP	-	0:22:02.686000	0:22:05.066000
 also	also	ADV	-	0:22:02.686000	0:22:05.066000
@@ -5789,10 +5789,10 @@ little	little	X	-	0:22:11.680000	0:22:12.380000
 bit	bit	PROPN	-	0:22:11.680000	0:22:12.380000
 .	-	-	-	0:22:11.680000	0:22:12.380000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:12.380000" end="0:22:13.306000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:12.380000" end="0:22:13.306000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:12.380000	0:22:13.306000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:13.306000" end="0:22:30.066000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:13.306000" end="0:22:30.066000" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:22:13.306000	0:22:16.100000
 ja	ja	ADV	-	0:22:13.306000	0:22:16.100000
 eben	eben	ADV	-	0:22:13.306000	0:22:16.100000
@@ -5862,7 +5862,7 @@ auf	auf	ADP	-	0:22:28.860000	0:22:30.066000
 der	der	DET	-	0:22:28.860000	0:22:30.066000
 Raststation	Raststation	NOUN	-	0:22:28.860000	0:22:30.066000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:28.860000" end="0:22:30.066000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:28.860000" end="0:22:30.066000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:28.860000	0:22:30.066000
 ,	-	-	-	0:22:28.860000	0:22:30.066000
 das	der	PRON	-	0:22:28.860000	0:22:30.066000
@@ -5872,7 +5872,7 @@ schon	schon	ADV	-	0:22:28.860000	0:22:30.066000
 ja	ja	PART	-	0:22:28.860000	0:22:30.066000
 .	-	-	-	0:22:28.860000	0:22:30.066000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:30.066000" end="0:22:36.753000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:30.066000" end="0:22:36.753000" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:22:30.066000	0:22:35.260000
 ihm	ich	PRON	-	0:22:30.066000	0:22:35.260000
 scheinbar	scheinbar	ADJ	-	0:22:30.066000	0:22:35.260000
@@ -5896,13 +5896,13 @@ voll	voll	ADJ	-	0:22:35.260000	0:22:36.753000
 schockiert	schockiert	ADJ	-	0:22:35.260000	0:22:36.753000
 .	-	-	-	0:22:35.260000	0:22:36.753000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:36.753000" end="0:22:38.826000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:36.753000" end="0:22:38.826000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	-	-	-	0:22:36.753000	0:22:38.826000
 also	-	-	-	0:22:36.753000	0:22:38.826000
 *wennst*	-	-	-	0:22:36.753000	0:22:38.826000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:38.826000" end="0:22:40.046000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:38.826000" end="0:22:40.046000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:22:38.826000	0:22:40.046000
 habe	habe	AUX	-	0:22:38.826000	0:22:40.046000
 da	da	ADV	-	0:22:38.826000	0:22:40.046000
@@ -5910,21 +5910,21 @@ mit	mit	ADP	-	0:22:38.826000	0:22:40.046000
 Händen	Hand	NOUN	-	0:22:38.826000	0:22:40.046000
 und	und	CCONJ	-	0:22:38.826000	0:22:40.046000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:38.826000" end="0:22:40.046000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:38.826000" end="0:22:40.046000" age_lower="18" age_upper="35">
 (suchst)	-	-	-	0:22:38.826000	0:22:40.046000
 /.	-	-	-	0:22:38.826000	0:22:40.046000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:40.046000" end="0:22:41.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:40.046000" end="0:22:41.906000" age_lower="18" age_upper="35">
 Füßen	Fuß	NOUN	-	0:22:40.046000	0:22:41.906000
 und	und	CCONJ	-	0:22:40.046000	0:22:41.906000
 mit	mit	ADP	-	0:22:40.046000	0:22:41.906000
 Google	Google	PROPN	-	0:22:40.046000	0:22:41.906000
 Maps	Maps	PROPN	-	0:22:40.046000	0:22:41.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:41.906000" end="0:22:42.226000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:41.906000" end="0:22:42.226000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:22:41.906000	0:22:42.226000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:42.226000" end="0:22:46.833000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:42.226000" end="0:22:46.833000" age_lower="18" age_upper="35">
 habe	habe	AUX	-	0:22:42.226000	0:22:43.726000
 ich	ich	PRON	-	0:22:42.226000	0:22:43.726000
 es	ich	PRON	-	0:22:42.226000	0:22:43.726000
@@ -5945,10 +5945,10 @@ ich	ich	PRON	-	0:22:45.993000	0:22:46.833000
 zu	zu	ADP	-	0:22:45.993000	0:22:46.833000
 .	-	-	-	0:22:45.993000	0:22:46.833000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:46.833000" end="0:22:47.306000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:46.833000" end="0:22:47.306000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:46.833000	0:22:47.306000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:47.306000" end="0:22:50.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:47.306000" end="0:22:50.473000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 aber	aber	CCONJ	-	0:22:47.306000	0:22:49.380000
 ich	ich	PRON	-	0:22:47.306000	0:22:49.380000
@@ -5961,10 +5961,10 @@ verständlich	verständlich	ADJ	-	0:22:49.380000	0:22:50.093000
 gemacht	machen	VERB	-	0:22:50.093000	0:22:50.473000
 .	-	-	-	0:22:50.093000	0:22:50.473000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:50.093000" end="0:22:50.473000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:50.093000" end="0:22:50.473000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:50.093000	0:22:50.473000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:50.473000" end="0:22:51.846000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:50.473000" end="0:22:51.846000" age_lower="18" age_upper="35">
 er	ich	PRON	-	0:22:50.473000	0:22:51.846000
 hat	haben	AUX	-	0:22:50.473000	0:22:51.846000
 hoffentlich	hoffentlich	ADV	-	0:22:50.473000	0:22:51.846000
@@ -5972,7 +5972,7 @@ heim	heim	ADJ	-	0:22:50.473000	0:22:51.846000
 gefunden	finden	VERB	-	0:22:50.473000	0:22:51.846000
 .	-	-	-	0:22:50.473000	0:22:51.846000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:51.846000" end="0:23:02.353000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:22:51.846000" end="0:23:02.353000" age_lower="18" age_upper="35">
 (nochmal)	nochmal	ADV	-	0:22:53.453000	0:22:56.433000
 über	über	ADP	-	0:22:53.453000	0:22:56.433000
 das	der	PRON	-	0:22:53.453000	0:22:56.433000
@@ -6011,7 +6011,7 @@ Geisterfahrer	Geisterfahrer	NOUN	-	0:23:00.440000	0:23:02.353000
 auf	auf	ADP	-	0:23:00.440000	0:23:02.353000
 Englisch	Englisch	NOUN	-	0:23:00.440000	0:23:02.353000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:02.353000" end="0:23:03.186000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:02.353000" end="0:23:03.186000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:23:02.353000	0:23:03.186000
 aber	aber	ADV	-	0:23:02.353000	0:23:03.186000
 auch	auch	ADV	-	0:23:02.353000	0:23:03.186000
@@ -6019,11 +6019,11 @@ nur	nur	ADV	-	0:23:02.353000	0:23:03.186000
 in	in	ADP	-	0:23:02.353000	0:23:03.186000
 den	der	DET	-	0:23:02.353000	0:23:03.186000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:02.353000" end="0:23:03.186000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:02.353000" end="0:23:03.186000" age_lower="18" age_upper="35">
 ansagen	ansagen	VERB	-	0:23:02.353000	0:23:03.186000
 .	-	-	-	0:23:02.353000	0:23:03.186000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:03.186000" end="0:23:04.920000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:03.186000" end="0:23:04.920000" age_lower="18" age_upper="35">
 Ferienzeiten	Ferienzeiten	NOUN	-	0:23:03.186000	0:23:04.920000
 oder	oder	CCONJ	-	0:23:03.186000	0:23:04.920000
 ?	-	-	-	0:23:03.186000	0:23:04.920000
@@ -6031,7 +6031,7 @@ oder	oder	CCONJ	-	0:23:03.186000	0:23:04.920000
 immer	immer	ADV	-	0:23:03.186000	0:23:04.920000
 ?	-	-	-	0:23:03.186000	0:23:04.920000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:04.920000" end="0:23:08.520000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:04.920000" end="0:23:08.520000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 das	der	PRON	-	0:23:04.920000	0:23:08.520000
 ist	sein	AUX	-	0:23:04.920000	0:23:08.520000
@@ -6041,9 +6041,9 @@ gute	gut	ADJ	-	0:23:04.920000	0:23:08.520000
 Frage	Frage	NOUN	-	0:23:04.920000	0:23:08.520000
 .	-	-	-	0:23:04.920000	0:23:08.520000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:08.520000" end="0:23:09.686000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:08.520000" end="0:23:09.686000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:08.520000" end="0:23:10.186000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:08.520000" end="0:23:10.186000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:23:08.520000	0:23:09.686000
 weiß	weiß	VERB	-	0:23:08.520000	0:23:09.686000
 ich	ich	PRON	-	0:23:08.520000	0:23:09.686000
@@ -6057,11 +6057,11 @@ weiß	weiß	VERB	-	0:23:09.686000	0:23:10.186000
 nicht	nicht	PART	-	0:23:09.686000	0:23:10.186000
 ,	-	-	-	0:23:09.686000	0:23:10.186000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:10.186000" end="0:23:10.546000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:10.186000" end="0:23:10.546000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:10.186000	0:23:10.546000
 .	-	-	-	0:23:10.186000	0:23:10.546000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:10.186000" end="0:23:11.226000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:10.186000" end="0:23:11.226000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:23:10.186000	0:23:10.546000
 habe	habe	AUX	-	0:23:10.186000	0:23:10.546000
 es	ich	PRON	-	0:23:10.186000	0:23:10.546000
@@ -6070,11 +6070,11 @@ hin	hin	ADV	-	0:23:10.546000	0:23:11.226000
 und	und	CCONJ	-	0:23:10.546000	0:23:11.226000
 wieder	wieder	ADV	-	0:23:10.546000	0:23:11.226000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:11.226000" end="0:23:11.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:11.226000" end="0:23:11.660000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:11.226000	0:23:11.660000
 .	-	-	-	0:23:11.226000	0:23:11.660000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:11.226000" end="0:23:13.380000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:11.226000" end="0:23:13.380000" age_lower="18" age_upper="35">
 gehört	hören	VERB	-	0:23:11.226000	0:23:11.660000
 ,	-	-	-	0:23:11.226000	0:23:11.660000
 dass	dass	SCONJ	-	0:23:11.660000	0:23:12.313000
@@ -6093,11 +6093,11 @@ sie	ich	PRON	-	0:23:12.853000	0:23:13.380000
 es	ich	PRON	-	0:23:12.853000	0:23:13.380000
 immer	immer	ADV	-	0:23:12.853000	0:23:13.380000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:13.380000" end="0:23:13.960000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:13.380000" end="0:23:13.960000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:13.380000	0:23:13.960000
 .	-	-	-	0:23:13.380000	0:23:13.960000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:13.380000" end="0:23:21.660000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:13.380000" end="0:23:21.660000" age_lower="18" age_upper="35">
 machen	machen	VERB	-	0:23:13.380000	0:23:13.960000
 .	-	-	-	0:23:13.380000	0:23:13.960000
 aber	aber	CCONJ	-	0:23:13.960000	0:23:15.960000
@@ -6131,27 +6131,27 @@ wen	-	-	-	0:23:19.846000	0:23:21.660000
 gefunden	-	-	-	0:23:19.846000	0:23:21.660000
 ,	-	-	-	0:23:19.846000	0:23:21.660000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:21.660000" end="0:23:21.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:21.660000" end="0:23:21.906000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:21.660000	0:23:21.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:21.660000" end="0:23:22.340000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:21.660000" end="0:23:22.340000" age_lower="18" age_upper="35">
 mit	-	-	-	0:23:21.660000	0:23:21.906000
 *demst*	-	-	-	0:23:21.906000	0:23:22.340000
 It/	-	-	-	0:23:21.906000	0:23:22.340000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:22.340000" end="0:23:22.753000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:22.340000" end="0:23:22.753000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:22.340000	0:23:22.753000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:22.340000" end="0:23:23.533000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:22.340000" end="0:23:23.533000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:23:22.340000	0:23:22.753000
 Italienisch	-	-	-	0:23:22.753000	0:23:23.533000
 ,	-	-	-	0:23:22.753000	0:23:23.533000
 Englisch	Englisch	ADJ	-	0:23:22.753000	0:23:23.533000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:23.533000" end="0:23:23.840000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:23.533000" end="0:23:23.840000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:23.533000	0:23:23.840000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:23.533000" end="0:23:24.973000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:23.533000" end="0:23:24.973000" age_lower="18" age_upper="35">
 reden	reden	VERB	-	0:23:23.533000	0:23:23.840000
 hast	haben	AUX	-	0:23:23.840000	0:23:24.273000
 können	können	VERB	-	0:23:23.840000	0:23:24.273000
@@ -6160,10 +6160,10 @@ oder	oder	CCONJ	-	0:23:24.273000	0:23:24.973000
 halt	halt	ADV	-	0:23:24.273000	0:23:24.973000
 wenigstens	wenigstens	ADV	-	0:23:24.273000	0:23:24.973000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:24.973000" end="0:23:25.586000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:24.973000" end="0:23:25.586000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:24.973000	0:23:25.586000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:24.973000" end="0:23:27.753000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:24.973000" end="0:23:27.753000" age_lower="18" age_upper="35">
 die	der	DET	-	0:23:24.973000	0:23:25.586000
 Grundsachen	Grundsachen	NOUN	-	0:23:24.973000	0:23:25.586000
 .	-	-	-	0:23:24.973000	0:23:25.586000
@@ -6176,10 +6176,10 @@ hast	-	-	-	0:23:25.586000	0:23:27.753000
 können	-	-	-	0:23:25.586000	0:23:27.753000
 .	-	-	-	0:23:25.586000	0:23:27.753000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:27.753000" end="0:23:28.160000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:27.753000" end="0:23:28.160000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:27.753000	0:23:28.160000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:27.753000" end="0:23:39.973000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:27.753000" end="0:23:39.973000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:23:27.753000	0:23:28.160000
 ich	ich	PRON	-	0:23:27.753000	0:23:28.160000
 glaube	glauben	VERB	-	0:23:27.753000	0:23:28.160000
@@ -6228,10 +6228,10 @@ Raststation	Raststation	NOUN	-	0:23:37.193000	0:23:39.973000
 nur	nur	ADV	-	0:23:37.193000	0:23:39.973000
 Englisch	Englisch	NOUN	-	0:23:37.193000	0:23:39.973000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:39.973000" end="0:23:40.260000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:39.973000" end="0:23:40.260000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:39.973000	0:23:40.260000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:39.973000" end="0:23:42.240000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:39.973000" end="0:23:42.240000" age_lower="18" age_upper="35">
 geredet	reden	VERB	-	0:23:39.973000	0:23:40.260000
 mit	mit	ADP	-	0:23:40.260000	0:23:40.840000
 den	der	DET	-	0:23:40.260000	0:23:40.840000
@@ -6243,11 +6243,11 @@ bestellen	-	-	-	0:23:40.840000	0:23:42.240000
 jetzt	haben	AUX	-	0:23:40.840000	0:23:42.240000
 her	-	-	-	0:23:40.840000	0:23:42.240000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:42.240000" end="0:23:42.693000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:42.240000" end="0:23:42.693000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:23:42.240000	0:23:42.693000
 .	-	-	-	0:23:42.240000	0:23:42.693000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:42.240000" end="0:23:43.640000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:42.240000" end="0:23:43.640000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:23:42.240000	0:23:42.693000
 (vom)	vom	ADP	-	0:23:42.693000	0:23:43.640000
 Zahlen	Zahl	NOUN	-	0:23:42.693000	0:23:43.640000
@@ -6255,10 +6255,10 @@ und	und	CCONJ	-	0:23:42.693000	0:23:43.640000
 alles	alle	PRON	-	0:23:42.693000	0:23:43.640000
 ,	-	-	-	0:23:42.693000	0:23:43.640000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:43.640000" end="0:23:44.080000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:43.640000" end="0:23:44.080000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:43.640000	0:23:44.080000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:43.640000" end="0:24:06.373000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:23:43.640000" end="0:24:06.373000" age_lower="18" age_upper="35">
 gell	gell	ADJ	-	0:23:43.640000	0:23:44.080000
 ?	-	-	-	0:23:43.640000	0:23:44.080000
 <pause duration="1,3s"/>
@@ -6343,11 +6343,11 @@ jeder	jed	PRON	-	0:24:05.146000	0:24:06.373000
 ein	einen	DET	-	0:24:05.146000	0:24:06.373000
 bissel	bissel	NOUN	-	0:24:05.146000	0:24:06.373000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:06.373000" end="0:24:06.840000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:06.373000" end="0:24:06.840000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:06.373000	0:24:06.840000
 .	-	-	-	0:24:06.373000	0:24:06.840000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:06.840000" end="0:24:08.946000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:06.840000" end="0:24:08.946000" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:24:06.840000	0:24:08.946000
 auch	auch	ADV	-	0:24:06.840000	0:24:08.946000
 nicht	nicht	PART	-	0:24:06.840000	0:24:08.946000
@@ -6356,11 +6356,11 @@ so	so	ADV	-	0:24:06.840000	0:24:08.946000
 gleich	gleichen	ADJ	-	0:24:06.840000	0:24:08.946000
 vom	vom	ADP	-	0:24:06.840000	0:24:08.946000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:08.946000" end="0:24:09.540000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:08.946000" end="0:24:09.540000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:08.946000	0:24:09.540000
 .	-	-	-	0:24:08.946000	0:24:09.540000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:08.946000" end="0:24:14.026000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:08.946000" end="0:24:14.026000" age_lower="18" age_upper="35">
 (Handschuh)	-	-	-	0:24:08.946000	0:24:09.540000
 heraus	heraus	ADV	-	0:24:08.946000	0:24:09.540000
 gezaubert	zaubern	VERB	-	0:24:09.540000	0:24:10.480000
@@ -6382,21 +6382,21 @@ hat	haben	AUX	-	0:24:12.760000	0:24:14.026000
 können	können	VERB	-	0:24:12.760000	0:24:14.026000
 .	-	-	-	0:24:12.760000	0:24:14.026000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:14.026000" end="0:24:14.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:14.026000" end="0:24:14.606000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:14.026000	0:24:14.606000
 .	-	-	-	0:24:14.026000	0:24:14.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:14.026000" end="0:24:14.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:14.026000" end="0:24:14.606000" age_lower="18" age_upper="35">
 muss	muss	VERB	-	0:24:14.026000	0:24:14.606000
 ich	ich	PRON	-	0:24:14.026000	0:24:14.606000
 sagen	sagen	VERB	-	0:24:14.026000	0:24:14.606000
 .	-	-	-	0:24:14.026000	0:24:14.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:14.606000" end="0:24:15.113000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:14.606000" end="0:24:15.113000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:14.606000	0:24:15.113000
 .	-	-	-	0:24:14.606000	0:24:15.113000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:15.113000" end="0:24:20.753000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:15.113000" end="0:24:20.753000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:24:15.113000	0:24:16.086000
 das	der	PRON	-	0:24:15.113000	0:24:16.086000
 stimmt	stimmen	VERB	-	0:24:15.113000	0:24:16.086000
@@ -6426,7 +6426,7 @@ angeschrieben	anschreiben	VERB	-	0:24:18.513000	0:24:20.753000
 nicht	nicht	PART	-	0:24:18.513000	0:24:20.753000
 ?	-	-	-	0:24:18.513000	0:24:20.753000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:20.753000" end="0:24:29.293000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:20.753000" end="0:24:29.293000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:24:20.753000	0:24:25.566000
 eben	eben	ADV	-	0:24:20.753000	0:24:25.566000
 ,	-	-	-	0:24:20.753000	0:24:25.566000
@@ -6461,18 +6461,18 @@ dass	dass	SCONJ	-	0:24:28.046000	0:24:28.993000
 die	der	DET	-	0:24:28.046000	0:24:28.993000
 eben	eben	ADV	-	0:24:28.993000	0:24:29.293000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:28.993000" end="0:24:29.293000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:28.993000" end="0:24:29.293000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:28.993000	0:24:29.293000
 .	-	-	-	0:24:28.993000	0:24:29.293000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:29.293000" end="0:24:30.640000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:29.293000" end="0:24:30.640000" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:24:29.293000	0:24:29.933000
 mit	mit	ADP	-	0:24:29.293000	0:24:29.933000
 Englisch	Englisch	NOUN	-	0:24:29.293000	0:24:29.933000
 durchgesetzt	durchsetzen	VERB	-	0:24:29.933000	0:24:30.640000
 .	-	-	-	0:24:29.933000	0:24:30.640000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:29.933000" end="0:24:31.933000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:29.933000" end="0:24:31.933000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:29.933000	0:24:30.640000
 .	-	-	-	0:24:29.933000	0:24:30.640000
 ja	ja	PART	-	0:24:30.640000	0:24:31.933000
@@ -6482,10 +6482,10 @@ wenn	wenn	SCONJ	-	0:24:30.640000	0:24:31.933000
 ich	ich	PRON	-	0:24:30.640000	0:24:31.933000
 denke	denken	NOUN	-	0:24:30.640000	0:24:31.933000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:31.933000" end="0:24:32.233000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:31.933000" end="0:24:32.233000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:31.933000	0:24:32.233000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:31.933000" end="0:24:34.900000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:31.933000" end="0:24:34.900000" age_lower="18" age_upper="35">
 dort	tun	VERB	-	0:24:31.933000	0:24:32.233000
 war	-	-	-	0:24:32.233000	0:24:32.780000
 es	-	-	-	0:24:32.233000	0:24:32.780000
@@ -6501,7 +6501,7 @@ haben	-	-	-	0:24:32.780000	0:24:34.900000
 wir	-	-	-	0:24:32.780000	0:24:34.900000
 auch	-	-	-	0:24:32.780000	0:24:34.900000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:34.900000" end="0:24:37.580000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:34.900000" end="0:24:37.580000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:34.900000	0:24:37.580000
 die	der	DET	-	0:24:34.900000	0:24:37.580000
 Schweiz	Schweiz	PROPN	-	0:24:34.900000	0:24:37.580000
@@ -6511,7 +6511,7 @@ sowieso	sowieso	ADV	-	0:24:34.900000	0:24:37.580000
 faszinierend	faszinieren	ADJ	-	0:24:34.900000	0:24:37.580000
 .	-	-	-	0:24:34.900000	0:24:37.580000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:34.900000" end="0:24:39.860000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:34.900000" end="0:24:39.860000" age_lower="18" age_upper="35">
 Englisch	Englisch	ADJ	-	0:24:34.900000	0:24:37.580000
 geredet	reden	VERB	-	0:24:34.900000	0:24:37.580000
 ,	-	-	-	0:24:34.900000	0:24:37.580000
@@ -6533,11 +6533,11 @@ echt	echt	ADJ	-	0:24:38.253000	0:24:39.860000
 wild	wild	ADJ	-	0:24:38.253000	0:24:39.860000
 .	-	-	-	0:24:38.253000	0:24:39.860000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:39.860000" end="0:24:40.233000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:39.860000" end="0:24:40.233000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:39.860000	0:24:40.233000
 .	-	-	-	0:24:39.860000	0:24:40.233000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:40.233000" end="0:24:42.860000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:40.233000" end="0:24:42.860000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:24:40.233000	0:24:41.293000
 so	so	ADV	-	0:24:40.233000	0:24:41.293000
 in	in	ADP	-	0:24:40.233000	0:24:41.293000
@@ -6555,7 +6555,7 @@ Haufen	Haufen	NOUN	-	0:24:41.293000	0:24:42.860000
 sind	sein	AUX	-	0:24:41.293000	0:24:42.860000
 .	-	-	-	0:24:41.293000	0:24:42.860000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:42.860000" end="0:24:46.400000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:42.860000" end="0:24:46.400000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 kannst	können	VERB	-	0:24:42.860000	0:24:46.400000
 du	du	PRON	-	0:24:42.860000	0:24:46.400000
@@ -6566,7 +6566,7 @@ irgendeine	irgendeine	DET	-	0:24:42.860000	0:24:46.400000
 Fremdsprache	Fremdsprache	NOUN	-	0:24:42.860000	0:24:46.400000
 ?	-	-	-	0:24:42.860000	0:24:46.400000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:46.400000" end="0:24:51.933000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:46.400000" end="0:24:51.933000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	ADV	-	0:24:46.400000	0:24:49.293000
 nur	nur	ADV	-	0:24:46.400000	0:24:49.293000
@@ -6589,11 +6589,11 @@ ich	-	-	-	0:24:51.086000	0:24:51.933000
 mich	-	-	-	0:24:51.086000	0:24:51.933000
 .	-	-	-	0:24:51.086000	0:24:51.933000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:51.933000" end="0:24:54.540000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:51.933000" end="0:24:54.540000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:51.933000	0:24:52.200000
 .	-	-	-	0:24:51.933000	0:24:52.200000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:52.200000" end="0:24:54.980000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:52.200000" end="0:24:54.980000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:24:52.200000	0:24:54.540000
 fragen	fragen	NOUN	-	0:24:52.200000	0:24:54.540000
 ,	-	-	-	0:24:52.200000	0:24:54.540000
@@ -6602,7 +6602,7 @@ was	was	PRON	-	0:24:52.200000	0:24:54.540000
 du	du	PRON	-	0:24:54.540000	0:24:54.980000
 ?	-	-	-	0:24:54.540000	0:24:54.980000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:54.980000" end="0:24:57.160000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:54.980000" end="0:24:57.160000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:54.980000	0:24:56.480000
 auch	auch	ADV	-	0:24:54.980000	0:24:56.480000
 gerade	gerade	ADV	-	0:24:54.980000	0:24:56.480000
@@ -6611,20 +6611,20 @@ paar	paar	DET	-	0:24:54.980000	0:24:56.480000
 Brocken	Brocken	NOUN	-	0:24:54.980000	0:24:56.480000
 auf	auf	ADP	-	0:24:56.480000	0:24:57.160000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:56.480000" end="0:24:57.160000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:56.480000" end="0:24:57.160000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:56.480000	0:24:57.160000
 ja	ja	PART	-	0:24:56.480000	0:24:57.160000
 .	-	-	-	0:24:56.480000	0:24:57.160000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:57.160000" end="0:24:57.866000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:57.160000" end="0:24:57.866000" age_lower="18" age_upper="35">
 Italienisch	Italienisch	NOUN	-	0:24:57.160000	0:24:57.866000
 .	-	-	-	0:24:57.160000	0:24:57.866000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:57.866000" end="0:24:58.466000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:57.866000" end="0:24:58.466000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:57.866000	0:24:58.466000
 .	-	-	-	0:24:57.866000	0:24:58.466000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:58.466000" end="0:25:02.186000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:24:58.466000" end="0:25:02.186000" age_lower="18" age_upper="35">
 Freifach	Freifach	NOUN	-	0:24:58.466000	0:24:59.380000
 in	in	ADP	-	0:24:58.466000	0:24:59.380000
 der	der	DET	-	0:24:58.466000	0:24:59.380000
@@ -6635,19 +6635,19 @@ unwichtig	unwichtig	ADJ	-	0:24:59.380000	0:25:01.506000
 .	-	-	-	0:24:59.380000	0:25:01.506000
 und	und	CCONJ	-	0:25:01.506000	0:25:02.186000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:01.506000" end="0:25:02.186000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:01.506000" end="0:25:02.186000" age_lower="18" age_upper="35">
 oh	oh	X	-	0:25:01.506000	0:25:02.186000
 genau	genau	ADJ	-	0:25:01.506000	0:25:02.186000
 .	-	-	-	0:25:01.506000	0:25:02.186000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:02.186000" end="0:25:03.293000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:02.186000" end="0:25:03.293000" age_lower="18" age_upper="35">
 heute	heute	ADV	-	0:25:02.186000	0:25:03.293000
 ärgert	ärgern	VERB	-	0:25:02.186000	0:25:03.293000
 es	ich	PRON	-	0:25:02.186000	0:25:03.293000
 mich	sich	PRON	-	0:25:02.186000	0:25:03.293000
 .	-	-	-	0:25:02.186000	0:25:03.293000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:03.293000" end="0:25:08.300000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:03.293000" end="0:25:08.300000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:03.293000	0:25:05.146000
 ,	-	-	-	0:25:03.293000	0:25:05.146000
 das	der	PRON	-	0:25:03.293000	0:25:05.146000
@@ -6676,14 +6676,14 @@ viel	viel	PRON	-	0:25:05.146000	0:25:08.300000
 getan	tun	VERB	-	0:25:05.146000	0:25:08.300000
 in	in	ADP	-	0:25:05.146000	0:25:08.300000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:08.300000" end="0:25:08.746000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:08.300000" end="0:25:08.746000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:08.300000	0:25:08.746000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:08.300000" end="0:25:08.746000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:08.300000" end="0:25:08.746000" age_lower="18" age_upper="35">
 Italienisch	Italienisch	NOUN	-	0:25:08.300000	0:25:08.746000
 .	-	-	-	0:25:08.300000	0:25:08.746000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:08.746000" end="0:25:10.833000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:08.746000" end="0:25:10.833000" age_lower="18" age_upper="35">
 na	na	PROPN	-	0:25:08.746000	0:25:10.833000
 ,	-	-	-	0:25:08.746000	0:25:10.833000
 ich	ich	PRON	-	0:25:08.746000	0:25:10.833000
@@ -6695,15 +6695,15 @@ getan	tun	VERB	-	0:25:08.746000	0:25:10.833000
 und	und	CCONJ	-	0:25:08.746000	0:25:10.833000
 /.	-	-	-	0:25:08.746000	0:25:10.833000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:10.833000" end="0:25:11.460000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:10.833000" end="0:25:11.460000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:10.833000	0:25:11.460000
 .	-	-	-	0:25:10.833000	0:25:11.460000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:11.460000" end="0:25:12.100000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:11.460000" end="0:25:12.100000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:11.460000	0:25:12.100000
 .	-	-	-	0:25:11.460000	0:25:12.100000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:12.100000" end="0:25:15.140000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:12.100000" end="0:25:15.140000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:25:12.100000	0:25:13.686000
 oder	oder	CCONJ	-	0:25:12.100000	0:25:13.686000
 nein	nein	PART	-	0:25:12.100000	0:25:13.686000
@@ -6722,20 +6722,20 @@ Lehrerin	Lehrerin	NOUN	-	0:25:13.686000	0:25:15.140000
 gehabt	haben	AUX	-	0:25:13.686000	0:25:15.140000
 .	-	-	-	0:25:13.686000	0:25:15.140000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.140000" end="0:25:15.533000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.140000" end="0:25:15.533000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:15.140000	0:25:15.533000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.140000" end="0:25:15.913000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.140000" end="0:25:15.913000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:25:15.140000	0:25:15.533000
 hätte	haben	AUX	-	0:25:15.140000	0:25:15.533000
 richtig	richtig	ADJ	-	0:25:15.533000	0:25:15.913000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.913000" end="0:25:16.806000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.913000" end="0:25:16.806000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:15.913000	0:25:16.806000
 ja	ja	ADV	-	0:25:15.913000	0:25:16.806000
 .	-	-	-	0:25:15.913000	0:25:16.806000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.913000" end="0:25:19.540000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:15.913000" end="0:25:19.540000" age_lower="18" age_upper="35">
 viel	viel	PRON	-	0:25:15.913000	0:25:16.806000
 mit/	-	-	-	0:25:15.913000	0:25:16.806000
 oder	oder	CCONJ	-	0:25:15.913000	0:25:16.806000
@@ -6755,11 +6755,11 @@ auch	auch	ADV	-	0:25:18.366000	0:25:19.540000
 nicht	nicht	PART	-	0:25:18.366000	0:25:19.540000
 interessiert	interessieren	ADJ	-	0:25:18.366000	0:25:19.540000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:19.540000" end="0:25:20.033000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:19.540000" end="0:25:20.033000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:19.540000	0:25:20.033000
 .	-	-	-	0:25:19.540000	0:25:20.033000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:19.540000" end="0:25:22.746000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:19.540000" end="0:25:22.746000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:25:19.540000	0:25:20.033000
 und	und	CCONJ	-	0:25:19.540000	0:25:20.033000
 /.	-	-	-	0:25:19.540000	0:25:20.033000
@@ -6772,9 +6772,9 @@ können	können	VERB	-	0:25:20.033000	0:25:22.746000
 aber	aber	ADV	-	0:25:20.033000	0:25:22.746000
 /.	-	-	-	0:25:20.033000	0:25:22.746000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:22.746000" end="0:25:23.160000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:22.746000" end="0:25:23.160000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:23.160000" end="0:25:26.133000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:23.160000" end="0:25:26.133000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 jetzt	jetzt	ADV	-	0:25:23.160000	0:25:24.660000
 bin	sein	AUX	-	0:25:23.160000	0:25:24.660000
@@ -6788,11 +6788,11 @@ Englisch	Englisch	NOUN	-	0:25:24.660000	0:25:26.133000
 kann	können	VERB	-	0:25:24.660000	0:25:26.133000
 .	-	-	-	0:25:24.660000	0:25:26.133000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:26.133000" end="0:25:27.680000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:26.133000" end="0:25:27.680000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:26.133000	0:25:26.586000
 <pause duration="räuspern"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:26.586000" end="0:25:36.293000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:26.586000" end="0:25:36.293000" age_lower="18" age_upper="35">
 das	der	DET	-	0:25:26.586000	0:25:27.680000
 passt	passt	PROPN	-	0:25:26.586000	0:25:27.680000
 dann	dann	ADV	-	0:25:26.586000	0:25:27.680000
@@ -6820,7 +6820,7 @@ wir	ich	PRON	-	0:25:35.673000	0:25:36.293000
 mal	mal	ADV	-	0:25:35.673000	0:25:36.293000
 .	-	-	-	0:25:35.673000	0:25:36.293000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:36.293000" end="0:25:37.986000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:36.293000" end="0:25:37.986000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:25:36.293000	0:25:37.986000
 alt	alt	ADJ	-	0:25:36.293000	0:25:37.986000
 sind	sein	AUX	-	0:25:36.293000	0:25:37.986000
@@ -6832,7 +6832,7 @@ nicht	nicht	PART	-	0:25:36.293000	0:25:37.986000
 oder	oder	CCONJ	-	0:25:36.293000	0:25:37.986000
 ?	-	-	-	0:25:36.293000	0:25:37.986000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:37.986000" end="0:25:40.946000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:37.986000" end="0:25:40.946000" age_lower="18" age_upper="35">
 Vereine	Verein	NOUN	-	0:25:37.986000	0:25:39.686000
 am	am	ADP	-	0:25:37.986000	0:25:39.686000
 Ort	Ort	NOUN	-	0:25:37.986000	0:25:39.686000
@@ -6842,18 +6842,18 @@ früher	früh	ADJ	-	0:25:37.986000	0:25:39.686000
 ich	ich	PRON	-	0:25:39.686000	0:25:40.946000
 weiß	weiß	VERB	-	0:25:39.686000	0:25:40.946000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:40.946000" end="0:25:41.446000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:40.946000" end="0:25:41.446000" age_lower="18" age_upper="35">
 erzähle	erzählen	NOUN	-	0:25:40.946000	0:25:41.446000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:40.946000" end="0:25:41.446000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:40.946000" end="0:25:41.446000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:25:40.946000	0:25:41.446000
 /.	-	-	-	0:25:40.946000	0:25:41.446000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:41.446000" end="0:25:44.733000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:41.446000" end="0:25:44.733000" age_lower="18" age_upper="35">
 von	von	ADP	-	0:25:41.446000	0:25:41.726000
 .	-	-	-	0:25:41.446000	0:25:41.726000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:41.726000" end="0:25:44.733000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:41.726000" end="0:25:44.733000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:41.726000	0:25:44.733000
 aber	aber	ADV	-	0:25:41.726000	0:25:44.733000
 was	was	PRON	-	0:25:41.726000	0:25:44.733000
@@ -6862,7 +6862,7 @@ was	was	PRON	-	0:25:41.726000	0:25:44.733000
 also	also	ADV	-	0:25:41.726000	0:25:44.733000
 /.	-	-	-	0:25:41.726000	0:25:44.733000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:44.733000" end="0:25:47.746000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:44.733000" end="0:25:47.746000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:25:44.733000	0:25:47.746000
 glaube	glauben	VERB	-	0:25:44.733000	0:25:47.746000
 ,	-	-	-	0:25:44.733000	0:25:47.746000
@@ -6876,18 +6876,18 @@ für	für	ADP	-	0:25:44.733000	0:25:47.746000
 die	der	PRON	-	0:25:44.733000	0:25:47.746000
 /.	-	-	-	0:25:44.733000	0:25:47.746000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:47.746000" end="0:25:48.273000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:47.746000" end="0:25:48.273000" age_lower="18" age_upper="35">
 ach	ach	X	-	0:25:47.746000	0:25:48.273000
 so	so	ADV	-	0:25:47.746000	0:25:48.273000
 ,	-	-	-	0:25:47.746000	0:25:48.273000
 ältere	alt	NOUN	-	0:25:47.746000	0:25:48.273000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:48.273000" end="0:25:49.293000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:48.273000" end="0:25:49.293000" age_lower="18" age_upper="35">
 ältere	alt	ADJ	-	0:25:48.273000	0:25:49.293000
 Generation	Generation	NOUN	-	0:25:48.273000	0:25:49.293000
 .	-	-	-	0:25:48.273000	0:25:49.293000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:49.293000" end="0:25:59.226000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:49.293000" end="0:25:59.226000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:49.293000	0:25:49.726000
 ähm	ähm	DET	-	0:25:49.293000	0:25:49.726000
 oh	-	-	-	0:25:49.726000	0:25:50.506000
@@ -6930,10 +6930,10 @@ Erlebnis	Erlebnis	NOUN	-	0:25:53.400000	0:25:59.226000
 bitte	bitte	ADV	-	0:25:53.400000	0:25:59.226000
 .	-	-	-	0:25:53.400000	0:25:59.226000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:59.226000" end="0:26:00.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:59.226000" end="0:26:00.140000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:25:59.226000	0:26:00.140000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:59.226000" end="0:26:02.820000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:25:59.226000" end="0:26:02.820000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 jetzt	jetzt	ADV	-	0:26:00.140000	0:26:02.820000
 kommst	kommen	VERB	-	0:26:00.140000	0:26:02.820000
@@ -6944,7 +6944,7 @@ oder	oder	CCONJ	-	0:26:00.140000	0:26:02.820000
 so	so	ADV	-	0:26:00.140000	0:26:02.820000
 .	-	-	-	0:26:00.140000	0:26:02.820000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:02.820000" end="0:26:06.926000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:02.820000" end="0:26:06.926000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:02.820000	0:26:05.746000
 .	-	-	-	0:26:02.820000	0:26:05.746000
 die	der	DET	-	0:26:02.820000	0:26:05.746000
@@ -6964,11 +6964,11 @@ Bergen	Berg	NOUN	-	0:26:05.746000	0:26:06.926000
 ja	ja	PART	-	0:26:05.746000	0:26:06.926000
 .	-	-	-	0:26:05.746000	0:26:06.926000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:06.926000" end="0:26:07.166000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:06.926000" end="0:26:07.166000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:06.926000	0:26:07.166000
 .	-	-	-	0:26:06.926000	0:26:07.166000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:07.166000" end="0:26:10.073000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:07.166000" end="0:26:10.073000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	ADV	-	0:26:07.166000	0:26:10.073000
 eben	eben	ADV	-	0:26:07.166000	0:26:10.073000
@@ -6976,10 +6976,10 @@ eben	im	ADP	-	0:26:07.166000	0:26:10.073000
 die	-	-	-	0:26:07.166000	0:26:10.073000
 Nepalreise	Nepalreise	NOUN	-	0:26:07.166000	0:26:10.073000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:10.073000" end="0:26:11.013000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:10.073000" end="0:26:11.013000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:10.073000	0:26:11.013000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:11.013000" end="0:26:25.760000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:11.013000" end="0:26:25.760000" age_lower="18" age_upper="35">
 zweitausendsechzehn	zweitausendsechzehn	NUM	-	0:26:11.013000	0:26:12.186000
 .	-	-	-	0:26:11.013000	0:26:12.186000
 <pause duration="1,4s"/>
@@ -7026,7 +7026,7 @@ an	an	ADP	-	0:26:25.333000	0:26:25.760000
 die	der	PRON	-	0:26:25.333000	0:26:25.760000
 /.	-	-	-	0:26:25.333000	0:26:25.760000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:25.333000" end="0:26:26.646000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:25.333000" end="0:26:26.646000" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:26:25.333000	0:26:25.760000
 hoch	hoch	ADJ	-	0:26:25.333000	0:26:25.760000
 seit	seit	SCONJ	-	0:26:25.333000	0:26:25.760000
@@ -7035,7 +7035,7 @@ da	da	ADV	-	0:26:25.760000	0:26:26.646000
 aufgestiegen	aufsteigen	VERB	-	0:26:25.760000	0:26:26.646000
 ?	-	-	-	0:26:25.760000	0:26:26.646000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:26.646000" end="0:26:32.540000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:26.646000" end="0:26:32.540000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:26:26.646000	0:26:32.540000
 das	der	PRON	-	0:26:26.646000	0:26:32.540000
 höch/	-	-	-	0:26:26.646000	0:26:32.540000
@@ -7055,7 +7055,7 @@ noch	noch	ADV	-	0:26:26.646000	0:26:32.540000
 was	was	PRON	-	0:26:26.646000	0:26:32.540000
 .	-	-	-	0:26:26.646000	0:26:32.540000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:32.540000" end="0:26:34.166000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:32.540000" end="0:26:34.166000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:26:32.540000	0:26:34.166000
 wie	wie	ADV	-	0:26:32.540000	0:26:34.166000
@@ -7063,7 +7063,7 @@ war	sein	AUX	-	0:26:32.540000	0:26:34.166000
 das	der	PRON	-	0:26:32.540000	0:26:34.166000
 ?	-	-	-	0:26:32.540000	0:26:34.166000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:34.166000" end="0:26:39.920000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:34.166000" end="0:26:39.920000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:26:34.166000	0:26:36.060000
 das	der	DET	-	0:26:34.166000	0:26:36.060000
 das	der	PRON	-	0:26:34.166000	0:26:36.060000
@@ -7083,11 +7083,11 @@ Kilimandscharo	Kilimandscharo	PROPN	-	0:26:36.060000	0:26:37.973000
 also	also	ADV	-	0:26:37.973000	0:26:38.480000
 /.	-	-	-	0:26:37.973000	0:26:38.480000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:38.480000" end="0:26:39.920000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:38.480000" end="0:26:39.920000" age_lower="18" age_upper="35">
 hm	hm	X	-	0:26:38.480000	0:26:39.920000
 ?	-	-	-	0:26:38.480000	0:26:39.920000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:39.920000" end="0:26:43.566000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:39.920000" end="0:26:43.566000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	der	PRON	-	0:26:39.920000	0:26:42.946000
 war	sein	AUX	-	0:26:39.920000	0:26:42.946000
@@ -7103,21 +7103,21 @@ es	ich	PRON	-	0:26:42.946000	0:26:43.566000
 nicht	nicht	PART	-	0:26:42.946000	0:26:43.566000
 .	-	-	-	0:26:42.946000	0:26:43.566000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:43.566000" end="0:26:44.340000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:43.566000" end="0:26:44.340000" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:26:43.566000	0:26:44.340000
 hoch	hoch	ADJ	-	0:26:43.566000	0:26:44.340000
 ist	sein	AUX	-	0:26:43.566000	0:26:44.340000
 der	der	PRON	-	0:26:43.566000	0:26:44.340000
 ?	-	-	-	0:26:43.566000	0:26:44.340000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:44.340000" end="0:26:46.893000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:44.340000" end="0:26:46.893000" age_lower="18" age_upper="35">
 fünf/	-	-	-	0:26:44.340000	0:26:46.893000
 fünf	fünf	NUM	-	0:26:44.340000	0:26:46.893000
 acht	acht	NUM	-	0:26:44.340000	0:26:46.893000
 achtundneunzig	achtundneunzig	ADJ	-	0:26:44.340000	0:26:46.893000
 .	-	-	-	0:26:44.340000	0:26:46.893000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:46.893000" end="0:26:50.900000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:46.893000" end="0:26:50.900000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 musst	musst	PROPN	-	0:26:46.893000	0:26:50.120000
 du	du	PRON	-	0:26:46.893000	0:26:50.120000
@@ -7141,13 +7141,13 @@ so	so	ADV	-	0:26:50.120000	0:26:50.900000
 vor	vor	ADP	-	0:26:50.120000	0:26:50.900000
 .	-	-	-	0:26:50.120000	0:26:50.900000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:50.900000" end="0:26:51.653000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:50.900000" end="0:26:51.653000" age_lower="18" age_upper="35">
 Hö/	-	-	-	0:26:50.900000	0:26:51.653000
 Höhe	-	-	-	0:26:50.900000	0:26:51.653000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:50.900000" end="0:26:51.653000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:50.900000" end="0:26:51.653000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:51.653000" end="0:26:53.566000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:51.653000" end="0:26:53.566000" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:26:51.653000	0:26:52.620000
 nicht	-	-	-	0:26:51.653000	0:26:52.620000
 trainieren	-	-	-	0:26:51.653000	0:26:52.620000
@@ -7157,11 +7157,11 @@ ist	sein	AUX	-	0:26:52.620000	0:26:53.193000
 was	was	PRON	-	0:26:53.193000	0:26:53.566000
 ,	-	-	-	0:26:53.193000	0:26:53.566000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:53.193000" end="0:26:53.566000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:53.193000" end="0:26:53.566000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:53.193000	0:26:53.566000
 .	-	-	-	0:26:53.193000	0:26:53.566000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:53.566000" end="0:27:03.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:26:53.566000" end="0:27:03.660000" age_lower="18" age_upper="35">
 *wast*	-	-	-	0:26:53.566000	0:26:55.500000
 einfach	-	-	-	0:26:53.566000	0:26:55.500000
 langsam	-	-	-	0:26:53.566000	0:26:55.500000
@@ -7191,17 +7191,17 @@ ist	sein	AUX	-	0:27:00.946000	0:27:03.660000
 aber	aber	ADV	-	0:27:00.946000	0:27:03.660000
 /.	-	-	-	0:27:00.946000	0:27:03.660000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:03.660000" end="0:27:04.513000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:03.660000" end="0:27:04.513000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:27:03.660000	0:27:04.513000
 habe	habe	AUX	-	0:27:03.660000	0:27:04.513000
 das	der	PRON	-	0:27:03.660000	0:27:04.513000
 da	da	ADV	-	0:27:03.660000	0:27:04.513000
 damals	damals	ADV	-	0:27:03.660000	0:27:04.513000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:04.513000" end="0:27:05.006000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:04.513000" end="0:27:05.006000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:04.513000	0:27:05.006000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:04.513000" end="0:27:07.133000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:04.513000" end="0:27:07.133000" age_lower="18" age_upper="35">
 beim	beim	ADP	-	0:27:04.513000	0:27:05.006000
 wie	wie	CCONJ	-	0:27:05.006000	0:27:07.133000
 bei	bei	ADP	-	0:27:05.006000	0:27:07.133000
@@ -7214,10 +7214,10 @@ am	am	ADP	-	0:27:05.006000	0:27:07.133000
 Matterhorn	Matterhorn	NOUN	-	0:27:05.006000	0:27:07.133000
 draußen	draußen	ADV	-	0:27:05.006000	0:27:07.133000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:07.133000" end="0:27:07.693000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:07.133000" end="0:27:07.693000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:07.133000	0:27:07.693000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:07.133000" end="0:27:12.640000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:07.133000" end="0:27:12.640000" age_lower="18" age_upper="35">
 in	in	ADP	-	0:27:07.133000	0:27:07.693000
 der	der	DET	-	0:27:07.133000	0:27:07.693000
 Schweiz	Schweiz	PROPN	-	0:27:07.133000	0:27:07.693000
@@ -7243,10 +7243,10 @@ es	ich	PRON	-	0:27:12.060000	0:27:12.640000
 jetzt	jetzt	ADV	-	0:27:12.060000	0:27:12.640000
 schlimm	schlimm	ADJ	-	0:27:12.060000	0:27:12.640000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:12.640000" end="0:27:12.973000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:12.640000" end="0:27:12.973000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:12.640000	0:27:12.973000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:12.640000" end="0:27:15.520000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:12.640000" end="0:27:15.520000" age_lower="18" age_upper="35">
 gefunden	finden	VERB	-	0:27:12.640000	0:27:12.973000
 habe	habe	AUX	-	0:27:12.973000	0:27:15.520000
 ,	-	-	-	0:27:12.973000	0:27:15.520000
@@ -7262,7 +7262,7 @@ Höhe	Höhe	NOUN	-	0:27:12.973000	0:27:15.520000
 irgendwie	irgendwie	ADV	-	0:27:12.973000	0:27:15.520000
 .	-	-	-	0:27:12.973000	0:27:15.520000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:15.520000" end="0:27:18.706000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:15.520000" end="0:27:18.706000" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:27:15.520000	0:27:18.706000
 ihr	mein	PRON	-	0:27:15.520000	0:27:18.706000
 seit	seit	ADP	-	0:27:15.520000	0:27:18.706000
@@ -7280,7 +7280,7 @@ hoch	hoch	ADJ	-	0:27:15.520000	0:27:18.706000
 hinaufgefahren	hinaufgefahren	VERB	-	0:27:15.520000	0:27:18.706000
 .	-	-	-	0:27:15.520000	0:27:18.706000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:18.706000" end="0:27:20.766000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:18.706000" end="0:27:20.766000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:18.706000	0:27:20.766000
 ,	-	-	-	0:27:18.706000	0:27:20.766000
 also	also	ADV	-	0:27:18.706000	0:27:20.766000
@@ -7295,10 +7295,10 @@ nicht	nicht	PART	-	0:27:18.706000	0:27:20.766000
 hinaufgewandert	hinaufgewandert	VERB	-	0:27:18.706000	0:27:20.766000
 .	-	-	-	0:27:18.706000	0:27:20.766000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:20.766000" end="0:27:21.020000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:20.766000" end="0:27:21.020000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:20.766000	0:27:21.020000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:20.766000" end="0:27:21.846000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:20.766000" end="0:27:21.846000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:27:20.766000	0:27:21.020000
 war	sein	AUX	-	0:27:21.020000	0:27:21.846000
 /.	-	-	-	0:27:21.020000	0:27:21.846000
@@ -7307,11 +7307,11 @@ weiß	weiß	VERB	-	0:27:21.020000	0:27:21.846000
 ja	ja	PART	-	0:27:21.020000	0:27:21.846000
 ,	-	-	-	0:27:21.020000	0:27:21.846000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:21.846000" end="0:27:22.393000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:21.846000" end="0:27:22.393000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:21.846000	0:27:22.393000
 .	-	-	-	0:27:21.846000	0:27:22.393000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:21.846000" end="0:27:24.306000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:21.846000" end="0:27:24.306000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:27:21.846000	0:27:22.393000
 ist	sein	AUX	-	0:27:21.846000	0:27:22.393000
 ja	ja	ADV	-	0:27:21.846000	0:27:22.393000
@@ -7328,18 +7328,18 @@ Körper	Körper	NOUN	-	0:27:23.233000	0:27:24.306000
 sich	sich	PRON	-	0:27:23.233000	0:27:24.306000
 nicht	nicht	PART	-	0:27:23.233000	0:27:24.306000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:24.306000" end="0:27:25.040000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:24.306000" end="0:27:25.040000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:24.306000	0:27:25.040000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:24.306000" end="0:27:25.040000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:24.306000" end="0:27:25.040000" age_lower="18" age_upper="35">
 anpassen	anpassen	VERB	-	0:27:24.306000	0:27:25.040000
 kann	können	VERB	-	0:27:24.306000	0:27:25.040000
 .	-	-	-	0:27:24.306000	0:27:25.040000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:25.040000" end="0:27:25.326000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:25.040000" end="0:27:25.326000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:25.040000	0:27:25.326000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:25.326000" end="0:27:31.640000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:25.326000" end="0:27:31.640000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:27:25.326000	0:27:27.366000
 nachher	nachher	ADV	-	0:27:25.326000	0:27:27.366000
 eben	eben	ADV	-	0:27:25.326000	0:27:27.366000
@@ -7376,10 +7376,10 @@ glaube	glauben	VERB	-	0:27:29.640000	0:27:31.640000
 ich	ich	PRON	-	0:27:29.640000	0:27:31.640000
 nicht	nicht	PART	-	0:27:29.640000	0:27:31.640000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:31.640000" end="0:27:32.026000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:31.640000" end="0:27:32.026000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:31.640000	0:27:32.026000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:31.640000" end="0:27:34.346000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:31.640000" end="0:27:34.346000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:27:31.640000	0:27:32.026000
 gepasst	gepasst	VERB	-	0:27:31.640000	0:27:32.026000
 .	-	-	-	0:27:31.640000	0:27:32.026000
@@ -7397,7 +7397,7 @@ gehabt	haben	AUX	-	0:27:32.026000	0:27:34.346000
 haben	haben	AUX	-	0:27:32.026000	0:27:34.346000
 .	-	-	-	0:27:32.026000	0:27:34.346000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:34.346000" end="0:27:37.400000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:34.346000" end="0:27:37.400000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:27:34.346000	0:27:36.933000
 meine	meinen	VERB	-	0:27:34.346000	0:27:36.933000
 ,	-	-	-	0:27:34.346000	0:27:36.933000
@@ -7412,10 +7412,10 @@ Aufstieg	Aufstieg	NOUN	-	0:27:34.346000	0:27:36.933000
 schneller	schnell	ADJ	-	0:27:34.346000	0:27:36.933000
 und	und	CCONJ	-	0:27:36.933000	0:27:37.400000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:36.933000" end="0:27:37.400000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:36.933000" end="0:27:37.400000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:36.933000	0:27:37.400000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:37.400000" end="0:27:52.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:37.400000" end="0:27:52.660000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 eben	eben	ADV	-	0:27:37.400000	0:27:40.406000
 es	ich	PRON	-	0:27:37.400000	0:27:40.406000
@@ -7474,14 +7474,14 @@ mein	meinen	DET	-	0:27:51.526000	0:27:52.660000
 Bruder	Bruder	NOUN	-	0:27:51.526000	0:27:52.660000
 .	-	-	-	0:27:51.526000	0:27:52.660000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:52.660000" end="0:27:53.300000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:52.660000" end="0:27:53.300000" age_lower="18" age_upper="35">
 ach	ach	VERB	-	0:27:52.660000	0:27:53.300000
 so	so	ADV	-	0:27:52.660000	0:27:53.300000
 ,	-	-	-	0:27:52.660000	0:27:53.300000
 nein	nein	PART	-	0:27:52.660000	0:27:53.300000
 .	-	-	-	0:27:52.660000	0:27:53.300000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:53.300000" end="0:28:12.640000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:27:53.300000" end="0:28:12.640000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:27:53.300000	0:27:56.213000
 (er)	ich	PRON	-	0:27:53.300000	0:27:56.213000
 war	sein	AUX	-	0:27:53.300000	0:27:56.213000
@@ -7543,7 +7543,7 @@ Gene	Gen	NOUN	-	0:28:09.173000	0:28:12.640000
 habe	habe	AUX	-	0:28:09.173000	0:28:12.640000
 .	-	-	-	0:28:09.173000	0:28:12.640000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:12.640000" end="0:28:14.286000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:12.640000" end="0:28:14.286000" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:28:12.640000	0:28:14.286000
 deine	mein	DET	-	0:28:12.640000	0:28:14.286000
 Eltern	Eltern	NOUN	-	0:28:12.640000	0:28:14.286000
@@ -7556,7 +7556,7 @@ oder	oder	CCONJ	-	0:28:12.640000	0:28:14.286000
 was	was	PRON	-	0:28:12.640000	0:28:14.286000
 ?	-	-	-	0:28:12.640000	0:28:14.286000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:14.286000" end="0:28:22.480000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:14.286000" end="0:28:22.480000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:28:14.286000	0:28:14.660000
 <pause duration="1,0s"/>
 also	also	ADV	-	0:28:14.660000	0:28:18.600000
@@ -7588,22 +7588,22 @@ Bergsteigen	Bergsteigen	NOUN	-	0:28:20.866000	0:28:22.480000
 kennengelernt	kennenlernen	VERB	-	0:28:20.866000	0:28:22.480000
 .	-	-	-	0:28:20.866000	0:28:22.480000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:22.480000" end="0:28:23.460000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:22.480000" end="0:28:23.460000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ah	ah	X	-	0:28:22.480000	0:28:23.460000
 echt	echt	ADJ	-	0:28:22.480000	0:28:23.460000
 ?	-	-	-	0:28:22.480000	0:28:23.460000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:23.460000" end="0:28:23.946000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:23.460000" end="0:28:23.946000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:28:23.460000	0:28:23.946000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:23.460000" end="0:28:23.946000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:23.460000" end="0:28:23.946000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:23.946000" end="0:28:25.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:23.946000" end="0:28:25.660000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:28:23.946000	0:28:24.313000
 .	-	-	-	0:28:23.946000	0:28:24.313000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:24.313000" end="0:28:25.660000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:24.313000" end="0:28:25.660000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:24.313000	0:28:25.660000
 ,	-	-	-	0:28:24.313000	0:28:25.660000
 das	der	PRON	-	0:28:24.313000	0:28:25.660000
@@ -7614,12 +7614,12 @@ alles	alle	PRON	-	0:28:24.313000	0:28:25.660000
 nicht	nicht	PART	-	0:28:24.313000	0:28:25.660000
 .	-	-	-	0:28:24.313000	0:28:25.660000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:25.660000" end="0:28:26.620000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:25.660000" end="0:28:26.620000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:25.660000" end="0:28:26.620000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:25.660000" end="0:28:26.620000" age_lower="18" age_upper="35">
 *siehst*	-	-	-	0:28:25.660000	0:28:26.620000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:26.620000" end="0:28:28.113000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:26.620000" end="0:28:28.113000" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:28:26.620000	0:28:28.113000
 ja	ja	ADV	-	0:28:26.620000	0:28:28.113000
 auch	auch	ADV	-	0:28:26.620000	0:28:28.113000
@@ -7630,7 +7630,7 @@ Jahrle	Jahrle	NOUN	-	0:28:26.620000	0:28:28.113000
 her	her	ADP	-	0:28:26.620000	0:28:28.113000
 .	-	-	-	0:28:26.620000	0:28:28.113000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:28.113000" end="0:28:30.966000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:28.113000" end="0:28:30.966000" age_lower="18" age_upper="35">
 ah	-	-	-	0:28:28.113000	0:28:30.966000
 jetzt	-	-	-	0:28:28.113000	0:28:30.966000
 schaue	-	-	-	0:28:28.113000	0:28:30.966000
@@ -7644,13 +7644,13 @@ euch	-	-	-	0:28:28.113000	0:28:30.966000
 rein	-	-	-	0:28:28.113000	0:28:30.966000
 .	-	-	-	0:28:28.113000	0:28:30.966000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:30.966000" end="0:28:33.480000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:30.966000" end="0:28:33.480000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:30.966000" end="0:28:34.906000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:30.966000" end="0:28:34.906000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 mhm	mhm	VERB	-	0:28:33.480000	0:28:34.906000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:34.906000" end="0:28:41.426000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:34.906000" end="0:28:41.426000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ja	ja	ADV	-	0:28:34.906000	0:28:41.426000
 jetzt	jetzt	ADV	-	0:28:34.906000	0:28:41.426000
@@ -7668,7 +7668,7 @@ schönsten	schön	ADJ	-	0:28:34.906000	0:28:41.426000
 Erlebnisse	Erlebnis	NOUN	-	0:28:34.906000	0:28:41.426000
 .	-	-	-	0:28:34.906000	0:28:41.426000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:41.426000" end="0:28:45.453000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:41.426000" end="0:28:45.453000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 also	also	ADV	-	0:28:41.426000	0:28:45.453000
 du	du	PRON	-	0:28:41.426000	0:28:45.453000
@@ -7687,7 +7687,7 @@ oben	oben	ADV	-	0:28:41.426000	0:28:45.453000
 gewesen	sein	AUX	-	0:28:41.426000	0:28:45.453000
 .	-	-	-	0:28:41.426000	0:28:45.453000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:45.453000" end="0:28:47.226000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:45.453000" end="0:28:47.226000" age_lower="18" age_upper="35">
 in	in	ADP	-	0:28:45.453000	0:28:47.226000
 Österreich	Österreich	PROPN	-	0:28:45.453000	0:28:47.226000
 gibt	geben	VERB	-	0:28:45.453000	0:28:47.226000
@@ -7696,28 +7696,28 @@ viele	viel	DET	-	0:28:45.453000	0:28:47.226000
 Berge	Berg	NOUN	-	0:28:45.453000	0:28:47.226000
 .	-	-	-	0:28:45.453000	0:28:47.226000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:47.226000" end="0:28:48.466000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:47.226000" end="0:28:48.466000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:47.226000	0:28:48.466000
 oder	oder	CCONJ	-	0:28:47.226000	0:28:48.466000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:48.466000" end="0:28:49.080000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:48.466000" end="0:28:49.080000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:28:48.466000	0:28:49.080000
 viel	viel	DET	-	0:28:48.466000	0:28:49.080000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:48.466000" end="0:28:49.080000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:48.466000" end="0:28:49.080000" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:28:48.466000	0:28:49.080000
 es	ich	PRON	-	0:28:48.466000	0:28:49.080000
 halt	halt	ADV	-	0:28:48.466000	0:28:49.080000
 /.	-	-	-	0:28:48.466000	0:28:49.080000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:49.080000" end="0:28:52.213000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:49.080000" end="0:28:52.213000" age_lower="18" age_upper="35">
 Zeit	Zeit	NOUN	-	0:28:49.080000	0:28:50.373000
 habe	habe	AUX	-	0:28:49.080000	0:28:50.373000
 ich	ich	PRON	-	0:28:49.080000	0:28:50.373000
 nicht	nicht	PART	-	0:28:49.080000	0:28:50.373000
 .	-	-	-	0:28:49.080000	0:28:50.373000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:50.373000" end="0:28:55.946000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:50.373000" end="0:28:55.946000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:28:50.373000	0:28:52.213000
 ?	-	-	-	0:28:50.373000	0:28:52.213000
 okay	okay	NOUN	-	0:28:50.373000	0:28:52.213000
@@ -7748,7 +7748,7 @@ und	und	CCONJ	-	0:28:52.213000	0:28:55.946000
 so	so	ADV	-	0:28:52.213000	0:28:55.946000
 .	-	-	-	0:28:52.213000	0:28:55.946000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:55.946000" end="0:28:57.686000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:55.946000" end="0:28:57.686000" age_lower="18" age_upper="35">
 am	am	ADP	-	0:28:55.946000	0:28:57.233000
 am	am	ADP	-	0:28:55.946000	0:28:57.233000
 Glockner	Glockner	NOUN	-	0:28:55.946000	0:28:57.233000
@@ -7756,10 +7756,10 @@ war	sein	AUX	-	0:28:57.233000	0:28:57.686000
 ich	ich	PRON	-	0:28:57.233000	0:28:57.686000
 ,	-	-	-	0:28:57.233000	0:28:57.686000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:57.233000" end="0:28:57.686000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:57.233000" end="0:28:57.686000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:28:57.233000	0:28:57.686000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:57.686000" end="0:29:02.813000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:28:57.686000" end="0:29:02.813000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:28:57.686000	0:28:59.540000
 aber	aber	ADV	-	0:28:57.686000	0:28:59.540000
 <pause duration="0,9s"/>
@@ -7782,12 +7782,12 @@ in	in	ADP	-	0:29:01.666000	0:29:02.813000
 Österreich	Österreich	PROPN	-	0:29:01.666000	0:29:02.813000
 .	-	-	-	0:29:01.666000	0:29:02.813000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:02.813000" end="0:29:04.100000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:02.813000" end="0:29:04.100000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 okay	okay	PROPN	-	0:29:02.813000	0:29:04.100000
 .	-	-	-	0:29:02.813000	0:29:04.100000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:04.100000" end="0:29:06.880000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:04.100000" end="0:29:06.880000" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:29:04.100000	0:29:05.946000
 bei	bei	ADP	-	0:29:04.100000	0:29:05.946000
 uns	sich	PRON	-	0:29:04.100000	0:29:05.946000
@@ -7805,7 +7805,7 @@ oben	oben	ADV	-	0:29:05.946000	0:29:06.880000
 war	sein	AUX	-	0:29:05.946000	0:29:06.880000
 .	-	-	-	0:29:05.946000	0:29:06.880000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:06.880000" end="0:29:08.546000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:06.880000" end="0:29:08.546000" age_lower="18" age_upper="35">
 wieso	wieso	ADV	-	0:29:06.880000	0:29:08.546000
 ?	-	-	-	0:29:06.880000	0:29:08.546000
 wo	wo	ADV	-	0:29:06.880000	0:29:08.546000
@@ -7815,7 +7815,7 @@ du	du	PRON	-	0:29:06.880000	0:29:08.546000
 hinauf	hinauf	ADP	-	0:29:06.880000	0:29:08.546000
 ?	-	-	-	0:29:06.880000	0:29:08.546000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:08.546000" end="0:29:09.793000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:08.546000" end="0:29:09.793000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:29:08.546000	0:29:09.793000
 ,	-	-	-	0:29:08.546000	0:29:09.793000
 gibt	geben	VERB	-	0:29:08.546000	0:29:09.793000
@@ -7823,7 +7823,7 @@ ja	ja	ADV	-	0:29:08.546000	0:29:09.793000
 genug	genug	PRON	-	0:29:08.546000	0:29:09.793000
 .	-	-	-	0:29:08.546000	0:29:09.793000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:09.793000" end="0:29:12.720000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:09.793000" end="0:29:12.720000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:29:09.793000	0:29:12.720000
 (aber)	-	-	-	0:29:09.793000	0:29:12.720000
@@ -7833,26 +7833,26 @@ berauschenden	berauschend	VERB	-	0:29:09.793000	0:29:12.720000
 oder	oder	CCONJ	-	0:29:09.793000	0:29:12.720000
 ?	-	-	-	0:29:09.793000	0:29:12.720000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:12.720000" end="0:29:13.406000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:12.720000" end="0:29:13.406000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:13.406000" end="0:29:13.673000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:13.406000" end="0:29:13.673000" age_lower="18" age_upper="35">
 was	-	-	-	0:29:13.406000	0:29:13.673000
 sagst	-	-	-	0:29:13.406000	0:29:13.673000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:13.673000" end="0:29:14.100000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:13.673000" end="0:29:14.100000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:13.673000	0:29:14.100000
 aber	aber	ADV	-	0:29:13.673000	0:29:14.100000
 schön	schön	ADJ	-	0:29:13.673000	0:29:14.100000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:13.673000" end="0:29:14.100000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:13.673000" end="0:29:14.100000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:14.100000" end="0:29:16.666000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:14.100000" end="0:29:16.666000" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:29:14.100000	0:29:14.900000
 sie	ich	PRON	-	0:29:14.100000	0:29:14.900000
 auch	auch	ADV	-	0:29:14.100000	0:29:14.900000
 .	-	-	-	0:29:14.100000	0:29:14.900000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:14.900000" end="0:29:23.226000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:14.900000" end="0:29:23.226000" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:14.900000	0:29:16.666000
 eh	-	-	-	0:29:14.900000	0:29:16.666000
 na	-	-	-	0:29:14.900000	0:29:16.666000
@@ -7869,7 +7869,7 @@ auf	auf	ADP	-	0:29:16.666000	0:29:23.226000
 den	der	DET	-	0:29:16.666000	0:29:23.226000
 (Greim)	-	-	-	0:29:16.666000	0:29:23.226000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:23.226000" end="0:29:24.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:23.226000" end="0:29:24.140000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:29:23.226000	0:29:24.140000
 Person))	-	-	-	0:29:23.226000	0:29:24.140000
 SONSTIGE	SONSTIGE	-	-	0:29:23.226000	0:29:24.140000
@@ -7878,7 +7878,7 @@ wir	-	-	-	0:29:23.226000	0:29:24.140000
 schon	-	-	-	0:29:23.226000	0:29:24.140000
 SONSTIGE	SONSTIGE	-	-	0:29:23.226000	0:29:24.140000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:23.226000" end="0:29:32.793000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:23.226000" end="0:29:32.793000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:29:24.140000	0:29:27.053000
 ,	-	-	-	0:29:24.140000	0:29:27.053000
@@ -7912,10 +7912,10 @@ sind	sein	AUX	-	0:29:31.500000	0:29:32.793000
 wir	ich	PRON	-	0:29:31.500000	0:29:32.793000
 halt	halt	ADV	-	0:29:31.500000	0:29:32.793000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:32.793000" end="0:29:33.160000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:32.793000" end="0:29:33.160000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:29:32.793000	0:29:33.160000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:32.793000" end="0:29:34.373000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:32.793000" end="0:29:34.373000" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:29:32.793000	0:29:33.160000
 wir	ich	PRON	-	0:29:32.793000	0:29:33.160000
 gesagt	sagen	VERB	-	0:29:32.793000	0:29:33.160000
@@ -7929,11 +7929,11 @@ die	der	DET	-	0:29:33.160000	0:29:34.373000
 Alpen	Alpe	NOUN	-	0:29:33.160000	0:29:34.373000
 und	und	CCONJ	-	0:29:33.160000	0:29:34.373000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:34.373000" end="0:29:34.613000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:34.373000" end="0:29:34.613000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:34.373000	0:29:34.613000
 .	-	-	-	0:29:34.373000	0:29:34.613000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:34.373000" end="0:29:45.566000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:34.373000" end="0:29:45.566000" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:29:34.373000	0:29:34.613000
 bissle	bissle	ADJ	-	0:29:34.373000	0:29:34.613000
 Berge	Berg	NOUN	-	0:29:34.613000	0:29:35.120000
@@ -7987,11 +7987,11 @@ eingeschmiert	einschmieren	VERB	-	0:29:44.106000	0:29:45.566000
 gell	gell	ADJ	-	0:29:44.106000	0:29:45.566000
 ?	-	-	-	0:29:44.106000	0:29:45.566000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:45.566000" end="0:29:47.153000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:45.566000" end="0:29:47.153000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:29:45.566000	0:29:45.806000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:47.153000" end="0:29:52.233000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:47.153000" end="0:29:52.233000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:29:47.153000	0:29:49.313000
 am	am	ADP	-	0:29:47.153000	0:29:49.313000
 Berg	Berg	NOUN	-	0:29:47.153000	0:29:49.313000
@@ -8019,16 +8019,16 @@ brauchen	brauchen	VERB	-	0:29:51.733000	0:29:52.233000
 wir	ich	PRON	-	0:29:51.733000	0:29:52.233000
 nichts	nichts	PRON	-	0:29:51.733000	0:29:52.233000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.233000" end="0:29:52.913000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.233000" end="0:29:52.913000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:29:52.233000	0:29:52.913000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.233000" end="0:29:52.913000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.233000" end="0:29:52.913000" age_lower="18" age_upper="35">
 einschmieren	einschmieren	VERB	-	0:29:52.233000	0:29:52.913000
 .	-	-	-	0:29:52.233000	0:29:52.913000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.913000" end="0:29:54.913000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.913000" end="0:29:54.913000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.913000" end="0:29:59.200000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:52.913000" end="0:29:59.200000" age_lower="18" age_upper="35">
 da	da	SCONJ	-	0:29:52.913000	0:29:54.913000
 dann	dann	ADV	-	0:29:52.913000	0:29:54.913000
 kurze	kurze	ADJ	-	0:29:52.913000	0:29:54.913000
@@ -8050,11 +8050,11 @@ gehabt	haben	AUX	-	0:29:54.913000	0:29:57.760000
 das	der	PRON	-	0:29:57.760000	0:29:59.200000
 .	-	-	-	0:29:57.760000	0:29:59.200000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:59.200000" end="0:29:59.526000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:59.200000" end="0:29:59.526000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:29:59.200000	0:29:59.526000
 .	-	-	-	0:29:59.200000	0:29:59.526000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:59.526000" end="0:30:03.106000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:29:59.526000" end="0:30:03.106000" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:59.526000	0:30:00.746000
 *bist*	-	-	-	0:29:59.526000	0:30:00.746000
 deppert	-	-	-	0:29:59.526000	0:30:00.746000
@@ -8069,7 +8069,7 @@ nicht	nicht	PART	-	0:30:00.746000	0:30:03.106000
 passiert	passieren	VERB	-	0:30:00.746000	0:30:03.106000
 .	-	-	-	0:30:00.746000	0:30:03.106000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:03.106000" end="0:30:06.326000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:03.106000" end="0:30:06.326000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:30:03.106000	0:30:06.326000
 kriege	kriege	VERB	-	0:30:03.106000	0:30:06.326000
 auch	auch	ADV	-	0:30:03.106000	0:30:06.326000
@@ -8082,26 +8082,26 @@ beim	beim	ADP	-	0:30:03.106000	0:30:06.326000
 Berggehen	Berggehen	NOUN	-	0:30:03.106000	0:30:06.326000
 .	-	-	-	0:30:03.106000	0:30:06.326000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:06.326000" end="0:30:06.640000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:06.326000" end="0:30:06.640000" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:30:06.326000	0:30:06.640000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:06.640000" end="0:30:08.853000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:06.640000" end="0:30:08.853000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:30:06.640000	0:30:07.386000
 /.	-	-	-	0:30:06.640000	0:30:07.386000
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:30:07.386000	0:30:08.853000
 .	-	-	-	0:30:07.386000	0:30:08.853000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:07.386000" end="0:30:08.853000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:07.386000" end="0:30:08.853000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 das	der	PRON	-	0:30:07.386000	0:30:08.853000
 ist	sein	AUX	-	0:30:07.386000	0:30:08.853000
 wild	wild	ADJ	-	0:30:07.386000	0:30:08.853000
 .	-	-	-	0:30:07.386000	0:30:08.853000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:08.853000" end="0:30:10.260000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:08.853000" end="0:30:10.260000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:08.853000" end="0:30:13.273000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:08.853000" end="0:30:13.273000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 ach	ach	X	-	0:30:10.260000	0:30:13.273000
 so	so	ADV	-	0:30:10.260000	0:30:13.273000
@@ -8111,14 +8111,14 @@ du	du	PRON	-	0:30:10.260000	0:30:13.273000
 wieder	wieder	ADV	-	0:30:10.260000	0:30:13.273000
 dran	dran	ADV	-	0:30:10.260000	0:30:13.273000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:13.273000" end="0:30:13.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:13.273000" end="0:30:13.660000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:30:13.273000	0:30:13.660000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:13.273000" end="0:30:13.660000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:13.273000" end="0:30:13.660000" age_lower="18" age_upper="35">
 gell	gell	ADJ	-	0:30:13.273000	0:30:13.660000
 ?	-	-	-	0:30:13.273000	0:30:13.660000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:13.660000" end="0:30:36.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:13.660000" end="0:30:36.660000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:13.660000	0:30:14.126000
 .	-	-	-	0:30:13.660000	0:30:14.126000
 <pause duration="6,6s"/>
@@ -8145,7 +8145,7 @@ alles	alle	PRON	-	0:30:26.806000	0:30:36.660000
 /.	-	-	-	0:30:26.806000	0:30:36.660000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:36.660000" end="0:30:37.766000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:36.660000" end="0:30:37.766000" age_lower="18" age_upper="35">
 schauen	schauen	VERB	-	0:30:36.660000	0:30:37.766000
 wir	ich	PRON	-	0:30:36.660000	0:30:37.766000
 die	der	DET	-	0:30:36.660000	0:30:37.766000
@@ -8154,9 +8154,9 @@ noch	noch	ADV	-	0:30:36.660000	0:30:37.766000
 durch	durch	ADP	-	0:30:36.660000	0:30:37.766000
 ,	-	-	-	0:30:36.660000	0:30:37.766000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:37.766000" end="0:30:39.726000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:37.766000" end="0:30:39.726000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:37.766000" end="0:30:39.726000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:37.766000" end="0:30:39.726000" age_lower="18" age_upper="35">
 ob	ob	SCONJ	-	0:30:37.766000	0:30:39.726000
 es	ich	PRON	-	0:30:37.766000	0:30:39.726000
 da	da	ADV	-	0:30:37.766000	0:30:39.726000
@@ -8164,7 +8164,7 @@ irgendwas	irgendwas	PRON	-	0:30:37.766000	0:30:39.726000
 gibt	geben	VERB	-	0:30:37.766000	0:30:39.726000
 .	-	-	-	0:30:37.766000	0:30:39.726000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:39.726000" end="0:30:42.620000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:39.726000" end="0:30:42.620000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 wie	wie	ADV	-	0:30:39.726000	0:30:42.620000
 lange	lang	ADV	-	0:30:39.726000	0:30:42.620000
@@ -8175,14 +8175,14 @@ eigentlich	eigentlich	ADV	-	0:30:39.726000	0:30:42.620000
 schon	schon	ADV	-	0:30:39.726000	0:30:42.620000
 ?	-	-	-	0:30:39.726000	0:30:42.620000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:42.620000" end="0:30:45.093000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:42.620000" end="0:30:45.093000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	also	ADV	-	0:30:42.620000	0:30:45.093000
 normalerweise	normalerweise	ADV	-	0:30:42.620000	0:30:45.093000
 ist	sein	AUX	-	0:30:42.620000	0:30:45.093000
 in	in	ADP	-	0:30:42.620000	0:30:45.093000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:45.093000" end="0:30:46.653000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:45.093000" end="0:30:46.653000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:30:45.093000	0:30:46.653000
 halbe	halbe	ADJ	-	0:30:45.093000	0:30:46.653000
 Stunde	Stunde	NOUN	-	0:30:45.093000	0:30:46.653000
@@ -8191,7 +8191,7 @@ ungefähr	ungefähr	ADJ	-	0:30:45.093000	0:30:46.653000
 gell	gell	ADJ	-	0:30:45.093000	0:30:46.653000
 ?	-	-	-	0:30:45.093000	0:30:46.653000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:45.093000" end="0:30:49.673000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:45.093000" end="0:30:49.673000" age_lower="18" age_upper="35">
 in	in	ADP	-	0:30:45.093000	0:30:46.653000
 ja	ja	ADV	-	0:30:45.093000	0:30:46.653000
 ,	-	-	-	0:30:45.093000	0:30:46.653000
@@ -8212,7 +8212,7 @@ bissel	bissel	VERB	-	0:30:48.653000	0:30:49.673000
 was	was	PRON	-	0:30:48.653000	0:30:49.673000
 .	-	-	-	0:30:48.653000	0:30:49.673000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:49.673000" end="0:30:54.526000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:49.673000" end="0:30:54.526000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	ADV	-	0:30:49.673000	0:30:53.506000
 <pause duration="0,7s"/>
@@ -8227,16 +8227,16 @@ was	was	PRON	-	0:30:53.506000	0:30:54.526000
 heißt	heißen	VERB	-	0:30:53.506000	0:30:54.526000
 für	für	ADP	-	0:30:53.506000	0:30:54.526000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:53.506000" end="0:30:54.526000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:53.506000" end="0:30:54.526000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:30:53.506000	0:30:54.526000
 .	-	-	-	0:30:53.506000	0:30:54.526000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:54.526000" end="0:30:55.253000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:54.526000" end="0:30:55.253000" age_lower="18" age_upper="35">
 dich	sich	PRON	-	0:30:54.526000	0:30:55.253000
 Heimat	Heimat	NOUN	-	0:30:54.526000	0:30:55.253000
 ?	-	-	-	0:30:54.526000	0:30:55.253000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:55.253000" end="0:31:42.613000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:30:55.253000" end="0:31:42.613000" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 mhm	mhm	PROPN	-	0:30:55.253000	0:31:01.753000
 <pause duration="1,2s"/>
@@ -8387,10 +8387,10 @@ zum	zum	ADP	-	0:31:39.193000	0:31:42.613000
 Beispiel	Beispiel	NOUN	-	0:31:39.193000	0:31:42.613000
 ,	-	-	-	0:31:39.193000	0:31:42.613000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:42.613000" end="0:31:42.900000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:42.613000" end="0:31:42.900000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:42.613000	0:31:42.900000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:42.900000" end="0:31:48.080000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:42.900000" end="0:31:48.080000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:31:42.900000	0:31:45.160000
 <pause duration="0,8s"/>
 fünfzehn	fünfzehn	NUM	-	0:31:42.900000	0:31:45.160000
@@ -8409,10 +8409,10 @@ und	und	CCONJ	-	0:31:47.506000	0:31:48.080000
 dann	dann	ADV	-	0:31:47.506000	0:31:48.080000
 vier	vier	NUM	-	0:31:47.506000	0:31:48.080000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:48.080000" end="0:31:48.400000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:48.080000" end="0:31:48.400000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:48.080000	0:31:48.400000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:48.080000" end="0:31:51.666000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:48.080000" end="0:31:51.666000" age_lower="18" age_upper="35">
 Meter	Meter	NOUN	-	0:31:48.080000	0:31:48.400000
 neben	neben	ADP	-	0:31:48.400000	0:31:51.666000
 mir	sich	PRON	-	0:31:48.400000	0:31:51.666000
@@ -8424,10 +8424,10 @@ Leute	Leute	NOUN	-	0:31:48.400000	0:31:51.666000
 aufgestapelt	aufstapeln	VERB	-	0:31:48.400000	0:31:51.666000
 liegen	liegen	VERB	-	0:31:48.400000	0:31:51.666000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:51.666000" end="0:31:52.106000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:51.666000" end="0:31:52.106000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:31:51.666000	0:31:52.106000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:51.666000" end="0:31:54.040000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:51.666000" end="0:31:54.040000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:31:51.666000	0:31:52.106000
 du	du	PRON	-	0:31:52.106000	0:31:54.040000
 dich	sich	PRON	-	0:31:52.106000	0:31:54.040000
@@ -8435,9 +8435,9 @@ dich	sich	PRON	-	0:31:52.106000	0:31:54.040000
 bedrängt	bedrängen	ADJ	-	0:31:52.106000	0:31:54.040000
 fühlst	fühlen	NOUN	-	0:31:52.106000	0:31:54.040000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:54.040000" end="0:31:54.640000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:54.040000" end="0:31:54.640000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:54.040000" end="0:32:07.386000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:31:54.040000" end="0:32:07.386000" age_lower="18" age_upper="35">
 von	von	ADP	-	0:31:54.040000	0:31:54.640000
 von	von	PROPN	-	0:31:54.640000	0:31:55.806000
 Menschenmassen	Menschenmassen	NOUN	-	0:31:54.640000	0:31:55.806000
@@ -8485,11 +8485,11 @@ ja	ja	ADV	-	0:32:05.773000	0:32:07.386000
 ,	-	-	-	0:32:05.773000	0:32:07.386000
 einfach	-	-	-	0:32:05.773000	0:32:07.386000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:07.386000" end="0:32:07.793000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:07.386000" end="0:32:07.793000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:32:07.386000	0:32:07.793000
 .	-	-	-	0:32:07.386000	0:32:07.793000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:07.793000" end="0:32:14.993000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:07.793000" end="0:32:14.993000" age_lower="18" age_upper="35">
 oder	-	-	-	0:32:07.793000	0:32:10.260000
 *wennst*	-	-	-	0:32:07.793000	0:32:10.260000
 einfach	-	-	-	0:32:07.793000	0:32:10.260000
@@ -8518,9 +8518,9 @@ es	ich	PRON	-	0:32:14.186000	0:32:14.993000
 auch	auch	ADV	-	0:32:14.186000	0:32:14.993000
 .	-	-	-	0:32:14.186000	0:32:14.993000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:14.993000" end="0:32:15.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:14.993000" end="0:32:15.906000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:14.993000" end="0:32:23.826000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:14.993000" end="0:32:23.826000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:32:15.906000	0:32:20.220000
 nicht	nicht	PART	-	0:32:15.906000	0:32:20.220000
 ,	-	-	-	0:32:15.906000	0:32:20.220000
@@ -8548,11 +8548,11 @@ daheim	daheim	ADV	-	0:32:20.220000	0:32:23.826000
 eigentlich	eigentlich	ADV	-	0:32:20.220000	0:32:23.826000
 .	-	-	-	0:32:20.220000	0:32:23.826000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:23.826000" end="0:32:24.806000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:23.826000" end="0:32:24.806000" age_lower="18" age_upper="35">
 okay	okay	PROPN	-	0:32:23.826000	0:32:24.806000
 .	-	-	-	0:32:23.826000	0:32:24.806000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:24.806000" end="0:32:26.520000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:24.806000" end="0:32:26.520000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:32:24.806000	0:32:26.520000
 ist	sein	AUX	-	0:32:24.806000	0:32:26.520000
 für	für	ADP	-	0:32:24.806000	0:32:26.520000
@@ -8560,7 +8560,7 @@ dich	sich	PRON	-	0:32:24.806000	0:32:26.520000
 daheim	daheim	ADV	-	0:32:24.806000	0:32:26.520000
 ?	-	-	-	0:32:24.806000	0:32:26.520000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:26.520000" end="0:32:33.373000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:26.520000" end="0:32:33.373000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:32:26.520000	0:32:33.373000
 auch	auch	ADV	-	0:32:26.520000	0:32:33.373000
 <pause duration="räuspern"/>
@@ -8577,11 +8577,11 @@ die	der	DET	-	0:32:26.520000	0:32:33.373000
 Natur	Natur	NOUN	-	0:32:26.520000	0:32:33.373000
 .	-	-	-	0:32:26.520000	0:32:33.373000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:33.373000" end="0:32:33.953000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:33.373000" end="0:32:33.953000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:32:33.373000	0:32:33.953000
 .	-	-	-	0:32:33.373000	0:32:33.953000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:33.953000" end="0:32:42.926000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:33.953000" end="0:32:42.926000" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 eben	eben	ADV	-	0:32:33.953000	0:32:40.673000
 ja	ja	ADV	-	0:32:33.953000	0:32:40.673000
@@ -8608,12 +8608,12 @@ die	der	DET	-	0:32:41.366000	0:32:42.280000
 grüßen	grüßen	VERB	-	0:32:41.366000	0:32:42.280000
 .	-	-	-	0:32:41.366000	0:32:42.280000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:42.280000" end="0:32:42.926000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:42.280000" end="0:32:42.926000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:32:42.280000	0:32:42.926000
 genau	genau	ADJ	-	0:32:42.280000	0:32:42.926000
 .	-	-	-	0:32:42.280000	0:32:42.926000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:42.926000" end="0:32:53.440000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:42.926000" end="0:32:53.440000" age_lower="18" age_upper="35">
 sage	-	-	-	0:32:42.926000	0:32:44.733000
 ich	-	-	-	0:32:42.926000	0:32:44.733000
 immer	-	-	-	0:32:42.926000	0:32:44.733000
@@ -8648,20 +8648,20 @@ kennt	-	-	-	0:32:49.653000	0:32:52.293000
 jeden	-	-	-	0:32:49.653000	0:32:52.293000
 !"	-	-	-	0:32:49.653000	0:32:52.293000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:52.293000" end="0:32:53.440000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:52.293000" end="0:32:53.440000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:53.440000" end="0:32:54.340000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:53.440000" end="0:32:54.340000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:53.440000" end="0:32:54.340000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:53.440000" end="0:32:54.340000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:53.440000	0:32:54.340000
 das	-	-	-	0:32:53.440000	0:32:54.340000
 kenne	-	-	-	0:32:53.440000	0:32:54.340000
 ich	-	-	-	0:32:53.440000	0:32:54.340000
 !	-	-	-	0:32:53.440000	0:32:54.340000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:54.340000" end="0:32:55.766000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:54.340000" end="0:32:55.766000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:54.340000" end="0:32:55.766000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:54.340000" end="0:32:55.766000" age_lower="18" age_upper="35">
 das	-	-	-	0:32:54.340000	0:32:55.766000
 stimmt	-	-	-	0:32:54.340000	0:32:55.766000
 allerdings	-	-	-	0:32:54.340000	0:32:55.766000
@@ -8669,10 +8669,10 @@ allerdings	-	-	-	0:32:54.340000	0:32:55.766000
 ja	-	-	-	0:32:54.340000	0:32:55.766000
 !	-	-	-	0:32:54.340000	0:32:55.766000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:55.766000" end="0:32:58.233000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:55.766000" end="0:32:58.233000" age_lower="18" age_upper="35">
 (ja)	-	-	-	0:32:55.766000	0:32:58.233000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:55.766000" end="0:32:58.233000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:55.766000" end="0:32:58.233000" age_lower="18" age_upper="35">
 die	-	-	-	0:32:55.766000	0:32:58.233000
 Vor-	-	-	-	0:32:55.766000	0:32:58.233000
 und	-	-	-	0:32:55.766000	0:32:58.233000
@@ -8681,7 +8681,7 @@ in	-	-	-	0:32:55.766000	0:32:58.233000
 einem	-	-	-	0:32:55.766000	0:32:58.233000
 .	-	-	-	0:32:55.766000	0:32:58.233000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:58.233000" end="0:33:09.893000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:32:58.233000" end="0:33:09.893000" age_lower="18" age_upper="35">
 und	-	-	-	0:32:58.233000	0:33:00.793000
 <pause duration="0,7s"/>
 ja	-	-	-	0:32:58.233000	0:33:00.793000
@@ -8718,11 +8718,11 @@ Essen	-	-	-	0:33:04.840000	0:33:09.893000
 ,	-	-	-	0:33:04.840000	0:33:09.893000
 also	-	-	-	0:33:04.840000	0:33:09.893000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:09.893000" end="0:33:10.233000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:09.893000" end="0:33:10.233000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:33:09.893000	0:33:10.233000
 .	-	-	-	0:33:09.893000	0:33:10.233000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:10.233000" end="0:33:18.766000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:10.233000" end="0:33:18.766000" age_lower="18" age_upper="35">
 eben	-	-	-	0:33:10.233000	0:33:14.146000
 gerade	-	-	-	0:33:10.233000	0:33:14.146000
 wenn	-	-	-	0:33:10.233000	0:33:14.146000
@@ -8754,7 +8754,7 @@ eine	-	-	-	0:33:14.146000	0:33:18.766000
 Frittatensuppe	-	-	-	0:33:14.146000	0:33:18.766000
 .	-	-	-	0:33:14.146000	0:33:18.766000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:18.766000" end="0:33:23.646000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:18.766000" end="0:33:23.646000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:33:18.766000	0:33:22.440000
 ja	-	-	-	0:33:18.766000	0:33:22.440000
 *weiß*	-	-	-	0:33:18.766000	0:33:22.440000
@@ -8772,11 +8772,11 @@ das	-	-	-	0:33:22.440000	0:33:23.646000
 Bodenständige	-	-	-	0:33:22.440000	0:33:23.646000
 ,	-	-	-	0:33:22.440000	0:33:23.646000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:23.646000" end="0:33:23.933000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:23.646000" end="0:33:23.933000" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:23.646000	0:33:23.933000
 .	-	-	-	0:33:23.646000	0:33:23.933000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:23.646000" end="0:33:26.240000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:23.646000" end="0:33:26.240000" age_lower="18" age_upper="35">
 was	-	-	-	0:33:23.646000	0:33:23.933000
 nur	-	-	-	0:33:23.933000	0:33:26.240000
 wir	-	-	-	0:33:23.933000	0:33:26.240000
@@ -8788,11 +8788,11 @@ für	-	-	-	0:33:23.933000	0:33:26.240000
 uns	-	-	-	0:33:23.933000	0:33:26.240000
 bodenständig	-	-	-	0:33:23.933000	0:33:26.240000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:26.240000" end="0:33:26.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:26.240000" end="0:33:26.906000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:33:26.240000	0:33:26.906000
 .	-	-	-	0:33:26.240000	0:33:26.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:26.240000" end="0:33:29.873000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:26.240000" end="0:33:29.873000" age_lower="18" age_upper="35">
 ist	-	-	-	0:33:26.240000	0:33:26.906000
 ,	-	-	-	0:33:26.240000	0:33:26.906000
 ja	-	-	-	0:33:26.240000	0:33:26.906000
@@ -8806,9 +8806,9 @@ dir	-	-	-	0:33:26.906000	0:33:29.873000
 zustimmen	-	-	-	0:33:26.906000	0:33:29.873000
 .	-	-	-	0:33:26.906000	0:33:29.873000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:29.873000" end="0:33:31.393000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:29.873000" end="0:33:31.393000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:31.393000" end="0:33:49.580000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:31.393000" end="0:33:49.580000" age_lower="18" age_upper="35">
 brauchen	-	-	-	0:33:31.393000	0:33:40.480000
 <pause duration="3,3s"/>
 mhm	-	-	-	0:33:31.393000	0:33:40.480000
@@ -8849,7 +8849,7 @@ was	-	-	-	0:33:49.033000	0:33:49.580000
 das	-	-	-	0:33:49.033000	0:33:49.580000
 ?	-	-	-	0:33:49.033000	0:33:49.580000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:49.580000" end="0:33:52.686000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:49.580000" end="0:33:52.686000" age_lower="18" age_upper="35">
 kanns/	-	-	-	0:33:49.580000	0:33:50.993000
 *kannst*	-	-	-	0:33:49.580000	0:33:50.993000
 mich	-	-	-	0:33:49.580000	0:33:50.993000
@@ -8857,11 +8857,11 @@ fragen	-	-	-	0:33:49.580000	0:33:50.993000
 .	-	-	-	0:33:49.580000	0:33:50.993000
 ja	-	-	-	0:33:50.993000	0:33:52.686000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:50.993000" end="0:33:52.686000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:50.993000" end="0:33:52.686000" age_lower="18" age_upper="35">
 Vorarlbergerisch	-	-	-	0:33:50.993000	0:33:52.686000
 ?	-	-	-	0:33:50.993000	0:33:52.686000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:52.686000" end="0:33:55.813000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:52.686000" end="0:33:55.813000" age_lower="18" age_upper="35">
 kann	-	-	-	0:33:52.686000	0:33:53.880000
 ich	-	-	-	0:33:52.686000	0:33:53.880000
 dir	-	-	-	0:33:52.686000	0:33:53.880000
@@ -8874,16 +8874,16 @@ ist	-	-	-	0:33:53.880000	0:33:55.813000
 Vorarlbergerin	-	-	-	0:33:53.880000	0:33:55.813000
 .	-	-	-	0:33:53.880000	0:33:55.813000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:55.813000" end="0:33:56.440000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:55.813000" end="0:33:56.440000" age_lower="18" age_upper="35">
 echt	-	-	-	0:33:55.813000	0:33:56.440000
 jetzt	-	-	-	0:33:55.813000	0:33:56.440000
 ?	-	-	-	0:33:55.813000	0:33:56.440000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:56.440000" end="0:33:58.126000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:56.440000" end="0:33:58.126000" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:56.440000	0:33:56.860000
 .	-	-	-	0:33:56.440000	0:33:56.860000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:56.860000" end="0:33:58.126000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:56.860000" end="0:33:58.126000" age_lower="18" age_upper="35">
 das	-	-	-	0:33:56.860000	0:33:58.126000
 habe	-	-	-	0:33:56.860000	0:33:58.126000
 ich	-	-	-	0:33:56.860000	0:33:58.126000
@@ -8892,11 +8892,11 @@ nicht	-	-	-	0:33:56.860000	0:33:58.126000
 gewusst	-	-	-	0:33:56.860000	0:33:58.126000
 .	-	-	-	0:33:56.860000	0:33:58.126000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:58.126000" end="0:33:58.346000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:58.126000" end="0:33:58.346000" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:58.126000	0:33:58.346000
 .	-	-	-	0:33:58.126000	0:33:58.346000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:58.346000" end="0:34:00.446000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:33:58.346000" end="0:34:00.446000" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:33:58.346000	0:34:00.446000
 also	-	-	-	0:33:58.346000	0:34:00.446000
 *hast*	-	-	-	0:33:58.346000	0:34:00.446000
@@ -8907,7 +8907,7 @@ oder	-	-	-	0:33:58.346000	0:34:00.446000
 was	-	-	-	0:33:58.346000	0:34:00.446000
 ?	-	-	-	0:33:58.346000	0:34:00.446000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:00.446000" end="0:34:05.133000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:00.446000" end="0:34:05.133000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:34:00.446000	0:34:03.060000
 viel	-	-	-	0:34:00.446000	0:34:03.060000
 Verwnadtschaft	-	-	-	0:34:00.446000	0:34:03.060000
@@ -8927,11 +8927,11 @@ Einzelkind	-	-	-	0:34:03.060000	0:34:04.680000
 also	-	-	-	0:34:03.060000	0:34:04.680000
 Geschwister	-	-	-	0:34:04.680000	0:34:05.133000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:04.680000" end="0:34:05.133000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:04.680000" end="0:34:05.133000" age_lower="18" age_upper="35">
 aha	-	-	-	0:34:04.680000	0:34:05.133000
 .	-	-	-	0:34:04.680000	0:34:05.133000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:05.133000" end="0:34:13.920000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:05.133000" end="0:34:13.920000" age_lower="18" age_upper="35">
 sind	-	-	-	0:34:05.133000	0:34:07.760000
 keine	-	-	-	0:34:05.133000	0:34:07.760000
 .	-	-	-	0:34:05.133000	0:34:07.760000
@@ -8964,7 +8964,7 @@ draußen	-	-	-	0:34:10.520000	0:34:13.373000
 und	-	-	-	0:34:13.373000	0:34:13.920000
 /.	-	-	-	0:34:13.373000	0:34:13.920000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:13.373000" end="0:34:17.065000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:13.373000" end="0:34:17.065000" age_lower="18" age_upper="35">
 da	-	-	-	0:34:13.373000	0:34:13.920000
 habt	-	-	-	0:34:13.373000	0:34:13.920000
 ihr	-	-	-	0:34:13.373000	0:34:13.920000
@@ -8978,7 +8978,7 @@ her	-	-	-	0:34:13.920000	0:34:17.065000
 .	-	-	-	0:34:13.920000	0:34:17.065000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:17.065000" end="0:34:19.520000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:17.065000" end="0:34:19.520000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:17.065000	0:34:17.520000
 ich	-	-	-	0:34:17.065000	0:34:17.520000
 meine	-	-	-	0:34:17.065000	0:34:17.520000
@@ -8992,20 +8992,20 @@ Bodensee	-	-	-	0:34:17.520000	0:34:19.520000
 aber	-	-	-	0:34:17.520000	0:34:19.520000
 /.	-	-	-	0:34:17.520000	0:34:19.520000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:19.520000" end="0:34:20.320000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:19.520000" end="0:34:20.320000" age_lower="18" age_upper="35">
 ach	-	-	-	0:34:19.520000	0:34:20.320000
 so	-	-	-	0:34:19.520000	0:34:20.320000
 ,	-	-	-	0:34:19.520000	0:34:20.320000
 okay	-	-	-	0:34:19.520000	0:34:20.320000
 .	-	-	-	0:34:19.520000	0:34:20.320000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:20.320000" end="0:34:21.933000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:20.320000" end="0:34:21.933000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:20.320000	0:34:21.933000
 .	-	-	-	0:34:20.320000	0:34:21.933000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:20.320000" end="0:34:21.933000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:20.320000" end="0:34:21.933000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:21.933000" end="0:34:24.900000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:21.933000" end="0:34:24.900000" age_lower="18" age_upper="35">
 eben	-	-	-	0:34:21.933000	0:34:24.900000
 sie	-	-	-	0:34:21.933000	0:34:24.900000
 war	-	-	-	0:34:21.933000	0:34:24.900000
@@ -9021,9 +9021,9 @@ Berg	-	-	-	0:34:21.933000	0:34:24.900000
 unterwegs	-	-	-	0:34:21.933000	0:34:24.900000
 .	-	-	-	0:34:21.933000	0:34:24.900000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:21.933000" end="0:34:24.900000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:21.933000" end="0:34:24.900000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:24.900000" end="0:34:28.753000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:24.900000" end="0:34:28.753000" age_lower="18" age_upper="35">
 (der)	-	-	-	0:34:24.900000	0:34:26.606000
 Papa	-	-	-	0:34:24.900000	0:34:26.606000
 hat	-	-	-	0:34:24.900000	0:34:26.606000
@@ -9040,11 +9040,11 @@ sich	-	-	-	0:34:26.606000	0:34:28.753000
 kennengelernt	-	-	-	0:34:26.606000	0:34:28.753000
 .	-	-	-	0:34:26.606000	0:34:28.753000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:28.753000" end="0:34:29.513000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:28.753000" end="0:34:29.513000" age_lower="18" age_upper="35">
 aha	-	-	-	0:34:28.753000	0:34:29.513000
 .	-	-	-	0:34:28.753000	0:34:29.513000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:29.513000" end="0:34:41.005000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:29.513000" end="0:34:41.005000" age_lower="18" age_upper="35">
 und	-	-	-	0:34:29.513000	0:34:33.025000
 eben	-	-	-	0:34:29.513000	0:34:33.025000
 das	-	-	-	0:34:29.513000	0:34:33.025000
@@ -9080,11 +9080,11 @@ Minuten	-	-	-	0:34:36.985000	0:34:41.005000
 wechseln	-	-	-	0:34:36.985000	0:34:41.005000
 .	-	-	-	0:34:36.985000	0:34:41.005000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:41.005000" end="0:34:41.326000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:41.005000" end="0:34:41.326000" age_lower="18" age_upper="35">
 echt	-	-	-	0:34:41.005000	0:34:41.326000
 ?	-	-	-	0:34:41.005000	0:34:41.326000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:41.326000" end="0:34:46.179000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:41.326000" end="0:34:46.179000" age_lower="18" age_upper="35">
 also	-	-	-	0:34:41.326000	0:34:44.520000
 wenn	-	-	-	0:34:41.326000	0:34:44.520000
 sie	-	-	-	0:34:41.326000	0:34:44.520000
@@ -9100,25 +9100,25 @@ redet	-	-	-	0:34:44.520000	0:34:46.179000
 sie	-	-	-	0:34:44.520000	0:34:46.179000
 voll	-	-	-	0:34:44.520000	0:34:46.179000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:46.179000" end="0:34:46.786000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:46.179000" end="0:34:46.786000" age_lower="18" age_upper="35">
 also	-	-	-	0:34:46.179000	0:34:46.786000
 die	-	-	-	0:34:46.179000	0:34:46.786000
 ist	-	-	-	0:34:46.179000	0:34:46.786000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:46.786000" end="0:34:47.786000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:46.786000" end="0:34:47.786000" age_lower="18" age_upper="35">
 Vorarlbergerisch	-	-	-	0:34:46.786000	0:34:47.786000
 .	-	-	-	0:34:46.786000	0:34:47.786000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:46.786000" end="0:34:47.786000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:46.786000" end="0:34:47.786000" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:34:46.786000	0:34:47.786000
 hinein	-	-	-	0:34:46.786000	0:34:47.786000
 gezogen	-	-	-	0:34:46.786000	0:34:47.786000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:47.786000" end="0:34:48.406000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:47.786000" end="0:34:48.406000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:34:47.786000	0:34:48.406000
 .	-	-	-	0:34:47.786000	0:34:48.406000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:47.786000" end="0:34:48.853000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:47.786000" end="0:34:48.853000" age_lower="18" age_upper="35">
 zu	-	-	-	0:34:47.786000	0:34:48.406000
 deinem	-	-	-	0:34:47.786000	0:34:48.406000
 Papa	-	-	-	0:34:47.786000	0:34:48.406000
@@ -9127,7 +9127,7 @@ Papa	-	-	-	0:34:47.786000	0:34:48.406000
 sagen	-	-	-	0:34:48.406000	0:34:48.853000
 .	-	-	-	0:34:48.406000	0:34:48.853000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:48.853000" end="0:34:56.926000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:48.853000" end="0:34:56.926000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:48.853000	0:34:55.226000
 <pause duration="1,9s"/>
 und	-	-	-	0:34:48.853000	0:34:55.226000
@@ -9147,7 +9147,7 @@ also	-	-	-	0:34:48.853000	0:34:55.226000
 und	-	-	-	0:34:55.226000	0:34:56.926000
 /.	-	-	-	0:34:55.226000	0:34:56.926000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:55.226000" end="0:35:01.140000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:34:55.226000" end="0:35:01.140000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 aber	-	-	-	0:34:55.226000	0:34:56.926000
 das	-	-	-	0:34:56.926000	0:34:59.366000
@@ -9174,15 +9174,15 @@ weg	-	-	-	0:34:59.366000	0:35:01.140000
 ziehen	-	-	-	0:34:59.366000	0:35:01.140000
 ,	-	-	-	0:34:59.366000	0:35:01.140000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:01.140000" end="0:35:02.166000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:01.140000" end="0:35:02.166000" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:01.140000	0:35:02.166000
 also	-	-	-	0:35:01.140000	0:35:02.166000
 ich	-	-	-	0:35:01.140000	0:35:02.166000
 bewundere	-	-	-	0:35:01.140000	0:35:02.166000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:01.140000" end="0:35:02.166000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:01.140000" end="0:35:02.166000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:02.166000" end="0:35:14.173000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:02.166000" end="0:35:14.173000" age_lower="18" age_upper="35">
 sie	-	-	-	0:35:02.166000	0:35:04.480000
 immer	-	-	-	0:35:02.166000	0:35:04.480000
 ,	-	-	-	0:35:02.166000	0:35:04.480000
@@ -9236,11 +9236,11 @@ gefahren	-	-	-	0:35:10.584000	0:35:14.173000
 ist	-	-	-	0:35:10.584000	0:35:14.173000
 .	-	-	-	0:35:10.584000	0:35:14.173000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:14.173000" end="0:35:14.946000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:14.173000" end="0:35:14.946000" age_lower="18" age_upper="35">
 was	-	-	-	0:35:14.173000	0:35:14.946000
 ?	-	-	-	0:35:14.173000	0:35:14.946000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:14.946000" end="0:35:19.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:14.946000" end="0:35:19.140000" age_lower="18" age_upper="35">
 also	-	-	-	0:35:14.946000	0:35:19.140000
 sie	-	-	-	0:35:14.946000	0:35:19.140000
 ist	-	-	-	0:35:14.946000	0:35:19.140000
@@ -9259,12 +9259,12 @@ gewesen	-	-	-	0:35:14.946000	0:35:19.140000
 .	-	-	-	0:35:14.946000	0:35:19.140000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:19.140000" end="0:35:20.006000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:19.140000" end="0:35:20.006000" age_lower="18" age_upper="35">
 (ja	-	-	-	0:35:19.140000	0:35:20.006000
 siehe	-	-	-	0:35:19.140000	0:35:20.006000
 !)	-	-	-	0:35:19.140000	0:35:20.006000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:20.006000" end="0:35:26.573000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:20.006000" end="0:35:26.573000" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 *hat*	-	-	-	0:35:20.006000	0:35:23.806000
 gesagt	-	-	-	0:35:20.006000	0:35:23.806000
@@ -9287,11 +9287,11 @@ Zug	-	-	-	0:35:25.706000	0:35:26.573000
 gekommen	-	-	-	0:35:25.706000	0:35:26.573000
 ,	-	-	-	0:35:25.706000	0:35:26.573000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:25.706000" end="0:35:26.573000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:25.706000" end="0:35:26.573000" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:25.706000	0:35:26.573000
 .	-	-	-	0:35:25.706000	0:35:26.573000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:26.573000" end="0:35:34.600000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:26.573000" end="0:35:34.600000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	-	-	-	0:35:26.573000	0:35:28.473000
 sie	-	-	-	0:35:26.573000	0:35:28.473000
@@ -9316,12 +9316,12 @@ heim	-	-	-	0:35:32.600000	0:35:34.600000
 will	-	-	-	0:35:32.600000	0:35:34.600000
 ,	-	-	-	0:35:32.600000	0:35:34.600000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:34.600000" end="0:35:35.226000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:34.600000" end="0:35:35.226000" age_lower="18" age_upper="35">
 na	-	-	-	0:35:34.600000	0:35:35.226000
 (arg)	-	-	-	0:35:34.600000	0:35:35.226000
 .	-	-	-	0:35:34.600000	0:35:35.226000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:35.226000" end="0:35:43.826000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:35.226000" end="0:35:43.826000" age_lower="18" age_upper="35">
 und	-	-	-	0:35:35.226000	0:35:37.540000
 dann	-	-	-	0:35:35.226000	0:35:37.540000
 sind	-	-	-	0:35:35.226000	0:35:37.540000
@@ -9360,24 +9360,24 @@ eventuell	-	-	KONJ	0:35:41.560000	0:35:43.826000
 aushalten	-	-	KONJ	0:35:41.560000	0:35:43.826000
 ."	-	-	-	0:35:41.560000	0:35:43.826000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:43.826000" end="0:35:45.340000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:43.826000" end="0:35:45.340000" age_lower="18" age_upper="35">
 ach	-	-	-	0:35:43.826000	0:35:45.340000
 halt	-	-	-	0:35:43.826000	0:35:45.340000
 die	-	-	-	0:35:43.826000	0:35:45.340000
 Goschen	-	-	-	0:35:43.826000	0:35:45.340000
 !	-	-	-	0:35:43.826000	0:35:45.340000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:45.340000" end="0:35:46.500000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:45.340000" end="0:35:46.500000" age_lower="18" age_upper="35">
 von	-	-	-	0:35:45.340000	0:35:46.500000
 der	-	-	-	0:35:45.340000	0:35:46.500000
 Gärtnerei	-	-	-	0:35:45.340000	0:35:46.500000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:45.340000" end="0:35:46.500000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:45.340000" end="0:35:46.500000" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:45.340000	0:35:46.500000
 (sieh)	-	-	-	0:35:45.340000	0:35:46.500000
 !	-	-	-	0:35:45.340000	0:35:46.500000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:46.500000" end="0:35:47.966000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:46.500000" end="0:35:47.966000" age_lower="18" age_upper="35">
 hat	-	-	-	0:35:46.500000	0:35:47.966000
 sie	-	-	-	0:35:46.500000	0:35:47.966000
 keine	-	-	-	0:35:46.500000	0:35:47.966000
@@ -9385,19 +9385,19 @@ Ahnung	-	-	-	0:35:46.500000	0:35:47.966000
 gehabt	-	-	-	0:35:46.500000	0:35:47.966000
 ,	-	-	-	0:35:46.500000	0:35:47.966000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:47.966000" end="0:35:49.113000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:47.966000" end="0:35:49.113000" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:47.966000	0:35:49.113000
 .	-	-	-	0:35:47.966000	0:35:49.113000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:49.113000" end="0:35:52.513000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:49.113000" end="0:35:52.513000" age_lower="18" age_upper="35">
 und	-	-	-	0:35:49.113000	0:35:52.513000
 <pause duration="1,6s"/>
 ja	-	-	-	0:35:49.113000	0:35:52.513000
 .	-	-	-	0:35:49.113000	0:35:52.513000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:52.513000" end="0:35:57.813000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:52.513000" end="0:35:57.813000" age_lower="18" age_upper="35">
 ja	-	-	-	0:35:52.513000	0:35:55
 ja	-	-	-	0:35:52.513000	0:35:55
 ja	-	-	-	0:35:52.513000	0:35:55
@@ -9418,16 +9418,16 @@ Papa	-	-	-	0:35:56.413000	0:35:57.813000
 hinaus	-	-	-	0:35:56.413000	0:35:57.813000
 gezogen	-	-	-	0:35:56.413000	0:35:57.813000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:57.813000" end="0:35:58.553000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:57.813000" end="0:35:58.553000" age_lower="18" age_upper="35">
 er	-	-	-	0:35:57.813000	0:35:58.553000
 hat	-	-	-	0:35:57.813000	0:35:58.553000
 damals	-	-	-	0:35:57.813000	0:35:58.553000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:57.813000" end="0:35:58.553000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:57.813000" end="0:35:58.553000" age_lower="18" age_upper="35">
 wäre	-	-	-	0:35:57.813000	0:35:58.553000
 ?	-	-	-	0:35:57.813000	0:35:58.553000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:58.553000" end="0:36:01.573000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:35:58.553000" end="0:36:01.573000" age_lower="18" age_upper="35">
 auch	-	-	-	0:35:58.553000	0:36:01.246000
 recht	-	-	-	0:35:58.553000	0:36:01.246000
 jung	-	-	-	0:35:58.553000	0:36:01.246000
@@ -9439,22 +9439,22 @@ SONSTIGE	SONSTIGE	-	-	0:35:58.553000	0:36:01.246000
 weil	-	-	-	0:36:01.246000	0:36:01.573000
 der	-	-	-	0:36:01.246000	0:36:01.573000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:01.246000" end="0:36:01.573000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:01.246000" end="0:36:01.573000" age_lower="18" age_upper="35">
 aha	-	-	-	0:36:01.246000	0:36:01.573000
 .	-	-	-	0:36:01.246000	0:36:01.573000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:01.573000" end="0:36:02.373000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:01.573000" end="0:36:02.373000" age_lower="18" age_upper="35">
 Vater	-	-	-	0:36:01.573000	0:36:02.373000
 gestorben	-	-	-	0:36:01.573000	0:36:02.373000
 ist	-	-	-	0:36:01.573000	0:36:02.373000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:02.373000" end="0:36:03.286000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:02.373000" end="0:36:03.286000" age_lower="18" age_upper="35">
 ach	-	-	-	0:36:02.373000	0:36:03.286000
 so	-	-	-	0:36:02.373000	0:36:03.286000
 okay	-	-	-	0:36:02.373000	0:36:03.286000
 .	-	-	-	0:36:02.373000	0:36:03.286000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:03.286000" end="0:36:08.306000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:03.286000" end="0:36:08.306000" age_lower="18" age_upper="35">
 und	-	-	-	0:36:03.286000	0:36:08.306000
 <pause duration="1,9s"/>
 er	-	-	-	0:36:03.286000	0:36:08.306000
@@ -9469,12 +9469,12 @@ gedrängt	-	-	-	0:36:03.286000	0:36:08.306000
 worden	-	-	-	0:36:03.286000	0:36:08.306000
 ,	-	-	-	0:36:03.286000	0:36:08.306000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:08.306000" end="0:36:09.040000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:08.306000" end="0:36:09.040000" age_lower="18" age_upper="35">
 okay	-	-	-	0:36:08.306000	0:36:09.040000
 ja	-	-	-	0:36:08.306000	0:36:09.040000
 .	-	-	-	0:36:08.306000	0:36:09.040000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:09.040000" end="0:36:12.340000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:09.040000" end="0:36:12.340000" age_lower="18" age_upper="35">
 obwohl	-	-	-	0:36:09.040000	0:36:12.340000
 ich	-	-	-	0:36:09.040000	0:36:12.340000
 glaube	-	-	-	0:36:09.040000	0:36:12.340000
@@ -9489,18 +9489,18 @@ Leidenschaft	-	-	-	0:36:09.040000	0:36:12.340000
 SONSTIGE	SONSTIGE	-	-	0:36:09.040000	0:36:12.340000
 .	-	-	-	0:36:09.040000	0:36:12.340000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:12.340000" end="0:36:14.013000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:12.340000" end="0:36:14.013000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:36:12.340000	0:36:14.013000
 .	-	-	-	0:36:12.340000	0:36:14.013000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:14.013000" end="0:36:15.093000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:14.013000" end="0:36:15.093000" age_lower="18" age_upper="35">
 aber	-	-	-	0:36:14.013000	0:36:15.093000
 eben	-	-	-	0:36:14.013000	0:36:15.093000
 sein	-	-	-	0:36:14.013000	0:36:15.093000
 sein	-	-	KONJ	0:36:14.013000	0:36:15.093000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:14.013000" end="0:36:15.093000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:14.013000" end="0:36:15.093000" age_lower="18" age_upper="35">
 er	-	-	-	0:36:14.013000	0:36:15.093000
 hat	-	-	-	0:36:14.013000	0:36:15.093000
 sich	-	-	-	0:36:14.013000	0:36:15.093000
@@ -9509,7 +9509,7 @@ halt	-	-	-	0:36:14.013000	0:36:15.093000
 dann	-	-	-	0:36:14.013000	0:36:15.093000
 /.	-	-	-	0:36:14.013000	0:36:15.093000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:15.093000" end="0:36:18.593000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:15.093000" end="0:36:18.593000" age_lower="18" age_upper="35">
 Traumberuf	-	-	KONJ	0:36:15.093000	0:36:17.913000
 wäre	-	-	KONJ	0:36:15.093000	0:36:17.913000
 immer	-	-	KONJ	0:36:15.093000	0:36:17.913000
@@ -9521,13 +9521,13 @@ SONSTIGE	SONSTIGE	-	-	0:36:15.093000	0:36:17.913000
 und	-	-	-	0:36:17.913000	0:36:18.593000
 SONSTIGE	SONSTIGE	-	-	0:36:17.913000	0:36:18.593000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:17.913000" end="0:36:19.620000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:17.913000" end="0:36:19.620000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:17.913000	0:36:18.593000
 .	-	-	-	0:36:17.913000	0:36:18.593000
 mhm	-	-	-	0:36:18.593000	0:36:19.620000
 .	-	-	-	0:36:18.593000	0:36:19.620000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:19.620000" end="0:36:21.913000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:19.620000" end="0:36:21.913000" age_lower="18" age_upper="35">
 und	-	-	-	0:36:19.620000	0:36:21.913000
 das	-	-	-	0:36:19.620000	0:36:21.913000
 hat	-	-	-	0:36:19.620000	0:36:21.913000
@@ -9537,31 +9537,31 @@ Bruder	-	-	-	0:36:19.620000	0:36:21.913000
 verwirklicht	-	-	-	0:36:19.620000	0:36:21.913000
 .	-	-	-	0:36:19.620000	0:36:21.913000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:21.913000" end="0:36:22.366000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:21.913000" end="0:36:22.366000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:21.913000	0:36:22.366000
 .	-	-	-	0:36:21.913000	0:36:22.366000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:22.366000" end="0:36:24.740000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:22.366000" end="0:36:24.740000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:22.366000	0:36:24.740000
 .	-	-	-	0:36:22.366000	0:36:24.740000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:24.740000" end="0:36:25.980000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:24.740000" end="0:36:25.980000" age_lower="18" age_upper="35">
 okay	-	-	-	0:36:24.740000	0:36:25.980000
 .	-	-	-	0:36:24.740000	0:36:25.980000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:25.980000" end="0:36:26.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:25.980000" end="0:36:26.660000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:36:25.980000	0:36:26.660000
 .	-	-	-	0:36:25.980000	0:36:26.660000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:26.660000" end="0:36:27.426000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:26.660000" end="0:36:27.426000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:36:26.660000	0:36:27.426000
 .	-	-	-	0:36:26.660000	0:36:27.426000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:27.426000" end="0:36:30.320000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:27.426000" end="0:36:30.320000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:30.320000" end="0:36:31.340000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:30.320000" end="0:36:31.340000" age_lower="18" age_upper="35">
 so	-	-	-	0:36:30.320000	0:36:31.340000
 ist	-	-	-	0:36:30.320000	0:36:31.340000
 das	-	-	-	0:36:30.320000	0:36:31.340000
@@ -9569,9 +9569,9 @@ das	-	-	-	0:36:30.320000	0:36:31.340000
 ja	-	-	-	0:36:30.320000	0:36:31.340000
 *siehst*,	-	-	-	0:36:30.320000	0:36:31.340000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:31.340000" end="0:36:33.760000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:31.340000" end="0:36:33.760000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:31.340000" end="0:36:34.413000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:31.340000" end="0:36:34.413000" age_lower="18" age_upper="35">
 gehabt	-	-	-	0:36:31.340000	0:36:33.760000
 ,	-	-	-	0:36:31.340000	0:36:33.760000
 hätten	-	-	-	0:36:31.340000	0:36:33.760000
@@ -9588,9 +9588,9 @@ ich	-	-	-	0:36:33.760000	0:36:34.413000
 geglaubt	-	-	-	0:36:33.760000	0:36:34.413000
 ,	-	-	-	0:36:33.760000	0:36:34.413000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:34.413000" end="0:36:37.713000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:34.413000" end="0:36:37.713000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:34.413000" end="0:36:40.233000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:34.413000" end="0:36:40.233000" age_lower="18" age_upper="35">
 dass	-	-	-	0:36:34.413000	0:36:37.713000
 wir	-	-	-	0:36:34.413000	0:36:37.713000
 eh	-	-	-	0:36:34.413000	0:36:37.713000
@@ -9608,11 +9608,11 @@ du	-	-	-	0:36:37.713000	0:36:40.233000
 da	-	-	-	0:36:37.713000	0:36:40.233000
 wieder	-	-	-	0:36:37.713000	0:36:40.233000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:40.233000" end="0:36:40.773000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:40.233000" end="0:36:40.773000" age_lower="18" age_upper="35">
 hm	-	-	-	0:36:40.233000	0:36:40.773000
 .	-	-	-	0:36:40.233000	0:36:40.773000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:40.233000" end="0:36:48.026000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:40.233000" end="0:36:48.026000" age_lower="18" age_upper="35">
 was	-	-	-	0:36:40.233000	0:36:40.773000
 s/	-	-	-	0:36:40.233000	0:36:40.773000
 was	-	-	-	0:36:40.773000	0:36:48.026000
@@ -9621,15 +9621,15 @@ aussuchen	-	-	-	0:36:40.773000	0:36:48.026000
 .	-	-	-	0:36:40.773000	0:36:48.026000
 <pause duration="5,9s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:48.026000" end="0:36:49.013000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:48.026000" end="0:36:49.013000" age_lower="18" age_upper="35">
 (okay)	-	-	-	0:36:48.026000	0:36:49.013000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:48.026000" end="0:36:49.013000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:48.026000" end="0:36:49.013000" age_lower="18" age_upper="35">
 kein	-	-	-	0:36:48.026000	0:36:49.013000
 Hochdeutsch	-	-	-	0:36:48.026000	0:36:49.013000
 mehr	-	-	-	0:36:48.026000	0:36:49.013000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:49.013000" end="0:36:50.640000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:49.013000" end="0:36:50.640000" age_lower="18" age_upper="35">
 das	-	-	-	0:36:49.013000	0:36:50.640000
 d/	-	-	-	0:36:49.013000	0:36:50.640000
 d/	-	-	-	0:36:49.013000	0:36:50.640000
@@ -9638,7 +9638,7 @@ ich	-	-	-	0:36:49.013000	0:36:50.640000
 interessant	-	-	-	0:36:49.013000	0:36:50.640000
 .	-	-	-	0:36:49.013000	0:36:50.640000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:49.013000" end="0:36:51.553000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:49.013000" end="0:36:51.553000" age_lower="18" age_upper="35">
 (hm	-	-	-	0:36:49.013000	0:36:50.640000
 ah	-	-	-	0:36:49.013000	0:36:50.640000
 ja)	-	-	-	0:36:49.013000	0:36:50.640000
@@ -9647,7 +9647,7 @@ aha	-	-	-	0:36:50.640000	0:36:51.553000
 okay	-	-	-	0:36:50.640000	0:36:51.553000
 .	-	-	-	0:36:50.640000	0:36:51.553000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:51.553000" end="0:36:55.526000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:51.553000" end="0:36:55.526000" age_lower="18" age_upper="35">
 stell	-	-	-	0:36:51.553000	0:36:55.526000
 dir	-	-	-	0:36:51.553000	0:36:55.526000
 vor	-	-	-	0:36:51.553000	0:36:55.526000
@@ -9662,7 +9662,7 @@ in	-	-	-	0:36:51.553000	0:36:55.526000
 .	-	-	-	0:36:51.553000	0:36:55.526000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:55.526000" end="0:37:08.140000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:36:55.526000" end="0:37:08.140000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:55.526000	0:36:59.613000
 kein	-	-	-	0:36:55.526000	0:36:59.613000
 Hochdeutsch	-	-	-	0:36:55.526000	0:36:59.613000
@@ -9710,9 +9710,9 @@ wieder	-	-	-	0:37:06.660000	0:37:08.140000
 mitnehmen	-	-	-	0:37:06.660000	0:37:08.140000
 .	-	-	-	0:37:06.660000	0:37:08.140000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:08.140000" end="0:37:09.853000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:08.140000" end="0:37:09.853000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:08.140000" end="0:37:19.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:08.140000" end="0:37:19.606000" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:09.853000	0:37:14.633000
 nein	-	-	-	0:37:09.853000	0:37:14.633000
 Hochdeutsch	-	-	-	0:37:09.853000	0:37:14.633000
@@ -9743,12 +9743,12 @@ oder	-	-	-	0:37:14.633000	0:37:19.606000
 die	-	-	-	0:37:14.633000	0:37:19.606000
 Mediensprache	-	-	-	0:37:14.633000	0:37:19.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:19.606000" end="0:37:20.600000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:19.606000" end="0:37:20.600000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:37:19.606000	0:37:20.600000
 ja	-	-	-	0:37:19.606000	0:37:20.600000
 .	-	-	-	0:37:19.606000	0:37:20.600000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:19.606000" end="0:37:31.340000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:19.606000" end="0:37:31.340000" age_lower="18" age_upper="35">
 also	-	-	-	0:37:19.606000	0:37:20.600000
 ja	-	-	-	0:37:19.606000	0:37:20.600000
 ,	-	-	-	0:37:19.606000	0:37:20.600000
@@ -9794,9 +9794,9 @@ auch	-	-	-	0:37:27.080000	0:37:31.340000
 nicht	-	-	-	0:37:27.080000	0:37:31.340000
 ,	-	-	-	0:37:27.080000	0:37:31.340000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:31.340000" end="0:37:36.813000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:31.340000" end="0:37:36.813000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:31.340000" end="0:37:53.433000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:31.340000" end="0:37:53.433000" age_lower="18" age_upper="35">
 weil	-	-	-	0:37:31.340000	0:37:36.813000
 der	-	-	-	0:37:31.340000	0:37:36.813000
 (alleweile)	-	-	-	0:37:31.340000	0:37:36.813000
@@ -9860,7 +9860,7 @@ sagst	-	-	-	0:37:48.146000	0:37:53.433000
 du	-	-	-	0:37:48.146000	0:37:53.433000
 ?	-	-	-	0:37:48.146000	0:37:53.433000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:53.433000" end="0:38:03.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:37:53.433000" end="0:38:03.606000" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:53.433000	0:38:00.240000
 ist	-	-	-	0:37:53.433000	0:38:00.240000
 ist	-	-	-	0:37:53.433000	0:38:00.240000
@@ -9891,7 +9891,7 @@ dann	-	-	-	0:38:00.240000	0:38:03.606000
 schwer	-	-	-	0:38:00.240000	0:38:03.606000
 .	-	-	-	0:38:00.240000	0:38:03.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:03.606000" end="0:38:10.113000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:03.606000" end="0:38:10.113000" age_lower="18" age_upper="35">
 da	-	-	-	0:38:03.606000	0:38:08.160000
 draußen	-	-	-	0:38:03.606000	0:38:08.160000
 einmal	-	-	-	0:38:03.606000	0:38:08.160000
@@ -9918,9 +9918,9 @@ im	-	-	-	0:38:09.213000	0:38:10.113000
 Ausland	-	-	-	0:38:09.213000	0:38:10.113000
 .	-	-	-	0:38:09.213000	0:38:10.113000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:10.113000" end="0:38:10.700000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:10.113000" end="0:38:10.700000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:10.700000" end="0:38:22.173000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:10.700000" end="0:38:22.173000" age_lower="18" age_upper="35">
 nichts	-	-	-	0:38:10.700000	0:38:12.526000
 verstanden	-	-	-	0:38:10.700000	0:38:12.526000
 ,	-	-	-	0:38:10.700000	0:38:12.526000
@@ -9952,7 +9952,7 @@ komisch	-	-	-	0:38:18.653000	0:38:22.173000
 mit	-	-	-	0:38:18.653000	0:38:22.173000
 "kritschkr"	-	-	-	0:38:18.653000	0:38:22.173000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:22.173000" end="0:38:24.500000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:22.173000" end="0:38:24.500000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:22.173000	0:38:24.500000
 es	-	-	-	0:38:22.173000	0:38:24.500000
 ist	-	-	-	0:38:22.173000	0:38:24.500000
@@ -9964,14 +9964,14 @@ komplett	-	-	-	0:38:22.173000	0:38:24.500000
 anders	-	-	-	0:38:22.173000	0:38:24.500000
 ,	-	-	-	0:38:22.173000	0:38:24.500000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:22.173000" end="0:38:24.500000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:22.173000" end="0:38:24.500000" age_lower="18" age_upper="35">
 und	-	-	-	0:38:22.173000	0:38:24.500000
 so	-	-	-	0:38:22.173000	0:38:24.500000
 "kr	-	-	-	0:38:22.173000	0:38:24.500000
 kr"	-	-	-	0:38:22.173000	0:38:24.500000
 .	-	-	-	0:38:22.173000	0:38:24.500000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:24.500000" end="0:38:27.366000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:24.500000" end="0:38:27.366000" age_lower="18" age_upper="35">
 also	-	-	-	0:38:24.500000	0:38:27.366000
 ich	-	-	-	0:38:24.500000	0:38:27.366000
 habe	-	-	-	0:38:24.500000	0:38:27.366000
@@ -9983,9 +9983,9 @@ Satz	-	-	-	0:38:24.500000	0:38:27.366000
 gelernt	-	-	-	0:38:24.500000	0:38:27.366000
 ,	-	-	-	0:38:24.500000	0:38:27.366000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:24.500000" end="0:38:27.366000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:24.500000" end="0:38:27.366000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:27.366000" end="0:38:38.880000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:27.366000" end="0:38:38.880000" age_lower="18" age_upper="35">
 ich	-	-	-	0:38:27.366000	0:38:30.866000
 kann	-	-	-	0:38:27.366000	0:38:30.866000
 ihn	-	-	-	0:38:27.366000	0:38:30.866000
@@ -10010,21 +10010,21 @@ brölla	-	-	-	0:38:35.333000	0:38:38.880000
 ."	-	-	-	0:38:35.333000	0:38:38.880000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:38.880000" end="0:38:40.046000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:38.880000" end="0:38:40.046000" age_lower="18" age_upper="35">
 okay	-	-	-	0:38:38.880000	0:38:40.046000
 und	-	-	-	0:38:38.880000	0:38:40.046000
 jetzt	-	-	-	0:38:38.880000	0:38:40.046000
 Übersetzung	-	-	-	0:38:38.880000	0:38:40.046000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:40.046000" end="0:38:40.680000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:40.046000" end="0:38:40.680000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:40.046000	0:38:40.680000
 .	-	-	-	0:38:40.046000	0:38:40.680000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:40.046000" end="0:38:40.680000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:40.046000" end="0:38:40.680000" age_lower="18" age_upper="35">
 bitte	-	-	-	0:38:40.046000	0:38:40.680000
 !	-	-	-	0:38:40.046000	0:38:40.680000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:40.680000" end="0:38:46.840000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:40.680000" end="0:38:46.840000" age_lower="18" age_upper="35">
 "geh	-	-	-	0:38:40.680000	0:38:43.286000
 mit	-	-	-	0:38:40.680000	0:38:43.286000
 dem	-	-	-	0:38:40.680000	0:38:43.286000
@@ -10040,12 +10040,12 @@ zu	-	-	-	0:38:43.286000	0:38:45.526000
 brüllen	-	-	-	0:38:43.286000	0:38:45.526000
 ."	-	-	-	0:38:43.286000	0:38:45.526000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:45.526000" end="0:38:46.840000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:45.526000" end="0:38:46.840000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:45.526000	0:38:46.840000
 das	-	-	-	0:38:45.526000	0:38:46.840000
 (yeah)	-	-	-	0:38:45.526000	0:38:46.840000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:46.840000" end="0:38:52.153000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:46.840000" end="0:38:52.153000" age_lower="18" age_upper="35">
 also	-	-	-	0:38:46.840000	0:38:47.900000
 das	-	-	-	0:38:46.840000	0:38:47.900000
 *musst*	-	-	-	0:38:46.840000	0:38:47.900000
@@ -10067,7 +10067,7 @@ _herderleitet_	-	-	KONJ	0:38:47.900000	0:38:52.153000
 also	-	-	-	0:38:47.900000	0:38:52.153000
 /.	-	-	-	0:38:47.900000	0:38:52.153000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:52.153000" end="0:38:54.760000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:52.153000" end="0:38:54.760000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ah	-	-	-	0:38:52.153000	0:38:54.760000
 halte	-	-	-	0:38:52.153000	0:38:54.760000
@@ -10075,18 +10075,18 @@ dich	-	-	-	0:38:52.153000	0:38:54.760000
 an	-	-	-	0:38:52.153000	0:38:54.760000
 !	-	-	-	0:38:52.153000	0:38:54.760000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:54.760000" end="0:38:56.066000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:54.760000" end="0:38:56.066000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:56.066000" end="0:38:57.006000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:56.066000" end="0:38:57.006000" age_lower="18" age_upper="35">
 aha	-	-	-	0:38:56.066000	0:38:57.006000
 ja	-	-	-	0:38:56.066000	0:38:57.006000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:57.006000" end="0:38:57.586000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:57.006000" end="0:38:57.586000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:57.006000	0:38:57.586000
 .	-	-	-	0:38:57.006000	0:38:57.586000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:57.006000" end="0:38:58.633000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:57.006000" end="0:38:58.633000" age_lower="18" age_upper="35">
 gut	-	-	-	0:38:57.006000	0:38:57.586000
 ,	-	-	-	0:38:57.006000	0:38:57.586000
 hat	-	-	-	0:38:57.586000	0:38:58.633000
@@ -10096,15 +10096,15 @@ deine	-	-	-	0:38:57.586000	0:38:58.633000
 Mama	-	-	-	0:38:57.586000	0:38:58.633000
 beigebracht	-	-	-	0:38:57.586000	0:38:58.633000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:58.633000" end="0:38:59.366000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:58.633000" end="0:38:59.366000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:38:58.633000	0:38:59.366000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:58.633000" end="0:38:59.366000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:58.633000" end="0:38:59.366000" age_lower="18" age_upper="35">
 oder	-	-	-	0:38:58.633000	0:38:59.366000
 was	-	-	-	0:38:58.633000	0:38:59.366000
 ?	-	-	-	0:38:58.633000	0:38:59.366000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:59.366000" end="0:39:10.326000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:38:59.366000" end="0:39:10.326000" age_lower="18" age_upper="35">
 eben	-	-	-	0:38:59.366000	0:39:01.366000
 wir	-	-	-	0:38:59.366000	0:39:01.366000
 haben	-	-	-	0:38:59.366000	0:39:01.366000
@@ -10142,35 +10142,35 @@ ihr	-	-	-	0:39:07.466000	0:39:08.966000
 gekauft	-	-	-	0:39:07.466000	0:39:08.966000
 ?"	-	-	-	0:39:07.466000	0:39:08.966000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:08.966000" end="0:39:10.326000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:08.966000" end="0:39:10.326000" age_lower="18" age_upper="35">
 was	-	-	-	0:39:08.966000	0:39:10.326000
 haben	-	-	-	0:39:08.966000	0:39:10.326000
 sie	-	-	-	0:39:08.966000	0:39:10.326000
 gekauft	-	-	-	0:39:08.966000	0:39:10.326000
 ?	-	-	-	0:39:08.966000	0:39:10.326000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:10.326000" end="0:39:11.186000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:10.326000" end="0:39:11.186000" age_lower="18" age_upper="35">
 den	-	-	-	0:39:10.326000	0:39:11.186000
 Kinderwagen	-	-	-	0:39:10.326000	0:39:11.186000
 .	-	-	-	0:39:10.326000	0:39:11.186000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:11.186000" end="0:39:11.813000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:11.186000" end="0:39:11.813000" age_lower="18" age_upper="35">
 _schesa_	-	-	-	0:39:11.186000	0:39:11.813000
 ?	-	-	-	0:39:11.186000	0:39:11.813000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:11.813000" end="0:39:12.253000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:11.813000" end="0:39:12.253000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:39:11.813000	0:39:12.253000
 .	-	-	-	0:39:11.813000	0:39:12.253000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:12.253000" end="0:39:13.106000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:12.253000" end="0:39:13.106000" age_lower="18" age_upper="35">
 _schesa_	-	-	-	0:39:12.253000	0:39:13.106000
 .	-	-	-	0:39:12.253000	0:39:13.106000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:13.106000" end="0:39:14.180000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:13.106000" end="0:39:14.180000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:39:13.106000	0:39:14.180000
 .	-	-	-	0:39:13.106000	0:39:14.180000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:14.180000" end="0:39:16.160000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:14.180000" end="0:39:16.160000" age_lower="18" age_upper="35">
 was	-	-	-	0:39:14.180000	0:39:16.160000
 hat	-	-	-	0:39:14.180000	0:39:16.160000
 denn	-	-	-	0:39:14.180000	0:39:16.160000
@@ -10181,32 +10181,32 @@ zum	-	-	-	0:39:14.180000	0:39:16.160000
 Tun	-	-	-	0:39:14.180000	0:39:16.160000
 ?	-	-	-	0:39:14.180000	0:39:16.160000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:16.160000" end="0:39:19.980000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:16.160000" end="0:39:19.980000" age_lower="18" age_upper="35">
 keine	-	-	-	0:39:16.160000	0:39:19.980000
 Ahnung	-	-	-	0:39:16.160000	0:39:19.980000
 .	-	-	-	0:39:16.160000	0:39:19.980000
 <pause duration="2,6s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:19.980000" end="0:39:21.006000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:19.980000" end="0:39:21.006000" age_lower="18" age_upper="35">
 *gehst*	-	-	-	0:39:19.980000	0:39:21.006000
 in	-	-	-	0:39:19.980000	0:39:21.006000
 ein	-	-	-	0:39:19.980000	0:39:21.006000
 Geschäft	-	-	-	0:39:19.980000	0:39:21.006000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.006000" end="0:39:21.873000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.006000" end="0:39:21.873000" age_lower="18" age_upper="35">
 es	-	-	-	0:39:21.006000	0:39:21.873000
 geht	-	-	-	0:39:21.006000	0:39:21.873000
 eigentlich	-	-	-	0:39:21.006000	0:39:21.873000
 um	-	-	-	0:39:21.006000	0:39:21.873000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.006000" end="0:39:21.873000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.006000" end="0:39:21.873000" age_lower="18" age_upper="35">
 hinein	-	-	-	0:39:21.006000	0:39:21.873000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.873000" end="0:39:24.900000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.873000" end="0:39:24.900000" age_lower="18" age_upper="35">
 steirischen	-	-	-	0:39:21.873000	0:39:24.900000
 Dialekt	-	-	-	0:39:21.873000	0:39:24.900000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.873000" end="0:39:34.686000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:21.873000" end="0:39:34.686000" age_lower="18" age_upper="35">
 "ich	-	-	-	0:39:21.873000	0:39:24.900000
 ich	-	-	-	0:39:21.873000	0:39:24.900000
 bräuchte	-	-	-	0:39:21.873000	0:39:24.900000
@@ -10242,9 +10242,9 @@ gleich	-	-	-	0:39:30.766000	0:39:34.686000
 abgehakelt	-	-	-	0:39:30.766000	0:39:34.686000
 .	-	-	-	0:39:30.766000	0:39:34.686000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:34.686000" end="0:39:36.493000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:34.686000" end="0:39:36.493000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:34.686000" end="0:39:38.173000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:34.686000" end="0:39:38.173000" age_lower="18" age_upper="35">
 ah	-	-	-	0:39:34.686000	0:39:36.493000
 *siehst*	-	-	-	0:39:34.686000	0:39:36.493000
 sind	-	-	-	0:39:34.686000	0:39:36.493000
@@ -10258,12 +10258,12 @@ einem	-	-	-	0:39:36.493000	0:39:38.173000
 Schlag	-	-	-	0:39:36.493000	0:39:38.173000
 .	-	-	-	0:39:36.493000	0:39:38.173000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:38.173000" end="0:39:40.566000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:38.173000" end="0:39:40.566000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:39:38.173000	0:39:40.566000
 .	-	-	-	0:39:38.173000	0:39:40.566000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:40.566000" end="0:39:44.286000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:40.566000" end="0:39:44.286000" age_lower="18" age_upper="35">
 ah	-	-	-	0:39:40.566000	0:39:44.286000
 du	-	-	-	0:39:40.566000	0:39:44.286000
 kannst	-	-	-	0:39:40.566000	0:39:44.286000
@@ -10278,7 +10278,7 @@ Lieblingszeitung	-	-	-	0:39:40.566000	0:39:44.286000
 erzählen	-	-	-	0:39:40.566000	0:39:44.286000
 .	-	-	-	0:39:40.566000	0:39:44.286000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:44.286000" end="0:39:53.533000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:44.286000" end="0:39:53.533000" age_lower="18" age_upper="35">
 also	-	-	-	0:39:44.286000	0:39:47.286000
 Lieblingszeitung	-	-	-	0:39:44.286000	0:39:47.286000
 keine	-	-	-	0:39:44.286000	0:39:47.286000
@@ -10305,12 +10305,12 @@ ich	-	-	-	0:39:50.893000	0:39:53.533000
 keines	-	-	-	0:39:50.893000	0:39:53.533000
 ,	-	-	-	0:39:50.893000	0:39:53.533000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:53.533000" end="0:39:54.780000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:53.533000" end="0:39:54.780000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:39:53.533000	0:39:54.780000
 .	-	-	-	0:39:53.533000	0:39:54.780000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:54.780000" end="0:40:06.133000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:39:54.780000" end="0:40:06.133000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:39:54.780000	0:39:58.473000
 <pause duration="0,8s"/>
 relativ	-	-	-	0:39:54.780000	0:39:58.473000
@@ -10344,11 +10344,11 @@ Highland	-	-	-	0:40:01.046000	0:40:06.133000
 Saga	-	-	-	0:40:01.046000	0:40:06.133000
 oder	-	-	-	0:40:01.046000	0:40:06.133000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:06.133000" end="0:40:06.393000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:06.133000" end="0:40:06.393000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:06.133000	0:40:06.393000
 .	-	-	-	0:40:06.133000	0:40:06.393000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:06.393000" end="0:40:15.186000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:06.393000" end="0:40:15.186000" age_lower="18" age_upper="35">
 das	-	-	-	0:40:06.393000	0:40:09.820000
 die	-	-	-	0:40:06.393000	0:40:09.820000
 habe	-	-	-	0:40:06.393000	0:40:09.820000
@@ -10372,11 +10372,11 @@ nächsten	-	-	-	0:40:09.820000	0:40:14.253000
 aber	-	-	-	0:40:14.253000	0:40:15.186000
 sonst	-	-	-	0:40:14.253000	0:40:15.186000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:14.253000" end="0:40:15.186000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:14.253000" end="0:40:15.186000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:14.253000	0:40:15.186000
 .	-	-	-	0:40:14.253000	0:40:15.186000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:15.186000" end="0:40:17.566000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:15.186000" end="0:40:17.566000" age_lower="18" age_upper="35">
 lese	-	-	-	0:40:15.186000	0:40:17.566000
 ich	-	-	-	0:40:15.186000	0:40:17.566000
 auch	-	-	-	0:40:15.186000	0:40:17.566000
@@ -10385,16 +10385,16 @@ queer	-	-	-	0:40:15.186000	0:40:17.566000
 Beet	-	-	-	0:40:15.186000	0:40:17.566000
 und	-	-	-	0:40:15.186000	0:40:17.566000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:17.566000" end="0:40:17.900000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:17.566000" end="0:40:17.900000" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:17.566000	0:40:17.900000
 .	-	-	-	0:40:17.566000	0:40:17.900000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:17.900000" end="0:40:19.146000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:17.900000" end="0:40:19.146000" age_lower="18" age_upper="35">
 (wechselt	-	-	-	0:40:17.900000	0:40:19.146000
 stark)	-	-	-	0:40:17.900000	0:40:19.146000
 .	-	-	-	0:40:17.900000	0:40:19.146000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:19.146000" end="0:40:29.866000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:19.146000" end="0:40:29.866000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:19.146000	0:40:20.493000
 mhm	-	-	-	0:40:19.146000	0:40:20.493000
 ja	-	-	-	0:40:20.493000	0:40:23.766000
@@ -10441,11 +10441,11 @@ Bücher	-	-	-	0:40:28.486000	0:40:29.866000
 liest	-	-	-	0:40:28.486000	0:40:29.866000
 ,	-	-	-	0:40:28.486000	0:40:29.866000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:29.866000" end="0:40:30.213000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:29.866000" end="0:40:30.213000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:29.866000	0:40:30.213000
 .	-	-	-	0:40:29.866000	0:40:30.213000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:30.213000" end="0:40:35.666000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:30.213000" end="0:40:35.666000" age_lower="18" age_upper="35">
 gehe	-	-	-	0:40:30.213000	0:40:32.353000
 ich	-	-	-	0:40:30.213000	0:40:32.353000
 am	-	-	-	0:40:30.213000	0:40:32.353000
@@ -10467,11 +10467,11 @@ mir	-	-	-	0:40:33.800000	0:40:35.666000
 v/	-	-	-	0:40:33.800000	0:40:35.666000
 immer	-	-	-	0:40:33.800000	0:40:35.666000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:35.666000" end="0:40:36.566000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:35.666000" end="0:40:36.566000" age_lower="18" age_upper="35">
 okay	-	-	-	0:40:35.666000	0:40:36.566000
 .	-	-	-	0:40:35.666000	0:40:36.566000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:35.666000" end="0:40:42.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:35.666000" end="0:40:42.246000" age_lower="18" age_upper="35">
 verschiedene	-	-	-	0:40:35.666000	0:40:36.566000
 Bücher	-	-	-	0:40:35.666000	0:40:36.566000
 aus	-	-	-	0:40:35.666000	0:40:36.566000
@@ -10500,11 +10500,11 @@ gar	-	-	-	0:40:37.773000	0:40:42.246000
 nicht	-	-	-	0:40:37.773000	0:40:42.246000
 ,	-	-	-	0:40:37.773000	0:40:42.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:42.246000" end="0:40:42.766000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:42.246000" end="0:40:42.766000" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:42.246000	0:40:42.766000
 .	-	-	-	0:40:42.246000	0:40:42.766000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:42.246000" end="0:40:45.346000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:42.246000" end="0:40:45.346000" age_lower="18" age_upper="35">
 weil	-	-	-	0:40:42.246000	0:40:42.766000
 da	-	-	-	0:40:42.246000	0:40:42.766000
 lasse	-	-	-	0:40:42.246000	0:40:42.766000
@@ -10520,11 +10520,11 @@ oft	-	-	-	0:40:42.766000	0:40:45.346000
 beeinflussen	-	-	-	0:40:42.766000	0:40:45.346000
 ,	-	-	-	0:40:42.766000	0:40:45.346000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:45.346000" end="0:40:45.613000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:45.346000" end="0:40:45.613000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:45.346000	0:40:45.613000
 .	-	-	-	0:40:45.346000	0:40:45.613000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:45.346000" end="0:40:47.900000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:45.346000" end="0:40:47.900000" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:40:45.346000	0:40:45.613000
 eh	-	-	-	0:40:45.346000	0:40:45.613000
 ,	-	-	-	0:40:45.346000	0:40:45.613000
@@ -10537,11 +10537,11 @@ von	-	-	-	0:40:45.613000	0:40:47.900000
 den	-	-	-	0:40:45.613000	0:40:47.900000
 Bestsellern	-	-	-	0:40:45.613000	0:40:47.900000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:47.900000" end="0:40:48.380000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:47.900000" end="0:40:48.380000" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:47.900000	0:40:48.380000
 .	-	-	-	0:40:47.900000	0:40:48.380000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:47.900000" end="0:40:50.346000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:47.900000" end="0:40:50.346000" age_lower="18" age_upper="35">
 oder	-	-	-	0:40:47.900000	0:40:48.380000
 was	-	-	-	0:40:47.900000	0:40:48.380000
 weiß	-	-	-	0:40:47.900000	0:40:48.380000
@@ -10557,11 +10557,11 @@ da	-	-	-	0:40:48.380000	0:40:50.346000
 _zuwi_	-	-	-	0:40:48.380000	0:40:50.346000
 ,	-	-	-	0:40:48.380000	0:40:50.346000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:50.346000" end="0:40:50.846000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:50.346000" end="0:40:50.846000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:50.346000	0:40:50.846000
 .	-	-	-	0:40:50.346000	0:40:50.846000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:50.346000" end="0:40:52.506000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:50.346000" end="0:40:52.506000" age_lower="18" age_upper="35">
 und	-	-	-	0:40:50.346000	0:40:50.846000
 jetzt	-	-	-	0:40:50.346000	0:40:50.846000
 *findest*	-	-	-	0:40:50.846000	0:40:52.506000
@@ -10573,11 +10573,11 @@ gar	-	-	-	0:40:50.846000	0:40:52.506000
 nicht	-	-	-	0:40:50.846000	0:40:52.506000
 .	-	-	-	0:40:50.846000	0:40:52.506000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:52.506000" end="0:40:52.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:52.506000" end="0:40:52.906000" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:52.506000	0:40:52.906000
 .	-	-	-	0:40:52.506000	0:40:52.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:52.906000" end="0:40:55.833000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:52.906000" end="0:40:55.833000" age_lower="18" age_upper="35">
 und	-	-	-	0:40:52.906000	0:40:54.520000
 deswegen	-	-	-	0:40:52.906000	0:40:54.520000
 gehe	-	-	-	0:40:52.906000	0:40:54.520000
@@ -10594,11 +10594,11 @@ dort	-	-	-	0:40:54.520000	0:40:55.833000
 einmal	-	-	-	0:40:54.520000	0:40:55.833000
 durch	-	-	-	0:40:54.520000	0:40:55.833000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:55.833000" end="0:40:56.280000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:55.833000" end="0:40:56.280000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:40:55.833000	0:40:56.280000
 .	-	-	-	0:40:55.833000	0:40:56.280000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:55.833000" end="0:41:02.053000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:40:55.833000" end="0:41:02.053000" age_lower="18" age_upper="35">
 und	-	-	-	0:40:55.833000	0:40:56.280000
 dann	-	-	-	0:40:55.833000	0:40:56.280000
 frage	-	-	-	0:40:56.280000	0:41:00.033000
@@ -10630,11 +10630,11 @@ schon	-	-	-	0:41:00.480000	0:41:02.053000
 bissel	-	-	-	0:41:00.480000	0:41:02.053000
 was	-	-	-	0:41:00.480000	0:41:02.053000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:02.053000" end="0:41:04.053000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:02.053000" end="0:41:04.053000" age_lower="18" age_upper="35">
 (mhm)	-	-	-	0:41:02.053000	0:41:04.053000
 ja	-	-	-	0:41:02.053000	0:41:04.053000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:02.053000" end="0:41:08.846000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:02.053000" end="0:41:08.846000" age_lower="18" age_upper="35">
 und	-	-	-	0:41:02.053000	0:41:04.053000
 nachher	-	-	-	0:41:02.053000	0:41:04.053000
 borge	-	-	-	0:41:02.053000	0:41:04.053000
@@ -10673,7 +10673,7 @@ in	-	-	-	0:41:07.920000	0:41:08.846000
 einem	-	-	-	0:41:07.920000	0:41:08.846000
 /.	-	-	-	0:41:07.920000	0:41:08.846000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:08.846000" end="0:41:11.980000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:08.846000" end="0:41:11.980000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:08.846000	0:41:11.980000
 *stimmt*	-	-	-	0:41:08.846000	0:41:11.980000
 aber	-	-	-	0:41:08.846000	0:41:11.980000
@@ -10681,24 +10681,24 @@ eh	-	-	-	0:41:08.846000	0:41:11.980000
 .	-	-	-	0:41:08.846000	0:41:11.980000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:08.846000" end="0:41:12.860000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:08.846000" end="0:41:12.860000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:41:08.846000	0:41:11.980000
 PErson))	-	-	-	0:41:08.846000	0:41:11.980000
 SONSTIGE	SONSTIGE	-	-	0:41:08.846000	0:41:11.980000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:12.860000" end="0:41:13.813000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:12.860000" end="0:41:13.813000" age_lower="18" age_upper="35">
 keine	-	-	-	0:41:12.860000	0:41:13.813000
 Zeit	-	-	-	0:41:12.860000	0:41:13.813000
 jetzt	-	-	-	0:41:12.860000	0:41:13.813000
 zum	-	-	-	0:41:12.860000	0:41:13.813000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:12.860000" end="0:41:13.813000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:12.860000" end="0:41:13.813000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:13.813000" end="0:41:14.500000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:13.813000" end="0:41:14.500000" age_lower="18" age_upper="35">
 Essen	-	-	-	0:41:13.813000	0:41:14.500000
 .	-	-	-	0:41:13.813000	0:41:14.500000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:13.813000" end="0:41:26.360000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:13.813000" end="0:41:26.360000" age_lower="18" age_upper="35">
 keine	-	-	-	0:41:13.813000	0:41:14.500000
 Zeit	-	-	-	0:41:13.813000	0:41:14.500000
 jetzt	-	-	-	0:41:13.813000	0:41:14.500000
@@ -10737,7 +10737,7 @@ finde	-	-	-	0:41:24.013000	0:41:26.360000
 ich	-	-	-	0:41:24.013000	0:41:26.360000
 .	-	-	-	0:41:24.013000	0:41:26.360000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:26.360000" end="0:41:29.606000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:26.360000" end="0:41:29.606000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:26.360000	0:41:28.880000
 also	-	-	-	0:41:26.360000	0:41:28.880000
 wir	-	-	-	0:41:26.360000	0:41:28.880000
@@ -10756,10 +10756,10 @@ eh	-	-	-	0:41:28.880000	0:41:29.606000
 zwei	-	-	-	0:41:28.880000	0:41:29.606000
 ,	-	-	-	0:41:28.880000	0:41:29.606000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:28.880000" end="0:41:29.606000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:28.880000" end="0:41:29.606000" age_lower="18" age_upper="35">
 (ja)	-	-	-	0:41:28.880000	0:41:29.606000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:29.606000" end="0:41:32.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:29.606000" end="0:41:32.140000" age_lower="18" age_upper="35">
 aber	-	-	-	0:41:29.606000	0:41:30.733000
 das	-	-	-	0:41:29.606000	0:41:30.733000
 wechselt	-	-	-	0:41:29.606000	0:41:30.733000
@@ -10775,11 +10775,11 @@ lieber	-	-	-	0:41:30.733000	0:41:32.140000
 lese	-	-	-	0:41:30.733000	0:41:32.140000
 .	-	-	-	0:41:30.733000	0:41:32.140000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:32.140000" end="0:41:32.693000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:32.140000" end="0:41:32.693000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:41:32.140000	0:41:32.693000
 .	-	-	-	0:41:32.140000	0:41:32.693000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:32.693000" end="0:41:36.906000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:32.693000" end="0:41:36.906000" age_lower="18" age_upper="35">
 aber	-	-	-	0:41:32.693000	0:41:35.800000
 eben	-	-	-	0:41:32.693000	0:41:35.800000
 und	-	-	-	0:41:32.693000	0:41:35.800000
@@ -10794,13 +10794,13 @@ nicht	-	-	-	0:41:35.800000	0:41:36.906000
 zusammen	-	-	-	0:41:35.800000	0:41:36.906000
 .	-	-	-	0:41:35.800000	0:41:36.906000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:35.800000" end="0:41:36.906000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:35.800000" end="0:41:36.906000" age_lower="18" age_upper="35">
 da	-	-	-	0:41:35.800000	0:41:36.906000
 /.	-	-	-	0:41:35.800000	0:41:36.906000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:36.906000" end="0:41:38.373000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:36.906000" end="0:41:38.373000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:36.906000" end="0:41:42.173000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:36.906000" end="0:41:42.173000" age_lower="18" age_upper="35">
 ich	-	-	-	0:41:36.906000	0:41:38.373000
 ich	-	-	-	0:41:36.906000	0:41:38.373000
 frage	-	-	-	0:41:36.906000	0:41:38.373000
@@ -10820,9 +10820,9 @@ einmal	-	-	-	0:41:39.566000	0:41:42.173000
 aufgeblättert	-	-	-	0:41:39.566000	0:41:42.173000
 habe	-	-	-	0:41:39.566000	0:41:42.173000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:42.173000" end="0:41:45.120000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:42.173000" end="0:41:45.120000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:42.173000" end="0:41:48.160000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:42.173000" end="0:41:48.160000" age_lower="18" age_upper="35">
 und	-	-	-	0:41:42.173000	0:41:45.120000
 ja	-	-	-	0:41:42.173000	0:41:45.120000
 ,	-	-	-	0:41:42.173000	0:41:45.120000
@@ -10841,11 +10841,11 @@ großen	-	-	-	0:41:45.120000	0:41:48.160000
 Frühstückstisch	-	-	-	0:41:45.120000	0:41:48.160000
 ,	-	-	-	0:41:45.120000	0:41:48.160000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:48.160000" end="0:41:49.826000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:48.160000" end="0:41:49.826000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:48.160000	0:41:49.826000
 .	-	-	-	0:41:48.160000	0:41:49.826000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:48.160000" end="0:41:55.026000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:48.160000" end="0:41:55.026000" age_lower="18" age_upper="35">
 damit	-	-	-	0:41:48.160000	0:41:49.826000
 du	-	-	-	0:41:48.160000	0:41:49.826000
 die	-	-	-	0:41:48.160000	0:41:49.826000
@@ -10873,11 +10873,11 @@ du	-	-	-	0:41:54.380000	0:41:55.026000
 mich	-	-	-	0:41:54.380000	0:41:55.026000
 /.	-	-	-	0:41:54.380000	0:41:55.026000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:55.026000" end="0:41:55.560000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:55.026000" end="0:41:55.560000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:41:55.026000	0:41:55.560000
 .	-	-	-	0:41:55.026000	0:41:55.560000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:55.026000" end="0:41:58.200000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:55.026000" end="0:41:58.200000" age_lower="18" age_upper="35">
 musst	-	-	-	0:41:55.026000	0:41:55.560000
 du	-	-	-	0:41:55.026000	0:41:55.560000
 wieder	-	-	-	0:41:55.026000	0:41:55.560000
@@ -10887,7 +10887,7 @@ ziehen	-	-	-	0:41:55.560000	0:41:58.200000
 .	-	-	-	0:41:55.560000	0:41:58.200000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:58.200000" end="0:42:01.540000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:41:58.200000" end="0:42:01.540000" age_lower="18" age_upper="35">
 das	-	-	-	0:41:58.200000	0:42:01.540000
 haben	-	-	-	0:41:58.200000	0:42:01.540000
 wir	-	-	-	0:41:58.200000	0:42:01.540000
@@ -10901,7 +10901,7 @@ oder	-	-	-	0:41:58.200000	0:42:01.540000
 ?	-	-	-	0:41:58.200000	0:42:01.540000
 <pause duration="1,0s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:01.540000" end="0:42:03.720000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:01.540000" end="0:42:03.720000" age_lower="18" age_upper="35">
 Sprache	-	-	-	0:42:01.540000	0:42:03.720000
 von	-	-	-	0:42:01.540000	0:42:03.720000
 Nachrichtensprechern	-	-	-	0:42:01.540000	0:42:03.720000
@@ -10912,11 +10912,11 @@ wir	-	-	-	0:42:01.540000	0:42:03.720000
 ich	-	-	-	0:42:01.540000	0:42:03.720000
 glaube	-	-	-	0:42:01.540000	0:42:03.720000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:03.720000" end="0:42:04.533000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:03.720000" end="0:42:04.533000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:42:03.720000	0:42:04.533000
 .	-	-	-	0:42:03.720000	0:42:04.533000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:03.720000" end="0:42:06.800000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:03.720000" end="0:42:06.800000" age_lower="18" age_upper="35">
 schon	-	-	-	0:42:03.720000	0:42:04.533000
 besprochen	-	-	-	0:42:03.720000	0:42:04.533000
 ,	-	-	-	0:42:03.720000	0:42:04.533000
@@ -10931,12 +10931,12 @@ auf	-	-	-	0:42:04.533000	0:42:06.800000
 unsere	-	-	-	0:42:04.533000	0:42:06.800000
 (?).	-	-	-	0:42:04.533000	0:42:06.800000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:06.800000" end="0:42:11.593000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:06.800000" end="0:42:11.593000" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:06.800000	0:42:11.593000
 .	-	-	-	0:42:06.800000	0:42:11.593000
 <pause duration="4,4s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:06.800000" end="0:42:15.080000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:06.800000" end="0:42:15.080000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:42:06.800000	0:42:11.593000
 Person))	-	-	-	0:42:06.800000	0:42:11.593000
 SONSTIGE	SONSTIGE	-	-	0:42:06.800000	0:42:11.593000
@@ -10945,7 +10945,7 @@ mhm	-	-	-	0:42:11.593000	0:42:15.080000
 .	-	-	-	0:42:11.593000	0:42:15.080000
 <pause duration="1,9s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:15.080000" end="0:42:22.013000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:15.080000" end="0:42:22.013000" age_lower="18" age_upper="35">
 die	-	-	-	0:42:15.080000	0:42:20.260000
 Grünen	-	-	-	0:42:15.080000	0:42:20.260000
 haben	-	-	-	0:42:15.080000	0:42:20.260000
@@ -10969,7 +10969,7 @@ wir	-	-	-	0:42:20.260000	0:42:22.013000
 nichts	-	-	-	0:42:20.260000	0:42:22.013000
 /.	-	-	-	0:42:20.260000	0:42:22.013000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:22.013000" end="0:42:30.166000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:22.013000" end="0:42:30.166000" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:22.013000	0:42:23.293000
 das	-	-	-	0:42:22.013000	0:42:23.293000
 sind	-	-	-	0:42:22.013000	0:42:23.293000
@@ -10998,21 +10998,21 @@ auch	-	-	-	0:42:28.046000	0:42:29.560000
 schon	-	-	-	0:42:28.046000	0:42:29.560000
 eigene	-	-	-	0:42:29.560000	0:42:30.166000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:30.166000" end="0:42:32.493000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:30.166000" end="0:42:32.493000" age_lower="18" age_upper="35">
 eigene	-	-	-	0:42:30.166000	0:42:32.493000
 Fernsehsendung	-	-	-	0:42:30.166000	0:42:32.493000
 ,	-	-	-	0:42:30.166000	0:42:32.493000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:30.166000" end="0:42:32.493000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:30.166000" end="0:42:32.493000" age_lower="18" age_upper="35">
 Fernsehsendung	-	-	-	0:42:30.166000	0:42:32.493000
 !	-	-	-	0:42:30.166000	0:42:32.493000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:32.493000" end="0:42:34.786000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:32.493000" end="0:42:34.786000" age_lower="18" age_upper="35">
 ja	-	-	-	0:42:32.493000	0:42:34.786000
 .	-	-	-	0:42:32.493000	0:42:34.786000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:34.786000" end="0:43:02.040000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:42:34.786000" end="0:43:02.040000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:42:34.786000	0:42:37.026000
 ich	-	-	-	0:42:34.786000	0:42:37.026000
 eine	-	-	-	0:42:34.786000	0:42:37.026000
@@ -11098,24 +11098,24 @@ aber	-	-	-	0:42:59.653000	0:43:02.040000
 /.	-	-	-	0:42:59.653000	0:43:02.040000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:02.040000" end="0:43:02.640000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:02.040000" end="0:43:02.640000" age_lower="18" age_upper="35">
 könnte	-	-	KONJ	0:43:02.040000	0:43:02.640000
 ich	-	-	KONJ	0:43:02.040000	0:43:02.640000
 mir	-	-	KONJ	0:43:02.040000	0:43:02.640000
 dich	-	-	KONJ	0:43:02.040000	0:43:02.640000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:02.040000" end="0:43:02.640000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:02.040000" end="0:43:02.640000" age_lower="18" age_upper="35">
 ich	-	-	-	0:43:02.040000	0:43:02.640000
 meine	-	-	-	0:43:02.040000	0:43:02.640000
 ,	-	-	-	0:43:02.040000	0:43:02.640000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:02.640000" end="0:43:03.480000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:02.640000" end="0:43:03.480000" age_lower="18" age_upper="35">
 aber	-	-	KONJ	0:43:02.640000	0:43:03.480000
 gut	-	-	KONJ	0:43:02.640000	0:43:03.480000
 vorstellen	-	-	KONJ	0:43:02.640000	0:43:03.480000
 .	-	-	-	0:43:02.640000	0:43:03.480000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:03.480000" end="0:43:04.953000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:03.480000" end="0:43:04.953000" age_lower="18" age_upper="35">
 Witze	-	-	-	0:43:03.480000	0:43:04.953000
 erzählen	-	-	-	0:43:03.480000	0:43:04.953000
 kann	-	-	-	0:43:03.480000	0:43:04.953000
@@ -11124,12 +11124,12 @@ nämlich	-	-	-	0:43:03.480000	0:43:04.953000
 nicht	-	-	-	0:43:03.480000	0:43:04.953000
 ,	-	-	-	0:43:03.480000	0:43:04.953000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:04.953000" end="0:43:06.113000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:04.953000" end="0:43:06.113000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:43:04.953000	0:43:06.113000
 Person))	-	-	-	0:43:04.953000	0:43:06.113000
 SONSTIGE	SONSTIGE	-	-	0:43:04.953000	0:43:06.113000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:04.953000" end="0:43:08.113000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:04.953000" end="0:43:08.113000" age_lower="18" age_upper="35">
 das	-	-	-	0:43:04.953000	0:43:06.113000
 ist	-	-	-	0:43:04.953000	0:43:06.113000
 mein	-	-	-	0:43:04.953000	0:43:06.113000
@@ -11145,9 +11145,9 @@ Sachen	-	-	-	0:43:06.113000	0:43:08.113000
 nachmachen	-	-	-	0:43:06.113000	0:43:08.113000
 ,	-	-	-	0:43:06.113000	0:43:08.113000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:08.113000" end="0:43:09.580000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:08.113000" end="0:43:09.580000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:08.113000" end="0:43:15.360000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:08.113000" end="0:43:15.360000" age_lower="18" age_upper="35">
 also	-	-	-	0:43:08.113000	0:43:09.580000
 von	-	-	-	0:43:08.113000	0:43:09.580000
 dem	-	-	-	0:43:08.113000	0:43:09.580000
@@ -11177,12 +11177,12 @@ wahrscheinlich	-	-	-	0:43:12.626000	0:43:15.360000
 machen	-	-	-	0:43:12.626000	0:43:15.360000
 .	-	-	-	0:43:12.626000	0:43:15.360000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:15.360000" end="0:43:17.486000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:15.360000" end="0:43:17.486000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:43:15.360000	0:43:17.486000
 Person))	-	-	-	0:43:15.360000	0:43:17.486000
 SONSTIGE	SONSTIGE	-	-	0:43:15.360000	0:43:17.486000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:15.360000" end="0:43:26.520000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:15.360000" end="0:43:26.520000" age_lower="18" age_upper="35">
 nein	-	-	-	0:43:15.360000	0:43:17.486000
 es	-	-	-	0:43:15.360000	0:43:17.486000
 zeichnet	-	-	-	0:43:15.360000	0:43:17.486000
@@ -11218,7 +11218,7 @@ du	-	-	-	0:43:24.913000	0:43:26.520000
 machen	-	-	-	0:43:24.913000	0:43:26.520000
 ?	-	-	-	0:43:24.913000	0:43:26.520000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:26.520000" end="0:43:32.840000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:26.520000" end="0:43:32.840000" age_lower="18" age_upper="35">
 was	-	-	KONJ	0:43:26.520000	0:43:27.106000
 täte	-	-	KONJ	0:43:26.520000	0:43:27.106000
 ich	-	-	KONJ	0:43:26.520000	0:43:27.106000
@@ -11251,7 +11251,7 @@ lernen	-	-	KONJ	0:43:31.573000	0:43:32.840000
 dabei	-	-	KONJ	0:43:31.573000	0:43:32.840000
 .	-	-	-	0:43:31.573000	0:43:32.840000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:32.840000" end="0:43:37.386000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:32.840000" end="0:43:37.386000" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:32.840000	0:43:34.620000
 Quizmodera/	-	-	-	0:43:32.840000	0:43:34.620000
 ja	-	-	-	0:43:32.840000	0:43:34.620000
@@ -11273,21 +11273,21 @@ wissen	-	-	-	0:43:35.780000	0:43:37.386000
 muss	-	-	-	0:43:35.780000	0:43:37.386000
 ,	-	-	-	0:43:35.780000	0:43:37.386000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:37.386000" end="0:43:38.386000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:37.386000" end="0:43:38.386000" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:37.386000	0:43:38.386000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:37.386000" end="0:43:38.386000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:37.386000" end="0:43:38.386000" age_lower="18" age_upper="35">
 allein	-	-	-	0:43:37.386000	0:43:38.386000
 weil	-	-	-	0:43:37.386000	0:43:38.386000
 er	-	-	-	0:43:37.386000	0:43:38.386000
 die	-	-	-	0:43:37.386000	0:43:38.386000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:38.386000" end="0:43:39.533000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:38.386000" end="0:43:39.533000" age_lower="18" age_upper="35">
 (weil	-	-	-	0:43:38.386000	0:43:39.533000
 er	-	-	-	0:43:38.386000	0:43:39.533000
 immer)	-	-	-	0:43:38.386000	0:43:39.533000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:38.386000" end="0:43:39.533000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:38.386000" end="0:43:39.533000" age_lower="18" age_upper="35">
 weil	-	-	-	0:43:38.386000	0:43:39.533000
 er	-	-	-	0:43:38.386000	0:43:39.533000
 die	-	-	-	0:43:38.386000	0:43:39.533000
@@ -11295,21 +11295,21 @@ Show	-	-	-	0:43:38.386000	0:43:39.533000
 moderiert	-	-	-	0:43:38.386000	0:43:39.533000
 .	-	-	-	0:43:38.386000	0:43:39.533000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:39.533000" end="0:43:39.806000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:39.533000" end="0:43:39.806000" age_lower="18" age_upper="35">
 die	-	-	-	0:43:39.533000	0:43:39.806000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:39.533000" end="0:43:39.806000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:39.533000" end="0:43:39.806000" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:39.533000	0:43:39.806000
 .	-	-	-	0:43:39.533000	0:43:39.806000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:39.806000" end="0:43:41.806000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:39.806000" end="0:43:41.806000" age_lower="18" age_upper="35">
 Show	-	-	-	0:43:39.806000	0:43:41.806000
 moderiert	-	-	-	0:43:39.806000	0:43:41.806000
 ja	-	-	-	0:43:39.806000	0:43:41.806000
 .	-	-	-	0:43:39.806000	0:43:41.806000
 <pause duration="1,1s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:41.806000" end="0:43:47.526000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:41.806000" end="0:43:47.526000" age_lower="18" age_upper="35">
 das	-	-	-	0:43:41.806000	0:43:42.980000
 stimmt	-	-	-	0:43:41.806000	0:43:42.980000
 allerdings	-	-	-	0:43:41.806000	0:43:42.980000
@@ -11334,7 +11334,7 @@ nochmal	-	-	-	0:43:45.046000	0:43:47.526000
 umdenken	-	-	-	0:43:45.046000	0:43:47.526000
 .	-	-	-	0:43:45.046000	0:43:47.526000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:47.526000" end="0:43:49.366000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:47.526000" end="0:43:49.366000" age_lower="18" age_upper="35">
 machen	-	-	-	0:43:47.526000	0:43:49.366000
 wir	-	-	-	0:43:47.526000	0:43:49.366000
 miteinander	-	-	-	0:43:47.526000	0:43:49.366000
@@ -11343,12 +11343,12 @@ Quizshow	-	-	-	0:43:47.526000	0:43:49.366000
 oder	-	-	-	0:43:47.526000	0:43:49.366000
 ?	-	-	-	0:43:47.526000	0:43:49.366000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:47.526000" end="0:43:49.366000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:47.526000" end="0:43:49.366000" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:47.526000	0:43:49.366000
 ja	-	-	-	0:43:47.526000	0:43:49.366000
 .	-	-	-	0:43:47.526000	0:43:49.366000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:49.366000" end="0:43:50.833000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:49.366000" end="0:43:50.833000" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:49.366000	0:43:50.833000
 das	-	-	-	0:43:49.366000	0:43:50.833000
 wäre	-	-	-	0:43:49.366000	0:43:50.833000
@@ -11357,7 +11357,7 @@ echt	-	-	-	0:43:49.366000	0:43:50.833000
 cool	-	-	-	0:43:49.366000	0:43:50.833000
 ,	-	-	-	0:43:49.366000	0:43:50.833000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:49.366000" end="0:43:55.880000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:49.366000" end="0:43:55.880000" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:49.366000	0:43:50.833000
 das	-	-	-	0:43:49.366000	0:43:50.833000
 wäre	-	-	-	0:43:49.366000	0:43:50.833000
@@ -11389,14 +11389,14 @@ das	-	-	-	0:43:54.400000	0:43:55.880000
 angemeldet	-	-	-	0:43:54.400000	0:43:55.880000
 .	-	-	-	0:43:54.400000	0:43:55.880000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:55.880000" end="0:43:57.526000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:55.880000" end="0:43:57.526000" age_lower="18" age_upper="35">
 das	-	-	-	0:43:55.880000	0:43:57.526000
 (wäre	-	-	-	0:43:55.880000	0:43:57.526000
 mal)	-	-	-	0:43:55.880000	0:43:57.526000
 cool	-	-	-	0:43:55.880000	0:43:57.526000
 gewesen	-	-	-	0:43:55.880000	0:43:57.526000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:55.880000" end="0:43:58.866000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:55.880000" end="0:43:58.866000" age_lower="18" age_upper="35">
 das	-	-	-	0:43:55.880000	0:43:57.526000
 (wäre	-	-	-	0:43:55.880000	0:43:57.526000
 mal)	-	-	-	0:43:55.880000	0:43:57.526000
@@ -11411,7 +11411,7 @@ wenig	-	-	-	0:43:57.526000	0:43:58.866000
 al	-	-	-	0:43:57.526000	0:43:58.866000
 /.	-	-	-	0:43:57.526000	0:43:58.866000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:58.866000" end="0:44:03.913000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:43:58.866000" end="0:44:03.913000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:43:58.866000	0:44:00.113000
 Person))	-	-	-	0:43:58.866000	0:44:00.113000
 SONSTIGE	SONSTIGE	-	-	0:43:58.866000	0:44:00.113000
@@ -11435,7 +11435,7 @@ bissel	-	-	-	0:44:00.113000	0:44:03.913000
 _quatscheln_	-	-	-	0:44:00.113000	0:44:03.913000
 noch	-	-	-	0:44:00.113000	0:44:03.913000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:00.113000" end="0:44:05.846000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:00.113000" end="0:44:05.846000" age_lower="18" age_upper="35">
 nein	-	-	-	0:44:00.113000	0:44:03.913000
 sie	-	-	-	0:44:00.113000	0:44:03.913000
 sie	-	-	-	0:44:00.113000	0:44:03.913000
@@ -11461,7 +11461,7 @@ Runde	-	-	-	0:44:03.913000	0:44:05.846000
 spazieren	-	-	-	0:44:03.913000	0:44:05.846000
 gegangen	-	-	-	0:44:03.913000	0:44:05.846000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:05.846000" end="0:44:09.746000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:05.846000" end="0:44:09.746000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:44:05.846000	0:44:09.746000
 Person))	-	-	-	0:44:05.846000	0:44:09.746000
 SONSTIGE	SONSTIGE	-	-	0:44:05.846000	0:44:09.746000
@@ -11472,7 +11472,7 @@ Auto	-	-	-	0:44:05.846000	0:44:09.746000
 da	-	-	-	0:44:05.846000	0:44:09.746000
 SONSTIGE	SONSTIGE	-	-	0:44:05.846000	0:44:09.746000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:05.846000" end="0:44:17.253000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:05.846000" end="0:44:17.253000" age_lower="18" age_upper="35">
 und	-	-	-	0:44:05.846000	0:44:09.746000
 nachher	-	-	-	0:44:05.846000	0:44:09.746000
 (hat	-	-	-	0:44:05.846000	0:44:09.746000
@@ -11507,7 +11507,7 @@ im	-	-	-	0:44:16.180000	0:44:17.253000
 (Jugend)gästehaus	-	-	-	0:44:16.180000	0:44:17.253000
 ?	-	-	-	0:44:16.180000	0:44:17.253000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:17.253000" end="0:44:19.140000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:17.253000" end="0:44:19.140000" age_lower="18" age_upper="35">
 ah	-	-	-	0:44:17.253000	0:44:19.140000
 nein	-	-	-	0:44:17.253000	0:44:19.140000
 beim	-	-	-	0:44:17.253000	0:44:19.140000
@@ -11518,12 +11518,12 @@ mir	-	-	-	0:44:17.253000	0:44:19.140000
 erklärt	-	-	-	0:44:17.253000	0:44:19.140000
 .	-	-	-	0:44:17.253000	0:44:19.140000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:19.140000" end="0:44:21.326000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:19.140000" end="0:44:21.326000" age_lower="18" age_upper="35">
 NAME	NAME	-	-	0:44:19.140000	0:44:21.326000
 ?	-	-	-	0:44:19.140000	0:44:21.326000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:21.326000" end="0:44:23.986000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:21.326000" end="0:44:23.986000" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:21.326000	0:44:23.986000
 die	-	-	-	0:44:21.326000	0:44:23.986000
 Zimmer	-	-	-	0:44:21.326000	0:44:23.986000
@@ -11537,17 +11537,17 @@ oder	-	-	-	0:44:21.326000	0:44:23.986000
 jetzt	-	-	-	0:44:21.326000	0:44:23.986000
 (?).	-	-	-	0:44:21.326000	0:44:23.986000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:23.986000" end="0:44:26.680000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:23.986000" end="0:44:26.680000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ((dritte	-	-	-	0:44:23.986000	0:44:26.680000
 Person))	-	-	-	0:44:23.986000	0:44:26.680000
 SONSTIGE	SONSTIGE	-	-	0:44:23.986000	0:44:26.680000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:26.680000" end="0:44:27.033000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:26.680000" end="0:44:27.033000" age_lower="18" age_upper="35">
 nicht	-	-	-	0:44:26.680000	0:44:27.033000
 ?	-	-	-	0:44:26.680000	0:44:27.033000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:27.033000" end="0:44:29.533000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:27.033000" end="0:44:29.533000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ((dritte	-	-	-	0:44:27.033000	0:44:27.526000
 Person))	-	-	-	0:44:27.033000	0:44:27.526000
@@ -11555,11 +11555,11 @@ SONSTIGE	SONSTIGE	-	-	0:44:27.033000	0:44:27.526000
 (sind	-	-	-	0:44:27.526000	0:44:29.533000
 nicht)	-	-	-	0:44:27.526000	0:44:29.533000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:29.533000" end="0:44:33.153000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:29.533000" end="0:44:33.153000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:44:29.533000	0:44:33.153000
 .	-	-	-	0:44:29.533000	0:44:33.153000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:29.533000" end="0:44:34.380000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:29.533000" end="0:44:34.380000" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 ((dritte	-	-	-	0:44:29.533000	0:44:33.153000
 Person))	-	-	-	0:44:29.533000	0:44:33.153000
@@ -11581,7 +11581,7 @@ ja	-	-	-	0:44:33.153000	0:44:34.380000
 nicht	-	-	-	0:44:33.153000	0:44:34.380000
 SONSTIGE	SONSTIGE	-	-	0:44:33.153000	0:44:34.380000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:34.380000" end="0:44:39.006000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:34.380000" end="0:44:39.006000" age_lower="18" age_upper="35">
 okay	-	-	-	0:44:34.380000	0:44:35.033000
 ja	-	-	-	0:44:34.380000	0:44:35.033000
 .	-	-	-	0:44:34.380000	0:44:35.033000
@@ -11599,7 +11599,7 @@ nichts	-	-	-	0:44:35.033000	0:44:39.006000
 okay	-	-	-	0:44:35.033000	0:44:39.006000
 .	-	-	-	0:44:35.033000	0:44:39.006000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:35.033000" end="0:44:42.400000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:35.033000" end="0:44:42.400000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:44:35.033000	0:44:39.006000
 Person))	-	-	-	0:44:35.033000	0:44:39.006000
 SONSTIGE	SONSTIGE	-	-	0:44:35.033000	0:44:39.006000
@@ -11638,10 +11638,10 @@ früher	-	-	-	0:44:40.166000	0:44:42.400000
 war	-	-	-	0:44:40.166000	0:44:42.400000
 ?	-	-	-	0:44:40.166000	0:44:42.400000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:42.400000" end="0:44:45.040000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:42.400000" end="0:44:45.040000" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:42.400000" end="0:44:48.046000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:42.400000" end="0:44:48.046000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:44:42.400000	0:44:45.040000
 Person))	-	-	-	0:44:42.400000	0:44:45.040000
 SONSTIGE	SONSTIGE	-	-	0:44:42.400000	0:44:45.040000
@@ -11671,7 +11671,7 @@ aber	-	-	-	0:44:45.500000	0:44:48.046000
 beim	-	-	-	0:44:45.500000	0:44:48.046000
 NAME	NAME	-	-	0:44:45.500000	0:44:48.046000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:48.046000" end="0:44:49.353000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:48.046000" end="0:44:49.353000" age_lower="18" age_upper="35">
 auf	-	-	-	0:44:48.046000	0:44:49.353000
 die	-	-	-	0:44:48.046000	0:44:49.353000
 Idee	-	-	-	0:44:48.046000	0:44:49.353000
@@ -11683,7 +11683,7 @@ nie	-	-	-	0:44:48.046000	0:44:49.353000
 gekommen	-	-	-	0:44:48.046000	0:44:49.353000
 ,	-	-	-	0:44:48.046000	0:44:49.353000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:48.046000" end="0:44:49.353000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:48.046000" end="0:44:49.353000" age_lower="18" age_upper="35">
 auf	-	-	-	0:44:48.046000	0:44:49.353000
 die	-	-	-	0:44:48.046000	0:44:49.353000
 Idee	-	-	-	0:44:48.046000	0:44:49.353000
@@ -11695,11 +11695,11 @@ nie	-	-	-	0:44:48.046000	0:44:49.353000
 gekommen	-	-	-	0:44:48.046000	0:44:49.353000
 ,	-	-	-	0:44:48.046000	0:44:49.353000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:49.353000" end="0:44:50.793000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:49.353000" end="0:44:50.793000" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:49.353000	0:44:50.793000
 .	-	-	-	0:44:49.353000	0:44:50.793000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:49.353000" end="0:44:52.526000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:49.353000" end="0:44:52.526000" age_lower="18" age_upper="35">
 dass	-	-	-	0:44:49.353000	0:44:50.793000
 ich	-	-	-	0:44:49.353000	0:44:50.793000
 beim	-	-	-	0:44:49.353000	0:44:50.793000
@@ -11716,22 +11716,22 @@ oder	-	-	-	0:44:50.793000	0:44:52.526000
 irgendwas	-	-	-	0:44:50.793000	0:44:52.526000
 ?	-	-	-	0:44:50.793000	0:44:52.526000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:52.526000" end="0:44:53.300000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:52.526000" end="0:44:53.300000" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:52.526000	0:44:53.300000
 .	-	-	-	0:44:52.526000	0:44:53.300000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:52.526000" end="0:44:53.820000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:52.526000" end="0:44:53.820000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:44:52.526000	0:44:53.300000
 Person))	-	-	-	0:44:52.526000	0:44:53.300000
 SONSTIGE	SONSTIGE	-	-	0:44:52.526000	0:44:53.300000
 echt	-	-	-	0:44:53.300000	0:44:53.820000
 ?	-	-	-	0:44:53.300000	0:44:53.820000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:53.820000" end="0:44:55.186000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:53.820000" end="0:44:55.186000" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:53.820000	0:44:55.186000
 .	-	-	-	0:44:53.820000	0:44:55.186000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:53.820000" end="0:44:59.493000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:53.820000" end="0:44:59.493000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:44:53.820000	0:44:55.186000
 Person))	-	-	-	0:44:53.820000	0:44:55.186000
 SONSTIGE	SONSTIGE	-	-	0:44:53.820000	0:44:55.186000
@@ -11753,10 +11753,10 @@ keine	-	-	-	0:44:56.853000	0:44:59.493000
 Ahnung	-	-	-	0:44:56.853000	0:44:59.493000
 /.	-	-	-	0:44:56.853000	0:44:59.493000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:59.493000" end="0:45:01.673000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:59.493000" end="0:45:01.673000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:59.493000" end="0:45:01.673000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:44:59.493000" end="0:45:01.673000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:44:59.493000	0:45:01.673000
 Person))	-	-	-	0:44:59.493000	0:45:01.673000
 SONSTIGE	SONSTIGE	-	-	0:44:59.493000	0:45:01.673000
@@ -11770,12 +11770,12 @@ alt	-	-	-	0:44:59.493000	0:45:01.673000
 gell	-	-	-	0:44:59.493000	0:45:01.673000
 SONSTIGE	SONSTIGE	-	-	0:44:59.493000	0:45:01.673000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:01.673000" end="0:45:03.446000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:01.673000" end="0:45:03.446000" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:01.673000	0:45:03.446000
 .	-	-	-	0:45:01.673000	0:45:03.446000
 ((0,9s))	-	-	-	0:45:01.673000	0:45:03.446000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:03.446000" end="0:45:06.680000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:03.446000" end="0:45:06.680000" age_lower="18" age_upper="35">
 ich	-	-	-	0:45:03.446000	0:45:05.953000
 war	-	-	-	0:45:03.446000	0:45:05.953000
 ehrlich	-	-	-	0:45:03.446000	0:45:05.953000
@@ -11794,7 +11794,7 @@ da	-	-	-	0:45:05.953000	0:45:06.680000
 haben	-	-	-	0:45:05.953000	0:45:06.680000
 .	-	-	-	0:45:05.953000	0:45:06.680000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:06.680000" end="0:45:18.246000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:06.680000" end="0:45:18.246000" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:06.680000	0:45:10.486000
 <pause duration="1,0s"/>
 eben	-	-	-	0:45:06.680000	0:45:10.486000
@@ -11822,9 +11822,9 @@ gerade	-	-	-	0:45:14.646000	0:45:16.040000
 achtzehn	-	-	-	0:45:14.646000	0:45:16.040000
 .	-	-	-	0:45:14.646000	0:45:16.040000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:16.040000" end="0:45:18.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:16.040000" end="0:45:18.246000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:18.246000" end="0:45:19.620000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:18.246000" end="0:45:19.620000" age_lower="18" age_upper="35">
 da	-	-	-	0:45:18.246000	0:45:19.620000
 war	-	-	-	0:45:18.246000	0:45:19.620000
 ich	-	-	-	0:45:18.246000	0:45:19.620000
@@ -11834,26 +11834,26 @@ drei	-	-	-	0:45:18.246000	0:45:19.620000
 Mal	-	-	-	0:45:18.246000	0:45:19.620000
 .	-	-	-	0:45:18.246000	0:45:19.620000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:19.620000" end="0:45:20.013000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:19.620000" end="0:45:20.013000" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:19.620000	0:45:20.013000
 .	-	-	-	0:45:19.620000	0:45:20.013000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:20.013000" end="0:45:21.133000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:20.013000" end="0:45:21.133000" age_lower="18" age_upper="35">
 das	-	-	-	0:45:20.013000	0:45:21.133000
 war	-	-	-	0:45:20.013000	0:45:21.133000
 immer	-	-	-	0:45:20.013000	0:45:21.133000
 lustig	-	-	-	0:45:20.013000	0:45:21.133000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:21.133000" end="0:45:22.346000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:21.133000" end="0:45:22.346000" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:21.133000	0:45:22.346000
 .	-	-	-	0:45:21.133000	0:45:22.346000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:22.346000" end="0:45:25.573000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:22.346000" end="0:45:25.573000" age_lower="18" age_upper="35">
 und	-	-	-	0:45:22.346000	0:45:23.573000
 flüssig	-	-	-	0:45:22.346000	0:45:23.573000
 .	-	-	-	0:45:22.346000	0:45:23.573000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:23.573000" end="0:45:39.093000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:23.573000" end="0:45:39.093000" age_lower="18" age_upper="35">
 und	-	-	-	0:45:23.573000	0:45:25.573000
 flü/	-	-	-	0:45:23.573000	0:45:25.573000
 .((lachen))	-	-	-	0:45:23.573000	0:45:25.573000
@@ -11921,7 +11921,7 @@ Zug	-	-	-	0:45:38	0:45:39.093000
 gekommen	-	-	-	0:45:38	0:45:39.093000
 ?	-	-	-	0:45:38	0:45:39.093000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:39.093000" end="0:45:45.586000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:39.093000" end="0:45:45.586000" age_lower="18" age_upper="35">
 i/	-	-	-	0:45:39.653000	0:45:40.966000
 weiß	-	-	-	0:45:39.653000	0:45:40.966000
 ich	-	-	-	0:45:39.653000	0:45:40.966000
@@ -11953,7 +11953,7 @@ sie	-	-	-	0:45:42.913000	0:45:44.300000
 fragen	-	-	-	0:45:42.913000	0:45:44.300000
 .	-	-	-	0:45:42.913000	0:45:44.300000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:44.300000" end="0:45:48.126000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:44.300000" end="0:45:48.126000" age_lower="18" age_upper="35">
 ja	-	-	-	0:45:44.300000	0:45:45.586000
 das	-	-	-	0:45:44.300000	0:45:45.586000
 fragen	-	-	-	0:45:44.300000	0:45:45.586000
@@ -11977,10 +11977,10 @@ ja	-	-	-	0:45:47	0:45:48.126000
 wirklich	-	-	-	0:45:47	0:45:48.126000
 /.	-	-	-	0:45:47	0:45:48.126000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:48.126000" end="0:45:51.320000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:48.126000" end="0:45:51.320000" age_lower="18" age_upper="35">
 bissel	-	-	-	0:45:48.126000	0:45:51.320000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:48.126000" end="0:45:54.486000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:48.126000" end="0:45:54.486000" age_lower="18" age_upper="35">
 aber	-	-	-	0:45:48.126000	0:45:51.320000
 ja	-	-	-	0:45:48.126000	0:45:51.320000
 mit	-	-	-	0:45:48.126000	0:45:51.320000
@@ -12008,10 +12008,10 @@ SONSTIGE	SONSTIGE	-	-	0:45:51.320000	0:45:54.066000
 hm	-	-	-	0:45:54.066000	0:45:54.486000
 ?	-	-	-	0:45:54.066000	0:45:54.486000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:54.486000" end="0:45:56.233000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:54.486000" end="0:45:56.233000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:54.486000" end="0:46:02.426000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:45:54.486000" end="0:46:02.426000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:45:54.486000	0:45:56.233000
 Person))	-	-	-	0:45:54.486000	0:45:56.233000
 SONSTIGE	SONSTIGE	-	-	0:45:54.486000	0:45:56.233000
@@ -12036,27 +12036,27 @@ nicht	-	-	-	0:46:01.393000	0:46:02.426000
 dazu	-	-	-	0:46:01.393000	0:46:02.426000
 ,	-	-	-	0:46:01.393000	0:46:02.426000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:02.426000" end="0:46:03.360000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:02.426000" end="0:46:03.360000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:46:02.426000	0:46:03.360000
 Person))	-	-	-	0:46:02.426000	0:46:03.360000
 SONSTIGE	SONSTIGE	-	-	0:46:02.426000	0:46:03.360000
 das	-	-	-	0:46:02.426000	0:46:03.360000
 SONSTIGE	SONSTIGE	-	-	0:46:02.426000	0:46:03.360000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:02.426000" end="0:46:03.360000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:02.426000" end="0:46:03.360000" age_lower="18" age_upper="35">
 *weißt*	-	-	-	0:46:02.426000	0:46:03.360000
 eh	-	-	-	0:46:02.426000	0:46:03.360000
 nicht	-	-	-	0:46:02.426000	0:46:03.360000
 /.	-	-	-	0:46:02.426000	0:46:03.360000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:03.360000" end="0:46:04.800000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:03.360000" end="0:46:04.800000" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:46:03.360000	0:46:04.800000
 ja	-	-	-	0:46:03.360000	0:46:04.800000
 ,	-	-	-	0:46:03.360000	0:46:04.800000
 mich	-	-	-	0:46:03.360000	0:46:04.800000
 SONSTIGE	SONSTIGE	-	-	0:46:03.360000	0:46:04.800000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:03.360000" end="0:46:10.333000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:03.360000" end="0:46:10.333000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 das	-	-	-	0:46:04.800000	0:46:07.793000
 ist	-	-	-	0:46:04.800000	0:46:07.793000
@@ -12084,11 +12084,11 @@ vom	-	-	-	0:46:07.793000	0:46:10.333000
 Thema	-	-	-	0:46:07.793000	0:46:10.333000
 .	-	-	-	0:46:07.793000	0:46:10.333000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:10.333000" end="0:46:10.900000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:10.333000" end="0:46:10.900000" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:10.333000	0:46:10.900000
 .	-	-	-	0:46:10.333000	0:46:10.900000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:10.900000" end="0:46:19.393000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:10.900000" end="0:46:19.393000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:46:10.900000	0:46:14.080000
 *weißt*	-	-	-	0:46:10.900000	0:46:14.080000
 ,	-	-	-	0:46:10.900000	0:46:14.080000
@@ -12122,7 +12122,7 @@ auf	-	-	-	0:46:17.166000	0:46:19.393000
 der	-	-	-	0:46:17.166000	0:46:19.393000
 Stimme	-	-	-	0:46:17.166000	0:46:19.393000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:19.393000" end="0:46:20.346000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:19.393000" end="0:46:20.346000" age_lower="18" age_upper="35">
 hast	-	-	-	0:46:19.393000	0:46:20.346000
 ihn	-	-	-	0:46:19.393000	0:46:20.346000
 du	-	-	-	0:46:19.393000	0:46:20.346000
@@ -12130,12 +12130,12 @@ erkannt	-	-	-	0:46:19.393000	0:46:20.346000
 leicht	-	-	-	0:46:19.393000	0:46:20.346000
 ?	-	-	-	0:46:19.393000	0:46:20.346000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:19.393000" end="0:46:20.346000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:19.393000" end="0:46:20.346000" age_lower="18" age_upper="35">
 erkannt	-	-	-	0:46:19.393000	0:46:20.346000
 ja	-	-	-	0:46:19.393000	0:46:20.346000
 .	-	-	-	0:46:19.393000	0:46:20.346000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:20.346000" end="0:46:21.340000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:20.346000" end="0:46:21.340000" age_lower="18" age_upper="35">
 nein	-	-	-	0:46:20.346000	0:46:21.340000
 ich	-	-	-	0:46:20.346000	0:46:21.340000
 hätte	-	-	-	0:46:20.346000	0:46:21.340000
@@ -12144,14 +12144,14 @@ nie	-	-	-	0:46:20.346000	0:46:21.340000
 erkannt	-	-	-	0:46:20.346000	0:46:21.340000
 .	-	-	-	0:46:20.346000	0:46:21.340000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:20.346000" end="0:46:21.340000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:20.346000" end="0:46:21.340000" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:46:20.346000	0:46:21.340000
 ihn	-	-	-	0:46:20.346000	0:46:21.340000
 nicht	-	-	-	0:46:20.346000	0:46:21.340000
 erkannt	-	-	-	0:46:20.346000	0:46:21.340000
 ?	-	-	-	0:46:20.346000	0:46:21.340000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:21.340000" end="0:46:23.580000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:21.340000" end="0:46:23.580000" age_lower="18" age_upper="35">
 nein	-	-	-	0:46:21.340000	0:46:21.580000
 .	-	-	-	0:46:21.340000	0:46:21.580000
 ((dritte	-	-	-	0:46:21.580000	0:46:23.580000
@@ -12161,7 +12161,7 @@ Bürgermeistern	-	-	-	0:46:21.580000	0:46:23.580000
 der	-	-	-	0:46:21.580000	0:46:23.580000
 SONSTIGE	SONSTIGE	-	-	0:46:21.580000	0:46:23.580000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:21.580000" end="0:46:25.840000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:21.580000" end="0:46:25.840000" age_lower="18" age_upper="35">
 weil	-	-	-	0:46:21.580000	0:46:23.580000
 ich	-	-	-	0:46:21.580000	0:46:23.580000
 habe	-	-	-	0:46:21.580000	0:46:23.580000
@@ -12177,7 +12177,7 @@ der	-	-	-	0:46:23.580000	0:46:25.840000
 ?)	-	-	-	0:46:23.580000	0:46:25.840000
 .	-	-	-	0:46:23.580000	0:46:25.840000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:25.840000" end="0:46:27.653000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:25.840000" end="0:46:27.653000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:46:25.840000	0:46:27.653000
 Person))	-	-	-	0:46:25.840000	0:46:27.653000
 SONSTIGE	SONSTIGE	-	-	0:46:25.840000	0:46:27.653000
@@ -12186,7 +12186,7 @@ das	-	-	-	0:46:25.840000	0:46:27.653000
 alles	-	-	-	0:46:25.840000	0:46:27.653000
 SONSTIGE	SONSTIGE	-	-	0:46:25.840000	0:46:27.653000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:27.653000" end="0:46:39.646000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:27.653000" end="0:46:39.646000" age_lower="18" age_upper="35">
 nein	-	-	-	0:46:27.653000	0:46:29.926000
 sie	-	-	-	0:46:27.653000	0:46:29.926000
 war	-	-	-	0:46:27.653000	0:46:29.926000
@@ -12225,12 +12225,12 @@ hinauf	-	-	-	0:46:35.253000	0:46:39.646000
 geredet	-	-	-	0:46:35.253000	0:46:39.646000
 ,	-	-	-	0:46:35.253000	0:46:39.646000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:39.646000" end="0:46:40.553000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:39.646000" end="0:46:40.553000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:46:39.646000	0:46:40.553000
 genau	-	-	-	0:46:39.646000	0:46:40.553000
 .	-	-	-	0:46:39.646000	0:46:40.553000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:39.646000" end="0:46:51.460000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:39.646000" end="0:46:51.460000" age_lower="18" age_upper="35">
 nicht	-	-	-	0:46:39.646000	0:46:40.553000
 ,	-	-	-	0:46:39.646000	0:46:40.553000
 und	-	-	-	0:46:39.646000	0:46:40.553000
@@ -12283,7 +12283,7 @@ wieder	-	-	-	0:46:49.026000	0:46:51.460000
 weg	-	-	-	0:46:49.026000	0:46:51.460000
 ."	-	-	-	0:46:49.026000	0:46:51.460000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:51.460000" end="0:46:55.020000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:51.460000" end="0:46:55.020000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:46:51.460000	0:46:55.020000
 Person))	-	-	-	0:46:51.460000	0:46:55.020000
 SONSTIGE	SONSTIGE	-	-	0:46:51.460000	0:46:55.020000
@@ -12292,7 +12292,7 @@ ist	-	-	-	0:46:51.460000	0:46:55.020000
 das	-	-	-	0:46:51.460000	0:46:55.020000
 SONSTIGE	SONSTIGE	-	-	0:46:51.460000	0:46:55.020000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:51.460000" end="0:46:55.020000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:51.460000" end="0:46:55.020000" age_lower="18" age_upper="35">
 und	-	-	-	0:46:51.460000	0:46:55.020000
 dann	-	-	-	0:46:51.460000	0:46:55.020000
 hast	-	-	-	0:46:51.460000	0:46:55.020000
@@ -12304,7 +12304,7 @@ reden	-	-	-	0:46:51.460000	0:46:55.020000
 sollen	-	-	-	0:46:51.460000	0:46:55.020000
 .	-	-	-	0:46:51.460000	0:46:55.020000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:55.020000" end="0:46:59.246000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:55.020000" end="0:46:59.246000" age_lower="18" age_upper="35">
 was	-	-	-	0:46:55.020000	0:46:55.913000
 ?	-	-	-	0:46:55.020000	0:46:55.913000
 ((dritte	-	-	-	0:46:55.913000	0:46:57.160000
@@ -12322,7 +12322,7 @@ ihrem	-	-	-	0:46:57.160000	0:46:59.246000
 Computer	-	-	-	0:46:57.160000	0:46:59.246000
 .	-	-	-	0:46:57.160000	0:46:59.246000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:57.160000" end="0:46:59.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:57.160000" end="0:46:59.246000" age_lower="18" age_upper="35">
 nein	-	-	-	0:46:57.160000	0:46:59.246000
 sie	-	-	-	0:46:57.160000	0:46:59.246000
 hat	-	-	-	0:46:57.160000	0:46:59.246000
@@ -12332,14 +12332,14 @@ mitgehabt	-	-	-	0:46:57.160000	0:46:59.246000
 mhm	-	-	-	0:46:57.160000	0:46:59.246000
 .	-	-	-	0:46:57.160000	0:46:59.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:59.246000" end="0:46:59.660000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:59.246000" end="0:46:59.660000" age_lower="18" age_upper="35">
 <pause duration="0,4s"/>
 ((dritte	-	-	-	0:46:59.246000	0:46:59.660000
 Person))	-	-	-	0:46:59.246000	0:46:59.660000
 SONSTIGE	SONSTIGE	-	-	0:46:59.246000	0:46:59.660000
 SONSTIGE	SONSTIGE	-	-	0:46:59.246000	0:46:59.660000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:59.660000" end="0:47:08.446000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:46:59.660000" end="0:47:08.446000" age_lower="18" age_upper="35">
 und	-	-	-	0:46:59.660000	0:47:01.306000
 dann	-	-	-	0:46:59.660000	0:47:01.306000
 hast	-	-	-	0:46:59.660000	0:47:01.306000
@@ -12376,15 +12376,15 @@ Beispiel	-	-	-	0:47:07.420000	0:47:08.446000
 das	-	-	-	0:47:07.420000	0:47:08.446000
 so	-	-	-	0:47:07.420000	0:47:08.446000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.446000" end="0:47:08.900000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.446000" end="0:47:08.900000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:47:08.446000	0:47:08.900000
 .	-	-	-	0:47:08.446000	0:47:08.900000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.446000" end="0:47:08.900000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.446000" end="0:47:08.900000" age_lower="18" age_upper="35">
 das	-	-	-	0:47:08.446000	0:47:08.900000
 war	-	-	-	0:47:08.446000	0:47:08.900000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.900000" end="0:47:12.206000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.900000" end="0:47:12.206000" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:08.900000	0:47:12.206000
 ,	-	-	-	0:47:08.900000	0:47:12.206000
 *musst*	-	-	-	0:47:08.900000	0:47:12.206000
@@ -12393,7 +12393,7 @@ voll	-	-	-	0:47:08.900000	0:47:12.206000
 konzentrieren	-	-	-	0:47:08.900000	0:47:12.206000
 .	-	-	-	0:47:08.900000	0:47:12.206000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.900000" end="0:47:19.480000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:08.900000" end="0:47:19.480000" age_lower="18" age_upper="35">
 voll	-	-	-	0:47:08.900000	0:47:12.206000
 anstrengend	-	-	-	0:47:08.900000	0:47:12.206000
 da	-	-	-	0:47:08.900000	0:47:12.206000
@@ -12440,25 +12440,25 @@ der	-	-	-	0:47:18.153000	0:47:19.480000
 Stimme	-	-	-	0:47:18.153000	0:47:19.480000
 erkannt	-	-	-	0:47:18.153000	0:47:19.480000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:19.480000" end="0:47:20.640000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:19.480000" end="0:47:20.640000" age_lower="18" age_upper="35">
 m/	-	-	-	0:47:19.480000	0:47:20.640000
 mir	-	-	-	0:47:19.480000	0:47:20.640000
 ist	-	-	-	0:47:19.480000	0:47:20.640000
 die	-	-	-	0:47:19.480000	0:47:20.640000
 Stimme	-	-	-	0:47:19.480000	0:47:20.640000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:19.480000" end="0:47:20.640000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:19.480000" end="0:47:20.640000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:20.640000" end="0:47:21.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:20.640000" end="0:47:21.473000" age_lower="18" age_upper="35">
 bekannt	-	-	-	0:47:20.640000	0:47:21.473000
 vorgekommen	-	-	-	0:47:20.640000	0:47:21.473000
 ,	-	-	-	0:47:20.640000	0:47:21.473000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:20.640000" end="0:47:21.473000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:20.640000" end="0:47:21.473000" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:20.640000	0:47:21.473000
 .	-	-	-	0:47:20.640000	0:47:21.473000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:21.473000" end="0:47:22.460000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:21.473000" end="0:47:22.460000" age_lower="18" age_upper="35">
 aber	-	-	-	0:47:21.473000	0:47:22.460000
 ich	-	-	-	0:47:21.473000	0:47:22.460000
 hätte	-	-	-	0:47:21.473000	0:47:22.460000
@@ -12468,18 +12468,18 @@ sagen	-	-	-	0:47:21.473000	0:47:22.460000
 können	-	-	-	0:47:21.473000	0:47:22.460000
 ,	-	-	-	0:47:21.473000	0:47:22.460000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:21.473000" end="0:47:22.460000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:21.473000" end="0:47:22.460000" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:21.473000	0:47:22.460000
 ja	-	-	-	0:47:21.473000	0:47:22.460000
 .	-	-	-	0:47:21.473000	0:47:22.460000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:22.460000" end="0:47:23.426000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:22.460000" end="0:47:23.426000" age_lower="18" age_upper="35">
 wer	-	-	-	0:47:22.460000	0:47:23.426000
 es	-	-	-	0:47:22.460000	0:47:23.426000
 ist	-	-	-	0:47:22.460000	0:47:23.426000
 .	-	-	-	0:47:22.460000	0:47:23.426000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:22.460000" end="0:47:30.940000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:22.460000" end="0:47:30.940000" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:22.460000	0:47:23.426000
 ja	-	-	-	0:47:22.460000	0:47:23.426000
 .	-	-	-	0:47:22.460000	0:47:23.426000
@@ -12505,24 +12505,24 @@ sagst	-	-	-	0:47:30.426000	0:47:30.940000
 du	-	-	-	0:47:30.426000	0:47:30.940000
 zu	-	-	-	0:47:30.426000	0:47:30.940000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:30.940000" end="0:47:31.580000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:30.940000" end="0:47:31.580000" age_lower="18" age_upper="35">
 ach	-	-	-	0:47:30.940000	0:47:31.580000
 Gott	-	-	-	0:47:30.940000	0:47:31.580000
 ,	-	-	-	0:47:30.940000	0:47:31.580000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:30.940000" end="0:47:31.580000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:30.940000" end="0:47:31.580000" age_lower="18" age_upper="35">
 dem	-	-	-	0:47:30.940000	0:47:31.580000
 Thema	-	-	-	0:47:30.940000	0:47:31.580000
 ?	-	-	-	0:47:30.940000	0:47:31.580000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:31.580000" end="0:47:33.580000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:31.580000" end="0:47:33.580000" age_lower="18" age_upper="35">
 Österreich	-	-	-	0:47:31.580000	0:47:33.580000
 in	-	-	-	0:47:31.580000	0:47:33.580000
 fünfzig	-	-	-	0:47:31.580000	0:47:33.580000
 Jahren	-	-	-	0:47:31.580000	0:47:33.580000
 .	-	-	-	0:47:31.580000	0:47:33.580000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:33.580000" end="0:47:38.433000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:33.580000" end="0:47:38.433000" age_lower="18" age_upper="35">
 fahren	-	-	-	0:47:33.580000	0:47:38.433000
 wir	-	-	-	0:47:33.580000	0:47:38.433000
 alle	-	-	-	0:47:33.580000	0:47:38.433000
@@ -12537,7 +12537,7 @@ Autos	-	-	-	0:47:33.580000	0:47:38.433000
 und	-	-	-	0:47:33.580000	0:47:38.433000
 /.	-	-	-	0:47:33.580000	0:47:38.433000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:38.433000" end="0:47:43.266000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:38.433000" end="0:47:43.266000" age_lower="18" age_upper="35">
 ja	-	-	-	0:47:38.433000	0:47:40.506000
 ob	-	-	-	0:47:38.433000	0:47:40.506000
 das	-	-	-	0:47:38.433000	0:47:40.506000
@@ -12560,30 +12560,30 @@ der	-	-	-	0:47:42.166000	0:47:43.266000
 Gegend	-	-	-	0:47:42.166000	0:47:43.266000
 .	-	-	-	0:47:42.166000	0:47:43.266000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:42.166000" end="0:47:43.266000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:42.166000" end="0:47:43.266000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:43.266000" end="0:47:44.726000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:43.266000" end="0:47:44.726000" age_lower="18" age_upper="35">
 ((lachen))	-	-	-	0:47:43.266000	0:47:44.726000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:43.266000" end="0:47:44.726000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:43.266000" end="0:47:44.726000" age_lower="18" age_upper="35">
 da	-	-	-	0:47:43.266000	0:47:44.726000
 gebe	-	-	-	0:47:43.266000	0:47:44.726000
 ich	-	-	-	0:47:43.266000	0:47:44.726000
 dir	-	-	-	0:47:43.266000	0:47:44.726000
 Recht	-	-	-	0:47:43.266000	0:47:44.726000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:44.726000" end="0:47:45.860000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:44.726000" end="0:47:45.860000" age_lower="18" age_upper="35">
 möchte	-	-	-	0:47:44.726000	0:47:45.860000
 ich	-	-	-	0:47:44.726000	0:47:45.860000
 nicht	-	-	-	0:47:44.726000	0:47:45.860000
 wissen	-	-	-	0:47:44.726000	0:47:45.860000
 ,	-	-	-	0:47:44.726000	0:47:45.860000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:44.726000" end="0:47:45.860000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:44.726000" end="0:47:45.860000" age_lower="18" age_upper="35">
 allerdings	-	-	-	0:47:44.726000	0:47:45.860000
 .	-	-	-	0:47:44.726000	0:47:45.860000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:45.860000" end="0:47:51.646000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:45.860000" end="0:47:51.646000" age_lower="18" age_upper="35">
 wo	-	-	-	0:47:45.860000	0:47:48.066000
 die	-	-	-	0:47:45.860000	0:47:48.066000
 Autos	-	-	-	0:47:45.860000	0:47:48.066000
@@ -12596,7 +12596,7 @@ Jahren	-	-	-	0:47:48.066000	0:47:51.646000
 .	-	-	-	0:47:48.066000	0:47:51.646000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:51.646000" end="0:47:54.253000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:51.646000" end="0:47:54.253000" age_lower="18" age_upper="35">
 in	-	-	-	0:47:51.646000	0:47:54.253000
 fünfzig	-	-	-	0:47:51.646000	0:47:54.253000
 Jahren	-	-	-	0:47:51.646000	0:47:54.253000
@@ -12609,12 +12609,12 @@ runzelig	-	-	-	0:47:51.646000	0:47:54.253000
 .	-	-	-	0:47:51.646000	0:47:54.253000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:54.253000" end="0:47:56.220000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:54.253000" end="0:47:56.220000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:47:54.253000	0:47:56.220000
 .	-	-	-	0:47:54.253000	0:47:56.220000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:56.220000" end="0:47:57.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:56.220000" end="0:47:57.246000" age_lower="18" age_upper="35">
 gehören	-	-	-	0:47:56.220000	0:47:57.246000
 wir	-	-	-	0:47:56.220000	0:47:57.246000
 schon	-	-	-	0:47:56.220000	0:47:57.246000
@@ -12622,10 +12622,10 @@ um	-	-	-	0:47:56.220000	0:47:57.246000
 öd	-	-	-	0:47:56.220000	0:47:57.246000
 /.	-	-	-	0:47:56.220000	0:47:57.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:57.246000" end="0:47:58.493000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:57.246000" end="0:47:58.493000" age_lower="18" age_upper="35">
 Karterl	-	-	-	0:47:57.246000	0:47:58.493000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:57.246000" end="0:47:58.493000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:57.246000" end="0:47:58.493000" age_lower="18" age_upper="35">
 dann	-	-	-	0:47:57.246000	0:47:58.493000
 können	-	-	-	0:47:57.246000	0:47:58.493000
 wir	-	-	-	0:47:57.246000	0:47:58.493000
@@ -12633,7 +12633,7 @@ die	-	-	-	0:47:57.246000	0:47:58.493000
 grünen	-	-	-	0:47:57.246000	0:47:58.493000
 Karterl	-	-	-	0:47:57.246000	0:47:58.493000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:58.493000" end="0:48:02.173000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:58.493000" end="0:48:02.173000" age_lower="18" age_upper="35">
 genau	-	-	-	0:47:58.493000	0:48:02.173000
 daweil	-	-	-	0:47:58.493000	0:48:02.173000
 haben	-	-	-	0:47:58.493000	0:48:02.173000
@@ -12647,17 +12647,17 @@ zum	-	-	-	0:47:58.493000	0:48:02.173000
 Erzählen	-	-	-	0:47:58.493000	0:48:02.173000
 .	-	-	-	0:47:58.493000	0:48:02.173000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:58.493000" end="0:48:02.173000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:47:58.493000" end="0:48:02.173000" age_lower="18" age_upper="35">
 abarbeiten	-	-	-	0:47:58.493000	0:48:02.173000
 .	-	-	-	0:47:58.493000	0:48:02.173000
 Scheiße	-	-	-	0:47:58.493000	0:48:02.173000
 !	-	-	-	0:47:58.493000	0:48:02.173000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:02.173000" end="0:48:03.593000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:02.173000" end="0:48:03.593000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:02.173000" end="0:48:03.593000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:02.173000" end="0:48:03.593000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:03.593000" end="0:48:06.120000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:03.593000" end="0:48:06.120000" age_lower="18" age_upper="35">
 da	-	-	-	0:48:03.593000	0:48:06.120000
 können	-	-	-	0:48:03.593000	0:48:06.120000
 wir	-	-	-	0:48:03.593000	0:48:06.120000
@@ -12667,7 +12667,7 @@ weiter	-	-	-	0:48:03.593000	0:48:06.120000
 switchen	-	-	-	0:48:03.593000	0:48:06.120000
 .	-	-	-	0:48:03.593000	0:48:06.120000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:03.593000" end="0:48:06.120000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:03.593000" end="0:48:06.120000" age_lower="18" age_upper="35">
 da	-	-	-	0:48:03.593000	0:48:06.120000
 können	-	-	-	0:48:03.593000	0:48:06.120000
 wir	-	-	-	0:48:03.593000	0:48:06.120000
@@ -12677,7 +12677,7 @@ weiter	-	-	-	0:48:03.593000	0:48:06.120000
 switchen	-	-	-	0:48:03.593000	0:48:06.120000
 .	-	-	-	0:48:03.593000	0:48:06.120000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:06.120000" end="0:48:20.153000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:06.120000" end="0:48:20.153000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:48:06.120000	0:48:09.513000
 aber	-	-	-	0:48:06.120000	0:48:09.513000
 Österreich	-	-	-	0:48:06.120000	0:48:09.513000
@@ -12709,7 +12709,7 @@ wir	-	-	-	0:48:19.433000	0:48:20.153000
 so	-	-	-	0:48:19.433000	0:48:20.153000
 .	-	-	-	0:48:19.433000	0:48:20.153000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:20.153000" end="0:48:22.153000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:20.153000" end="0:48:22.153000" age_lower="18" age_upper="35">
 vielleicht	-	-	-	0:48:20.153000	0:48:22.153000
 verbessert	-	-	-	0:48:20.153000	0:48:22.153000
 sich	-	-	-	0:48:20.153000	0:48:22.153000
@@ -12718,11 +12718,11 @@ Englisch	-	-	-	0:48:20.153000	0:48:22.153000
 dann	-	-	-	0:48:20.153000	0:48:22.153000
 .	-	-	-	0:48:20.153000	0:48:22.153000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:22.153000" end="0:48:22.713000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:22.153000" end="0:48:22.713000" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:22.153000	0:48:22.713000
 .	-	-	-	0:48:22.153000	0:48:22.713000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:22.713000" end="0:48:46.360000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:22.713000" end="0:48:46.360000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:48:22.713000	0:48:24.713000
 .	-	-	-	0:48:22.713000	0:48:24.713000
 <pause duration="1,1s"/>
@@ -12788,11 +12788,11 @@ gleich	-	-	-	0:48:43.913000	0:48:46.360000
 schon	-	-	-	0:48:43.913000	0:48:46.360000
 (einschippert)	-	-	-	0:48:43.913000	0:48:46.360000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:46.360000" end="0:48:46.826000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:46.360000" end="0:48:46.826000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:48:46.360000	0:48:46.826000
 .	-	-	-	0:48:46.360000	0:48:46.826000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:46.360000" end="0:48:48.060000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:46.360000" end="0:48:48.060000" age_lower="18" age_upper="35">
 bei	-	-	-	0:48:46.360000	0:48:46.826000
 dir	-	-	-	0:48:46.360000	0:48:46.826000
 ,	-	-	-	0:48:46.360000	0:48:46.826000
@@ -12803,23 +12803,23 @@ dir	-	-	-	0:48:46.826000	0:48:48.060000
 das	-	-	-	0:48:46.826000	0:48:48.060000
 einmal	-	-	-	0:48:46.826000	0:48:48.060000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:48.060000" end="0:48:48.800000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:48.060000" end="0:48:48.800000" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:48.060000	0:48:48.800000
 also	-	-	-	0:48:48.060000	0:48:48.800000
 das	-	-	-	0:48:48.060000	0:48:48.800000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:48.060000" end="0:48:48.800000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:48.060000" end="0:48:48.800000" age_lower="18" age_upper="35">
 vor	-	-	-	0:48:48.060000	0:48:48.800000
 !	-	-	-	0:48:48.060000	0:48:48.800000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:48.800000" end="0:48:50.940000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:48.800000" end="0:48:50.940000" age_lower="18" age_upper="35">
 ist	-	-	-	0:48:48.800000	0:48:49.986000
 beängstigend	-	-	-	0:48:48.800000	0:48:49.986000
 finde	-	-	-	0:48:48.800000	0:48:49.986000
 ich	-	-	-	0:48:48.800000	0:48:49.986000
 ,	-	-	-	0:48:48.800000	0:48:49.986000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:49.986000" end="0:48:53.840000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:49.986000" end="0:48:53.840000" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:49.986000	0:48:50.940000
 (ist	-	-	-	0:48:49.986000	0:48:50.940000
 es	-	-	-	0:48:49.986000	0:48:50.940000
@@ -12840,11 +12840,11 @@ der	-	-	-	0:48:50.940000	0:48:53.840000
 Alexa	-	-	-	0:48:50.940000	0:48:53.840000
 ,	-	-	-	0:48:50.940000	0:48:53.840000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:53.840000" end="0:48:55.113000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:53.840000" end="0:48:55.113000" age_lower="18" age_upper="35">
 ja	-	-	-	0:48:53.840000	0:48:55.113000
 .	-	-	-	0:48:53.840000	0:48:55.113000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:53.840000" end="0:48:57.866000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:53.840000" end="0:48:57.866000" age_lower="18" age_upper="35">
 was	-	-	-	0:48:53.840000	0:48:55.113000
 jetzt	-	-	-	0:48:53.840000	0:48:55.113000
 im	-	-	-	0:48:53.840000	0:48:55.113000
@@ -12859,7 +12859,7 @@ l/	-	-	-	0:48:55.113000	0:48:57.866000
 also	-	-	-	0:48:55.113000	0:48:57.866000
 /.	-	-	-	0:48:55.113000	0:48:57.866000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:57.866000" end="0:49:02.406000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:48:57.866000" end="0:49:02.406000" age_lower="18" age_upper="35">
 wir	-	-	-	0:48:57.866000	0:48:59.520000
 machen	-	-	-	0:48:57.866000	0:48:59.520000
 es	-	-	-	0:48:57.866000	0:48:59.520000
@@ -12874,7 +12874,7 @@ es	-	-	-	0:48:59.520000	0:49:01.053000
 ja	-	-	-	0:48:59.520000	0:49:01.053000
 .	-	-	-	0:48:59.520000	0:49:01.053000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:01.053000" end="0:49:10.246000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:01.053000" end="0:49:10.246000" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:01.053000	0:49:02.406000
 aber	-	-	-	0:49:01.053000	0:49:02.406000
 i/	-	-	-	0:49:01.053000	0:49:02.406000
@@ -12910,13 +12910,13 @@ ein	-	-	-	0:49:08	0:49:10.246000
 "Tuut"	-	-	-	0:49:08	0:49:10.246000
 ,	-	-	-	0:49:08	0:49:10.246000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:10.246000" end="0:49:11.980000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:10.246000" end="0:49:11.980000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:49:10.246000	0:49:11.980000
 ,	-	-	-	0:49:10.246000	0:49:11.980000
 ja	-	-	-	0:49:10.246000	0:49:11.980000
 .	-	-	-	0:49:10.246000	0:49:11.980000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:10.246000" end="0:49:23.326000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:10.246000" end="0:49:23.326000" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:49:10.246000	0:49:11.980000
 (ist	-	-	-	0:49:10.246000	0:49:11.980000
 er	-	-	-	0:49:10.246000	0:49:11.980000
@@ -12991,11 +12991,11 @@ so	-	-	-	0:49:22.146000	0:49:23.326000
 gut	-	-	-	0:49:22.146000	0:49:23.326000
 ,	-	-	-	0:49:22.146000	0:49:23.326000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:23.326000" end="0:49:24.880000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:23.326000" end="0:49:24.880000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:49:23.326000	0:49:24.880000
 .	-	-	-	0:49:23.326000	0:49:24.880000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:23.326000" end="0:49:24.880000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:23.326000" end="0:49:24.880000" age_lower="18" age_upper="35">
 das	-	-	-	0:49:23.326000	0:49:24.880000
 ist	-	-	-	0:49:23.326000	0:49:24.880000
 ja	-	-	-	0:49:23.326000	0:49:24.880000
@@ -13005,7 +13005,7 @@ beängstigend	-	-	-	0:49:23.326000	0:49:24.880000
 oder	-	-	-	0:49:23.326000	0:49:24.880000
 ?	-	-	-	0:49:23.326000	0:49:24.880000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:24.880000" end="0:49:26.940000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:24.880000" end="0:49:26.940000" age_lower="18" age_upper="35">
 versteht	-	-	-	0:49:24.880000	0:49:26.940000
 die	-	-	-	0:49:24.880000	0:49:26.940000
 eigentlich	-	-	-	0:49:24.880000	0:49:26.940000
@@ -13013,14 +13013,14 @@ Dialekt	-	-	-	0:49:24.880000	0:49:26.940000
 ?	-	-	-	0:49:24.880000	0:49:26.940000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:26.940000" end="0:49:27.386000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:26.940000" end="0:49:27.386000" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:26.940000	0:49:27.386000
 !	-	-	-	0:49:26.940000	0:49:27.386000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:27.386000" end="0:49:30.126000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:27.386000" end="0:49:30.126000" age_lower="18" age_upper="35">
 uns	-	-	-	0:49:28.086000	0:49:30.126000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:28.086000" end="0:49:30.986000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:28.086000" end="0:49:30.986000" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:28.086000	0:49:30.126000
 du	-	-	-	0:49:28.086000	0:49:30.126000
 hast	-	-	-	0:49:28.086000	0:49:30.126000
@@ -13038,12 +13038,12 @@ jetzt	-	-	-	0:49:30.126000	0:49:30.986000
 viel	-	-	-	0:49:30.126000	0:49:30.986000
 in	-	-	-	0:49:30.126000	0:49:30.986000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:30.986000" end="0:49:32.300000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:30.986000" end="0:49:32.300000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:49:30.986000	0:49:32.300000
 ja	-	-	-	0:49:30.986000	0:49:32.300000
 .	-	-	-	0:49:30.986000	0:49:32.300000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:30.986000" end="0:49:35.600000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:30.986000" end="0:49:35.600000" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:49:30.986000	0:49:32.300000
 geredet	-	-	-	0:49:30.986000	0:49:32.300000
 haben	-	-	-	0:49:30.986000	0:49:32.300000
@@ -13066,7 +13066,7 @@ hinüber	-	-	-	0:49:32.300000	0:49:35.600000
 geredet	-	-	-	0:49:32.300000	0:49:35.600000
 ,	-	-	-	0:49:32.300000	0:49:35.600000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:35.600000" end="0:49:37.813000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:35.600000" end="0:49:37.813000" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:35.600000	0:49:37.813000
 ,	-	-	-	0:49:35.600000	0:49:37.813000
 zum	-	-	-	0:49:35.600000	0:49:37.813000
@@ -13080,7 +13080,7 @@ so	-	-	-	0:49:35.600000	0:49:37.813000
 eine	-	-	-	0:49:35.600000	0:49:37.813000
 Gaudi	-	-	-	0:49:35.600000	0:49:37.813000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:35.600000" end="0:49:44.380000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:35.600000" end="0:49:44.380000" age_lower="18" age_upper="35">
 weil	-	-	-	0:49:35.600000	0:49:37.813000
 es	-	-	-	0:49:35.600000	0:49:37.813000
 eigentlich	-	-	-	0:49:35.600000	0:49:37.813000
@@ -13127,11 +13127,11 @@ irgendwas	-	-	-	0:49:42.993000	0:49:44.380000
 gesagt	-	-	-	0:49:42.993000	0:49:44.380000
 ,	-	-	-	0:49:42.993000	0:49:44.380000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:44.380000" end="0:49:46.340000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:44.380000" end="0:49:46.340000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:49:44.380000	0:49:46.340000
 .	-	-	-	0:49:44.380000	0:49:46.340000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:44.380000" end="0:49:50.080000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:44.380000" end="0:49:50.080000" age_lower="18" age_upper="35">
 also	-	-	-	0:49:44.380000	0:49:46.340000
 sie	-	-	-	0:49:44.380000	0:49:46.340000
 hat	-	-	-	0:49:44.380000	0:49:46.340000
@@ -13162,11 +13162,11 @@ nicht	-	-	-	0:49:48.026000	0:49:50.080000
 beantworten	-	-	-	0:49:48.026000	0:49:50.080000
 "	-	-	-	0:49:48.026000	0:49:50.080000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:50.080000" end="0:49:50.840000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:50.080000" end="0:49:50.840000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:49:50.080000	0:49:50.840000
 .	-	-	-	0:49:50.080000	0:49:50.840000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:50.080000" end="0:49:53" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:50.080000" end="0:49:53" age_lower="18" age_upper="35">
 oder	-	-	-	0:49:50.080000	0:49:50.840000
 irgend	-	-	-	0:49:50.080000	0:49:50.840000
 sowas	-	-	-	0:49:50.080000	0:49:50.840000
@@ -13181,11 +13181,11 @@ so	-	-	-	0:49:51.486000	0:49:53
 sagst	-	-	-	0:49:51.486000	0:49:53
 ,	-	-	-	0:49:51.486000	0:49:53
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:53" end="0:49:53.640000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:53" end="0:49:53.640000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:49:53	0:49:53.640000
 .	-	-	-	0:49:53	0:49:53.640000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:53" end="0:49:59.226000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:53" end="0:49:59.226000" age_lower="18" age_upper="35">
 aber	-	-	-	0:49:53	0:49:53.640000
 ja	-	-	-	0:49:53.640000	0:49:57.386000
 also	-	-	-	0:49:53.640000	0:49:57.386000
@@ -13210,34 +13210,34 @@ immer	-	-	-	0:49:57.386000	0:49:58.886000
 eh	-	-	-	0:49:58.886000	0:49:59.226000
 .	-	-	-	0:49:58.886000	0:49:59.226000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:59.226000" end="0:49:59.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:59.226000" end="0:49:59.473000" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:59.226000	0:49:59.473000
 .	-	-	-	0:49:59.226000	0:49:59.473000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:59.473000" end="0:50:01.473000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:49:59.473000" end="0:50:01.473000" age_lower="1" age_upper="999">
 hallo	-	-	-	0:49:59.473000	0:50:01.473000
 !	-	-	-	0:49:59.473000	0:50:01.473000
 </u>
-<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:59.473000" end="0:50:01.473000" persName="Informant 0331" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_467" sex="female" age="jung (18-35) -matura" name="Informant 0331" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:49:59.473000" end="0:50:01.473000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:49:59.473000	0:50:01.473000
 Person))	-	-	-	0:49:59.473000	0:50:01.473000
 SONSTIGE	SONSTIGE	-	-	0:49:59.473000	0:50:01.473000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:01.473000" end="0:50:02.293000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:01.473000" end="0:50:02.293000" age_lower="18" age_upper="35">
 hallo	-	-	-	0:50:01.473000	0:50:02.293000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:02.293000" end="0:50:04.153000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:02.293000" end="0:50:04.153000" age_lower="1" age_upper="999">
 und	-	-	-	0:50:02.293000	0:50:04.153000
 ?	-	-	-	0:50:02.293000	0:50:04.153000
 schon	-	-	-	0:50:02.293000	0:50:04.153000
 fertig	-	-	-	0:50:02.293000	0:50:04.153000
 ?	-	-	-	0:50:02.293000	0:50:04.153000
 </u>
-<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:04.153000" end="0:50:05.306000" persName="Informant 0324" residence="Oberwölz, Murau, Steiermark, 8832, Österreich" age_lower="18" age_upper="35">
+<u who="spk_371" sex="female" age="jung (18-35) +matura" name="Informant 0324" location="Oberwölz, Murau, Steiermark, 8832, Österreich" lat="47.2032044" lon="14.2809985" start="0:50:04.153000" end="0:50:05.306000" age_lower="18" age_upper="35">
 sicher	-	-	-	0:50:04.153000	0:50:05.306000
 !	-	-	-	0:50:04.153000	0:50:05.306000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:05.306000" end="0:50:08.846000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:50:05.306000" end="0:50:08.846000" age_lower="1" age_upper="999">
 !	-	-	-	0:50:05.306000	0:50:08.846000
 gut	-	-	-	0:50:05.306000	0:50:08.846000
 dann	-	-	-	0:50:05.306000	0:50:08.846000

@@ -1,6 +1,6 @@
 <doc id="transcript_222" name="0067_WEIS_jungII_m_LESN_Vers10" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="222.xml" title="Transcript: Transcript_222">
-<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:00" end="0:01:07.066000" persName="Informant 0067" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_37" sex="male" age="jung (18-35) +matura" name="Informant 0067" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:00" end="0:01:07.066000" age_lower="18" age_upper="35">
 Pause	-	-	-	0:00:00	0:00:26.626000
 <pause duration="26,6s"/>
 Nordwind	-	-	-	0:00:26.626000	0:00:27.920000

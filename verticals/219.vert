@@ -1,6 +1,6 @@
 <doc id="transcript_219" name="0215_NECK_alt_f_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="219.xml" title="Transcript: Transcript_219">
-<u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:00" end="0:02:21.990000" persName="Informant 0215" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_99" sex="female" age="Alt (65+)" name="Informant 0215" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:00" end="0:02:21.990000" age_lower="65" age_upper="999">
 XXX	XXX	PROPN	-	0:00:00	0:01:18.824000
 Nordwind	Nordwind	NOUN	-	0:01:18.824000	0:01:21.271000
 und	und	CCONJ	-	0:01:18.824000	0:01:21.271000

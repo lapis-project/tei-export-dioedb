@@ -1,8 +1,8 @@
 <doc id="transcript_563" name="4034_WIER_alt_w_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="563.xml" title="Transcript: Transcript_563">
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:00:00" end="0:01:18.799000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:00:00" end="0:01:18.799000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:00:00" end="0:01:23.273000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:00:00" end="0:01:23.273000" age_lower="65" age_upper="999">
 Innenstadt	-	-	-	0:01:18.799000	0:01:19.419000
 war	-	-	-	0:01:19.419000	0:01:21.299000
 ich	-	-	-	0:01:19.419000	0:01:21.299000
@@ -20,11 +20,11 @@ ganz	-	-	-	0:01:21.299000	0:01:23.273000
 ehrlich	-	-	-	0:01:21.299000	0:01:23.273000
 sogen	-	-	-	0:01:21.299000	0:01:23.273000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:23.273000" end="0:01:24.219000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:23.273000" end="0:01:24.219000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:23.273000	0:01:24.219000
 ja	-	-	-	0:01:23.273000	0:01:24.219000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:23.273000" end="0:01:29.246000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:23.273000" end="0:01:29.246000" age_lower="65" age_upper="999">
 also	-	-	-	0:01:23.273000	0:01:25.265000
 Innenstadt	-	-	-	0:01:23.273000	0:01:25.265000
 so	-	-	-	0:01:23.273000	0:01:25.265000
@@ -44,7 +44,7 @@ sonst	-	-	-	0:01:26.853000	0:01:28.826000
 etwas	-	-	-	0:01:26.853000	0:01:28.826000
 aber	-	-	-	0:01:28.826000	0:01:29.246000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:29.246000" end="0:01:32.113000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:29.246000" end="0:01:32.113000" age_lower="1" age_upper="999">
 ist	-	-	-	0:01:29.246000	0:01:32.113000
 wohl	-	-	-	0:01:29.246000	0:01:32.113000
 eher	-	-	-	0:01:29.246000	0:01:32.113000
@@ -52,20 +52,20 @@ die	-	-	-	0:01:29.246000	0:01:32.113000
 touristische	-	-	-	0:01:29.246000	0:01:32.113000
 hochburg	-	-	-	0:01:29.246000	0:01:32.113000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:31.646000" end="0:01:32.113000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:31.646000" end="0:01:32.113000" age_lower="65" age_upper="999">
 genau	-	-	-	0:01:31.646000	0:01:32.113000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:32.113000" end="0:01:33.059000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:32.113000" end="0:01:33.059000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:32.113000" end="0:01:33.453000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:32.113000" end="0:01:33.453000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:01:32.113000	0:01:32.598000
 genau	-	-	-	0:01:32.598000	0:01:33.059000
 genau	-	-	-	0:01:33.059000	0:01:33.453000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:33.453000" end="0:01:34.126000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:33.453000" end="0:01:34.126000" age_lower="1" age_upper="999">
 ja	-	-	-	0:01:33.453000	0:01:34.126000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:33.453000" end="0:01:37.265000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:33.453000" end="0:01:37.265000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:01:33.453000	0:01:34.126000
 ja	-	-	-	0:01:33.453000	0:01:34.126000
 also	-	-	-	0:01:34.126000	0:01:35.333000
@@ -82,7 +82,7 @@ so	-	-	-	0:01:35.853000	0:01:37.039000
 den	-	-	-	0:01:35.853000	0:01:37.039000
 Einblick	-	-	-	0:01:35.853000	0:01:37.039000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:37.265000" end="0:01:43.926000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:37.265000" end="0:01:43.926000" age_lower="1" age_upper="999">
 und	-	-	-	0:01:37.265000	0:01:42.545000
 haben	-	-	-	0:01:37.265000	0:01:42.545000
 Sie	-	-	-	0:01:37.265000	0:01:42.545000
@@ -99,7 +99,7 @@ längere	-	-	-	0:01:42.545000	0:01:43.406000
 Zeit	-	-	-	0:01:42.545000	0:01:43.406000
 oder	-	-	-	0:01:43.406000	0:01:43.926000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:43.926000" end="0:01:46.679000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:43.926000" end="0:01:46.679000" age_lower="65" age_upper="999">
 nein	-	-	-	0:01:43.926000	0:01:44.453000
 nein	-	-	-	0:01:44.453000	0:01:44.733000
 nana	-	-	-	0:01:44.733000	0:01:45.166000
@@ -110,13 +110,13 @@ ni	-	-	-	0:01:45.813000	0:01:46.679000
 nur	-	-	-	0:01:45.813000	0:01:46.679000
 ORT	ORT	-	-	0:01:45.813000	0:01:46.679000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:46.679000" end="0:01:48.239000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:46.679000" end="0:01:48.239000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:01:46.679000	0:01:48.239000
 immer	-	-	-	0:01:46.679000	0:01:48.239000
 treu	-	-	-	0:01:46.679000	0:01:48.239000
 geblieben	-	-	-	0:01:46.679000	0:01:48.239000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:47.679000" end="0:01:49.126000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:47.679000" end="0:01:49.126000" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:01:47.679000	0:01:48.753000
 ORT	ORT	-	-	0:01:47.679000	0:01:48.753000
 nur	-	-	-	0:01:47.679000	0:01:48.753000
@@ -124,23 +124,23 @@ du	-	-	-	0:01:47.679000	0:01:48.753000
 allein	-	-	-	0:01:47.679000	0:01:48.753000
 genau	-	-	-	0:01:48.753000	0:01:49.126000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:49.126000" end="0:01:51.126000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:49.126000" end="0:01:51.126000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:49.126000" end="0:01:51.126000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:49.126000" end="0:01:51.126000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:51.126000" end="0:01:53.126000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:51.126000" end="0:01:53.126000" age_lower="1" age_upper="999">
 und	-	-	-	0:01:51.126000	0:01:53.126000
 aus	-	-	-	0:01:51.126000	0:01:53.126000
 welchen	-	-	-	0:01:51.126000	0:01:53.126000
 Ort	-	-	-	0:01:51.126000	0:01:53.126000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:51.126000" end="0:01:52.152000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:51.126000" end="0:01:52.152000" age_lower="65" age_upper="999">
 na	-	-	-	0:01:51.126000	0:01:52.152000
 ja	-	-	-	0:01:51.126000	0:01:52.152000
 na	-	-	-	0:01:51.126000	0:01:52.152000
 ja	-	-	-	0:01:51.126000	0:01:52.152000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:53.126000" end="0:01:56.666000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:53.126000" end="0:01:56.666000" age_lower="1" age_upper="999">
 oder	-	-	-	0:01:53.126000	0:01:54.453000
 aus	-	-	-	0:01:53.126000	0:01:54.453000
 welchen	-	-	-	0:01:53.126000	0:01:54.453000
@@ -150,12 +150,12 @@ Ihre	-	-	-	0:01:54.453000	0:01:55.739000
 Eltern	-	-	-	0:01:54.453000	0:01:55.739000
 ursprünglich	-	-	-	0:01:55.739000	0:01:56.666000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:56.666000" end="0:01:58.473000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:56.666000" end="0:01:58.473000" age_lower="65" age_upper="999">
 ursprünglich	-	-	-	0:01:56.666000	0:01:58.473000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:58.473000" end="0:01:58.913000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:01:58.473000" end="0:01:58.913000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:58.473000" end="0:02:07.546000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:01:58.473000" end="0:02:07.546000" age_lower="65" age_upper="999">
 nein	-	-	-	0:01:58.473000	0:01:59.126000
 man	-	-	-	0:01:58.473000	0:01:59.126000
 ich	-	-	-	0:01:58.473000	0:01:59.126000
@@ -187,9 +187,9 @@ beide	-	-	-	0:02:05.733000	0:02:07.379000
 verstorben	-	-	-	0:02:05.733000	0:02:07.379000
 schon	-	-	-	0:02:05.733000	0:02:07.379000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:07.546000" end="0:02:08.133000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:07.546000" end="0:02:08.133000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:08.133000" end="0:02:20.886000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:08.133000" end="0:02:20.886000" age_lower="65" age_upper="999">
 sind	-	-	-	0:02:08.133000	0:02:09.098000
 beide	-	-	-	0:02:08.133000	0:02:09.098000
 schon	-	-	-	0:02:08.133000	0:02:09.098000
@@ -226,15 +226,15 @@ man	-	-	-	0:02:18.393000	0:02:20.886000
 ahnerforschung	-	-	-	0:02:18.393000	0:02:20.886000
 betreiben	-	-	-	0:02:18.393000	0:02:20.886000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:20.819000" end="0:02:21.233000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:20.819000" end="0:02:21.233000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:20.886000" end="0:02:22.199000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:20.886000" end="0:02:22.199000" age_lower="65" age_upper="999">
 dass	-	-	-	0:02:21.155000	0:02:21.933000
 man	-	-	-	0:02:21.155000	0:02:21.933000
 das	-	-	-	0:02:21.155000	0:02:21.933000
 macht	-	-	-	0:02:21.155000	0:02:21.933000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:22.199000" end="0:02:24.739000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:22.199000" end="0:02:24.739000" age_lower="1" age_upper="999">
 aber	-	-	-	0:02:22.199000	0:02:24.739000
 grundsätzlich	-	-	-	0:02:22.199000	0:02:24.739000
 auch	-	-	-	0:02:22.199000	0:02:24.739000
@@ -242,7 +242,7 @@ beide	-	-	-	0:02:22.199000	0:02:24.739000
 w	-	-	-	0:02:22.199000	0:02:24.739000
 ORT	ORT	-	-	0:02:22.199000	0:02:24.739000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:23.253000" end="0:02:25.493000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:23.253000" end="0:02:25.493000" age_lower="65" age_upper="999">
 aber	-	-	-	0:02:23.253000	0:02:24.333000
 gru	-	-	-	0:02:23.253000	0:02:24.333000
 aber	-	-	-	0:02:23.253000	0:02:24.333000
@@ -251,17 +251,17 @@ jaja	-	-	-	0:02:24.333000	0:02:24.739000
 ORT	ORT	-	-	0:02:24.739000	0:02:25.139000
 jaja	-	-	-	0:02:25.139000	0:02:25.493000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:25.493000" end="0:02:26.199000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:25.493000" end="0:02:26.199000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:25.493000" end="0:02:27.086000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:25.493000" end="0:02:27.086000" age_lower="65" age_upper="999">
 also	-	-	-	0:02:25.493000	0:02:26.553000
 ORT	ORT	-	-	0:02:25.493000	0:02:26.553000
 ORT	ORT	-	-	0:02:25.493000	0:02:26.553000
 beide	-	-	-	0:02:26.553000	0:02:26.906000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:27.086000" end="0:02:27.639000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:27.086000" end="0:02:27.639000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:27.086000" end="0:02:31.379000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:27.086000" end="0:02:31.379000" age_lower="65" age_upper="999">
 ORT	ORT	-	-	0:02:27.086000	0:02:27.906000
 ORT	ORT	-	-	0:02:27.086000	0:02:27.906000
 das	-	-	-	0:02:27.906000	0:02:28.566000
@@ -277,9 +277,9 @@ ich	-	-	-	0:02:28.799000	0:02:31.379000
 aufgewachsen	-	-	-	0:02:28.799000	0:02:31.379000
 dann	-	-	-	0:02:28.799000	0:02:31.379000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:31.253000" end="0:02:32.146000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:31.253000" end="0:02:32.146000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:31.379000" end="0:02:48.573000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:31.379000" end="0:02:48.573000" age_lower="65" age_upper="999">
 und	-	-	-	0:02:31.566000	0:02:33.506000
 von	-	-	-	0:02:31.566000	0:02:33.506000
 dort	-	-	-	0:02:31.566000	0:02:33.506000
@@ -340,11 +340,11 @@ tot	-	-	-	0:02:46.186000	0:02:48.293000
 schon	-	-	-	0:02:46.186000	0:02:48.293000
 nein	-	-	-	0:02:48.293000	0:02:48.573000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:48.573000" end="0:02:49.539000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:48.573000" end="0:02:49.539000" age_lower="1" age_upper="999">
 ah	-	-	-	0:02:48.573000	0:02:49.539000
 okay	-	-	-	0:02:48.573000	0:02:49.539000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:48.573000" end="0:02:50.926000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:48.573000" end="0:02:50.926000" age_lower="65" age_upper="999">
 zwanzig	-	-	-	0:02:48.573000	0:02:50.926000
 Jahr	-	-	-	0:02:48.573000	0:02:50.926000
 schon	-	-	-	0:02:48.573000	0:02:50.926000
@@ -352,14 +352,14 @@ sind	-	-	-	0:02:48.573000	0:02:50.926000
 das	-	-	-	0:02:48.573000	0:02:50.926000
 her	-	-	-	0:02:48.573000	0:02:50.926000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:49.539000" end="0:02:50.626000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:49.539000" end="0:02:50.626000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:50.926000" end="0:02:51.706000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:50.926000" end="0:02:51.706000" age_lower="65" age_upper="999">
 ja	-	-	-	0:02:50.926000	0:02:51.706000
 ja	-	-	-	0:02:50.926000	0:02:51.706000
 ja	-	-	-	0:02:50.926000	0:02:51.706000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:51.706000" end="0:02:57.273000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:02:51.706000" end="0:02:57.273000" age_lower="1" age_upper="999">
 und	-	-	-	0:02:51.706000	0:02:54.113000
 im	-	-	-	0:02:51.706000	0:02:54.113000
 Allgemeinen	-	-	-	0:02:51.706000	0:02:54.113000
@@ -375,7 +375,7 @@ der	-	-	-	0:02:56.233000	0:02:57.273000
 Nähe	-	-	-	0:02:56.233000	0:02:57.273000
 wohnt	-	-	-	0:02:56.233000	0:02:57.273000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:57.273000" end="0:03:20.279000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:02:57.273000" end="0:03:20.279000" age_lower="65" age_upper="999">
 ich	-	-	-	0:02:57.273000	0:03:00.793000
 habe	-	-	-	0:02:57.273000	0:03:00.793000
 eigentlich	-	-	-	0:02:57.273000	0:03:00.793000
@@ -439,11 +439,11 @@ und	-	-	-	0:03:19.166000	0:03:20.279000
 sonst	-	-	-	0:03:19.166000	0:03:20.279000
 ist	-	-	-	0:03:19.166000	0:03:20.279000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:20.279000" end="0:03:21.179000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:20.279000" end="0:03:21.179000" age_lower="1" age_upper="999">
 keine	-	-	-	0:03:20.279000	0:03:21.179000
 Geschwister	-	-	-	0:03:20.279000	0:03:21.179000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:21.179000" end="0:03:27.539000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:21.179000" end="0:03:27.539000" age_lower="65" age_upper="999">
 nix	-	-	-	0:03:21.179000	0:03:21.593000
 ja	-	-	-	0:03:21.593000	0:03:23.173000
 einen	-	-	-	0:03:21.593000	0:03:23.173000
@@ -463,9 +463,9 @@ erst	-	-	-	0:03:25.846000	0:03:27.539000
 noch	-	-	-	0:03:25.846000	0:03:27.539000
 Jahren	-	-	-	0:03:25.846000	0:03:27.539000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:26.899000" end="0:03:27.539000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:26.899000" end="0:03:27.539000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:27.539000" end="0:03:32.466000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:27.539000" end="0:03:32.466000" age_lower="65" age_upper="999">
 wie	-	-	-	0:03:27.539000	0:03:29.406000
 das	-	-	-	0:03:27.539000	0:03:29.406000
 so	-	-	-	0:03:27.539000	0:03:29.406000
@@ -485,7 +485,7 @@ einen	-	-	-	0:03:29.406000	0:03:32.466000
 Halbbruder	-	-	-	0:03:29.406000	0:03:32.466000
 gibt	-	-	-	0:03:29.406000	0:03:32.466000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:32.466000" end="0:03:34.373000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:32.466000" end="0:03:34.373000" age_lower="1" age_upper="999">
 das	-	-	-	0:03:32.466000	0:03:34.373000
 ist	-	-	-	0:03:32.466000	0:03:34.373000
 eh	-	-	-	0:03:32.466000	0:03:34.373000
@@ -493,20 +493,20 @@ oft	-	-	-	0:03:32.466000	0:03:34.373000
 der	-	-	-	0:03:32.466000	0:03:34.373000
 Fall	-	-	-	0:03:32.466000	0:03:34.373000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:32.466000" end="0:03:34.373000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:32.466000" end="0:03:34.373000" age_lower="65" age_upper="999">
 noch	-	-	-	0:03:32.466000	0:03:34.373000
 fünfzig	-	-	-	0:03:32.466000	0:03:34.373000
 Jahr	-	-	-	0:03:32.466000	0:03:34.373000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:34.373000" end="0:03:34.893000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:34.373000" end="0:03:34.893000" age_lower="1" age_upper="999">
 dann	-	-	-	0:03:34.373000	0:03:34.893000
 ja	-	-	-	0:03:34.373000	0:03:34.893000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:34.373000" end="0:03:34.893000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:34.373000" end="0:03:34.893000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:34.893000" end="0:03:35.733000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:34.893000" end="0:03:35.733000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:34.893000" end="0:03:57.353000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:34.893000" end="0:03:57.353000" age_lower="65" age_upper="999">
 was	-	-	-	0:03:34.893000	0:03:36.686000
 ich	-	-	-	0:03:34.893000	0:03:36.686000
 da	-	-	-	0:03:34.893000	0:03:36.686000
@@ -580,7 +580,7 @@ Jahre	-	-	-	0:03:55.166000	0:03:56.866000
 her	-	-	-	0:03:55.166000	0:03:56.866000
 da	-	-	-	0:03:56.866000	0:03:57.353000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:57.353000" end="0:04:00.946000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:03:57.353000" end="0:04:00.946000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:57.353000	0:03:57.706000
 na	-	-	-	0:03:57.706000	0:04:00.946000
 und	-	-	-	0:03:57.706000	0:04:00.946000
@@ -595,7 +595,7 @@ zusammen	-	-	-	0:03:57.706000	0:04:00.946000
 aufgewachsen	-	-	-	0:03:57.706000	0:04:00.946000
 ist	-	-	-	0:03:57.706000	0:04:00.946000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:57.706000" end="0:04:00.946000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:03:57.706000" end="0:04:00.946000" age_lower="65" age_upper="999">
 na	-	-	-	0:03:57.706000	0:03:59.233000
 ja	-	-	-	0:03:57.706000	0:03:59.233000
 und	-	-	-	0:03:57.706000	0:03:59.233000
@@ -603,7 +603,7 @@ so	-	-	-	0:03:57.706000	0:03:59.233000
 na	-	-	-	0:03:57.706000	0:03:59.233000
 ja	-	-	-	0:04:00.646000	0:04:00.946000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:00.946000" end="0:04:03.019000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:00.946000" end="0:04:03.019000" age_lower="1" age_upper="999">
 da	-	-	-	0:04:00.946000	0:04:03.019000
 fehlt	-	-	-	0:04:00.946000	0:04:03.019000
 dann	-	-	-	0:04:00.946000	0:04:03.019000
@@ -612,27 +612,27 @@ auch	-	-	-	0:04:00.946000	0:04:03.019000
 diese	-	-	-	0:04:00.946000	0:04:03.019000
 Verbindung	-	-	-	0:04:00.946000	0:04:03.019000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:00.946000" end="0:04:03.019000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:00.946000" end="0:04:03.019000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:00.946000	0:04:01.232000
 genau	-	-	-	0:04:01.232000	0:04:01.759000
 genau	-	-	-	0:04:01.759000	0:04:02.493000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:03.019000" end="0:04:03.409000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:03.019000" end="0:04:03.409000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:03.019000	0:04:03.409000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:03.019000" end="0:04:03.993000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:03.019000" end="0:04:03.993000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:03.019000	0:04:03.993000
 genau	-	-	-	0:04:03.019000	0:04:03.993000
 richtig	-	-	-	0:04:03.019000	0:04:03.993000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:03.409000" end="0:04:04.253000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:03.409000" end="0:04:04.253000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:03.993000" end="0:04:04.253000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:03.993000" end="0:04:04.253000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:03.993000	0:04:04.253000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:04.253000" end="0:04:04.893000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:04.253000" end="0:04:04.893000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:04.253000" end="0:04:06.573000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:04.253000" end="0:04:06.573000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:04.253000	0:04:05.546000
 ja	-	-	-	0:04:04.253000	0:04:05.546000
 ja	-	-	-	0:04:04.253000	0:04:05.546000
@@ -642,7 +642,7 @@ richtig	-	-	-	0:04:05.546000	0:04:06.073000
 ja	-	-	-	0:04:06.073000	0:04:06.573000
 ja	-	-	-	0:04:06.073000	0:04:06.573000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:06.573000" end="0:04:10.053000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:06.573000" end="0:04:10.053000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:06.573000	0:04:08.066000
 in	-	-	-	0:04:06.573000	0:04:08.066000
 Ihrem	-	-	-	0:04:06.573000	0:04:08.066000
@@ -656,12 +656,12 @@ ja	-	-	-	0:04:08.066000	0:04:10.053000
 schon	-	-	-	0:04:08.066000	0:04:10.053000
 kennengelernt	-	-	-	0:04:08.066000	0:04:10.053000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:09.433000" end="0:04:10.393000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:09.433000" end="0:04:10.393000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:04:09.433000	0:04:09.935000
 ja	-	-	-	0:04:09.935000	0:04:10.393000
 ja	-	-	-	0:04:09.935000	0:04:10.393000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:10.393000" end="0:04:12.279000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:10.393000" end="0:04:12.279000" age_lower="1" age_upper="999">
 wohnt	-	-	-	0:04:10.393000	0:04:12.279000
 sonst	-	-	-	0:04:10.393000	0:04:12.279000
 noch	-	-	-	0:04:10.393000	0:04:12.279000
@@ -669,7 +669,7 @@ jemand	-	-	-	0:04:10.393000	0:04:12.279000
 im	-	-	-	0:04:10.393000	0:04:12.279000
 Haushalt	-	-	-	0:04:10.393000	0:04:12.279000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:12.279000" end="0:04:14.299000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:12.279000" end="0:04:14.299000" age_lower="65" age_upper="999">
 nein	-	-	-	0:04:12.279000	0:04:12.653000
 jetzt	-	-	-	0:04:12.653000	0:04:14.299000
 sind	-	-	-	0:04:12.653000	0:04:14.299000
@@ -677,9 +677,9 @@ wir	-	-	-	0:04:12.653000	0:04:14.299000
 beide	-	-	-	0:04:12.653000	0:04:14.299000
 alleine	-	-	-	0:04:12.653000	0:04:14.299000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:14.299000" end="0:04:14.973000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:14.299000" end="0:04:14.973000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:14.299000" end="0:04:26.766000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:14.299000" end="0:04:26.766000" age_lower="65" age_upper="999">
 eine	-	-	0int diskgli final Int medial PosSatz PosTurn QTForm QTFunk QTNegPart QuestTag RespType rise	0:04:14.299000	0:04:14.973000
 und	-	-	-	0:04:14.973000	0:04:16.159000
 äh	-	-	-	0:04:14.973000	0:04:16.159000
@@ -717,14 +717,14 @@ da	-	-	-	0:04:25.126000	0:04:26.513000
 gewohnt	-	-	-	0:04:25.126000	0:04:26.513000
 noch	-	-	-	0:04:25.126000	0:04:26.513000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:26.766000" end="0:04:28.553000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:26.766000" end="0:04:28.553000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:27.193000	0:04:28.553000
 wo	-	-	-	0:04:27.193000	0:04:28.553000
 wohnt	-	-	-	0:04:27.193000	0:04:28.553000
 er	-	-	-	0:04:27.193000	0:04:28.553000
 jetzt	-	-	-	0:04:27.193000	0:04:28.553000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:28.553000" end="0:04:30.313000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:28.553000" end="0:04:30.313000" age_lower="65" age_upper="999">
 er	-	-	-	0:04:28.553000	0:04:30.313000
 wohnt	-	-	-	0:04:28.553000	0:04:30.313000
 genau	-	-	-	0:04:28.553000	0:04:30.313000
@@ -732,25 +732,25 @@ SONSTIGE	SONSTIGE	-	-	0:04:28.553000	0:04:30.313000
 Stock	-	-	-	0:04:28.553000	0:04:30.313000
 SONSTIGE	SONSTIGE	-	-	0:04:28.553000	0:04:30.313000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:30.313000" end="0:04:30.927000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:30.313000" end="0:04:30.927000" age_lower="1" age_upper="999">
 nein	-	-	-	0:04:30.313000	0:04:30.927000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:30.313000" end="0:04:31.133000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:30.313000" end="0:04:31.133000" age_lower="65" age_upper="999">
 es	-	-	-	0:04:30.313000	0:04:31.133000
 gibt	-	-	-	0:04:30.313000	0:04:31.133000
 ja	-	-	-	0:04:30.313000	0:04:31.133000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:30.927000" end="0:04:31.713000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:30.927000" end="0:04:31.713000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:31.133000" end="0:04:32.166000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:31.133000" end="0:04:32.166000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:04:31.133000	0:04:31.568000
 es	-	-	-	0:04:31.568000	0:04:32.166000
 gibt	-	-	-	0:04:31.568000	0:04:32.166000
 ja	-	-	-	0:04:31.568000	0:04:32.166000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:31.713000" end="0:04:32.166000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:31.713000" end="0:04:32.166000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:32.166000" end="0:04:37.346000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:32.166000" end="0:04:37.346000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:04:32.599000	0:04:33.013000
 also	-	-	-	0:04:33.013000	0:04:34.366000
 ich	-	-	-	0:04:33.013000	0:04:34.366000
@@ -767,10 +767,10 @@ bei	-	-	-	0:04:36.033000	0:04:37.346000
 billa	-	-	-	0:04:36.033000	0:04:37.346000
 gezogen	-	-	-	0:04:36.033000	0:04:37.346000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:36.926000" end="0:04:38.099000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:36.926000" end="0:04:38.099000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:36.926000	0:04:37.346000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:37.346000" end="0:04:45.479000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:37.346000" end="0:04:45.479000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:37.346000	0:04:38.099000
 ja	-	-	-	0:04:37.346000	0:04:38.099000
 ja	-	-	-	0:04:37.346000	0:04:38.099000
@@ -801,10 +801,10 @@ größere	-	-	-	0:04:43.619000	0:04:45.239000
 Wohnung	-	-	-	0:04:43.619000	0:04:45.239000
 jetzt	-	-	-	0:04:43.619000	0:04:45.239000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:45.479000" end="0:04:45.919000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:45.479000" end="0:04:45.919000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:45.479000	0:04:45.919000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:45.919000" end="0:04:48.339000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:45.919000" end="0:04:48.339000" age_lower="65" age_upper="999">
 sich	-	-	-	0:04:45.919000	0:04:48.066000
 genommen	-	-	-	0:04:45.919000	0:04:48.066000
 weil	-	-	-	0:04:45.919000	0:04:48.066000
@@ -816,9 +816,9 @@ ein	-	-	-	0:04:45.919000	0:04:48.066000
 Zimmer	-	-	-	0:04:45.919000	0:04:48.066000
 gehabt	-	-	-	0:04:45.919000	0:04:48.066000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:48.339000" end="0:04:48.986000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:48.339000" end="0:04:48.986000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:48.339000" end="0:04:53.159000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:48.339000" end="0:04:53.159000" age_lower="65" age_upper="999">
 und	-	-	-	0:04:48.339000	0:04:51.579000
 und	-	-	-	0:04:48.339000	0:04:51.579000
 jetzt	-	-	-	0:04:48.339000	0:04:51.579000
@@ -834,18 +834,18 @@ auch	-	-	-	0:04:51.693000	0:04:52.699000
 nein	-	-	-	0:04:52.699000	0:04:53.159000
 nein	-	-	-	0:04:52.699000	0:04:53.159000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:53.159000" end="0:04:53.926000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:53.159000" end="0:04:53.926000" age_lower="1" age_upper="999">
 ich	-	-	-	0:04:53.159000	0:04:53.926000
 wollte	-	-	-	0:04:53.159000	0:04:53.926000
 gerade	-	-	-	0:04:53.159000	0:04:53.926000
 sagen	-	-	-	0:04:53.159000	0:04:53.926000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:53.693000" end="0:04:54.499000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:53.693000" end="0:04:54.499000" age_lower="65" age_upper="999">
 ist	-	-	-	0:04:53.693000	0:04:54.499000
 recht	-	-	-	0:04:53.693000	0:04:54.499000
 praktisch	-	-	-	0:04:53.693000	0:04:54.499000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:53.926000" end="0:04:55.913000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:53.926000" end="0:04:55.913000" age_lower="1" age_upper="999">
 das	-	-	-	0:04:53.926000	0:04:55.913000
 ist	-	-	-	0:04:53.926000	0:04:55.913000
 dann	-	-	-	0:04:53.926000	0:04:55.913000
@@ -854,14 +854,14 @@ ganz	-	-	-	0:04:53.926000	0:04:55.913000
 ganz	-	-	-	0:04:53.926000	0:04:55.913000
 angenehm	-	-	-	0:04:53.926000	0:04:55.913000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:54.499000" end="0:04:56.359000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:54.499000" end="0:04:56.359000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:04:54.499000	0:04:55.019000
 jaja	-	-	-	0:04:55.019000	0:04:55.626000
 jaja	-	-	-	0:04:55.626000	0:04:56.359000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:55.913000" end="0:04:56.359000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:04:55.913000" end="0:04:56.359000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:56.359000" end="0:05:09.846000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:04:56.359000" end="0:05:09.846000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:04:56.359000	0:04:56.886000
 ja	-	-	-	0:04:56.886000	0:04:57.439000
 ja	-	-	-	0:04:56.886000	0:04:57.439000
@@ -901,9 +901,9 @@ wirklich	-	-	-	0:05:07.779000	0:05:09.846000
 genau	-	-	-	0:05:07.779000	0:05:09.846000
 schaut	-	-	-	0:05:07.779000	0:05:09.846000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:08.253000" end="0:05:08.759000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:08.253000" end="0:05:08.759000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:09.846000" end="0:05:21.099000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:09.846000" end="0:05:21.099000" age_lower="65" age_upper="999">
 dass	-	-	-	0:05:09.846000	0:05:10.906000
 man	-	-	-	0:05:09.846000	0:05:10.906000
 sich	-	-	-	0:05:09.846000	0:05:10.906000
@@ -952,9 +952,9 @@ eh	-	-	-	0:05:19.326000	0:05:21.099000
 nicht	-	-	-	0:05:19.326000	0:05:21.099000
 aruafen	-	-	-	0:05:19.326000	0:05:21.099000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:21.099000" end="0:05:22.513000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:21.099000" end="0:05:22.513000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:21.099000" end="0:05:28.393000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:21.099000" end="0:05:28.393000" age_lower="65" age_upper="999">
 normalerweise	-	-	-	0:05:21.099000	0:05:22.513000
 hat	-	-	-	0:05:21.099000	0:05:22.513000
 auch	-	-	-	0:05:21.099000	0:05:22.513000
@@ -980,7 +980,7 @@ gibt	-	-	-	0:05:26.393000	0:05:28.393000
 im	-	-	-	0:05:26.393000	0:05:28.393000
 Moment	-	-	-	0:05:26.393000	0:05:28.393000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:27.053000" end="0:05:29.479000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:27.053000" end="0:05:29.479000" age_lower="1" age_upper="999">
 ah	-	-	-	0:05:27.053000	0:05:27.873000
 wirklich	-	-	-	0:05:27.053000	0:05:27.873000
 kochen	-	-	-	0:05:27.873000	0:05:29.479000
@@ -989,7 +989,7 @@ für	-	-	-	0:05:27.873000	0:05:29.479000
 alle	-	-	-	0:05:27.873000	0:05:29.479000
 immer	-	-	-	0:05:27.873000	0:05:29.479000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:28.393000" end="0:05:31.379000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:28.393000" end="0:05:31.379000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:05:28.393000	0:05:28.966000
 nein	-	-	-	0:05:28.966000	0:05:29.479000
 ja	-	-	-	0:05:28.966000	0:05:29.479000
@@ -1000,18 +1000,18 @@ nicht	-	-	-	0:05:30.313000	0:05:31.133000
 jeden	-	-	-	0:05:30.313000	0:05:31.133000
 Tag	-	-	-	0:05:30.313000	0:05:31.133000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:31.379000" end="0:05:32.113000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:31.379000" end="0:05:32.113000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:31.379000	0:05:32.113000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:31.379000" end="0:05:32.299000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:31.379000" end="0:05:32.299000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:05:31.379000	0:05:32.113000
 jeden	-	-	-	0:05:31.379000	0:05:32.113000
 Tag	-	-	-	0:05:31.379000	0:05:32.113000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:32.299000" end="0:05:32.679000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:32.299000" end="0:05:32.679000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:32.299000	0:05:32.679000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:32.679000" end="0:05:42.946000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:32.679000" end="0:05:42.946000" age_lower="65" age_upper="999">
 und	-	-	-	0:05:32.679000	0:05:34.246000
 ah	-	-	-	0:05:32.679000	0:05:34.246000
 aber	-	-	-	0:05:32.679000	0:05:34.246000
@@ -1048,9 +1048,9 @@ von	-	-	-	0:05:41.173000	0:05:42.753000
 mir	-	-	-	0:05:41.173000	0:05:42.753000
 aus	-	-	-	0:05:41.173000	0:05:42.753000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:42.946000" end="0:05:43.686000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:42.946000" end="0:05:43.686000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:42.946000" end="0:05:50.459000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:42.946000" end="0:05:50.459000" age_lower="65" age_upper="999">
 waar	-	-	-	0:05:42.946000	0:05:44.093000
 es	-	-	-	0:05:42.946000	0:05:44.093000
 ganz	-	-	-	0:05:42.946000	0:05:44.093000
@@ -1076,9 +1076,9 @@ ja	-	-	-	0:05:48.706000	0:05:50.459000
 abgöttisch	-	-	-	0:05:48.706000	0:05:50.459000
 liebe;>	-	-	-	0:05:48.706000	0:05:50.459000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:50.459000" end="0:05:51.419000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:50.459000" end="0:05:51.419000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:50.459000" end="0:05:54.866000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:50.459000" end="0:05:54.866000" age_lower="65" age_upper="999">
 das	-	-	-	0:05:50.459000	0:05:51.959000
 ist	-	-	-	0:05:50.459000	0:05:51.959000
 überhaupt	-	-	-	0:05:50.459000	0:05:51.959000
@@ -1095,10 +1095,10 @@ angerufen	-	-	-	0:05:53.019000	0:05:53.899000
 hat	-	-	-	0:05:53.019000	0:05:53.899000
 sofort	-	-	-	0:05:53.899000	0:05:54.626000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:54.866000" end="0:05:55.359000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:54.866000" end="0:05:55.359000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:54.866000	0:05:55.359000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:54.866000" end="0:05:58.513000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:54.866000" end="0:05:58.513000" age_lower="65" age_upper="999">
 mache	-	-	-	0:05:54.866000	0:05:56.039000
 ich	-	-	-	0:05:54.866000	0:05:56.039000
 das	-	-	-	0:05:54.866000	0:05:56.039000
@@ -1114,10 +1114,10 @@ selber	-	-	-	0:05:56.039000	0:05:58.233000
 auch	-	-	-	0:05:56.039000	0:05:58.233000
 nicht	-	-	-	0:05:58.233000	0:05:58.513000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:58.513000" end="0:05:58.813000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:05:58.513000" end="0:05:58.813000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:58.513000	0:05:58.813000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:58.813000" end="0:06:08.346000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:05:58.813000" end="0:06:08.346000" age_lower="65" age_upper="999">
 dann	-	-	-	0:05:58.813000	0:06:01.033000
 habe	-	-	-	0:05:58.813000	0:06:01.033000
 ich	-	-	-	0:05:58.813000	0:06:01.033000
@@ -1154,10 +1154,10 @@ mit	-	-	-	0:06:06.653000	0:06:08.346000
 der	-	-	-	0:06:06.653000	0:06:08.346000
 schwiegertochter	-	-	-	0:06:06.653000	0:06:08.346000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:07.333000" end="0:06:07.646000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:07.333000" end="0:06:07.646000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:07.333000	0:06:07.646000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:08.346000" end="0:06:11.206000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:08.346000" end="0:06:11.206000" age_lower="65" age_upper="999">
 eh	-	-	-	0:06:08.346000	0:06:09.453000
 mein	-	-	-	0:06:08.346000	0:06:09.453000
 Mann	-	-	-	0:06:08.346000	0:06:09.453000
@@ -1172,10 +1172,10 @@ gut	-	-	-	0:06:09.453000	0:06:11.206000
 in	-	-	-	0:06:09.453000	0:06:11.206000
 NAME	NAME	-	-	0:06:09.453000	0:06:11.206000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:11.206000" end="0:06:11.606000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:11.206000" end="0:06:11.606000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:11.206000	0:06:11.606000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:11.206000" end="0:06:13.273000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:11.206000" end="0:06:13.273000" age_lower="65" age_upper="999">
 also	-	-	-	0:06:11.606000	0:06:13.273000
 wir	-	-	-	0:06:11.606000	0:06:13.273000
 schätzen	-	-	-	0:06:11.606000	0:06:13.273000
@@ -1185,11 +1185,11 @@ muss	-	-	-	0:06:11.606000	0:06:13.273000
 ich	-	-	-	0:06:11.606000	0:06:13.273000
 sagen	-	-	-	0:06:11.606000	0:06:13.273000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:13.273000" end="0:06:14.366000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:13.273000" end="0:06:14.366000" age_lower="1" age_upper="999">
 meine	-	-	-	0:06:13.273000	0:06:14.366000
 ja	-	-	-	0:06:13.273000	0:06:14.366000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:13.273000" end="0:06:16.406000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:13.273000" end="0:06:16.406000" age_lower="65" age_upper="999">
 also	-	-	-	0:06:13.273000	0:06:14.273000
 als	-	-	-	0:06:13.273000	0:06:14.273000
 überhaupt	-	-	-	0:06:13.273000	0:06:14.273000
@@ -1202,14 +1202,14 @@ ganz	-	-	-	0:06:14.273000	0:06:16.406000
 eine	-	-	-	0:06:14.273000	0:06:16.406000
 netter	-	-	-	0:06:14.273000	0:06:16.406000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:14.366000" end="0:06:15.806000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:14.366000" end="0:06:15.806000" age_lower="1" age_upper="999">
 ist	-	-	-	0:06:14.366000	0:06:15.806000
 wirklich	-	-	-	0:06:14.366000	0:06:15.806000
 ganz	-	-	-	0:06:14.366000	0:06:15.806000
 ein	-	-	-	0:06:14.366000	0:06:15.806000
 netter	-	-	-	0:06:14.366000	0:06:15.806000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:16.406000" end="0:06:21.706000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:16.406000" end="0:06:21.706000" age_lower="65" age_upper="999">
 und	-	-	-	0:06:16.586000	0:06:17.233000
 nie	-	-	-	0:06:16.586000	0:06:17.233000
 ich	-	-	-	0:06:17.233000	0:06:20.633000
@@ -1228,25 +1228,25 @@ wass	-	-	-	0:06:20.633000	0:06:21.293000
 ich	-	-	-	0:06:20.633000	0:06:21.293000
 nicht	-	-	-	0:06:20.633000	0:06:21.293000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:21.706000" end="0:06:23.553000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:21.706000" end="0:06:23.553000" age_lower="1" age_upper="999">
 na	-	-	-	0:06:21.706000	0:06:23.553000
 und	-	-	-	0:06:21.706000	0:06:23.553000
 sehr	-	-	-	0:06:21.706000	0:06:23.553000
 hilfsbereit	-	-	-	0:06:21.706000	0:06:23.553000
 auch	-	-	-	0:06:21.706000	0:06:23.553000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:21.706000" end="0:06:23.706000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:21.706000" end="0:06:23.706000" age_lower="65" age_upper="999">
 ah	-	-	-	0:06:21.706000	0:06:23.706000
 eine	-	-	-	0:06:21.706000	0:06:23.706000
 ganz	-	-	-	0:06:21.706000	0:06:23.706000
 ganz	-	-	-	0:06:21.706000	0:06:23.706000
 sehr	-	-	-	0:06:21.706000	0:06:23.706000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:23.553000" end="0:06:24.386000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:23.553000" end="0:06:24.386000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:23.553000	0:06:24.386000
 voll	-	-	-	0:06:23.553000	0:06:24.386000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:23.706000" end="0:06:26.206000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:23.706000" end="0:06:26.206000" age_lower="65" age_upper="999">
 ja	-	-	-	0:06:23.706000	0:06:24.386000
 sehr	-	-	-	0:06:23.706000	0:06:24.386000
 wirklich	-	-	-	0:06:24.386000	0:06:25.079000
@@ -1257,17 +1257,17 @@ muss	-	-	-	0:06:25.079000	0:06:26.206000
 ich	-	-	-	0:06:25.079000	0:06:26.206000
 sagen	-	-	-	0:06:25.079000	0:06:26.206000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:26.073000" end="0:06:27.366000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:26.073000" end="0:06:27.366000" age_lower="1" age_upper="999">
 nein	-	-	-	0:06:26.073000	0:06:27.366000
 sind	-	-	-	0:06:26.073000	0:06:27.366000
 mir	-	-	-	0:06:26.073000	0:06:27.366000
 sehr	-	-	-	0:06:26.073000	0:06:27.366000
 dankbar	-	-	-	0:06:26.073000	0:06:27.366000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:26.206000" end="0:06:27.366000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:26.206000" end="0:06:27.366000" age_lower="65" age_upper="999">
 ganz	-	-	-	0:06:26.206000	0:06:27.366000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:27.366000" end="0:06:32.206000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:27.366000" end="0:06:32.206000" age_lower="1" age_upper="999">
 er	-	-	-	0:06:27.366000	0:06:32.206000
 hat	-	-	-	0:06:27.366000	0:06:32.206000
 mir	-	-	-	0:06:27.366000	0:06:32.206000
@@ -1278,7 +1278,7 @@ eben	-	-	-	0:06:27.366000	0:06:32.206000
 vermittelt	-	-	-	0:06:27.366000	0:06:32.206000
 können	-	-	-	0:06:27.366000	0:06:32.206000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:27.366000" end="0:06:32.306000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:27.366000" end="0:06:32.306000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:06:27.366000	0:06:27.806000
 jaja	-	-	-	0:06:27.806000	0:06:28.199000
 jaja	-	-	-	0:06:28.199000	0:06:28.673000
@@ -1288,13 +1288,13 @@ ja	-	-	-	0:06:30.619000	0:06:31.466000
 jaja	-	-	-	0:06:30.619000	0:06:31.466000
 jaja	-	-	-	0:06:31.993000	0:06:32.306000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:32.206000" end="0:06:34.299000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:32.206000" end="0:06:34.299000" age_lower="1" age_upper="999">
 wirklich	-	-	-	0:06:32.206000	0:06:34.299000
 total	-	-	-	0:06:32.206000	0:06:34.299000
 total	-	-	-	0:06:32.206000	0:06:34.299000
 super	-	-	-	0:06:32.206000	0:06:34.299000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:32.306000" end="0:06:40.879000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:32.306000" end="0:06:40.879000" age_lower="65" age_upper="999">
 können	-	-	-	0:06:32.306000	0:06:33.046000
 jaja	-	-	-	0:06:33.046000	0:06:34.299000
 jaja	-	-	-	0:06:33.046000	0:06:34.299000
@@ -1318,9 +1318,9 @@ persönliche	-	-	-	0:06:37.219000	0:06:40.879000
 Vermittlung	-	-	-	0:06:37.219000	0:06:40.879000
 geht	-	-	-	0:06:37.219000	0:06:40.879000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:40.879000" end="0:06:41.426000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:40.879000" end="0:06:41.426000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:40.879000" end="0:06:43.446000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:40.879000" end="0:06:43.446000" age_lower="65" age_upper="999">
 wie	-	-	-	0:06:40.879000	0:06:43.446000
 geht	-	-	-	0:06:40.879000	0:06:43.446000
 das	-	-	-	0:06:40.879000	0:06:43.446000
@@ -1332,7 +1332,7 @@ leite	-	-	-	0:06:40.879000	0:06:43.446000
 finden	-	-	-	0:06:40.879000	0:06:43.446000
 tuats	-	-	-	0:06:40.879000	0:06:43.446000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:43.446000" end="0:06:48.579000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:43.446000" end="0:06:48.579000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:06:43.446000	0:06:44.946000
 unterschiedlich	-	-	-	0:06:43.446000	0:06:44.946000
 einerseits	-	-	-	0:06:44.946000	0:06:48.579000
@@ -1341,20 +1341,20 @@ regional	-	-	-	0:06:44.946000	0:06:48.579000
 oder	-	-	-	0:06:44.946000	0:06:48.579000
 lokalpolitiker	-	-	-	0:06:44.946000	0:06:48.579000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:47.233000" end="0:06:47.753000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:47.233000" end="0:06:47.753000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:48.579000" end="0:06:50.206000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:48.579000" end="0:06:50.206000" age_lower="1" age_upper="999">
 das	-	-	-	0:06:48.579000	0:06:50.206000
 funktioniert	-	-	-	0:06:48.579000	0:06:50.206000
 teilweise	-	-	-	0:06:48.579000	0:06:50.206000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:48.579000" end="0:06:50.206000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:48.579000" end="0:06:50.206000" age_lower="65" age_upper="999">
 ja	-	-	-	0:06:48.579000	0:06:49.313000
 aha	-	-	-	0:06:48.579000	0:06:49.313000
 so	-	-	-	0:06:49.313000	0:06:50.206000
 jaja	-	-	-	0:06:49.313000	0:06:50.206000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:50.206000" end="0:06:51.879000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:50.206000" end="0:06:51.879000" age_lower="1" age_upper="999">
 hat	-	-	-	0:06:50.206000	0:06:51.879000
 in	-	-	-	0:06:50.206000	0:06:51.879000
 ORT	ORT	-	-	0:06:50.206000	0:06:51.879000
@@ -1362,29 +1362,29 @@ sehr	-	-	-	0:06:50.206000	0:06:51.879000
 gut	-	-	-	0:06:50.206000	0:06:51.879000
 funktioniert	-	-	-	0:06:50.206000	0:06:51.879000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:50.206000" end="0:06:52.126000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:50.206000" end="0:06:52.126000" age_lower="65" age_upper="999">
 aha	-	-	-	0:06:51.426000	0:06:52.126000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:52.126000" end="0:06:53.293000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:52.126000" end="0:06:53.293000" age_lower="1" age_upper="999">
 über	-	-	-	0:06:52.126000	0:06:53.293000
 pfarren	-	-	-	0:06:52.126000	0:06:53.293000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:52.126000" end="0:06:54.339000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:52.126000" end="0:06:54.339000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:06:52.126000	0:06:53.293000
 über	-	-	-	0:06:53.293000	0:06:54.339000
 pfarren	-	-	-	0:06:53.293000	0:06:54.339000
 ja	-	-	-	0:06:53.293000	0:06:54.339000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:54.339000" end="0:06:55.099000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:54.339000" end="0:06:55.099000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:06:54.339000	0:06:55.099000
 viel	-	-	-	0:06:54.339000	0:06:55.099000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:54.339000" end="0:06:55.099000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:54.339000" end="0:06:55.099000" age_lower="65" age_upper="999">
 ja	-	-	-	0:06:54.339000	0:06:55.099000
 das	-	-	-	0:06:54.339000	0:06:55.099000
 eine	-	-	-	0:06:54.339000	0:06:55.099000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:55.099000" end="0:06:58.913000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:55.099000" end="0:06:58.913000" age_lower="1" age_upper="999">
 weil	-	-	-	0:06:55.099000	0:06:58.913000
 das	-	-	-	0:06:55.099000	0:06:58.913000
 sind	-	-	-	0:06:55.099000	0:06:58.913000
@@ -1398,7 +1398,7 @@ Lokal	-	-	-	0:06:55.099000	0:06:58.913000
 verortet	-	-	-	0:06:55.099000	0:06:58.913000
 sind	-	-	-	0:06:55.099000	0:06:58.913000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:55.099000" end="0:06:59.099000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:55.099000" end="0:06:59.099000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:06:55.099000	0:06:55.746000
 ja	-	-	-	0:06:55.099000	0:06:55.746000
 ja	-	-	-	0:06:55.746000	0:06:56.646000
@@ -1408,7 +1408,7 @@ jaja	-	-	-	0:06:57.673000	0:06:58.786000
 na	-	-	-	0:06:58.786000	0:06:59.099000
 klar	-	-	-	0:06:58.786000	0:06:59.099000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:59.099000" end="0:07:00.986000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:06:59.099000" end="0:07:00.986000" age_lower="1" age_upper="999">
 weil	-	-	-	0:06:59.099000	0:07:00.986000
 wir	-	-	-	0:06:59.099000	0:07:00.986000
 suchen	-	-	-	0:06:59.099000	0:07:00.986000
@@ -1417,19 +1417,19 @@ Leute	-	-	-	0:06:59.099000	0:07:00.986000
 die	-	-	-	0:06:59.099000	0:07:00.986000
 schon	-	-	-	0:06:59.099000	0:07:00.986000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:59.099000" end="0:07:00.459000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:06:59.099000" end="0:07:00.459000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:06:59.099000	0:06:59.853000
 genau	-	-	-	0:06:59.099000	0:06:59.853000
 jaja	-	-	-	0:06:59.853000	0:07:00.459000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:00.986000" end="0:07:03.006000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:00.986000" end="0:07:03.006000" age_lower="1" age_upper="999">
 länger	-	-	-	0:07:00.986000	0:07:03.006000
 in	-	-	-	0:07:00.986000	0:07:03.006000
 diesem	-	-	-	0:07:00.986000	0:07:03.006000
 Bezirk	-	-	-	0:07:00.986000	0:07:03.006000
 Leben	-	-	-	0:07:00.986000	0:07:03.006000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:00.986000" end="0:07:03.486000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:00.986000" end="0:07:03.486000" age_lower="65" age_upper="999">
 länger	-	-	-	0:07:00.986000	0:07:02.005000
 ja	-	-	-	0:07:02.005000	0:07:02.585000
 na	-	-	-	0:07:02.005000	0:07:02.585000
@@ -1437,11 +1437,11 @@ klar	-	-	-	0:07:02.005000	0:07:02.585000
 jaja	-	-	-	0:07:02.585000	0:07:03.006000
 jaja	-	-	-	0:07:03.006000	0:07:03.486000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:03.486000" end="0:07:05.599000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:03.486000" end="0:07:05.599000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:03.486000	0:07:05.599000
 ja	-	-	-	0:07:03.486000	0:07:05.599000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:03.486000" end="0:07:05.599000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:03.486000" end="0:07:05.599000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:03.486000	0:07:04.439000
 ich	-	-	-	0:07:03.486000	0:07:04.439000
 verstehe	-	-	-	0:07:03.486000	0:07:04.439000
@@ -1451,22 +1451,22 @@ ah	-	-	-	0:07:04.439000	0:07:05.599000
 ja	-	-	-	0:07:04.439000	0:07:05.599000
 ja	-	-	-	0:07:04.439000	0:07:05.599000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:05.599000" end="0:07:09.366000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:05.599000" end="0:07:09.366000" age_lower="1" age_upper="999">
 das	-	-	-	0:07:05.599000	0:07:08.226000
 oder	-	-	-	0:07:05.599000	0:07:08.226000
 über	-	-	-	0:07:05.599000	0:07:08.226000
 altersheime	-	-	-	0:07:05.599000	0:07:08.226000
 pflegeheime	-	-	-	0:07:08.226000	0:07:09.366000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:08.226000" end="0:07:10.019000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:08.226000" end="0:07:10.019000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:08.226000	0:07:09.013000
 pflegeheime	-	-	-	0:07:09.013000	0:07:09.673000
 jaja	-	-	-	0:07:09.673000	0:07:10.019000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:10.019000" end="0:07:11.259000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:10.019000" end="0:07:11.259000" age_lower="1" age_upper="999">
 jugendverbände	-	-	-	0:07:10.019000	0:07:11.259000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:10.019000" end="0:07:14.033000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:10.019000" end="0:07:14.033000" age_lower="65" age_upper="999">
 das	-	-	-	0:07:10.019000	0:07:10.979000
 ist	-	-	-	0:07:10.019000	0:07:10.979000
 natürlich	-	-	-	0:07:10.019000	0:07:10.979000
@@ -1477,22 +1477,22 @@ alles	-	-	-	0:07:11.806000	0:07:14.033000
 diese	-	-	-	0:07:11.806000	0:07:14.033000
 Vereins	-	-	-	0:07:11.806000	0:07:14.033000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:14.033000" end="0:07:15.099000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:14.033000" end="0:07:15.099000" age_lower="1" age_upper="999">
 genau	-	-	-	0:07:14.033000	0:07:15.099000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:14.033000" end="0:07:15.099000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:14.033000" end="0:07:15.099000" age_lower="65" age_upper="999">
 mehr	-	-	-	0:07:14.033000	0:07:15.099000
 oder	-	-	-	0:07:14.033000	0:07:15.099000
 weniger	-	-	-	0:07:14.033000	0:07:15.099000
 Verein	-	-	-	0:07:14.033000	0:07:15.099000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:15.099000" end="0:07:16.819000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:15.099000" end="0:07:16.819000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:15.099000	0:07:16.819000
 natürlich	-	-	-	0:07:15.099000	0:07:16.819000
 dann	-	-	-	0:07:15.099000	0:07:16.819000
 auch	-	-	-	0:07:15.099000	0:07:16.819000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:15.099000" end="0:07:20.026000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:15.099000" end="0:07:20.026000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:07:15.099000	0:07:15.593000
 weil	-	-	-	0:07:15.593000	0:07:16.819000
 die	-	-	-	0:07:15.593000	0:07:16.819000
@@ -1507,11 +1507,11 @@ richtig	-	-	-	0:07:17.973000	0:07:20.026000
 sind	-	-	-	0:07:17.973000	0:07:20.026000
 mehr	-	-	-	0:07:17.973000	0:07:20.026000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:19.779000" end="0:07:20.766000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:19.779000" end="0:07:20.766000" age_lower="1" age_upper="999">
 genau	-	-	-	0:07:19.779000	0:07:20.766000
 genau	-	-	-	0:07:19.779000	0:07:20.766000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:20.026000" end="0:07:21.253000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:20.026000" end="0:07:21.253000" age_lower="65" age_upper="999">
 na	-	-	-	0:07:20.026000	0:07:21.253000
 das	-	-	-	0:07:20.026000	0:07:21.253000
 eh	-	-	-	0:07:20.026000	0:07:21.253000
@@ -1520,13 +1520,13 @@ eine	-	-	-	0:07:20.026000	0:07:21.253000
 es	-	-	-	0:07:20.026000	0:07:21.253000
 ganze	-	-	-	0:07:20.026000	0:07:21.253000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:20.766000" end="0:07:23.239000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:20.766000" end="0:07:23.239000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:20.766000	0:07:23.239000
 über	-	-	-	0:07:20.766000	0:07:23.239000
 es	-	-	-	0:07:20.766000	0:07:23.239000
 schneeballsystem	-	-	-	0:07:20.766000	0:07:23.239000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:21.253000" end="0:07:22.813000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:21.253000" end="0:07:22.813000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:21.253000	0:07:22.499000
 das	-	-	-	0:07:21.253000	0:07:22.499000
 verstehe	-	-	-	0:07:21.253000	0:07:22.499000
@@ -1534,7 +1534,7 @@ ich	-	-	-	0:07:21.253000	0:07:22.499000
 schon	-	-	-	0:07:21.253000	0:07:22.499000
 jaja	-	-	-	0:07:22.499000	0:07:22.813000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:23.239000" end="0:07:25.366000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:23.239000" end="0:07:25.366000" age_lower="1" age_upper="999">
 also	-	-	-	0:07:23.239000	0:07:25.366000
 wenn	-	-	-	0:07:23.239000	0:07:25.366000
 wir	-	-	-	0:07:23.239000	0:07:25.366000
@@ -1542,19 +1542,19 @@ eine	-	-	-	0:07:23.239000	0:07:25.366000
 Person	-	-	-	0:07:23.239000	0:07:25.366000
 haben	-	-	-	0:07:23.239000	0:07:25.366000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:23.239000" end="0:07:25.366000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:23.239000" end="0:07:25.366000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:07:23.239000	0:07:23.653000
 aha	-	-	-	0:07:23.653000	0:07:24.766000
 jaja	-	-	-	0:07:23.653000	0:07:24.766000
 wo	-	-	-	0:07:24.766000	0:07:25.366000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:25.366000" end="0:07:27.406000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:25.366000" end="0:07:27.406000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:25.366000	0:07:27.406000
 die	-	-	-	0:07:25.366000	0:07:27.406000
 sich	-	-	-	0:07:25.366000	0:07:27.406000
 denkt	-	-	-	0:07:25.366000	0:07:27.406000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:25.366000" end="0:07:28.006000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:25.366000" end="0:07:28.006000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:07:25.366000	0:07:27.073000
 jaja	-	-	-	0:07:25.366000	0:07:27.073000
 jaja	-	-	-	0:07:25.366000	0:07:27.073000
@@ -1563,17 +1563,17 @@ die	-	-	-	0:07:27.073000	0:07:28.006000
 wieder	-	-	-	0:07:27.073000	0:07:28.006000
 ja	-	-	-	0:07:27.073000	0:07:28.006000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:27.406000" end="0:07:28.459000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:27.406000" end="0:07:28.459000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:27.406000	0:07:28.459000
 das	-	-	-	0:07:27.406000	0:07:28.459000
 war	-	-	-	0:07:27.406000	0:07:28.459000
 ganz	-	-	-	0:07:27.406000	0:07:28.459000
 nett	-	-	-	0:07:27.406000	0:07:28.459000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:28.006000" end="0:07:28.459000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:28.006000" end="0:07:28.459000" age_lower="65" age_upper="999">
 genau	-	-	-	0:07:28.006000	0:07:28.459000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:28.459000" end="0:07:32.013000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:28.459000" end="0:07:32.013000" age_lower="1" age_upper="999">
 dann	-	-	-	0:07:28.459000	0:07:32.013000
 fragt	-	-	-	0:07:28.459000	0:07:32.013000
 man	-	-	-	0:07:28.459000	0:07:32.013000
@@ -1587,7 +1587,7 @@ der	-	-	-	0:07:28.459000	0:07:32.013000
 reinpassen	-	-	-	0:07:28.459000	0:07:32.013000
 würde	-	-	-	0:07:28.459000	0:07:32.013000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:28.459000" end="0:07:35.499000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:28.459000" end="0:07:35.499000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:28.459000	0:07:29.666000
 genau	-	-	-	0:07:28.459000	0:07:29.666000
 genau	-	-	-	0:07:29.666000	0:07:30.906000
@@ -1607,15 +1607,15 @@ so	-	-	-	0:07:32.013000	0:07:35.106000
 hat	-	-	-	0:07:32.013000	0:07:35.106000
 ja	-	-	-	0:07:35.313000	0:07:35.499000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:35.499000" end="0:07:36.006000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:35.499000" end="0:07:36.006000" age_lower="1" age_upper="999">
 genau	-	-	-	0:07:35.499000	0:07:36.006000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:35.499000" end="0:07:36.006000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:35.499000" end="0:07:36.006000" age_lower="65" age_upper="999">
 eine	-	-	-	0:07:35.499000	0:07:35.719000
 ich	-	-	-	0:07:35.719000	0:07:36.006000
 meine	-	-	-	0:07:35.719000	0:07:36.006000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:36.006000" end="0:07:38.953000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:36.006000" end="0:07:38.953000" age_lower="1" age_upper="999">
 weil	-	-	-	0:07:36.006000	0:07:38.953000
 der	-	-	-	0:07:36.006000	0:07:38.953000
 persönliche	-	-	-	0:07:36.006000	0:07:38.953000
@@ -1627,7 +1627,7 @@ man	-	-	-	0:07:36.006000	0:07:38.953000
 nicht	-	-	-	0:07:36.006000	0:07:38.953000
 ersetzen	-	-	-	0:07:36.006000	0:07:38.953000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:36.006000" end="0:07:38.953000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:36.006000" end="0:07:38.953000" age_lower="65" age_upper="999">
 net	-	-	-	0:07:36.006000	0:07:36.739000
 richtig	-	-	-	0:07:36.739000	0:07:38.093000
 ja	-	-	-	0:07:36.739000	0:07:38.093000
@@ -1635,17 +1635,17 @@ na	-	-	-	0:07:38.093000	0:07:38.953000
 sicher	-	-	-	0:07:38.093000	0:07:38.953000
 ja	-	-	-	0:07:38.093000	0:07:38.953000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:38.953000" end="0:07:39.166000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:38.953000" end="0:07:39.166000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:38.953000	0:07:39.166000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:38.953000" end="0:07:40.286000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:38.953000" end="0:07:40.286000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:38.953000	0:07:39.166000
 genau	-	-	-	0:07:39.166000	0:07:39.459000
 jaja	-	-	-	0:07:39.899000	0:07:40.286000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:40.166000" end="0:07:40.753000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:40.166000" end="0:07:40.753000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:40.286000" end="0:07:49.066000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:40.286000" end="0:07:49.066000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:40.286000	0:07:40.973000
 sowieso	-	-	-	0:07:40.286000	0:07:40.973000
 also	-	-	-	0:07:41.139000	0:07:42.213000
@@ -1674,7 +1674,7 @@ vielleicht	-	-	-	0:07:46.299000	0:07:49.066000
 ein	-	-	-	0:07:46.299000	0:07:49.066000
 bisschen	-	-	-	0:07:46.299000	0:07:49.066000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:48.453000" end="0:07:49.966000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:48.453000" end="0:07:49.966000" age_lower="1" age_upper="999">
 so	-	-	-	0:07:48.453000	0:07:49.966000
 ist	-	-	-	0:07:48.453000	0:07:49.966000
 es	-	-	-	0:07:48.453000	0:07:49.966000
@@ -1682,17 +1682,17 @@ dann	-	-	-	0:07:48.453000	0:07:49.966000
 ja	-	-	-	0:07:48.453000	0:07:49.966000
 oft	-	-	-	0:07:48.453000	0:07:49.966000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:49.066000" end="0:07:49.966000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:49.066000" end="0:07:49.966000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:07:49.066000	0:07:49.613000
 es	-	-	-	0:07:49.613000	0:07:49.966000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:49.966000" end="0:07:50.259000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:49.966000" end="0:07:50.259000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:49.966000	0:07:50.259000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:49.966000" end="0:07:50.259000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:49.966000" end="0:07:50.259000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:49.966000	0:07:50.259000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:50.259000" end="0:07:51.993000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:50.259000" end="0:07:51.993000" age_lower="1" age_upper="999">
 na	-	-	-	0:07:50.259000	0:07:51.993000
 da	-	-	-	0:07:50.259000	0:07:51.993000
 sind	-	-	-	0:07:50.259000	0:07:51.993000
@@ -1700,33 +1700,33 @@ mir	-	-	-	0:07:50.259000	0:07:51.993000
 sehr	-	-	-	0:07:50.259000	0:07:51.993000
 dankbar	-	-	-	0:07:50.259000	0:07:51.993000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:50.886000" end="0:07:51.993000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:50.886000" end="0:07:51.993000" age_lower="65" age_upper="999">
 ich	-	-	-	0:07:50.886000	0:07:51.993000
 also	-	-	-	0:07:50.886000	0:07:51.993000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:51.993000" end="0:07:52.933000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:51.993000" end="0:07:52.933000" age_lower="1" age_upper="999">
 das	-	-	-	0:07:51.993000	0:07:52.933000
 ist	-	-	-	0:07:51.993000	0:07:52.933000
 Gold	-	-	-	0:07:51.993000	0:07:52.933000
 Wert	-	-	-	0:07:51.993000	0:07:52.933000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:51.993000" end="0:07:53.073000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:51.993000" end="0:07:53.073000" age_lower="65" age_upper="999">
 egal;	-	-	-	0:07:51.993000	0:07:52.656000
 jaja	-	-	-	0:07:52.656000	0:07:53.073000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:53.073000" end="0:07:53.713000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:53.073000" end="0:07:53.713000" age_lower="1" age_upper="999">
 diese	-	-	-	0:07:53.073000	0:07:53.713000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:53.073000" end="0:07:54.399000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:53.073000" end="0:07:54.399000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:07:53.073000	0:07:54.399000
 jaja	-	-	-	0:07:53.073000	0:07:54.399000
 jaja	-	-	-	0:07:53.073000	0:07:54.399000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:54.399000" end="0:07:55.886000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:54.399000" end="0:07:55.886000" age_lower="1" age_upper="999">
 engen	-	-	-	0:07:54.399000	0:07:55.886000
 Kontakte	-	-	-	0:07:54.399000	0:07:55.886000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:54.399000" end="0:07:57.253000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:54.399000" end="0:07:57.253000" age_lower="65" age_upper="999">
 nein	-	-	-	0:07:54.399000	0:07:55.186000
 keine	-	-	-	0:07:54.399000	0:07:55.186000
 Frage	-	-	-	0:07:54.399000	0:07:55.186000
@@ -1740,14 +1740,14 @@ auf	-	-	-	0:07:56.746000	0:07:57.253000
 jeden	-	-	-	0:07:56.746000	0:07:57.253000
 Fall	-	-	-	0:07:56.746000	0:07:57.253000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:57.253000" end="0:07:57.779000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:57.253000" end="0:07:57.779000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:57.253000	0:07:57.779000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:57.253000" end="0:07:57.779000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:57.253000" end="0:07:57.779000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:57.253000	0:07:57.779000
 ja	-	-	-	0:07:57.253000	0:07:57.779000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:57.779000" end="0:08:00.692000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:07:57.779000" end="0:08:00.692000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:07:57.779000	0:08:00.692000
 haben	-	-	-	0:07:57.779000	0:08:00.692000
 vorher	-	-	-	0:07:57.779000	0:08:00.692000
@@ -1755,10 +1755,10 @@ ja	-	-	-	0:07:57.779000	0:08:00.692000
 schon	-	-	-	0:07:57.779000	0:08:00.692000
 erzählt	-	-	-	0:07:57.779000	0:08:00.692000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:57.779000" end="0:07:58.539000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:07:57.779000" end="0:07:58.539000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:57.779000	0:07:58.539000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:00.692000" end="0:08:03.352000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:00.692000" end="0:08:03.352000" age_lower="1" age_upper="999">
 ihr	-	-	-	0:08:00.692000	0:08:01.919000
 Mann	-	-	-	0:08:00.692000	0:08:01.919000
 war	-	-	-	0:08:00.692000	0:08:01.919000
@@ -1769,11 +1769,11 @@ sie	-	-	-	0:08:01.919000	0:08:03.352000
 sie	-	-	-	0:08:01.919000	0:08:03.352000
 auch	-	-	-	0:08:01.919000	0:08:03.352000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:01.919000" end="0:08:04.126000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:01.919000" end="0:08:04.126000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:08:03.352000	0:08:04.126000
 jaja	-	-	-	0:08:03.352000	0:08:04.126000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:04.126000" end="0:08:06.639000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:04.126000" end="0:08:06.639000" age_lower="1" age_upper="999">
 wollen	-	-	-	0:08:04.126000	0:08:06.639000
 Sie	-	-	-	0:08:04.126000	0:08:06.639000
 mir	-	-	-	0:08:04.126000	0:08:06.639000
@@ -1785,7 +1785,7 @@ ein	-	-	-	0:08:04.126000	0:08:06.639000
 bisschen	-	-	-	0:08:04.126000	0:08:06.639000
 erzählen	-	-	-	0:08:04.126000	0:08:06.639000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:04.126000" end="0:08:18.132000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:04.126000" end="0:08:18.132000" age_lower="65" age_upper="999">
 wir	-	-	-	0:08:04.126000	0:08:04.712000
 sind	-	-	-	0:08:04.126000	0:08:04.712000
 jaja	-	-	-	0:08:04.712000	0:08:05.579000
@@ -1830,13 +1830,13 @@ uns	-	-	-	0:08:16.732000	0:08:18.132000
 dort	-	-	-	0:08:16.732000	0:08:18.132000
 kennengelernt	-	-	-	0:08:16.732000	0:08:18.132000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:17.199000" end="0:08:17.559000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:17.199000" end="0:08:17.559000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:18.132000" end="0:08:18.292000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:18.132000" end="0:08:18.292000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:18.292000" end="0:08:18.559000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:18.292000" end="0:08:18.559000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:18.559000" end="0:08:20.086000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:18.559000" end="0:08:20.086000" age_lower="65" age_upper="999">
 und	-	-	-	0:08:18.559000	0:08:20.086000
 lieben	-	-	-	0:08:18.559000	0:08:20.086000
 gelernt	-	-	-	0:08:18.559000	0:08:20.086000
@@ -1846,15 +1846,15 @@ so	-	-	-	0:08:18.559000	0:08:20.086000
 schön	-	-	-	0:08:18.559000	0:08:20.086000
 sagt	-	-	-	0:08:18.559000	0:08:20.086000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:19.612000" end="0:08:20.086000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:19.612000" end="0:08:20.086000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:20.086000" end="0:08:20.706000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:20.086000" end="0:08:20.706000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:08:20.212000	0:08:20.706000
 aiso>	-	-	-	0:08:20.212000	0:08:20.706000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:20.706000" end="0:08:21.926000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:20.706000" end="0:08:21.926000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:20.706000" end="0:08:34.438000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:20.706000" end="0:08:34.438000" age_lower="65" age_upper="999">
 mitlerweile	-	-	-	0:08:20.706000	0:08:21.926000
 sind	-	-	-	0:08:20.706000	0:08:21.926000
 man	-	-	-	0:08:20.706000	0:08:21.926000
@@ -1890,9 +1890,9 @@ immer	-	-	-	0:08:32.566000	0:08:34.438000
 im	-	-	-	0:08:32.566000	0:08:34.438000
 innendienst	-	-	-	0:08:32.566000	0:08:34.438000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:34.438000" end="0:08:34.892000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:34.438000" end="0:08:34.892000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:34.892000" end="0:08:46.599000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:34.892000" end="0:08:46.599000" age_lower="65" age_upper="999">
 er	-	-	-	0:08:34.892000	0:08:36.025000
 war	-	-	-	0:08:34.892000	0:08:36.025000
 immer	-	-	-	0:08:34.892000	0:08:36.025000
@@ -1931,9 +1931,9 @@ sehr	-	-	-	0:08:44.492000	0:08:46.599000
 viel	-	-	-	0:08:44.492000	0:08:46.599000
 reden	-	-	-	0:08:44.492000	0:08:46.599000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:46.599000" end="0:08:47.232000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:46.599000" end="0:08:47.232000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:46.599000" end="0:08:59.526000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:46.599000" end="0:08:59.526000" age_lower="65" age_upper="999">
 das	-	-	-	0:08:46.599000	0:08:48.032000
 war	-	-	-	0:08:46.599000	0:08:48.032000
 also	-	-	-	0:08:46.599000	0:08:48.032000
@@ -1977,9 +1977,9 @@ nicht	-	-	-	0:08:58.206000	0:08:59.526000
 so	-	-	-	0:08:58.206000	0:08:59.526000
 gehabt	-	-	-	0:08:58.206000	0:08:59.526000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:59.526000" end="0:09:00.079000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:08:59.526000" end="0:09:00.079000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:59.526000" end="0:09:03.386000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:08:59.526000" end="0:09:03.386000" age_lower="65" age_upper="999">
 aber	-	-	-	0:08:59.526000	0:09:01.586000
 in	-	-	-	0:08:59.526000	0:09:01.586000
 der	-	-	-	0:08:59.526000	0:09:01.586000
@@ -1994,10 +1994,10 @@ den	-	-	-	0:09:01.586000	0:09:02.739000
 kundenverkehr	-	-	-	0:09:01.586000	0:09:02.739000
 sowieso	-	-	-	0:09:02.739000	0:09:03.386000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:03.386000" end="0:09:03.992000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:03.386000" end="0:09:03.992000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:03.386000	0:09:03.992000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:03.386000" end="0:09:14.932000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:03.386000" end="0:09:14.932000" age_lower="65" age_upper="999">
 also	-	-	-	0:09:03.386000	0:09:04.759000
 da	-	-	-	0:09:03.386000	0:09:04.759000
 hat	-	-	-	0:09:03.386000	0:09:04.759000
@@ -2038,9 +2038,9 @@ noch	-	-	-	0:09:13.652000	0:09:14.746000
 da	-	-	-	0:09:13.652000	0:09:14.746000
 Matura	-	-	-	0:09:13.652000	0:09:14.746000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:14.932000" end="0:09:15.366000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:14.932000" end="0:09:15.366000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:14.932000" end="0:09:29.426000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:14.932000" end="0:09:29.426000" age_lower="65" age_upper="999">
 habe	-	-	-	0:09:14.932000	0:09:15.926000
 ich	-	-	-	0:09:14.932000	0:09:15.926000
 angefangen	-	-	-	0:09:14.932000	0:09:15.926000
@@ -2088,16 +2088,16 @@ Menschen	-	-	-	0:09:27.692000	0:09:29.426000
 immer	-	-	-	0:09:27.692000	0:09:29.426000
 wichtig	-	-	-	0:09:27.692000	0:09:29.426000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:28.632000" end="0:09:29.661000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:28.632000" end="0:09:29.661000" age_lower="1" age_upper="999">
 der	-	-	-	0:09:28.632000	0:09:29.661000
 menschenkontakt	-	-	-	0:09:28.632000	0:09:29.661000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:29.426000" end="0:09:29.661000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:29.426000" end="0:09:29.661000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:29.846000" end="0:09:30.159000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:29.846000" end="0:09:30.159000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:29.846000	0:09:30.159000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:30.159000" end="0:09:37.152000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:30.159000" end="0:09:37.152000" age_lower="65" age_upper="999">
 und	-	-	-	0:09:30.159000	0:09:32.206000
 ah	-	-	-	0:09:30.159000	0:09:32.206000
 ich	-	-	-	0:09:30.159000	0:09:32.206000
@@ -2121,9 +2121,9 @@ ein	-	-	-	0:09:34.546000	0:09:36.932000
 Kind	-	-	-	0:09:34.546000	0:09:36.932000
 haben	-	-	-	0:09:34.546000	0:09:36.932000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:37.152000" end="0:09:37.919000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:37.152000" end="0:09:37.919000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:37.152000" end="0:09:51.472000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:37.152000" end="0:09:51.472000" age_lower="65" age_upper="999">
 ah	-	-	-	0:09:37.152000	0:09:40.326000
 hat	-	-	-	0:09:37.152000	0:09:40.326000
 aber	-	-	-	0:09:37.152000	0:09:40.326000
@@ -2180,9 +2180,9 @@ in	-	-	-	0:09:49.872000	0:09:51.472000
 Kindergarten	-	-	-	0:09:49.872000	0:09:51.472000
 einmal	-	-	-	0:09:49.872000	0:09:51.472000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:51.266000" end="0:09:51.872000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:09:51.266000" end="0:09:51.872000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:51.472000" end="0:10:03.572000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:09:51.472000" end="0:10:03.572000" age_lower="65" age_upper="999">
 äh	-	-	-	0:09:51.872000	0:09:53.112000
 dann	-	-	-	0:09:53.112000	0:09:55.239000
 ah	-	-	-	0:09:53.112000	0:09:55.239000
@@ -2228,10 +2228,10 @@ ich	-	-	-	0:10:02.326000	0:10:03.572000
 dazu	-	-	-	0:10:02.326000	0:10:03.572000
 sagen	-	-	-	0:10:02.326000	0:10:03.572000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:03.572000" end="0:10:03.972000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:03.572000" end="0:10:03.972000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:03.572000	0:10:03.972000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:03.972000" end="0:10:15.986000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:03.972000" end="0:10:15.986000" age_lower="65" age_upper="999">
 ich	-	-	-	0:10:03.972000	0:10:05.046000
 schon	-	-	-	0:10:03.972000	0:10:05.046000
 gern	-	-	-	0:10:03.972000	0:10:05.046000
@@ -2264,9 +2264,9 @@ verdient	-	-	-	0:10:13.332000	0:10:15.026000
 keine	-	-	-	0:10:15.026000	0:10:15.759000
 Frage	-	-	-	0:10:15.026000	0:10:15.759000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:15.986000" end="0:10:16.606000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:15.986000" end="0:10:16.606000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:15.986000" end="0:10:23.766000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:15.986000" end="0:10:23.766000" age_lower="65" age_upper="999">
 und	-	-	-	0:10:15.986000	0:10:18.019000
 man	-	-	-	0:10:15.986000	0:10:18.019000
 hat	-	-	-	0:10:15.986000	0:10:18.019000
@@ -2293,7 +2293,7 @@ zuhause	-	-	-	0:10:21.412000	0:10:23.579000
 bleiben	-	-	-	0:10:21.412000	0:10:23.579000
 können	-	-	-	0:10:21.412000	0:10:23.579000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:23.766000" end="0:10:25.399000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:23.766000" end="0:10:25.399000" age_lower="1" age_upper="999">
 das	-	-	-	0:10:23.766000	0:10:25.399000
 ist	-	-	-	0:10:23.766000	0:10:25.399000
 ja	-	-	-	0:10:23.766000	0:10:25.399000
@@ -2301,12 +2301,12 @@ oft	-	-	-	0:10:23.766000	0:10:25.399000
 auch	-	-	-	0:10:23.766000	0:10:25.399000
 dieses	-	-	-	0:10:23.766000	0:10:25.399000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:24.072000" end="0:10:25.399000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:24.072000" end="0:10:25.399000" age_lower="65" age_upper="999">
 also	-	-	-	0:10:24.072000	0:10:24.852000
 das	-	-	-	0:10:24.072000	0:10:24.852000
 nicht	-	-	-	0:10:24.852000	0:10:25.399000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:25.399000" end="0:10:28.412000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:25.399000" end="0:10:28.412000" age_lower="1" age_upper="999">
 diese	-	-	-	0:10:25.399000	0:10:26.586000
 Sache	-	-	-	0:10:25.399000	0:10:26.586000
 dass	-	-	-	0:10:26.586000	0:10:28.412000
@@ -2315,21 +2315,21 @@ fast	-	-	-	0:10:26.586000	0:10:28.412000
 zwei	-	-	-	0:10:26.586000	0:10:28.412000
 verdiener	-	-	-	0:10:26.586000	0:10:28.412000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:28.039000" end="0:10:28.412000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:28.039000" end="0:10:28.412000" age_lower="65" age_upper="999">
 ja	-	-	-	0:10:28.039000	0:10:28.412000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:28.412000" end="0:10:29.172000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:28.412000" end="0:10:29.172000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:28.412000" end="0:10:29.172000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:28.412000" end="0:10:29.172000" age_lower="65" age_upper="999">
 ja	-	-	-	0:10:28.412000	0:10:29.172000
 ja	-	-	-	0:10:28.412000	0:10:29.172000
 ja	-	-	-	0:10:28.412000	0:10:29.172000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:29.172000" end="0:10:29.972000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:29.172000" end="0:10:29.972000" age_lower="1" age_upper="999">
 sein	-	-	-	0:10:29.172000	0:10:29.972000
 müssen	-	-	-	0:10:29.172000	0:10:29.972000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:29.172000" end="0:10:35.665000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:29.172000" end="0:10:35.665000" age_lower="65" age_upper="999">
 und	-	-	-	0:10:29.172000	0:10:31.299000
 bei	-	-	-	0:10:29.172000	0:10:31.299000
 unserer	-	-	-	0:10:29.172000	0:10:31.299000
@@ -2354,9 +2354,9 @@ da	-	-	-	0:10:34.726000	0:10:35.386000
 im	-	-	-	0:10:34.726000	0:10:35.386000
 baue	-	-	-	0:10:34.726000	0:10:35.386000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:35.665000" end="0:10:36.226000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:35.665000" end="0:10:36.226000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:35.665000" end="0:10:46.366000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:35.665000" end="0:10:46.366000" age_lower="65" age_upper="999">
 die	-	-	-	0:10:35.665000	0:10:38.092000
 waren	-	-	-	0:10:35.665000	0:10:38.092000
 auch	-	-	-	0:10:35.665000	0:10:38.092000
@@ -2399,10 +2399,10 @@ einmal	-	-	-	0:10:45.059000	0:10:46.152000
 gesagt	-	-	-	0:10:45.059000	0:10:46.152000
 haben	-	-	-	0:10:45.059000	0:10:46.152000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:46.366000" end="0:10:46.799000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:46.366000" end="0:10:46.799000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:46.366000	0:10:46.799000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:46.366000" end="0:10:54.886000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:46.366000" end="0:10:54.886000" age_lower="65" age_upper="999">
 also	-	-	-	0:10:46.366000	0:10:47.772000
 das	-	-	-	0:10:46.366000	0:10:47.772000
 war	-	-	-	0:10:46.366000	0:10:47.772000
@@ -2429,14 +2429,14 @@ im	-	-	-	0:10:52.966000	0:10:54.266000
 kinderzimmer	-	-	-	0:10:52.966000	0:10:54.266000
 alla	-	-	-	0:10:54.266000	0:10:54.886000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:54.886000" end="0:10:56.606000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:54.886000" end="0:10:56.606000" age_lower="1" age_upper="999">
 aber	-	-	-	0:10:54.886000	0:10:56.606000
 es	-	-	-	0:10:54.886000	0:10:56.606000
 ist	-	-	-	0:10:54.886000	0:10:56.606000
 was	-	-	-	0:10:54.886000	0:10:56.606000
 anderes	-	-	-	0:10:54.886000	0:10:56.606000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:54.886000" end="0:10:58.972000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:54.886000" end="0:10:58.972000" age_lower="65" age_upper="999">
 und	-	-	-	0:10:54.886000	0:10:55.759000
 und	-	-	-	0:10:54.886000	0:10:55.759000
 weiß	-	-	-	0:10:54.886000	0:10:55.759000
@@ -2451,9 +2451,9 @@ also	-	-	-	0:10:57.459000	0:10:58.972000
 schon	-	-	-	0:10:57.459000	0:10:58.972000
 also	-	-	-	0:10:57.459000	0:10:58.972000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:57.692000" end="0:10:58.192000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:10:57.692000" end="0:10:58.192000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:58.972000" end="0:11:18.659000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:10:58.972000" end="0:11:18.659000" age_lower="65" age_upper="999">
 und	-	-	-	0:10:58.972000	0:11:00.352000
 ich	-	-	-	0:10:58.972000	0:11:00.352000
 muss	-	-	-	0:10:58.972000	0:11:00.352000
@@ -2517,9 +2517,9 @@ Jahre	-	-	-	0:11:15.832000	0:11:17.119000
 diese	-	-	-	0:11:17.119000	0:11:18.372000
 mindestpension	-	-	-	0:11:17.119000	0:11:18.372000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:18.659000" end="0:11:19.166000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:18.659000" end="0:11:19.166000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:18.659000" end="0:11:22.126000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:18.659000" end="0:11:22.126000" age_lower="65" age_upper="999">
 dass	-	-	-	0:11:18.659000	0:11:19.899000
 ich	-	-	-	0:11:18.659000	0:11:19.899000
 die	-	-	-	0:11:18.659000	0:11:19.899000
@@ -2536,10 +2536,10 @@ was	-	-	-	0:11:19.899000	0:11:21.912000
 noch	-	-	-	0:11:19.899000	0:11:21.912000
 eingezahlt	-	-	-	0:11:19.899000	0:11:21.912000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:22.126000" end="0:11:22.626000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:22.126000" end="0:11:22.626000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:22.126000	0:11:22.626000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:22.126000" end="0:11:25.186000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:22.126000" end="0:11:25.186000" age_lower="65" age_upper="999">
 und	-	-	-	0:11:22.126000	0:11:25.186000
 habe	-	-	-	0:11:22.126000	0:11:25.186000
 ich	-	-	-	0:11:22.126000	0:11:25.186000
@@ -2555,10 +2555,10 @@ jetzt	-	-	-	0:11:22.126000	0:11:25.186000
 auch	-	-	-	0:11:22.126000	0:11:25.186000
 kriege	-	-	-	0:11:22.126000	0:11:25.186000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:25.186000" end="0:11:25.646000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:25.186000" end="0:11:25.646000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:25.186000	0:11:25.646000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:25.186000" end="0:11:30.192000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:25.186000" end="0:11:30.192000" age_lower="65" age_upper="999">
 dass	-	-	-	0:11:25.399000	0:11:29.099000
 man	-	-	-	0:11:25.399000	0:11:29.099000
 dass	-	-	-	0:11:25.399000	0:11:29.099000
@@ -2576,10 +2576,10 @@ mehr	-	-	-	0:11:29.272000	0:11:29.992000
 oder	-	-	-	0:11:29.272000	0:11:29.992000
 weniger	-	-	-	0:11:29.272000	0:11:29.992000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:30.192000" end="0:11:30.886000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:30.192000" end="0:11:30.886000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:30.192000	0:11:30.886000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:30.192000" end="0:11:33.946000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:30.192000" end="0:11:33.946000" age_lower="65" age_upper="999">
 also	-	-	-	0:11:30.192000	0:11:32.079000
 das	-	-	-	0:11:30.192000	0:11:32.079000
 das	-	-	-	0:11:30.192000	0:11:32.079000
@@ -2595,11 +2595,11 @@ passt	-	-	-	0:11:32.606000	0:11:33.946000
 ganz	-	-	-	0:11:32.606000	0:11:33.946000
 gut	-	-	-	0:11:32.606000	0:11:33.946000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:33.186000" end="0:11:33.946000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:33.186000" end="0:11:33.946000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:33.186000	0:11:33.946000
 super	-	-	-	0:11:33.186000	0:11:33.946000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:33.946000" end="0:11:56.406000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:33.946000" end="0:11:56.406000" age_lower="65" age_upper="999">
 und	-	-	-	0:11:33.946000	0:11:35.239000
 die	-	-	-	0:11:33.946000	0:11:35.239000
 Zeit	-	-	-	0:11:33.946000	0:11:35.239000
@@ -2675,11 +2675,11 @@ bisschen	-	-	-	0:11:53.706000	0:11:56.406000
 was	-	-	-	0:11:53.706000	0:11:56.406000
 machen	-	-	-	0:11:53.706000	0:11:56.406000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:55.992000" end="0:11:56.759000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:11:55.992000" end="0:11:56.759000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:55.992000	0:11:56.406000
 ja	-	-	-	0:11:56.406000	0:11:56.759000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:56.406000" end="0:12:14.446000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:11:56.406000" end="0:12:14.446000" age_lower="65" age_upper="999">
 und	-	-	-	0:11:56.759000	0:12:00.412000
 habe	-	-	-	0:11:56.759000	0:12:00.412000
 dann	-	-	-	0:11:56.759000	0:12:00.412000
@@ -2729,9 +2729,9 @@ irgendwas	-	-	-	0:12:10.226000	0:12:14.446000
 gemacht	-	-	-	0:12:10.226000	0:12:14.446000
 hat	-	-	-	0:12:10.226000	0:12:14.446000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:14.446000" end="0:12:15.006000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:14.446000" end="0:12:15.006000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:14.446000" end="0:12:18.452000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:14.446000" end="0:12:18.452000" age_lower="65" age_upper="999">
 war	-	-	-	0:12:14.446000	0:12:16.152000
 natirlich	-	-	-	0:12:14.446000	0:12:16.152000
 auch	-	-	-	0:12:14.446000	0:12:16.152000
@@ -2746,10 +2746,10 @@ irrsinnig	-	-	-	0:12:16.939000	0:12:18.179000
 gern	-	-	-	0:12:16.939000	0:12:18.179000
 ja	-	-	-	0:12:18.179000	0:12:18.452000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:18.452000" end="0:12:18.812000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:18.452000" end="0:12:18.812000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:18.452000	0:12:18.812000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:18.812000" end="0:12:27.392000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:18.812000" end="0:12:27.392000" age_lower="65" age_upper="999">
 aber	-	-	-	0:12:18.812000	0:12:20.579000
 es	-	-	-	0:12:18.812000	0:12:20.579000
 war	-	-	-	0:12:18.812000	0:12:20.579000
@@ -2786,10 +2786,10 @@ habe	-	-	-	0:12:25.859000	0:12:27.392000
 weiß	-	-	-	0:12:25.859000	0:12:27.392000
 ich	-	-	-	0:12:25.859000	0:12:27.392000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:26.292000" end="0:12:26.732000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:26.292000" end="0:12:26.732000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:26.292000	0:12:26.732000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:27.392000" end="0:12:29.679000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:27.392000" end="0:12:29.679000" age_lower="65" age_upper="999">
 da	-	-	-	0:12:27.392000	0:12:29.446000
 die	-	-	-	0:12:27.392000	0:12:29.446000
 ZAHL	ZAHL	-	-	0:12:27.392000	0:12:29.446000
@@ -2801,9 +2801,9 @@ da	-	-	-	0:12:27.392000	0:12:29.446000
 halt	-	-	-	0:12:27.392000	0:12:29.446000
 kriegt	-	-	-	0:12:27.392000	0:12:29.446000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:29.679000" end="0:12:30.092000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:29.679000" end="0:12:30.092000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:29.679000" end="0:12:37.019000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:29.679000" end="0:12:37.019000" age_lower="65" age_upper="999">
 das	-	-	-	0:12:29.679000	0:12:31.372000
 habe	-	-	-	0:12:29.679000	0:12:31.372000
 ich	-	-	-	0:12:29.679000	0:12:31.372000
@@ -2830,11 +2830,11 @@ ganze	-	-	-	0:12:35.079000	0:12:37.019000
 Zeit	-	-	-	0:12:35.079000	0:12:37.019000
 zaus	-	-	-	0:12:35.079000	0:12:37.019000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:36.146000" end="0:12:36.646000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:36.146000" end="0:12:36.646000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:37.019000" end="0:12:37.192000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:37.019000" end="0:12:37.192000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:37.192000" end="0:12:39.559000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:37.192000" end="0:12:39.559000" age_lower="1" age_upper="999">
 aber	-	-	-	0:12:37.192000	0:12:39.559000
 das	-	-	-	0:12:37.192000	0:12:39.559000
 ist	-	-	-	0:12:37.192000	0:12:39.559000
@@ -2844,7 +2844,7 @@ sehr	-	-	-	0:12:37.192000	0:12:39.559000
 schwerer	-	-	-	0:12:37.192000	0:12:39.559000
 Job	-	-	-	0:12:37.192000	0:12:39.559000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:37.192000" end="0:12:39.192000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:37.192000" end="0:12:39.192000" age_lower="65" age_upper="999">
 und	-	-	-	0:12:37.192000	0:12:39.192000
 mein	-	-	-	0:12:37.192000	0:12:39.192000
 Mann	-	-	-	0:12:37.192000	0:12:39.192000
@@ -2853,19 +2853,19 @@ dann	-	-	-	0:12:37.192000	0:12:39.192000
 also	-	-	-	0:12:37.192000	0:12:39.192000
 nicht	-	-	-	0:12:37.192000	0:12:39.192000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:39.559000" end="0:12:40.772000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:39.559000" end="0:12:40.772000" age_lower="1" age_upper="999">
 diese	-	-	-	0:12:39.559000	0:12:40.772000
 call	-	-	-	0:12:39.559000	0:12:40.772000
 center	-	-	-	0:12:39.559000	0:12:40.772000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:40.492000" end="0:12:41.572000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:40.492000" end="0:12:41.572000" age_lower="65" age_upper="999">
 ja	-	-	-	0:12:40.492000	0:12:40.772000
 so	-	-	-	0:12:40.772000	0:12:41.572000
 etwas	-	-	-	0:12:40.772000	0:12:41.572000
 ist	-	-	-	0:12:40.772000	0:12:41.572000
 sehr	-	-	-	0:12:40.772000	0:12:41.572000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:41.572000" end="0:12:45.366000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:41.572000" end="0:12:45.366000" age_lower="1" age_upper="999">
 das	-	-	-	0:12:41.572000	0:12:45.366000
 habe	-	-	-	0:12:41.572000	0:12:45.366000
 ich	-	-	-	0:12:41.572000	0:12:45.366000
@@ -2882,7 +2882,7 @@ ich	-	-	-	0:12:41.572000	0:12:45.366000
 das	-	-	-	0:12:41.572000	0:12:45.366000
 gemacht	-	-	-	0:12:41.572000	0:12:45.366000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:41.572000" end="0:12:45.592000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:41.572000" end="0:12:45.592000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:12:41.572000	0:12:42.118000
 so	-	-	-	0:12:42.118000	0:12:43.032000
 etwas	-	-	-	0:12:42.118000	0:12:43.032000
@@ -2891,14 +2891,14 @@ sehr	-	-	-	0:12:42.118000	0:12:43.032000
 ja	-	-	-	0:12:43.032000	0:12:43.572000
 ja	-	-	-	0:12:43.032000	0:12:43.572000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:45.366000" end="0:12:47.979000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:45.366000" end="0:12:47.979000" age_lower="1" age_upper="999">
 und	-	-	-	0:12:45.366000	0:12:47.979000
 das	-	-	-	0:12:45.366000	0:12:47.979000
 ist	-	-	-	0:12:45.366000	0:12:47.979000
 wirklich	-	-	-	0:12:45.366000	0:12:47.979000
 knochenarbeit	-	-	-	0:12:45.366000	0:12:47.979000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:45.592000" end="0:12:47.572000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:45.592000" end="0:12:47.572000" age_lower="65" age_upper="999">
 ja	-	-	-	0:12:45.592000	0:12:47.572000
 ja	-	-	-	0:12:45.592000	0:12:47.572000
 ja	-	-	-	0:12:45.592000	0:12:47.572000
@@ -2907,31 +2907,31 @@ ja	-	-	-	0:12:45.592000	0:12:47.572000
 ja	-	-	-	0:12:45.592000	0:12:47.572000
 ja	-	-	-	0:12:45.592000	0:12:47.572000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:47.979000" end="0:12:49.132000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:47.979000" end="0:12:49.132000" age_lower="1" age_upper="999">
 obwohl	-	-	-	0:12:47.979000	0:12:49.132000
 man	-	-	-	0:12:47.979000	0:12:49.132000
 nur	-	-	-	0:12:47.979000	0:12:49.132000
 sitzt	-	-	-	0:12:47.979000	0:12:49.132000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:47.979000" end="0:12:49.132000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:47.979000" end="0:12:49.132000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:12:47.979000	0:12:48.511000
 ja	-	-	-	0:12:48.511000	0:12:49.132000
 ja	-	-	-	0:12:48.511000	0:12:49.132000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:49.132000" end="0:12:49.672000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:49.132000" end="0:12:49.672000" age_lower="1" age_upper="999">
 aber	-	-	-	0:12:49.132000	0:12:49.672000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:49.132000" end="0:12:49.672000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:49.132000" end="0:12:49.672000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:12:49.132000	0:12:49.672000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:49.672000" end="0:12:52.046000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:49.672000" end="0:12:52.046000" age_lower="1" age_upper="999">
 psychisch	-	-	-	0:12:49.672000	0:12:52.046000
 ist	-	-	-	0:12:49.672000	0:12:52.046000
 das	-	-	-	0:12:49.672000	0:12:52.046000
 schon	-	-	-	0:12:49.672000	0:12:52.046000
 anstrengend	-	-	-	0:12:49.672000	0:12:52.046000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:49.672000" end="0:12:53.152000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:49.672000" end="0:12:53.152000" age_lower="65" age_upper="999">
 man	-	-	-	0:12:49.672000	0:12:50.546000
 sitze	-	-	-	0:12:49.672000	0:12:50.546000
 nur	-	-	-	0:12:49.672000	0:12:50.546000
@@ -2945,10 +2945,10 @@ nicht	-	-	-	0:12:52.372000	0:12:53.152000
 ne	-	-	-	0:12:52.372000	0:12:53.152000
 ne	-	-	-	0:12:52.372000	0:12:53.152000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:53.152000" end="0:12:53.466000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:53.152000" end="0:12:53.466000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:53.152000	0:12:53.466000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:53.466000" end="0:12:55.919000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:53.466000" end="0:12:55.919000" age_lower="65" age_upper="999">
 und	-	-	-	0:12:53.466000	0:12:55.919000
 man	-	-	-	0:12:53.466000	0:12:55.919000
 hat	-	-	-	0:12:53.466000	0:12:55.919000
@@ -2961,9 +2961,9 @@ dann	-	-	-	0:12:53.466000	0:12:55.919000
 anhören	-	-	-	0:12:53.466000	0:12:55.919000
 müssen	-	-	-	0:12:53.466000	0:12:55.919000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:55.779000" end="0:12:56.379000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:12:55.779000" end="0:12:56.379000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:55.919000" end="0:13:06.359000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:12:55.919000" end="0:13:06.359000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:12:55.919000	0:12:56.106000
 was	-	-	-	0:12:56.106000	0:12:58.206000
 man	-	-	-	0:12:56.106000	0:12:58.206000
@@ -3002,9 +3002,9 @@ es	-	-	-	0:13:05.352000	0:13:06.359000
 nicht	-	-	-	0:13:05.352000	0:13:06.359000
 gemusst	-	-	-	0:13:05.352000	0:13:06.359000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:06.126000" end="0:13:06.719000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:06.126000" end="0:13:06.719000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:06.359000" end="0:13:08.859000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:06.359000" end="0:13:08.859000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:13:06.359000	0:13:06.523000
 es	-	-	-	0:13:06.523000	0:13:07.446000
 war	-	-	-	0:13:06.523000	0:13:07.446000
@@ -3018,9 +3018,9 @@ weniger	-	-	-	0:13:07.446000	0:13:08.859000
 fad	-	-	-	0:13:07.446000	0:13:08.859000
 war	-	-	-	0:13:07.446000	0:13:08.859000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:08.859000" end="0:13:09.772000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:08.859000" end="0:13:09.772000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:08.859000" end="0:13:16.652000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:08.859000" end="0:13:16.652000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:13:08.859000	0:13:09.346000
 eine	-	-	-	0:13:08.859000	0:13:09.346000
 und	-	-	-	0:13:09.772000	0:13:13.346000
@@ -3044,9 +3044,9 @@ bin	-	-	-	0:13:15.506000	0:13:16.652000
 ich	-	-	-	0:13:15.506000	0:13:16.652000
 ZAHL	ZAHL	-	-	0:13:15.506000	0:13:16.652000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:16.652000" end="0:13:17.199000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:16.652000" end="0:13:17.199000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:16.652000" end="0:13:22.912000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:16.652000" end="0:13:22.912000" age_lower="65" age_upper="999">
 also	-	-	-	0:13:16.652000	0:13:18.406000
 mit	-	-	-	0:13:16.652000	0:13:18.406000
 mit	-	-	-	0:13:16.652000	0:13:18.406000
@@ -3067,9 +3067,9 @@ am	-	-	-	0:13:20.606000	0:13:22.652000
 Stock	-	-	-	0:13:20.606000	0:13:22.652000
 gehen	-	-	-	0:13:20.606000	0:13:22.652000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:22.912000" end="0:13:23.599000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:22.912000" end="0:13:23.599000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:22.912000" end="0:13:34.046000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:22.912000" end="0:13:34.046000" age_lower="65" age_upper="999">
 ah	-	-	-	0:13:22.912000	0:13:23.979000
 also	-	-	-	0:13:23.979000	0:13:24.872000
 in	-	-	-	0:13:23.979000	0:13:24.872000
@@ -3108,10 +3108,10 @@ einmal	-	-	-	0:13:32.646000	0:13:34.046000
 notwendig	-	-	-	0:13:32.646000	0:13:34.046000
 ist	-	-	-	0:13:32.646000	0:13:34.046000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:33.599000" end="0:13:34.046000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:33.599000" end="0:13:34.046000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:33.599000	0:13:34.046000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:34.046000" end="0:13:38.439000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:34.046000" end="0:13:38.439000" age_lower="65" age_upper="999">
 glaube	-	-	-	0:13:34.046000	0:13:35.059000
 ich	-	-	-	0:13:34.046000	0:13:35.059000
 dann	-	-	-	0:13:34.046000	0:13:35.059000
@@ -3132,9 +3132,9 @@ der	-	-	-	0:13:35.059000	0:13:38.439000
 Wohnung	-	-	-	0:13:35.059000	0:13:38.439000
 geben	-	-	-	0:13:35.059000	0:13:38.439000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:38.439000" end="0:13:40.412000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:38.439000" end="0:13:40.412000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:38.439000" end="0:13:44.692000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:38.439000" end="0:13:44.692000" age_lower="65" age_upper="999">
 dass	-	-	-	0:13:38.439000	0:13:39.332000
 mich	-	-	-	0:13:38.439000	0:13:39.332000
 dazu	-	-	-	0:13:38.439000	0:13:39.332000
@@ -3157,22 +3157,22 @@ eingeschränkt	-	-	-	0:13:41.959000	0:13:43.946000
 überhaupt	-	-	-	0:13:43.946000	0:13:44.692000
 alles	-	-	-	0:13:43.946000	0:13:44.692000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:44.412000" end="0:13:44.906000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:44.412000" end="0:13:44.906000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:44.412000	0:13:44.906000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:44.692000" end="0:13:44.906000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:44.692000" end="0:13:44.906000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:44.906000" end="0:13:45.179000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:44.906000" end="0:13:45.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:44.906000" end="0:13:46.746000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:44.906000" end="0:13:46.746000" age_lower="65" age_upper="999">
 die	-	-	-	0:13:44.906000	0:13:46.499000
 Lebensqualität	-	-	-	0:13:44.906000	0:13:46.499000
 ein	-	-	-	0:13:44.906000	0:13:46.499000
 bisschen	-	-	-	0:13:44.906000	0:13:46.499000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:46.746000" end="0:13:47.252000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:13:46.746000" end="0:13:47.252000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:46.746000" end="0:14:05.026000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:13:46.746000" end="0:14:05.026000" age_lower="65" age_upper="999">
 also	-	-	-	0:13:46.746000	0:13:47.252000
 das	-	-	-	0:13:47.252000	0:13:49.352000
 ist	-	-	-	0:13:47.252000	0:13:49.352000
@@ -3224,9 +3224,9 @@ meeting	-	-	-	0:14:03.366000	0:14:05.026000
 gemacht	-	-	-	0:14:03.366000	0:14:05.026000
 die	-	-	-	0:14:03.366000	0:14:05.026000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:05.026000" end="0:14:05.499000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:05.026000" end="0:14:05.499000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:05.262000" end="0:14:10.026000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:05.262000" end="0:14:10.026000" age_lower="65" age_upper="999">
 also	-	-	-	0:14:05.262000	0:14:06.759000
 öh	-	-	-	0:14:05.262000	0:14:06.759000
 Kolleginnen	-	-	-	0:14:05.262000	0:14:06.759000
@@ -3242,12 +3242,12 @@ also	-	-	-	0:14:09.039000	0:14:10.026000
 heute	-	-	-	0:14:09.039000	0:14:10.026000
 noch	-	-	-	0:14:09.039000	0:14:10.026000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:09.852000" end="0:14:10.979000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:09.852000" end="0:14:10.979000" age_lower="1" age_upper="999">
 ah	-	-	-	0:14:09.852000	0:14:10.979000
 sehr	-	-	-	0:14:09.852000	0:14:10.979000
 schön	-	-	-	0:14:09.852000	0:14:10.979000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:10.026000" end="0:14:24.292000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:10.026000" end="0:14:24.292000" age_lower="65" age_upper="999">
 sind	-	-	-	0:14:10.026000	0:14:11.439000
 al	-	-	-	0:14:10.026000	0:14:11.439000
 alle	-	-	-	0:14:10.026000	0:14:11.439000
@@ -3299,16 +3299,16 @@ schon	-	-	-	0:14:22.766000	0:14:24.292000
 Zuhause	-	-	-	0:14:22.766000	0:14:24.292000
 blieben	-	-	-	0:14:22.766000	0:14:24.292000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:23.192000" end="0:14:23.566000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:23.192000" end="0:14:23.566000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:24.292000" end="0:14:26.139000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:24.292000" end="0:14:26.139000" age_lower="65" age_upper="999">
 und	-	-	-	0:14:24.292000	0:14:25.946000
 das	-	-	-	0:14:24.292000	0:14:25.946000
 behoit	-	-	-	0:14:24.292000	0:14:25.946000
 wir	-	-	-	0:14:24.292000	0:14:25.946000
 weiter	-	-	-	0:14:24.292000	0:14:25.946000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:26.139000" end="0:14:28.406000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:26.139000" end="0:14:28.406000" age_lower="1" age_upper="999">
 und	-	-	-	0:14:26.139000	0:14:28.406000
 wo	-	-	-	0:14:26.139000	0:14:28.406000
 treffen	-	-	-	0:14:26.139000	0:14:28.406000
@@ -3317,7 +3317,7 @@ sich	-	-	-	0:14:26.139000	0:14:28.406000
 da	-	-	-	0:14:26.139000	0:14:28.406000
 typischerweise	-	-	-	0:14:26.139000	0:14:28.406000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:26.139000" end="0:14:35.066000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:26.139000" end="0:14:35.066000" age_lower="65" age_upper="999">
 also	-	-	-	0:14:26.139000	0:14:26.852000
 da	-	-	-	0:14:26.139000	0:14:26.852000
 ah	-	-	-	0:14:28.159000	0:14:28.699000
@@ -3338,9 +3338,9 @@ in	-	-	-	0:14:33.826000	0:14:35.066000
 ein	-	-	-	0:14:33.826000	0:14:35.066000
 Lokal	-	-	-	0:14:33.826000	0:14:35.066000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:34.312000" end="0:14:34.692000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:34.312000" end="0:14:34.692000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:35.066000" end="0:14:37.059000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:35.066000" end="0:14:37.059000" age_lower="65" age_upper="999">
 weil	-	-	-	0:14:35.066000	0:14:36.399000
 die	-	-	-	0:14:35.066000	0:14:36.399000
 wohnen	-	-	-	0:14:35.066000	0:14:36.399000
@@ -3349,11 +3349,11 @@ ORT	ORT	-	-	0:14:35.066000	0:14:36.399000
 alle	-	-	-	0:14:36.399000	0:14:37.059000
 drei	-	-	-	0:14:36.399000	0:14:37.059000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:36.450000" end="0:14:37.699000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:36.450000" end="0:14:37.699000" age_lower="1" age_upper="999">
 aha	-	-	-	0:14:36.450000	0:14:37.219000
 okay	-	-	-	0:14:37.219000	0:14:37.699000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:37.219000" end="0:14:47.546000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:37.219000" end="0:14:47.546000" age_lower="65" age_upper="999">
 und	-	-	-	0:14:37.219000	0:14:39.032000
 das	-	-	-	0:14:37.219000	0:14:39.032000
 ist	-	-	-	0:14:37.219000	0:14:39.032000
@@ -3396,20 +3396,20 @@ abholen	-	-	-	0:14:46.752000	0:14:47.546000
 auch	-	-	-	0:14:46.752000	0:14:47.546000
 noch	-	-	-	0:14:46.752000	0:14:47.546000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:47.546000" end="0:14:48.339000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:47.546000" end="0:14:48.339000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:47.546000	0:14:48.339000
 sicher	-	-	-	0:14:47.546000	0:14:48.339000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:47.546000" end="0:14:48.932000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:47.546000" end="0:14:48.932000" age_lower="65" age_upper="999">
 das	-	-	-	0:14:47.546000	0:14:48.739000
 ist	-	-	-	0:14:47.546000	0:14:48.739000
 ein	-	-	-	0:14:47.546000	0:14:48.739000
 bisschen	-	-	-	0:14:47.546000	0:14:48.739000
 viel	-	-	-	0:14:47.546000	0:14:48.739000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:48.932000" end="0:14:49.419000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:14:48.932000" end="0:14:49.419000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:48.932000" end="0:15:03.106000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:14:48.932000" end="0:15:03.106000" age_lower="65" age_upper="999">
 also	-	-	-	0:14:48.932000	0:14:50.979000
 das	-	-	-	0:14:48.932000	0:14:50.979000
 muss	-	-	-	0:14:48.932000	0:14:50.979000
@@ -3463,14 +3463,14 @@ relativ	-	-	-	0:15:01.306000	0:15:03.106000
 oft	-	-	-	0:15:01.306000	0:15:03.106000
 dann	-	-	-	0:15:01.306000	0:15:03.106000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:02.559000" end="0:15:03.106000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:02.559000" end="0:15:03.106000" age_lower="1" age_upper="999">
 okay	-	-	-	0:15:02.559000	0:15:03.106000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:03.106000" end="0:15:03.346000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:03.106000" end="0:15:03.346000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:03.346000" end="0:15:03.699000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:03.346000" end="0:15:03.699000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:03.346000" end="0:15:12.639000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:03.346000" end="0:15:12.639000" age_lower="65" age_upper="999">
 die	-	-	-	0:15:03.346000	0:15:04.906000
 haben	-	-	-	0:15:03.346000	0:15:04.906000
 einen	-	-	-	0:15:03.346000	0:15:04.906000
@@ -3515,20 +3515,20 @@ ZAHL	ZAHL	-	-	0:15:11.466000	0:15:12.639000
 da	-	-	-	0:15:11.466000	0:15:12.639000
 her	-	-	-	0:15:11.466000	0:15:12.639000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:12.639000" end="0:15:13.526000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:12.639000" end="0:15:13.526000" age_lower="1" age_upper="999">
 genau	-	-	-	0:15:12.639000	0:15:13.526000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:12.639000" end="0:15:13.526000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:12.639000" end="0:15:13.526000" age_lower="65" age_upper="999">
 da	-	-	-	0:15:12.639000	0:15:13.526000
 ist	-	-	-	0:15:12.639000	0:15:13.526000
 ja	-	-	-	0:15:12.639000	0:15:13.526000
 nicht	-	-	-	0:15:12.639000	0:15:13.526000
 weit	-	-	-	0:15:12.639000	0:15:13.526000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:13.526000" end="0:15:13.999000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:13.526000" end="0:15:13.999000" age_lower="1" age_upper="999">
 genau	-	-	-	0:15:13.526000	0:15:13.999000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:13.526000" end="0:15:19.312000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:13.526000" end="0:15:19.312000" age_lower="65" age_upper="999">
 weil	-	-	-	0:15:13.999000	0:15:19.019000
 für	-	-	-	0:15:13.999000	0:15:19.019000
 mich	-	-	-	0:15:13.999000	0:15:19.019000
@@ -3547,14 +3547,14 @@ schon	-	-	-	0:15:13.999000	0:15:19.019000
 beschwerlich	-	-	-	0:15:13.999000	0:15:19.019000
 nicht	-	-	-	0:15:19.019000	0:15:19.312000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:19.312000" end="0:15:20.866000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:19.312000" end="0:15:20.866000" age_lower="1" age_upper="999">
 vor	-	-	-	0:15:19.312000	0:15:20.866000
 allem	-	-	-	0:15:19.312000	0:15:20.866000
 mit	-	-	-	0:15:19.312000	0:15:20.866000
 den	-	-	-	0:15:19.312000	0:15:20.866000
 ja	-	-	-	0:15:19.312000	0:15:20.866000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:19.312000" end="0:15:20.866000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:19.312000" end="0:15:20.866000" age_lower="65" age_upper="999">
 es	-	-	-	0:15:19.312000	0:15:20.579000
 ist	-	-	-	0:15:19.312000	0:15:20.579000
 ein	-	-	-	0:15:19.312000	0:15:20.579000
@@ -3562,16 +3562,16 @@ bisschen	-	-	-	0:15:19.312000	0:15:20.579000
 beschwerlich	-	-	-	0:15:19.312000	0:15:20.579000
 nicht	-	-	-	0:15:20.579000	0:15:20.866000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:20.866000" end="0:15:21.319000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:20.866000" end="0:15:21.319000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:20.866000	0:15:21.319000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:20.866000" end="0:15:21.319000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:20.866000" end="0:15:21.319000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:15:20.866000	0:15:21.319000
 nicht	-	-	-	0:15:20.866000	0:15:21.319000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:21.319000" end="0:15:21.726000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:21.319000" end="0:15:21.726000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:21.726000" end="0:15:33.832000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:21.726000" end="0:15:33.832000" age_lower="65" age_upper="999">
 also	-	-	-	0:15:21.726000	0:15:23.039000
 das	-	-	-	0:15:21.726000	0:15:23.039000
 ist	-	-	-	0:15:21.726000	0:15:23.039000
@@ -3616,11 +3616,11 @@ es	-	-	-	0:15:31.386000	0:15:33.832000
 stehen	-	-	-	0:15:31.386000	0:15:33.832000
 bleibt	-	-	-	0:15:31.386000	0:15:33.832000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:32.192000" end="0:15:32.686000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:32.192000" end="0:15:32.686000" age_lower="1" age_upper="999">
 oh	-	-	-	0:15:32.192000	0:15:32.686000
 je	-	-	-	0:15:32.192000	0:15:32.686000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:33.832000" end="0:15:37.099000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:33.832000" end="0:15:37.099000" age_lower="65" age_upper="999">
 und	-	-	-	0:15:33.832000	0:15:34.952000
 steige	-	-	-	0:15:33.832000	0:15:34.952000
 dann	-	-	-	0:15:33.832000	0:15:34.952000
@@ -3635,9 +3635,9 @@ eh	-	-	-	0:15:35.912000	0:15:37.099000
 gleich	-	-	-	0:15:35.912000	0:15:37.099000
 ah	-	-	-	0:15:35.912000	0:15:37.099000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:37.099000" end="0:15:37.779000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:37.099000" end="0:15:37.779000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:37.099000" end="0:15:42.032000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:37.099000" end="0:15:42.032000" age_lower="65" age_upper="999">
 ah	-	-	-	0:15:37.099000	0:15:37.779000
 durthin	-	-	-	0:15:37.779000	0:15:39.039000
 wo	-	-	-	0:15:37.779000	0:15:39.039000
@@ -3656,7 +3656,7 @@ aber	-	-	-	0:15:41.019000	0:15:42.032000
 wie	-	-	-	0:15:41.019000	0:15:42.032000
 gesagt	-	-	-	0:15:41.019000	0:15:42.032000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:42.032000" end="0:15:44.106000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:42.032000" end="0:15:44.106000" age_lower="1" age_upper="999">
 da	-	-	-	0:15:42.032000	0:15:44.106000
 muss	-	-	-	0:15:42.032000	0:15:44.106000
 man	-	-	-	0:15:42.032000	0:15:44.106000
@@ -3664,17 +3664,17 @@ dann	-	-	-	0:15:42.032000	0:15:44.106000
 aufpassen	-	-	-	0:15:42.032000	0:15:44.106000
 auch	-	-	-	0:15:42.032000	0:15:44.106000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:42.032000" end="0:15:44.106000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:42.032000" end="0:15:44.106000" age_lower="65" age_upper="999">
 also	-	-	-	0:15:42.032000	0:15:44.106000
 das	-	-	-	0:15:42.032000	0:15:44.106000
 ist	-	-	-	0:15:42.032000	0:15:44.106000
 es	-	-	-	0:15:42.032000	0:15:44.106000
 wenigste	-	-	-	0:15:42.032000	0:15:44.106000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:44.106000" end="0:15:44.506000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:44.106000" end="0:15:44.506000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:44.106000	0:15:44.506000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:44.106000" end="0:15:45.992000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:44.106000" end="0:15:45.992000" age_lower="65" age_upper="999">
 auf	-	-	-	0:15:44.106000	0:15:44.739000
 jeden	-	-	-	0:15:44.106000	0:15:44.739000
 Fall	-	-	-	0:15:44.106000	0:15:44.739000
@@ -3684,10 +3684,10 @@ ja	-	-	-	0:15:44.739000	0:15:45.992000
 ja	-	-	-	0:15:44.739000	0:15:45.992000
 ja	-	-	-	0:15:44.739000	0:15:45.992000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:45.992000" end="0:15:46.526000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:45.992000" end="0:15:46.526000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:45.992000	0:15:46.526000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:45.992000" end="0:15:55.392000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:45.992000" end="0:15:55.392000" age_lower="65" age_upper="999">
 also	-	-	-	0:15:45.992000	0:15:47.906000
 ich	-	-	-	0:15:45.992000	0:15:47.906000
 bin	-	-	-	0:15:45.992000	0:15:47.906000
@@ -3719,9 +3719,9 @@ diese	-	-	-	0:15:53.672000	0:15:55.392000
 geschützten	-	-	-	0:15:53.672000	0:15:55.392000
 Bereiche	-	-	-	0:15:53.672000	0:15:55.392000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:55.392000" end="0:15:55.792000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:15:55.392000" end="0:15:55.792000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:55.392000" end="0:16:02.805000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:15:55.392000" end="0:16:02.805000" age_lower="65" age_upper="999">
 also	-	-	-	0:15:55.392000	0:15:57.012000
 auch	-	-	-	0:15:55.392000	0:15:57.012000
 zum	-	-	-	0:15:55.392000	0:15:57.012000
@@ -3748,10 +3748,10 @@ noch	-	-	-	0:16:01.985000	0:16:02.805000
 ORT	ORT	-	-	0:16:01.985000	0:16:02.805000
 ORT	ORT	-	-	0:16:01.985000	0:16:02.805000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:02.805000" end="0:16:03.299000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:02.805000" end="0:16:03.299000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:02.805000	0:16:03.299000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:02.805000" end="0:16:10.979000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:02.805000" end="0:16:10.979000" age_lower="65" age_upper="999">
 so	-	-	-	0:16:02.805000	0:16:04.352000
 auf	-	-	-	0:16:02.805000	0:16:04.352000
 eine	-	-	-	0:16:02.805000	0:16:04.352000
@@ -3783,9 +3783,9 @@ gehen	-	-	-	0:16:08.425000	0:16:10.979000
 ohne	-	-	-	0:16:08.425000	0:16:10.979000
 irgendwas	-	-	-	0:16:08.425000	0:16:10.979000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:10.979000" end="0:16:11.332000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:10.979000" end="0:16:11.332000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:10.979000" end="0:16:15.739000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:10.979000" end="0:16:15.739000" age_lower="65" age_upper="999">
 da	-	-	-	0:16:11.212000	0:16:12.685000
 da	-	-	-	0:16:11.212000	0:16:12.685000
 geht	-	-	-	0:16:11.212000	0:16:12.685000
@@ -3804,7 +3804,7 @@ in	-	-	-	0:16:13.359000	0:16:15.739000
 der	-	-	-	0:16:13.359000	0:16:15.739000
 Küche	-	-	-	0:16:13.359000	0:16:15.739000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:14.985000" end="0:16:17.659000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:14.985000" end="0:16:17.659000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:14.985000	0:16:15.372000
 aber	-	-	-	0:16:15.739000	0:16:17.659000
 das	-	-	-	0:16:15.739000	0:16:17.659000
@@ -3813,7 +3813,7 @@ ist	-	-	-	0:16:15.739000	0:16:17.659000
 dann	-	-	-	0:16:15.739000	0:16:17.659000
 oft	-	-	-	0:16:15.739000	0:16:17.659000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:15.739000" end="0:16:18.645000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:15.739000" end="0:16:18.645000" age_lower="65" age_upper="999">
 da	-	-	-	0:16:15.979000	0:16:17.192000
 wird	-	-	-	0:16:15.979000	0:16:17.192000
 auch	-	-	-	0:16:15.979000	0:16:17.192000
@@ -3825,9 +3825,9 @@ unbekannte	-	-	-	0:16:17.192000	0:16:18.645000
 ist	-	-	-	0:16:17.192000	0:16:18.645000
 genau	-	-	-	0:16:17.192000	0:16:18.645000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:17.659000" end="0:16:18.645000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:17.659000" end="0:16:18.645000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:18.645000" end="0:16:27.072000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:18.645000" end="0:16:27.072000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:16:18.645000	0:16:19.012000
 also	-	-	-	0:16:19.252000	0:16:20.739000
 sobald	-	-	-	0:16:19.252000	0:16:20.739000
@@ -3860,9 +3860,9 @@ Stock	-	-	-	0:16:23.712000	0:16:26.592000
 nicht	-	-	-	0:16:26.592000	0:16:26.805000
 eine	-	-	-	0:16:26.805000	0:16:27.072000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:27.072000" end="0:16:27.805000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:27.072000" end="0:16:27.805000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:27.445000" end="0:16:29.612000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:27.445000" end="0:16:29.612000" age_lower="65" age_upper="999">
 weil	-	-	-	0:16:27.445000	0:16:28.565000
 da	-	-	-	0:16:27.445000	0:16:28.565000
 bleibe	-	-	-	0:16:27.445000	0:16:28.565000
@@ -3878,7 +3878,7 @@ schuh	-	-	-	0:16:28.565000	0:16:29.612000
 oder	-	-	-	0:16:28.565000	0:16:29.612000
 was	-	-	-	0:16:28.565000	0:16:29.612000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:29.612000" end="0:16:31.005000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:29.612000" end="0:16:31.005000" age_lower="1" age_upper="999">
 da	-	-	-	0:16:29.612000	0:16:31.005000
 haben	-	-	-	0:16:29.612000	0:16:31.005000
 es	-	-	-	0:16:29.612000	0:16:31.005000
@@ -3886,12 +3886,12 @@ aber	-	-	-	0:16:29.612000	0:16:31.005000
 eh	-	-	-	0:16:29.612000	0:16:31.005000
 recht	-	-	-	0:16:29.612000	0:16:31.005000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:29.612000" end="0:16:31.005000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:29.612000" end="0:16:31.005000" age_lower="65" age_upper="999">
 und	-	-	-	0:16:29.612000	0:16:30.232000
 ah	-	-	-	0:16:29.612000	0:16:30.232000
 nicht	-	-	-	0:16:30.232000	0:16:31.005000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:31.005000" end="0:16:32.832000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:31.005000" end="0:16:32.832000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:16:31.005000	0:16:32.832000
 Sie	-	-	-	0:16:31.005000	0:16:32.832000
 das	-	-	-	0:16:31.005000	0:16:32.832000
@@ -3900,7 +3900,7 @@ so	-	-	-	0:16:31.005000	0:16:32.832000
 einschätzen	-	-	-	0:16:31.005000	0:16:32.832000
 können	-	-	-	0:16:31.005000	0:16:32.832000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:31.005000" end="0:16:32.832000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:31.005000" end="0:16:32.832000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:16:31.005000	0:16:31.492000
 nicht	-	-	-	0:16:31.005000	0:16:31.492000
 also	-	-	-	0:16:31.492000	0:16:32.832000
@@ -3908,7 +3908,7 @@ das	-	-	-	0:16:31.492000	0:16:32.832000
 ist	-	-	-	0:16:31.492000	0:16:32.832000
 ja	-	-	-	0:16:31.492000	0:16:32.832000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:32.832000" end="0:16:34.792000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:32.832000" end="0:16:34.792000" age_lower="1" age_upper="999">
 weil	-	-	-	0:16:32.832000	0:16:34.792000
 wenn	-	-	-	0:16:32.832000	0:16:34.792000
 dann	-	-	-	0:16:32.832000	0:16:34.792000
@@ -3916,7 +3916,7 @@ was	-	-	-	0:16:32.832000	0:16:34.792000
 passiert	-	-	-	0:16:32.832000	0:16:34.792000
 dann	-	-	-	0:16:32.832000	0:16:34.792000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:32.832000" end="0:16:35.539000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:32.832000" end="0:16:35.539000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:16:32.832000	0:16:33.219000
 jaja	-	-	-	0:16:33.219000	0:16:33.605000
 nein	-	-	-	0:16:33.605000	0:16:35.539000
@@ -3929,18 +3929,18 @@ halt	-	-	-	0:16:33.605000	0:16:35.539000
 auch	-	-	-	0:16:33.605000	0:16:35.539000
 ja	-	-	-	0:16:33.605000	0:16:35.539000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:35.539000" end="0:16:36.245000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:35.539000" end="0:16:36.245000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:35.539000	0:16:36.245000
 sicher	-	-	-	0:16:35.539000	0:16:36.245000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:35.539000" end="0:16:37.045000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:35.539000" end="0:16:37.045000" age_lower="65" age_upper="999">
 ja	-	-	-	0:16:35.539000	0:16:36.379000
 richtig	-	-	-	0:16:35.539000	0:16:36.379000
 ja	-	-	-	0:16:36.379000	0:16:37.045000
 ja	-	-	-	0:16:36.379000	0:16:37.045000
 ja	-	-	-	0:16:36.379000	0:16:37.045000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:37.045000" end="0:16:44.559000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:37.045000" end="0:16:44.559000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:37.045000	0:16:39.005000
 also	-	-	-	0:16:37.045000	0:16:39.005000
 Sie	-	-	-	0:16:37.045000	0:16:39.005000
@@ -3965,7 +3965,7 @@ mit	-	-	-	0:16:41.679000	0:16:44.559000
 Ihren	-	-	-	0:16:41.679000	0:16:44.559000
 Freundinnen	-	-	-	0:16:41.679000	0:16:44.559000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:41.679000" end="0:16:46.439000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:41.679000" end="0:16:46.439000" age_lower="65" age_upper="999">
 ja	-	-	-	0:16:41.679000	0:16:42.239000
 ja	-	-	-	0:16:41.679000	0:16:42.239000
 ja	-	-	-	0:16:42.239000	0:16:42.812000
@@ -3977,7 +3977,7 @@ ja	-	-	-	0:16:44.559000	0:16:46.439000
 ja	-	-	-	0:16:44.559000	0:16:46.439000
 ja	-	-	-	0:16:44.559000	0:16:46.439000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:45.159000" end="0:16:48.585000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:45.159000" end="0:16:48.585000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:16:45.159000	0:16:48.585000
 es	-	-	-	0:16:45.159000	0:16:48.585000
 sonst	-	-	-	0:16:45.159000	0:16:48.585000
@@ -3990,7 +3990,7 @@ sich	-	-	-	0:16:45.159000	0:16:48.585000
 regelmäßig	-	-	-	0:16:45.159000	0:16:48.585000
 treffen	-	-	-	0:16:45.159000	0:16:48.585000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:48.585000" end="0:16:59.572000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:48.585000" end="0:16:59.572000" age_lower="65" age_upper="999">
 ja	-	-	-	0:16:48.585000	0:16:48.952000
 eigentlich	-	-	-	0:16:48.952000	0:16:49.905000
 ist	-	-	-	0:16:48.952000	0:16:49.905000
@@ -4029,14 +4029,14 @@ aktiv	-	-	-	0:16:55.992000	0:16:59.152000
 ja	-	-	-	0:16:59.152000	0:16:59.572000
 ja	-	-	-	0:16:59.152000	0:16:59.572000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:59.572000" end="0:17:01.172000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:16:59.572000" end="0:17:01.172000" age_lower="1" age_upper="999">
 wo	-	-	-	0:16:59.572000	0:17:01.172000
 wo	-	-	-	0:16:59.572000	0:17:01.172000
 ist	-	-	-	0:16:59.572000	0:17:01.172000
 die	-	-	-	0:16:59.572000	0:17:01.172000
 Pfarre	-	-	-	0:16:59.572000	0:17:01.172000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:59.572000" end="0:17:16.464000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:16:59.572000" end="0:17:16.464000" age_lower="65" age_upper="999">
 also	-	-	-	0:16:59.572000	0:17:00.945000
 da	-	-	-	0:16:59.572000	0:17:00.945000
 haben	-	-	-	0:16:59.572000	0:17:00.945000
@@ -4090,9 +4090,9 @@ irgendwie	-	-	-	0:17:14.252000	0:17:16.464000
 bei	-	-	-	0:17:14.252000	0:17:16.464000
 uns	-	-	-	0:17:14.252000	0:17:16.464000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:16.279000" end="0:17:16.732000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:16.279000" end="0:17:16.732000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:16.732000" end="0:17:36.925000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:16.732000" end="0:17:36.925000" age_lower="65" age_upper="999">
 also	-	-	-	0:17:16.732000	0:17:18.212000
 ich	-	-	-	0:17:16.732000	0:17:18.212000
 müsste	-	-	-	0:17:16.732000	0:17:18.212000
@@ -4156,10 +4156,10 @@ schon	-	-	-	0:17:34.919000	0:17:36.925000
 jetzt	-	-	-	0:17:34.919000	0:17:36.925000
 aufgelöst	-	-	-	0:17:34.919000	0:17:36.925000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:36.925000" end="0:17:37.265000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:36.925000" end="0:17:37.265000" age_lower="1" age_upper="999">
 ja	-	-	-	0:17:36.925000	0:17:37.265000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:36.925000" end="0:17:39.165000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:36.925000" end="0:17:39.165000" age_lower="65" age_upper="999">
 und	-	-	-	0:17:37.265000	0:17:39.165000
 eben	-	-	-	0:17:37.265000	0:17:39.165000
 Lektorin	-	-	-	0:17:37.265000	0:17:39.165000
@@ -4168,10 +4168,10 @@ ich	-	-	-	0:17:37.265000	0:17:39.165000
 sehr	-	-	-	0:17:37.265000	0:17:39.165000
 lange	-	-	-	0:17:37.265000	0:17:39.165000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:39.165000" end="0:17:39.599000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:39.165000" end="0:17:39.599000" age_lower="1" age_upper="999">
 ja	-	-	-	0:17:39.165000	0:17:39.599000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:39.165000" end="0:17:42.565000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:39.165000" end="0:17:42.565000" age_lower="65" age_upper="999">
 das	-	-	-	0:17:39.165000	0:17:41.079000
 hat	-	-	-	0:17:39.165000	0:17:41.079000
 se	-	-	-	0:17:39.165000	0:17:41.079000
@@ -4185,11 +4185,11 @@ Stufen	-	-	-	0:17:41.079000	0:17:42.565000
 haben	-	-	-	0:17:41.079000	0:17:42.565000
 hinauf	-	-	-	0:17:41.079000	0:17:42.565000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:42.565000" end="0:17:43.472000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:42.565000" end="0:17:43.472000" age_lower="1" age_upper="999">
 oh	-	-	-	0:17:42.565000	0:17:43.472000
 je	-	-	-	0:17:42.565000	0:17:43.472000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:42.565000" end="0:17:46.412000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:42.565000" end="0:17:46.412000" age_lower="65" age_upper="999">
 und	-	-	-	0:17:42.565000	0:17:46.205000
 ah	-	-	-	0:17:42.565000	0:17:46.205000
 ich	-	-	-	0:17:42.565000	0:17:46.205000
@@ -4200,9 +4200,9 @@ irrsinnig	-	-	-	0:17:42.565000	0:17:46.205000
 schwer	-	-	-	0:17:42.565000	0:17:46.205000
 gehen	-	-	-	0:17:42.565000	0:17:46.205000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:46.412000" end="0:17:47.179000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:17:46.412000" end="0:17:47.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:46.412000" end="0:18:00.819000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:17:46.412000" end="0:18:00.819000" age_lower="65" age_upper="999">
 und	-	-	-	0:17:46.412000	0:17:48.412000
 jetzt	-	-	-	0:17:46.412000	0:17:48.412000
 zum	-	-	-	0:17:46.412000	0:17:48.412000
@@ -4258,10 +4258,10 @@ das	-	-	-	0:17:58.892000	0:18:00.819000
 wirklich	-	-	-	0:17:58.892000	0:18:00.819000
 einrichten	-	-	-	0:17:58.892000	0:18:00.819000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:00.819000" end="0:18:01.512000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:00.819000" end="0:18:01.512000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:00.819000	0:18:01.512000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:00.819000" end="0:18:15.025000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:00.819000" end="0:18:15.025000" age_lower="65" age_upper="999">
 dass	-	-	-	0:18:00.819000	0:18:02.525000
 man	-	-	-	0:18:00.819000	0:18:02.525000
 das	-	-	-	0:18:00.819000	0:18:02.525000
@@ -4307,9 +4307,9 @@ auch	-	-	-	0:18:14.052000	0:18:14.825000
 schon	-	-	-	0:18:14.052000	0:18:14.825000
 nicht	-	-	-	0:18:14.825000	0:18:15.025000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:15.025000" end="0:18:15.532000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:15.025000" end="0:18:15.532000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:15.025000" end="0:18:16.979000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:15.025000" end="0:18:16.979000" age_lower="65" age_upper="999">
 wir	-	-	-	0:18:15.025000	0:18:16.799000
 sind	-	-	-	0:18:15.025000	0:18:16.799000
 aber	-	-	-	0:18:15.025000	0:18:16.799000
@@ -4317,10 +4317,10 @@ noch	-	-	-	0:18:15.025000	0:18:16.799000
 die	-	-	-	0:18:15.025000	0:18:16.799000
 Jüngeren	-	-	-	0:18:15.025000	0:18:16.799000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:16.979000" end="0:18:17.439000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:16.979000" end="0:18:17.439000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:16.979000	0:18:17.439000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:16.979000" end="0:18:28.479000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:16.979000" end="0:18:28.479000" age_lower="65" age_upper="999">
 man	-	-	-	0:18:16.979000	0:18:18.965000
 das	-	-	-	0:18:16.979000	0:18:18.965000
 also	-	-	-	0:18:16.979000	0:18:18.965000
@@ -4354,10 +4354,10 @@ Sie	-	-	-	0:18:26.499000	0:18:28.292000
 jetzt	-	-	-	0:18:26.499000	0:18:28.292000
 machen	-	-	-	0:18:26.499000	0:18:28.292000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:28.479000" end="0:18:28.932000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:28.479000" end="0:18:28.932000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:28.479000	0:18:28.932000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:28.932000" end="0:18:43.659000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:28.932000" end="0:18:43.659000" age_lower="65" age_upper="999">
 da	-	-	-	0:18:28.932000	0:18:29.952000
 haben	-	-	-	0:18:28.932000	0:18:29.952000
 man	-	-	-	0:18:28.932000	0:18:29.952000
@@ -4406,7 +4406,7 @@ und	-	-	-	0:18:43.045000	0:18:43.659000
 habe	-	-	-	0:18:43.045000	0:18:43.659000
 also	-	-	-	0:18:43.045000	0:18:43.659000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:43.659000" end="0:18:46.085000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:43.659000" end="0:18:46.085000" age_lower="1" age_upper="999">
 da	-	-	-	0:18:43.659000	0:18:46.085000
 sind	-	-	-	0:18:43.659000	0:18:46.085000
 sie	-	-	-	0:18:43.659000	0:18:46.085000
@@ -4415,7 +4415,7 @@ sehr	-	-	-	0:18:43.659000	0:18:46.085000
 eingebunden	-	-	-	0:18:43.659000	0:18:46.085000
 auch	-	-	-	0:18:43.659000	0:18:46.085000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:44.525000" end="0:18:48.605000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:44.525000" end="0:18:48.605000" age_lower="65" age_upper="999">
 xxx	-	-	-	0:18:44.525000	0:18:45.339000
 xxx	-	-	-	0:18:44.525000	0:18:45.339000
 xxx;	-	-	-	0:18:44.525000	0:18:45.339000
@@ -4432,7 +4432,7 @@ muss	-	-	-	0:18:46.872000	0:18:48.605000
 ich	-	-	-	0:18:46.872000	0:18:48.605000
 sagen	-	-	-	0:18:46.872000	0:18:48.605000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:47.745000" end="0:18:49.739000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:47.745000" end="0:18:49.739000" age_lower="1" age_upper="999">
 und	-	-	-	0:18:47.745000	0:18:49.739000
 das	-	-	-	0:18:47.745000	0:18:49.739000
 ist	-	-	-	0:18:47.745000	0:18:49.739000
@@ -4441,16 +4441,16 @@ im	-	-	-	0:18:47.745000	0:18:49.739000
 ORT	ORT	-	-	0:18:47.745000	0:18:49.739000
 ORT	ORT	-	-	0:18:47.745000	0:18:49.739000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:48.605000" end="0:18:49.992000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:48.605000" end="0:18:49.992000" age_lower="65" age_upper="999">
 das	-	-	-	0:18:48.605000	0:18:49.565000
 ist	-	-	-	0:18:48.605000	0:18:49.565000
 auch	-	-	-	0:18:48.605000	0:18:49.565000
 jaja	-	-	-	0:18:49.565000	0:18:49.992000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:49.992000" end="0:18:50.712000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:49.992000" end="0:18:50.712000" age_lower="1" age_upper="999">
 okay	-	-	-	0:18:49.992000	0:18:50.712000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:49.992000" end="0:18:53.425000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:49.992000" end="0:18:53.425000" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:49.992000	0:18:51.419000
 das	-	-	-	0:18:49.992000	0:18:51.419000
 ist	-	-	-	0:18:49.992000	0:18:51.419000
@@ -4468,13 +4468,13 @@ fünf	-	-	-	0:18:51.419000	0:18:53.425000
 Minuten	-	-	-	0:18:51.419000	0:18:53.425000
 runter	-	-	-	0:18:51.419000	0:18:53.425000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:52.112000" end="0:18:53.159000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:52.112000" end="0:18:53.159000" age_lower="1" age_upper="999">
 das	-	-	-	0:18:52.112000	0:18:53.159000
 ist	-	-	-	0:18:52.112000	0:18:53.159000
 <<kichernd>	-	-	-	0:18:52.112000	0:18:53.159000
 praktisch;>	-	-	-	0:18:52.112000	0:18:53.159000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:53.425000" end="0:18:56.452000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:53.425000" end="0:18:56.452000" age_lower="65" age_upper="999">
 alles	-	-	-	0:18:53.659000	0:18:56.452000
 was	-	-	-	0:18:53.659000	0:18:56.452000
 halt	-	-	-	0:18:53.659000	0:18:56.452000
@@ -4486,11 +4486,11 @@ Nähe	-	-	-	0:18:53.659000	0:18:56.452000
 halt	-	-	-	0:18:53.659000	0:18:56.452000
 ist	-	-	-	0:18:53.659000	0:18:56.452000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:54.225000" end="0:18:56.792000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:54.225000" end="0:18:56.792000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:54.225000	0:18:54.592000
 ja	-	-	-	0:18:56.452000	0:18:56.792000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:56.452000" end="0:18:58.372000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:18:56.452000" end="0:18:58.372000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:18:56.452000	0:18:56.659000
 in	-	-	-	0:18:56.659000	0:18:57.465000
 dem	-	-	-	0:18:56.659000	0:18:57.465000
@@ -4500,7 +4500,7 @@ ne	-	-	-	0:18:57.465000	0:18:58.372000
 ne	-	-	-	0:18:57.465000	0:18:58.372000
 ne	-	-	-	0:18:57.465000	0:18:58.372000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:58.372000" end="0:19:08.032000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:18:58.372000" end="0:19:08.032000" age_lower="1" age_upper="999">
 haben	-	-	-	0:18:58.372000	0:19:01.432000
 Sie	-	-	-	0:18:58.372000	0:19:01.432000
 sonst	-	-	-	0:18:58.372000	0:19:01.432000
@@ -4531,7 +4531,7 @@ Pfarre	-	-	-	0:19:05.579000	0:19:08.032000
 eingebunden	-	-	-	0:19:05.579000	0:19:08.032000
 sind	-	-	-	0:19:05.579000	0:19:08.032000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:05.579000" end="0:19:25.032000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:05.579000" end="0:19:25.032000" age_lower="65" age_upper="999">
 ja	-	-	-	0:19:05.579000	0:19:06.985000
 ja	-	-	-	0:19:05.579000	0:19:06.985000
 ja	-	-	-	0:19:07.845000	0:19:08.432000
@@ -4581,9 +4581,9 @@ haben	-	-	-	0:19:22.232000	0:19:25.032000
 alles	-	-	-	0:19:22.232000	0:19:25.032000
 also	-	-	-	0:19:22.232000	0:19:25.032000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:23.572000" end="0:19:24.039000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:23.572000" end="0:19:24.039000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:25.032000" end="0:19:33.019000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:25.032000" end="0:19:33.019000" age_lower="65" age_upper="999">
 ist	-	-	-	0:19:25.032000	0:19:26.699000
 ein	-	-	-	0:19:25.032000	0:19:26.699000
 hat	-	-	-	0:19:25.032000	0:19:26.699000
@@ -4613,9 +4613,9 @@ so	-	-	-	0:19:29.445000	0:19:32.832000
 schön	-	-	-	0:19:29.445000	0:19:32.832000
 nicht	-	-	-	0:19:32.832000	0:19:33.019000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:33.019000" end="0:19:33.605000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:33.019000" end="0:19:33.605000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:33.019000" end="0:19:37.619000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:33.019000" end="0:19:37.619000" age_lower="65" age_upper="999">
 habe	-	-	-	0:19:33.019000	0:19:33.605000
 ich	-	-	-	0:19:33.019000	0:19:33.605000
 nutzt	-	-	-	0:19:33.605000	0:19:34.312000
@@ -4633,23 +4633,23 @@ das	-	-	-	0:19:36.725000	0:19:37.619000
 geht	-	-	-	0:19:36.725000	0:19:37.619000
 nicht	-	-	-	0:19:36.725000	0:19:37.619000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:37.172000" end="0:19:38.092000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:37.172000" end="0:19:38.092000" age_lower="1" age_upper="999">
 ja	-	-	-	0:19:37.172000	0:19:38.092000
 das	-	-	-	0:19:37.172000	0:19:38.092000
 ist	-	-	-	0:19:37.172000	0:19:38.092000
 eh	-	-	-	0:19:37.172000	0:19:38.092000
 klar	-	-	-	0:19:37.172000	0:19:38.092000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:37.619000" end="0:19:37.845000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:37.619000" end="0:19:37.845000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:19:37.619000	0:19:37.845000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:38.092000" end="0:19:39.092000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:38.092000" end="0:19:39.092000" age_lower="1" age_upper="999">
 das	-	-	-	0:19:38.092000	0:19:39.092000
 ist	-	-	-	0:19:38.092000	0:19:39.092000
 eh	-	-	-	0:19:38.092000	0:19:39.092000
 klar	-	-	-	0:19:38.092000	0:19:39.092000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:38.092000" end="0:19:58.845000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:38.092000" end="0:19:58.845000" age_lower="65" age_upper="999">
 also	-	-	-	0:19:38.092000	0:19:40.392000
 ich	-	-	-	0:19:38.092000	0:19:40.392000
 meine	-	-	-	0:19:38.092000	0:19:40.392000
@@ -4731,9 +4731,9 @@ reden	-	-	-	0:19:57.992000	0:19:58.845000
 kann	-	-	-	0:19:57.992000	0:19:58.845000
 ich	-	-	-	0:19:57.992000	0:19:58.845000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:58.845000" end="0:19:59.539000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:19:58.845000" end="0:19:59.539000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:58.845000" end="0:20:13.812000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:19:58.845000" end="0:20:13.812000" age_lower="65" age_upper="999">
 und	-	-	-	0:19:58.845000	0:20:00.405000
 dann	-	-	-	0:19:58.845000	0:20:00.405000
 am	-	-	-	0:19:58.845000	0:20:00.405000
@@ -4792,10 +4792,10 @@ und	-	-	-	0:20:11.792000	0:20:13.812000
 so	-	-	-	0:20:11.792000	0:20:13.812000
 auch	-	-	-	0:20:11.792000	0:20:13.812000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:13.812000" end="0:20:14.352000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:13.812000" end="0:20:14.352000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:13.812000	0:20:14.352000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:13.812000" end="0:20:19.519000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:13.812000" end="0:20:19.519000" age_lower="65" age_upper="999">
 mit	-	-	-	0:20:13.812000	0:20:15.172000
 einen	-	-	-	0:20:13.812000	0:20:15.172000
 Geburtsdatum	-	-	-	0:20:13.812000	0:20:15.172000
@@ -4815,10 +4815,10 @@ und	-	-	-	0:20:18.752000	0:20:19.519000
 und	-	-	-	0:20:18.752000	0:20:19.519000
 und	-	-	-	0:20:18.752000	0:20:19.519000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:19.519000" end="0:20:19.952000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:19.519000" end="0:20:19.952000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:19.519000	0:20:19.952000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:19.519000" end="0:20:24.639000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:19.519000" end="0:20:24.639000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:20:19.519000	0:20:20.899000
 also	-	-	-	0:20:19.519000	0:20:20.899000
 solche	-	-	-	0:20:19.519000	0:20:20.899000
@@ -4842,17 +4842,17 @@ schon	-	-	-	0:20:22.712000	0:20:24.639000
 ganz	-	-	-	0:20:22.712000	0:20:24.639000
 gerne	-	-	-	0:20:22.712000	0:20:24.639000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:24.039000" end="0:20:24.639000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:24.039000" end="0:20:24.639000" age_lower="1" age_upper="999">
 ah	-	-	-	0:20:24.039000	0:20:24.639000
 schon	-	-	-	0:20:24.039000	0:20:24.639000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:24.639000" end="0:20:25.052000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:24.639000" end="0:20:25.052000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:20:24.639000	0:20:25.052000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:25.052000" end="0:20:25.472000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:25.052000" end="0:20:25.472000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:20:25.052000	0:20:25.472000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:25.052000" end="0:20:26.519000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:25.052000" end="0:20:26.519000" age_lower="65" age_upper="999">
 da	-	-	-	0:20:25.052000	0:20:26.319000
 habe	-	-	-	0:20:25.052000	0:20:26.319000
 ich	-	-	-	0:20:25.052000	0:20:26.319000
@@ -4862,9 +4862,9 @@ und	-	-	-	0:20:25.052000	0:20:26.319000
 alles	-	-	-	0:20:25.052000	0:20:26.319000
 nicht	-	-	-	0:20:26.319000	0:20:26.519000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:26.519000" end="0:20:27.372000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:26.519000" end="0:20:27.372000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:26.519000" end="0:20:28.352000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:26.519000" end="0:20:28.352000" age_lower="65" age_upper="999">
 das	-	-	-	0:20:26.519000	0:20:28.352000
 mache	-	-	-	0:20:26.519000	0:20:28.352000
 ich	-	-	-	0:20:26.519000	0:20:28.352000
@@ -4872,11 +4872,11 @@ scho	-	-	-	0:20:26.519000	0:20:28.352000
 ganz	-	-	-	0:20:26.519000	0:20:28.352000
 gern	-	-	-	0:20:26.519000	0:20:28.352000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:28.352000" end="0:20:29.292000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:28.352000" end="0:20:29.292000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:28.352000	0:20:29.292000
 schön	-	-	-	0:20:28.352000	0:20:29.292000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:28.352000" end="0:20:35.599000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:28.352000" end="0:20:35.599000" age_lower="65" age_upper="999">
 ja	-	-	-	0:20:28.352000	0:20:29.112000
 ja	-	-	-	0:20:28.352000	0:20:29.112000
 ja	-	-	-	0:20:28.352000	0:20:29.112000
@@ -4903,21 +4903,21 @@ vor	-	-	-	0:20:32.805000	0:20:35.599000
 ein	-	-	-	0:20:32.805000	0:20:35.599000
 Computer	-	-	-	0:20:32.805000	0:20:35.599000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:35.212000" end="0:20:36.185000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:35.212000" end="0:20:36.185000" age_lower="1" age_upper="999">
 boah	-	-	-	0:20:35.212000	0:20:36.185000
 das	-	-	-	0:20:35.212000	0:20:36.185000
 ist	-	-	-	0:20:35.212000	0:20:36.185000
 eh	-	-	-	0:20:35.212000	0:20:36.185000
 viel	-	-	-	0:20:35.212000	0:20:36.185000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:35.599000" end="0:20:36.185000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:35.599000" end="0:20:36.185000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:20:35.599000	0:20:35.879000
 ja	-	-	-	0:20:35.879000	0:20:36.185000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:36.185000" end="0:20:36.525000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:36.185000" end="0:20:36.525000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:36.185000	0:20:36.525000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:36.185000" end="0:20:52.519000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:36.185000" end="0:20:52.519000" age_lower="65" age_upper="999">
 ja	-	-	-	0:20:36.185000	0:20:36.525000
 eine	-	-	-	0:20:36.525000	0:20:37.679000
 Stunde	-	-	-	0:20:36.525000	0:20:37.679000
@@ -4977,9 +4977,9 @@ ich	-	-	-	0:20:51.205000	0:20:52.519000
 nicht	-	-	-	0:20:51.205000	0:20:52.519000
 weit	-	-	-	0:20:51.205000	0:20:52.519000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:52.519000" end="0:20:52.965000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:20:52.519000" end="0:20:52.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:52.519000" end="0:21:04.552000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:20:52.519000" end="0:21:04.552000" age_lower="65" age_upper="999">
 und	-	-	-	0:20:52.965000	0:20:55.859000
 ah	-	-	-	0:20:52.965000	0:20:55.859000
 ich	-	-	-	0:20:52.965000	0:20:55.859000
@@ -5019,9 +5019,9 @@ der	-	-	-	0:21:02.479000	0:21:04.552000
 wanderungen	-	-	-	0:21:02.479000	0:21:04.552000
 macht	-	-	-	0:21:02.479000	0:21:04.552000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:04.552000" end="0:21:05.679000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:04.552000" end="0:21:05.679000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:04.552000" end="0:21:07.685000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:04.552000" end="0:21:07.685000" age_lower="65" age_upper="999">
 tut	-	-	-	0:21:04.552000	0:21:05.679000
 ein	-	-	-	0:21:04.552000	0:21:05.679000
 so	-	-	-	0:21:04.552000	0:21:05.679000
@@ -5039,14 +5039,14 @@ geht	-	-	-	0:21:06.919000	0:21:07.452000
 nicht	-	-	-	0:21:06.919000	0:21:07.452000
 da	-	-	-	0:21:07.452000	0:21:07.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:07.685000" end="0:21:09.079000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:07.685000" end="0:21:09.079000" age_lower="1" age_upper="999">
 ich	-	-	-	0:21:07.685000	0:21:09.079000
 habe	-	-	-	0:21:07.685000	0:21:09.079000
 nur	-	-	-	0:21:07.685000	0:21:09.079000
 so	-	-	-	0:21:07.685000	0:21:09.079000
 geschaut	-	-	-	0:21:07.685000	0:21:09.079000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:08.705000" end="0:21:11.059000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:08.705000" end="0:21:11.059000" age_lower="65" age_upper="999">
 die	-	-	-	0:21:08.705000	0:21:09.305000
 ist	-	-	-	0:21:08.705000	0:21:09.305000
 kaputt	-	-	-	0:21:08.705000	0:21:09.305000
@@ -5062,20 +5062,20 @@ auf	-	-	-	0:21:09.935000	0:21:11.059000
 die	-	-	-	0:21:09.935000	0:21:11.059000
 Uhr	-	-	-	0:21:09.935000	0:21:11.059000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:11.059000" end="0:21:12.045000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:11.059000" end="0:21:12.045000" age_lower="1" age_upper="999">
 ah	-	-	-	0:21:11.059000	0:21:12.045000
 so	-	-	-	0:21:11.059000	0:21:12.045000
 nein	-	-	-	0:21:11.059000	0:21:12.045000
 nein	-	-	-	0:21:11.059000	0:21:12.045000
 nein	-	-	-	0:21:11.059000	0:21:12.045000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:11.059000" end="0:21:13.319000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:11.059000" end="0:21:13.319000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:21:11.059000	0:21:13.319000
 jaja	-	-	-	0:21:11.059000	0:21:13.319000
 jaja	-	-	-	0:21:11.059000	0:21:13.319000
 jaja	-	-	-	0:21:11.059000	0:21:13.319000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:12.045000" end="0:21:15.192000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:12.045000" end="0:21:15.192000" age_lower="1" age_upper="999">
 ich	-	-	-	0:21:12.045000	0:21:13.319000
 habe	-	-	-	0:21:12.045000	0:21:13.319000
 nur	-	-	-	0:21:12.045000	0:21:13.319000
@@ -5090,13 +5090,13 @@ kurz	-	-	-	0:21:13.319000	0:21:15.192000
 <<kichernd>	-	-	-	0:21:13.319000	0:21:15.192000
 angschaut;>	-	-	-	0:21:13.319000	0:21:15.192000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:13.319000" end="0:21:15.192000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:13.319000" end="0:21:15.192000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:21:13.319000	0:21:14.065000
 jaja	-	-	-	0:21:14.565000	0:21:15.192000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:15.192000" end="0:21:16.485000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:15.192000" end="0:21:16.485000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:15.192000" end="0:21:39.665000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:15.192000" end="0:21:39.665000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:21:15.192000	0:21:16.485000
 jaja	-	-	-	0:21:15.192000	0:21:16.485000
 ja	-	-	-	0:21:15.192000	0:21:16.485000
@@ -5185,9 +5185,9 @@ ein	-	-	-	0:21:37.879000	0:21:39.465000
 bisschen	-	-	-	0:21:37.879000	0:21:39.465000
 fad	-	-	-	0:21:37.879000	0:21:39.465000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:39.665000" end="0:21:40.605000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:39.665000" end="0:21:40.605000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:39.665000" end="0:21:45.245000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:39.665000" end="0:21:45.245000" age_lower="65" age_upper="999">
 sitzt	-	-	-	0:21:39.665000	0:21:41.152000
 eine	-	-	-	0:21:39.665000	0:21:41.152000
 Stunde	-	-	-	0:21:39.665000	0:21:41.152000
@@ -5211,11 +5211,11 @@ eine	-	-	-	0:21:43.492000	0:21:45.245000
 bisschen	-	-	-	0:21:43.492000	0:21:45.245000
 sehr	-	-	-	0:21:43.492000	0:21:45.245000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:44.392000" end="0:21:45.245000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:44.392000" end="0:21:45.245000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:44.392000	0:21:45.245000
 sicher	-	-	-	0:21:44.392000	0:21:45.245000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:45.245000" end="0:21:55.972000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:45.245000" end="0:21:55.972000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:21:45.245000	0:21:45.932000
 also	-	-	-	0:21:45.245000	0:21:45.932000
 dadurch	-	-	-	0:21:45.932000	0:21:48.252000
@@ -5261,10 +5261,10 @@ die	-	-	-	0:21:53.612000	0:21:55.972000
 Ubahn	-	-	-	0:21:53.612000	0:21:55.972000
 rein	-	-	-	0:21:53.612000	0:21:55.972000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:53.999000" end="0:21:54.412000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:21:53.999000" end="0:21:54.412000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:53.999000	0:21:54.412000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:55.972000" end="0:22:06.545000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:21:55.972000" end="0:22:06.545000" age_lower="65" age_upper="999">
 fahre	-	-	-	0:21:55.972000	0:21:57.499000
 o	-	-	-	0:21:55.972000	0:21:57.499000
 ORT	ORT	-	-	0:21:55.972000	0:21:57.499000
@@ -5301,18 +5301,18 @@ die	-	-	-	0:22:04.865000	0:22:06.339000
 füße	-	-	-	0:22:04.865000	0:22:06.339000
 nach	-	-	-	0:22:04.865000	0:22:06.339000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:06.545000" end="0:22:07.492000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:06.545000" end="0:22:07.492000" age_lower="1" age_upper="999">
 okay	-	-	-	0:22:06.545000	0:22:07.492000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:06.545000" end="0:22:07.492000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:06.545000" end="0:22:07.492000" age_lower="65" age_upper="999">
 also	-	-	-	0:22:06.545000	0:22:07.492000
 dann	-	-	-	0:22:06.545000	0:22:07.492000
 dann	-	-	-	0:22:06.545000	0:22:07.492000
 tut	-	-	-	0:22:06.545000	0:22:07.492000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:07.492000" end="0:22:08.099000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:07.492000" end="0:22:08.099000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:07.492000" end="0:22:14.385000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:07.492000" end="0:22:14.385000" age_lower="65" age_upper="999">
 dann	-	-	-	0:22:07.492000	0:22:08.645000
 kriege	-	-	-	0:22:07.492000	0:22:08.645000
 ich	-	-	-	0:22:07.492000	0:22:08.645000
@@ -5341,10 +5341,10 @@ geht	-	-	-	0:22:12.432000	0:22:14.199000
 es	-	-	-	0:22:12.432000	0:22:14.199000
 wieder	-	-	-	0:22:12.432000	0:22:14.199000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:14.385000" end="0:22:15.165000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:14.385000" end="0:22:15.165000" age_lower="1" age_upper="999">
 okay	-	-	-	0:22:14.385000	0:22:15.165000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:14.385000" end="0:22:15.905000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:14.385000" end="0:22:15.905000" age_lower="65" age_upper="999">
 mit	-	-	-	0:22:14.385000	0:22:15.165000
 der	-	-	-	0:22:14.385000	0:22:15.165000
 Bewegung	-	-	-	0:22:14.385000	0:22:15.165000
@@ -5352,7 +5352,7 @@ nicht	-	-	-	0:22:15.165000	0:22:15.905000
 nein	-	-	-	0:22:15.165000	0:22:15.905000
 nein	-	-	-	0:22:15.165000	0:22:15.905000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:15.905000" end="0:22:20.672000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:15.905000" end="0:22:20.672000" age_lower="1" age_upper="999">
 und	-	-	-	0:22:15.905000	0:22:16.959000
 wenn	-	-	-	0:22:16.959000	0:22:20.672000
 wir	-	-	-	0:22:16.959000	0:22:20.672000
@@ -5364,9 +5364,9 @@ ah	-	-	-	0:22:16.959000	0:22:20.672000
 zurückkommen	-	-	-	0:22:16.959000	0:22:20.672000
 könnten	-	-	-	0:22:16.959000	0:22:20.672000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:19.572000" end="0:22:20.359000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:19.572000" end="0:22:20.359000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:20.672000" end="0:22:24.465000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:20.672000" end="0:22:24.465000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:22:20.672000	0:22:24.465000
 es	-	-	-	0:22:20.672000	0:22:24.465000
 etwas	-	-	-	0:22:20.672000	0:22:24.465000
@@ -5377,10 +5377,10 @@ das	-	-	-	0:22:20.672000	0:22:24.465000
 Sie	-	-	-	0:22:20.672000	0:22:24.465000
 stört	-	-	-	0:22:20.672000	0:22:24.465000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:20.672000" end="0:22:21.285000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:20.672000" end="0:22:21.285000" age_lower="65" age_upper="999">
 ja	-	-	-	0:22:20.672000	0:22:21.285000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:24.465000" end="0:22:27.599000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:24.465000" end="0:22:27.599000" age_lower="1" age_upper="999">
 oder	-	-	-	0:22:24.465000	0:22:27.599000
 wo	-	-	-	0:22:24.465000	0:22:27.599000
 Sie	-	-	-	0:22:24.465000	0:22:27.599000
@@ -5391,7 +5391,7 @@ das	-	-	-	0:22:24.465000	0:22:27.599000
 ärgert	-	-	-	0:22:24.465000	0:22:27.599000
 mich	-	-	-	0:22:24.465000	0:22:27.599000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:27.599000" end="0:22:33.639000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:27.599000" end="0:22:33.639000" age_lower="65" age_upper="999">
 also	-	-	-	0:22:27.599000	0:22:29.979000
 ich	-	-	-	0:22:27.599000	0:22:29.979000
 könnte	-	-	-	0:22:27.599000	0:22:29.979000
@@ -5412,23 +5412,23 @@ nein	-	-	-	0:22:32.085000	0:22:33.639000
 nein	-	-	-	0:22:32.085000	0:22:33.639000
 nein	-	-	-	0:22:32.085000	0:22:33.639000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:33.639000" end="0:22:34.939000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:33.639000" end="0:22:34.939000" age_lower="1" age_upper="999">
 also	-	-	-	0:22:33.639000	0:22:34.939000
 Sie	-	-	-	0:22:33.639000	0:22:34.939000
 wohnen	-	-	-	0:22:33.639000	0:22:34.939000
 gerne	-	-	-	0:22:33.639000	0:22:34.939000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:34.725000" end="0:22:35.619000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:34.725000" end="0:22:35.619000" age_lower="65" age_upper="999">
 ich	-	-	-	0:22:34.725000	0:22:35.619000
 wohne	-	-	-	0:22:34.725000	0:22:35.619000
 gern	-	-	-	0:22:34.725000	0:22:35.619000
 da	-	-	-	0:22:34.725000	0:22:35.619000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:35.619000" end="0:22:37.125000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:35.619000" end="0:22:37.125000" age_lower="1" age_upper="999">
 im	-	-	-	0:22:35.619000	0:22:37.125000
 ORT	ORT	-	-	0:22:35.619000	0:22:37.125000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:35.619000" end="0:22:45.399000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:35.619000" end="0:22:45.399000" age_lower="65" age_upper="999">
 ja	-	-	-	0:22:35.619000	0:22:36.605000
 also	-	-	-	0:22:36.605000	0:22:38.479000
 ich	-	-	-	0:22:36.605000	0:22:38.479000
@@ -5467,7 +5467,7 @@ also	-	-	-	0:22:43.992000	0:22:45.399000
 ich	-	-	-	0:22:43.992000	0:22:45.399000
 f	-	-	-	0:22:43.992000	0:22:45.399000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:45.399000" end="0:22:48.045000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:45.399000" end="0:22:48.045000" age_lower="1" age_upper="999">
 also	-	-	-	0:22:45.399000	0:22:48.045000
 eine	-	-	-	0:22:45.399000	0:22:48.045000
 richtige	-	-	-	0:22:45.399000	0:22:48.045000
@@ -5477,7 +5477,7 @@ mit	-	-	-	0:22:45.399000	0:22:48.045000
 dem	-	-	-	0:22:45.399000	0:22:48.045000
 Bezirk	-	-	-	0:22:45.399000	0:22:48.045000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:46.592000" end="0:22:51.799000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:46.592000" end="0:22:51.799000" age_lower="65" age_upper="999">
 das	-	-	-	0:22:46.592000	0:22:46.912000
 ja	-	-	-	0:22:46.912000	0:22:48.272000
 ja	-	-	-	0:22:46.912000	0:22:48.272000
@@ -5496,16 +5496,16 @@ und	-	-	-	0:22:49.365000	0:22:51.799000
 recht	-	-	-	0:22:49.365000	0:22:51.799000
 behaupten	-	-	-	0:22:49.365000	0:22:51.799000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:51.799000" end="0:22:52.212000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:51.799000" end="0:22:52.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:51.799000" end="0:22:53.139000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:22:51.799000" end="0:22:53.139000" age_lower="65" age_upper="999">
 ja	-	-	-	0:22:51.799000	0:22:53.139000
 ja	-	-	-	0:22:51.799000	0:22:53.139000
 ja	-	-	-	0:22:51.799000	0:22:53.139000
 ja	-	-	-	0:22:51.799000	0:22:53.139000
 ja	-	-	-	0:22:51.799000	0:22:53.139000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:53.139000" end="0:23:10.792000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:22:53.139000" end="0:23:10.792000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:22:53.139000	0:22:55.872000
 wir	-	-	-	0:22:53.139000	0:22:55.872000
 jetzt	-	-	-	0:22:53.139000	0:22:55.872000
@@ -5544,7 +5544,7 @@ da	-	-	-	0:23:07.172000	0:23:10.792000
 irgendwelche	-	-	-	0:23:07.172000	0:23:10.792000
 Ideen	-	-	-	0:23:07.172000	0:23:10.792000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:23:10.792000" end="0:23:26.039000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:23:10.792000" end="0:23:26.039000" age_lower="65" age_upper="999">
 ich	-	-	-	0:23:10.792000	0:23:13.939000
 muss	-	-	-	0:23:10.792000	0:23:13.939000
 ganz	-	-	-	0:23:10.792000	0:23:13.939000
@@ -5577,13 +5577,13 @@ gänsefüßchen	-	-	-	0:23:22.819000	0:23:26.039000
 das	-	-	-	0:23:22.819000	0:23:26.039000
 Alter	-	-	-	0:23:22.819000	0:23:26.039000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:24.019000" end="0:23:26.039000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:24.019000" end="0:23:26.039000" age_lower="1" age_upper="999">
 das	-	-	-	0:23:24.019000	0:23:25.014000
 ist	-	-	-	0:23:24.019000	0:23:25.014000
 ja	-	-	-	0:23:24.019000	0:23:25.014000
 schön	-	-	-	0:23:24.019000	0:23:25.014000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:23:26.039000" end="0:23:53.672000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:23:26.039000" end="0:23:53.672000" age_lower="65" age_upper="999">
 dass	-	-	-	0:23:26.245000	0:23:28.032000
 man	-	-	-	0:23:26.245000	0:23:28.032000
 sagt	-	-	-	0:23:26.245000	0:23:28.032000
@@ -5691,10 +5691,10 @@ Stock	-	-	-	0:23:52.019000	0:23:53.472000
 eisteig	-	-	-	0:23:52.019000	0:23:53.472000
 ja	-	-	-	0:23:53.472000	0:23:53.672000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:53.672000" end="0:23:54.165000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:23:53.672000" end="0:23:54.165000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:53.672000	0:23:54.165000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:23:53.672000" end="0:24:03.238000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:23:53.672000" end="0:24:03.238000" age_lower="65" age_upper="999">
 also	-	-	-	0:23:53.672000	0:23:56.305000
 sofort	-	-	-	0:23:53.672000	0:23:56.305000
 stehen	-	-	-	0:23:53.672000	0:23:56.305000
@@ -5728,10 +5728,10 @@ es	-	-	-	0:24:01.912000	0:24:02.958000
 heraus	-	-	-	0:24:01.912000	0:24:02.958000
 nicht	-	-	-	0:24:02.958000	0:24:03.238000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:03.238000" end="0:24:03.672000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:03.238000" end="0:24:03.672000" age_lower="1" age_upper="999">
 ja	-	-	-	0:24:03.238000	0:24:03.672000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:03.238000" end="0:24:12.138000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:03.238000" end="0:24:12.138000" age_lower="65" age_upper="999">
 also	-	-	-	0:24:03.238000	0:24:06.072000
 ich	-	-	-	0:24:03.238000	0:24:06.072000
 bedank	-	-	-	0:24:03.238000	0:24:06.072000
@@ -5765,9 +5765,9 @@ und	-	-	-	0:24:11.485000	0:24:11.918000
 alles	-	-	-	0:24:11.485000	0:24:11.918000
 nicht	-	-	-	0:24:11.918000	0:24:12.138000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:12.138000" end="0:24:12.772000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:12.138000" end="0:24:12.772000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:12.138000" end="0:24:14.798000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:12.138000" end="0:24:14.798000" age_lower="65" age_upper="999">
 nein	-	-	-	0:24:12.138000	0:24:12.945000
 keine	-	-	-	0:24:12.138000	0:24:12.945000
 Frage	-	-	-	0:24:12.138000	0:24:12.945000
@@ -5777,7 +5777,7 @@ ich	-	-	-	0:24:13.125000	0:24:14.798000
 also	-	-	-	0:24:13.125000	0:24:14.798000
 ich	-	-	-	0:24:13.125000	0:24:14.798000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:14.798000" end="0:24:16.878000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:14.798000" end="0:24:16.878000" age_lower="1" age_upper="999">
 also	-	-	-	0:24:14.798000	0:24:16.878000
 sie	-	-	-	0:24:14.798000	0:24:16.878000
 sind	-	-	-	0:24:14.798000	0:24:16.878000
@@ -5785,18 +5785,18 @@ einfach	-	-	-	0:24:14.798000	0:24:16.878000
 sehr	-	-	-	0:24:14.798000	0:24:16.878000
 zufrieden	-	-	-	0:24:14.798000	0:24:16.878000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:15.998000" end="0:24:16.878000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:15.998000" end="0:24:16.878000" age_lower="65" age_upper="999">
 dass	-	-	-	0:24:15.998000	0:24:16.878000
 ich	-	-	-	0:24:15.998000	0:24:16.878000
 jetzt	-	-	-	0:24:15.998000	0:24:16.878000
 sage	-	-	-	0:24:15.998000	0:24:16.878000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:16.878000" end="0:24:17.978000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:16.878000" end="0:24:17.978000" age_lower="1" age_upper="999">
 hier	-	-	-	0:24:16.878000	0:24:17.978000
 in	-	-	-	0:24:16.878000	0:24:17.978000
 ORT	ORT	-	-	0:24:16.878000	0:24:17.978000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:16.878000" end="0:24:26.552000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:16.878000" end="0:24:26.552000" age_lower="65" age_upper="999">
 ich	-	-	-	0:24:16.878000	0:24:17.978000
 bin	-	-	-	0:24:16.878000	0:24:17.978000
 ja	-	-	-	0:24:16.878000	0:24:17.978000
@@ -5829,10 +5829,10 @@ ein	-	-	-	0:24:25.178000	0:24:26.552000
 bisschen	-	-	-	0:24:25.178000	0:24:26.552000
 schon	-	-	-	0:24:25.178000	0:24:26.552000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:26.552000" end="0:24:27.145000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:26.552000" end="0:24:27.145000" age_lower="1" age_upper="999">
 schon	-	-	-	0:24:26.552000	0:24:27.145000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:26.552000" end="0:24:45.145000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:26.552000" end="0:24:45.145000" age_lower="65" age_upper="999">
 also	-	-	-	0:24:26.552000	0:24:28.825000
 Gesundheitssystem	-	-	-	0:24:26.552000	0:24:28.825000
 das	-	-	-	0:24:26.552000	0:24:28.825000
@@ -5903,9 +5903,9 @@ ich	-	-	-	0:24:44.065000	0:24:45.145000
 keine	-	-	-	0:24:44.065000	0:24:45.145000
 Ahnung	-	-	-	0:24:44.065000	0:24:45.145000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:45.145000" end="0:24:45.585000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:45.145000" end="0:24:45.585000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:45.145000" end="0:24:56.298000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:45.145000" end="0:24:56.298000" age_lower="65" age_upper="999">
 ich	-	-	-	0:24:45.585000	0:24:47.332000
 habe	-	-	-	0:24:45.585000	0:24:47.332000
 halt	-	-	-	0:24:45.585000	0:24:47.332000
@@ -5946,10 +5946,10 @@ bewilligung	-	-	-	0:24:54.258000	0:24:56.298000
 gleich	-	-	-	0:24:54.258000	0:24:56.298000
 kriegt	-	-	-	0:24:54.258000	0:24:56.298000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:56.298000" end="0:24:56.978000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:24:56.298000" end="0:24:56.978000" age_lower="1" age_upper="999">
 ja	-	-	-	0:24:56.298000	0:24:56.978000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:56.298000" end="0:25:07.332000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:24:56.298000" end="0:25:07.332000" age_lower="65" age_upper="999">
 also	-	-	-	0:24:56.298000	0:24:56.978000
 manchmal	-	-	-	0:24:56.298000	0:24:56.978000
 und	-	-	-	0:24:56.978000	0:24:59.052000
@@ -5982,12 +5982,12 @@ ich	-	-	-	0:25:04.678000	0:25:07.332000
 glaube	-	-	-	0:25:04.678000	0:25:07.332000
 gestern	-	-	-	0:25:04.678000	0:25:07.332000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:06.218000" end="0:25:07.332000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:06.218000" end="0:25:07.332000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:25:06.218000	0:25:07.332000
 optimal	-	-	-	0:25:06.218000	0:25:07.332000
 ja	-	-	-	0:25:06.218000	0:25:07.332000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:07.332000" end="0:25:11.598000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:07.332000" end="0:25:11.598000" age_lower="65" age_upper="999">
 gestern	-	-	-	0:25:07.332000	0:25:10.265000
 glaube	-	-	-	0:25:07.332000	0:25:10.265000
 ich	-	-	-	0:25:07.332000	0:25:10.265000
@@ -6009,11 +6009,11 @@ war	-	-	-	0:25:10.672000	0:25:11.598000
 es	-	-	-	0:25:10.672000	0:25:11.598000
 genau	-	-	-	0:25:10.672000	0:25:11.598000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:11.372000" end="0:25:12.058000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:11.372000" end="0:25:12.058000" age_lower="1" age_upper="999">
 aha	-	-	-	0:25:11.372000	0:25:12.058000
 ja	-	-	-	0:25:11.372000	0:25:12.058000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:11.598000" end="0:25:22.065000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:11.598000" end="0:25:22.065000" age_lower="65" age_upper="999">
 als	-	-	-	0:25:11.598000	0:25:14.685000
 Vertreter	-	-	-	0:25:11.598000	0:25:14.685000
 da	-	-	-	0:25:11.598000	0:25:14.685000
@@ -6046,11 +6046,11 @@ von	-	-	-	0:25:20.225000	0:25:22.065000
 da	-	-	-	0:25:20.225000	0:25:22.065000
 kommenden	-	-	-	0:25:20.225000	0:25:22.065000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:20.905000" end="0:25:22.065000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:20.905000" end="0:25:22.065000" age_lower="1" age_upper="999">
 aha	-	-	-	0:25:20.905000	0:25:21.645000
 ja	-	-	-	0:25:20.905000	0:25:21.645000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:22.065000" end="0:25:31.012000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:22.065000" end="0:25:31.012000" age_lower="65" age_upper="999">
 ah	-	-	-	0:25:22.292000	0:25:24.198000
 waren	-	-	-	0:25:22.292000	0:25:24.198000
 die	-	-	-	0:25:22.292000	0:25:24.198000
@@ -6082,10 +6082,10 @@ sonntog	-	-	-	0:25:29.492000	0:25:31.012000
 im	-	-	-	0:25:29.492000	0:25:31.012000
 Zentrum	-	-	-	0:25:29.492000	0:25:31.012000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:31.012000" end="0:25:31.345000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:31.012000" end="0:25:31.345000" age_lower="1" age_upper="999">
 ja	-	-	-	0:25:31.012000	0:25:31.345000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:31.345000" end="0:25:38.292000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:31.345000" end="0:25:38.292000" age_lower="65" age_upper="999">
 und	-	-	-	0:25:31.345000	0:25:32.978000
 ah	-	-	-	0:25:31.345000	0:25:32.978000
 da	-	-	-	0:25:31.345000	0:25:32.978000
@@ -6109,9 +6109,9 @@ ist	-	-	-	0:25:36.592000	0:25:38.292000
 genau	-	-	-	0:25:36.592000	0:25:38.292000
 das	-	-	-	0:25:36.592000	0:25:38.292000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:38.292000" end="0:25:38.878000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:38.292000" end="0:25:38.878000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:38.292000" end="0:25:53.912000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:38.292000" end="0:25:53.912000" age_lower="65" age_upper="999">
 meine	-	-	-	0:25:38.292000	0:25:38.878000
 das	-	-	-	0:25:38.878000	0:25:41.498000
 ist	-	-	-	0:25:38.878000	0:25:41.498000
@@ -6170,25 +6170,25 @@ das	-	-	-	0:25:52.905000	0:25:53.912000
 geändert	-	-	-	0:25:52.905000	0:25:53.912000
 wird	-	-	-	0:25:52.905000	0:25:53.912000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:53.912000" end="0:25:55.252000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:53.912000" end="0:25:55.252000" age_lower="1" age_upper="999">
 dass	-	-	-	0:25:53.912000	0:25:55.252000
 das	-	-	-	0:25:53.912000	0:25:55.252000
 einfach	-	-	-	0:25:53.912000	0:25:55.252000
 verbessert	-	-	-	0:25:53.912000	0:25:55.252000
 wird	-	-	-	0:25:53.912000	0:25:55.252000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:54.898000" end="0:25:56.012000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:54.898000" end="0:25:56.012000" age_lower="65" age_upper="999">
 dass	-	-	-	0:25:54.898000	0:25:56.012000
 das	-	-	-	0:25:54.898000	0:25:56.012000
 verbessert	-	-	-	0:25:54.898000	0:25:56.012000
 wird	-	-	-	0:25:54.898000	0:25:56.012000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:55.252000" end="0:25:56.338000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:55.252000" end="0:25:56.338000" age_lower="1" age_upper="999">
 mit	-	-	-	0:25:55.252000	0:25:56.338000
 der	-	-	-	0:25:55.252000	0:25:56.338000
 schnellichkeit	-	-	-	0:25:55.252000	0:25:56.338000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:56.012000" end="0:25:57.465000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:56.012000" end="0:25:57.465000" age_lower="65" age_upper="999">
 auf	-	-	-	0:25:56.012000	0:25:57.465000
 jeden	-	-	-	0:25:56.012000	0:25:57.465000
 Fall	-	-	-	0:25:56.012000	0:25:57.465000
@@ -6196,10 +6196,10 @@ mit	-	-	-	0:25:56.012000	0:25:57.465000
 der	-	-	-	0:25:56.012000	0:25:57.465000
 schnellichkeit	-	-	-	0:25:56.012000	0:25:57.465000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:56.338000" end="0:25:58.412000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:25:56.338000" end="0:25:58.412000" age_lower="1" age_upper="999">
 ja	-	-	-	0:25:56.338000	0:25:56.678000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:57.465000" end="0:26:05.172000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:25:57.465000" end="0:26:05.172000" age_lower="65" age_upper="999">
 genau	-	-	-	0:25:57.465000	0:25:58.212000
 richtig	-	-	-	0:25:57.465000	0:25:58.212000
 nicht	-	-	-	0:25:58.212000	0:25:58.412000
@@ -6224,10 +6224,10 @@ das	-	-	-	0:26:01.738000	0:26:05.172000
 brauchen	-	-	-	0:26:01.738000	0:26:05.172000
 tut	-	-	-	0:26:01.738000	0:26:05.172000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:05.172000" end="0:26:05.785000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:05.172000" end="0:26:05.785000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:05.172000	0:26:05.785000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:05.172000" end="0:26:12.078000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:05.172000" end="0:26:12.078000" age_lower="65" age_upper="999">
 ja	-	-	-	0:26:05.172000	0:26:05.512000
 das	-	-	-	0:26:05.785000	0:26:08.558000
 rez	-	-	-	0:26:05.785000	0:26:08.558000
@@ -6255,25 +6255,25 @@ absolut	-	-	-	0:26:10.245000	0:26:12.078000
 nicht	-	-	-	0:26:10.245000	0:26:12.078000
 ein	-	-	-	0:26:10.245000	0:26:12.078000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:11.018000" end="0:26:13.258000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:11.018000" end="0:26:13.258000" age_lower="1" age_upper="999">
 da	-	-	-	0:26:12.078000	0:26:13.258000
 haben	-	-	-	0:26:12.078000	0:26:13.258000
 sie	-	-	-	0:26:12.078000	0:26:13.258000
 recht	-	-	-	0:26:12.078000	0:26:13.258000
 ja	-	-	-	0:26:12.078000	0:26:13.258000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:12.078000" end="0:26:13.668000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:12.078000" end="0:26:13.668000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:26:12.078000	0:26:13.668000
 nicht	-	-	-	0:26:12.078000	0:26:13.668000
 nicht	-	-	-	0:26:12.078000	0:26:13.668000
 nicht	-	-	-	0:26:12.078000	0:26:13.668000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:13.258000" end="0:26:14.078000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:13.258000" end="0:26:14.078000" age_lower="1" age_upper="999">
 auf	-	-	-	0:26:13.258000	0:26:14.078000
 jeden	-	-	-	0:26:13.258000	0:26:14.078000
 Fall	-	-	-	0:26:13.258000	0:26:14.078000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:14.078000" end="0:26:24.972000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:14.078000" end="0:26:24.972000" age_lower="65" age_upper="999">
 und	-	-	-	0:26:14.078000	0:26:16.285000
 da	-	-	-	0:26:14.078000	0:26:16.285000
 kenne	-	-	-	0:26:14.078000	0:26:16.285000
@@ -6311,22 +6311,22 @@ nicht	-	-	-	0:26:23.712000	0:26:24.972000
 in	-	-	-	0:26:23.712000	0:26:24.972000
 Ordnung	-	-	-	0:26:23.712000	0:26:24.972000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:24.365000" end="0:26:25.292000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:24.365000" end="0:26:25.292000" age_lower="1" age_upper="999">
 das	-	-	-	0:26:24.365000	0:26:25.292000
 ist	-	-	-	0:26:24.365000	0:26:25.292000
 unmöglich	-	-	-	0:26:24.365000	0:26:25.292000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:24.972000" end="0:26:25.292000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:24.972000" end="0:26:25.292000" age_lower="65" age_upper="999">
 ja	-	-	-	0:26:24.972000	0:26:25.292000
 nicht	-	-	-	0:26:24.972000	0:26:25.292000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:25.292000" end="0:26:26.285000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:25.292000" end="0:26:26.285000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:25.292000	0:26:25.558000
 auf	-	-	-	0:26:25.558000	0:26:26.285000
 jeden	-	-	-	0:26:25.558000	0:26:26.285000
 Fall	-	-	-	0:26:25.558000	0:26:26.285000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:25.558000" end="0:26:28.718000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:25.558000" end="0:26:28.718000" age_lower="65" age_upper="999">
 nein	-	-	-	0:26:25.558000	0:26:26.645000
 das	-	-	-	0:26:25.558000	0:26:26.645000
 geht	-	-	-	0:26:25.558000	0:26:26.645000
@@ -6337,7 +6337,7 @@ ne	-	-	-	0:26:26.645000	0:26:27.458000
 aber	-	-	-	0:26:27.458000	0:26:28.718000
 sonst	-	-	-	0:26:27.458000	0:26:28.718000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:28.718000" end="0:26:32.125000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:28.718000" end="0:26:32.125000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:28.718000	0:26:29.312000
 dann	-	-	-	0:26:29.312000	0:26:32.125000
 kommen	-	-	-	0:26:29.312000	0:26:32.125000
@@ -6348,18 +6348,18 @@ einem	-	-	-	0:26:29.312000	0:26:32.125000
 fröhlicheren	-	-	-	0:26:29.312000	0:26:32.125000
 Thema	-	-	-	0:26:29.312000	0:26:32.125000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:30.818000" end="0:26:32.125000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:30.818000" end="0:26:32.125000" age_lower="65" age_upper="999">
 ja	-	-	-	0:26:31.158000	0:26:32.125000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:32.125000" end="0:26:33.585000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:32.125000" end="0:26:33.585000" age_lower="1" age_upper="999">
 nämlich	-	-	-	0:26:32.125000	0:26:33.585000
 zum	-	-	-	0:26:32.125000	0:26:33.585000
 Thema	-	-	-	0:26:32.125000	0:26:33.585000
 Sprache	-	-	-	0:26:32.125000	0:26:33.585000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:33.585000" end="0:26:34.692000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:33.585000" end="0:26:34.692000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:34.692000" end="0:26:41.792000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:34.692000" end="0:26:41.792000" age_lower="1" age_upper="999">
 was	-	-	-	0:26:34.692000	0:26:37.798000
 verstehen	-	-	-	0:26:34.692000	0:26:37.798000
 Sie	-	-	-	0:26:34.692000	0:26:37.798000
@@ -6378,7 +6378,7 @@ Begriff	-	-	-	0:26:40.552000	0:26:41.792000
 für	-	-	-	0:26:40.552000	0:26:41.792000
 Sie	-	-	-	0:26:40.552000	0:26:41.792000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:41.792000" end="0:26:44.638000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:41.792000" end="0:26:44.638000" age_lower="65" age_upper="999">
 Dialekt	-	-	-	0:26:41.792000	0:26:44.638000
 sage	-	-	-	0:26:41.792000	0:26:44.638000
 ich	-	-	-	0:26:41.792000	0:26:44.638000
@@ -6392,9 +6392,9 @@ reden	-	-	-	0:26:41.792000	0:26:44.638000
 tue	-	-	-	0:26:41.792000	0:26:44.638000
 nein	-	-	-	0:26:41.792000	0:26:44.638000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:44.638000" end="0:26:45.385000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:44.638000" end="0:26:45.385000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:45.385000" end="0:26:46.492000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:45.385000" end="0:26:46.492000" age_lower="65" age_upper="999">
 das	-	-	-	0:26:45.385000	0:26:46.492000
 was	-	-	-	0:26:45.385000	0:26:46.492000
 ich	-	-	-	0:26:45.385000	0:26:46.492000
@@ -6402,23 +6402,23 @@ jetzt	-	-	-	0:26:45.385000	0:26:46.492000
 reden	-	-	-	0:26:45.385000	0:26:46.492000
 tue	-	-	-	0:26:45.385000	0:26:46.492000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:46.492000" end="0:26:48.245000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:46.492000" end="0:26:48.245000" age_lower="1" age_upper="999">
 wie	-	-	-	0:26:46.492000	0:26:48.245000
 würden	-	-	-	0:26:46.492000	0:26:48.245000
 Sie	-	-	-	0:26:46.492000	0:26:48.245000
 das	-	-	-	0:26:46.492000	0:26:48.245000
 beschreiben	-	-	-	0:26:46.492000	0:26:48.245000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:46.492000" end="0:26:47.385000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:46.492000" end="0:26:47.385000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:26:46.492000	0:26:47.385000
 nicht	-	-	-	0:26:46.492000	0:26:47.385000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:49.645000" end="0:26:50.832000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:49.645000" end="0:26:50.832000" age_lower="1" age_upper="999">
 was	-	-	-	0:26:49.645000	0:26:50.832000
 Dialekt	-	-	-	0:26:49.645000	0:26:50.832000
 ist	-	-	-	0:26:49.645000	0:26:50.832000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:50.832000" end="0:26:56.305000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:50.832000" end="0:26:56.305000" age_lower="65" age_upper="999">
 ja	-	-	-	0:26:50.832000	0:26:52.472000
 meine	-	-	-	0:26:50.832000	0:26:52.472000
 Muttersprache	-	-	-	0:26:50.832000	0:26:52.472000
@@ -6433,9 +6433,9 @@ jetzt	-	-	-	0:26:54.378000	0:26:56.305000
 aufgewachsen	-	-	-	0:26:54.378000	0:26:56.305000
 bin	-	-	-	0:26:54.378000	0:26:56.305000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:56.305000" end="0:26:57.025000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:26:56.305000" end="0:26:57.025000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:56.305000" end="0:27:18.825000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:26:56.305000" end="0:27:18.825000" age_lower="65" age_upper="999">
 wie	-	-	-	0:26:56.305000	0:26:58.045000
 ich	-	-	-	0:26:56.305000	0:26:58.045000
 seit	-	-	-	0:26:56.305000	0:26:58.045000
@@ -6507,9 +6507,9 @@ jetzt	-	-	-	0:27:16.132000	0:27:18.825000
 heraushängen	-	-	-	0:27:16.132000	0:27:18.825000
 lassen	-	-	-	0:27:16.132000	0:27:18.825000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:18.678000" end="0:27:19.112000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:18.678000" end="0:27:19.112000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:18.825000" end="0:27:22.498000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:18.825000" end="0:27:22.498000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:27:18.825000	0:27:19.112000
 und	-	-	-	0:27:19.112000	0:27:20.765000
 lustig	-	-	-	0:27:19.112000	0:27:20.765000
@@ -6527,10 +6527,10 @@ relativ	-	-	-	0:27:20.765000	0:27:22.272000
 Ungarisch	-	-	-	0:27:20.765000	0:27:22.272000
 nicht	-	-	-	0:27:22.272000	0:27:22.498000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:22.498000" end="0:27:22.852000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:22.498000" end="0:27:22.852000" age_lower="1" age_upper="999">
 ja	-	-	-	0:27:22.498000	0:27:22.852000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:22.498000" end="0:27:26.852000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:22.498000" end="0:27:26.852000" age_lower="65" age_upper="999">
 ah	-	-	-	0:27:22.498000	0:27:24.865000
 frong	-	-	-	0:27:22.498000	0:27:24.865000
 mich	-	-	-	0:27:22.498000	0:27:24.865000
@@ -6547,9 +6547,9 @@ mich	-	-	-	0:27:24.865000	0:27:26.852000
 ah	-	-	-	0:27:24.865000	0:27:26.852000
 gefragt	-	-	-	0:27:24.865000	0:27:26.852000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:25.952000" end="0:27:26.545000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:25.952000" end="0:27:26.545000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:26.852000" end="0:27:36.712000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:26.852000" end="0:27:36.712000" age_lower="65" age_upper="999">
 sind	-	-	-	0:27:26.852000	0:27:28.525000
 Sie	-	-	-	0:27:26.852000	0:27:28.525000
 eine	-	-	-	0:27:26.852000	0:27:28.525000
@@ -6580,15 +6580,15 @@ ich	-	-	-	0:27:34.832000	0:27:36.712000
 so	-	-	-	0:27:34.832000	0:27:36.712000
 aus	-	-	-	0:27:34.832000	0:27:36.712000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:36.712000" end="0:27:37.678000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:36.712000" end="0:27:37.678000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:36.712000" end="0:27:37.678000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:36.712000" end="0:27:37.678000" age_lower="65" age_upper="999">
 also	-	-	-	0:27:36.712000	0:27:37.678000
 das	-	-	-	0:27:36.712000	0:27:37.678000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:37.678000" end="0:27:39.078000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:37.678000" end="0:27:39.078000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:37.678000" end="0:27:44.165000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:37.678000" end="0:27:44.165000" age_lower="65" age_upper="999">
 nein	-	-	-	0:27:38.412000	0:27:39.078000
 eigentlich	-	-	-	0:27:39.078000	0:27:40.112000
 nicht	-	-	-	0:27:39.078000	0:27:40.112000
@@ -6606,17 +6606,17 @@ va	-	-	-	0:27:41.932000	0:27:44.165000
 vergleichen	-	-	-	0:27:41.932000	0:27:44.165000
 tut	-	-	-	0:27:41.932000	0:27:44.165000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:43.545000" end="0:27:44.256000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:43.545000" end="0:27:44.256000" age_lower="1" age_upper="999">
 genau	-	-	-	0:27:43.545000	0:27:44.256000
 ja	-	-	-	0:27:43.545000	0:27:44.256000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:44.165000" end="0:27:44.605000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:44.165000" end="0:27:44.605000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:27:44.165000	0:27:44.605000
 nicht	-	-	-	0:27:44.165000	0:27:44.605000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:44.256000" end="0:27:44.838000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:44.256000" end="0:27:44.838000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:44.838000" end="0:27:48.692000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:44.838000" end="0:27:48.692000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:27:44.838000	0:27:45.265000
 also	-	-	-	0:27:45.265000	0:27:46.972000
 das	-	-	-	0:27:45.265000	0:27:46.972000
@@ -6630,11 +6630,11 @@ meine	-	-	-	0:27:46.972000	0:27:48.692000
 meine	-	-	-	0:27:46.972000	0:27:48.692000
 Muttersprache	-	-	-	0:27:46.972000	0:27:48.692000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:48.398000" end="0:27:48.692000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:48.398000" end="0:27:48.692000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:48.692000" end="0:27:48.925000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:48.692000" end="0:27:48.925000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:48.925000" end="0:27:50.872000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:48.925000" end="0:27:50.872000" age_lower="1" age_upper="999">
 und	-	-	-	0:27:48.925000	0:27:50.872000
 das	-	-	-	0:27:48.925000	0:27:50.872000
 Gegenteil	-	-	-	0:27:48.925000	0:27:50.872000
@@ -6644,17 +6644,17 @@ ja	-	-	-	0:27:48.925000	0:27:50.872000
 schon	-	-	-	0:27:48.925000	0:27:50.872000
 gesagt	-	-	-	0:27:48.925000	0:27:50.872000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:48.925000" end="0:27:49.625000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:48.925000" end="0:27:49.625000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:27:48.925000	0:27:49.625000
 eine	-	-	-	0:27:48.925000	0:27:49.625000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:50.872000" end="0:27:52.172000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:50.872000" end="0:27:52.172000" age_lower="1" age_upper="999">
 ist	-	-	-	0:27:50.872000	0:27:52.172000
 für	-	-	-	0:27:50.872000	0:27:52.172000
 Sie	-	-	-	0:27:50.872000	0:27:52.172000
 Hochdeutsch	-	-	-	0:27:50.872000	0:27:52.172000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:50.872000" end="0:27:53.865000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:50.872000" end="0:27:53.865000" age_lower="65" age_upper="999">
 Hochdeutsch	-	-	-	0:27:50.872000	0:27:52.038000
 das	-	-	-	0:27:52.038000	0:27:53.725000
 Gegenteil	-	-	-	0:27:52.038000	0:27:53.725000
@@ -6663,12 +6663,12 @@ für	-	-	-	0:27:52.038000	0:27:53.725000
 mich	-	-	-	0:27:52.038000	0:27:53.725000
 Hochdeutsch	-	-	-	0:27:52.038000	0:27:53.725000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:53.865000" end="0:27:54.205000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:53.865000" end="0:27:54.205000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:53.865000" end="0:27:54.392000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:53.865000" end="0:27:54.392000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:27:53.865000	0:27:54.392000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:54.205000" end="0:27:57.652000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:54.205000" end="0:27:57.652000" age_lower="1" age_upper="999">
 und	-	-	-	0:27:54.205000	0:27:57.652000
 Sie	-	-	-	0:27:54.205000	0:27:57.652000
 können	-	-	-	0:27:54.205000	0:27:57.652000
@@ -6677,7 +6677,7 @@ beides	-	-	-	0:27:54.205000	0:27:57.652000
 sehr	-	-	-	0:27:54.205000	0:27:57.652000
 gut	-	-	-	0:27:54.205000	0:27:57.652000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:54.392000" end="0:27:58.445000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:27:54.392000" end="0:27:58.445000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:27:54.392000	0:27:55.165000
 nicht	-	-	-	0:27:54.392000	0:27:55.165000
 nicht	-	-	-	0:27:54.392000	0:27:55.165000
@@ -6689,7 +6689,7 @@ sicherlich	-	-	-	0:27:57.212000	0:27:57.992000
 ja	-	-	-	0:27:57.992000	0:27:58.445000
 ja	-	-	-	0:27:57.992000	0:27:58.445000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:58.445000" end="0:28:03.645000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:27:58.445000" end="0:28:03.645000" age_lower="1" age_upper="999">
 in	-	-	-	0:27:58.445000	0:28:00.445000
 welchen	-	-	-	0:27:58.445000	0:28:00.445000
 Situationen	-	-	-	0:27:58.445000	0:28:00.445000
@@ -6702,7 +6702,7 @@ sprechen	-	-	-	0:28:02.132000	0:28:03.645000
 Sie	-	-	-	0:28:02.132000	0:28:03.645000
 Hochdeutsch	-	-	-	0:28:02.132000	0:28:03.645000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:03.645000" end="0:28:22.985000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:03.645000" end="0:28:22.985000" age_lower="65" age_upper="999">
 also	-	-	-	0:28:05.712000	0:28:07.952000
 Hochdeutsch	-	-	-	0:28:05.712000	0:28:07.952000
 speziell	-	-	-	0:28:05.712000	0:28:07.952000
@@ -6757,16 +6757,16 @@ habe	-	-	-	0:28:20.905000	0:28:22.198000
 zum	-	-	-	0:28:22.198000	0:28:22.985000
 Beispiel	-	-	-	0:28:22.198000	0:28:22.985000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:22.658000" end="0:28:23.078000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:22.658000" end="0:28:23.078000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:23.078000" end="0:28:27.338000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:23.078000" end="0:28:27.338000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:28:23.078000	0:28:23.265000
 aber	-	-	-	0:28:23.265000	0:28:24.712000
 ah	-	-	-	0:28:23.265000	0:28:24.712000
 ansonsten	-	-	-	0:28:24.712000	0:28:26.558000
 also	-	-	-	0:28:26.558000	0:28:27.338000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:27.338000" end="0:28:30.272000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:27.338000" end="0:28:30.272000" age_lower="1" age_upper="999">
 sonst	-	-	-	0:28:27.338000	0:28:30.272000
 würden	-	-	-	0:28:27.338000	0:28:30.272000
 Sie	-	-	-	0:28:27.338000	0:28:30.272000
@@ -6774,7 +6774,7 @@ sagen	-	-	-	0:28:27.338000	0:28:30.272000
 immer	-	-	-	0:28:27.338000	0:28:30.272000
 Dialekt	-	-	-	0:28:27.338000	0:28:30.272000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:28.658000" end="0:28:31.305000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:28.658000" end="0:28:31.305000" age_lower="65" age_upper="999">
 Hochdeutsch	-	-	-	0:28:28.658000	0:28:29.805000
 sonst	-	-	-	0:28:28.658000	0:28:29.805000
 nein	-	-	-	0:28:29.805000	0:28:31.305000
@@ -6782,13 +6782,13 @@ eigentlich	-	-	-	0:28:29.805000	0:28:31.305000
 immer	-	-	-	0:28:29.805000	0:28:31.305000
 Dialekt	-	-	-	0:28:29.805000	0:28:31.305000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:31.305000" end="0:28:31.765000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:31.305000" end="0:28:31.765000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:31.305000" end="0:28:32.238000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:31.305000" end="0:28:32.238000" age_lower="65" age_upper="999">
 nein	-	-	-	0:28:31.305000	0:28:31.518000
 immer	-	-	-	0:28:31.765000	0:28:32.238000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:32.238000" end="0:28:38.152000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:32.238000" end="0:28:38.152000" age_lower="1" age_upper="999">
 und	-	-	-	0:28:32.238000	0:28:34.885000
 was	-	-	-	0:28:32.238000	0:28:34.885000
 sprechen	-	-	-	0:28:32.238000	0:28:34.885000
@@ -6801,29 +6801,29 @@ oder	-	-	-	0:28:34.885000	0:28:37.678000
 Hochdeutsch	-	-	-	0:28:34.885000	0:28:37.678000
 also	-	-	-	0:28:37.678000	0:28:38.152000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:37.678000" end="0:28:39.952000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:37.678000" end="0:28:39.952000" age_lower="65" age_upper="999">
 nein	-	-	-	0:28:37.678000	0:28:38.652000
 Dialekt	-	-	-	0:28:37.678000	0:28:38.652000
 Dialekt	-	-	-	0:28:38.652000	0:28:39.292000
 na	-	-	-	0:28:39.292000	0:28:39.952000
 sicher	-	-	-	0:28:39.292000	0:28:39.952000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:39.952000" end="0:28:40.478000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:39.952000" end="0:28:40.478000" age_lower="1" age_upper="999">
 ja	-	-	-	0:28:39.952000	0:28:40.478000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:39.952000" end="0:28:40.478000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:39.952000" end="0:28:40.478000" age_lower="65" age_upper="999">
 sicher	-	-	-	0:28:39.952000	0:28:40.478000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:40.478000" end="0:28:41.225000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:40.478000" end="0:28:41.225000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:40.478000" end="0:28:42.278000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:40.478000" end="0:28:42.278000" age_lower="65" age_upper="999">
 ja	-	-	-	0:28:40.478000	0:28:41.225000
 sicher	-	-	-	0:28:40.478000	0:28:41.225000
 sicher	-	-	-	0:28:41.225000	0:28:42.278000
 nein	-	-	-	0:28:41.225000	0:28:42.278000
 nein	-	-	-	0:28:41.225000	0:28:42.278000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:42.278000" end="0:28:47.992000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:42.278000" end="0:28:47.992000" age_lower="1" age_upper="999">
 welches	-	-	-	0:28:42.278000	0:28:46.825000
 Ansehen	-	-	-	0:28:42.278000	0:28:46.825000
 glauben	-	-	-	0:28:42.278000	0:28:46.825000
@@ -6839,7 +6839,7 @@ oder	-	-	-	0:28:46.825000	0:28:47.992000
 in	-	-	-	0:28:46.825000	0:28:47.992000
 ORT	ORT	-	-	0:28:46.825000	0:28:47.992000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:47.992000" end="0:28:54.198000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:47.992000" end="0:28:54.198000" age_lower="65" age_upper="999">
 nein	-	-	-	0:28:47.992000	0:28:51.358000
 ich	-	-	-	0:28:47.992000	0:28:51.358000
 glaube	-	-	-	0:28:47.992000	0:28:51.358000
@@ -6861,9 +6861,9 @@ ist	-	-	-	0:28:51.358000	0:28:53.565000
 nicht	-	-	-	0:28:53.565000	0:28:54.198000
 nicht	-	-	-	0:28:53.565000	0:28:54.198000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:54.198000" end="0:28:54.925000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:28:54.198000" end="0:28:54.925000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:54.198000" end="0:29:05.878000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:28:54.198000" end="0:29:05.878000" age_lower="65" age_upper="999">
 weil	-	-	-	0:28:54.198000	0:28:55.492000
 zum	-	-	-	0:28:54.198000	0:28:55.492000
 Beispiel	-	-	-	0:28:54.198000	0:28:55.492000
@@ -6903,9 +6903,9 @@ mit	-	-	-	0:29:04.265000	0:29:05.878000
 dir	-	-	-	0:29:04.265000	0:29:05.878000
 angestellt	-	-	-	0:29:04.265000	0:29:05.878000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:05.632000" end="0:29:06.225000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:05.632000" end="0:29:06.225000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:06.225000" end="0:29:09.978000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:06.225000" end="0:29:09.978000" age_lower="65" age_upper="999">
 dass	-	-	-	0:29:06.225000	0:29:07.905000
 du	-	-	-	0:29:06.225000	0:29:07.905000
 jetzt	-	-	-	0:29:06.225000	0:29:07.905000
@@ -6921,9 +6921,9 @@ bei	-	-	-	0:29:08.092000	0:29:09.745000
 uns	-	-	-	0:29:08.092000	0:29:09.745000
 nicht	-	-	-	0:29:09.745000	0:29:09.978000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:09.978000" end="0:29:10.645000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:09.978000" end="0:29:10.645000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:09.978000" end="0:29:13.265000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:09.978000" end="0:29:13.265000" age_lower="65" age_upper="999">
 der	-	-	-	0:29:09.978000	0:29:11.452000
 ORT	ORT	-	-	0:29:09.978000	0:29:11.452000
 ist	-	-	-	0:29:09.978000	0:29:11.452000
@@ -6936,14 +6936,14 @@ ORT	ORT	-	-	0:29:11.718000	0:29:12.612000
 und	-	-	-	0:29:12.612000	0:29:13.265000
 aus	-	-	-	0:29:12.612000	0:29:13.265000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:13.265000" end="0:29:14.865000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:13.265000" end="0:29:14.865000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:13.265000	0:29:14.865000
 da	-	-	-	0:29:13.265000	0:29:14.865000
 gehört	-	-	-	0:29:13.265000	0:29:14.865000
 Dialekt	-	-	-	0:29:13.265000	0:29:14.865000
 dazu	-	-	-	0:29:13.265000	0:29:14.865000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:13.265000" end="0:29:15.945000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:13.265000" end="0:29:15.945000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:29:13.265000	0:29:13.912000
 nicht	-	-	-	0:29:13.265000	0:29:13.912000
 und	-	-	-	0:29:13.912000	0:29:15.945000
@@ -6955,21 +6955,21 @@ meiner	-	-	-	0:29:13.912000	0:29:15.945000
 Meinung	-	-	-	0:29:13.912000	0:29:15.945000
 nach	-	-	-	0:29:13.912000	0:29:15.945000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:14.865000" end="0:29:15.945000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:14.865000" end="0:29:15.945000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:15.945000" end="0:29:16.878000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:15.945000" end="0:29:16.878000" age_lower="65" age_upper="999">
 der	-	-	-	0:29:15.945000	0:29:16.878000
 Dialekt	-	-	-	0:29:15.945000	0:29:16.878000
 dazu	-	-	-	0:29:15.945000	0:29:16.878000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:16.878000" end="0:29:17.398000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:16.878000" end="0:29:17.398000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:16.878000" end="0:29:17.665000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:16.878000" end="0:29:17.665000" age_lower="65" age_upper="999">
 ja	-	-	-	0:29:16.878000	0:29:17.665000
 ja	-	-	-	0:29:16.878000	0:29:17.665000
 ja	-	-	-	0:29:16.878000	0:29:17.665000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:17.665000" end="0:29:22.725000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:17.665000" end="0:29:22.725000" age_lower="1" age_upper="999">
 haben	-	-	-	0:29:17.665000	0:29:19.905000
 Sie	-	-	-	0:29:17.665000	0:29:19.905000
 schon	-	-	-	0:29:17.665000	0:29:19.905000
@@ -6987,7 +6987,7 @@ aus	-	-	-	0:29:19.905000	0:29:22.725000
 ORT	ORT	-	-	0:29:19.905000	0:29:22.725000
 sind	-	-	-	0:29:19.905000	0:29:22.725000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:22.725000" end="0:29:27.818000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:22.725000" end="0:29:27.818000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:29:22.725000	0:29:24.152000
 oft	-	-	-	0:29:22.725000	0:29:24.152000
 oft	-	-	-	0:29:24.152000	0:29:24.738000
@@ -7001,11 +7001,11 @@ sind	-	-	-	0:29:25.818000	0:29:27.818000
 eingefleischte	-	-	-	0:29:25.818000	0:29:27.818000
 kärntnerurlauber	-	-	-	0:29:25.818000	0:29:27.818000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:26.252000" end="0:29:28.552000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:26.252000" end="0:29:28.552000" age_lower="1" age_upper="999">
 okay	-	-	-	0:29:27.818000	0:29:28.552000
 ja	-	-	-	0:29:27.818000	0:29:28.552000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:27.818000" end="0:29:36.285000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:27.818000" end="0:29:36.285000" age_lower="65" age_upper="999">
 also	-	-	-	0:29:27.818000	0:29:29.718000
 wir	-	-	-	0:29:27.818000	0:29:29.718000
 fahren	-	-	-	0:29:27.818000	0:29:29.718000
@@ -7038,9 +7038,9 @@ ganz	-	-	-	0:29:34.218000	0:29:36.285000
 was	-	-	-	0:29:34.218000	0:29:36.285000
 anders	-	-	-	0:29:34.218000	0:29:36.285000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:36.285000" end="0:29:36.718000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:36.285000" end="0:29:36.718000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:36.285000" end="0:29:41.005000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:36.285000" end="0:29:41.005000" age_lower="65" age_upper="999">
 keine	-	-	-	0:29:36.518000	0:29:37.232000
 Frage	-	-	-	0:29:36.518000	0:29:37.232000
 und	-	-	-	0:29:37.232000	0:29:38.878000
@@ -7060,18 +7060,18 @@ drei	-	-	-	0:29:38.878000	0:29:41.005000
 mal	-	-	-	0:29:38.878000	0:29:41.005000
 frong	-	-	-	0:29:38.878000	0:29:41.005000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:41.005000" end="0:29:41.838000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:41.005000" end="0:29:41.838000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:41.005000" end="0:29:42.592000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:41.005000" end="0:29:42.592000" age_lower="65" age_upper="999">
 ah	-	-	-	0:29:41.005000	0:29:42.592000
 von	-	-	-	0:29:41.005000	0:29:42.592000
 wo	-	-	-	0:29:41.005000	0:29:42.592000
 man	-	-	-	0:29:41.005000	0:29:42.592000
 sind	-	-	-	0:29:41.005000	0:29:42.592000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:42.592000" end="0:29:43.085000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:42.592000" end="0:29:43.085000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:42.592000" end="0:29:48.232000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:42.592000" end="0:29:48.232000" age_lower="65" age_upper="999">
 ja	-	-	-	0:29:42.592000	0:29:42.865000
 also	-	-	-	0:29:43.085000	0:29:45.392000
 f	-	-	-	0:29:43.085000	0:29:45.392000
@@ -7096,11 +7096,11 @@ aus	-	-	-	0:29:47.092000	0:29:48.032000
 ORT	ORT	-	-	0:29:47.092000	0:29:48.032000
 kommen	-	-	-	0:29:47.092000	0:29:48.032000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:48.232000" end="0:29:49.118000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:48.232000" end="0:29:49.118000" age_lower="1" age_upper="999">
 da	-	-	-	0:29:48.232000	0:29:49.118000
 L	-	-	-	0:29:48.232000	0:29:49.118000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:48.232000" end="0:29:51.178000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:48.232000" end="0:29:51.178000" age_lower="65" age_upper="999">
 vielleicht	-	-	-	0:29:48.232000	0:29:50.005000
 bei	-	-	-	0:29:48.232000	0:29:50.005000
 mein	-	-	-	0:29:48.232000	0:29:50.005000
@@ -7112,7 +7112,7 @@ auf	-	-	-	0:29:50.005000	0:29:51.178000
 jeden	-	-	-	0:29:50.005000	0:29:51.178000
 Fall	-	-	-	0:29:50.005000	0:29:51.178000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:51.178000" end="0:29:54.392000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:51.178000" end="0:29:54.392000" age_lower="1" age_upper="999">
 da	-	-	-	0:29:51.178000	0:29:52.925000
 werden	-	-	-	0:29:51.178000	0:29:52.925000
 sie	-	-	-	0:29:51.178000	0:29:52.925000
@@ -7120,21 +7120,21 @@ sofort	-	-	-	0:29:51.178000	0:29:52.925000
 zugeordnet	-	-	-	0:29:51.178000	0:29:52.925000
 ja	-	-	-	0:29:52.925000	0:29:53.565000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:53.565000" end="0:29:54.738000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:53.565000" end="0:29:54.738000" age_lower="65" age_upper="999">
 auf	-	-	-	0:29:53.565000	0:29:54.738000
 jeden	-	-	-	0:29:53.565000	0:29:54.738000
 Fall	-	-	-	0:29:53.565000	0:29:54.738000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:54.738000" end="0:29:55.798000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:54.738000" end="0:29:55.798000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:54.738000	0:29:55.798000
 umgekehrt	-	-	-	0:29:54.738000	0:29:55.798000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:54.738000" end="0:29:55.798000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:54.738000" end="0:29:55.798000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:29:54.738000	0:29:55.265000
 ja	-	-	-	0:29:55.265000	0:29:55.798000
 ja	-	-	-	0:29:55.265000	0:29:55.798000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:55.798000" end="0:30:01.438000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:29:55.798000" end="0:30:01.438000" age_lower="1" age_upper="999">
 können	-	-	-	0:29:55.798000	0:30:01.438000
 Sie	-	-	-	0:29:55.798000	0:30:01.438000
 auch	-	-	-	0:29:55.798000	0:30:01.438000
@@ -7147,7 +7147,7 @@ oder	-	-	-	0:29:55.798000	0:30:01.438000
 regional	-	-	-	0:29:55.798000	0:30:01.438000
 zuordnen	-	-	-	0:29:55.798000	0:30:01.438000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:55.798000" end="0:30:04.458000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:29:55.798000" end="0:30:04.458000" age_lower="65" age_upper="999">
 ja	-	-	-	0:29:55.798000	0:29:56.272000
 also	-	-	-	0:30:01.438000	0:30:02.865000
 speziell	-	-	-	0:30:01.438000	0:30:02.865000
@@ -7160,9 +7160,9 @@ höre	-	-	-	0:30:02.865000	0:30:04.458000
 ich	-	-	-	0:30:02.865000	0:30:04.458000
 sofort	-	-	-	0:30:02.865000	0:30:04.458000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:04.458000" end="0:30:05.118000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:04.458000" end="0:30:05.118000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:04.458000" end="0:30:25.418000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:04.458000" end="0:30:25.418000" age_lower="65" age_upper="999">
 Kärntner	-	-	-	0:30:04.458000	0:30:05.878000
 höre	-	-	-	0:30:04.458000	0:30:05.878000
 ich	-	-	-	0:30:04.458000	0:30:05.878000
@@ -7240,13 +7240,13 @@ ich	-	-	-	0:30:24.198000	0:30:25.192000
 das	-	-	-	0:30:24.198000	0:30:25.192000
 wohl	-	-	-	0:30:24.198000	0:30:25.192000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:25.418000" end="0:30:26.598000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:25.418000" end="0:30:26.598000" age_lower="1" age_upper="999">
 das	-	-	-	0:30:25.418000	0:30:26.598000
 erkennt	-	-	-	0:30:25.418000	0:30:26.598000
 man	-	-	-	0:30:25.418000	0:30:26.598000
 dann	-	-	-	0:30:25.418000	0:30:26.598000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:25.418000" end="0:30:27.732000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:25.418000" end="0:30:27.732000" age_lower="65" age_upper="999">
 und	-	-	-	0:30:25.418000	0:30:26.438000
 haben	-	-	-	0:30:25.418000	0:30:26.438000
 man	-	-	-	0:30:25.418000	0:30:26.438000
@@ -7257,9 +7257,9 @@ erkennt	-	-	-	0:30:26.438000	0:30:27.732000
 man	-	-	-	0:30:26.438000	0:30:27.732000
 sofort	-	-	-	0:30:26.438000	0:30:27.732000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:27.592000" end="0:30:28.045000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:27.592000" end="0:30:28.045000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:27.732000" end="0:30:38.938000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:27.732000" end="0:30:38.938000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:30:27.732000	0:30:27.885000
 an	-	-	-	0:30:28.045000	0:30:29.865000
 Tiroler	-	-	-	0:30:28.045000	0:30:29.865000
@@ -7297,9 +7297,9 @@ ub	-	-	-	0:30:35.845000	0:30:38.938000
 quasi	-	-	-	0:30:35.845000	0:30:38.938000
 ausspreche	-	-	-	0:30:35.845000	0:30:38.938000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:36.765000" end="0:30:37.272000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:36.765000" end="0:30:37.272000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:38.938000" end="0:30:44.998000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:38.938000" end="0:30:44.998000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:30:38.938000	0:30:39.178000
 bist	-	-	-	0:30:39.178000	0:30:41.985000
 bist	-	-	-	0:30:39.178000	0:30:41.985000
@@ -7321,25 +7321,25 @@ oder	-	-	-	0:30:44.332000	0:30:44.998000
 so	-	-	-	0:30:44.332000	0:30:44.998000
 irgendwie	-	-	-	0:30:44.332000	0:30:44.998000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:44.998000" end="0:30:45.425000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:44.998000" end="0:30:45.425000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:44.998000" end="0:30:45.678000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:44.998000" end="0:30:45.678000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:30:44.998000	0:30:45.209000
 ja	-	-	-	0:30:45.209000	0:30:45.425000
 ja	-	-	-	0:30:45.425000	0:30:45.678000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:45.678000" end="0:30:46.305000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:45.678000" end="0:30:46.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:45.678000" end="0:30:47.265000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:45.678000" end="0:30:47.265000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:30:45.678000	0:30:46.305000
 aber	-	-	-	0:30:46.305000	0:30:47.265000
 sonst	-	-	-	0:30:46.305000	0:30:47.265000
 nein	-	-	-	0:30:46.305000	0:30:47.265000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:47.265000" end="0:30:47.832000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:47.265000" end="0:30:47.832000" age_lower="1" age_upper="999">
 ja	-	-	-	0:30:47.265000	0:30:47.832000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:47.265000" end="0:30:51.472000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:47.265000" end="0:30:51.472000" age_lower="65" age_upper="999">
 könnte	-	-	-	0:30:47.265000	0:30:48.092000
 ich	-	-	-	0:30:47.265000	0:30:48.092000
 nicht	-	-	-	0:30:47.265000	0:30:48.092000
@@ -7354,19 +7354,19 @@ ein	-	-	-	0:30:49.338000	0:30:51.272000
 bisschen	-	-	-	0:30:49.338000	0:30:51.272000
 ähnelt	-	-	-	0:30:49.338000	0:30:51.272000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:51.472000" end="0:30:52.465000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:51.472000" end="0:30:52.465000" age_lower="1" age_upper="999">
 genau	-	-	-	0:30:51.472000	0:30:52.465000
 ja	-	-	-	0:30:51.472000	0:30:52.465000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:51.472000" end="0:30:52.465000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:51.472000" end="0:30:52.465000" age_lower="65" age_upper="999">
 die	-	-	-	0:30:51.472000	0:30:52.465000
 der	-	-	-	0:30:51.472000	0:30:52.465000
 Schweiz	-	-	-	0:30:51.472000	0:30:52.465000
 dann	-	-	-	0:30:51.472000	0:30:52.465000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:52.465000" end="0:30:52.905000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:52.465000" end="0:30:52.905000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:52.465000" end="0:30:56.752000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:52.465000" end="0:30:56.752000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:30:52.465000	0:30:52.718000
 also	-	-	-	0:30:52.905000	0:30:54.165000
 ähnelt	-	-	-	0:30:52.905000	0:30:54.165000
@@ -7384,7 +7384,7 @@ damit	-	-	-	0:30:54.165000	0:30:56.278000
 ja	-	-	-	0:30:56.278000	0:30:56.752000
 ja	-	-	-	0:30:56.278000	0:30:56.752000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:56.752000" end="0:31:01.145000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:30:56.752000" end="0:31:01.145000" age_lower="1" age_upper="999">
 und	-	-	-	0:30:56.752000	0:31:01.145000
 gibt	-	-	-	0:30:56.752000	0:31:01.145000
 es	-	-	-	0:30:56.752000	0:31:01.145000
@@ -7396,7 +7396,7 @@ besonders	-	-	-	0:30:56.752000	0:31:01.145000
 gut	-	-	-	0:30:56.752000	0:31:01.145000
 gefällt	-	-	-	0:30:56.752000	0:31:01.145000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:56.752000" end="0:31:34.458000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:30:56.752000" end="0:31:34.458000" age_lower="65" age_upper="999">
 nein	-	-	-	0:30:56.752000	0:30:58.098000
 sonst	-	-	-	0:30:56.752000	0:30:58.098000
 die	-	-	-	0:31:04.592000	0:31:06.372000
@@ -7486,9 +7486,9 @@ schweizerische	-	-	-	0:31:32.392000	0:31:34.458000
 sehr	-	-	-	0:31:32.392000	0:31:34.458000
 gut	-	-	-	0:31:32.392000	0:31:34.458000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:34.065000" end="0:31:35.052000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:34.065000" end="0:31:35.052000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:31:34.458000" end="0:31:55.671000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:31:34.458000" end="0:31:55.671000" age_lower="65" age_upper="999">
 also	-	-	-	0:31:34.458000	0:31:36.598000
 Schweizer	-	-	-	0:31:34.458000	0:31:36.598000
 Schweizer	-	-	-	0:31:34.458000	0:31:36.598000
@@ -7565,7 +7565,7 @@ ja	-	-	-	0:31:54.951000	0:31:55.671000
 ja	-	-	-	0:31:54.951000	0:31:55.671000
 ja	-	-	-	0:31:54.951000	0:31:55.671000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:55.671000" end="0:32:01.111000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:31:55.671000" end="0:32:01.111000" age_lower="1" age_upper="999">
 schön	-	-	-	0:31:55.671000	0:31:56.358000
 und	-	-	-	0:31:56.358000	0:32:01.111000
 wenn	-	-	-	0:31:56.358000	0:32:01.111000
@@ -7579,9 +7579,9 @@ Vergangenheit	-	-	-	0:31:56.358000	0:32:01.111000
 machen	-	-	-	0:31:56.358000	0:32:01.111000
 könnten	-	-	-	0:31:56.358000	0:32:01.111000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:00.065000" end="0:32:01.111000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:00.065000" end="0:32:01.111000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:01.111000" end="0:32:08.271000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:01.111000" end="0:32:08.271000" age_lower="1" age_upper="999">
 können	-	-	-	0:32:01.111000	0:32:06.378000
 Sie	-	-	-	0:32:01.111000	0:32:06.378000
 sich	-	-	-	0:32:01.111000	0:32:06.378000
@@ -7599,11 +7599,11 @@ miteinander	-	-	-	0:32:06.378000	0:32:08.271000
 gesprochen	-	-	-	0:32:06.378000	0:32:08.271000
 haben	-	-	-	0:32:06.378000	0:32:08.271000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:07.311000" end="0:32:08.271000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:07.311000" end="0:32:08.271000" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:07.311000	0:32:08.271000
 ja	-	-	-	0:32:07.311000	0:32:08.271000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:11.098000" end="0:32:15.651000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:11.098000" end="0:32:15.651000" age_lower="1" age_upper="999">
 in	-	-	-	0:32:11.098000	0:32:12.351000
 welcher	-	-	-	0:32:11.098000	0:32:12.351000
 Sprechweise	-	-	-	0:32:11.098000	0:32:12.351000
@@ -7615,7 +7615,7 @@ oder	-	-	-	0:32:14.285000	0:32:15.651000
 eher	-	-	-	0:32:14.285000	0:32:15.651000
 Hochdeutsch	-	-	-	0:32:14.285000	0:32:15.651000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:15.378000" end="0:32:19.178000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:15.378000" end="0:32:19.178000" age_lower="65" age_upper="999">
 nein	-	-	-	0:32:15.378000	0:32:15.651000
 das	-	-	-	0:32:15.651000	0:32:16.678000
 war	-	-	-	0:32:15.651000	0:32:16.678000
@@ -7631,9 +7631,9 @@ Dialekt	-	-	-	0:32:17.645000	0:32:18.678000
 nein	-	-	-	0:32:18.678000	0:32:19.178000
 nein	-	-	-	0:32:18.678000	0:32:19.178000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:19.178000" end="0:32:19.451000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:19.178000" end="0:32:19.451000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:19.451000" end="0:32:20.985000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:19.451000" end="0:32:20.985000" age_lower="65" age_upper="999">
 da	-	-	-	0:32:19.451000	0:32:20.985000
 hat	-	-	-	0:32:19.451000	0:32:20.985000
 es	-	-	-	0:32:19.451000	0:32:20.985000
@@ -7642,7 +7642,7 @@ Hochdeutsch	-	-	-	0:32:19.451000	0:32:20.985000
 geben	-	-	-	0:32:19.451000	0:32:20.985000
 nein	-	-	-	0:32:19.451000	0:32:20.985000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:19.891000" end="0:32:23.198000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:19.891000" end="0:32:23.198000" age_lower="1" age_upper="999">
 und	-	-	-	0:32:19.891000	0:32:22.231000
 wie	-	-	-	0:32:19.891000	0:32:22.231000
 haben	-	-	-	0:32:19.891000	0:32:22.231000
@@ -7653,23 +7653,23 @@ gesprochen	-	-	-	0:32:19.891000	0:32:22.231000
 als	-	-	-	0:32:22.231000	0:32:23.198000
 Kind	-	-	-	0:32:22.231000	0:32:23.198000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:22.231000" end="0:32:23.831000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:22.231000" end="0:32:23.831000" age_lower="65" age_upper="999">
 auch	-	-	-	0:32:22.231000	0:32:23.831000
 sicher	-	-	-	0:32:22.231000	0:32:23.831000
 auch	-	-	-	0:32:22.231000	0:32:23.831000
 Dialekt	-	-	-	0:32:22.231000	0:32:23.831000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:23.198000" end="0:32:24.451000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:23.198000" end="0:32:24.451000" age_lower="1" age_upper="999">
 auch	-	-	-	0:32:23.198000	0:32:24.451000
 Dialekt	-	-	-	0:32:23.198000	0:32:24.451000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:23.831000" end="0:32:25.058000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:23.831000" end="0:32:25.058000" age_lower="65" age_upper="999">
 auch	-	-	-	0:32:23.831000	0:32:24.598000
 Dialekt	-	-	-	0:32:23.831000	0:32:24.598000
 ja	-	-	-	0:32:24.598000	0:32:25.058000
 ja	-	-	-	0:32:24.598000	0:32:25.058000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:25.058000" end="0:32:31.551000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:25.058000" end="0:32:31.551000" age_lower="1" age_upper="999">
 haben	-	-	-	0:32:25.058000	0:32:31.551000
 Sie	-	-	-	0:32:25.058000	0:32:31.551000
 den	-	-	-	0:32:25.058000	0:32:31.551000
@@ -7685,7 +7685,7 @@ Sprechweise	-	-	-	0:32:25.058000	0:32:31.551000
 geändert	-	-	-	0:32:25.058000	0:32:31.551000
 hat	-	-	-	0:32:25.058000	0:32:31.551000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:31.551000" end="0:32:36.958000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:31.551000" end="0:32:36.958000" age_lower="65" age_upper="999">
 nein	-	-	-	0:32:31.551000	0:32:33.498000
 ja	-	-	-	0:32:31.551000	0:32:33.498000
 sicher	-	-	-	0:32:31.551000	0:32:33.498000
@@ -7700,9 +7700,9 @@ Klosterschule	-	-	-	0:32:33.498000	0:32:36.958000
 gegangen	-	-	-	0:32:33.498000	0:32:36.958000
 bin	-	-	-	0:32:33.498000	0:32:36.958000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:36.958000" end="0:32:37.518000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:36.958000" end="0:32:37.518000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:36.958000" end="0:32:41.618000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:36.958000" end="0:32:41.618000" age_lower="65" age_upper="999">
 also	-	-	-	0:32:36.958000	0:32:40.711000
 da	-	-	-	0:32:36.958000	0:32:40.711000
 hat	-	-	-	0:32:36.958000	0:32:40.711000
@@ -7718,9 +7718,9 @@ jeden	-	-	-	0:32:40.711000	0:32:41.371000
 Fall	-	-	-	0:32:40.711000	0:32:41.371000
 nicht	-	-	-	0:32:41.371000	0:32:41.618000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:41.618000" end="0:32:42.165000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:41.618000" end="0:32:42.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:41.618000" end="0:32:46.391000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:41.618000" end="0:32:46.391000" age_lower="65" age_upper="999">
 meine	-	-	-	0:32:41.618000	0:32:43.491000
 so	-	-	-	0:32:41.618000	0:32:43.491000
 kann	-	-	-	0:32:41.618000	0:32:43.491000
@@ -7739,9 +7739,9 @@ auf	-	-	-	0:32:45.645000	0:32:46.211000
 jeden	-	-	-	0:32:45.645000	0:32:46.211000
 Fall	-	-	-	0:32:45.645000	0:32:46.211000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:46.391000" end="0:32:46.905000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:46.391000" end="0:32:46.905000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:46.391000" end="0:32:51.278000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:46.391000" end="0:32:51.278000" age_lower="65" age_upper="999">
 da	-	-	-	0:32:46.391000	0:32:47.431000
 wurde	-	-	-	0:32:46.391000	0:32:47.431000
 auch	-	-	-	0:32:46.391000	0:32:47.431000
@@ -7761,17 +7761,17 @@ bisschen	-	-	-	0:32:48.305000	0:32:51.078000
 natürlich	-	-	-	0:32:48.305000	0:32:51.078000
 Kirche	-	-	-	0:32:48.305000	0:32:51.078000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:51.278000" end="0:32:51.845000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:51.278000" end="0:32:51.845000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:51.278000	0:32:51.845000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:51.278000" end="0:32:51.845000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:51.278000" end="0:32:51.845000" age_lower="65" age_upper="999">
 klar	-	-	-	0:32:51.278000	0:32:51.845000
 nicht	-	-	-	0:32:51.278000	0:32:51.845000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:51.845000" end="0:32:52.105000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:51.845000" end="0:32:52.105000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:51.845000	0:32:52.105000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:52.105000" end="0:32:59.318000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:52.105000" end="0:32:59.318000" age_lower="65" age_upper="999">
 und	-	-	-	0:32:52.105000	0:32:54.005000
 dann	-	-	-	0:32:52.105000	0:32:54.005000
 im	-	-	-	0:32:52.105000	0:32:54.005000
@@ -7796,10 +7796,10 @@ reine	-	-	-	0:32:57.125000	0:32:59.318000
 Mädchen	-	-	-	0:32:57.125000	0:32:59.318000
 Mädchenklasse	-	-	-	0:32:57.125000	0:32:59.318000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:59.318000" end="0:32:59.591000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:32:59.318000" end="0:32:59.591000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:59.318000	0:32:59.591000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:59.591000" end="0:33:01.538000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:32:59.591000" end="0:33:01.538000" age_lower="65" age_upper="999">
 ober	-	-	-	0:32:59.591000	0:33:01.538000
 da	-	-	-	0:32:59.591000	0:33:01.538000
 haben	-	-	-	0:32:59.591000	0:33:01.538000
@@ -7810,7 +7810,7 @@ unseren	-	-	-	0:32:59.591000	0:33:01.538000
 Dialekt	-	-	-	0:32:59.591000	0:33:01.538000
 gesprochen	-	-	-	0:32:59.591000	0:33:01.538000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:01.051000" end="0:33:03.191000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:01.051000" end="0:33:03.191000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:01.051000	0:33:01.538000
 da	-	-	-	0:33:01.538000	0:33:03.191000
 ist	-	-	-	0:33:01.538000	0:33:03.191000
@@ -7820,7 +7820,7 @@ wieder	-	-	-	0:33:01.538000	0:33:03.191000
 umgekehrt	-	-	-	0:33:01.538000	0:33:03.191000
 worden	-	-	-	0:33:01.538000	0:33:03.191000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:01.538000" end="0:33:03.858000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:01.538000" end="0:33:03.858000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:33:01.538000	0:33:01.958000
 jaja	-	-	-	0:33:01.958000	0:33:02.385000
 da	-	-	-	0:33:02.385000	0:33:03.858000
@@ -7830,13 +7830,13 @@ es	-	-	-	0:33:02.385000	0:33:03.858000
 wieder	-	-	-	0:33:02.385000	0:33:03.858000
 umgekehrt	-	-	-	0:33:02.385000	0:33:03.858000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:03.191000" end="0:33:03.858000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:03.191000" end="0:33:03.858000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:03.858000" end="0:33:04.525000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:03.858000" end="0:33:04.525000" age_lower="65" age_upper="999">
 genau	-	-	-	0:33:03.858000	0:33:04.525000
 richtig	-	-	-	0:33:03.858000	0:33:04.525000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:04.525000" end="0:33:09.025000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:04.525000" end="0:33:09.025000" age_lower="1" age_upper="999">
 und	-	-	-	0:33:04.525000	0:33:09.025000
 w	-	-	-	0:33:04.525000	0:33:09.025000
 wie	-	-	-	0:33:04.525000	0:33:09.025000
@@ -7850,10 +7850,10 @@ Schule	-	-	-	0:33:04.525000	0:33:09.025000
 gesprochen	-	-	-	0:33:04.525000	0:33:09.025000
 wurde	-	-	-	0:33:04.525000	0:33:09.025000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:04.525000" end="0:33:04.925000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:04.525000" end="0:33:04.925000" age_lower="65" age_upper="999">
 ja	-	-	-	0:33:04.525000	0:33:04.925000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:09.025000" end="0:33:15.358000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:09.025000" end="0:33:15.358000" age_lower="1" age_upper="999">
 also	-	-	-	0:33:09.025000	0:33:11.131000
 jetzt	-	-	-	0:33:09.025000	0:33:11.131000
 in	-	-	-	0:33:09.025000	0:33:11.131000
@@ -7876,11 +7876,11 @@ eh	-	-	-	0:33:13.258000	0:33:15.358000
 schon	-	-	-	0:33:13.258000	0:33:15.358000
 gesagt	-	-	-	0:33:13.258000	0:33:15.358000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:15.091000" end="0:33:15.638000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:15.091000" end="0:33:15.638000" age_lower="65" age_upper="999">
 ja	-	-	-	0:33:15.091000	0:33:15.638000
 ja	-	-	-	0:33:15.091000	0:33:15.638000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:15.638000" end="0:33:21.391000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:15.638000" end="0:33:21.391000" age_lower="1" age_upper="999">
 das	-	-	-	0:33:15.638000	0:33:18.991000
 wurde	-	-	-	0:33:15.638000	0:33:18.991000
 dann	-	-	-	0:33:15.638000	0:33:18.991000
@@ -7896,7 +7896,7 @@ die	-	-	-	0:33:18.991000	0:33:21.391000
 Lehrer	-	-	-	0:33:18.991000	0:33:21.391000
 gesprochen	-	-	-	0:33:18.991000	0:33:21.391000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:21.391000" end="0:33:39.885000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:21.391000" end="0:33:39.885000" age_lower="65" age_upper="999">
 nein	-	-	-	0:33:21.391000	0:33:23.291000
 die	-	-	-	0:33:21.391000	0:33:23.291000
 Lehrer	-	-	-	0:33:21.391000	0:33:23.291000
@@ -7942,10 +7942,10 @@ die	-	-	-	0:33:37.458000	0:33:39.685000
 hauptgegenstände	-	-	-	0:33:37.458000	0:33:39.685000
 jetzt	-	-	-	0:33:37.458000	0:33:39.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:39.885000" end="0:33:40.598000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:39.885000" end="0:33:40.598000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:39.885000	0:33:40.598000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:39.885000" end="0:33:43.065000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:39.885000" end="0:33:43.065000" age_lower="65" age_upper="999">
 wenn	-	-	-	0:33:39.885000	0:33:40.411000
 man	-	-	-	0:33:39.885000	0:33:40.411000
 nimmt	-	-	-	0:33:39.885000	0:33:40.411000
@@ -7960,15 +7960,15 @@ war	-	-	-	0:33:41.845000	0:33:43.065000
 sicher	-	-	-	0:33:41.845000	0:33:43.065000
 Hochdeutsch	-	-	-	0:33:41.845000	0:33:43.065000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:43.065000" end="0:33:43.525000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:43.065000" end="0:33:43.525000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:43.065000	0:33:43.525000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:43.065000" end="0:33:43.765000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:43.065000" end="0:33:43.765000" age_lower="65" age_upper="999">
 ja	-	-	-	0:33:43.065000	0:33:43.765000
 ja	-	-	-	0:33:43.065000	0:33:43.765000
 ja	-	-	-	0:33:43.065000	0:33:43.765000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:43.765000" end="0:33:47.118000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:43.765000" end="0:33:47.118000" age_lower="1" age_upper="999">
 und	-	-	-	0:33:43.765000	0:33:47.118000
 wie	-	-	-	0:33:43.765000	0:33:47.118000
 sollten	-	-	-	0:33:43.765000	0:33:47.118000
@@ -7978,19 +7978,19 @@ nach	-	-	-	0:33:43.765000	0:33:47.118000
 Lehrer	-	-	-	0:33:43.765000	0:33:47.118000
 sprechen	-	-	-	0:33:43.765000	0:33:47.118000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:43.765000" end="0:33:45.011000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:43.765000" end="0:33:45.011000" age_lower="65" age_upper="999">
 ja	-	-	-	0:33:43.765000	0:33:45.011000
 ja	-	-	-	0:33:43.765000	0:33:45.011000
 ja	-	-	-	0:33:43.765000	0:33:45.011000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:47.118000" end="0:33:48.918000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:47.118000" end="0:33:48.918000" age_lower="1" age_upper="999">
 haben	-	-	-	0:33:47.118000	0:33:48.918000
 Sie	-	-	-	0:33:47.118000	0:33:48.918000
 da	-	-	-	0:33:47.118000	0:33:48.918000
 eine	-	-	-	0:33:47.118000	0:33:48.918000
 Meinung	-	-	-	0:33:47.118000	0:33:48.918000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:48.358000" end="0:33:50.431000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:48.358000" end="0:33:50.431000" age_lower="65" age_upper="999">
 nein	-	-	-	0:33:48.358000	0:33:49.151000
 schon	-	-	-	0:33:48.358000	0:33:49.151000
 Hochdeutsch	-	-	-	0:33:48.358000	0:33:49.151000
@@ -8001,26 +8001,26 @@ der	-	-	-	0:33:49.151000	0:33:50.431000
 Meinung	-	-	-	0:33:49.151000	0:33:50.431000
 ja	-	-	-	0:33:49.151000	0:33:50.431000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:50.431000" end="0:33:51.411000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:50.431000" end="0:33:51.411000" age_lower="1" age_upper="999">
 schon	-	-	-	0:33:50.431000	0:33:51.411000
 Hochdeutsch	-	-	-	0:33:50.431000	0:33:51.411000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:50.431000" end="0:33:51.411000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:50.431000" end="0:33:51.411000" age_lower="65" age_upper="999">
 die	-	-	-	0:33:50.431000	0:33:51.411000
 sollten	-	-	-	0:33:50.431000	0:33:51.411000
 ja	-	-	-	0:33:50.431000	0:33:51.411000
 ja	-	-	-	0:33:50.431000	0:33:51.411000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:51.411000" end="0:33:51.785000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:51.411000" end="0:33:51.785000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:51.785000" end="0:33:53.538000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:51.785000" end="0:33:53.538000" age_lower="65" age_upper="999">
 sollten	-	-	-	0:33:51.785000	0:33:53.538000
 Hochdeutsch	-	-	-	0:33:51.785000	0:33:53.538000
 reden	-	-	-	0:33:51.785000	0:33:53.538000
 ja	-	-	-	0:33:51.785000	0:33:53.538000
 ja	-	-	-	0:33:51.785000	0:33:53.538000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:53.538000" end="0:33:58.545000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:33:53.538000" end="0:33:58.545000" age_lower="1" age_upper="999">
 und	-	-	-	0:33:53.538000	0:33:55.391000
 mit	-	-	-	0:33:53.538000	0:33:55.391000
 Eintritt	-	-	-	0:33:53.538000	0:33:55.391000
@@ -8037,7 +8037,7 @@ ihrer	-	-	-	0:33:55.391000	0:33:58.545000
 Sprechweise	-	-	-	0:33:55.391000	0:33:58.545000
 verändert	-	-	-	0:33:55.391000	0:33:58.545000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:58.151000" end="0:34:05.431000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:33:58.151000" end="0:34:05.431000" age_lower="65" age_upper="999">
 ja	-	-	-	0:33:58.151000	0:33:58.858000
 natürlich	-	-	-	0:33:58.151000	0:33:58.858000
 weil	-	-	-	0:33:58.858000	0:34:00.091000
@@ -8064,9 +8064,9 @@ Beispiel	-	-	-	0:34:03.178000	0:34:04.518000
 das	-	-	-	0:34:04.745000	0:34:05.431000
 ist	-	-	-	0:34:04.745000	0:34:05.431000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:05.431000" end="0:34:06.351000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:05.431000" end="0:34:06.351000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:05.431000" end="0:34:11.110000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:05.431000" end="0:34:11.110000" age_lower="65" age_upper="999">
 und	-	-	-	0:34:05.431000	0:34:09.505000
 mit	-	-	-	0:34:05.431000	0:34:09.505000
 dem	-	-	-	0:34:05.431000	0:34:09.505000
@@ -8083,11 +8083,11 @@ hochdeutsch	-	-	-	0:34:09.505000	0:34:11.110000
 gesprochen	-	-	-	0:34:09.505000	0:34:11.110000
 haben	-	-	-	0:34:09.505000	0:34:11.110000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:10.838000" end="0:34:12.145000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:10.838000" end="0:34:12.145000" age_lower="1" age_upper="999">
 immer	-	-	-	0:34:10.838000	0:34:11.710000
 Hochdeutsch	-	-	-	0:34:10.838000	0:34:11.710000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:12.145000" end="0:34:18.625000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:12.145000" end="0:34:18.625000" age_lower="65" age_upper="999">
 ah	-	-	-	0:34:12.145000	0:34:14.610000
 wobei	-	-	-	0:34:12.145000	0:34:14.610000
 ah	-	-	-	0:34:12.145000	0:34:14.610000
@@ -8108,9 +8108,9 @@ tagtäglich	-	-	-	0:34:16.297000	0:34:18.478000
 gekommen	-	-	-	0:34:16.297000	0:34:18.478000
 sind	-	-	-	0:34:16.297000	0:34:18.478000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:18.625000" end="0:34:19.245000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:18.625000" end="0:34:19.245000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:18.625000" end="0:34:27.791000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:18.625000" end="0:34:27.791000" age_lower="65" age_upper="999">
 da	-	-	-	0:34:18.625000	0:34:19.818000
 hat	-	-	-	0:34:18.625000	0:34:19.818000
 man	-	-	-	0:34:18.625000	0:34:19.818000
@@ -8147,11 +8147,11 @@ wieder	-	-	-	0:34:25.771000	0:34:27.791000
 das	-	-	-	0:34:25.771000	0:34:27.791000
 ORT	ORT	-	-	0:34:25.771000	0:34:27.791000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:27.257000" end="0:34:28.110000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:27.257000" end="0:34:28.110000" age_lower="1" age_upper="999">
 das	-	-	-	0:34:27.257000	0:34:28.110000
 ORT	ORT	-	-	0:34:27.257000	0:34:28.110000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:27.791000" end="0:34:31.665000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:27.791000" end="0:34:31.665000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:34:27.791000	0:34:27.931000
 aber	-	-	-	0:34:28.110000	0:34:28.844000
 in	-	-	-	0:34:28.110000	0:34:28.844000
@@ -8167,10 +8167,10 @@ auch	-	-	-	0:34:28.844000	0:34:31.665000
 kassatätigkeit	-	-	-	0:34:28.844000	0:34:31.665000
 gemacht	-	-	-	0:34:28.844000	0:34:31.665000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:31.665000" end="0:34:31.911000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:31.665000" end="0:34:31.911000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:31.665000	0:34:31.911000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:31.911000" end="0:34:34.264000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:31.911000" end="0:34:34.264000" age_lower="65" age_upper="999">
 da	-	-	-	0:34:31.911000	0:34:33.058000
 habe	-	-	-	0:34:31.911000	0:34:33.058000
 ich	-	-	-	0:34:31.911000	0:34:33.058000
@@ -8182,14 +8182,14 @@ jaja	-	-	-	0:34:33.058000	0:34:33.725000
 klar	-	-	-	0:34:33.725000	0:34:33.985000
 ja	-	-	-	0:34:33.985000	0:34:34.264000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:34.264000" end="0:34:34.578000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:34.264000" end="0:34:34.578000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:34.264000	0:34:34.578000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:34.264000" end="0:34:34.777000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:34.264000" end="0:34:34.777000" age_lower="65" age_upper="999">
 ja	-	-	-	0:34:34.264000	0:34:34.578000
 ja	-	-	-	0:34:34.578000	0:34:34.777000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:34.777000" end="0:34:49.610000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:34.777000" end="0:34:49.610000" age_lower="1" age_upper="999">
 und	-	-	-	0:34:34.777000	0:34:36.625000
 haben	-	-	-	0:34:36.625000	0:34:40.398000
 Sie	-	-	-	0:34:36.625000	0:34:40.398000
@@ -8222,7 +8222,7 @@ ins	-	-	-	0:34:46.458000	0:34:49.610000
 häuslichere	-	-	-	0:34:46.458000	0:34:49.610000
 Leben	-	-	-	0:34:46.458000	0:34:49.610000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:49.610000" end="0:34:54.971000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:49.610000" end="0:34:54.971000" age_lower="65" age_upper="999">
 nein	-	-	-	0:34:49.610000	0:34:51.170000
 ja	-	-	-	0:34:49.610000	0:34:51.170000
 schon	-	-	-	0:34:49.610000	0:34:51.170000
@@ -8243,16 +8243,16 @@ zum	-	-	-	0:34:51.170000	0:34:54.971000
 zum	-	-	-	0:34:51.170000	0:34:54.971000
 arbeiten	-	-	-	0:34:51.170000	0:34:54.971000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:54.225000" end="0:34:54.971000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:54.225000" end="0:34:54.971000" age_lower="1" age_upper="999">
 genau	-	-	-	0:34:54.225000	0:34:54.971000
 genau	-	-	-	0:34:54.225000	0:34:54.971000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:54.971000" end="0:34:55.190000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:54.971000" end="0:34:55.190000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:55.190000" end="0:34:55.811000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:55.190000" end="0:34:55.811000" age_lower="1" age_upper="999">
 deswegen	-	-	-	0:34:55.190000	0:34:55.811000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:55.190000" end="0:34:58.091000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:55.190000" end="0:34:58.091000" age_lower="65" age_upper="999">
 da	-	-	-	0:34:55.190000	0:34:55.811000
 nicht	-	-	-	0:34:55.811000	0:34:57.211000
 viel	-	-	-	0:34:55.811000	0:34:57.211000
@@ -8260,18 +8260,18 @@ nein	-	-	-	0:34:57.211000	0:34:57.498000
 nicht	-	-	-	0:34:57.498000	0:34:58.091000
 viel	-	-	-	0:34:57.498000	0:34:58.091000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:58.091000" end="0:34:58.925000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:58.091000" end="0:34:58.925000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:58.091000	0:34:58.925000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:58.091000" end="0:34:59.178000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:58.091000" end="0:34:59.178000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:34:58.091000	0:34:58.925000
 viel	-	-	-	0:34:58.091000	0:34:58.925000
 nicht	-	-	-	0:34:58.925000	0:34:59.178000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:59.178000" end="0:34:59.665000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:34:59.178000" end="0:34:59.665000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:59.178000	0:34:59.665000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:59.665000" end="0:35:09.598000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:34:59.665000" end="0:35:09.598000" age_lower="65" age_upper="999">
 nur	-	-	-	0:34:59.665000	0:35:00.911000
 dass	-	-	-	0:34:59.665000	0:35:00.911000
 ich	-	-	-	0:34:59.665000	0:35:00.911000
@@ -8310,9 +8310,9 @@ das	-	-	-	0:35:07.251000	0:35:09.598000
 ORT	ORT	-	-	0:35:07.251000	0:35:09.598000
 geredet	-	-	-	0:35:07.251000	0:35:09.598000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:09.598000" end="0:35:10.538000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:09.598000" end="0:35:10.538000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:09.598000" end="0:35:14.191000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:09.598000" end="0:35:14.191000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:35:09.598000	0:35:09.871000
 so	-	-	-	0:35:10.411000	0:35:12.131000
 wie	-	-	-	0:35:10.411000	0:35:12.131000
@@ -8329,17 +8329,17 @@ Kunde	-	-	-	0:35:12.131000	0:35:14.191000
 gekommen	-	-	-	0:35:12.131000	0:35:14.191000
 ist	-	-	-	0:35:12.131000	0:35:14.191000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:14.191000" end="0:35:15.251000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:14.191000" end="0:35:15.251000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:14.598000" end="0:35:15.965000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:14.598000" end="0:35:15.965000" age_lower="65" age_upper="999">
 guten	-	-	-	0:35:14.598000	0:35:15.965000
 Tag	-	-	-	0:35:14.598000	0:35:15.965000
 Herr	-	-	-	0:35:14.598000	0:35:15.965000
 kommerzialrat	-	-	-	0:35:14.598000	0:35:15.965000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:15.965000" end="0:35:16.925000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:15.965000" end="0:35:16.925000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:15.965000" end="0:35:18.078000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:15.965000" end="0:35:18.078000" age_lower="65" age_upper="999">
 zum	-	-	-	0:35:15.965000	0:35:16.925000
 Beispiel	-	-	-	0:35:15.965000	0:35:16.925000
 war	-	-	-	0:35:15.965000	0:35:16.925000
@@ -8351,10 +8351,10 @@ auch	-	-	-	0:35:17.198000	0:35:17.831000
 gehabe	-	-	-	0:35:17.198000	0:35:17.831000
 nicht	-	-	-	0:35:17.831000	0:35:18.078000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:18.078000" end="0:35:18.565000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:18.078000" end="0:35:18.565000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:18.078000	0:35:18.565000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:18.565000" end="0:35:26.805000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:18.565000" end="0:35:26.805000" age_lower="65" age_upper="999">
 klorerweise	-	-	-	0:35:18.565000	0:35:19.185000
 nicht	-	-	-	0:35:19.185000	0:35:19.371000
 und	-	-	-	0:35:19.371000	0:35:20.965000
@@ -8382,7 +8382,7 @@ ja	-	-	-	0:35:25.338000	0:35:26.805000
 ja	-	-	-	0:35:25.338000	0:35:26.805000
 ja	-	-	-	0:35:25.338000	0:35:26.805000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:25.951000" end="0:35:33.718000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:25.951000" end="0:35:33.718000" age_lower="1" age_upper="999">
 und	-	-	-	0:35:26.805000	0:35:28.365000
 jetzt	-	-	-	0:35:26.805000	0:35:28.365000
 Sie	-	-	-	0:35:28.365000	0:35:33.718000
@@ -8393,16 +8393,16 @@ oder	-	-	-	0:35:28.365000	0:35:33.718000
 personenkreisen	-	-	-	0:35:28.365000	0:35:33.718000
 unterschiedlich	-	-	-	0:35:28.365000	0:35:33.718000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:33.718000" end="0:35:35.945000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:33.718000" end="0:35:35.945000" age_lower="65" age_upper="999">
 nein	-	-	-	0:35:33.718000	0:35:35.231000
 nein	-	-	-	0:35:35.231000	0:35:35.945000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:35.945000" end="0:35:36.871000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:35.945000" end="0:35:36.871000" age_lower="1" age_upper="999">
 mit	-	-	-	0:35:35.945000	0:35:36.871000
 allen	-	-	-	0:35:35.945000	0:35:36.871000
 gleich	-	-	-	0:35:35.945000	0:35:36.871000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:36.585000" end="0:35:45.918000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:36.585000" end="0:35:45.918000" age_lower="65" age_upper="999">
 nein	-	-	-	0:35:36.585000	0:35:36.871000
 also	-	-	-	0:35:36.871000	0:35:38.038000
 wie	-	-	-	0:35:36.871000	0:35:38.038000
@@ -8433,14 +8433,14 @@ die	-	-	-	0:35:43.298000	0:35:45.245000
 Absicht	-	-	-	0:35:43.298000	0:35:45.245000
 ha	-	-	-	0:35:45.245000	0:35:45.918000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:45.918000" end="0:35:47.165000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:45.918000" end="0:35:47.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:45.918000" end="0:35:47.165000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:45.918000" end="0:35:47.165000" age_lower="65" age_upper="999">
 wozu	-	-	-	0:35:45.918000	0:35:47.165000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:47.165000" end="0:35:48.178000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:47.165000" end="0:35:48.178000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:47.165000" end="0:35:51.398000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:47.165000" end="0:35:51.398000" age_lower="65" age_upper="999">
 wenn	-	-	-	0:35:48.178000	0:35:49.471000
 mich	-	-	-	0:35:48.178000	0:35:49.471000
 einer	-	-	-	0:35:48.178000	0:35:49.471000
@@ -8456,14 +8456,14 @@ halt	-	-	-	0:35:49.471000	0:35:51.225000
 nochfrong	-	-	-	0:35:49.471000	0:35:51.225000
 nicht	-	-	-	0:35:51.225000	0:35:51.398000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:51.398000" end="0:35:51.738000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:51.398000" end="0:35:51.738000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:51.398000	0:35:51.738000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:51.398000" end="0:35:52.398000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:51.398000" end="0:35:52.398000" age_lower="65" age_upper="999">
 wenn	-	-	-	0:35:51.738000	0:35:52.398000
 ich	-	-	-	0:35:51.738000	0:35:52.398000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:52.398000" end="0:35:58.965000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:35:52.398000" end="0:35:58.965000" age_lower="1" age_upper="999">
 und	-	-	-	0:35:52.398000	0:35:54.431000
 andere	-	-	-	0:35:52.398000	0:35:54.431000
 sprachen	-	-	-	0:35:52.398000	0:35:54.431000
@@ -8479,7 +8479,7 @@ oder	-	-	-	0:35:56.965000	0:35:58.965000
 eher	-	-	-	0:35:56.965000	0:35:58.965000
 nicht	-	-	-	0:35:56.965000	0:35:58.965000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:58.965000" end="0:36:06.105000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:35:58.965000" end="0:36:06.105000" age_lower="65" age_upper="999">
 nein	-	-	-	0:35:58.965000	0:35:59.665000
 eher	-	-	-	0:35:58.965000	0:35:59.665000
 nicht	-	-	-	0:35:58.965000	0:35:59.665000
@@ -8510,9 +8510,9 @@ irgendwas	-	-	-	0:36:03.998000	0:36:05.925000
 erklärt	-	-	-	0:36:03.998000	0:36:05.925000
 nicht	-	-	-	0:36:05.925000	0:36:06.105000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:06.105000" end="0:36:06.485000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:06.105000" end="0:36:06.485000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:06.485000" end="0:36:10.891000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:06.485000" end="0:36:10.891000" age_lower="65" age_upper="999">
 aber	-	-	-	0:36:06.485000	0:36:07.758000
 aber	-	-	-	0:36:06.485000	0:36:07.758000
 ansonsten	-	-	-	0:36:06.485000	0:36:07.758000
@@ -8527,10 +8527,10 @@ neusprachliches	-	-	-	0:36:07.758000	0:36:10.198000
 gegangen	-	-	-	0:36:07.758000	0:36:10.198000
 Gymnasium	-	-	-	0:36:10.345000	0:36:10.891000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:10.891000" end="0:36:11.358000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:10.891000" end="0:36:11.358000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:10.891000	0:36:11.358000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:10.891000" end="0:36:16.551000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:10.891000" end="0:36:16.551000" age_lower="65" age_upper="999">
 und	-	-	-	0:36:10.891000	0:36:12.285000
 Französisch	-	-	-	0:36:10.891000	0:36:12.285000
 gelernt	-	-	-	0:36:10.891000	0:36:12.285000
@@ -8549,10 +8549,10 @@ es	-	-	-	0:36:15.418000	0:36:16.551000
 ausdeitschen	-	-	-	0:36:15.418000	0:36:16.551000
 kann	-	-	-	0:36:15.418000	0:36:16.551000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:16.551000" end="0:36:17.111000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:16.551000" end="0:36:17.111000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:16.551000	0:36:17.111000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:16.551000" end="0:36:24.798000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:16.551000" end="0:36:24.798000" age_lower="65" age_upper="999">
 aber	-	-	-	0:36:16.551000	0:36:18.058000
 ah	-	-	-	0:36:16.551000	0:36:18.058000
 und	-	-	-	0:36:18.058000	0:36:19.438000
@@ -8576,9 +8576,9 @@ französischen	-	-	-	0:36:23.258000	0:36:24.491000
 kaum	-	-	-	0:36:23.258000	0:36:24.491000
 nicht	-	-	-	0:36:24.491000	0:36:24.798000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:24.798000" end="0:36:25.278000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:24.798000" end="0:36:25.278000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:25.278000" end="0:36:31.805000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:25.278000" end="0:36:31.805000" age_lower="65" age_upper="999">
 und	-	-	-	0:36:25.278000	0:36:26.125000
 latein	-	-	-	0:36:25.278000	0:36:26.125000
 ja	-	-	-	0:36:25.278000	0:36:26.125000
@@ -8601,11 +8601,11 @@ behalten	-	-	-	0:36:28.751000	0:36:30.618000
 sonst	-	-	-	0:36:30.771000	0:36:31.805000
 also	-	-	-	0:36:30.771000	0:36:31.805000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:31.805000" end="0:36:32.371000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:31.805000" end="0:36:32.371000" age_lower="1" age_upper="999">
 n	-	-	-	0:36:31.805000	0:36:32.371000
 ja	-	-	-	0:36:31.805000	0:36:32.371000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:32.371000" end="0:36:35.058000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:32.371000" end="0:36:35.058000" age_lower="65" age_upper="999">
 eigentlich	-	-	-	0:36:32.371000	0:36:33.125000
 nix	-	-	-	0:36:32.371000	0:36:33.125000
 mehr	-	-	-	0:36:32.371000	0:36:33.125000
@@ -8620,9 +8620,9 @@ weit	-	-	-	0:36:33.811000	0:36:35.058000
 auch	-	-	-	0:36:33.811000	0:36:35.058000
 her	-	-	-	0:36:33.811000	0:36:35.058000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:35.058000" end="0:36:35.751000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:35.058000" end="0:36:35.751000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:35.058000" end="0:36:41.938000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:35.058000" end="0:36:41.938000" age_lower="65" age_upper="999">
 nein	-	-	-	0:36:35.058000	0:36:35.605000
 nicht	-	-	-	0:36:35.058000	0:36:35.605000
 und	-	-	-	0:36:35.751000	0:36:37.871000
@@ -8646,12 +8646,12 @@ Italienisch	-	-	-	0:36:40.058000	0:36:41.938000
 auch	-	-	-	0:36:40.058000	0:36:41.938000
 kennen	-	-	-	0:36:40.058000	0:36:41.938000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:41.625000" end="0:36:42.585000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:41.625000" end="0:36:42.585000" age_lower="1" age_upper="999">
 ah	-	-	-	0:36:41.625000	0:36:41.938000
 okay	-	-	-	0:36:41.938000	0:36:42.585000
 ja	-	-	-	0:36:41.938000	0:36:42.585000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:41.938000" end="0:36:50.045000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:41.938000" end="0:36:50.045000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:36:41.938000	0:36:42.145000
 jaja	-	-	-	0:36:42.145000	0:36:42.585000
 das	-	-	-	0:36:42.585000	0:36:43.851000
@@ -8681,14 +8681,14 @@ da	-	-	-	0:36:48.805000	0:36:50.045000
 gleiche	-	-	-	0:36:48.805000	0:36:50.045000
 Sprachstamm	-	-	-	0:36:48.805000	0:36:50.045000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:49.485000" end="0:36:49.811000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:49.485000" end="0:36:49.811000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:50.045000" end="0:36:51.578000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:50.045000" end="0:36:51.578000" age_lower="65" age_upper="999">
 das	-	-	-	0:36:50.225000	0:36:51.578000
 ist	-	-	-	0:36:50.225000	0:36:51.578000
 nicht	-	-	-	0:36:50.225000	0:36:51.578000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:50.845000" end="0:36:52.878000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:50.845000" end="0:36:52.878000" age_lower="1" age_upper="999">
 es	-	-	-	0:36:50.845000	0:36:52.878000
 ist	-	-	-	0:36:50.845000	0:36:52.878000
 eine	-	-	-	0:36:50.845000	0:36:52.878000
@@ -8698,17 +8698,17 @@ sehr	-	-	-	0:36:50.845000	0:36:52.878000
 gute	-	-	-	0:36:50.845000	0:36:52.878000
 Basis	-	-	-	0:36:50.845000	0:36:52.878000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:51.578000" end="0:36:53.231000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:51.578000" end="0:36:53.231000" age_lower="65" age_upper="999">
 und	-	-	-	0:36:51.578000	0:36:52.418000
 und	-	-	-	0:36:51.578000	0:36:52.418000
 das	-	-	-	0:36:51.578000	0:36:52.418000
 war	-	-	-	0:36:51.578000	0:36:52.418000
 jaja	-	-	-	0:36:52.418000	0:36:53.231000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:52.878000" end="0:36:53.231000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:36:52.878000" end="0:36:53.231000" age_lower="1" age_upper="999">
 ja	-	-	-	0:36:52.878000	0:36:53.231000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:53.231000" end="0:37:12.358000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:36:53.231000" end="0:37:12.358000" age_lower="65" age_upper="999">
 das	-	-	-	0:36:53.231000	0:36:54.418000
 war	-	-	-	0:36:53.231000	0:36:54.418000
 das	-	-	-	0:36:53.231000	0:36:54.418000
@@ -8775,9 +8775,9 @@ was	-	-	-	0:37:10.231000	0:37:12.358000
 weiß	-	-	-	0:37:10.231000	0:37:12.358000
 ich	-	-	-	0:37:10.231000	0:37:12.358000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:10.725000" end="0:37:11.165000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:10.725000" end="0:37:11.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:12.358000" end="0:37:16.858000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:12.358000" end="0:37:16.858000" age_lower="65" age_upper="999">
 um	-	-	-	0:37:12.358000	0:37:13.885000
 die	-	-	-	0:37:12.358000	0:37:13.885000
 sechzig	-	-	-	0:37:12.358000	0:37:13.885000
@@ -8796,11 +8796,11 @@ nur	-	-	-	0:37:15.825000	0:37:16.858000
 für	-	-	-	0:37:15.825000	0:37:16.858000
 sich	-	-	-	0:37:15.825000	0:37:16.858000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:16.858000" end="0:37:17.878000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:16.858000" end="0:37:17.878000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:16.858000	0:37:17.878000
 sicher	-	-	-	0:37:16.858000	0:37:17.878000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:16.858000" end="0:37:29.678000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:16.858000" end="0:37:29.678000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:37:16.858000	0:37:18.071000
 dass	-	-	-	0:37:16.858000	0:37:18.071000
 ist	-	-	-	0:37:16.858000	0:37:18.071000
@@ -8845,29 +8845,29 @@ und	-	-	-	0:37:27.231000	0:37:29.678000
 so	-	-	-	0:37:27.231000	0:37:29.678000
 machen	-	-	-	0:37:27.231000	0:37:29.678000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:29.485000" end="0:37:29.931000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:29.485000" end="0:37:29.931000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:29.678000" end="0:37:29.931000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:29.678000" end="0:37:29.931000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:37:29.678000	0:37:29.931000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:29.931000" end="0:37:31.405000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:29.931000" end="0:37:31.405000" age_lower="1" age_upper="999">
 das	-	-	-	0:37:29.931000	0:37:31.405000
 ist	-	-	-	0:37:29.931000	0:37:31.405000
 sicher	-	-	-	0:37:29.931000	0:37:31.405000
 eine	-	-	-	0:37:29.931000	0:37:31.405000
 nette	-	-	-	0:37:29.931000	0:37:31.405000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:29.931000" end="0:37:31.685000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:29.931000" end="0:37:31.685000" age_lower="65" age_upper="999">
 also	-	-	-	0:37:29.931000	0:37:31.405000
 fa	-	-	-	0:37:29.931000	0:37:31.405000
 nicht	-	-	-	0:37:29.931000	0:37:31.405000
 nicht	-	-	-	0:37:31.405000	0:37:31.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:31.685000" end="0:37:32.865000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:31.685000" end="0:37:32.865000" age_lower="1" age_upper="999">
 ein	-	-	-	0:37:31.685000	0:37:32.865000
 nette	-	-	-	0:37:31.685000	0:37:32.865000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:31.685000" end="0:37:43.458000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:31.685000" end="0:37:43.458000" age_lower="65" age_upper="999">
 was	-	-	-	0:37:31.685000	0:37:33.458000
 man	-	-	-	0:37:31.685000	0:37:33.458000
 nämlich	-	-	-	0:37:31.685000	0:37:33.458000
@@ -8913,17 +8913,17 @@ und	-	-	-	0:37:42.171000	0:37:43.165000
 mündlich	-	-	-	0:37:42.171000	0:37:43.165000
 nicht	-	-	-	0:37:43.165000	0:37:43.458000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:43.458000" end="0:37:44.338000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:43.458000" end="0:37:44.338000" age_lower="1" age_upper="999">
 ah	-	-	-	0:37:43.458000	0:37:44.338000
 okay	-	-	-	0:37:43.458000	0:37:44.338000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:43.458000" end="0:37:44.338000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:43.458000" end="0:37:44.338000" age_lower="65" age_upper="999">
 und	-	-	-	0:37:43.458000	0:37:44.338000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:44.338000" end="0:37:44.651000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:37:44.338000" end="0:37:44.651000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:44.338000	0:37:44.651000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:44.338000" end="0:38:07.451000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:37:44.338000" end="0:38:07.451000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:37:44.338000	0:37:45.165000
 habe	-	-	-	0:37:44.338000	0:37:45.165000
 beides	-	-	-	0:37:44.338000	0:37:45.165000
@@ -9009,9 +9009,9 @@ habe	-	-	-	0:38:06.038000	0:38:07.265000
 Französisch	-	-	-	0:38:06.038000	0:38:07.265000
 genommen	-	-	-	0:38:06.038000	0:38:07.265000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:07.451000" end="0:38:08.025000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:07.451000" end="0:38:08.025000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:07.451000" end="0:38:16.411000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:07.451000" end="0:38:16.411000" age_lower="65" age_upper="999">
 und	-	-	-	0:38:07.451000	0:38:09.378000
 habe	-	-	-	0:38:07.451000	0:38:09.378000
 acht	-	-	-	0:38:07.451000	0:38:09.378000
@@ -9034,7 +9034,7 @@ schlecht	-	-	-	0:38:13.778000	0:38:15.398000
 nur	-	-	-	0:38:15.545000	0:38:16.411000
 so	-	-	-	0:38:15.545000	0:38:16.411000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:16.411000" end="0:38:19.285000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:16.411000" end="0:38:19.285000" age_lower="1" age_upper="999">
 und	-	-	-	0:38:16.411000	0:38:19.285000
 Französisch	-	-	-	0:38:16.411000	0:38:19.285000
 ist	-	-	-	0:38:16.411000	0:38:19.285000
@@ -9043,7 +9043,7 @@ auch	-	-	-	0:38:16.411000	0:38:19.285000
 so	-	-	-	0:38:16.411000	0:38:19.285000
 melodiös	-	-	-	0:38:16.411000	0:38:19.285000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:16.411000" end="0:38:18.645000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:16.411000" end="0:38:18.645000" age_lower="65" age_upper="999">
 dass	-	-	-	0:38:16.411000	0:38:18.645000
 man	-	-	-	0:38:16.411000	0:38:18.645000
 sagt	-	-	-	0:38:16.411000	0:38:18.645000
@@ -9053,7 +9053,7 @@ tut	-	-	-	0:38:16.411000	0:38:18.645000
 ein	-	-	-	0:38:16.411000	0:38:18.645000
 bisschen	-	-	-	0:38:16.411000	0:38:18.645000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:19.285000" end="0:38:21.845000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:19.285000" end="0:38:21.845000" age_lower="1" age_upper="999">
 weil	-	-	-	0:38:19.285000	0:38:21.845000
 Sie	-	-	-	0:38:19.285000	0:38:21.845000
 gesagt	-	-	-	0:38:19.285000	0:38:21.845000
@@ -9063,7 +9063,7 @@ schweizerische	-	-	-	0:38:19.285000	0:38:21.845000
 gefällt	-	-	-	0:38:19.285000	0:38:21.845000
 Ihnen	-	-	-	0:38:19.285000	0:38:21.845000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:19.285000" end="0:38:21.845000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:19.285000" end="0:38:21.845000" age_lower="65" age_upper="999">
 ist	-	-	-	0:38:19.285000	0:38:20.111000
 melodiös	-	-	-	0:38:19.285000	0:38:20.111000
 genau	-	-	-	0:38:20.111000	0:38:20.451000
@@ -9071,7 +9071,7 @@ Französisch	-	-	-	0:38:20.451000	0:38:21.185000
 ja	-	-	-	0:38:21.185000	0:38:21.845000
 genau	-	-	-	0:38:21.185000	0:38:21.845000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:21.845000" end="0:38:23.685000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:21.845000" end="0:38:23.685000" age_lower="1" age_upper="999">
 Französisch	-	-	-	0:38:21.845000	0:38:23.685000
 ist	-	-	-	0:38:21.845000	0:38:23.685000
 ja	-	-	-	0:38:21.845000	0:38:23.685000
@@ -9079,15 +9079,15 @@ auch	-	-	-	0:38:21.845000	0:38:23.685000
 sehr	-	-	-	0:38:21.845000	0:38:23.685000
 melidiös	-	-	-	0:38:21.845000	0:38:23.685000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:21.845000" end="0:38:23.685000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:21.845000" end="0:38:23.685000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:38:21.845000	0:38:22.487000
 Französisch	-	-	-	0:38:22.487000	0:38:23.685000
 ja	-	-	-	0:38:22.487000	0:38:23.685000
 genau	-	-	-	0:38:22.487000	0:38:23.685000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:23.685000" end="0:38:24.311000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:23.685000" end="0:38:24.311000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:23.685000" end="0:38:29.358000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:23.685000" end="0:38:29.358000" age_lower="65" age_upper="999">
 richtig	-	-	-	0:38:23.685000	0:38:24.105000
 nicht	-	-	-	0:38:24.105000	0:38:24.311000
 es	-	-	-	0:38:24.311000	0:38:25.571000
@@ -9111,10 +9111,10 @@ also	-	-	-	0:38:28.498000	0:38:29.145000
 heute	-	-	-	0:38:28.498000	0:38:29.145000
 nicht	-	-	-	0:38:29.145000	0:38:29.358000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:29.358000" end="0:38:29.731000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:29.358000" end="0:38:29.731000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:29.358000	0:38:29.731000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:29.358000" end="0:38:33.965000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:29.358000" end="0:38:33.965000" age_lower="65" age_upper="999">
 und	-	-	-	0:38:29.358000	0:38:30.411000
 und	-	-	-	0:38:29.358000	0:38:30.411000
 und	-	-	-	0:38:29.358000	0:38:30.411000
@@ -9132,15 +9132,15 @@ man	-	-	-	0:38:30.411000	0:38:33.965000
 es	-	-	-	0:38:30.411000	0:38:33.965000
 ausspricht	-	-	-	0:38:30.411000	0:38:33.965000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:33.618000" end="0:38:33.965000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:33.618000" end="0:38:33.965000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:33.618000	0:38:33.965000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:33.965000" end="0:38:34.198000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:33.965000" end="0:38:34.198000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:38:33.965000	0:38:34.198000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:34.198000" end="0:38:34.725000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:34.198000" end="0:38:34.725000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:34.725000" end="0:38:38.418000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:34.725000" end="0:38:38.418000" age_lower="65" age_upper="999">
 also	-	-	-	0:38:34.725000	0:38:35.871000
 und	-	-	-	0:38:34.725000	0:38:35.871000
 das	-	-	-	0:38:34.725000	0:38:35.871000
@@ -9156,9 +9156,9 @@ das	-	-	-	0:38:37.758000	0:38:38.418000
 stimmt	-	-	-	0:38:37.758000	0:38:38.418000
 ja	-	-	-	0:38:37.758000	0:38:38.418000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:38.265000" end="0:38:38.711000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:38:38.265000" end="0:38:38.711000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:38.418000" end="0:39:01.185000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:38:38.418000" end="0:39:01.185000" age_lower="65" age_upper="999">
 also	-	-	-	0:38:38.418000	0:38:39.665000
 das	-	-	-	0:38:38.418000	0:38:39.665000
 wäre	-	-	-	0:38:38.418000	0:38:39.665000
@@ -9244,9 +9244,9 @@ schon	-	-	-	0:38:58.371000	0:38:59.931000
 ah	-	-	-	0:38:59.931000	0:39:01.185000
 theologie	-	-	-	0:38:59.931000	0:39:01.185000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:01.185000" end="0:39:01.998000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:01.185000" end="0:39:01.998000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:01.998000" end="0:39:06.565000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:01.998000" end="0:39:06.565000" age_lower="65" age_upper="999">
 also	-	-	-	0:39:01.998000	0:39:03.671000
 als	-	-	-	0:39:01.998000	0:39:03.671000
 außerordentlicher	-	-	-	0:39:01.998000	0:39:03.671000
@@ -9261,17 +9261,17 @@ jeder	-	-	-	0:39:03.671000	0:39:06.565000
 hören	-	-	-	0:39:03.671000	0:39:06.565000
 kann	-	-	-	0:39:03.671000	0:39:06.565000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:06.565000" end="0:39:07.125000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:06.565000" end="0:39:07.125000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:06.565000	0:39:07.125000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:06.565000" end="0:39:07.125000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:06.565000" end="0:39:07.125000" age_lower="65" age_upper="999">
 die	-	-	-	0:39:06.791000	0:39:07.125000
 jeder	-	-	-	0:39:06.791000	0:39:07.125000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:07.125000" end="0:39:07.385000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:07.125000" end="0:39:07.385000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:07.125000	0:39:07.385000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:07.385000" end="0:39:18.458000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:07.385000" end="0:39:18.458000" age_lower="65" age_upper="999">
 und	-	-	-	0:39:07.385000	0:39:10.685000
 ich	-	-	-	0:39:07.385000	0:39:10.685000
 begeb	-	-	-	0:39:07.385000	0:39:10.685000
@@ -9302,10 +9302,10 @@ hohen	-	-	-	0:39:14.298000	0:39:18.458000
 Herren	-	-	-	0:39:14.298000	0:39:18.458000
 waren	-	-	-	0:39:14.298000	0:39:18.458000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:18.458000" end="0:39:18.971000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:18.458000" end="0:39:18.971000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:18.458000	0:39:18.971000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:18.458000" end="0:39:27.531000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:18.458000" end="0:39:27.531000" age_lower="65" age_upper="999">
 so	-	-	-	0:39:18.458000	0:39:18.971000
 bin	-	-	-	0:39:18.971000	0:39:20.958000
 dann	-	-	-	0:39:18.971000	0:39:20.958000
@@ -9338,9 +9338,9 @@ uns	-	-	-	0:39:26.198000	0:39:27.531000
 ganz	-	-	-	0:39:26.198000	0:39:27.531000
 foisch,>	-	-	-	0:39:26.198000	0:39:27.531000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:27.531000" end="0:39:28.085000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:27.531000" end="0:39:28.085000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:27.531000" end="0:39:35.698000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:27.531000" end="0:39:35.698000" age_lower="65" age_upper="999">
 also	-	-	-	0:39:27.531000	0:39:29.765000
 ein	-	-	-	0:39:27.531000	0:39:29.765000
 ein	-	-	-	0:39:27.531000	0:39:29.765000
@@ -9368,20 +9368,20 @@ fällt	-	-	-	0:39:33.651000	0:39:35.698000
 heute	-	-	-	0:39:33.651000	0:39:35.698000
 aus	-	-	-	0:39:33.651000	0:39:35.698000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:35.698000" end="0:39:36.925000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:35.698000" end="0:39:36.925000" age_lower="1" age_upper="999">
 mein	-	-	-	0:39:35.698000	0:39:36.925000
 Gott	-	-	-	0:39:35.698000	0:39:36.925000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:35.698000" end="0:39:37.151000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:35.698000" end="0:39:37.151000" age_lower="65" age_upper="999">
 eine	-	-	-	0:39:35.698000	0:39:36.487000
 ja	-	-	-	0:39:36.487000	0:39:36.925000
 ja	-	-	-	0:39:36.925000	0:39:37.151000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:37.151000" end="0:39:37.651000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:37.151000" end="0:39:37.651000" age_lower="1" age_upper="999">
 oh	-	-	-	0:39:37.151000	0:39:37.651000
 je	-	-	-	0:39:37.151000	0:39:37.651000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:37.151000" end="0:39:41.831000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:37.151000" end="0:39:41.831000" age_lower="65" age_upper="999">
 wie	-	-	-	0:39:37.151000	0:39:40.465000
 gesagt	-	-	-	0:39:37.151000	0:39:40.465000
 das	-	-	-	0:39:37.151000	0:39:40.465000
@@ -9400,9 +9400,9 @@ wirklich	-	-	-	0:39:40.465000	0:39:41.831000
 sage	-	-	-	0:39:40.465000	0:39:41.831000
 also	-	-	-	0:39:40.465000	0:39:41.831000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:40.678000" end="0:39:41.158000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:40.678000" end="0:39:41.158000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:41.831000" end="0:39:45.418000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:41.831000" end="0:39:45.418000" age_lower="65" age_upper="999">
 das	-	-	-	0:39:41.831000	0:39:43.238000
 waaren	-	-	-	0:39:41.831000	0:39:43.238000
 zwa	-	-	-	0:39:41.831000	0:39:43.238000
@@ -9415,7 +9415,7 @@ irgendwann	-	-	-	0:39:43.238000	0:39:45.418000
 in	-	-	-	0:39:43.238000	0:39:45.418000
 Angriff	-	-	-	0:39:43.238000	0:39:45.418000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:45.418000" end="0:39:48.571000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:45.418000" end="0:39:48.571000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:45.418000	0:39:48.571000
 da	-	-	-	0:39:45.418000	0:39:48.571000
 haben	-	-	-	0:39:45.418000	0:39:48.571000
@@ -9425,7 +9425,7 @@ eh	-	-	-	0:39:45.418000	0:39:48.571000
 viele	-	-	-	0:39:45.418000	0:39:48.571000
 Ideen	-	-	-	0:39:45.418000	0:39:48.571000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:46.458000" end="0:39:48.571000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:46.458000" end="0:39:48.571000" age_lower="65" age_upper="999">
 aber	-	-	-	0:39:46.458000	0:39:48.571000
 nur	-	-	-	0:39:46.458000	0:39:48.571000
 so	-	-	-	0:39:46.458000	0:39:48.571000
@@ -9434,9 +9434,9 @@ wirklich	-	-	-	0:39:46.458000	0:39:48.571000
 ja	-	-	-	0:39:46.458000	0:39:48.571000
 ja	-	-	-	0:39:46.458000	0:39:48.571000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:48.571000" end="0:39:48.938000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:48.571000" end="0:39:48.938000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:48.571000" end="0:39:50.884000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:48.571000" end="0:39:50.884000" age_lower="65" age_upper="999">
 ja	-	-	-	0:39:48.571000	0:39:48.938000
 ja	-	-	-	0:39:48.938000	0:39:49.751000
 Ideen	-	-	-	0:39:48.938000	0:39:49.751000
@@ -9445,9 +9445,9 @@ waaren	-	-	-	0:39:49.751000	0:39:50.884000
 eh	-	-	-	0:39:49.751000	0:39:50.884000
 ja	-	-	-	0:39:49.751000	0:39:50.884000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:50.884000" end="0:39:51.471000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:50.884000" end="0:39:51.471000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:50.884000" end="0:39:54.011000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:50.884000" end="0:39:54.011000" age_lower="65" age_upper="999">
 ja	-	-	-	0:39:50.884000	0:39:51.178000
 waaren	-	-	-	0:39:51.471000	0:39:52.111000
 eh	-	-	-	0:39:51.471000	0:39:52.111000
@@ -9459,9 +9459,9 @@ es	-	-	-	0:39:52.111000	0:39:53.831000
 halt	-	-	-	0:39:52.111000	0:39:53.831000
 einmal	-	-	-	0:39:52.111000	0:39:53.831000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:54.011000" end="0:39:54.804000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:39:54.011000" end="0:39:54.804000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:54.011000" end="0:40:10.838000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:39:54.011000" end="0:40:10.838000" age_lower="65" age_upper="999">
 also	-	-	-	0:39:54.011000	0:39:54.571000
 das	-	-	-	0:39:54.804000	0:39:56.438000
 das	-	-	-	0:39:54.804000	0:39:56.438000
@@ -9527,24 +9527,24 @@ gehirn	-	-	-	0:40:09.024000	0:40:10.838000
 auch	-	-	-	0:40:09.024000	0:40:10.838000
 tun	-	-	-	0:40:09.024000	0:40:10.838000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:10.838000" end="0:40:11.524000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:10.838000" end="0:40:11.524000" age_lower="1" age_upper="999">
 sicher	-	-	-	0:40:10.838000	0:40:11.524000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:10.838000" end="0:40:11.991000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:10.838000" end="0:40:11.991000" age_lower="65" age_upper="999">
 was	-	-	-	0:40:10.838000	0:40:11.778000
 nicht	-	-	-	0:40:10.838000	0:40:11.778000
 schlecht	-	-	-	0:40:10.838000	0:40:11.778000
 waar	-	-	-	0:40:10.838000	0:40:11.778000
 nicht	-	-	-	0:40:11.778000	0:40:11.991000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:11.991000" end="0:40:12.938000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:11.991000" end="0:40:12.938000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:11.991000" end="0:40:12.938000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:11.991000" end="0:40:12.938000" age_lower="65" age_upper="999">
 ne	-	-	-	0:40:11.991000	0:40:12.938000
 ne	-	-	-	0:40:11.991000	0:40:12.938000
 ne	-	-	-	0:40:11.991000	0:40:12.938000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:12.938000" end="0:40:19.111000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:12.938000" end="0:40:19.111000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:40:12.938000	0:40:19.111000
 wir	-	-	-	0:40:12.938000	0:40:19.111000
 jetzt	-	-	-	0:40:12.938000	0:40:19.111000
@@ -9559,9 +9559,9 @@ sprechen	-	-	-	0:40:12.938000	0:40:19.111000
 kommen	-	-	-	0:40:12.938000	0:40:19.111000
 könnten	-	-	-	0:40:12.938000	0:40:19.111000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:17.718000" end="0:40:18.891000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:17.718000" end="0:40:18.891000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:19.111000" end="0:40:20.338000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:19.111000" end="0:40:20.338000" age_lower="1" age_upper="999">
 das	-	-	-	0:40:19.111000	0:40:20.338000
 ist	-	-	-	0:40:19.111000	0:40:20.338000
 ja	-	-	-	0:40:19.111000	0:40:20.338000
@@ -9569,36 +9569,36 @@ auch	-	-	-	0:40:19.111000	0:40:20.338000
 das	-	-	-	0:40:19.111000	0:40:20.338000
 Projekt	-	-	-	0:40:19.111000	0:40:20.338000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:19.111000" end="0:40:20.338000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:19.111000" end="0:40:20.338000" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:19.111000	0:40:20.338000
 ja	-	-	-	0:40:19.111000	0:40:20.338000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:20.338000" end="0:40:21.164000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:20.338000" end="0:40:21.164000" age_lower="1" age_upper="999">
 in	-	-	-	0:40:20.338000	0:40:21.164000
 dem	-	-	-	0:40:20.338000	0:40:21.164000
 ich	-	-	-	0:40:20.338000	0:40:21.164000
 Arbeit	-	-	-	0:40:20.338000	0:40:21.164000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:20.338000" end="0:40:21.164000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:20.338000" end="0:40:21.164000" age_lower="65" age_upper="999">
 jajaja	-	-	-	0:40:20.338000	0:40:21.164000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:21.164000" end="0:40:22.224000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:21.164000" end="0:40:22.224000" age_lower="1" age_upper="999">
 mit	-	-	-	0:40:21.164000	0:40:22.224000
 ORT	ORT	-	-	0:40:21.164000	0:40:22.224000
 und	-	-	-	0:40:21.164000	0:40:22.224000
 ORT	ORT	-	-	0:40:21.164000	0:40:22.224000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:21.164000" end="0:40:22.658000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:21.164000" end="0:40:22.658000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:40:21.164000	0:40:21.904000
 jaja	-	-	-	0:40:21.164000	0:40:21.904000
 jaja	-	-	-	0:40:22.224000	0:40:22.658000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:22.658000" end="0:40:23.444000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:22.658000" end="0:40:23.444000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:22.658000" end="0:40:23.078000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:22.658000" end="0:40:23.078000" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:22.658000	0:40:23.078000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:23.444000" end="0:40:31.524000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:23.444000" end="0:40:31.524000" age_lower="1" age_upper="999">
 haben	-	-	-	0:40:23.444000	0:40:28.591000
 Sie	-	-	-	0:40:23.444000	0:40:28.591000
 den	-	-	-	0:40:23.444000	0:40:28.591000
@@ -9617,24 +9617,24 @@ in	-	-	-	0:40:28.591000	0:40:31.524000
 ORT	ORT	-	-	0:40:28.591000	0:40:31.524000
 unterscheidet	-	-	-	0:40:28.591000	0:40:31.524000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:34.524000" end="0:40:36.851000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:34.524000" end="0:40:36.851000" age_lower="65" age_upper="999">
 nein	-	-	-	0:40:34.524000	0:40:34.804000
 nein	-	-	-	0:40:34.804000	0:40:36.031000
 nein	-	-	-	0:40:36.031000	0:40:36.851000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:36.851000" end="0:40:37.851000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:36.851000" end="0:40:37.851000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:40:36.851000	0:40:37.851000
 Sie	-	-	-	0:40:36.851000	0:40:37.851000
 nicht	-	-	-	0:40:36.851000	0:40:37.851000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:36.851000" end="0:40:37.478000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:36.851000" end="0:40:37.478000" age_lower="65" age_upper="999">
 also	-	-	-	0:40:36.851000	0:40:37.478000
 ich	-	-	-	0:40:36.851000	0:40:37.478000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:37.851000" end="0:40:39.678000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:37.851000" end="0:40:39.678000" age_lower="1" age_upper="999">
 fallen	-	-	-	0:40:39.071000	0:40:39.678000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:39.071000" end="0:40:40.278000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:39.071000" end="0:40:40.278000" age_lower="65" age_upper="999">
 glaube	-	-	-	0:40:39.071000	0:40:39.678000
 ich	-	-	-	0:40:39.071000	0:40:39.678000
 nicht	-	-	-	0:40:39.071000	0:40:39.678000
@@ -9642,16 +9642,16 @@ glaube	-	-	-	0:40:39.678000	0:40:40.278000
 ich	-	-	-	0:40:39.678000	0:40:40.278000
 nicht	-	-	-	0:40:39.678000	0:40:40.278000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:40.278000" end="0:40:40.571000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:40.278000" end="0:40:40.571000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:40.278000	0:40:40.571000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:40.278000" end="0:40:41.004000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:40.278000" end="0:40:41.004000" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:40.278000	0:40:41.004000
 sagen	-	-	-	0:40:40.278000	0:40:41.004000
 man	-	-	-	0:40:40.278000	0:40:41.004000
 so	-	-	-	0:40:40.278000	0:40:41.004000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:41.004000" end="0:40:46.778000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:41.004000" end="0:40:46.778000" age_lower="1" age_upper="999">
 fallen	-	-	-	0:40:41.004000	0:40:42.698000
 ihnne	-	-	-	0:40:41.004000	0:40:42.698000
 Wörter	-	-	-	0:40:41.004000	0:40:42.698000
@@ -9664,7 +9664,7 @@ für	-	-	-	0:40:44.344000	0:40:46.778000
 ORT	ORT	-	-	0:40:44.344000	0:40:46.778000
 sind	-	-	-	0:40:44.344000	0:40:46.778000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:46.778000" end="0:40:52.198000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:46.778000" end="0:40:52.198000" age_lower="65" age_upper="999">
 nein	-	-	-	0:40:46.778000	0:40:49.584000
 ja	-	-	-	0:40:46.778000	0:40:49.584000
 für	-	-	-	0:40:46.778000	0:40:49.584000
@@ -9681,9 +9681,9 @@ sage	-	-	-	0:40:49.584000	0:40:52.004000
 ich	-	-	-	0:40:49.584000	0:40:52.004000
 immer	-	-	-	0:40:49.584000	0:40:52.004000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:52.198000" end="0:40:52.884000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:40:52.198000" end="0:40:52.884000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:52.198000" end="0:41:03.211000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:40:52.198000" end="0:41:03.211000" age_lower="65" age_upper="999">
 ah	-	-	-	0:40:52.884000	0:40:54.724000
 weiß	-	-	-	0:40:52.884000	0:40:54.724000
 ich	-	-	-	0:40:52.884000	0:40:54.724000
@@ -9702,15 +9702,15 @@ irrsinnig	-	-	-	0:41:00.404000	0:41:03.211000
 viel	-	-	-	0:41:00.404000	0:41:03.211000
 eifoin	-	-	-	0:41:00.404000	0:41:03.211000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:02.298000" end="0:41:02.644000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:02.298000" end="0:41:02.644000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:03.211000" end="0:41:04.111000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:03.211000" end="0:41:04.111000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:41:03.211000	0:41:04.111000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:04.111000" end="0:41:04.618000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:04.111000" end="0:41:04.618000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:04.111000	0:41:04.618000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:04.618000" end="0:41:30.471000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:04.618000" end="0:41:30.471000" age_lower="65" age_upper="999">
 ah	-	-	-	0:41:04.618000	0:41:06.564000
 weiß	-	-	-	0:41:06.564000	0:41:07.111000
 ich	-	-	-	0:41:06.564000	0:41:07.111000
@@ -9776,7 +9776,7 @@ jetzt	-	-	-	0:41:26.431000	0:41:30.471000
 überfragt	-	-	-	0:41:26.431000	0:41:30.471000
 halt	-	-	-	0:41:26.431000	0:41:30.471000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:26.964000" end="0:41:30.851000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:26.964000" end="0:41:30.851000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:26.964000	0:41:27.251000
 und	-	-	-	0:41:28.358000	0:41:29.918000
 auch	-	-	-	0:41:28.358000	0:41:29.918000
@@ -9788,10 +9788,10 @@ haben	-	-	-	0:41:29.918000	0:41:30.851000
 schon	-	-	-	0:41:29.918000	0:41:30.851000
 gesagt	-	-	-	0:41:29.918000	0:41:30.851000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:30.471000" end="0:41:30.851000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:30.471000" end="0:41:30.851000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:41:30.471000	0:41:30.851000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:30.851000" end="0:41:33.544000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:30.851000" end="0:41:33.544000" age_lower="1" age_upper="999">
 so	-	-	-	0:41:30.851000	0:41:32.278000
 dieses	-	-	-	0:41:30.851000	0:41:32.278000
 raunzen	-	-	-	0:41:30.851000	0:41:32.278000
@@ -9799,25 +9799,25 @@ und	-	-	-	0:41:32.278000	0:41:33.544000
 dieses	-	-	-	0:41:32.278000	0:41:33.544000
 ziehen	-	-	-	0:41:32.278000	0:41:33.544000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:32.278000" end="0:41:33.544000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:32.278000" end="0:41:33.544000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:41:32.278000	0:41:32.844000
 ah	-	-	-	0:41:32.844000	0:41:33.544000
 raunzen	-	-	-	0:41:32.844000	0:41:33.544000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:33.544000" end="0:41:34.444000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:33.544000" end="0:41:34.444000" age_lower="1" age_upper="999">
 das	-	-	-	0:41:33.544000	0:41:34.444000
 würden	-	-	-	0:41:33.544000	0:41:34.444000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:33.544000" end="0:41:34.851000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:33.544000" end="0:41:34.851000" age_lower="65" age_upper="999">
 ah	-	-	-	0:41:33.544000	0:41:34.444000
 ja	-	-	-	0:41:33.544000	0:41:34.444000
 Granteln	-	-	-	0:41:33.544000	0:41:34.444000
 ziehen	-	-	-	0:41:34.444000	0:41:34.851000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:34.851000" end="0:41:35.471000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:34.851000" end="0:41:35.471000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:34.851000	0:41:35.471000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:34.851000" end="0:41:38.898000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:34.851000" end="0:41:38.898000" age_lower="65" age_upper="999">
 das	-	-	-	0:41:35.298000	0:41:36.524000
 das	-	-	-	0:41:35.298000	0:41:36.524000
 also	-	-	-	0:41:35.298000	0:41:36.524000
@@ -9832,9 +9832,9 @@ gern	-	-	-	0:41:36.524000	0:41:38.331000
 ja	-	-	-	0:41:38.331000	0:41:38.898000
 freilich	-	-	-	0:41:38.331000	0:41:38.898000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:38.898000" end="0:41:39.804000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:38.898000" end="0:41:39.804000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:38.898000" end="0:41:56.158000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:38.898000" end="0:41:56.158000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:41:38.898000	0:41:39.671000
 nicht	-	-	-	0:41:38.898000	0:41:39.671000
 nicht	-	-	-	0:41:38.898000	0:41:39.671000
@@ -9888,9 +9888,9 @@ miteranand	-	-	-	0:41:54.078000	0:41:56.158000
 aufgeregt	-	-	-	0:41:54.078000	0:41:56.158000
 über	-	-	-	0:41:54.078000	0:41:56.158000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:55.471000" end="0:41:56.158000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:41:55.471000" end="0:41:56.158000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:56.158000" end="0:42:05.491000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:41:56.158000" end="0:42:05.491000" age_lower="65" age_upper="999">
 ah	-	-	-	0:41:56.158000	0:41:58.218000
 ah	-	-	-	0:41:56.158000	0:41:58.218000
 da	-	-	-	0:41:56.158000	0:41:58.218000
@@ -9922,13 +9922,13 @@ nicht	-	-	-	0:42:04.331000	0:42:05.491000
 was	-	-	-	0:42:04.331000	0:42:05.491000
 alles	-	-	-	0:42:04.331000	0:42:05.491000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:05.491000" end="0:42:05.958000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:05.491000" end="0:42:05.958000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:05.491000" end="0:42:07.271000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:05.491000" end="0:42:07.271000" age_lower="65" age_upper="999">
 das	-	-	-	0:42:05.718000	0:42:07.271000
 ist	-	-	-	0:42:05.718000	0:42:07.271000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:07.271000" end="0:42:11.764000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:07.271000" end="0:42:11.764000" age_lower="1" age_upper="999">
 und	-	-	-	0:42:07.271000	0:42:11.764000
 äh	-	-	-	0:42:07.271000	0:42:11.764000
 würden	-	-	-	0:42:07.271000	0:42:11.764000
@@ -9940,9 +9940,9 @@ irgendwelche	-	-	-	0:42:07.271000	0:42:11.764000
 Beispiele	-	-	-	0:42:07.271000	0:42:11.764000
 einfallen	-	-	-	0:42:07.271000	0:42:11.764000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:08.624000" end="0:42:08.838000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:08.624000" end="0:42:08.838000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:11.764000" end="0:42:16.804000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:11.764000" end="0:42:16.804000" age_lower="1" age_upper="999">
 oder	-	-	-	0:42:11.764000	0:42:13.371000
 haben	-	-	-	0:42:11.764000	0:42:13.371000
 Sie	-	-	-	0:42:11.764000	0:42:13.371000
@@ -9962,30 +9962,30 @@ von	-	-	-	0:42:15.351000	0:42:16.804000
 der	-	-	-	0:42:15.351000	0:42:16.804000
 Aussprache	-	-	-	0:42:15.351000	0:42:16.804000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:15.351000" end="0:42:16.991000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:15.351000" end="0:42:16.991000" age_lower="65" age_upper="999">
 eigentlich	-	-	-	0:42:15.351000	0:42:16.658000
 nicht	-	-	-	0:42:15.351000	0:42:16.658000
 nein	-	-	-	0:42:16.658000	0:42:16.991000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:16.804000" end="0:42:17.858000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:16.804000" end="0:42:17.858000" age_lower="1" age_upper="999">
 von	-	-	-	0:42:16.804000	0:42:17.858000
 Wörtern	-	-	-	0:42:16.804000	0:42:17.858000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:16.991000" end="0:42:18.184000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:16.991000" end="0:42:18.184000" age_lower="65" age_upper="999">
 nein	-	-	-	0:42:16.991000	0:42:18.184000
 eigentlich	-	-	-	0:42:16.991000	0:42:18.184000
 nicht	-	-	-	0:42:16.991000	0:42:18.184000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:18.184000" end="0:42:18.838000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:18.184000" end="0:42:18.838000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:18.184000" end="0:42:20.271000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:18.184000" end="0:42:20.271000" age_lower="65" age_upper="999">
 nein	-	-	-	0:42:18.184000	0:42:19.024000
 nein	-	-	-	0:42:18.184000	0:42:19.024000
 nein	-	-	-	0:42:18.184000	0:42:19.024000
 nein	-	-	-	0:42:19.024000	0:42:20.271000
 nein	-	-	-	0:42:19.024000	0:42:20.271000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:20.271000" end="0:42:31.431000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:20.271000" end="0:42:31.431000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:42:20.271000	0:42:22.511000
 Sie	-	-	-	0:42:20.271000	0:42:22.511000
 dass	-	-	-	0:42:20.271000	0:42:22.511000
@@ -10012,7 +10012,7 @@ von	-	-	-	0:42:29.224000	0:42:31.431000
 Österreich	-	-	-	0:42:29.224000	0:42:31.431000
 ausübt	-	-	-	0:42:29.224000	0:42:31.431000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:30.191000" end="0:42:33.598000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:30.191000" end="0:42:33.598000" age_lower="65" age_upper="999">
 nein	-	-	-	0:42:30.191000	0:42:30.764000
 nein	-	-	-	0:42:30.764000	0:42:31.164000
 nein	-	-	-	0:42:31.431000	0:42:32.171000
@@ -10026,9 +10026,9 @@ nur	-	-	-	0:42:32.171000	0:42:33.598000
 der	-	-	-	0:42:32.171000	0:42:33.598000
 ORT	ORT	-	-	0:42:32.171000	0:42:33.598000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:33.598000" end="0:42:34.758000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:33.598000" end="0:42:34.758000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:33.598000" end="0:42:36.924000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:33.598000" end="0:42:36.924000" age_lower="65" age_upper="999">
 also	-	-	-	0:42:33.598000	0:42:36.924000
 ich	-	-	-	0:42:33.598000	0:42:36.924000
 glaube	-	-	-	0:42:33.598000	0:42:36.924000
@@ -10041,7 +10041,7 @@ der	-	-	-	0:42:33.598000	0:42:36.924000
 so	-	-	-	0:42:33.598000	0:42:36.924000
 redet	-	-	-	0:42:33.598000	0:42:36.924000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:36.924000" end="0:42:42.331000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:36.924000" end="0:42:42.331000" age_lower="1" age_upper="999">
 und	-	-	-	0:42:36.924000	0:42:39.844000
 unterscheidet	-	-	-	0:42:36.924000	0:42:39.844000
 sich	-	-	-	0:42:36.924000	0:42:39.844000
@@ -10056,14 +10056,14 @@ im	-	-	-	0:42:39.844000	0:42:42.331000
 ORT	ORT	-	-	0:42:39.844000	0:42:42.331000
 ORT	ORT	-	-	0:42:39.844000	0:42:42.331000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:42.331000" end="0:42:44.011000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:42.331000" end="0:42:44.011000" age_lower="65" age_upper="999">
 ja	-	-	-	0:42:42.331000	0:42:43.504000
 sicher	-	-	-	0:42:42.331000	0:42:43.504000
 sicher	-	-	-	0:42:43.504000	0:42:44.011000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:44.011000" end="0:42:44.818000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:44.011000" end="0:42:44.818000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:44.011000" end="0:42:57.524000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:44.011000" end="0:42:57.524000" age_lower="65" age_upper="999">
 sicher	-	-	-	0:42:44.011000	0:42:44.818000
 weil	-	-	-	0:42:44.818000	0:42:48.424000
 da	-	-	-	0:42:44.818000	0:42:48.424000
@@ -10104,9 +10104,9 @@ ein	-	-	-	0:42:55.858000	0:42:56.998000
 Burgenländer	-	-	-	0:42:55.858000	0:42:56.998000
 genauso	-	-	-	0:42:55.858000	0:42:56.998000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:57.524000" end="0:42:58.451000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:42:57.524000" end="0:42:58.451000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:57.524000" end="0:43:03.004000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:42:57.524000" end="0:43:03.004000" age_lower="65" age_upper="999">
 das	-	-	-	0:42:57.524000	0:42:58.451000
 ist	-	-	-	0:42:57.524000	0:42:58.451000
 also	-	-	-	0:42:58.451000	0:42:59.744000
@@ -10126,16 +10126,16 @@ ORT	ORT	-	-	0:43:00.951000	0:43:02.758000
 beschränkt	-	-	-	0:43:00.951000	0:43:02.758000
 wirklich	-	-	-	0:43:00.951000	0:43:02.758000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:03.004000" end="0:43:03.698000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:03.004000" end="0:43:03.698000" age_lower="1" age_upper="999">
 okay	-	-	-	0:43:03.004000	0:43:03.698000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:03.004000" end="0:43:03.378000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:03.004000" end="0:43:03.378000" age_lower="65" age_upper="999">
 also	-	-	-	0:43:03.004000	0:43:03.378000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:03.698000" end="0:43:03.964000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:03.698000" end="0:43:03.964000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:03.698000	0:43:03.964000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:03.698000" end="0:43:09.938000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:03.698000" end="0:43:09.938000" age_lower="65" age_upper="999">
 auf	-	-	-	0:43:03.698000	0:43:05.711000
 die	-	-	-	0:43:03.698000	0:43:05.711000
 der	-	-	-	0:43:03.698000	0:43:05.711000
@@ -10162,7 +10162,7 @@ bezogen	-	-	-	0:43:07.971000	0:43:09.491000
 nicht	-	-	-	0:43:09.491000	0:43:09.938000
 eine	-	-	-	0:43:09.491000	0:43:09.938000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:09.938000" end="0:43:18.484000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:09.938000" end="0:43:18.484000" age_lower="1" age_upper="999">
 und	-	-	-	0:43:09.938000	0:43:13.091000
 glauben	-	-	-	0:43:09.938000	0:43:13.091000
 Sie	-	-	-	0:43:09.938000	0:43:13.091000
@@ -10182,21 +10182,21 @@ umliegenden	-	-	-	0:43:16.598000	0:43:18.484000
 Gebiete	-	-	-	0:43:16.598000	0:43:18.484000
 ausübt	-	-	-	0:43:16.598000	0:43:18.484000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:18.484000" end="0:43:22.051000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:18.484000" end="0:43:22.051000" age_lower="65" age_upper="999">
 nein	-	-	-	0:43:20.784000	0:43:21.051000
 glaube	-	-	-	0:43:21.051000	0:43:22.051000
 ich	-	-	-	0:43:21.051000	0:43:22.051000
 eigentlich	-	-	-	0:43:21.051000	0:43:22.051000
 nicht	-	-	-	0:43:21.051000	0:43:22.051000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:22.051000" end="0:43:23.031000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:22.051000" end="0:43:23.031000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:22.051000" end="0:43:23.031000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:22.051000" end="0:43:23.031000" age_lower="65" age_upper="999">
 glaube	-	-	-	0:43:22.051000	0:43:23.031000
 ich	-	-	-	0:43:22.051000	0:43:23.031000
 nicht	-	-	-	0:43:22.051000	0:43:23.031000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:23.031000" end="0:43:28.564000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:23.031000" end="0:43:28.564000" age_lower="1" age_upper="999">
 und	-	-	-	0:43:23.031000	0:43:24.384000
 umgekehrt	-	-	-	0:43:23.031000	0:43:24.384000
 dass	-	-	-	0:43:24.384000	0:43:28.564000
@@ -10213,7 +10213,7 @@ der	-	-	-	0:43:24.384000	0:43:28.564000
 Stadt	-	-	-	0:43:24.384000	0:43:28.564000
 hat	-	-	-	0:43:24.384000	0:43:28.564000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:27.264000" end="0:43:31.258000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:27.264000" end="0:43:31.258000" age_lower="65" age_upper="999">
 nein	-	-	-	0:43:27.264000	0:43:27.538000
 weil	-	-	-	0:43:27.538000	0:43:28.798000
 der	-	-	-	0:43:27.538000	0:43:28.798000
@@ -10229,10 +10229,10 @@ meine	-	-	-	0:43:28.798000	0:43:31.258000
 Meinung	-	-	-	0:43:28.798000	0:43:31.258000
 nur	-	-	-	0:43:28.798000	0:43:31.258000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:31.104000" end="0:43:31.478000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:31.104000" end="0:43:31.478000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:31.104000	0:43:31.478000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:31.258000" end="0:43:32.991000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:31.258000" end="0:43:32.991000" age_lower="65" age_upper="999">
 der	-	-	-	0:43:31.478000	0:43:32.991000
 ORT	ORT	-	-	0:43:31.478000	0:43:32.991000
 wird	-	-	-	0:43:31.478000	0:43:32.991000
@@ -10240,10 +10240,10 @@ immer	-	-	-	0:43:31.478000	0:43:32.991000
 so	-	-	-	0:43:31.478000	0:43:32.991000
 reden	-	-	-	0:43:31.478000	0:43:32.991000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:32.991000" end="0:43:33.518000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:32.991000" end="0:43:33.518000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:32.991000	0:43:33.518000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:32.991000" end="0:43:34.751000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:32.991000" end="0:43:34.751000" age_lower="65" age_upper="999">
 der	-	-	-	0:43:32.991000	0:43:34.564000
 ORT	ORT	-	-	0:43:32.991000	0:43:34.564000
 wird	-	-	-	0:43:32.991000	0:43:34.564000
@@ -10253,7 +10253,7 @@ ORT	ORT	-	-	0:43:32.991000	0:43:34.564000
 bleiben	-	-	-	0:43:32.991000	0:43:34.564000
 nicht	-	-	-	0:43:34.564000	0:43:34.751000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:34.751000" end="0:43:36.598000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:34.751000" end="0:43:36.598000" age_lower="1" age_upper="999">
 und	-	-	-	0:43:34.751000	0:43:36.598000
 wie	-	-	-	0:43:34.751000	0:43:36.598000
 würden	-	-	-	0:43:34.751000	0:43:36.598000
@@ -10261,20 +10261,20 @@ Sie	-	-	-	0:43:34.751000	0:43:36.598000
 das	-	-	-	0:43:34.751000	0:43:36.598000
 bezeichnen	-	-	-	0:43:34.751000	0:43:36.598000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:35.611000" end="0:43:36.791000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:35.611000" end="0:43:36.791000" age_lower="65" age_upper="999">
 ne	-	-	-	0:43:35.611000	0:43:36.598000
 ne	-	-	-	0:43:35.611000	0:43:36.598000
 ne	-	-	-	0:43:35.611000	0:43:36.598000
 eine	-	-	-	0:43:36.598000	0:43:36.791000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:36.791000" end="0:43:38.218000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:36.791000" end="0:43:38.218000" age_lower="1" age_upper="999">
 wie	-	-	-	0:43:36.791000	0:43:38.218000
 in	-	-	-	0:43:36.791000	0:43:38.218000
 ORT	ORT	-	-	0:43:36.791000	0:43:38.218000
 gesprochen	-	-	-	0:43:36.791000	0:43:38.218000
 wird	-	-	-	0:43:36.791000	0:43:38.218000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:36.791000" end="0:43:40.591000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:36.791000" end="0:43:40.591000" age_lower="65" age_upper="999">
 das	-	-	-	0:43:36.791000	0:43:37.978000
 ist	-	-	-	0:43:36.791000	0:43:37.978000
 das	-	-	-	0:43:36.791000	0:43:37.978000
@@ -10289,18 +10289,18 @@ einfach	-	-	-	0:43:39.284000	0:43:40.591000
 der	-	-	-	0:43:39.284000	0:43:40.591000
 ORT	ORT	-	-	0:43:39.284000	0:43:40.591000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:40.024000" end="0:43:40.378000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:40.024000" end="0:43:40.378000" age_lower="1" age_upper="999">
 ja	-	-	-	0:43:40.024000	0:43:40.378000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:40.591000" end="0:43:41.764000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:40.591000" end="0:43:41.764000" age_lower="65" age_upper="999">
 das	-	-	-	0:43:40.591000	0:43:41.764000
 ist	-	-	-	0:43:40.591000	0:43:41.764000
 der	-	-	-	0:43:40.591000	0:43:41.764000
 ORT	ORT	-	-	0:43:40.591000	0:43:41.764000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:41.764000" end="0:43:42.718000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:41.764000" end="0:43:42.718000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:41.764000" end="0:43:55.011000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:41.764000" end="0:43:55.011000" age_lower="65" age_upper="999">
 so	-	-	-	0:43:41.764000	0:43:42.718000
 was	-	-	-	0:43:42.718000	0:43:43.971000
 man	-	-	-	0:43:42.718000	0:43:43.971000
@@ -10353,18 +10353,18 @@ gegen	-	-	-	0:43:53.644000	0:43:55.011000
 die	-	-	-	0:43:53.644000	0:43:55.011000
 NAME	NAME	-	-	0:43:53.644000	0:43:55.011000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:55.011000" end="0:43:55.638000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:55.011000" end="0:43:55.638000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:43:55.011000	0:43:55.638000
 na>	-	-	-	0:43:55.011000	0:43:55.638000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:55.011000" end="0:43:55.638000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:55.011000" end="0:43:55.638000" age_lower="65" age_upper="999">
 um	-	-	-	0:43:55.011000	0:43:55.638000
 Gottes	-	-	-	0:43:55.011000	0:43:55.638000
 wün	-	-	-	0:43:55.011000	0:43:55.638000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:55.638000" end="0:43:57.004000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:55.638000" end="0:43:57.004000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:55.638000" end="0:43:59.211000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:55.638000" end="0:43:59.211000" age_lower="65" age_upper="999">
 aber	-	-	-	0:43:55.838000	0:43:57.704000
 es	-	-	-	0:43:55.838000	0:43:57.704000
 ist	-	-	-	0:43:55.838000	0:43:57.704000
@@ -10376,16 +10376,16 @@ hat	-	-	-	0:43:57.704000	0:43:59.211000
 was	-	-	-	0:43:57.704000	0:43:59.211000
 eigenes	-	-	-	0:43:57.704000	0:43:59.211000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:59.211000" end="0:43:59.931000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:43:59.211000" end="0:43:59.931000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:59.211000" end="0:44:00.911000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:43:59.211000" end="0:44:00.911000" age_lower="65" age_upper="999">
 der	-	-	-	0:43:59.211000	0:44:00.731000
 NAME	NAME	-	-	0:43:59.211000	0:44:00.731000
 hat	-	-	-	0:43:59.211000	0:44:00.731000
 was	-	-	-	0:43:59.211000	0:44:00.731000
 eigenes	-	-	-	0:43:59.211000	0:44:00.731000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:00.911000" end="0:44:02.911000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:00.911000" end="0:44:02.911000" age_lower="1" age_upper="999">
 das	-	-	-	0:44:00.911000	0:44:02.911000
 heißt	-	-	-	0:44:00.911000	0:44:02.911000
 das	-	-	-	0:44:00.911000	0:44:02.911000
@@ -10394,7 +10394,7 @@ Ihnen	-	-	-	0:44:00.911000	0:44:02.911000
 sehr	-	-	-	0:44:00.911000	0:44:02.911000
 gut	-	-	-	0:44:00.911000	0:44:02.911000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:01.504000" end="0:44:06.404000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:01.504000" end="0:44:06.404000" age_lower="65" age_upper="999">
 ob	-	-	-	0:44:01.504000	0:44:03.651000
 das	-	-	-	0:44:01.504000	0:44:03.651000
 jetzt	-	-	-	0:44:01.504000	0:44:03.651000
@@ -10410,7 +10410,7 @@ negativ	-	-	-	0:44:03.651000	0:44:05.771000
 keine	-	-	-	0:44:05.771000	0:44:06.404000
 Frage	-	-	-	0:44:05.771000	0:44:06.404000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:06.404000" end="0:44:08.151000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:06.404000" end="0:44:08.151000" age_lower="1" age_upper="999">
 aber	-	-	-	0:44:06.404000	0:44:08.151000
 Ihnen	-	-	-	0:44:06.404000	0:44:08.151000
 gefällt	-	-	-	0:44:06.404000	0:44:08.151000
@@ -10418,7 +10418,7 @@ es	-	-	-	0:44:06.404000	0:44:08.151000
 sehr	-	-	-	0:44:06.404000	0:44:08.151000
 gut	-	-	-	0:44:06.404000	0:44:08.151000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:06.404000" end="0:44:09.044000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:06.404000" end="0:44:09.044000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:44:06.404000	0:44:07.238000
 nicht	-	-	-	0:44:06.404000	0:44:07.238000
 nicht	-	-	-	0:44:06.404000	0:44:07.238000
@@ -10431,16 +10431,16 @@ gefällt	-	-	-	0:44:08.151000	0:44:09.044000
 es	-	-	-	0:44:08.151000	0:44:09.044000
 ja	-	-	-	0:44:08.151000	0:44:09.044000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:08.911000" end="0:44:09.098000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:08.911000" end="0:44:09.098000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:09.098000" end="0:44:10.084000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:09.098000" end="0:44:10.084000" age_lower="65" age_upper="999">
 ja	-	-	-	0:44:09.098000	0:44:10.084000
 mir	-	-	-	0:44:09.098000	0:44:10.084000
 gefällt	-	-	-	0:44:09.098000	0:44:10.084000
 es	-	-	-	0:44:09.098000	0:44:10.084000
 ja	-	-	-	0:44:09.098000	0:44:10.084000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:10.084000" end="0:44:14.378000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:10.084000" end="0:44:14.378000" age_lower="1" age_upper="999">
 und	-	-	-	0:44:10.084000	0:44:14.378000
 w	-	-	-	0:44:10.084000	0:44:14.378000
 was	-	-	-	0:44:10.084000	0:44:14.378000
@@ -10451,12 +10451,12 @@ typisch	-	-	-	0:44:10.084000	0:44:14.378000
 ORT	ORT	-	-	0:44:10.084000	0:44:14.378000
 aus	-	-	-	0:44:10.084000	0:44:14.378000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:10.084000" end="0:44:10.938000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:10.084000" end="0:44:10.938000" age_lower="65" age_upper="999">
 ja	-	-	-	0:44:10.084000	0:44:10.938000
 ja	-	-	-	0:44:10.084000	0:44:10.938000
 ja	-	-	-	0:44:10.084000	0:44:10.938000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:14.378000" end="0:44:23.371000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:14.378000" end="0:44:23.371000" age_lower="1" age_upper="999">
 für	-	-	-	0:44:14.378000	0:44:15.518000
 Sie	-	-	-	0:44:14.378000	0:44:15.518000
 also	-	-	-	0:44:15.518000	0:44:18.038000
@@ -10478,7 +10478,7 @@ noch	-	-	-	0:44:18.038000	0:44:21.271000
 irgendwelche	-	-	-	0:44:18.038000	0:44:21.271000
 Beschreibungen	-	-	-	0:44:21.271000	0:44:23.371000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:23.371000" end="0:44:39.871000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:23.371000" end="0:44:39.871000" age_lower="65" age_upper="999">
 nein	-	-	-	0:44:23.371000	0:44:26.031000
 ja	-	-	-	0:44:23.371000	0:44:26.031000
 gerade	-	-	-	0:44:23.371000	0:44:26.031000
@@ -10536,9 +10536,9 @@ nicht	-	-	-	0:44:33.971000	0:44:39.871000
 gut	-	-	-	0:44:33.971000	0:44:39.871000
 ankumman	-	-	-	0:44:33.971000	0:44:39.871000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:35.864000" end="0:44:36.358000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:35.864000" end="0:44:36.358000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:39.871000" end="0:45:00.671000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:44:39.871000" end="0:45:00.671000" age_lower="65" age_upper="999">
 also	-	-	-	0:44:39.871000	0:44:42.391000
 ich	-	-	-	0:44:39.871000	0:44:42.391000
 habe	-	-	-	0:44:39.871000	0:44:42.391000
@@ -10598,16 +10598,16 @@ an	-	-	-	0:44:57.778000	0:45:00.671000
 meiner	-	-	-	0:44:57.778000	0:45:00.671000
 jetzt	-	-	-	0:44:57.778000	0:45:00.671000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:59.298000" end="0:44:59.718000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:44:59.298000" end="0:44:59.718000" age_lower="1" age_upper="999">
 okay	-	-	-	0:44:59.298000	0:44:59.718000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:00.671000" end="0:45:00.898000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:00.671000" end="0:45:00.898000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:45:00.671000	0:45:00.898000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:00.898000" end="0:45:01.331000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:00.898000" end="0:45:01.331000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:00.898000	0:45:01.331000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:00.898000" end="0:45:06.664000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:00.898000" end="0:45:06.664000" age_lower="65" age_upper="999">
 beziehungsweise	-	-	-	0:45:00.898000	0:45:03.304000
 wenn	-	-	-	0:45:00.898000	0:45:03.304000
 ich	-	-	-	0:45:00.898000	0:45:03.304000
@@ -10624,10 +10624,10 @@ wäre	-	-	-	0:45:03.304000	0:45:06.478000
 davon	-	-	-	0:45:03.304000	0:45:06.478000
 nicht	-	-	-	0:45:06.478000	0:45:06.664000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:06.664000" end="0:45:07.164000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:06.664000" end="0:45:07.164000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:06.664000	0:45:07.164000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:06.664000" end="0:45:08.611000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:06.664000" end="0:45:08.611000" age_lower="65" age_upper="999">
 dass	-	-	-	0:45:06.664000	0:45:08.078000
 ich	-	-	-	0:45:06.664000	0:45:08.078000
 da	-	-	-	0:45:06.664000	0:45:08.078000
@@ -10636,11 +10636,11 @@ tue	-	-	-	0:45:06.664000	0:45:08.078000
 nein	-	-	-	0:45:08.078000	0:45:08.611000
 nein	-	-	-	0:45:08.078000	0:45:08.611000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:08.611000" end="0:45:09.531000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:08.611000" end="0:45:09.531000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:08.611000	0:45:09.531000
 super	-	-	-	0:45:08.611000	0:45:09.531000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:08.611000" end="0:45:29.244000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:08.611000" end="0:45:29.244000" age_lower="65" age_upper="999">
 und	-	-	-	0:45:08.611000	0:45:09.978000
 ich	-	-	-	0:45:08.611000	0:45:09.978000
 bin	-	-	-	0:45:08.611000	0:45:09.978000
@@ -10704,9 +10704,9 @@ nicht	-	-	-	0:45:26.531000	0:45:29.244000
 gut	-	-	-	0:45:26.531000	0:45:29.244000
 an	-	-	-	0:45:26.531000	0:45:29.244000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:26.891000" end="0:45:27.424000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:26.891000" end="0:45:27.424000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:29.244000" end="0:45:33.044000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:29.244000" end="0:45:33.044000" age_lower="65" age_upper="999">
 man	-	-	-	0:45:29.244000	0:45:31.331000
 aber	-	-	-	0:45:29.244000	0:45:31.331000
 manchmal	-	-	-	0:45:29.244000	0:45:31.331000
@@ -10719,7 +10719,7 @@ tue	-	-	-	0:45:31.331000	0:45:33.044000
 hinten	-	-	-	0:45:31.331000	0:45:33.044000
 herum	-	-	-	0:45:31.331000	0:45:33.044000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:33.044000" end="0:45:36.218000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:33.044000" end="0:45:36.218000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:33.044000	0:45:36.218000
 das	-	-	-	0:45:33.044000	0:45:36.218000
 das	-	-	-	0:45:33.044000	0:45:36.218000
@@ -10730,7 +10730,7 @@ authentisch	-	-	-	0:45:33.044000	0:45:36.218000
 dann	-	-	-	0:45:33.044000	0:45:36.218000
 auch	-	-	-	0:45:33.044000	0:45:36.218000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:33.044000" end="0:45:35.891000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:33.044000" end="0:45:35.891000" age_lower="65" age_upper="999">
 und	-	-	-	0:45:33.044000	0:45:34.864000
 dann	-	-	-	0:45:33.044000	0:45:34.864000
 das	-	-	-	0:45:33.044000	0:45:34.864000
@@ -10742,16 +10742,16 @@ nicht	-	-	-	0:45:34.864000	0:45:35.891000
 nicht	-	-	-	0:45:34.864000	0:45:35.891000
 nicht	-	-	-	0:45:34.864000	0:45:35.891000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:36.218000" end="0:45:36.538000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:36.218000" end="0:45:36.538000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:36.218000	0:45:36.538000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:36.218000" end="0:45:36.538000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:36.218000" end="0:45:36.538000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:45:36.218000	0:45:36.538000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:36.538000" end="0:45:37.764000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:36.538000" end="0:45:37.764000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:36.538000	0:45:37.764000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:36.538000" end="0:45:48.291000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:36.538000" end="0:45:48.291000" age_lower="65" age_upper="999">
 also	-	-	-	0:45:36.538000	0:45:37.551000
 das	-	-	-	0:45:36.538000	0:45:37.551000
 ich	-	-	-	0:45:37.764000	0:45:39.831000
@@ -10792,9 +10792,9 @@ nicht	-	-	-	0:45:46.944000	0:45:47.998000
 ein	-	-	-	0:45:46.944000	0:45:47.998000
 ja	-	-	-	0:45:47.998000	0:45:48.291000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:48.291000" end="0:45:48.891000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:48.291000" end="0:45:48.891000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:48.291000" end="0:45:59.131000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:48.291000" end="0:45:59.131000" age_lower="65" age_upper="999">
 aber	-	-	-	0:45:48.291000	0:45:49.651000
 ich	-	-	-	0:45:48.291000	0:45:49.651000
 kriege	-	-	-	0:45:48.291000	0:45:49.651000
@@ -10833,11 +10833,11 @@ es	-	-	-	0:45:57.531000	0:45:59.131000
 zur	-	-	-	0:45:57.531000	0:45:59.131000
 Kenntnis	-	-	-	0:45:57.531000	0:45:59.131000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:59.131000" end="0:45:59.551000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:45:59.131000" end="0:45:59.551000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:45:59.131000	0:45:59.551000
 ja,>	-	-	-	0:45:59.131000	0:45:59.551000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:59.131000" end="0:46:01.318000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:45:59.131000" end="0:46:01.318000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:45:59.131000	0:45:59.451000
 <<lachend>	-	-	-	0:45:59.551000	0:46:01.318000
 und	-	-	-	0:45:59.551000	0:46:01.318000
@@ -10846,22 +10846,22 @@ jetzt	-	-	-	0:45:59.551000	0:46:01.318000
 geht	-	-	-	0:45:59.551000	0:46:01.318000
 a;>	-	-	-	0:45:59.551000	0:46:01.318000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:01.318000" end="0:46:03.838000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:01.318000" end="0:46:03.838000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:01.318000" end="0:46:04.751000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:01.318000" end="0:46:04.751000" age_lower="65" age_upper="999">
 und	-	-	-	0:46:03.838000	0:46:04.751000
 jetzt	-	-	-	0:46:03.838000	0:46:04.751000
 geht	-	-	-	0:46:03.838000	0:46:04.751000
 ein	-	-	-	0:46:03.838000	0:46:04.751000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:04.751000" end="0:46:05.004000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:04.751000" end="0:46:05.004000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:04.751000	0:46:05.004000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:04.751000" end="0:46:05.238000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:04.751000" end="0:46:05.238000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:46:04.751000	0:46:05.004000
 nicht	-	-	-	0:46:05.004000	0:46:05.238000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:05.238000" end="0:46:10.604000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:05.238000" end="0:46:10.604000" age_lower="1" age_upper="999">
 ja	-	-	-	0:46:05.238000	0:46:10.604000
 dann	-	-	-	0:46:05.238000	0:46:10.604000
 würde	-	-	-	0:46:05.238000	0:46:10.604000
@@ -10875,13 +10875,13 @@ Thema	-	-	-	0:46:05.238000	0:46:10.604000
 sprachkontakt	-	-	-	0:46:05.238000	0:46:10.604000
 eingehen	-	-	-	0:46:05.238000	0:46:10.604000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:05.238000" end="0:46:10.931000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:05.238000" end="0:46:10.931000" age_lower="65" age_upper="999">
 nein	-	-	-	0:46:05.238000	0:46:06.678000
 nein	-	-	-	0:46:05.238000	0:46:06.678000
 nein	-	-	-	0:46:05.238000	0:46:06.678000
 ja	-	-	-	0:46:06.678000	0:46:07.724000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:10.931000" end="0:46:18.171000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:10.931000" end="0:46:18.171000" age_lower="1" age_upper="999">
 verändert	-	-	-	0:46:10.931000	0:46:13.258000
 sich	-	-	-	0:46:10.931000	0:46:13.258000
 derzeit	-	-	-	0:46:10.931000	0:46:13.258000
@@ -10900,7 +10900,7 @@ mit	-	-	-	0:46:15.244000	0:46:18.171000
 anderen	-	-	-	0:46:15.244000	0:46:18.171000
 Sprachen	-	-	-	0:46:15.244000	0:46:18.171000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:18.171000" end="0:46:23.298000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:18.171000" end="0:46:23.298000" age_lower="65" age_upper="999">
 nein	-	-	-	0:46:18.171000	0:46:20.344000
 also	-	-	-	0:46:20.344000	0:46:21.691000
 könnte	-	-	-	0:46:20.344000	0:46:21.691000
@@ -10911,7 +10911,7 @@ nein	-	-	-	0:46:21.691000	0:46:23.298000
 nein	-	-	-	0:46:21.691000	0:46:23.298000
 nein	-	-	-	0:46:21.691000	0:46:23.298000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:23.024000" end="0:46:35.578000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:23.024000" end="0:46:35.578000" age_lower="1" age_upper="999">
 und	-	-	-	0:46:23.471000	0:46:25.471000
 hat	-	-	-	0:46:25.471000	0:46:30.038000
 sich	-	-	-	0:46:25.471000	0:46:30.038000
@@ -10935,7 +10935,7 @@ anderen	-	-	-	0:46:31.931000	0:46:35.578000
 Sprachen	-	-	-	0:46:31.931000	0:46:35.578000
 verändert	-	-	-	0:46:31.931000	0:46:35.578000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:35.578000" end="0:46:41.964000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:35.578000" end="0:46:41.964000" age_lower="65" age_upper="999">
 nein	-	-	-	0:46:35.578000	0:46:36.778000
 also	-	-	-	0:46:36.778000	0:46:37.718000
 pf	-	-	-	0:46:36.778000	0:46:37.718000
@@ -10952,9 +10952,9 @@ mir	-	-	-	0:46:40.024000	0:46:41.284000
 sagen	-	-	-	0:46:40.024000	0:46:41.284000
 ich	-	-	-	0:46:41.284000	0:46:41.964000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:41.718000" end="0:46:42.178000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:41.718000" end="0:46:42.178000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:42.178000" end="0:46:45.631000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:42.178000" end="0:46:45.631000" age_lower="65" age_upper="999">
 von	-	-	-	0:46:42.178000	0:46:42.858000
 mir	-	-	-	0:46:42.178000	0:46:42.858000
 von	-	-	-	0:46:42.858000	0:46:44.318000
@@ -10969,9 +10969,9 @@ meinem	-	-	-	0:46:44.518000	0:46:45.411000
 Umfeld	-	-	-	0:46:44.518000	0:46:45.411000
 nicht	-	-	-	0:46:45.411000	0:46:45.631000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:45.631000" end="0:46:46.224000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:45.631000" end="0:46:46.224000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:45.631000" end="0:46:49.211000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:45.631000" end="0:46:49.211000" age_lower="65" age_upper="999">
 das	-	-	-	0:46:45.631000	0:46:47.178000
 sicher	-	-	-	0:46:45.631000	0:46:47.178000
 sehr	-	-	-	0:46:45.631000	0:46:47.178000
@@ -10986,14 +10986,14 @@ ich	-	-	-	0:46:47.318000	0:46:49.211000
 jetzt	-	-	-	0:46:47.318000	0:46:49.211000
 sage	-	-	-	0:46:47.318000	0:46:49.211000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:49.211000" end="0:46:51.211000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:49.211000" end="0:46:51.211000" age_lower="1" age_upper="999">
 also	-	-	-	0:46:49.211000	0:46:51.211000
 von	-	-	-	0:46:49.211000	0:46:51.211000
 Ihrer	-	-	-	0:46:49.211000	0:46:51.211000
 Erfahrung	-	-	-	0:46:49.211000	0:46:51.211000
 her	-	-	-	0:46:49.211000	0:46:51.211000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:49.211000" end="0:46:51.924000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:49.211000" end="0:46:51.924000" age_lower="65" age_upper="999">
 es	-	-	-	0:46:49.211000	0:46:51.924000
 ist	-	-	-	0:46:49.211000	0:46:51.924000
 aber	-	-	-	0:46:49.211000	0:46:51.924000
@@ -11002,28 +11002,28 @@ meiner	-	-	-	0:46:49.211000	0:46:51.924000
 Erfahrung	-	-	-	0:46:49.211000	0:46:51.924000
 her	-	-	-	0:46:49.211000	0:46:51.924000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:51.211000" end="0:46:52.151000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:51.211000" end="0:46:52.151000" age_lower="1" age_upper="999">
 haben	-	-	-	0:46:51.211000	0:46:52.151000
 sie	-	-	-	0:46:51.211000	0:46:52.151000
 das	-	-	-	0:46:51.211000	0:46:52.151000
 nicht	-	-	-	0:46:51.211000	0:46:52.151000
 so	-	-	-	0:46:51.211000	0:46:52.151000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:51.924000" end="0:46:52.631000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:51.924000" end="0:46:52.631000" age_lower="65" age_upper="999">
 sicher	-	-	-	0:46:51.924000	0:46:52.631000
 nicht	-	-	-	0:46:51.924000	0:46:52.631000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:52.631000" end="0:46:53.104000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:52.631000" end="0:46:53.104000" age_lower="1" age_upper="999">
 okay	-	-	-	0:46:52.631000	0:46:53.104000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:52.631000" end="0:46:53.924000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:52.631000" end="0:46:53.924000" age_lower="65" age_upper="999">
 nein	-	-	-	0:46:52.631000	0:46:53.104000
 nein	-	-	-	0:46:52.631000	0:46:53.104000
 sicher	-	-	-	0:46:53.104000	0:46:53.684000
 nicht	-	-	-	0:46:53.104000	0:46:53.684000
 nein	-	-	-	0:46:53.684000	0:46:53.924000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:53.924000" end="0:46:56.958000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:53.924000" end="0:46:56.958000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:46:53.924000	0:46:56.958000
 wir	-	-	-	0:46:53.924000	0:46:56.958000
 jetzt	-	-	-	0:46:53.924000	0:46:56.958000
@@ -11035,9 +11035,9 @@ weiter	-	-	-	0:46:53.924000	0:46:56.958000
 zurückgehen	-	-	-	0:46:53.924000	0:46:56.958000
 könnten	-	-	-	0:46:53.924000	0:46:56.958000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:55.424000" end="0:46:55.738000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:55.424000" end="0:46:55.738000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:56.958000" end="0:47:01.904000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:46:56.958000" end="0:47:01.904000" age_lower="1" age_upper="999">
 also	-	-	-	0:46:56.958000	0:46:59.658000
 angenommen	-	-	-	0:46:56.958000	0:46:59.658000
 zum	-	-	-	0:46:56.958000	0:46:59.658000
@@ -11053,15 +11053,15 @@ der	-	-	-	0:46:59.658000	0:47:01.904000
 Geschichte	-	-	-	0:46:59.658000	0:47:01.904000
 Österreichs	-	-	-	0:46:59.658000	0:47:01.904000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:59.658000" end="0:47:01.904000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:46:59.658000" end="0:47:01.904000" age_lower="65" age_upper="999">
 oh	-	-	-	0:47:01.358000	0:47:01.904000
 Gott	-	-	-	0:47:01.358000	0:47:01.904000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:01.904000" end="0:47:02.444000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:01.904000" end="0:47:02.444000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:01.904000" end="0:47:03.358000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:01.904000" end="0:47:03.358000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:03.358000" end="0:47:12.298000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:03.358000" end="0:47:12.298000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:47:03.358000	0:47:06.378000
 es	-	-	-	0:47:03.358000	0:47:06.378000
 da	-	-	-	0:47:03.358000	0:47:06.378000
@@ -11084,7 +11084,7 @@ von	-	-	-	0:47:10.618000	0:47:12.298000
 anderen	-	-	-	0:47:10.618000	0:47:12.298000
 Ländern	-	-	-	0:47:10.618000	0:47:12.298000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:12.298000" end="0:47:15.811000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:12.298000" end="0:47:15.811000" age_lower="65" age_upper="999">
 nein	-	-	-	0:47:12.298000	0:47:14.991000
 da	-	-	-	0:47:12.298000	0:47:14.991000
 bin	-	-	-	0:47:12.298000	0:47:14.991000
@@ -11095,14 +11095,14 @@ nein	-	-	-	0:47:14.991000	0:47:15.811000
 nein	-	-	-	0:47:14.991000	0:47:15.811000
 nein	-	-	-	0:47:14.991000	0:47:15.811000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:15.811000" end="0:47:16.358000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:15.811000" end="0:47:16.358000" age_lower="1" age_upper="999">
 okay	-	-	-	0:47:15.811000	0:47:16.358000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:16.358000" end="0:47:16.938000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:16.358000" end="0:47:16.938000" age_lower="65" age_upper="999">
 nein	-	-	-	0:47:16.358000	0:47:16.938000
 nein	-	-	-	0:47:16.358000	0:47:16.938000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:16.938000" end="0:47:27.138000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:16.938000" end="0:47:27.138000" age_lower="1" age_upper="999">
 dann	-	-	-	0:47:17.944000	0:47:20.858000
 abschließend	-	-	-	0:47:17.944000	0:47:20.858000
 noch	-	-	-	0:47:17.944000	0:47:20.858000
@@ -11125,7 +11125,7 @@ verändern	-	-	-	0:47:24.658000	0:47:27.138000
 glauben	-	-	-	0:47:24.658000	0:47:27.138000
 Sie	-	-	-	0:47:24.658000	0:47:27.138000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:27.138000" end="0:47:30.084000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:27.138000" end="0:47:30.084000" age_lower="65" age_upper="999">
 nein	-	-	-	0:47:27.138000	0:47:27.791000
 es	-	-	-	0:47:27.791000	0:47:29.298000
 das	-	-	-	0:47:27.791000	0:47:29.298000
@@ -11134,10 +11134,10 @@ ich	-	-	-	0:47:27.791000	0:47:29.298000
 nicht	-	-	-	0:47:27.791000	0:47:29.298000
 gleichbleibend	-	-	-	0:47:29.298000	0:47:30.084000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:30.084000" end="0:47:31.211000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:30.084000" end="0:47:31.211000" age_lower="1" age_upper="999">
 gleichbleibend	-	-	-	0:47:30.084000	0:47:31.211000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:30.084000" end="0:47:33.684000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:30.084000" end="0:47:33.684000" age_lower="65" age_upper="999">
 also	-	-	-	0:47:30.084000	0:47:31.551000
 ich	-	-	-	0:47:30.084000	0:47:31.551000
 glaube	-	-	-	0:47:30.084000	0:47:31.551000
@@ -11152,9 +11152,9 @@ NAME	NAME	-	-	0:47:31.551000	0:47:33.684000
 verändern	-	-	-	0:47:31.551000	0:47:33.684000
 lässt	-	-	-	0:47:31.551000	0:47:33.684000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:33.684000" end="0:47:34.338000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:33.684000" end="0:47:34.338000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:33.684000" end="0:47:37.331000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:33.684000" end="0:47:37.331000" age_lower="65" age_upper="999">
 das	-	-	-	0:47:33.684000	0:47:34.891000
 glaube	-	-	-	0:47:33.684000	0:47:34.891000
 ich	-	-	-	0:47:33.684000	0:47:34.891000
@@ -11170,14 +11170,14 @@ eigentlich	-	-	-	0:47:34.891000	0:47:37.331000
 überzeugt	-	-	-	0:47:34.891000	0:47:37.331000
 davon	-	-	-	0:47:34.891000	0:47:37.331000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:37.331000" end="0:47:38.918000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:37.331000" end="0:47:38.918000" age_lower="1" age_upper="999">
 dass	-	-	-	0:47:37.331000	0:47:38.918000
 das	-	-	-	0:47:37.331000	0:47:38.918000
 etwas	-	-	-	0:47:37.331000	0:47:38.918000
 stabiles	-	-	-	0:47:37.331000	0:47:38.918000
 ist	-	-	-	0:47:37.331000	0:47:38.918000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:37.331000" end="0:47:39.631000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:37.331000" end="0:47:39.631000" age_lower="65" age_upper="999">
 dass	-	-	-	0:47:37.331000	0:47:38.644000
 ein	-	-	-	0:47:37.331000	0:47:38.644000
 sich	-	-	-	0:47:37.331000	0:47:38.644000
@@ -11187,14 +11187,14 @@ das	-	-	-	0:47:38.644000	0:47:39.631000
 stabil	-	-	-	0:47:38.644000	0:47:39.631000
 ist	-	-	-	0:47:38.644000	0:47:39.631000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:39.631000" end="0:47:40.118000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:39.631000" end="0:47:40.118000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:39.631000" end="0:47:40.431000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:39.631000" end="0:47:40.431000" age_lower="65" age_upper="999">
 ja	-	-	-	0:47:39.631000	0:47:40.431000
 ja	-	-	-	0:47:39.631000	0:47:40.431000
 ja	-	-	-	0:47:39.631000	0:47:40.431000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:40.431000" end="0:47:43.144000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:40.431000" end="0:47:43.144000" age_lower="1" age_upper="999">
 ja	-	-	-	0:47:40.431000	0:47:43.144000
 dann	-	-	-	0:47:40.431000	0:47:43.144000
 sage	-	-	-	0:47:40.431000	0:47:43.144000
@@ -11203,12 +11203,12 @@ vielen	-	-	-	0:47:40.431000	0:47:43.144000
 herzlichen	-	-	-	0:47:40.431000	0:47:43.144000
 Dank	-	-	-	0:47:40.431000	0:47:43.144000
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:42.758000" end="0:47:43.144000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:42.758000" end="0:47:43.144000" age_lower="65" age_upper="999">
 ja	-	-	-	0:47:42.758000	0:47:43.144000
 </u>
-<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:43.144000" end="0:47:45.051000" persName="Informant EXP17" age_lower="" age_upper="999">
+<u who="spk_632" sex="female" age="UNK" name="Informant EXP17" location="UNK" lat="None" lon="None" start="0:47:43.144000" end="0:47:45.051000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:43.144000" end="0:47:45.051000" persName="Informant 4034" residence="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" age_lower="65" age_upper="999">
+<u who="spk_657" sex="female" age="alt (65+) weiblich" name="Informant 4034" location="Rudolfsheim-Fünfhaus, Wien, 1150, Österreich" lat="48.1954752" lon="16.32630072151544" start="0:47:43.144000" end="0:47:45.051000" age_lower="65" age_upper="999">
 </u>
 </file>
 </doc>

@@ -1,19 +1,19 @@
 <doc id="transcript_750" name="0230_TARR_m_jungII_INT_2" erhebung="Interview_2_PP0308" erhebungsart="Interview">
 <file id="750.xml" title="Transcript: Transcript_750">
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:00.033000" end="0:00:01.453000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:00.033000" end="0:00:01.453000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:00.033000" end="0:00:03.973000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:00.033000" end="0:00:03.973000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 so	-	-	-	0:00:01.473000	0:00:03.973000
 <pause duration="0,8s"/>
 ähm	-	-	-	0:00:01.473000	0:00:03.973000
 /.	-	-	-	0:00:01.473000	0:00:03.973000
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:03.973000" end="0:00:04.653000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:03.973000" end="0:00:04.653000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:03.973000" end="0:00:05.706000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:03.973000" end="0:00:05.706000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 hallo	-	-	-	0:00:04.653000	0:00:05.706000
 ,	-	-	-	0:00:04.653000	0:00:05.706000
@@ -21,11 +21,11 @@ guten	-	-	-	0:00:04.653000	0:00:05.706000
 Tag	-	-	-	0:00:04.653000	0:00:05.706000
 .	-	-	-	0:00:04.653000	0:00:05.706000
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:05.706000" end="0:00:06.526000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:05.706000" end="0:00:06.526000" age_lower="18" age_upper="35">
 hallo	-	-	-	0:00:05.706000	0:00:06.526000
 .	-	-	-	0:00:05.706000	0:00:06.526000
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:05.706000" end="0:00:09.540000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:05.706000" end="0:00:09.540000" age_lower="1" age_upper="999">
 danke	-	-	-	0:00:05.706000	0:00:06.526000
 ,	-	-	-	0:00:05.706000	0:00:06.526000
 dass	-	-	-	0:00:06.526000	0:00:09.540000
@@ -40,10 +40,10 @@ uns	-	-	-	0:00:06.526000	0:00:09.540000
 ähm	-	-	-	0:00:06.526000	0:00:09.540000
 ,	-	-	-	0:00:06.526000	0:00:09.540000
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:09.540000" end="0:00:10.533000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:09.540000" end="0:00:10.533000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:09.540000" end="0:00:23.260000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:09.540000" end="0:00:23.260000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 Sie	-	-	-	0:00:10.533000	0:00:11.740000
 kennen	-	-	-	0:00:10.533000	0:00:11.740000
@@ -88,11 +88,11 @@ mit	-	-	-	0:00:20.493000	0:00:23.260000
 wem	-	-	-	0:00:20.493000	0:00:23.260000
 ?	-	-	-	0:00:20.493000	0:00:23.260000
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:23.260000" end="0:00:24" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:23.260000" end="0:00:24" age_lower="18" age_upper="35">
 genau	-	-	-	0:00:23.260000	0:00:24
 .	-	-	-	0:00:23.260000	0:00:24
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:24" end="0:00:38.080000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:24" end="0:00:38.080000" age_lower="1" age_upper="999">
 und	-	-	-	0:00:24	0:00:28.173000
 haben	-	-	-	0:00:24	0:00:28.173000
 da	-	-	-	0:00:24	0:00:28.173000
@@ -138,10 +138,10 @@ es	-	-	-	0:00:33.333000	0:00:36.913000
 und	-	-	-	0:00:36.913000	0:00:38.080000
 /.	-	-	-	0:00:36.913000	0:00:38.080000
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:38.080000" end="0:00:38.886000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:38.080000" end="0:00:38.886000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:38.080000" end="0:00:42.246000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:38.080000" end="0:00:42.246000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 auf	-	-	-	0:00:38.886000	0:00:42.246000
 jeden	-	-	-	0:00:38.886000	0:00:42.246000
@@ -157,12 +157,12 @@ mitmachen	-	-	-	0:00:38.886000	0:00:42.246000
 können	-	-	-	0:00:38.886000	0:00:42.246000
 ,	-	-	-	0:00:38.886000	0:00:42.246000
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:42.246000" end="0:00:43.820000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:42.246000" end="0:00:43.820000" age_lower="18" age_upper="35">
 sehr	-	-	-	0:00:42.246000	0:00:43.820000
 gerne	-	-	-	0:00:42.246000	0:00:43.820000
 .	-	-	-	0:00:42.246000	0:00:43.820000
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:42.246000" end="0:00:48" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:42.246000" end="0:00:48" age_lower="1" age_upper="999">
 und	-	-	-	0:00:42.246000	0:00:43.820000
 wir	-	-	-	0:00:42.246000	0:00:43.820000
 wir	-	-	-	0:00:43.820000	0:00:45.326000
@@ -181,10 +181,10 @@ aufgehört	-	-	-	0:00:45.326000	0:00:48
 hat	-	-	-	0:00:45.326000	0:00:48
 .	-	-	-	0:00:45.326000	0:00:48
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:48" end="0:00:48.506000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:48" end="0:00:48.506000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:48" end="0:00:54.853000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:48" end="0:00:54.853000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:00:48.506000	0:00:51.126000
 ähm	-	-	-	0:00:48.506000	0:00:51.126000
@@ -200,10 +200,10 @@ mit	-	-	-	0:00:51.126000	0:00:54.853000
 ähm	-	-	-	0:00:51.126000	0:00:54.853000
 /,	-	-	-	0:00:51.126000	0:00:54.853000
 </u>
-<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:54.853000" end="0:00:55.933000" persName="Informant 0230" residence="Tarrenz, Imst, Tirol, 6464, Österreich" age_lower="18" age_upper="35">
+<u who="spk_154" sex="male" age="jung (18-35) +matura" name="Informant 0230" location="Tarrenz, Imst, Tirol, 6464, Österreich" lat="47.2618485" lon="10.7623191" start="0:00:54.853000" end="0:00:55.933000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:54.853000" end="0:01:06.900000" persName="Informant EXP22" age_lower="" age_upper="999">
+<u who="spk_878" sex="male" age="UNK" name="Informant EXP22" location="UNK" lat="None" lon="None" start="0:00:54.853000" end="0:01:06.900000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 das	-	-	-	0:00:55.933000	0:00:57.260000
 passt	-	-	-	0:00:55.933000	0:00:57.260000

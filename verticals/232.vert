@@ -1,6 +1,6 @@
 <doc id="transcript_232" name="0443_TAUF_alt_m_LESN_Vers5" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="232.xml" title="Transcript: Transcript_232">
-<u who="spk_322" sex="male" age="Alt (65+)" name="Informant 0443" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:00" end="0:01:09.170000" persName="Informant 0443" residence="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" age_lower="65" age_upper="999">
+<u who="spk_322" sex="male" age="Alt (65+)" name="Informant 0443" location="Taufkirchen an der Pram, Schärding, Oberösterreich, 4775, Österreich" lat="48.4100785" lon="13.5375533" start="0:00:00" end="0:01:09.170000" age_lower="65" age_upper="999">
 XX	XX	NUM	-	0:00:00	0:00:15.052000
 Nordwind	Nordwind	NOUN	-	0:00:15.052000	0:00:17.079000
 und	und	CCONJ	-	0:00:15.052000	0:00:17.079000

@@ -1,12 +1,12 @@
 <doc id="transcript_467" name="0283_TUXT_jungII_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="467.xml" title="Transcript: Transcript_467">
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:18.473000" end="0:00:20.400000" persName="Informant 0283" residence="Tux, Schwaz, Tirol, 6293, Österreich" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:18.473000" end="0:00:20.400000" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:18.473000	0:00:20.400000
 </u>
-<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:18.473000" end="0:00:20.400000" persName="Informant EXP3" age_lower="" age_upper="999">
+<u who="spk_618" sex="male" age="UNK" name="Informant EXP3" location="UNK" lat="None" lon="None" start="0:00:18.473000" end="0:00:20.400000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:18.473000	0:00:20.400000
 </u>
-<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:18.473000" end="0:01:18.380000" persName="Informant 0283" residence="Tux, Schwaz, Tirol, 6293, Österreich" age_lower="18" age_upper="35">
+<u who="spk_351" sex="male" age="jung (18-35) +matura" name="Informant 0283" location="Tux, Schwaz, Tirol, 6293, Österreich" lat="47.1289628" lon="11.6920388598186" start="0:00:18.473000" end="0:01:18.380000" age_lower="18" age_upper="35">
 und	-	-	-	0:00:18.473000	0:00:20.400000
 Sonne	-	-	-	0:00:18.473000	0:00:20.400000
 einst	-	-	ae-Diph äeDiph eiReal LautNach LautVor MG mhd. /ei/ Nas Ons Ons- P sPal sPal- sPal-t	0:00:20.400000	0:00:24.013000

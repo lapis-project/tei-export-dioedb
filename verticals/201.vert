@@ -1,6 +1,6 @@
 <doc id="transcript_201" name="0052_0071_WEIS_GFG_Vers3" erhebung="Freundesgespräch_PP0308" erhebungsart="Gespräch ohne Explorator/in">
 <file id="201.xml" title="Transcript: Transcript_201">
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:09.299000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:09.299000" age_lower="1" age_upper="999">
 so	so	ADV	-	0:00:00	0:00:03.959000
 jetzt	jetzt	ADV	-	0:00:00	0:00:03.959000
 <pause duration="0,6s"/>
@@ -28,7 +28,7 @@ zu	zu	PART	-	0:00:07.573000	0:00:09.299000
 nehmen	nehmen	VERB	-	0:00:07.573000	0:00:09.299000
 ,	-	-	-	0:00:07.573000	0:00:09.299000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:09.299000" end="0:00:10.606000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:09.299000" end="0:00:10.606000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:00:09.299000	0:00:10.606000
 habe	habe	AUX	-	0:00:09.299000	0:00:10.606000
 ich	ich	PRON	-	0:00:09.299000	0:00:10.606000
@@ -38,7 +38,7 @@ gesehen	sehen	VERB	-	0:00:09.299000	0:00:10.606000
 ja	ja	PART	-	0:00:09.299000	0:00:10.606000
 .	-	-	-	0:00:09.299000	0:00:10.606000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:09.299000" end="0:00:13.166000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:09.299000" end="0:00:13.166000" age_lower="1" age_upper="999">
 ähm	ähm	PROPN	-	0:00:09.299000	0:00:10.606000
 vorzulesen	vorlesen	VERB	-	0:00:10.606000	0:00:13.166000
 ,	-	-	-	0:00:10.606000	0:00:13.166000
@@ -49,11 +49,11 @@ Kategorie	Kategorie	NOUN	-	0:00:10.606000	0:00:13.166000
 vorzulesen	vorlesen	VERB	-	0:00:10.606000	0:00:13.166000
 ,	-	-	-	0:00:10.606000	0:00:13.166000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:13.166000" end="0:00:13.493000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:13.166000" end="0:00:13.493000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:00:13.166000	0:00:13.493000
 .	-	-	-	0:00:13.166000	0:00:13.493000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:13.493000" end="0:00:15.493000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:13.493000" end="0:00:15.493000" age_lower="1" age_upper="999">
 weil	weil	SCONJ	-	0:00:13.493000	0:00:15.493000
 ,	-	-	-	0:00:13.493000	0:00:15.493000
 dass	dass	SCONJ	-	0:00:13.493000	0:00:15.493000
@@ -64,11 +64,11 @@ halt	halt	ADV	-	0:00:13.493000	0:00:15.493000
 auskennen	auskennen	VERB	-	0:00:13.493000	0:00:15.493000
 ,	-	-	-	0:00:13.493000	0:00:15.493000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:15.493000" end="0:00:15.906000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:15.493000" end="0:00:15.906000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:00:15.493000	0:00:15.906000
 .	-	-	-	0:00:15.493000	0:00:15.906000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:15.493000" end="0:00:18.959000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:15.493000" end="0:00:18.959000" age_lower="1" age_upper="999">
 und	und	CCONJ	-	0:00:15.493000	0:00:15.906000
 dann	dann	ADV	-	0:00:15.493000	0:00:15.906000
 einfach	einfach	ADV	-	0:00:15.906000	0:00:16.666000
@@ -82,11 +82,11 @@ Person	Person	NOUN	-	0:00:16.666000	0:00:18.959000
 antwortet	antworten	VERB	-	0:00:16.666000	0:00:18.959000
 .	-	-	-	0:00:16.666000	0:00:18.959000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:18.959000" end="0:00:19.886000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:18.959000" end="0:00:19.886000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:00:18.959000	0:00:19.886000
 .	-	-	-	0:00:18.959000	0:00:19.886000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:18.959000" end="0:00:23.133000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:18.959000" end="0:00:23.133000" age_lower="1" age_upper="999">
 und	und	CCONJ	-	0:00:18.959000	0:00:19.886000
 am	am	ADP	-	0:00:19.886000	0:00:21.886000
 Besten	Besten	NOUN	-	0:00:19.886000	0:00:21.886000
@@ -98,11 +98,11 @@ sozusagen	sozusagen	ADV	-	0:00:19.886000	0:00:21.886000
 .	-	-	-	0:00:19.886000	0:00:21.886000
 sowohl	sowohl	CCONJ	-	0:00:21.886000	0:00:23.133000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:23.133000" end="0:00:23.626000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:23.133000" end="0:00:23.626000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:23.133000	0:00:23.626000
 .	-	-	-	0:00:23.133000	0:00:23.626000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:23.133000" end="0:00:32.266000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:23.133000" end="0:00:32.266000" age_lower="1" age_upper="999">
 ihr	mein	DET	-	0:00:23.133000	0:00:23.626000
 zwei	zwei	NUM	-	0:00:23.133000	0:00:23.626000
 ab=	abechselnd	ADJ	-	0:00:23.133000	0:00:23.626000
@@ -139,28 +139,28 @@ weiter	weit	ADV	-	0:00:29.966000	0:00:32.266000
 quatschen	quatschen	VERB	-	0:00:29.966000	0:00:32.266000
 ,	-	-	-	0:00:29.966000	0:00:32.266000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:32.266000" end="0:00:33.146000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:32.266000" end="0:00:33.146000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:32.266000	0:00:33.146000
 .	-	-	-	0:00:32.266000	0:00:33.146000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:32.266000" end="0:00:33.846000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:32.266000" end="0:00:33.846000" age_lower="1" age_upper="999">
 genau	genau	ADJ	-	0:00:33.146000	0:00:33.846000
 .	-	-	-	0:00:33.146000	0:00:33.846000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:33.846000" end="0:00:34.613000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:33.846000" end="0:00:34.613000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:00:33.846000	0:00:34.613000
 ,	-	-	-	0:00:33.846000	0:00:34.613000
 eher	eher	ADV	-	0:00:33.846000	0:00:34.613000
 nicht	nicht	PART	-	0:00:33.846000	0:00:34.613000
 ,	-	-	-	0:00:33.846000	0:00:34.613000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:34.613000" end="0:00:36.613000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:34.613000" end="0:00:36.613000" age_lower="1" age_upper="999">
 ja	ja	PART	-	0:00:34.613000	0:00:36.613000
 ,	-	-	-	0:00:34.613000	0:00:36.613000
 okay	okay	NOUN	-	0:00:34.613000	0:00:36.613000
 .	-	-	-	0:00:34.613000	0:00:36.613000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:36.613000" end="0:00:38.119000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:36.613000" end="0:00:38.119000" age_lower="18" age_upper="35">
 es	ich	PRON	-	0:00:36.613000	0:00:38.119000
 ist	sein	AUX	-	0:00:36.613000	0:00:38.119000
 ja	ja	ADV	-	0:00:36.613000	0:00:38.119000
@@ -168,7 +168,7 @@ immer	immer	ADV	-	0:00:36.613000	0:00:38.119000
 Stoff	-	-	-	0:00:36.613000	0:00:38.119000
 .	-	-	-	0:00:36.613000	0:00:38.119000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:38.119000" end="0:00:40.093000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:38.119000" end="0:00:40.093000" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:00:38.119000	0:00:39.466000
 wir	ich	PRON	-	0:00:38.119000	0:00:39.466000
 das	der	DET	-	0:00:38.119000	0:00:39.466000
@@ -180,11 +180,11 @@ weit	weit	ADJ	-	0:00:38.119000	0:00:39.466000
 gekommen	kommen	VERB	-	0:00:39.466000	0:00:40.093000
 .	-	-	-	0:00:39.466000	0:00:40.093000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:39.466000" end="0:00:40.093000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:39.466000" end="0:00:40.093000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:00:39.466000	0:00:40.093000
 .	-	-	-	0:00:39.466000	0:00:40.093000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:40.093000" end="0:00:46.686000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:40.093000" end="0:00:46.686000" age_lower="1" age_upper="999">
 aber	aber	CCONJ	-	0:00:40.093000	0:00:43.473000
 da	da	ADV	-	0:00:40.093000	0:00:43.473000
 war	sein	AUX	-	0:00:40.093000	0:00:43.473000
@@ -205,12 +205,12 @@ letzte	letzte	ADJ	-	0:00:44.686000	0:00:46.686000
 Mal	Mal	NOUN	-	0:00:44.686000	0:00:46.686000
 .	-	-	-	0:00:44.686000	0:00:46.686000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:46.686000" end="0:00:48.266000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:46.686000" end="0:00:48.266000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:00:46.686000	0:00:48.266000
 .	-	-	-	0:00:46.686000	0:00:48.266000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:48.266000" end="0:00:50.253000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:48.266000" end="0:00:50.253000" age_lower="1" age_upper="999">
 da	da	ADV	-	0:00:48.266000	0:00:49.379000
 war	sein	AUX	-	0:00:48.266000	0:00:49.379000
 es	ich	PRON	-	0:00:48.266000	0:00:49.379000
@@ -225,22 +225,22 @@ ich	ich	PRON	-	0:00:49.379000	0:00:50.253000
 dann	dann	ADV	-	0:00:49.379000	0:00:50.253000
 um	um	ADP	-	0:00:49.379000	0:00:50.253000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:50.253000" end="0:00:50.726000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:50.253000" end="0:00:50.726000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:50.253000	0:00:50.726000
 .	-	-	-	0:00:50.253000	0:00:50.726000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:50.253000" end="0:00:51.266000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:50.253000" end="0:00:51.266000" age_lower="1" age_upper="999">
 elf	elf	NUM	-	0:00:50.253000	0:00:50.726000
 oder	oder	CCONJ	-	0:00:50.253000	0:00:50.726000
 so	so	ADV	-	0:00:50.726000	0:00:51.266000
 dann	dann	ADV	-	0:00:50.726000	0:00:51.266000
 ,	-	-	-	0:00:50.726000	0:00:51.266000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:51.266000" end="0:00:51.626000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:51.266000" end="0:00:51.626000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:00:51.266000	0:00:51.626000
 .	-	-	-	0:00:51.266000	0:00:51.626000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:51.626000" end="0:00:55.219000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:51.626000" end="0:00:55.219000" age_lower="1" age_upper="999">
 hat	haben	AUX	-	0:00:51.626000	0:00:53.259000
 er	ich	PRON	-	0:00:51.626000	0:00:53.259000
 gesagt	sagen	VERB	-	0:00:51.626000	0:00:53.259000
@@ -263,23 +263,23 @@ ziemlich	ziemlich	ADV	-	0:00:53.259000	0:00:55.219000
 hart	hart	ADJ	-	0:00:53.259000	0:00:55.219000
 .	-	-	-	0:00:53.259000	0:00:55.219000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:55.219000" end="0:00:56.126000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:55.219000" end="0:00:56.126000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:00:55.219000	0:00:56.126000
 ja	ja	PART	-	0:00:55.219000	0:00:56.126000
 ,	-	-	-	0:00:55.219000	0:00:56.126000
 Feierabend	Feierabend	ADJ	-	0:00:55.219000	0:00:56.126000
 .	-	-	-	0:00:55.219000	0:00:56.126000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:56.126000" end="0:00:56.759000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:56.126000" end="0:00:56.759000" age_lower="18" age_upper="35">
 passt	passt	PROPN	-	0:00:56.126000	0:00:56.759000
 schon	schon	ADV	-	0:00:56.126000	0:00:56.759000
 .	-	-	-	0:00:56.126000	0:00:56.759000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:56.126000" end="0:00:56.759000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:56.126000" end="0:00:56.759000" age_lower="1" age_upper="999">
 ja	ja	PART	-	0:00:56.126000	0:00:56.759000
 ,	-	-	-	0:00:56.126000	0:00:56.759000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:56.759000" end="0:01:00.719000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:00:56.759000" end="0:01:00.719000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:00:56.759000	0:00:58.719000
 gut	gut	ADJ	-	0:00:56.759000	0:00:58.719000
 ,	-	-	-	0:00:56.759000	0:00:58.719000
@@ -299,11 +299,11 @@ wie	wie	ADV	-	0:00:58.719000	0:01:00.719000
 das	der	DET	-	0:00:58.719000	0:01:00.719000
 einzel/	einzel	NOUN	-	0:00:58.719000	0:01:00.719000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:00.719000" end="0:01:01.133000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:00.719000" end="0:01:01.133000" age_lower="1" age_upper="999">
 genau	genau	ADJ	-	0:01:00.719000	0:01:01.133000
 .	-	-	-	0:01:00.719000	0:01:01.133000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:01.133000" end="0:01:03.093000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:01.133000" end="0:01:03.093000" age_lower="18" age_upper="35">
 das	der	DET	-	0:01:01.133000	0:01:03.093000
 Einzel	Einzel	NOUN	-	0:01:01.133000	0:01:03.093000
 ,	-	-	-	0:01:01.133000	0:01:03.093000
@@ -314,11 +314,11 @@ ich	ich	PRON	-	0:01:01.133000	0:01:03.093000
 schon	schon	ADV	-	0:01:01.133000	0:01:03.093000
 /.	-	-	-	0:01:01.133000	0:01:03.093000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:03.093000" end="0:01:03.466000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:03.093000" end="0:01:03.466000" age_lower="1" age_upper="999">
 ja	ja	PART	-	0:01:03.093000	0:01:03.466000
 ,	-	-	-	0:01:03.093000	0:01:03.466000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:03.466000" end="0:01:04.986000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:03.466000" end="0:01:04.986000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:01:03.466000	0:01:04.986000
 war	sein	AUX	-	0:01:03.466000	0:01:04.986000
 (ich)	ich	PRON	-	0:01:03.466000	0:01:04.986000
@@ -329,7 +329,7 @@ fertig	fertigen	ADP	-	0:01:03.466000	0:01:04.986000
 ja	ja	PART	-	0:01:03.466000	0:01:04.986000
 .	-	-	-	0:01:03.466000	0:01:04.986000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:04.986000" end="0:01:06.133000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:04.986000" end="0:01:06.133000" age_lower="1" age_upper="999">
 ja	ja	PART	-	0:01:04.986000	0:01:06.133000
 ,	-	-	-	0:01:04.986000	0:01:06.133000
 das	der	PRON	-	0:01:04.986000	0:01:06.133000
@@ -339,11 +339,11 @@ ich	ich	PRON	-	0:01:04.986000	0:01:06.133000
 ja	ja	PART	-	0:01:04.986000	0:01:06.133000
 .	-	-	-	0:01:04.986000	0:01:06.133000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:06.133000" end="0:01:06.579000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:06.133000" end="0:01:06.579000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:06.133000	0:01:06.579000
 .	-	-	-	0:01:06.133000	0:01:06.579000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:06.579000" end="0:01:13.079000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:06.579000" end="0:01:13.079000" age_lower="1" age_upper="999">
 genau	genau	ADJ	-	0:01:06.579000	0:01:08.579000
 .	-	-	-	0:01:06.579000	0:01:08.579000
 <pause duration="2,2s"/>
@@ -356,7 +356,7 @@ viel	viel	DET	-	0:01:08.579000	0:01:13.079000
 Vergnügen	Vergnügen	NOUN	-	0:01:08.579000	0:01:13.079000
 .	-	-	-	0:01:08.579000	0:01:13.079000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:13.079000" end="0:01:15.839000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:13.079000" end="0:01:15.839000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:13.079000	0:01:14.799000
 ,	-	-	-	0:01:13.079000	0:01:14.799000
 achso	achso	PROPN	-	0:01:13.079000	0:01:14.799000
@@ -373,7 +373,7 @@ ja	ja	PART	-	0:01:14.799000	0:01:15.839000
 record	record	PROPN	-	0:01:14.799000	0:01:15.839000
 ,	-	-	-	0:01:14.799000	0:01:15.839000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:14.799000" end="0:01:17.513000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:14.799000" end="0:01:17.513000" age_lower="1" age_upper="999">
 genau	genau	ADJ	-	0:01:14.799000	0:01:15.839000
 ,	-	-	-	0:01:14.799000	0:01:15.839000
 und	und	CCONJ	-	0:01:14.799000	0:01:15.839000
@@ -387,23 +387,23 @@ wieder	wieder	ADV	-	0:01:15.839000	0:01:17.513000
 da	da	ADP	-	0:01:15.839000	0:01:17.513000
 .	-	-	-	0:01:15.839000	0:01:17.513000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:17.513000" end="0:01:18.173000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:17.513000" end="0:01:18.173000" age_lower="18" age_upper="35">
 (okay)	okay	NOUN	-	0:01:17.513000	0:01:18.173000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:17.513000" end="0:01:18.173000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:17.513000" end="0:01:18.173000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:17.513000	0:01:18.173000
 passt	passt	PROPN	-	0:01:17.513000	0:01:18.173000
 .	-	-	-	0:01:17.513000	0:01:18.173000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:18.173000" end="0:01:18.626000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:18.173000" end="0:01:18.626000" age_lower="1" age_upper="999">
 gut	gut	ADJ	-	0:01:18.173000	0:01:18.626000
 .	-	-	-	0:01:18.173000	0:01:18.626000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:18.626000" end="0:01:19.079000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:18.626000" end="0:01:19.079000" age_lower="18" age_upper="35">
 gut	gut	ADJ	-	0:01:18.626000	0:01:19.079000
 .	-	-	-	0:01:18.626000	0:01:19.079000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:19.079000" end="0:01:20.679000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:19.079000" end="0:01:20.679000" age_lower="18" age_upper="35">
 brauchst	brauchen	VERB	-	0:01:19.079000	0:01:20.679000
 du	du	PRON	-	0:01:19.079000	0:01:20.679000
 einen	ein	DET	-	0:01:19.079000	0:01:20.679000
@@ -412,7 +412,7 @@ oder	oder	CCONJ	-	0:01:19.079000	0:01:20.679000
 irgendwas	irgendwas	PRON	-	0:01:19.079000	0:01:20.679000
 ?	-	-	-	0:01:19.079000	0:01:20.679000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:20.679000" end="0:01:22.459000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:20.679000" end="0:01:22.459000" age_lower="1" age_upper="999">
 nein	nein	PART	-	0:01:20.679000	0:01:22.459000
 ,	-	-	-	0:01:20.679000	0:01:22.459000
 also	also	ADV	-	0:01:20.679000	0:01:22.459000
@@ -424,40 +424,40 @@ gerade	gerade	ADV	-	0:01:20.679000	0:01:22.459000
 aufgehört	aufhören	VERB	-	0:01:20.679000	0:01:22.459000
 .	-	-	-	0:01:20.679000	0:01:22.459000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:22.459000" end="0:01:22.639000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:22.459000" end="0:01:22.639000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:01:22.459000	0:01:22.639000
 .	-	-	-	0:01:22.459000	0:01:22.639000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:22.639000" end="0:01:24.639000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:22.639000" end="0:01:24.639000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:22.639000	0:01:24.639000
 ,	-	-	-	0:01:22.639000	0:01:24.639000
 es	ich	PRON	-	0:01:22.639000	0:01:24.639000
 regnet	regnen	VERB	-	0:01:22.639000	0:01:24.639000
 .	-	-	-	0:01:22.639000	0:01:24.639000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:24.639000" end="0:01:25.613000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:24.639000" end="0:01:25.613000" age_lower="1" age_upper="999">
 okay	okay	NOUN	-	0:01:24.639000	0:01:25.613000
 danke	danke	PROPN	-	0:01:24.639000	0:01:25.613000
 ,	-	-	-	0:01:24.639000	0:01:25.613000
 ciao	ciao	PROPN	Abschied Anrede_Form Anrede_Name Appo Appo- attrAdj attrAdj- Dimin Dimin- exprkomp- Exprkomp GrammForm Gruß GrußFunk kurzF kurzF- Lautung Name- OrgFunk Pro- redupl- Redupl sonstForm sonstForm- stdLneut Sub zeitgeb- Zeitgeb	0:01:24.639000	0:01:25.613000
 !	-	-	-	0:01:24.639000	0:01:25.613000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:25.613000" end="0:01:26.326000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:25.613000" end="0:01:26.326000" age_lower="18" age_upper="35">
 gut	gut	ADJ	-	0:01:25.613000	0:01:26.326000
 ,	-	-	-	0:01:25.613000	0:01:26.326000
 _pfiat_	-	-	-	0:01:25.613000	0:01:26.326000
 _di_	-	-	-	0:01:25.613000	0:01:26.326000
 !	-	-	-	0:01:25.613000	0:01:26.326000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:26.326000" end="0:01:27.039000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:26.326000" end="0:01:27.039000" age_lower="18" age_upper="35">
 tschüss	tschüss	PROPN	Abschied Anrede_Form Anrede_Name Appo Appo- attrAdj attrAdj- Dimin Dimin- exprkomp- Exprkomp GrammForm Gruß GrußFunk kurzF kurzF- Lautung Name- OrgFunk Pro- redupl- Redupl sonstForm sonstForm- stdLneut Wunsch zeitgeb- Zeitgeb	0:01:26.326000	0:01:27.039000
 !	-	-	-	0:01:26.326000	0:01:27.039000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:26.326000" end="0:01:27.039000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:26.326000" end="0:01:27.039000" age_lower="1" age_upper="999">
 ciao	ciao	PROPN	Abschied Anrede_Form Anrede_Name Appo Appo- attrAdj attrAdj- Dimin Dimin- exprkomp- Exprkomp GrammForm Gruß GrußFunk kurzF kurzF- Lautung Name- OrgFunk Pro- redupl- Redupl sonstForm sonstForm- stdLneut Sub zeitgeb- Zeitgeb	0:01:26.326000	0:01:27.039000
 !	-	-	-	0:01:26.326000	0:01:27.039000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:27.039000" end="0:01:30.519000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:27.039000" end="0:01:30.519000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 so	so	ADV	-	0:01:27.039000	0:01:30.519000
 ,	-	-	-	0:01:27.039000	0:01:30.519000
@@ -467,7 +467,7 @@ du	du	PRON	-	0:01:27.039000	0:01:30.519000
 an	an	ADP	-	0:01:27.039000	0:01:30.519000
 .	-	-	-	0:01:27.039000	0:01:30.519000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:30.519000" end="0:01:32.079000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:30.519000" end="0:01:32.079000" age_lower="18" age_upper="35">
 soll	soll	VERB	-	0:01:30.519000	0:01:31.466000
 ich	ich	PRON	-	0:01:30.519000	0:01:31.466000
 das	der	DET	-	0:01:30.519000	0:01:31.466000
@@ -477,22 +477,22 @@ neh=	nehmen	VERB	-	0:01:30.519000	0:01:31.466000
 =men	-	SPACE	-	0:01:31.466000	0:01:32.079000
 ?	-	-	-	0:01:31.466000	0:01:32.079000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:31.466000" end="0:01:32.079000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:31.466000" end="0:01:32.079000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:01:31.466000	0:01:32.079000
 ja	ja	PART	-	0:01:31.466000	0:01:32.079000
 .	-	-	-	0:01:31.466000	0:01:32.079000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:32.079000" end="0:01:34.053000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:32.079000" end="0:01:34.053000" age_lower="18" age_upper="35">
 "rede	rede	NOUN	-	0:01:32.079000	0:01:34.053000
 über	über	ADP	-	0:01:32.079000	0:01:34.053000
 Urlaubsziele"	Urlaubsziele	NOUN	App -belebt -e Interf Interf- irrelevant Komp NPL Pkon PM Poss PR Prel sd+ SDent Suff U- Uml Zug	0:01:32.079000	0:01:34.053000
 .	-	-	-	0:01:32.079000	0:01:34.053000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:34.053000" end="0:01:34.453000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:34.053000" end="0:01:34.453000" age_lower="18" age_upper="35">
 ha	ha	X	-	0:01:34.053000	0:01:34.453000
 !	-	-	-	0:01:34.053000	0:01:34.453000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:34.453000" end="0:01:35.279000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:34.453000" end="0:01:35.279000" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:01:34.453000	0:01:35.279000
 wir	ich	PRON	-	0:01:34.453000	0:01:35.279000
 auch	auch	ADV	-	0:01:34.453000	0:01:35.279000
@@ -500,7 +500,7 @@ schon	schon	ADV	-	0:01:34.453000	0:01:35.279000
 gehabt	haben	AUX	-	0:01:34.453000	0:01:35.279000
 .	-	-	-	0:01:34.453000	0:01:35.279000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:35.279000" end="0:01:36.719000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:35.279000" end="0:01:36.719000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:01:35.279000	0:01:36.719000
 passt	passt	PROPN	-	0:01:35.279000	0:01:36.719000
 ,	-	-	-	0:01:35.279000	0:01:36.719000
@@ -508,9 +508,9 @@ passt	passt	PROPN	-	0:01:35.279000	0:01:36.719000
 wegtun	-	-	-	0:01:35.279000	0:01:36.719000
 .	-	-	-	0:01:35.279000	0:01:36.719000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:36.719000" end="0:01:37.372000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:36.719000" end="0:01:37.372000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:37.372000" end="0:02:06.286000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:01:37.372000" end="0:02:06.286000" age_lower="18" age_upper="35">
 na	-	-	-	0:01:37.372000	0:01:39.499000
 also	-	-	-	0:01:37.372000	0:01:39.499000
 *weißt*	-	-	-	0:01:37.372000	0:01:39.499000
@@ -596,11 +596,11 @@ Mal	Mal	NOUN	-	0:02:02.913000	0:02:06.286000
 dort	dort	ADV	-	0:02:02.913000	0:02:06.286000
 ,	-	-	-	0:02:02.913000	0:02:06.286000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:06.286000" end="0:02:06.993000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:06.286000" end="0:02:06.993000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:02:06.286000	0:02:06.993000
 ?	-	-	-	0:02:06.286000	0:02:06.993000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:06.286000" end="0:02:24.139000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:06.286000" end="0:02:24.139000" age_lower="18" age_upper="35">
 in	in	ADP	-	0:02:06.286000	0:02:06.993000
 der	der	DET	-	0:02:06.286000	0:02:06.993000
 Gegend	Gegend	NOUN	-	0:02:06.993000	0:02:07.773000
@@ -646,7 +646,7 @@ genau	genau	ADJ	-	0:02:21.639000	0:02:24.139000
 ist	sein	AUX	-	0:02:21.639000	0:02:24.139000
 .	-	-	-	0:02:21.639000	0:02:24.139000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:24.139000" end="0:02:25.473000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:24.139000" end="0:02:25.473000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:02:24.139000	0:02:24.733000
 sie	ich	PRON	-	0:02:24.139000	0:02:24.733000
 hat	haben	AUX	-	0:02:24.139000	0:02:24.733000
@@ -654,13 +654,13 @@ draußen	draußen	ADV	-	0:02:24.733000	0:02:25.473000
 gearbeitet	arbeiten	VERB	-	0:02:24.733000	0:02:25.473000
 ?	-	-	-	0:02:24.733000	0:02:25.473000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:25.473000" end="0:02:28.359000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:25.473000" end="0:02:28.359000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:02:25.473000	0:02:28.359000
 <pause duration="1,4s"/>
 in	in	ADP	-	0:02:25.473000	0:02:28.359000
 also	also	ADV	-	0:02:25.473000	0:02:28.359000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:28.359000" end="0:02:29.886000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:28.359000" end="0:02:29.886000" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:02:28.359000	0:02:29.886000
 so	so	ADV	-	0:02:28.359000	0:02:29.886000
 was	was	PRON	-	0:02:28.359000	0:02:29.886000
@@ -671,7 +671,7 @@ da	da	ADV	-	0:02:28.359000	0:02:29.886000
 macht	machen	VERB	-	0:02:28.359000	0:02:29.886000
 ?	-	-	-	0:02:28.359000	0:02:29.886000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:28.359000" end="0:02:34.879000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:28.359000" end="0:02:34.879000" age_lower="18" age_upper="35">
 mehr	mehr	ADV	ADVK ASond sd+ SDent suppl	0:02:28.359000	0:02:29.886000
 oder	oder	CCONJ	-	0:02:28.359000	0:02:29.886000
 weniger	wenig	ADV	ADVK Der- Pseu+ sd+ SDent Suff U- Uml	0:02:28.359000	0:02:29.886000
@@ -693,16 +693,16 @@ SONSTIGE	SONSTIGE	NOUN	Interf Interf- NPL -s sd+ SDent Suff U- Uml	0:02:33.15300
 gemacht	machen	VERB	-	0:02:33.153000	0:02:34.879000
 ,	-	-	-	0:02:33.153000	0:02:34.879000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:34.879000" end="0:02:35.993000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:34.879000" end="0:02:35.993000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 okay	okay	NOUN	-	0:02:34.879000	0:02:35.993000
 .	-	-	-	0:02:34.879000	0:02:35.993000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:35.993000" end="0:02:36.913000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:35.993000" end="0:02:36.913000" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	PROPN	Interf Interf- NPL -s sd+ SDent Suff U- Uml	0:02:35.993000	0:02:36.913000
 .	-	-	-	0:02:35.993000	0:02:36.913000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:36.913000" end="0:02:38.093000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:36.913000" end="0:02:38.093000" age_lower="18" age_upper="35">
 boah	boah	NOUN	-	0:02:36.913000	0:02:37.719000
 sehr/	-	-	-	0:02:36.913000	0:02:37.719000
 das	der	PRON	-	0:02:36.913000	0:02:37.719000
@@ -710,16 +710,16 @@ ist	sein	AUX	-	0:02:36.913000	0:02:37.719000
 auch	auch	ADV	-	0:02:37.719000	0:02:38.093000
 intere=	interessant	ADJ	-	0:02:37.719000	0:02:38.093000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:37.719000" end="0:02:38.093000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:37.719000" end="0:02:38.093000" age_lower="18" age_upper="35">
 ja	jaja	PROPN	-	0:02:37.719000	0:02:38.093000
 ja	-	-	-	0:02:37.719000	0:02:38.093000
 ,	-	-	-	0:02:37.719000	0:02:38.093000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:38.093000" end="0:02:38.486000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:38.093000" end="0:02:38.486000" age_lower="18" age_upper="35">
 ssant	-	SPACE	-	0:02:38.093000	0:02:38.486000
 .	-	-	-	0:02:38.093000	0:02:38.486000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:38.486000" end="0:02:40.486000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:38.486000" end="0:02:40.486000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:02:38.486000	0:02:40.486000
 das	der	PRON	-	0:02:38.486000	0:02:40.486000
 war	sein	AUX	-	0:02:38.486000	0:02:40.486000
@@ -728,7 +728,7 @@ italienische	italienische	ADJ	-	0:02:38.486000	0:02:40.486000
 Firma	Firma	NOUN	-	0:02:38.486000	0:02:40.486000
 ,	-	-	-	0:02:38.486000	0:02:40.486000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:40.486000" end="0:02:41.959000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:40.486000" end="0:02:41.959000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:02:40.486000	0:02:41.959000
 deswegen	deswegen	ADV	-	0:02:40.486000	0:02:41.959000
 kann	können	VERB	-	0:02:40.486000	0:02:41.959000
@@ -737,18 +737,18 @@ so	so	ADV	-	0:02:40.486000	0:02:41.959000
 gut	gut	ADJ	-	0:02:40.486000	0:02:41.959000
 Ita=	italienisch	ADJ	-	0:02:40.486000	0:02:41.959000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:40.486000" end="0:02:41.959000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:40.486000" end="0:02:41.959000" age_lower="18" age_upper="35">
 die	der	DET	-	0:02:40.486000	0:02:41.959000
 da	da	ADV	-	0:02:40.486000	0:02:41.959000
 gebaut	bauen	VERB	-	0:02:40.486000	0:02:41.959000
 hat	haben	AUX	-	0:02:40.486000	0:02:41.959000
 ,	-	-	-	0:02:40.486000	0:02:41.959000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:41.959000" end="0:02:42.533000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:41.959000" end="0:02:42.533000" age_lower="18" age_upper="35">
 lienisch	-	SPACE	-	0:02:41.959000	0:02:42.533000
 .	-	-	-	0:02:41.959000	0:02:42.533000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:42.533000" end="0:02:52.633000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:42.533000" end="0:02:52.633000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:02:42.533000	0:02:44.239000
 ,	-	-	-	0:02:42.533000	0:02:44.239000
 sie	ich	PRON	-	0:02:42.533000	0:02:44.239000
@@ -786,11 +786,11 @@ SONSTIGE	SONSTIGE	NOUN	-	0:02:51.506000	0:02:52.633000
 ja	ja	ADV	-	0:02:51.506000	0:02:52.633000
 .	-	-	-	0:02:51.506000	0:02:52.633000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:52.633000" end="0:02:53.619000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:52.633000" end="0:02:53.619000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:02:52.633000	0:02:53.619000
 .	-	-	-	0:02:52.633000	0:02:53.619000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:52.633000" end="0:03:06.166000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:02:52.633000" end="0:03:06.166000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:02:52.633000	0:02:53.619000
 sie	ich	PRON	-	0:02:52.633000	0:02:53.619000
 hat	haben	AUX	-	0:02:52.633000	0:02:53.619000
@@ -839,7 +839,7 @@ interessiert	interessieren	ADJ	-	0:03:04.319000	0:03:06.166000
 ist	sein	AUX	-	0:03:04.319000	0:03:06.166000
 .	-	-	-	0:03:04.319000	0:03:06.166000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:06.166000" end="0:03:09.526000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:06.166000" end="0:03:09.526000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	ja	ADV	-	0:03:06.166000	0:03:09.526000
 ,	-	-	-	0:03:06.166000	0:03:09.526000
@@ -855,7 +855,7 @@ Heimat	Heimat	NOUN	-	0:03:06.166000	0:03:09.526000
 verschlagen	verschlagen	VERB	-	0:03:06.166000	0:03:09.526000
 .	-	-	-	0:03:06.166000	0:03:09.526000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:09.526000" end="0:03:14.613000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:09.526000" end="0:03:14.613000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:09.526000	0:03:11.766000
 ,	-	-	-	0:03:09.526000	0:03:11.766000
 ja	ja	ADV	-	0:03:09.526000	0:03:11.766000
@@ -873,13 +873,13 @@ Konkurs	Konkurs	NOUN	-	0:03:11.766000	0:03:14.613000
 gegangen	gehen	VERB	-	0:03:11.766000	0:03:14.613000
 ,	-	-	-	0:03:11.766000	0:03:14.613000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:14.613000" end="0:03:15.913000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:14.613000" end="0:03:15.913000" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:03:14.613000	0:03:15.913000
 ,	-	-	-	0:03:14.613000	0:03:15.913000
 okay	okay	NOUN	-	0:03:14.613000	0:03:15.913000
 .	-	-	-	0:03:14.613000	0:03:15.913000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:14.613000" end="0:03:43.839000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:14.613000" end="0:03:43.839000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:03:14.613000	0:03:15.913000
 gibt	geben	VERB	-	0:03:14.613000	0:03:15.913000
 es	ich	PRON	-	0:03:14.613000	0:03:15.913000
@@ -970,7 +970,7 @@ so	so	ADV	-	0:03:41.192000	0:03:41.839000
 ja	ja	PART	-	0:03:41.839000	0:03:43.839000
 .	-	-	-	0:03:41.839000	0:03:43.839000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:43.839000" end="0:03:45.839000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:43.839000" end="0:03:45.839000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:03:43.839000	0:03:45.839000
 glaube	glauben	VERB	-	0:03:43.839000	0:03:45.839000
 ,	-	-	-	0:03:43.839000	0:03:45.839000
@@ -981,7 +981,7 @@ ganz	ganz	ADV	-	0:03:43.839000	0:03:45.839000
 gut	gut	ADJ	-	0:03:43.839000	0:03:45.839000
 .	-	-	-	0:03:43.839000	0:03:45.839000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:45.839000" end="0:03:52.546000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:45.839000" end="0:03:52.546000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:45.839000	0:03:50.059000
 ,	-	-	-	0:03:45.839000	0:03:50.059000
 obwohl	-	-	-	0:03:45.839000	0:03:50.059000
@@ -1002,7 +1002,7 @@ diese	dies	DET	-	0:03:50.059000	0:03:52.546000
 SONSTIGE	SONSTIGE	NOUN	-	0:03:50.059000	0:03:52.546000
 ,	-	-	-	0:03:50.059000	0:03:52.546000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:52.546000" end="0:03:54.086000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:52.546000" end="0:03:54.086000" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:03:52.546000	0:03:54.086000
 die	der	DET	-	0:03:52.546000	0:03:54.086000
 Messen	Messe	NOUN	-(e)n Interf Interf- NPL sd+ SDent Suff U- Uml	0:03:52.546000	0:03:54.086000
@@ -1010,7 +1010,7 @@ und	und	CCONJ	-	0:03:52.546000	0:03:54.086000
 so	so	ADV	-	0:03:52.546000	0:03:54.086000
 ?	-	-	-	0:03:52.546000	0:03:54.086000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:52.546000" end="0:03:56.759000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:52.546000" end="0:03:56.759000" age_lower="18" age_upper="35">
 ähm	ähm	X	-	0:03:52.546000	0:03:54.086000
 ja	ja	PART	-	0:03:52.546000	0:03:54.086000
 .	-	-	-	0:03:52.546000	0:03:54.086000
@@ -1027,10 +1027,10 @@ zwei	zwei	NUM	-	0:03:54.086000	0:03:56.759000
 Mal	mal	NOUN	0 Interf Interf- NPL sd+ SDent Suff U- Uml	0:03:54.086000	0:03:56.759000
 .	-	-	-	0:03:54.086000	0:03:56.759000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:56.759000" end="0:03:58.333000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:56.759000" end="0:03:58.333000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:03:56.759000	0:03:58.333000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:58.333000" end="0:04:23.106000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:03:58.333000" end="0:04:23.106000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:03:58.333000	0:04:00.059000
 da	da	SCONJ	-	0:03:58.333000	0:04:00.059000
 einmal	einmal	ADV	-	0:03:58.333000	0:04:00.059000
@@ -1113,15 +1113,15 @@ es	ich	PRON	-	0:04:21.106000	0:04:23.106000
 schön	schön	ADJ	-	0:04:21.106000	0:04:23.106000
 .	-	-	-	0:04:21.106000	0:04:23.106000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:23.106000" end="0:04:24.446000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:23.106000" end="0:04:24.446000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:23.106000" end="0:04:24.446000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:23.106000" end="0:04:24.446000" age_lower="18" age_upper="35">
 ihr	mein	PRON	-	0:04:23.106000	0:04:24.446000
 war	sein	AUX	-	0:04:23.106000	0:04:24.446000
 fad	fad	PROPN	-	0:04:23.106000	0:04:24.446000
 .	-	-	-	0:04:23.106000	0:04:24.446000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:24.446000" end="0:04:27.886000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:24.446000" end="0:04:27.886000" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:04:24.446000	0:04:25.586000
 wenn	wenn	SCONJ	-	0:04:24.446000	0:04:25.586000
 du	du	PRON	-	0:04:24.446000	0:04:25.586000
@@ -1143,7 +1143,7 @@ daheim	-	-	-	0:04:26.366000	0:04:27.886000
 ist	-	-	-	0:04:26.366000	0:04:27.886000
 ,	-	-	-	0:04:26.366000	0:04:27.886000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:27.886000" end="0:04:36.373000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:27.886000" end="0:04:36.373000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:04:27.886000	0:04:28.559000
 so	so	ADV	-	0:04:27.886000	0:04:28.559000
 ist	sein	AUX	-	0:04:27.886000	0:04:28.559000
@@ -1184,7 +1184,7 @@ gerne	gerne	ADV	-	0:04:35.039000	0:04:36.373000
 heim	heim	ADP	-	0:04:35.039000	0:04:36.373000
 .	-	-	-	0:04:35.039000	0:04:36.373000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:36.373000" end="0:04:39.699000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:36.373000" end="0:04:39.699000" age_lower="18" age_upper="35">
 <pause duration="2s"/>
 ja	ja	PART	-	0:04:36.373000	0:04:38.659000
 ,	-	-	-	0:04:36.373000	0:04:38.659000
@@ -1192,7 +1192,7 @@ ich	ich	PRON	-	0:04:38.659000	0:04:39.699000
 auch	auch	ADV	-	0:04:38.659000	0:04:39.699000
 .	-	-	-	0:04:38.659000	0:04:39.699000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:38.659000" end="0:04:54.293000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:38.659000" end="0:04:54.293000" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:04:39.699000	0:04:42.213000
 ich	ich	PRON	-	0:04:39.699000	0:04:42.213000
 ja	ja	ADV	-	0:04:39.699000	0:04:42.213000
@@ -1237,9 +1237,9 @@ Hund	Hund	NOUN	-	0:04:49.673000	0:04:53.686000
 richten	richten	VERB	-	0:04:49.673000	0:04:53.686000
 .	-	-	-	0:04:49.673000	0:04:53.686000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:54.293000" end="0:04:55.099000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:54.293000" end="0:04:55.099000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:55.099000" end="0:04:56.519000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:55.099000" end="0:04:56.519000" age_lower="18" age_upper="35">
 für	für	ADP	-	0:04:55.099000	0:04:56.519000
 den	der	PRON	-	0:04:55.099000	0:04:56.519000
 ist	sein	AUX	-	0:04:55.099000	0:04:56.519000
@@ -1250,13 +1250,13 @@ nicht	nicht	PART	-	0:04:55.099000	0:04:56.519000
 so	so	ADV	-	0:04:55.099000	0:04:56.519000
 spa=	spannen	ADJ	-	0:04:55.099000	0:04:56.519000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:56.519000" end="0:04:56.979000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:56.519000" end="0:04:56.979000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:56.519000" end="0:04:56.979000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:56.519000" end="0:04:56.979000" age_lower="18" age_upper="35">
 nnend	-	SPACE	-	0:04:56.519000	0:04:56.979000
 .	-	-	-	0:04:56.519000	0:04:56.979000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:56.979000" end="0:05:00.046000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:04:56.979000" end="0:05:00.046000" age_lower="18" age_upper="35">
 nehmt	nehmen	VERB	-	0:04:56.979000	0:05:00.046000
 ihr	mein	PRON	-	0:04:56.979000	0:05:00.046000
 den	der	DET	-	0:04:56.979000	0:05:00.046000
@@ -1266,7 +1266,7 @@ mit	mit	ADP	-	0:04:56.979000	0:05:00.046000
 ja	ja	PART	-	0:04:56.979000	0:05:00.046000
 ?	-	-	-	0:04:56.979000	0:05:00.046000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:00.046000" end="0:05:05.519000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:00.046000" end="0:05:05.519000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:05:00.046000	0:05:00.926000
 ,	-	-	-	0:05:00.046000	0:05:00.926000
 selbstverständlich	selbstverständlich	ADJ	-	0:05:00.046000	0:05:00.926000
@@ -1290,12 +1290,12 @@ ein	einen	DET	-	0:05:00.926000	0:05:05.519000
 zusätzliches	zusätzlich	NOUN	-	0:05:00.926000	0:05:05.519000
 ?	-	-	-	0:05:00.926000	0:05:05.519000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:05.519000" end="0:05:06.379000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:05.519000" end="0:05:06.379000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:05:05.519000	0:05:06.379000
 ja	ja	ADV	-	0:05:05.519000	0:05:06.379000
 .	-	-	-	0:05:05.519000	0:05:06.379000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:06.379000" end="0:05:21.893000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:06.379000" end="0:05:21.893000" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:05:06.379000	0:05:09.699000
 sie	ich	PRON	-	0:05:06.379000	0:05:09.699000
 wieder	wieder	ADV	-	0:05:06.379000	0:05:09.699000
@@ -1349,22 +1349,22 @@ ja	ja	PART	-	0:05:17.526000	0:05:19.526000
 so	so	ADV	-	0:05:19.526000	0:05:21.893000
 .	-	-	-	0:05:19.526000	0:05:21.893000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:21.893000" end="0:05:22.906000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:21.893000" end="0:05:22.906000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 so	so	ADV	-	0:05:21.893000	0:05:22.906000
 .	-	-	-	0:05:21.893000	0:05:22.906000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:22.906000" end="0:05:24.073000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:22.906000" end="0:05:24.073000" age_lower="18" age_upper="35">
 befriedigend	befriedigen	ADJ	-	0:05:22.906000	0:05:24.073000
 beantwortet	beantworten	VERB	-	0:05:22.906000	0:05:24.073000
 .	-	-	-	0:05:22.906000	0:05:24.073000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:24.073000" end="0:05:24.779000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:24.073000" end="0:05:24.779000" age_lower="18" age_upper="35">
 sehr	sehr	ADV	-	0:05:24.073000	0:05:24.779000
 gut	gut	ADJ	-	0:05:24.073000	0:05:24.779000
 .	-	-	-	0:05:24.073000	0:05:24.779000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:24.073000" end="0:05:31.199000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:24.073000" end="0:05:31.199000" age_lower="18" age_upper="35">
 werde	werden	AUX	-	0:05:24.073000	0:05:24.779000
 ich	ich	PRON	-	0:05:24.073000	0:05:24.779000
 einmal	einmal	ADV	-	0:05:24.073000	0:05:24.779000
@@ -1382,7 +1382,7 @@ schönem	schön	ADJ	-	0:05:25.619000	0:05:31.199000
 Erlebnis"	Erlebnis	NOUN	-	0:05:25.619000	0:05:31.199000
 .	-	-	-	0:05:25.619000	0:05:31.199000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:31.199000" end="0:05:35.413000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:31.199000" end="0:05:35.413000" age_lower="18" age_upper="35">
 oh	oweh	PROPN	-	0:05:31.199000	0:05:33.359000
 weh	-	-	-	0:05:31.199000	0:05:33.359000
 ,	-	-	-	0:05:31.199000	0:05:33.359000
@@ -1398,9 +1398,9 @@ sehr	sehr	ADV	-	0:05:33.359000	0:05:34.693000
 viele	viel	PRON	-	0:05:33.359000	0:05:34.693000
 ,	-	-	-	0:05:33.359000	0:05:34.693000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:34.693000" end="0:05:35.413000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:34.693000" end="0:05:35.413000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:35.413000" end="0:05:46.826000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:35.413000" end="0:05:46.826000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:05:36.879000	0:05:39.379000
 das	der	DET	2ArtSPE AKon DArt EAdj EPart ESubj IRR präpon spe-	0:05:36.879000	0:05:39.379000
 letzte	letzte	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj IRR präpon spe-	0:05:36.879000	0:05:39.379000
@@ -1435,11 +1435,11 @@ Verhältnisse	Verhältnis	NOUN	-	0:05:44.099000	0:05:46.826000
 auf	auf	ADP	-	0:05:44.099000	0:05:46.826000
 ,	-	-	-	0:05:44.099000	0:05:46.826000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:46.826000" end="0:05:47.299000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:46.826000" end="0:05:47.299000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:05:46.826000	0:05:47.299000
 .	-	-	-	0:05:46.826000	0:05:47.299000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:47.299000" end="0:05:51.146000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:47.299000" end="0:05:51.146000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:05:47.299000	0:05:51.146000
 die	der	PRON	-	0:05:47.299000	0:05:51.146000
 hat	haben	AUX	-	0:05:47.299000	0:05:51.146000
@@ -1455,11 +1455,11 @@ Auszeichnung	Auszeichnung	NOUN	-	0:05:47.299000	0:05:51.146000
 bestanden	bestehen	VERB	-	0:05:47.299000	0:05:51.146000
 .	-	-	-	0:05:47.299000	0:05:51.146000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:51.146000" end="0:05:51.873000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:51.146000" end="0:05:51.873000" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:05:51.146000	0:05:51.873000
 .	-	-	-	0:05:51.146000	0:05:51.873000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:51.873000" end="0:05:57.332000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:51.873000" end="0:05:57.332000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:05:51.873000	0:05:54.626000
 das	der	PRON	-	0:05:51.873000	0:05:54.626000
 war	sein	AUX	-	0:05:51.873000	0:05:54.626000
@@ -1478,7 +1478,7 @@ was	was	PRON	2ArtSPE ?? DArt EAdj EPart ESubj IRR spe+ spe-	0:05:54.626000	0:05:
 Besonderes	Besonderes	NOUN	2ArtSPE ?? DArt EAdj EPart ESubj IRR spe+ spe-	0:05:54.626000	0:05:57.332000
 .	-	-	-	0:05:54.626000	0:05:57.332000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:57.332000" end="0:06:02.433000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:05:57.332000" end="0:06:02.433000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:05:57.332000	0:05:58.206000
 ,	-	-	-	0:05:57.332000	0:05:58.206000
 das	der	PRON	-	0:05:57.332000	0:05:58.206000
@@ -1498,14 +1498,14 @@ ja	ja	ADV	-	0:05:58.206000	0:06:02.433000
 da	da	ADV	-	0:05:58.206000	0:06:02.433000
 sozu=	sozusagen	ADV	-	0:05:58.206000	0:06:02.433000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:02.433000" end="0:06:03.853000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:02.433000" end="0:06:03.853000" age_lower="18" age_upper="35">
 ihre	mein	DET	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	0:06:02.433000	0:06:03.853000
 Mama	Mama	NOUN	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	0:06:02.433000	0:06:03.853000
 hat	haben	AUX	-	0:06:02.433000	0:06:03.853000
 sie	ich	PRON	-	0:06:02.433000	0:06:03.853000
 /.	-	-	-	0:06:02.433000	0:06:03.853000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:02.433000" end="0:06:04.279000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:02.433000" end="0:06:04.279000" age_lower="18" age_upper="35">
 sagen	-	SPACE	-	0:06:02.433000	0:06:03.853000
 ,	-	-	-	0:06:02.433000	0:06:03.853000
 im	im	ADP	-	0:06:02.433000	0:06:03.853000
@@ -1516,11 +1516,11 @@ gemerkt	merken	VERB	-	0:06:02.433000	0:06:03.853000
 oder	oder	CCONJ	-	0:06:03.853000	0:06:04.279000
 ?	-	-	-	0:06:03.853000	0:06:04.279000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:04.279000" end="0:06:04.666000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:04.279000" end="0:06:04.666000" age_lower="18" age_upper="35">
 hä	hä	VERB	-	0:06:04.279000	0:06:04.666000
 ?	-	-	-	0:06:04.279000	0:06:04.666000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:04.666000" end="0:06:06.826000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:04.666000" end="0:06:06.826000" age_lower="18" age_upper="35">
 *hast*	-	-	-	0:06:04.666000	0:06:06.826000
 es	-	-	-	0:06:04.666000	0:06:06.826000
 im	-	-	-	0:06:04.666000	0:06:06.826000
@@ -1532,13 +1532,13 @@ gemerkt	-	-	-	0:06:04.666000	0:06:06.826000
 ,	-	-	-	0:06:04.666000	0:06:06.826000
 oder	-	-	-	0:06:04.666000	0:06:06.826000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:06.826000" end="0:06:07.926000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:06.826000" end="0:06:07.926000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:06:06.826000	0:06:07.926000
 ja	ja	ADV	-	0:06:06.826000	0:06:07.926000
 schon	schon	ADV	-	0:06:06.826000	0:06:07.926000
 .	-	-	-	0:06:06.826000	0:06:07.926000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:06.826000" end="0:06:07.926000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:06.826000" end="0:06:07.926000" age_lower="18" age_upper="35">
 war	-	-	-	0:06:06.826000	0:06:07.926000
 es	-	-	-	0:06:06.826000	0:06:07.926000
 eben	-	-	-	0:06:06.826000	0:06:07.926000
@@ -1546,7 +1546,7 @@ bei	-	-	-	0:06:06.826000	0:06:07.926000
 der	-	-	-	0:06:06.826000	0:06:07.926000
 Arbeit	-	-	-	0:06:06.826000	0:06:07.926000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:07.926000" end="0:06:09.926000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:07.926000" end="0:06:09.926000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	ja	ADV	-	0:06:07.926000	0:06:09.926000
 ,	-	-	-	0:06:07.926000	0:06:09.926000
@@ -1556,7 +1556,7 @@ hat	haben	AUX	-	0:06:07.926000	0:06:09.926000
 sie	ich	PRON	-	0:06:07.926000	0:06:09.926000
 weggegeben	weggeben	VERB	-	0:06:07.926000	0:06:09.926000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:07.926000" end="0:06:09.926000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:07.926000" end="0:06:09.926000" age_lower="18" age_upper="35">
 _eppa_	-	-	-	0:06:07.926000	0:06:09.926000
 <pause duration="0,7s"/>
 schwierig	-	-	-	0:06:07.926000	0:06:09.926000
@@ -1566,7 +1566,7 @@ ihr	-	-	-	0:06:07.926000	0:06:09.926000
 oder	-	-	-	0:06:07.926000	0:06:09.926000
 ?	-	-	-	0:06:07.926000	0:06:09.926000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:09.926000" end="0:06:14.619000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:09.926000" end="0:06:14.619000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:09.926000	0:06:12.559000
 ihr	mein	DET	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	0:06:09.926000	0:06:12.559000
 Papa	Papa	NOUN	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	0:06:09.926000	0:06:12.559000
@@ -1588,22 +1588,22 @@ oder	oder	CCONJ	-	0:06:14.199000	0:06:14.619000
 so	so	ADV	-	0:06:14.199000	0:06:14.619000
 ,	-	-	-	0:06:14.199000	0:06:14.619000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:14.199000" end="0:06:14.619000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:14.199000" end="0:06:14.619000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:06:14.199000	0:06:14.619000
 .	-	-	-	0:06:14.199000	0:06:14.619000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:14.619000" end="0:06:15.626000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:14.619000" end="0:06:15.626000" age_lower="18" age_upper="35">
 der	der	PRON	-	0:06:14.619000	0:06:15.626000
 ist	sein	AUX	-	0:06:14.619000	0:06:15.626000
 in	in	ADP	-	0:06:14.619000	0:06:15.626000
 ORT	ORT	PROPN	-	0:06:14.619000	0:06:15.626000
 ,	-	-	-	0:06:14.619000	0:06:15.626000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:15.626000" end="0:06:16.359000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:15.626000" end="0:06:16.359000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:15.626000	0:06:16.359000
 .	-	-	-	0:06:15.626000	0:06:16.359000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:16.359000" end="0:06:20.733000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:16.359000" end="0:06:20.733000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 und	und	CCONJ	-	0:06:16.359000	0:06:20.733000
 sie	ich	PRON	-	0:06:16.359000	0:06:20.733000
@@ -1615,11 +1615,11 @@ ORT	-	-	-	0:06:16.359000	0:06:20.733000
 auf	auf	ADP	-	0:06:16.359000	0:06:20.733000
 .	-	-	-	0:06:16.359000	0:06:20.733000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:20.733000" end="0:06:21.353000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:20.733000" end="0:06:21.353000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:20.733000	0:06:21.353000
 .	-	-	-	0:06:20.733000	0:06:21.353000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:21.353000" end="0:06:23.206000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:21.353000" end="0:06:23.206000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 *weißt*	-	-	-	0:06:21.353000	0:06:23.206000
 eh	-	-	-	0:06:21.353000	0:06:23.206000
@@ -1627,22 +1627,22 @@ eh	-	-	-	0:06:21.353000	0:06:23.206000
 in	in	ADP	-	0:06:21.353000	0:06:23.206000
 diesem	dies	DET	-	0:06:21.353000	0:06:23.206000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:23.206000" end="0:06:23.933000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:23.206000" end="0:06:23.933000" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:23.206000	0:06:23.933000
 ,	-	-	-	0:06:23.206000	0:06:23.933000
 ja	-	-	-	0:06:23.206000	0:06:23.933000
 .	-	-	-	0:06:23.206000	0:06:23.933000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:23.933000" end="0:06:25.633000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:23.933000" end="0:06:25.633000" age_lower="18" age_upper="35">
 Jugend(())heim	Jugend()heim	NOUN	-	0:06:23.933000	0:06:25.633000
 oder	oder	CCONJ	-	0:06:23.933000	0:06:25.633000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:23.933000" end="0:06:25.633000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:23.933000" end="0:06:25.633000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:06:23.933000	0:06:25.633000
 weiß	weiß	VERB	-	0:06:23.933000	0:06:25.633000
 .	-	-	-	0:06:23.933000	0:06:25.633000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:25.633000" end="0:06:26.866000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:25.633000" end="0:06:26.866000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 wie	wie	ADV	-	0:06:25.633000	0:06:26.866000
 das	der	PRON	-	0:06:25.633000	0:06:26.866000
@@ -1650,7 +1650,7 @@ auch	auch	ADV	-	0:06:25.633000	0:06:26.866000
 immer	immer	ADV	-	0:06:25.633000	0:06:26.866000
 /.	-	-	-	0:06:25.633000	0:06:26.866000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:26.866000" end="0:06:33.246000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:26.866000" end="0:06:33.246000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:06:26.866000	0:06:27.279000
 weiß	weiß	VERB	-	0:06:26.866000	0:06:27.279000
 ,	-	-	-	0:06:26.866000	0:06:27.279000
@@ -1678,7 +1678,7 @@ Hauptschule	Hauptschule	NOUN	-	0:06:27.279000	0:06:33.246000
 herum	herum	ADP	-	0:06:27.279000	0:06:33.246000
 .	-	-	-	0:06:27.279000	0:06:33.246000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:33.246000" end="0:06:35.426000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:33.246000" end="0:06:35.426000" age_lower="18" age_upper="35">
 _bissel_	bissel	NOUN	-	0:06:33.246000	0:06:35.426000
 genau	genau	ADJ	-	0:06:33.246000	0:06:35.426000
 ,	-	-	-	0:06:33.246000	0:06:35.426000
@@ -1690,11 +1690,11 @@ ein	einen	DET	-	0:06:33.246000	0:06:35.426000
 schwierige	schwierig	ADJ	-	0:06:33.246000	0:06:35.426000
 .	-	-	-	0:06:33.246000	0:06:35.426000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:35.426000" end="0:06:35.873000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:35.426000" end="0:06:35.873000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:35.426000	0:06:35.873000
 .	-	-	-	0:06:35.426000	0:06:35.873000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:35.873000" end="0:06:38.339000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:35.873000" end="0:06:38.339000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:35.873000	0:06:38.339000
 /,	-	-	-	0:06:35.873000	0:06:38.339000
 aber	aber	CCONJ	-	0:06:35.873000	0:06:38.339000
@@ -1706,11 +1706,11 @@ gut	gut	ADJ	-	0:06:35.873000	0:06:38.339000
 gemacht	machen	VERB	-	0:06:35.873000	0:06:38.339000
 ,	-	-	-	0:06:35.873000	0:06:38.339000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:38.339000" end="0:06:38.999000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:38.339000" end="0:06:38.999000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:38.339000	0:06:38.999000
 .	-	-	-	0:06:38.339000	0:06:38.999000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:38.999000" end="0:06:44.293000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:38.999000" end="0:06:44.293000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:06:38.999000	0:06:41.873000
 ,	-	-	-	0:06:38.999000	0:06:41.873000
 *weißt*	-	-	-	0:06:38.999000	0:06:41.873000
@@ -1731,11 +1731,11 @@ schaffen	schaffen	VERB	-	0:06:41.873000	0:06:43.893000
 ,	-	-	-	0:06:41.873000	0:06:43.893000
 und	-	-	-	0:06:43.893000	0:06:44.293000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:43.893000" end="0:06:44.293000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:43.893000" end="0:06:44.293000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:06:43.893000	0:06:44.293000
 ,	-	-	-	0:06:43.893000	0:06:44.293000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:44.293000" end="0:06:57.793000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:44.293000" end="0:06:57.793000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 und	-	-	-	0:06:44.293000	0:06:50.039000
 ja	-	-	-	0:06:44.293000	0:06:50.039000
@@ -1777,11 +1777,11 @@ schaffen"	schaffen	VERB	-	0:06:55.506000	0:06:57.793000
 aber	aber	CCONJ	-	0:06:55.506000	0:06:57.793000
 /.	-	-	-	0:06:55.506000	0:06:57.793000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:57.793000" end="0:06:58.353000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:57.793000" end="0:06:58.353000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:06:57.793000	0:06:58.353000
 ?	-	-	-	0:06:57.793000	0:06:58.353000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:58.353000" end="0:07:03.173000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:06:58.353000" end="0:07:03.173000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:06:58.353000	0:07:00.786000
 ,	-	-	-	0:06:58.353000	0:07:00.786000
 weil	weil	SCONJ	-	0:06:58.353000	0:07:00.786000
@@ -1808,11 +1808,11 @@ hat	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelev
 sie	ich	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:07:02.519000	0:07:03.173000
 einen	ein	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:07:02.519000	0:07:03.173000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:02.519000" end="0:07:03.173000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:02.519000" end="0:07:03.173000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:02.519000	0:07:03.173000
 .	-	-	-	0:07:02.519000	0:07:03.173000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:03.173000" end="0:07:07.053000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:03.173000" end="0:07:07.053000" age_lower="18" age_upper="35">
 guten	gut	ADJ	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:07:03.173000	0:07:05.173000
 Tag	Tag	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:07:03.173000	0:07:05.173000
 gehabt	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:07:03.173000	0:07:05.173000
@@ -1829,7 +1829,7 @@ sie	ich	PRON	-	0:07:05.173000	0:07:07.053000
 ja	ja	ADV	-	0:07:05.173000	0:07:07.053000
 dann)	dann	ADV	-	0:07:05.173000	0:07:07.053000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:05.173000" end="0:07:07.053000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:05.173000" end="0:07:07.053000" age_lower="18" age_upper="35">
 <pause duration="1s"/>
 hast	haben	AUX	-	0:07:05.173000	0:07:07.053000
 du	du	PRON	-	0:07:05.173000	0:07:07.053000
@@ -1842,7 +1842,7 @@ lernen	lernen	VERB	-	0:07:05.173000	0:07:07.053000
 oder	oder	CCONJ	-	0:07:05.173000	0:07:07.053000
 ?	-	-	-	0:07:05.173000	0:07:07.053000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:07.053000" end="0:07:08.233000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:07.053000" end="0:07:08.233000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:07.053000	0:07:08.233000
 ,	-	-	-	0:07:07.053000	0:07:08.233000
 wir	ich	PRON	-	0:07:07.053000	0:07:08.233000
@@ -1850,7 +1850,7 @@ haben	haben	AUX	-	0:07:07.053000	0:07:08.233000
 sehr	sehr	ADV	-	0:07:07.053000	0:07:08.233000
 viel	viel	ADV	-	0:07:07.053000	0:07:08.233000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:07.053000" end="0:07:08.233000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:07.053000" end="0:07:08.233000" age_lower="18" age_upper="35">
 für	für	ADP	-	0:07:07.053000	0:07:08.233000
 die	der	DET	-	0:07:07.053000	0:07:08.233000
 Berufsschule	Berufsschule	NOUN	-	0:07:07.053000	0:07:08.233000
@@ -1858,17 +1858,17 @@ und	und	CCONJ	-	0:07:07.053000	0:07:08.233000
 so	so	ADV	-	0:07:07.053000	0:07:08.233000
 ?	-	-	-	0:07:07.053000	0:07:08.233000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:08.233000" end="0:07:08.773000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:08.233000" end="0:07:08.773000" age_lower="18" age_upper="35">
 gelernt	lernen	VERB	-	0:07:08.233000	0:07:08.773000
 ,	-	-	-	0:07:08.233000	0:07:08.773000
 ja	ja	PART	-	0:07:08.233000	0:07:08.773000
 .	-	-	-	0:07:08.233000	0:07:08.773000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:08.773000" end="0:07:09.226000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:08.773000" end="0:07:09.226000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:08.773000	0:07:09.226000
 ?	-	-	-	0:07:08.773000	0:07:09.226000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:09.226000" end="0:07:13.933000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:09.226000" end="0:07:13.933000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:09.226000	0:07:09.693000
 .	-	-	-	0:07:09.226000	0:07:09.693000
 <pause duration="1,2s"/>
@@ -1883,7 +1883,7 @@ totale	totale	ADJ	-	0:07:09.693000	0:07:13.933000
 Leuchte	Leuchte	NOUN	-	0:07:09.693000	0:07:13.933000
 ,	-	-	-	0:07:09.693000	0:07:13.933000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:13.933000" end="0:07:14.773000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:13.933000" end="0:07:14.773000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:07:13.933000	0:07:14.773000
 ,	-	-	-	0:07:13.933000	0:07:14.773000
 gut	gut	ADJ	-	0:07:13.933000	0:07:14.773000
@@ -1891,7 +1891,7 @@ gut	gut	ADJ	-	0:07:13.933000	0:07:14.773000
 dass	dass	SCONJ	-	0:07:13.933000	0:07:14.773000
 /.	-	-	-	0:07:13.933000	0:07:14.773000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:14.773000" end="0:07:19.379000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:14.773000" end="0:07:19.379000" age_lower="18" age_upper="35">
 sie	ich	PRON	-	0:07:14.773000	0:07:15.919000
 hat	haben	AUX	-	0:07:14.773000	0:07:15.919000
 sich	sich	PRON	-	0:07:14.773000	0:07:15.919000
@@ -1917,17 +1917,17 @@ bestanden	bestehen	VERB	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Qu
 ,	-	-	-	0:07:17.119000	0:07:18.953000
 das	der	PRON	-	0:07:18.953000	0:07:19.379000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:18.953000" end="0:07:19.379000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:18.953000" end="0:07:19.379000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:07:18.953000	0:07:19.379000
 .	-	-	-	0:07:18.953000	0:07:19.379000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:19.379000" end="0:07:20.046000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:19.379000" end="0:07:20.046000" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:07:19.379000	0:07:20.046000
 sehr	sehr	ADV	-	0:07:19.379000	0:07:20.046000
 schön	schön	ADJ	-	0:07:19.379000	0:07:20.046000
 .	-	-	-	0:07:19.379000	0:07:20.046000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:20.046000" end="0:07:42.393000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:20.046000" end="0:07:42.393000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 bei	bei	ADP	-	0:07:20.046000	0:07:21.693000
 mir	sich	PRON	-	0:07:20.046000	0:07:21.693000
@@ -2009,10 +2009,10 @@ ja	-	-	-	0:07:41.193000	0:07:42.393000
 _deppat_	-	-	-	0:07:41.193000	0:07:42.393000
 ,	-	-	-	0:07:41.193000	0:07:42.393000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:42.393000" end="0:07:44.939000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:42.393000" end="0:07:44.939000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:42.393000" end="0:07:51.379000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:42.393000" end="0:07:51.379000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 ja	ja	PART	-	0:07:42.393000	0:07:44.939000
 .	-	-	-	0:07:42.393000	0:07:44.939000
@@ -2037,11 +2037,11 @@ Lehrabschlussprüfung	Lehrabschlussprüfung	NOUN	-	0:07:49.379000	0:07:51.379000
 nicht	nicht	PART	-	0:07:49.379000	0:07:51.379000
 .	-	-	-	0:07:49.379000	0:07:51.379000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:51.379000" end="0:07:51.819000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:51.379000" end="0:07:51.819000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:07:51.379000	0:07:51.819000
 ?	-	-	-	0:07:51.379000	0:07:51.819000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:51.819000" end="0:08:08.353000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:07:51.819000" end="0:08:08.353000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:07:51.819000	0:07:52.373000
 .	-	-	-	0:07:51.819000	0:07:52.373000
 ist	sein	AUX	-	0:07:52.373000	0:07:54.373000
@@ -2101,7 +2101,7 @@ ja	ja	ADV	-	0:08:05.679000	0:08:08.353000
 die/	-	-	-	0:08:05.679000	0:08:08.353000
 .	-	-	-	0:08:05.679000	0:08:08.353000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:08.353000" end="0:08:14.679000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:08.353000" end="0:08:14.679000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	ja	PART	-	0:08:08.353000	0:08:11.919000
 ,	-	-	-	0:08:08.353000	0:08:11.919000
@@ -2130,7 +2130,7 @@ nichts	nichts	PRON	-	0:08:13.679000	0:08:14.679000
 verlieren	verlieren	VERB	-	0:08:13.679000	0:08:14.679000
 .	-	-	-	0:08:13.679000	0:08:14.679000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:14.679000" end="0:08:25.893000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:14.679000" end="0:08:25.893000" age_lower="18" age_upper="35">
 eh	eh	X	-	0:08:14.679000	0:08:16.586000
 ,	-	-	-	0:08:14.679000	0:08:16.586000
 also	also	ADV	-	0:08:14.679000	0:08:16.586000
@@ -2183,13 +2183,13 @@ oder	oder	CCONJ	-	0:08:24.466000	0:08:25.893000
 was	was	PRON	-	0:08:24.466000	0:08:25.893000
 ?	-	-	-	0:08:24.466000	0:08:25.893000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:25.893000" end="0:08:27.332000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:25.893000" end="0:08:27.332000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:25.893000	0:08:27.332000
 ,	-	-	-	0:08:25.893000	0:08:27.332000
 ja	ja	PART	-	0:08:25.893000	0:08:27.332000
 .	-	-	-	0:08:25.893000	0:08:27.332000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:25.893000" end="0:08:27.332000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:25.893000" end="0:08:27.332000" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:08:25.893000	0:08:27.332000
 ja	ja	ADV	-	0:08:25.893000	0:08:27.332000
 ein	einen	DET	-	0:08:25.893000	0:08:27.332000
@@ -2198,7 +2198,7 @@ Fachgespräch	Fachgespräch	NOUN	-	0:08:25.893000	0:08:27.332000
 oder	oder	CCONJ	-	0:08:25.893000	0:08:27.332000
 ?	-	-	-	0:08:25.893000	0:08:27.332000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:27.332000" end="0:08:29.059000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:27.332000" end="0:08:29.059000" age_lower="18" age_upper="35">
 und	-	-	-	0:08:27.332000	0:08:29.059000
 reden	-	-	-	0:08:27.332000	0:08:29.059000
 *musst*	-	-	-	0:08:27.332000	0:08:29.059000
@@ -2210,7 +2210,7 @@ schriftlich	-	-	-	0:08:27.332000	0:08:29.059000
 auch	-	-	-	0:08:27.332000	0:08:29.059000
 .	-	-	-	0:08:27.332000	0:08:29.059000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:29.059000" end="0:08:30.299000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:29.059000" end="0:08:30.299000" age_lower="18" age_upper="35">
 ah	-	-	-	0:08:29.059000	0:08:30.299000
 schriftlich	-	-	-	0:08:29.059000	0:08:30.299000
 auch	-	-	-	0:08:29.059000	0:08:30.299000
@@ -2221,7 +2221,7 @@ okay	-	-	-	0:08:29.059000	0:08:30.299000
 nein	-	-	-	0:08:29.059000	0:08:30.299000
 ,	-	-	-	0:08:29.059000	0:08:30.299000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:30.299000" end="0:08:32.299000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:30.299000" end="0:08:32.299000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:08:30.299000	0:08:32.299000
 ,	-	-	-	0:08:30.299000	0:08:32.299000
 und	und	CCONJ	-	0:08:30.299000	0:08:32.299000
@@ -2234,7 +2234,7 @@ nervös	nervös	ADJ	-	0:08:30.299000	0:08:32.299000
 und	und	CCONJ	-	0:08:30.299000	0:08:32.299000
 da	da	ADV	-	0:08:30.299000	0:08:32.299000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:30.299000" end="0:08:32.299000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:30.299000" end="0:08:32.299000" age_lower="18" age_upper="35">
 (wird	-	-	-	0:08:30.299000	0:08:32.299000
 es)	-	-	-	0:08:30.299000	0:08:32.299000
 vielleicht	-	-	-	0:08:30.299000	0:08:32.299000
@@ -2243,7 +2243,7 @@ so	-	-	-	0:08:30.299000	0:08:32.299000
 eine	-	-	-	0:08:30.299000	0:08:32.299000
 /.	-	-	-	0:08:30.299000	0:08:32.299000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:32.299000" end="0:08:33.693000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:32.299000" end="0:08:33.693000" age_lower="18" age_upper="35">
 hat	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:08:32.299000	0:08:33.693000
 sie	sich	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:08:32.299000	0:08:33.693000
 echt	echt	ADJ	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:08:32.299000	0:08:33.693000
@@ -2253,7 +2253,7 @@ Tag	Tag	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irreleva
 gehabt	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:08:32.299000	0:08:33.693000
 .	-	-	-	0:08:32.299000	0:08:33.693000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:33.693000" end="0:08:41.993000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:33.693000" end="0:08:41.993000" age_lower="18" age_upper="35">
 weil	-	-	-	0:08:33.693000	0:08:35.846000
 bei	-	-	-	0:08:33.693000	0:08:35.846000
 uns	-	-	-	0:08:33.693000	0:08:35.846000
@@ -2289,23 +2289,23 @@ reden	reden	VERB	-	0:08:40.519000	0:08:41.993000
 nicht	nicht	PART	-	0:08:40.519000	0:08:41.993000
 ?	-	-	-	0:08:40.519000	0:08:41.993000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:41.993000" end="0:08:43.926000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:41.993000" end="0:08:43.926000" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:08:41.993000	0:08:43.926000
 dich	-	-	-	0:08:41.993000	0:08:43.926000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:41.993000" end="0:08:43.926000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:41.993000" end="0:08:43.926000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 schweigen	schweigen	NOUN	-	0:08:41.993000	0:08:43.926000
 die/	-	-	-	0:08:41.993000	0:08:43.926000
 /.	-	-	-	0:08:41.993000	0:08:43.926000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:43.926000" end="0:08:44.646000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:43.926000" end="0:08:44.646000" age_lower="18" age_upper="35">
 herausreden	-	-	-	0:08:43.926000	0:08:44.646000
 ,	-	-	-	0:08:43.926000	0:08:44.646000
 ja	ja	PART	-	0:08:43.926000	0:08:44.646000
 .	-	-	-	0:08:43.926000	0:08:44.646000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:44.646000" end="0:09:04.846000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:08:44.646000" end="0:09:04.846000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 und	und	CCONJ	-	0:08:44.646000	0:08:48.173000
 da	da	ADV	-	0:08:44.646000	0:08:48.173000
@@ -2384,7 +2384,7 @@ die	der	DET	-	0:08:59.566000	0:09:04.846000
 Art	Art	NOUN	-	0:08:59.566000	0:09:04.846000
 .	-	-	-	0:08:59.566000	0:09:04.846000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:04.846000" end="0:09:07.239000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:04.846000" end="0:09:07.239000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:04.846000	0:09:06.313000
 ,	-	-	-	0:09:04.846000	0:09:06.313000
 da	da	ADV	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:09:04.846000	0:09:06.313000
@@ -2398,7 +2398,7 @@ eh	eh	ADV	-	0:09:06.313000	0:09:07.239000
 auch	auch	ADV	-	0:09:06.313000	0:09:07.239000
 .	-	-	-	0:09:06.313000	0:09:07.239000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:07.239000" end="0:09:10.866000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:07.239000" end="0:09:10.866000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:09:07.239000	0:09:10.866000
 was	was	PRON	-	0:09:07.239000	0:09:10.866000
 muss	muss	VERB	-	0:09:07.239000	0:09:10.866000
@@ -2417,7 +2417,7 @@ euch	sich	PRON	-	0:09:07.239000	0:09:10.866000
 oder	oder	CCONJ	-	0:09:07.239000	0:09:10.866000
 /?	-	-	-	0:09:07.239000	0:09:10.866000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:10.866000" end="0:09:14.006000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:10.866000" end="0:09:14.006000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:10.866000	0:09:12.359000
 ,	-	-	-	0:09:10.866000	0:09:12.359000
 jetzt	jetzt	ADV	-	0:09:10.866000	0:09:12.359000
@@ -2437,16 +2437,16 @@ weg	weg	ADV	-	0:09:12.359000	0:09:14.006000
 dann	dann	ADV	-	0:09:12.359000	0:09:14.006000
 ,	-	-	-	0:09:12.359000	0:09:14.006000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:14.006000" end="0:09:14.573000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:14.006000" end="0:09:14.573000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:14.006000	0:09:14.573000
 .	-	-	-	0:09:14.006000	0:09:14.573000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:14.573000" end="0:09:15.313000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:14.573000" end="0:09:15.313000" age_lower="18" age_upper="35">
 einmal	einmal	ADV	-	0:09:14.573000	0:09:15.313000
 schauen	schauen	VERB	-	0:09:14.573000	0:09:15.313000
 .	-	-	-	0:09:14.573000	0:09:15.313000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:15.313000" end="0:09:17.313000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:15.313000" end="0:09:17.313000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:09:15.313000	0:09:17.313000
 ,	-	-	-	0:09:15.313000	0:09:17.313000
 wie	wie	ADV	-	0:09:15.313000	0:09:17.313000
@@ -2461,19 +2461,19 @@ oder	oder	CCONJ	-	0:09:15.313000	0:09:17.313000
 was	was	PRON	-	0:09:15.313000	0:09:17.313000
 ?	-	-	-	0:09:15.313000	0:09:17.313000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:17.313000" end="0:09:17.966000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:17.313000" end="0:09:17.966000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:17.313000	0:09:17.966000
 .	-	-	-	0:09:17.313000	0:09:17.966000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:17.966000" end="0:09:18.893000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:17.966000" end="0:09:18.893000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:17.966000	0:09:18.893000
 .	-	-	-	0:09:17.966000	0:09:18.893000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:18.893000" end="0:09:19.833000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:18.893000" end="0:09:19.833000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:18.893000	0:09:19.833000
 .	-	-	-	0:09:18.893000	0:09:19.833000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:19.833000" end="0:09:23.013000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:19.833000" end="0:09:23.013000" age_lower="18" age_upper="35">
 stark	stark	ADJ	-	0:09:19.833000	0:09:20.546000
 ,	-	-	-	0:09:19.833000	0:09:20.546000
 <pause duration="1,6s"/>
@@ -2481,11 +2481,11 @@ die	der	DET	-	0:09:20.546000	0:09:23.013000
 Schicksale	Schicksal	NOUN	-	0:09:20.546000	0:09:23.013000
 .	-	-	-	0:09:20.546000	0:09:23.013000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:23.013000" end="0:09:23.686000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:23.013000" end="0:09:23.686000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:23.013000	0:09:23.686000
 .	-	-	-	0:09:23.013000	0:09:23.686000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:23.686000" end="0:09:31.733000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:23.686000" end="0:09:31.733000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 wenn	wenn	SCONJ	-	0:09:23.686000	0:09:25.686000
 du	du	PRON	-	0:09:23.686000	0:09:25.686000
@@ -2515,11 +2515,11 @@ Pflaume	-	-	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:09:28.333
 in	-	-	-	0:09:28.333000	0:09:31.733000
 /,	-	-	-	0:09:28.333000	0:09:31.733000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:31.733000" end="0:09:34.306000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:31.733000" end="0:09:34.306000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:31.733000	0:09:34.306000
 .	-	-	-	0:09:31.733000	0:09:34.306000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:31.733000" end="0:09:36.966000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:31.733000" end="0:09:36.966000" age_lower="18" age_upper="35">
 der/	-	-	-	0:09:31.733000	0:09:34.306000
 *weißt*	-	-	-	0:09:31.733000	0:09:34.306000
 eh	-	-	-	0:09:31.733000	0:09:34.306000
@@ -2538,9 +2538,9 @@ die	der	DET	-	0:09:34.306000	0:09:36.966000
 Lehrer	Lehrer	NOUN	-	0:09:34.306000	0:09:36.966000
 .	-	-	-	0:09:34.306000	0:09:36.966000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:36.966000" end="0:09:37.566000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:36.966000" end="0:09:37.566000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:37.566000" end="0:09:41.973000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:37.566000" end="0:09:41.973000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:09:37.566000	0:09:39.566000
 ja	ja	PART	-	0:09:37.566000	0:09:39.566000
 ,	-	-	-	0:09:37.566000	0:09:39.566000
@@ -2567,11 +2567,11 @@ auch	auch	ADV	-	0:09:39.566000	0:09:41.973000
 selbstständig	selbstständig	ADJ	-	0:09:39.566000	0:09:41.973000
 ,	-	-	-	0:09:39.566000	0:09:41.973000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:41.973000" end="0:09:42.626000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:41.973000" end="0:09:42.626000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:09:41.973000	0:09:42.626000
 .	-	-	-	0:09:41.973000	0:09:42.626000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:41.973000" end="0:09:53.733000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:41.973000" end="0:09:53.733000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:09:41.973000	0:09:42.626000
 was	was	PRON	-	0:09:41.973000	0:09:42.626000
 ,	-	-	-	0:09:41.973000	0:09:42.626000
@@ -2604,23 +2604,23 @@ nicht	nicht	PART	-	0:09:52.346000	0:09:53.733000
 eher	eher	ADV	-	0:09:52.346000	0:09:53.733000
 mehr	mehr	ADV	-	0:09:52.346000	0:09:53.733000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:53.733000" end="0:09:56.293000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:53.733000" end="0:09:56.293000" age_lower="18" age_upper="35">
 auf	auf	ADP	-	0:09:53.733000	0:09:54.619000
 damalig	damalig	ADJ	-	0:09:53.733000	0:09:54.619000
 _bissel_	-	-	-	0:09:54.619000	0:09:56.293000
 /.	-	-	-	0:09:54.619000	0:09:56.293000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:54.619000" end="0:09:56.293000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:54.619000" end="0:09:56.293000" age_lower="18" age_upper="35">
 demoralisieren	demoralisieren	VERB	-	0:09:54.619000	0:09:56.293000
 die	der	DET	-	0:09:54.619000	0:09:56.293000
 Leute	Leute	NOUN	-	0:09:54.619000	0:09:56.293000
 .	-	-	-	0:09:54.619000	0:09:56.293000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:56.293000" end="0:09:56.559000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:56.293000" end="0:09:56.559000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:09:56.293000	0:09:56.559000
 .	-	-	-	0:09:56.293000	0:09:56.559000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:56.559000" end="0:10:27.566000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:09:56.559000" end="0:10:27.566000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:09:56.559000	0:10:02.586000
 es	ich	PRON	-	0:09:56.559000	0:10:02.586000
 noch	noch	ADV	-	0:09:56.559000	0:10:02.586000
@@ -2730,7 +2730,7 @@ aus	aus	ADP	-	0:10:25.566000	0:10:27.566000
 ach	ach	X	-	0:10:25.566000	0:10:27.566000
 .	-	-	-	0:10:25.566000	0:10:27.566000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:27.566000" end="0:10:29.999000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:27.566000" end="0:10:29.999000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:10:27.566000	0:10:29.006000
 ,	-	-	-	0:10:27.566000	0:10:29.006000
 da	da	ADV	-	0:10:27.566000	0:10:29.006000
@@ -2740,7 +2740,7 @@ drauf	drauf	ADV	-	0:10:29.006000	0:10:29.999000
 achten	achten	VERB	-	0:10:29.006000	0:10:29.999000
 ,	-	-	-	0:10:29.006000	0:10:29.999000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:29.006000" end="0:10:32.219000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:29.006000" end="0:10:32.219000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:10:29.006000	0:10:29.999000
 ist	sein	AUX	-	0:10:29.006000	0:10:29.999000
 sowas	sowas	NOUN	-	0:10:29.006000	0:10:29.999000
@@ -2749,12 +2749,12 @@ nicht	nicht	PART	-	0:10:29.999000	0:10:32.219000
 aussagekräftig	aussagekräftig	ADJ	-	0:10:29.999000	0:10:32.219000
 ,	-	-	-	0:10:29.999000	0:10:32.219000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:32.219000" end="0:10:33.019000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:32.219000" end="0:10:33.019000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:10:32.219000	0:10:33.019000
 stimmt	stimmen	VERB	-	0:10:32.219000	0:10:33.019000
 .	-	-	-	0:10:32.219000	0:10:33.019000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:33.019000" end="0:10:35.573000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:33.019000" end="0:10:35.573000" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:33.019000	0:10:35.573000
 <pause duration="0,8s"/>
 gerade	-	-	-	0:10:33.019000	0:10:35.573000
@@ -2762,12 +2762,12 @@ _lei_	-	-	-	0:10:33.019000	0:10:35.573000
 Vorurteile	-	-	-	0:10:33.019000	0:10:35.573000
 .	-	-	-	0:10:33.019000	0:10:35.573000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:35.573000" end="0:10:36.726000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:35.573000" end="0:10:36.726000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:10:35.573000	0:10:36.726000
 .	-	-	-	0:10:35.573000	0:10:36.726000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:35.573000" end="0:10:44.459000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:35.573000" end="0:10:44.459000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 weil	weil	SCONJ	-	0:10:35.573000	0:10:36.726000
 da	da	ADV	-	0:10:35.573000	0:10:36.726000
@@ -2804,12 +2804,12 @@ ist	sein	AUX	-	0:10:38.319000	0:10:44.459000
 nicht	nicht	PART	-	0:10:38.319000	0:10:44.459000
 ?	-	-	-	0:10:38.319000	0:10:44.459000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:44.459000" end="0:10:45.153000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:44.459000" end="0:10:45.153000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:10:44.459000	0:10:45.153000
 stimmt	stimmen	VERB	-	0:10:44.459000	0:10:45.153000
 .	-	-	-	0:10:44.459000	0:10:45.153000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:45.153000" end="0:10:53.953000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:45.153000" end="0:10:53.953000" age_lower="18" age_upper="35">
 der	der	DET	-	0:10:45.153000	0:10:47.233000
 Frontalunterricht	Frontalunterricht	NOUN	-	0:10:45.153000	0:10:47.233000
 ,	-	-	-	0:10:45.153000	0:10:47.233000
@@ -2840,17 +2840,17 @@ halt	halt	ADV	-	0:10:51.953000	0:10:53.953000
 einen)	ein	DET	-	0:10:51.953000	0:10:53.953000
 ?	-	-	-	0:10:51.953000	0:10:53.953000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:53.953000" end="0:10:54.526000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:53.953000" end="0:10:54.526000" age_lower="18" age_upper="35">
 zwei	zwei	NUM	-	0:10:53.953000	0:10:54.526000
 .	-	-	-	0:10:53.953000	0:10:54.526000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:54.526000" end="0:10:55.219000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:54.526000" end="0:10:55.219000" age_lower="18" age_upper="35">
 ah	ah	NOUN	-	0:10:54.526000	0:10:55.219000
 ,	-	-	-	0:10:54.526000	0:10:55.219000
 zwei	zwei	NUM	-	0:10:54.526000	0:10:55.219000
 ?	-	-	-	0:10:54.526000	0:10:55.219000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:55.219000" end="0:10:57.372000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:55.219000" end="0:10:57.372000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:10:55.219000	0:10:56.739000
 ,	-	-	-	0:10:55.219000	0:10:56.739000
 jetzt	jetzt	ADV	-	0:10:55.219000	0:10:56.739000
@@ -2866,13 +2866,13 @@ ja	ja	ADV	-	0:10:56.739000	0:10:57.372000
 fertig	fertigen	ADJ	-	0:10:56.739000	0:10:57.372000
 ,	-	-	-	0:10:56.739000	0:10:57.372000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:56.739000" end="0:10:58.399000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:56.739000" end="0:10:58.399000" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:10:56.739000	0:10:57.372000
 ,	-	-	-	0:10:56.739000	0:10:57.372000
 ja	ja	PART	-	0:10:57.372000	0:10:58.399000
 .	-	-	-	0:10:57.372000	0:10:58.399000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:58.399000" end="0:11:02.079000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:10:58.399000" end="0:11:02.079000" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:10:58.399000	0:10:59.852000
 suchen	suchen	VERB	-	0:10:58.399000	0:10:59.852000
 immer	immer	ADV	-	0:10:58.399000	0:10:59.852000
@@ -2882,11 +2882,11 @@ immer	immer	ADV	-	0:10:58.399000	0:10:59.852000
 keinen	-	-	-	0:10:59.852000	0:11:02.079000
 .	-	-	-	0:10:59.852000	0:11:02.079000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:02.079000" end="0:11:02.579000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:02.079000" end="0:11:02.579000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:11:02.079000	0:11:02.579000
 ?	-	-	-	0:11:02.079000	0:11:02.579000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:02.579000" end="0:11:18.692000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:02.579000" end="0:11:18.692000" age_lower="18" age_upper="35">
 <pause duration="1s"/>
 aber	aber	CCONJ	-	0:11:02.579000	0:11:04.999000
 ist	sein	AUX	-	0:11:02.579000	0:11:04.999000
@@ -2946,7 +2946,7 @@ mehr	mehr	ADV	-	0:11:17.052000	0:11:18.692000
 lernen	lernen	VERB	-	0:11:17.052000	0:11:18.692000
 .	-	-	-	0:11:17.052000	0:11:18.692000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:18.692000" end="0:11:23.079000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:18.692000" end="0:11:23.079000" age_lower="18" age_upper="35">
 nein	na	X	-	0:11:18.692000	0:11:19.712000
 ,	-	-	-	0:11:18.692000	0:11:19.712000
 das	der	PRON	-	0:11:18.692000	0:11:19.712000
@@ -2970,11 +2970,11 @@ mehr	mehr	ADV	-	0:11:19.712000	0:11:23.079000
 wohin	wohin	ADV	-	0:11:19.712000	0:11:23.079000
 .	-	-	-	0:11:19.712000	0:11:23.079000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:23.079000" end="0:11:23.839000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:23.079000" end="0:11:23.839000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:11:23.079000	0:11:23.839000
 .	-	-	-	0:11:23.079000	0:11:23.839000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:23.839000" end="0:11:40.146000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:23.839000" end="0:11:40.146000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 das	der	PRON	-	0:11:23.839000	0:11:26.286000
 ist	sein	AUX	-	0:11:23.839000	0:11:26.286000
@@ -3028,12 +3028,12 @@ ist	sein	AUX	-	0:11:36.332000	0:11:37.719000
 ja	ja	PART	-	0:11:37.719000	0:11:40.146000
 .	-	-	-	0:11:37.719000	0:11:40.146000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:40.146000" end="0:11:41.599000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:40.146000" end="0:11:41.599000" age_lower="18" age_upper="35">
 <pause duration="1s"/>
 leider	leider	ADV	-	0:11:40.146000	0:11:41.599000
 .	-	-	-	0:11:40.146000	0:11:41.599000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:41.599000" end="0:11:59.099000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:41.599000" end="0:11:59.099000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:11:41.599000	0:11:42.726000
 ist	sein	AUX	-	0:11:41.599000	0:11:42.726000
 eigentlich	eigentlich	ADV	-	0:11:41.599000	0:11:42.726000
@@ -3093,7 +3093,7 @@ bewältigen	bewältigen	VERB	-	0:11:54.539000	0:11:59.099000
 wäre	sein	AUX	-	0:11:54.539000	0:11:59.099000
 ,	-	-	-	0:11:54.539000	0:11:59.099000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:59.099000" end="0:12:01.192000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:59.099000" end="0:12:01.192000" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:59.099000	0:12:01.192000
 ,	-	-	-	0:11:59.099000	0:12:01.192000
 *hast*	-	-	-	0:11:59.099000	0:12:01.192000
@@ -3103,7 +3103,7 @@ recht	-	-	-	0:11:59.099000	0:12:01.192000
 nein	nein	PART	-	0:11:59.099000	0:12:01.192000
 .	-	-	-	0:11:59.099000	0:12:01.192000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:59.099000" end="0:12:02.699000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:11:59.099000" end="0:12:02.699000" age_lower="18" age_upper="35">
 hast	haben	AUX	-	0:11:59.099000	0:12:01.192000
 du	du	PRON	-	0:11:59.099000	0:12:01.192000
 eigentlich	eigentlich	ADV	-	0:11:59.099000	0:12:01.192000
@@ -3124,7 +3124,7 @@ machen	machen	VERB	-	0:12:01.892000	0:12:02.699000
 ja	ja	PART	-	0:12:01.892000	0:12:02.699000
 ,	-	-	-	0:12:01.892000	0:12:02.699000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:02.699000" end="0:12:04.006000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:02.699000" end="0:12:04.006000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:02.699000	0:12:04.006000
 ,	-	-	-	0:12:02.699000	0:12:04.006000
 machen	machen	VERB	-	0:12:02.699000	0:12:04.006000
@@ -3133,7 +3133,7 @@ ja	ja	ADV	-	0:12:02.699000	0:12:04.006000
 nach	nach	ADP	-	0:12:02.699000	0:12:04.006000
 ,	-	-	-	0:12:02.699000	0:12:04.006000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:02.699000" end="0:12:05.459000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:02.699000" end="0:12:05.459000" age_lower="18" age_upper="35">
 berufsbe/	-	-	-	0:12:02.699000	0:12:04.006000
 oder	oder	CCONJ	-	0:12:04.006000	0:12:05.459000
 als	als	ADP	-	0:12:04.006000	0:12:05.459000
@@ -3142,7 +3142,7 @@ mit	mit	ADP	-	0:12:04.006000	0:12:05.459000
 Matura	Matura	NOUN	-	0:12:04.006000	0:12:05.459000
 .	-	-	-	0:12:04.006000	0:12:05.459000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:05.459000" end="0:12:07.379000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:05.459000" end="0:12:07.379000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:05.459000	0:12:07.379000
 ,	-	-	-	0:12:05.459000	0:12:07.379000
 das	der	PRON	-	0:12:05.459000	0:12:07.379000
@@ -3153,7 +3153,7 @@ gute	gut	ADJ	-	0:12:05.459000	0:12:07.379000
 Sache	Sache	NOUN	-	0:12:05.459000	0:12:07.379000
 ,	-	-	-	0:12:05.459000	0:12:07.379000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:07.379000" end="0:12:08.566000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:07.379000" end="0:12:08.566000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:12:07.379000	0:12:08.566000
 ist	sein	AUX	-	0:12:07.379000	0:12:08.566000
 eine	einen	DET	-	0:12:07.379000	0:12:08.566000
@@ -3166,13 +3166,13 @@ ich	ich	PRON	-	0:12:07.379000	0:12:08.566000
 auch	auch	ADV	-	0:12:07.379000	0:12:08.566000
 .	-	-	-	0:12:07.379000	0:12:08.566000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:08.566000" end="0:12:09.159000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:08.566000" end="0:12:09.159000" age_lower="18" age_upper="35">
 finde	finden	VERB	-	0:12:08.566000	0:12:09.159000
 ich	ich	PRON	-	0:12:08.566000	0:12:09.159000
 auch	auch	ADV	-	0:12:08.566000	0:12:09.159000
 .	-	-	-	0:12:08.566000	0:12:09.159000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:09.159000" end="0:12:12.826000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:09.159000" end="0:12:12.826000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 wenn	wenn	SCONJ	-	0:12:09.159000	0:12:11.932000
 man	man	PRON	-	0:12:09.159000	0:12:11.932000
@@ -3187,11 +3187,11 @@ schon	schon	ADV	-	0:12:11.932000	0:12:12.826000
 fein	fein	ADJ	-	0:12:11.932000	0:12:12.826000
 .	-	-	-	0:12:11.932000	0:12:12.826000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:12.826000" end="0:12:13.406000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:12.826000" end="0:12:13.406000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:12.826000	0:12:13.406000
 .	-	-	-	0:12:12.826000	0:12:13.406000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:13.406000" end="0:12:15.632000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:13.406000" end="0:12:15.632000" age_lower="18" age_upper="35">
 <pause duration="1s"/>
 der	der	DET	-	0:12:13.406000	0:12:15.632000
 NAME	NAME	PROPN	-	0:12:13.406000	0:12:15.632000
@@ -3201,9 +3201,9 @@ halt	halt	ADV	-	0:12:13.406000	0:12:15.632000
 so	so	ADV	-	0:12:13.406000	0:12:15.632000
 ,	-	-	-	0:12:13.406000	0:12:15.632000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:15.632000" end="0:12:17.092000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:15.632000" end="0:12:17.092000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:15.632000" end="0:12:17.092000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:15.632000" end="0:12:17.092000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:12:15.632000	0:12:17.092000
 der	der	PRON	-	0:12:15.632000	0:12:17.092000
 hat	haben	AUX	-	0:12:15.632000	0:12:17.092000
@@ -3213,11 +3213,11 @@ SONSTIGE	SONSTIGE	PROPN	-	0:12:15.632000	0:12:17.092000
 gemacht	machen	VERB	-	0:12:15.632000	0:12:17.092000
 ,	-	-	-	0:12:15.632000	0:12:17.092000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:17.092000" end="0:12:17.526000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:17.092000" end="0:12:17.526000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:17.092000	0:12:17.526000
 .	-	-	-	0:12:17.092000	0:12:17.526000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:17.526000" end="0:12:23.786000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:17.526000" end="0:12:23.786000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:12:17.526000	0:12:19.379000
 sie	ich	PRON	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:12:17.526000	0:12:19.379000
 hat	haben	AUX	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:12:17.526000	0:12:19.379000
@@ -3243,9 +3243,9 @@ Matura	Matura	NOUN	-	0:12:21.586000	0:12:23.786000
 hat	haben	AUX	-	0:12:21.586000	0:12:23.786000
 ,	-	-	-	0:12:21.586000	0:12:23.786000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:23.786000" end="0:12:25.786000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:23.786000" end="0:12:25.786000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:23.786000" end="0:12:26.519000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:23.786000" end="0:12:26.519000" age_lower="18" age_upper="35">
 gibt	geben	VERB	-	0:12:23.786000	0:12:25.786000
 er	ich	PRON	-	0:12:23.786000	0:12:25.786000
 seine	mein	DET	-	0:12:23.786000	0:12:25.786000
@@ -3253,9 +3253,9 @@ freiwillig	freiwillig	ADJ	-	0:12:23.786000	0:12:25.786000
 ab	ab	ADP	-	0:12:23.786000	0:12:25.786000
 .	-	-	-	0:12:23.786000	0:12:25.786000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:26.519000" end="0:12:28.352000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:26.519000" end="0:12:28.352000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:28.352000" end="0:12:32.486000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:28.352000" end="0:12:32.486000" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:28.352000	0:12:32.486000
 ,	-	-	-	0:12:28.352000	0:12:32.486000
 ja	-	-	-	0:12:28.352000	0:12:32.486000
@@ -3275,12 +3275,12 @@ nicht	-	-	-	0:12:28.352000	0:12:32.486000
 vergleichen	-	-	-	0:12:28.352000	0:12:32.486000
 .	-	-	-	0:12:28.352000	0:12:32.486000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:32.486000" end="0:12:34.179000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:32.486000" end="0:12:34.179000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 nein	nein	PART	-	0:12:32.486000	0:12:34.179000
 .	-	-	-	0:12:32.486000	0:12:34.179000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:32.486000" end="0:12:36.539000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:32.486000" end="0:12:36.539000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 wenn	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:12:32.486000	0:12:34.179000
 du	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:12:32.486000	0:12:34.179000
@@ -3299,7 +3299,7 @@ und	-	-	-	0:12:34.179000	0:12:36.539000
 so	-	-	-	0:12:34.179000	0:12:36.539000
 .	-	-	-	0:12:34.179000	0:12:36.539000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:36.539000" end="0:12:38.112000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:36.539000" end="0:12:38.112000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:12:36.539000	0:12:37.546000
 ,	-	-	-	0:12:36.539000	0:12:37.546000
 das	-	-	-	0:12:36.539000	0:12:37.546000
@@ -3310,11 +3310,11 @@ ver=	-	-	-	0:12:36.539000	0:12:37.546000
 gleichen	-	-	-	0:12:37.546000	0:12:38.112000
 .	-	-	-	0:12:37.546000	0:12:38.112000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:37.546000" end="0:12:38.112000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:37.546000" end="0:12:38.112000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:12:37.546000	0:12:38.112000
 .	-	-	-	0:12:37.546000	0:12:38.112000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:38.112000" end="0:12:40.112000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:38.112000" end="0:12:40.112000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:12:38.112000	0:12:40.112000
 gut	gut	ADJ	-	0:12:38.112000	0:12:40.112000
 dass	dass	SCONJ	-	0:12:38.112000	0:12:40.112000
@@ -3323,7 +3323,7 @@ das	der	PRON	-	0:12:38.112000	0:12:40.112000
 gibt	geben	VERB	-	0:12:38.112000	0:12:40.112000
 .	-	-	-	0:12:38.112000	0:12:40.112000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:40.112000" end="0:12:50.159000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:40.112000" end="0:12:50.159000" age_lower="18" age_upper="35">
 eh	eh	X	-	0:12:40.112000	0:12:41.466000
 ,	-	-	-	0:12:40.112000	0:12:41.466000
 so	so	ADV	-	0:12:40.112000	0:12:41.466000
@@ -3363,11 +3363,11 @@ glücklich	glücklich	ADJ	-	0:12:48.906000	0:12:50.159000
 nicht	nicht	PART	-	0:12:48.906000	0:12:50.159000
 .	-	-	-	0:12:48.906000	0:12:50.159000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:50.159000" end="0:12:50.519000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:50.159000" end="0:12:50.519000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:12:50.159000	0:12:50.519000
 .	-	-	-	0:12:50.159000	0:12:50.519000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:50.519000" end="0:13:00.352000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:12:50.519000" end="0:13:00.352000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 aber	aber	CCONJ	-	0:12:50.519000	0:12:55.319000
 <pause duration="2,1s"/>
@@ -3388,12 +3388,12 @@ derwegen	-	-	-	0:12:55.319000	0:12:58.866000
 ja	-	-	-	0:12:58.866000	0:13:00.352000
 .	-	-	-	0:12:58.866000	0:13:00.352000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:00.352000" end="0:13:02.959000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:00.352000" end="0:13:02.959000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 stimmt	stimmen	VERB	-	0:13:00.352000	0:13:02.959000
 .	-	-	-	0:13:00.352000	0:13:02.959000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:00.352000" end="0:13:05.799000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:00.352000" end="0:13:05.799000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 gut	gut	ADJ	-	0:13:00.352000	0:13:02.959000
 .	-	-	-	0:13:00.352000	0:13:02.959000
@@ -3405,11 +3405,11 @@ Haare	Haar	NOUN	-	0:13:04.612000	0:13:05.799000
 schneiden	schneiden	VERB	-	0:13:04.612000	0:13:05.799000
 .	-	-	-	0:13:04.612000	0:13:05.799000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:05.799000" end="0:13:07.532000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:05.799000" end="0:13:07.532000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:05.799000" end="0:13:07.532000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:05.799000" end="0:13:07.532000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:07.532000" end="0:13:10.046000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:07.532000" end="0:13:10.046000" age_lower="18" age_upper="35">
 "stell	stell	ADJ	-	0:13:07.532000	0:13:10.046000
 dir	sich	PRON	-	0:13:07.532000	0:13:10.046000
 vor	vor	ADP	-	0:13:07.532000	0:13:10.046000
@@ -3419,28 +3419,28 @@ eigene	eigene	ADJ	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Qu
 Fernsehsendung"	Fernsehsendung	NOUN	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:13:07.532000	0:13:10.046000
 .	-	-	-	0:13:07.532000	0:13:10.046000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:10.046000" end="0:13:10.679000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:10.046000" end="0:13:10.679000" age_lower="18" age_upper="35">
 _mah_	mah	X	-	0:13:10.046000	0:13:10.679000
 bitte	bitte	ADV	-	0:13:10.046000	0:13:10.679000
 .	-	-	-	0:13:10.046000	0:13:10.679000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:10.679000" end="0:13:14.626000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:10.679000" end="0:13:14.626000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 also	also	ADV	-	0:13:10.679000	0:13:14.206000
 ich	ich	PRON	-	0:13:14.206000	0:13:14.626000
 schau	schau	NOUN	-	0:13:14.206000	0:13:14.626000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:14.206000" end="0:13:14.626000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:14.206000" end="0:13:14.626000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:13:14.206000	0:13:14.626000
 habe	habe	AUX	-	0:13:14.206000	0:13:14.626000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:14.626000" end="0:13:15.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:14.626000" end="0:13:15.712000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:13:14.626000	0:13:15.712000
 wenig	wenig	DET	-	0:13:14.626000	0:13:15.712000
 Fernsehen	Fernsehen	NOUN	-	0:13:14.626000	0:13:15.712000
 .	-	-	-	0:13:14.626000	0:13:15.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:15.712000" end="0:13:18.932000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:15.712000" end="0:13:18.932000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 was	was	PRON	-	0:13:15.712000	0:13:18.932000
 ,	-	-	-	0:13:15.712000	0:13:18.932000
@@ -3450,25 +3450,25 @@ eigene	eigene	ADJ	-	0:13:15.712000	0:13:18.932000
 also	also	ADV	-	0:13:15.712000	0:13:18.932000
 /,	-	-	-	0:13:15.712000	0:13:18.932000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:18.932000" end="0:13:20.792000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:18.932000" end="0:13:20.792000" age_lower="18" age_upper="35">
 eine	-	-	-	0:13:18.932000	0:13:19.886000
 eigene	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:18.932000	0:13:19.886000
 Fern=	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:18.932000	0:13:19.886000
 =sehsendung	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:19.886000	0:13:20.792000
 ,	-	-	-	0:13:19.886000	0:13:20.792000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:19.886000" end="0:13:20.792000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:19.886000" end="0:13:20.792000" age_lower="18" age_upper="35">
 ah	ah	ADJ	-	0:13:19.886000	0:13:20.792000
 ,	-	-	-	0:13:19.886000	0:13:20.792000
 dass	dass	SCONJ	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:19.886000	0:13:20.792000
 ich	ich	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:19.886000	0:13:20.792000
 eine	einen	DET	-	0:13:19.886000	0:13:20.792000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:20.792000" end="0:13:21.579000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:20.792000" end="0:13:21.579000" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:20.792000	0:13:21.579000
 .	-	-	-	0:13:20.792000	0:13:21.579000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:21.579000" end="0:13:23.132000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:21.579000" end="0:13:23.132000" age_lower="18" age_upper="35">
 eine	einen	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:21.579000	0:13:23.132000
 Fernsehsendung	Fernsehsendung	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:21.579000	0:13:23.132000
 hätte	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:21.579000	0:13:23.132000
@@ -3477,11 +3477,11 @@ eine	einen	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrele
 eigene	eigene	ADJ	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:13:21.579000	0:13:23.132000
 .	-	-	-	0:13:21.579000	0:13:23.132000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:23.132000" end="0:13:23.632000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:23.132000" end="0:13:23.632000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:13:23.132000	0:13:23.632000
 .	-	-	-	0:13:23.132000	0:13:23.632000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:23.632000" end="0:13:50.165000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:23.632000" end="0:13:50.165000" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 also	also	ADV	-	0:13:23.632000	0:13:28.406000
 das	der	PRON	-	0:13:23.632000	0:13:28.406000
@@ -3549,12 +3549,12 @@ diese	-	-	-	0:13:42.279000	0:13:47.572000
 satirischen	-	-	-	0:13:47.572000	0:13:50.165000
 ähm	-	-	-	0:13:47.572000	0:13:50.165000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:50.165000" end="0:13:51.619000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:50.165000" end="0:13:51.619000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 Send/	-	-	-	0:13:50.165000	0:13:51.619000
 /.	-	-	-	0:13:50.165000	0:13:51.619000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:50.165000" end="0:14:03.572000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:13:50.165000" end="0:14:03.572000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 Nachrichten=	-	-	-(e)n Interf Interf- NPL SDent Suff U- Uml sd+|-belebt App Komp PM PR Pkon Poss Prel Quel irrelevant	0:13:50.165000	0:13:51.619000
 sendungen	-	-	-(e)n Interf Interf- NPL SDent Suff U- Uml sd+|-belebt App Komp PM PR Pkon Poss Prel Quel irrelevant	0:13:51.619000	0:13:52.252000
@@ -3599,13 +3599,13 @@ ein	-	-	-	0:14:02.399000	0:14:03.572000
 dick	-	-	-	0:14:02.399000	0:14:03.572000
 ,	-	-	-	0:14:02.399000	0:14:03.572000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:03.572000" end="0:14:05.139000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:03.572000" end="0:14:05.139000" age_lower="18" age_upper="35">
 sowas	-	-	-	0:14:03.572000	0:14:05.139000
 _dadats_	-	-	-	0:14:03.572000	0:14:05.139000
 machen	-	-	-	0:14:03.572000	0:14:05.139000
 ?	-	-	-	0:14:03.572000	0:14:05.139000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:03.572000" end="0:14:06.219000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:03.572000" end="0:14:06.219000" age_lower="18" age_upper="35">
 oder	-	-	-	0:14:03.572000	0:14:05.139000
 so	-	-	-	0:14:03.572000	0:14:05.139000
 wie	-	-	-	0:14:03.572000	0:14:05.139000
@@ -3615,24 +3615,24 @@ Grie/	-	-	-	0:14:05.139000	0:14:06.219000
 Griesemann	-	-	-	0:14:05.139000	0:14:06.219000
 ,	-	-	-	0:14:05.139000	0:14:06.219000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:06.219000" end="0:14:06.679000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:06.219000" end="0:14:06.679000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:06.219000	0:14:06.679000
 .	-	-	-	0:14:06.219000	0:14:06.679000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:06.219000" end="0:14:07.599000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:06.219000" end="0:14:07.599000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:14:06.219000	0:14:06.679000
 dieser	dies	DET	-	0:14:06.219000	0:14:06.679000
 Jan	Jan	PROPN	+menschl -belebt App PM PR Pkon Poss Prel Prop Präd Quel irrelevant	0:14:06.679000	0:14:07.599000
 Böhmermann	Böhmermann	PROPN	+menschl -belebt App PM PR Pkon Poss Prel Prop Präd Quel irrelevant	0:14:06.679000	0:14:07.599000
 hat	haben	AUX	-	0:14:06.679000	0:14:07.599000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:07.599000" end="0:14:08.479000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:07.599000" end="0:14:08.479000" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:07.599000	0:14:08.479000
 ,	-	-	-	0:14:07.599000	0:14:08.479000
 ja	-	-	-	0:14:07.599000	0:14:08.479000
 .	-	-	-	0:14:07.599000	0:14:08.479000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:07.599000" end="0:14:10.092000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:07.599000" end="0:14:10.092000" age_lower="18" age_upper="35">
 hat	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Prop Präd Quel irrelevant	0:14:07.599000	0:14:08.479000
 diese	dies	DET	+menschl -belebt App PM PR Pkon Poss Prel Prop Präd Quel irrelevant	0:14:07.599000	0:14:08.479000
 Geschichten	Geschichte	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Prop Präd Quel irrelevant	0:14:07.599000	0:14:08.479000
@@ -3647,11 +3647,11 @@ gut	gut	ADJ	-	0:14:08.479000	0:14:10.092000
 ja	ja	PART	-	0:14:08.479000	0:14:10.092000
 .	-	-	-	0:14:08.479000	0:14:10.092000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:10.092000" end="0:14:10.732000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:10.092000" end="0:14:10.732000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:14:10.092000	0:14:10.732000
 ?	-	-	-	0:14:10.092000	0:14:10.732000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:10.732000" end="0:14:53.526000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:10.732000" end="0:14:53.526000" age_lower="18" age_upper="35">
 sowas	sowas	PROPN	-	0:14:10.732000	0:14:11.739000
 täte	tun	VERB	-	0:14:10.732000	0:14:11.739000
 ich	ich	PRON	-	0:14:10.732000	0:14:11.739000
@@ -3825,7 +3825,7 @@ ZDF	ZDF	PROPN	-	0:14:49.086000	0:14:51.526000
 Anstalt"	Anstalt	NOUN	-	0:14:51.526000	0:14:53.526000
 .	-	-	-	0:14:51.526000	0:14:53.526000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:53.526000" end="0:14:54.306000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:53.526000" end="0:14:54.306000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:53.526000	0:14:53.906000
 ,	-	-	-	0:14:53.526000	0:14:53.906000
 das	der	PRON	-	0:14:53.526000	0:14:53.906000
@@ -3833,7 +3833,7 @@ kenne	kennen	VERB	-	0:14:53.906000	0:14:54.306000
 ich	ich	PRON	-	0:14:53.906000	0:14:54.306000
 .	-	-	-	0:14:53.906000	0:14:54.306000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:53.906000" end="0:15:00.752000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:14:53.906000" end="0:15:00.752000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:14:53.906000	0:14:54.306000
 .	-	-	-	0:14:53.906000	0:14:54.306000
 <pause duration="1,7s"/>
@@ -3857,7 +3857,7 @@ machen	machen	VERB	-	0:14:59.165000	0:15:00.752000
 ja	ja	PART	-	0:14:59.165000	0:15:00.752000
 .	-	-	-	0:14:59.165000	0:15:00.752000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:00.752000" end="0:15:02.492000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:00.752000" end="0:15:02.492000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:15:00.752000	0:15:02.492000
 ich	-	-	-	0:15:00.752000	0:15:02.492000
 könnte	-	-	-	0:15:00.752000	0:15:02.492000
@@ -3867,14 +3867,14 @@ nicht	-	-	-	0:15:00.752000	0:15:02.492000
 vorstellen	-	-	-	0:15:00.752000	0:15:02.492000
 .	-	-	-	0:15:00.752000	0:15:02.492000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:00.752000" end="0:15:02.492000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:00.752000" end="0:15:02.492000" age_lower="18" age_upper="35">
 (wäre	sein	AUX	-	0:15:00.752000	0:15:02.492000
 es	ich	PRON	-	0:15:00.752000	0:15:02.492000
 ein	einen	DET	-	0:15:00.752000	0:15:02.492000
 Sinn)	Sinn	NOUN	-	0:15:00.752000	0:15:02.492000
 /.	-	-	-	0:15:00.752000	0:15:02.492000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:02.492000" end="0:15:04.999000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:02.492000" end="0:15:04.999000" age_lower="18" age_upper="35">
 (seufzen)	seufzen	VERB	-	0:15:02.492000	0:15:04.999000
 also	also	ADV	-	0:15:02.492000	0:15:04.999000
 ich	ich	PRON	-	0:15:02.492000	0:15:04.999000
@@ -3882,7 +3882,7 @@ könnte	können	VERB	-	0:15:02.492000	0:15:04.999000
 mir	sich	PRON	-	0:15:02.492000	0:15:04.999000
 /.	-	-	-	0:15:02.492000	0:15:04.999000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:02.492000" end="0:15:06.026000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:02.492000" end="0:15:06.026000" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 könnten	können	VERB	-	0:15:02.492000	0:15:04.999000
 wir	ich	PRON	-	0:15:02.492000	0:15:04.999000
@@ -3892,29 +3892,29 @@ live	live	ADJ	-	0:15:04.999000	0:15:06.026000
 machen	machen	VERB	-	0:15:04.999000	0:15:06.026000
 ,	-	-	-	0:15:04.999000	0:15:06.026000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:06.026000" end="0:15:06.592000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:06.026000" end="0:15:06.592000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:15:06.026000	0:15:06.592000
 .	-	-	-	0:15:06.026000	0:15:06.592000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:06.592000" end="0:15:08.552000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:06.592000" end="0:15:08.552000" age_lower="18" age_upper="35">
 das	der	DET	-	0:15:06.592000	0:15:08.552000
 Gitschtalforum	Gitschtalforum	NOUN	-	0:15:06.592000	0:15:08.552000
 ,	-	-	-	0:15:06.592000	0:15:08.552000
 satirisch	satirisch	ADJ	-	0:15:06.592000	0:15:08.552000
 .	-	-	-	0:15:06.592000	0:15:08.552000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:08.552000" end="0:15:09.052000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:08.552000" end="0:15:09.052000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:15:08.552000	0:15:09.052000
 .	-	-	-	0:15:08.552000	0:15:09.052000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:09.052000" end="0:15:10.199000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:09.052000" end="0:15:10.199000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:15:09.052000	0:15:10.199000
 gefiele	gefallen	VERB	-	0:15:09.052000	0:15:10.199000
 mir	sich	PRON	-	0:15:09.052000	0:15:10.199000
 auch	auch	ADV	-	0:15:09.052000	0:15:10.199000
 .	-	-	-	0:15:09.052000	0:15:10.199000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:10.199000" end="0:15:13.286000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:10.199000" end="0:15:13.286000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 mir	sich	PRON	-	0:15:10.199000	0:15:12.006000
 hat	haben	AUX	-	0:15:10.199000	0:15:12.006000
@@ -3930,11 +3930,11 @@ geredet	reden	VERB	-	0:15:12.006000	0:15:13.286000
 hast	haben	AUX	-	0:15:12.006000	0:15:13.286000
 .	-	-	-	0:15:12.006000	0:15:13.286000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:13.286000" end="0:15:13.979000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:13.286000" end="0:15:13.979000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:15:13.286000	0:15:13.979000
 .	-	-	-	0:15:13.286000	0:15:13.979000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:13.979000" end="0:15:16.739000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:13.979000" end="0:15:16.739000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 da	da	ADV	-	0:15:13.979000	0:15:16.739000
 haben	haben	AUX	-	0:15:13.979000	0:15:16.739000
@@ -3945,7 +3945,7 @@ ein	einen	DET	-	0:15:13.979000	0:15:16.739000
 _bissel_	bissel	NOUN	-	0:15:13.979000	0:15:16.739000
 wenig	wenig	ADV	-	0:15:13.979000	0:15:16.739000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:16.739000" end="0:15:19.639000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:16.739000" end="0:15:19.639000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 es	ich	PRON	-	0:15:16.739000	0:15:18.946000
 ist	sein	AUX	-	0:15:16.739000	0:15:18.946000
@@ -3953,13 +3953,13 @@ so	so	ADV	-	0:15:16.739000	0:15:18.946000
 ähm	ähm	PROPN	-	0:15:18.946000	0:15:19.639000
 /,	-	-	-	0:15:18.946000	0:15:19.639000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:19.639000" end="0:15:21.199000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:19.639000" end="0:15:21.199000" age_lower="18" age_upper="35">
 die	der	DET	-	0:15:19.639000	0:15:21.199000
 Landwirtschaft	Landwirtschaft	NOUN	-	0:15:19.639000	0:15:21.199000
 miteinbezogen	miteinbezogen	VERB	-	0:15:19.639000	0:15:21.199000
 .	-	-	-	0:15:19.639000	0:15:21.199000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:21.199000" end="0:16:11.152000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:15:21.199000" end="0:16:11.152000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:15:21.199000	0:15:21.806000
 ,	-	-	-	0:15:21.199000	0:15:21.806000
 eh	eh	X	-	0:15:21.199000	0:15:21.806000
@@ -4145,11 +4145,11 @@ so	so	ADV	-	0:16:10.339000	0:16:11.152000
 ,	-	-	-	0:16:10.339000	0:16:11.152000
 ganz	ganz	ADV	-	0:16:10.339000	0:16:11.152000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:11.152000" end="0:16:11.619000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:11.152000" end="0:16:11.619000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:16:11.152000	0:16:11.619000
 .	-	-	-	0:16:11.152000	0:16:11.619000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:11.152000" end="0:16:23.726000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:11.152000" end="0:16:23.726000" age_lower="18" age_upper="35">
 ehrlich	ehrlich	ADJ	-	0:16:11.152000	0:16:11.619000
 gesagt	sagen	VERB	-	0:16:11.152000	0:16:11.619000
 ,	-	-	-	0:16:11.152000	0:16:11.619000
@@ -4195,11 +4195,11 @@ für	für	ADP	-	0:16:22.632000	0:16:23.726000
 <pause duration="0,7s"/>
 fürs	fürs	ADP	-	0:16:22.632000	0:16:23.726000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:23.726000" end="0:16:24.486000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:23.726000" end="0:16:24.486000" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	NOUN	-	0:16:23.726000	0:16:24.486000
 .	-	-	-	0:16:23.726000	0:16:24.486000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:23.726000" end="0:16:29.646000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:23.726000" end="0:16:29.646000" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	NOUN	-	0:16:23.726000	0:16:24.486000
 ,	-	-	-	0:16:23.726000	0:16:24.486000
 nicht	nicht	PART	-	0:16:23.726000	0:16:24.486000
@@ -4230,11 +4230,11 @@ auch	auch	ADV	-	0:16:27.979000	0:16:29.646000
 selber	selber	ADV	-	0:16:27.979000	0:16:29.646000
 ,	-	-	-	0:16:27.979000	0:16:29.646000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:29.646000" end="0:16:30.499000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:29.646000" end="0:16:30.499000" age_lower="18" age_upper="35">
 sicher	sichern	ADJ	-	0:16:29.646000	0:16:30.499000
 .	-	-	-	0:16:29.646000	0:16:30.499000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:29.646000" end="0:17:00.606000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:16:29.646000" end="0:17:00.606000" age_lower="18" age_upper="35">
 die	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:16:29.646000	0:16:30.499000
 haben	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:16:29.646000	0:16:30.499000
 dort	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:16:29.646000	0:16:30.499000
@@ -4347,7 +4347,7 @@ geht	-	-	-	0:16:56.486000	0:17:00.606000
 nicht	nicht	PART	-	0:16:56.486000	0:17:00.606000
 ?	-	-	-	0:16:56.486000	0:17:00.606000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:00.606000" end="0:17:02.106000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:00.606000" end="0:17:02.106000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:17:00.606000	0:17:02.106000
 hat	haben	AUX	-	0:17:00.606000	0:17:02.106000
 mir	sich	PRON	-	0:17:00.606000	0:17:02.106000
@@ -4357,7 +4357,7 @@ gefallen	fallen	VERB	-	0:17:00.606000	0:17:02.106000
 gell	gell	ADJ	-	0:17:00.606000	0:17:02.106000
 .	-	-	-	0:17:00.606000	0:17:02.106000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:00.606000" end="0:17:13.086000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:00.606000" end="0:17:13.086000" age_lower="18" age_upper="35">
 oder	-	-	-	0:17:00.606000	0:17:02.106000
 die	-	-	-	0:17:00.606000	0:17:02.106000
 EU	-	-	-	0:17:00.606000	0:17:02.106000
@@ -4409,14 +4409,14 @@ uns	sich	PRON	-	0:17:11.679000	0:17:13.086000
 das	der	PRON	-	0:17:11.679000	0:17:13.086000
 ?	-	-	-	0:17:11.679000	0:17:13.086000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:13.086000" end="0:17:13.925000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:13.086000" end="0:17:13.925000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:17:13.086000	0:17:13.925000
 ,	-	-	-	0:17:13.086000	0:17:13.925000
 gar	gar	ADV	-	0:17:13.086000	0:17:13.925000
 nichts	nichts	PRON	-	0:17:13.086000	0:17:13.925000
 .	-	-	-	0:17:13.086000	0:17:13.925000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:13.086000" end="0:17:29.492000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:13.086000" end="0:17:29.492000" age_lower="18" age_upper="35">
 um=	umstellen	VERB	-	0:17:13.086000	0:17:13.925000
 oder	oder	CCONJ	-	0:17:13.086000	0:17:13.925000
 wenn	wenn	SCONJ	-	0:17:13.086000	0:17:13.925000
@@ -4482,17 +4482,17 @@ deren	der	PRON	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel 
 Thema	Thema	NOUN	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:17:25.786000	0:17:29.492000
 ,	-	-	-	0:17:25.786000	0:17:29.492000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:29.492000" end="0:17:30.452000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:29.492000" end="0:17:30.452000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:29.492000	0:17:30.452000
 ,	-	-	-	0:17:29.492000	0:17:30.452000
 es	ich	PRON	-	0:17:29.492000	0:17:30.452000
 war	sein	AUX	-	0:17:29.492000	0:17:30.452000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:29.492000" end="0:17:30.452000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:29.492000" end="0:17:30.452000" age_lower="18" age_upper="35">
 sozusagen	sozusagen	ADV	-	0:17:29.492000	0:17:30.452000
 .	-	-	-	0:17:29.492000	0:17:30.452000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:30.452000" end="0:17:32.452000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:30.452000" end="0:17:32.452000" age_lower="18" age_upper="35">
 schade	schon	ADV	-	0:17:30.452000	0:17:32.452000
 ,	-	-	-	0:17:30.452000	0:17:32.452000
 dass	dass	SCONJ	-	0:17:30.452000	0:17:32.452000
@@ -4500,13 +4500,13 @@ da	da	ADV	-	0:17:30.452000	0:17:32.452000
 keinen	kein	DET	-	0:17:30.452000	0:17:32.452000
 Sprechpartner	Sprechpartner	NOUN	-	0:17:30.452000	0:17:32.452000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:32.452000" end="0:17:33.299000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:32.452000" end="0:17:33.299000" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:17:32.452000	0:17:33.299000
 ,	-	-	-	0:17:32.452000	0:17:33.299000
 das	der	PRON	-	0:17:32.452000	0:17:33.299000
 /.	-	-	-	0:17:32.452000	0:17:33.299000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:33.299000" end="0:17:35.392000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:33.299000" end="0:17:35.392000" age_lower="18" age_upper="35">
 für	für	ADP	-	0:17:33.299000	0:17:34.372000
 die	der	DET	-	0:17:33.299000	0:17:34.372000
 Lanfwirtschaft	Landwirtschaft	NOUN	-	0:17:33.299000	0:17:34.372000
@@ -4516,7 +4516,7 @@ da	da	ADV	-	0:17:34.899000	0:17:35.392000
 war	sein	AUX	-	0:17:34.899000	0:17:35.392000
 .	-	-	-	0:17:34.899000	0:17:35.392000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:34.899000" end="0:17:42.912000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:34.899000" end="0:17:42.912000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:17:34.899000	0:17:35.392000
 .	-	-	-	0:17:34.899000	0:17:35.392000
 nein	nein	PART	-	0:17:35.392000	0:17:37.392000
@@ -4547,7 +4547,7 @@ anderen	ander	ADJ	-	0:17:40.772000	0:17:42.912000
 Geldsystem	Geldsystem	NOUN	-	0:17:40.772000	0:17:42.912000
 ,	-	-	-	0:17:40.772000	0:17:42.912000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:42.912000" end="0:17:45.586000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:42.912000" end="0:17:45.586000" age_lower="18" age_upper="35">
 ja	Tourismus	NOUN	-	0:17:42.912000	0:17:44.912000
 ,	-	-	-	0:17:42.912000	0:17:44.912000
 aber	aber	CCONJ	-	0:17:42.912000	0:17:44.912000
@@ -4561,23 +4561,23 @@ Tou=	-	-	-	0:17:42.912000	0:17:44.912000
 rismus	-	SPACE	-	0:17:44.912000	0:17:45.586000
 ,	-	-	-	0:17:44.912000	0:17:45.586000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:44.912000" end="0:17:45.586000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:44.912000" end="0:17:45.586000" age_lower="18" age_upper="35">
 Tourismus	Tourismus	NOUN	-	0:17:44.912000	0:17:45.586000
 ,	-	-	-	0:17:44.912000	0:17:45.586000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:45.586000" end="0:17:46.306000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:45.586000" end="0:17:46.306000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:17:45.586000	0:17:46.306000
 ,	-	-	-	0:17:45.586000	0:17:46.306000
 gut	gut	ADJ	-	0:17:45.586000	0:17:46.306000
 ,	-	-	-	0:17:45.586000	0:17:46.306000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:45.586000" end="0:17:46.306000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:45.586000" end="0:17:46.306000" age_lower="18" age_upper="35">
 richtig	richtig	ADJ	-	0:17:45.586000	0:17:46.306000
 ,	-	-	-	0:17:45.586000	0:17:46.306000
 ja	ja	PART	-	0:17:45.586000	0:17:46.306000
 .	-	-	-	0:17:45.586000	0:17:46.306000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:46.306000" end="0:17:48.572000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:46.306000" end="0:17:48.572000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:17:46.306000	0:17:47.206000
 haben	haben	AUX	-	0:17:46.306000	0:17:47.206000
 nur	nur	ADV	-	0:17:46.306000	0:17:47.206000
@@ -4588,7 +4588,7 @@ rismus	-	SPACE	-	0:17:47.206000	0:17:48.572000
 gesprochen	sprechen	VERB	-	0:17:47.206000	0:17:48.572000
 .	-	-	-	0:17:47.206000	0:17:48.572000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:47.206000" end="0:18:24.506000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:17:47.206000" end="0:18:24.506000" age_lower="18" age_upper="35">
 Tourismus	Tourismus	NOUN	-	0:17:47.206000	0:17:48.572000
 ,	-	-	-	0:17:47.206000	0:17:48.572000
 richtig	richtig	ADJ	-	0:17:47.206000	0:17:48.572000
@@ -4730,11 +4730,11 @@ zuschmeißen	zuschmeißen	VERB	-	0:18:22.312000	0:18:24.506000
 nicht	nicht	PART	-	0:18:22.312000	0:18:24.506000
 ?	-	-	-	0:18:22.312000	0:18:24.506000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:24.506000" end="0:18:25.052000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:24.506000" end="0:18:25.052000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:24.506000	0:18:25.052000
 .	-	-	-	0:18:24.506000	0:18:25.052000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:25.052000" end="0:18:28.826000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:25.052000" end="0:18:28.826000" age_lower="18" age_upper="35">
 <pause duration="2,4s"/>
 weil	weil	SCONJ	-	0:18:25.052000	0:18:28.826000
 das	der	DET	-	0:18:25.052000	0:18:28.826000
@@ -4744,7 +4744,7 @@ dann)	dann	ADV	-	0:18:25.052000	0:18:28.826000
 sie	ich	PRON	-	0:18:25.052000	0:18:28.826000
 .	-	-	-	0:18:25.052000	0:18:28.826000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:28.826000" end="0:18:30.566000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:28.826000" end="0:18:30.566000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:18:28.826000	0:18:30.032000
 ,	-	-	-	0:18:28.826000	0:18:30.032000
 sicher	sichern	ADJ	-	0:18:28.826000	0:18:30.032000
@@ -4753,11 +4753,11 @@ das	dass	SCONJ	-	0:18:30.032000	0:18:30.566000
 die	der	PRON	-	0:18:30.032000	0:18:30.566000
 ,	-	-	-	0:18:30.032000	0:18:30.566000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:30.032000" end="0:18:30.566000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:30.032000" end="0:18:30.566000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:30.032000	0:18:30.566000
 .	-	-	-	0:18:30.032000	0:18:30.566000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:30.566000" end="0:18:32.439000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:30.566000" end="0:18:32.439000" age_lower="18" age_upper="35">
 die	der	DET	-	0:18:30.566000	0:18:31.952000
 kassieren	kassieren	NOUN	-	0:18:30.566000	0:18:31.952000
 da	da	ADV	-	0:18:30.566000	0:18:31.952000
@@ -4766,16 +4766,16 @@ ab	ab	ADP	-	0:18:30.566000	0:18:31.952000
 ,	-	-	-	0:18:30.566000	0:18:31.952000
 und	und	CCONJ	-	0:18:31.952000	0:18:32.439000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:31.952000" end="0:18:32.439000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:31.952000" end="0:18:32.439000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:31.952000	0:18:32.439000
 .	-	-	-	0:18:31.952000	0:18:32.439000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:32.439000" end="0:18:33.379000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:32.439000" end="0:18:33.379000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	ADV	-	0:18:32.439000	0:18:33.379000
 .	-	-	-	0:18:32.439000	0:18:33.379000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:33.379000" end="0:18:44.312000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:33.379000" end="0:18:44.312000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:18:33.379000	0:18:35.979000
 ,	-	-	-	0:18:33.379000	0:18:35.979000
 und	und	CCONJ	-	0:18:33.379000	0:18:35.979000
@@ -4819,23 +4819,23 @@ ORT	ORT	-	-	0:18:41.372000	0:18:44.312000
 nicht	nicht	PART	-	0:18:41.372000	0:18:44.312000
 ,	-	-	-	0:18:41.372000	0:18:44.312000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:44.312000" end="0:18:45.846000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:44.312000" end="0:18:45.846000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:44.312000	0:18:45.846000
 ,	-	-	-	0:18:44.312000	0:18:45.846000
 mhm	-	-	-	0:18:44.312000	0:18:45.846000
 .	-	-	-	0:18:44.312000	0:18:45.846000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:44.312000" end="0:18:45.846000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:44.312000" end="0:18:45.846000" age_lower="18" age_upper="35">
 das	der	DET	-	0:18:44.312000	0:18:45.846000
 Bio-Hotel	Bio-Hotel	NOUN	-	0:18:44.312000	0:18:45.846000
 NAME	NAME	PROPN	-	0:18:44.312000	0:18:45.846000
 ,	-	-	-	0:18:44.312000	0:18:45.846000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:45.846000" end="0:18:46.312000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:45.846000" end="0:18:46.312000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:18:45.846000	0:18:46.312000
 .	-	-	-	0:18:45.846000	0:18:46.312000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:46.312000" end="0:18:47.426000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:46.312000" end="0:18:47.426000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:18:46.312000	0:18:47.426000
 die	der	PRON	-	0:18:46.312000	0:18:47.426000
 ,	-	-	-	0:18:46.312000	0:18:47.426000
@@ -4843,12 +4843,12 @@ und	und	CCONJ	-	0:18:46.312000	0:18:47.426000
 der	der	PRON	-	0:18:46.312000	0:18:47.426000
 ,	-	-	-	0:18:46.312000	0:18:47.426000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:47.426000" end="0:18:48.406000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:47.426000" end="0:18:48.406000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	0:18:47.426000	0:18:48.406000
 .	-	-	-	0:18:47.426000	0:18:48.406000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:47.426000" end="0:18:50.099000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:47.426000" end="0:18:50.099000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 NAME	NAME	NOUN	-	0:18:47.426000	0:18:48.406000
 NAME	NAME	SPACE	-	0:18:48.406000	0:18:50.099000
@@ -4856,7 +4856,7 @@ NAME	NAME	SPACE	-	0:18:48.406000	0:18:50.099000
 NAME	NAME	NOUN	-	0:18:48.406000	0:18:50.099000
 ,	-	-	-	0:18:48.406000	0:18:50.099000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:50.099000" end="0:18:50.932000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:50.099000" end="0:18:50.932000" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:50.099000	0:18:50.932000
 ,	-	-	-	0:18:50.099000	0:18:50.932000
 ja	-	-	-	0:18:50.099000	0:18:50.932000
@@ -4864,7 +4864,7 @@ ja	-	-	-	0:18:50.099000	0:18:50.932000
 ja	-	-	-	0:18:50.099000	0:18:50.932000
 .	-	-	-	0:18:50.099000	0:18:50.932000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:50.099000" end="0:19:25.266000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:18:50.099000" end="0:19:25.266000" age_lower="18" age_upper="35">
 NAME	-	-	-	0:18:50.099000	0:18:50.932000
 und	und	CCONJ	-	0:18:50.932000	0:18:55.466000
 in	in	ADP	-	0:18:50.932000	0:18:55.466000
@@ -4968,13 +4968,13 @@ exportieren	exportieren	VERB	-	0:19:21.286000	0:19:25.266000
 nicht	nicht	PART	-	0:19:21.286000	0:19:25.266000
 ?	-	-	-	0:19:21.286000	0:19:25.266000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:25.266000" end="0:19:26.099000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:25.266000" end="0:19:26.099000" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:25.266000	0:19:26.099000
 ,	-	-	-	0:19:25.266000	0:19:26.099000
 deine	-	-	-	0:19:25.266000	0:19:26.099000
 Produkte	-	-	-	0:19:25.266000	0:19:26.099000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:25.266000" end="0:19:26.099000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:25.266000" end="0:19:26.099000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:19:25.266000	0:19:26.099000
 muss	muss	VERB	-	0:19:25.266000	0:19:26.099000
 ich	ich	PRON	-	0:19:25.266000	0:19:26.099000
@@ -4982,14 +4982,14 @@ auch	auch	ADV	-	0:19:25.266000	0:19:26.099000
 sagen	sagen	VERB	-	0:19:25.266000	0:19:26.099000
 .	-	-	-	0:19:25.266000	0:19:26.099000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:26.099000" end="0:19:26.986000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:26.099000" end="0:19:26.986000" age_lower="18" age_upper="35">
 die	-	SPACE	-	0:19:26.099000	0:19:26.986000
 sind	-	-	-	0:19:26.099000	0:19:26.986000
 ja	ja	ADV	-	0:19:26.099000	0:19:26.986000
 gut	gut	ADJ	-	0:19:26.099000	0:19:26.986000
 .	-	-	-	0:19:26.099000	0:19:26.986000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:26.986000" end="0:19:35.252000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:26.986000" end="0:19:35.252000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:26.986000	0:19:31.632000
 ,	-	-	-	0:19:26.986000	0:19:31.632000
 und	und	CCONJ	-	0:19:26.986000	0:19:31.632000
@@ -5023,10 +5023,10 @@ geht	gehen	VERB	-	0:19:31.632000	0:19:35.252000
 nicht	mh	X	-	0:19:31.632000	0:19:35.252000
 ?	-	-	-	0:19:31.632000	0:19:35.252000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:35.252000" end="0:19:37.772000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:35.252000" end="0:19:37.772000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:35.252000" end="0:19:51.806000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:35.252000" end="0:19:51.806000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ich	ich	PRON	-	0:19:35.252000	0:19:37.772000
 meine	meinen	VERB	-	0:19:35.252000	0:19:37.772000
@@ -5099,11 +5099,11 @@ alle	-	-	-	0:19:48.779000	0:19:51.806000
 _andrehen_	-	-	-	0:19:48.779000	0:19:51.806000
 .	-	-	-	0:19:48.779000	0:19:51.806000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:51.806000" end="0:19:52.152000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:51.806000" end="0:19:52.152000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:19:51.806000	0:19:52.152000
 .	-	-	-	0:19:51.806000	0:19:52.152000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:52.152000" end="0:19:54.326000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:52.152000" end="0:19:54.326000" age_lower="18" age_upper="35">
 haben	haben	AUX	-	0:19:52.152000	0:19:53.559000
 wir	ich	PRON	-	0:19:52.152000	0:19:53.559000
 aber	aber	ADV	-	0:19:52.152000	0:19:53.559000
@@ -5118,22 +5118,22 @@ es	-	-	-	0:19:53.559000	0:19:54.326000
 vorstellen	-	-	-	0:19:53.559000	0:19:54.326000
 .	-	-	-	0:19:53.559000	0:19:54.326000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:54.326000" end="0:19:54.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:54.326000" end="0:19:54.712000" age_lower="18" age_upper="35">
 wahnsinn	wahnsinn	NOUN	-	0:19:54.326000	0:19:54.712000
 .	-	-	-	0:19:54.326000	0:19:54.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:54.712000" end="0:19:55.479000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:54.712000" end="0:19:55.479000" age_lower="18" age_upper="35">
 hätte	haben	AUX	-	0:19:54.712000	0:19:55.479000
 ich	ich	PRON	-	0:19:54.712000	0:19:55.479000
 nicht	nicht	PART	-	0:19:54.712000	0:19:55.479000
 gedacht	gedenken	VERB	-	0:19:54.712000	0:19:55.479000
 .	-	-	-	0:19:54.712000	0:19:55.479000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:55.479000" end="0:19:56.086000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:55.479000" end="0:19:56.086000" age_lower="18" age_upper="35">
 wahnsinn	wahnsinn	NOUN	-	0:19:55.479000	0:19:56.086000
 .	-	-	-	0:19:55.479000	0:19:56.086000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:56.086000" end="0:20:01.159000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:19:56.086000" end="0:20:01.159000" age_lower="18" age_upper="35">
 (habe)	habe	AUX	-	0:19:56.086000	0:19:57.239000
 gedacht	gedenken	VERB	-	0:19:56.086000	0:19:57.239000
 "ja	ja	PART	-	0:19:56.086000	0:19:57.239000
@@ -5154,7 +5154,7 @@ jedermanns	jedermanns	ADJ	+menschl -belebt App Gen PM PR Pkon Poss Prel Psond Qu
 Sache	Sache	NOUN	+menschl -belebt App Gen PM PR Pkon Poss Prel Psond Quel pränomin	0:19:57.972000	0:20:01.159000
 ,	-	-	-	0:19:57.972000	0:20:01.159000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:01.159000" end="0:20:02.972000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:01.159000" end="0:20:02.972000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:20:01.159000	0:20:02.972000
 ,	-	-	-	0:20:01.159000	0:20:02.972000
 aber	aber	ADV	-	0:20:01.159000	0:20:02.972000
@@ -5163,11 +5163,11 @@ glaube	glauben	VERB	-	0:20:01.159000	0:20:02.972000
 schon	schon	ADV	-	0:20:01.159000	0:20:02.972000
 ,	-	-	-	0:20:01.159000	0:20:02.972000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:02.972000" end="0:20:03.419000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:02.972000" end="0:20:03.419000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:02.972000	0:20:03.419000
 .	-	-	-	0:20:02.972000	0:20:03.419000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:03.419000" end="0:20:05.419000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:03.419000" end="0:20:05.419000" age_lower="18" age_upper="35">
 schauen	schauen	VERB	-	0:20:03.419000	0:20:05.419000
 auch	auch	ADV	-	0:20:03.419000	0:20:05.419000
 immer	immer	ADV	-	0:20:03.419000	0:20:05.419000
@@ -5179,13 +5179,13 @@ es	-	-	-	0:20:03.419000	0:20:05.419000
 herkommt	-	-	-	0:20:03.419000	0:20:05.419000
 und	-	-	-	0:20:03.419000	0:20:05.419000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:05.419000" end="0:20:06.072000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:05.419000" end="0:20:06.072000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:20:05.419000	0:20:06.072000
 ,	-	-	-	0:20:05.419000	0:20:06.072000
 ja	-	-	-	0:20:05.419000	0:20:06.072000
 .	-	-	-	0:20:05.419000	0:20:06.072000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:06.072000" end="0:20:10.752000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:06.072000" end="0:20:10.752000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 wo	wo	ADV	-	0:20:06.072000	0:20:10.752000
 sie	ich	PRON	-	0:20:06.072000	0:20:10.752000
@@ -5197,7 +5197,7 @@ Produkte	Produkt	NOUN	+menschl -belebt App Besitz PM PR Pkon Poss PossPron+NP Pr
 kaufen	-	-	-	0:20:06.072000	0:20:10.752000
 .	-	-	-	0:20:06.072000	0:20:10.752000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:10.752000" end="0:20:28.032000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:10.752000" end="0:20:28.032000" age_lower="18" age_upper="35">
 allerdings	allerdings	ADV	-	0:20:10.752000	0:20:11.459000
 .	-	-	-	0:20:10.752000	0:20:11.459000
 <pause duration="2,8s"/>
@@ -5257,7 +5257,7 @@ der	der	DET	-	0:20:24.726000	0:20:28.032000
 Kippe	Kippe	NOUN	-	0:20:24.726000	0:20:28.032000
 .	-	-	-	0:20:24.726000	0:20:28.032000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:28.032000" end="0:20:30.419000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:28.032000" end="0:20:30.419000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 das	der	PRON	-	0:20:28.032000	0:20:30.419000
 sehe	sehen	VERB	-	0:20:28.032000	0:20:30.419000
@@ -5266,7 +5266,7 @@ auch	auch	ADV	-	0:20:28.032000	0:20:30.419000
 so	so	ADV	-	0:20:28.032000	0:20:30.419000
 .	-	-	-	0:20:28.032000	0:20:30.419000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:30.419000" end="0:20:34.666000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:30.419000" end="0:20:34.666000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:20:30.419000	0:20:32.666000
 umsonst	umsonst	ADV	-	0:20:30.419000	0:20:32.666000
 ist	sein	AUX	-	0:20:30.419000	0:20:32.666000
@@ -5282,7 +5282,7 @@ seinen	seinen	DET	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|-
 Grund	Grund	NOUN	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant|-belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:20:32.666000	0:20:34.666000
 .	-	-	-	0:20:32.666000	0:20:34.666000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:34.666000" end="0:20:35.719000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:34.666000" end="0:20:35.719000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:20:34.666000	0:20:35.452000
 sehe	sehen	VERB	-	0:20:34.666000	0:20:35.452000
 ich	ich	PRON	-	0:20:34.666000	0:20:35.452000
@@ -5292,7 +5292,7 @@ so	so	ADV	-	0:20:34.666000	0:20:35.452000
 ja	ja	PART	-	0:20:35.452000	0:20:35.719000
 .	-	-	-	0:20:35.452000	0:20:35.719000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:35.452000" end="0:20:38.232000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:35.452000" end="0:20:38.232000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:20:35.452000	0:20:35.719000
 wenn	wenn	SCONJ	-	0:20:35.452000	0:20:35.719000
 man	man	PRON	-	0:20:35.452000	0:20:35.719000
@@ -5309,7 +5309,7 @@ of	of	PROPN	-	0:20:35.719000	0:20:38.232000
 London	London	PROPN	-	0:20:35.719000	0:20:38.232000
 ,	-	-	-	0:20:35.719000	0:20:38.232000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:38.232000" end="0:20:39.806000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:38.232000" end="0:20:39.806000" age_lower="18" age_upper="35">
 das	-	-	-	0:20:38.232000	0:20:39.806000
 wird	-	-	-	0:20:38.232000	0:20:39.806000
 _lei_	-	-	-	0:20:38.232000	0:20:39.806000
@@ -5317,7 +5317,7 @@ schön	-	-	-	0:20:38.232000	0:20:39.806000
 geredet	-	-	-	0:20:38.232000	0:20:39.806000
 .	-	-	-	0:20:38.232000	0:20:39.806000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:39.806000" end="0:20:43.246000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:39.806000" end="0:20:43.246000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:39.806000	0:20:43.246000
 ,	-	-	-	0:20:39.806000	0:20:43.246000
 die	der	DET	-	0:20:39.806000	0:20:43.246000
@@ -5329,11 +5329,11 @@ sitzt	sitzen	VERB	-	0:20:39.806000	0:20:43.246000
 gell	gell	ADJ	-	0:20:39.806000	0:20:43.246000
 ,	-	-	-	0:20:39.806000	0:20:43.246000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:43.246000" end="0:20:43.679000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:43.246000" end="0:20:43.679000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:20:43.246000	0:20:43.679000
 .	-	-	-	0:20:43.246000	0:20:43.679000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:43.679000" end="0:20:48.019000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:43.679000" end="0:20:48.019000" age_lower="18" age_upper="35">
 hat	haben	AUX	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:20:43.679000	0:20:45.166000
 das	der	PRON	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:20:43.679000	0:20:45.166000
 sicher	sichern	ADJ	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:20:43.679000	0:20:45.166000
@@ -5354,18 +5354,18 @@ EU	EU	PROPN	-	0:20:45.166000	0:20:48.019000
 war	sein	AUX	-	0:20:45.166000	0:20:48.019000
 ,	-	-	-	0:20:45.166000	0:20:48.019000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:48.019000" end="0:20:48.459000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:48.019000" end="0:20:48.459000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:48.019000	0:20:48.459000
 .	-	-	-	0:20:48.019000	0:20:48.459000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:48.459000" end="0:20:49.239000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:48.459000" end="0:20:49.239000" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:20:48.459000	0:20:49.239000
 auch	auch	ADV	-	0:20:48.459000	0:20:49.239000
 nicht	nicht	PART	-	0:20:48.459000	0:20:49.239000
 wenig/	-	-	-	0:20:48.459000	0:20:49.239000
 /.	-	-	-	0:20:48.459000	0:20:49.239000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:49.239000" end="0:20:50.419000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:49.239000" end="0:20:50.419000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:20:49.239000	0:20:50.419000
 schau	schau	NOUN	-	0:20:49.239000	0:20:50.419000
 ,	-	-	-	0:20:49.239000	0:20:50.419000
@@ -5375,15 +5375,15 @@ gut	gut	ADJ	-	0:20:49.239000	0:20:50.419000
 leben	leben	VERB	-	0:20:49.239000	0:20:50.419000
 !	-	-	-	0:20:49.239000	0:20:50.419000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:50.419000" end="0:20:50.746000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:50.419000" end="0:20:50.746000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:50.419000	0:20:50.746000
 .	-	-	-	0:20:50.419000	0:20:50.746000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:50.746000" end="0:20:51.686000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:50.746000" end="0:20:51.686000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:20:50.746000	0:20:51.686000
 .	-	-	-	0:20:50.746000	0:20:51.686000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:51.686000" end="0:21:00.399000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:20:51.686000" end="0:21:00.399000" age_lower="18" age_upper="35">
 das	der	PRON	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:20:51.686000	0:20:53.039000
 hat	haben	AUX	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:20:51.686000	0:20:53.039000
 schon	schon	ADV	-belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:20:51.686000	0:20:53.039000
@@ -5416,7 +5416,7 @@ zu	zu	PART	-	0:20:54.906000	0:21:00.399000
 entscheiden	entscheiden	VERB	-	0:20:54.906000	0:21:00.399000
 .	-	-	-	0:20:54.906000	0:21:00.399000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:00.399000" end="0:21:02.326000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:00.399000" end="0:21:02.326000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:21:00.399000	0:21:01.766000
 da	da	ADV	-	0:21:00.399000	0:21:01.766000
 schauen	schauen	VERB	-	0:21:00.399000	0:21:01.766000
@@ -5428,7 +5428,7 @@ sich	sich	PRON	-	0:21:01.766000	0:21:02.326000
 da/	-	-	-	0:21:01.766000	0:21:02.326000
 /.	-	-	-	0:21:01.766000	0:21:02.326000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:01.766000" end="0:21:14.759000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:01.766000" end="0:21:14.759000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:01.766000	0:21:02.326000
 .	-	-	-	0:21:01.766000	0:21:02.326000
 so	so	ADV	-	0:21:02.326000	0:21:03.692000
@@ -5474,7 +5474,7 @@ dich	sich	PRON	-	0:21:09.872000	0:21:14.759000
 gell	gell	ADJ	-	0:21:09.872000	0:21:14.759000
 ?	-	-	-	0:21:09.872000	0:21:14.759000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:14.759000" end="0:21:17.406000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:14.759000" end="0:21:17.406000" age_lower="18" age_upper="35">
 ich	ich	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:21:14.759000	0:21:16.046000
 habe	habe	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:21:14.759000	0:21:16.046000
 wenig	wenig	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:21:14.759000	0:21:16.046000
@@ -5482,9 +5482,9 @@ Freizei=	Freizeit	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Que
 t	-	SPACE	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:21:16.046000	0:21:17.406000
 .	-	-	-	0:21:16.046000	0:21:17.406000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:16.046000" end="0:21:17.406000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:16.046000" end="0:21:17.406000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:17.406000" end="0:21:19.946000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:17.406000" end="0:21:19.946000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:21:17.406000	0:21:19.472000
 kann	können	VERB	-	0:21:17.406000	0:21:19.472000
 ich	ich	PRON	-	0:21:17.406000	0:21:19.472000
@@ -5495,7 +5495,7 @@ aus=	ausüben	VERB	-	0:21:17.406000	0:21:19.472000
 üben	-	SPACE	-	0:21:19.472000	0:21:19.946000
 .	-	-	-	0:21:19.472000	0:21:19.946000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:19.472000" end="0:21:21.886000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:19.472000" end="0:21:21.886000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:19.472000	0:21:19.946000
 .	-	-	-	0:21:19.472000	0:21:19.946000
 ja	-	-	-	0:21:19.946000	0:21:21.886000
@@ -5509,7 +5509,7 @@ haben	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	
 oder	oder	CCONJ	-	0:21:19.946000	0:21:21.886000
 ?	-	-	-	0:21:19.946000	0:21:21.886000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:21.886000" end="0:21:25.499000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:21.886000" end="0:21:25.499000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	PART	-	0:21:21.886000	0:21:25.499000
 ,	-	-	-	0:21:21.886000	0:21:25.499000
@@ -5521,7 +5521,7 @@ und	und	CCONJ	-	0:21:21.886000	0:21:25.499000
 reisen	reisen	VERB	-	0:21:21.886000	0:21:25.499000
 .	-	-	-	0:21:21.886000	0:21:25.499000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:25.499000" end="0:21:27.552000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:25.499000" end="0:21:27.552000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:25.499000	0:21:27.552000
 reisen	reisen	VERB	-	0:21:25.499000	0:21:27.552000
 ,	-	-	-	0:21:25.499000	0:21:27.552000
@@ -5529,15 +5529,15 @@ genau	genau	ADJ	-	0:21:25.499000	0:21:27.552000
 ,	-	-	-	0:21:25.499000	0:21:27.552000
 das	der	PRON	-	0:21:25.499000	0:21:27.552000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:27.552000" end="0:21:28.046000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:27.552000" end="0:21:28.046000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:27.552000	0:21:28.046000
 .	-	-	-	0:21:27.552000	0:21:28.046000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:27.552000" end="0:21:28.046000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:27.552000" end="0:21:28.046000" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:21:27.552000	0:21:28.046000
 .	-	-	-	0:21:27.552000	0:21:28.046000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:28.046000" end="0:21:30.199000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:28.046000" end="0:21:30.199000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:21:28.046000	0:21:30.199000
 die	der	DET	-	0:21:28.046000	0:21:30.199000
 Zeit	Zeit	NOUN	-	0:21:28.046000	0:21:30.199000
@@ -5547,7 +5547,7 @@ mir	sich	PRON	-	0:21:28.046000	0:21:30.199000
 schon	schon	ADV	-	0:21:28.046000	0:21:30.199000
 .	-	-	-	0:21:28.046000	0:21:30.199000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:28.046000" end="0:21:34.426000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:28.046000" end="0:21:34.426000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:21:28.046000	0:21:30.199000
 beneide	beneiden	VERB	-	0:21:28.046000	0:21:30.199000
 ich	ich	PRON	-	0:21:28.046000	0:21:30.199000
@@ -5575,11 +5575,11 @@ da	-	-	-	0:21:32.032000	0:21:34.426000
 an	-	-	-	0:21:32.032000	0:21:34.426000
 .	-	-	-	0:21:32.032000	0:21:34.426000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:34.426000" end="0:21:35.072000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:34.426000" end="0:21:35.072000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:21:34.426000	0:21:35.072000
 ?	-	-	-	0:21:34.426000	0:21:35.072000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:35.072000" end="0:21:37.259000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:35.072000" end="0:21:37.259000" age_lower="18" age_upper="35">
 vor	vor	ADP	-	0:21:35.072000	0:21:37.259000
 allem	alle	PRON	-	0:21:35.072000	0:21:37.259000
 dort	dort	ADV	-	0:21:35.072000	0:21:37.259000
@@ -5595,7 +5595,7 @@ und	und	CCONJ	-	0:21:35.072000	0:21:37.259000
 so	so	ADV	-	0:21:35.072000	0:21:37.259000
 .	-	-	-	0:21:35.072000	0:21:37.259000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:37.259000" end="0:21:40.559000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:37.259000" end="0:21:40.559000" age_lower="18" age_upper="35">
 ach	ach	X	-	0:21:37.259000	0:21:40.026000
 ,	-	-	-	0:21:37.259000	0:21:40.026000
 mit	-	-	-	0:21:37.259000	0:21:40.026000
@@ -5608,24 +5608,24 @@ schon	-	-	-	0:21:37.259000	0:21:40.026000
 über=	-	-	-	0:21:37.259000	0:21:40.026000
 =all	-	-	-	0:21:40.026000	0:21:40.559000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:40.026000" end="0:21:40.559000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:40.026000" end="0:21:40.559000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:40.026000	0:21:40.559000
 .	-	-	-	0:21:40.026000	0:21:40.559000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:40.559000" end="0:21:42.146000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:40.559000" end="0:21:42.146000" age_lower="18" age_upper="35">
 fortbewegen	-	-	-	0:21:40.559000	0:21:42.146000
 .	-	-	-	0:21:40.559000	0:21:42.146000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:42.146000" end="0:21:42.746000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:42.146000" end="0:21:42.746000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:21:42.146000	0:21:42.746000
 .	-	-	-	0:21:42.146000	0:21:42.746000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:42.746000" end="0:21:44.279000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:42.746000" end="0:21:44.279000" age_lower="18" age_upper="35">
 <pause duration="1s"/>
 gut	gut	ADJ	-	0:21:42.746000	0:21:44.279000
 .	-	-	-	0:21:42.746000	0:21:44.279000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:42.746000" end="0:21:46.279000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:42.746000" end="0:21:46.279000" age_lower="18" age_upper="35">
 <pause duration="1s"/>
 das	der	DET	-	0:21:42.746000	0:21:44.279000
 weiteste	weit	NOUN	-	0:21:42.746000	0:21:44.279000
@@ -5636,11 +5636,11 @@ wo	wo	ADV	-	0:21:44.279000	0:21:44.986000
 Thailand	Thailand	PROPN	-	0:21:44.986000	0:21:46.279000
 ?	-	-	-	0:21:44.986000	0:21:46.279000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:46.279000" end="0:21:47.199000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:46.279000" end="0:21:47.199000" age_lower="18" age_upper="35">
 Australien	Australien	PROPN	-	0:21:46.279000	0:21:47.199000
 .	-	-	-	0:21:46.279000	0:21:47.199000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:46.279000" end="0:21:48.172000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:46.279000" end="0:21:48.172000" age_lower="18" age_upper="35">
 oder	-	-	-	0:21:46.279000	0:21:47.199000
 /?	-	-	-	0:21:46.279000	0:21:47.199000
 Australien	-	-	-	0:21:47.199000	0:21:48.172000
@@ -5649,11 +5649,11 @@ auch	-	-	-	0:21:47.199000	0:21:48.172000
 schon	-	-	-	0:21:47.199000	0:21:48.172000
 ?	-	-	-	0:21:47.199000	0:21:48.172000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:48.172000" end="0:21:48.599000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:48.172000" end="0:21:48.599000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:48.172000	0:21:48.599000
 .	-	-	-	0:21:48.172000	0:21:48.599000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:48.599000" end="0:21:55.399000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:48.599000" end="0:21:55.399000" age_lower="18" age_upper="35">
 _boah_	boah	NOUN	-	0:21:48.599000	0:21:48.952000
 .	-	-	-	0:21:48.599000	0:21:48.952000
 <pause duration="2,9s"/>
@@ -5673,20 +5673,20 @@ NAME	NAME	ADJ	-	0:21:54.225000	0:21:55.399000
 NAME	NAME	NOUN	-	0:21:54.225000	0:21:55.399000
 ?	-	-	-	0:21:54.225000	0:21:55.399000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:55.399000" end="0:21:56.272000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:55.399000" end="0:21:56.272000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:21:55.399000	0:21:56.272000
 ,	-	-	-	0:21:55.399000	0:21:56.272000
 genau	genau	ADJ	-	0:21:55.399000	0:21:56.272000
 .	-	-	-	0:21:55.399000	0:21:56.272000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:55.399000" end="0:21:56.272000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:55.399000" end="0:21:56.272000" age_lower="18" age_upper="35">
 war	sein	AUX	-	0:21:55.399000	0:21:56.272000
 der	der	PRON	-	0:21:55.399000	0:21:56.272000
 (oder	oder	CCONJ	-	0:21:55.399000	0:21:56.272000
 wie)	wie	ADV	-	0:21:55.399000	0:21:56.272000
 /.	-	-	-	0:21:55.399000	0:21:56.272000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:56.272000" end="0:21:58.479000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:56.272000" end="0:21:58.479000" age_lower="18" age_upper="35">
 der	der	PRON	-	0:21:56.272000	0:21:58.479000
 hat	haben	AUX	-	0:21:56.272000	0:21:58.479000
 mir	sich	PRON	-	0:21:56.272000	0:21:58.479000
@@ -5701,7 +5701,7 @@ gestern	gestern	ADV	-	0:21:56.272000	0:21:58.479000
 erzählt	erzählen	VERB	-	0:21:56.272000	0:21:58.479000
 ,	-	-	-	0:21:56.272000	0:21:58.479000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:58.479000" end="0:22:00.012000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:21:58.479000" end="0:22:00.012000" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:58.479000	0:22:00.012000
 ,	-	-	-	0:21:58.479000	0:22:00.012000
 ja	-	-	-	0:21:58.479000	0:22:00.012000
@@ -5714,11 +5714,11 @@ erzählt	erzählen	VERB	-	0:21:58.479000	0:22:00.012000
 eh	eh	ADV	-	0:21:58.479000	0:22:00.012000
 .	-	-	-	0:21:58.479000	0:22:00.012000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:00.012000" end="0:22:00.399000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:00.012000" end="0:22:00.399000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:00.012000	0:22:00.399000
 .	-	-	-	0:22:00.012000	0:22:00.399000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:00.012000" end="0:22:01.745000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:00.012000" end="0:22:01.745000" age_lower="18" age_upper="35">
 läuft	laufen	VERB	-	0:22:00.012000	0:22:00.399000
 ja	ja	ADV	-	0:22:00.012000	0:22:00.399000
 eh	eh	ADV	-	0:22:00.399000	0:22:01.745000
@@ -5727,15 +5727,15 @@ mit	mit	ADP	-	0:22:00.399000	0:22:01.745000
 diesem	dies	DET	-	0:22:00.399000	0:22:01.745000
 Australier	Australier	NOUN	-	0:22:00.399000	0:22:01.745000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:01.745000" end="0:22:02.379000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:01.745000" end="0:22:02.379000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:01.745000	0:22:02.379000
 .	-	-	-	0:22:01.745000	0:22:02.379000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:01.745000" end="0:22:02.379000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:01.745000" end="0:22:02.379000" age_lower="18" age_upper="35">
 herum	herum	ADP	-	0:22:01.745000	0:22:02.379000
 .	-	-	-	0:22:01.745000	0:22:02.379000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:02.379000" end="0:22:08.145000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:02.379000" end="0:22:08.145000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 eigentlich	eigentlich	ADV	-	0:22:02.379000	0:22:06.359000
 war	sein	AUX	-	0:22:02.379000	0:22:06.359000
@@ -5751,11 +5751,11 @@ der	der	DET	-	0:22:06.359000	0:22:08.145000
 Arktis	Arktis	PROPN	-	0:22:06.359000	0:22:08.145000
 .	-	-	-	0:22:06.359000	0:22:08.145000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:08.145000" end="0:22:08.879000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:08.145000" end="0:22:08.879000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:08.145000	0:22:08.879000
 .	-	-	-	0:22:08.145000	0:22:08.879000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:08.879000" end="0:22:15.505000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:08.879000" end="0:22:15.505000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:22:08.879000	0:22:11.952000
 werde	werden	AUX	-	0:22:08.879000	0:22:11.952000
 ich	ich	PRON	-	0:22:08.879000	0:22:11.952000
@@ -5777,9 +5777,9 @@ ich	ich	PRON	-	0:22:11.952000	0:22:15.505000
 bin	sein	AUX	-	0:22:11.952000	0:22:15.505000
 .	-	-	-	0:22:11.952000	0:22:15.505000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:15.505000" end="0:22:17.005000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:15.505000" end="0:22:17.005000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:17.005000" end="0:22:18.405000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:17.005000" end="0:22:18.405000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:22:17.005000	0:22:18.405000
 gibt	geben	VERB	-	0:22:17.005000	0:22:18.405000
 es	ich	PRON	-	0:22:17.005000	0:22:18.405000
@@ -5788,7 +5788,7 @@ so	so	ADV	-	0:22:17.005000	0:22:18.405000
 Schiffsreisen	Schiffsreisen	NOUN	-	0:22:17.005000	0:22:18.405000
 .	-	-	-	0:22:17.005000	0:22:18.405000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:18.405000" end="0:22:21.685000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:18.405000" end="0:22:21.685000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:18.405000	0:22:19.219000
 ,	-	-	-	0:22:18.405000	0:22:19.219000
 klar	-	-	-	0:22:18.405000	0:22:19.219000
@@ -5803,16 +5803,16 @@ Winkel	-	-	-	0:22:19.219000	0:22:21.685000
 rein	-	-	-	0:22:19.219000	0:22:21.685000
 .	-	-	-	0:22:19.219000	0:22:21.685000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:21.685000" end="0:22:22.152000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:21.685000" end="0:22:22.152000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:21.685000	0:22:22.152000
 .	-	-	-	0:22:21.685000	0:22:22.152000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:22.152000" end="0:22:25.605000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:22.152000" end="0:22:25.605000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 Grönlandexpeditionen	Grönlandexpeditionen	NOUN	-	0:22:22.152000	0:22:25.605000
 .	-	-	-	0:22:22.152000	0:22:25.605000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:25.605000" end="0:22:30.079000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:25.605000" end="0:22:30.079000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:22:25.605000	0:22:30.079000
 ,	-	-	-	0:22:25.605000	0:22:30.079000
 <pause duration="0,9s"/>
@@ -5831,7 +5831,7 @@ viel	viel	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelev
 Zeit	Zeit	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:22:25.605000	0:22:30.079000
 .	-	-	-	0:22:25.605000	0:22:30.079000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:30.079000" end="0:22:33.285000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:30.079000" end="0:22:33.285000" age_lower="18" age_upper="35">
 siehst	sehen	VERB	-	0:22:30.079000	0:22:33.285000
 du	du	PRON	-	0:22:30.079000	0:22:33.285000
 eigentlich	eigentlich	ADV	-	0:22:30.079000	0:22:33.285000
@@ -5843,16 +5843,16 @@ als	als	ADP	-	0:22:30.079000	0:22:33.285000
 Freizeit	Freizeit	NOUN	-	0:22:30.079000	0:22:33.285000
 ?	-	-	-	0:22:30.079000	0:22:33.285000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:33.285000" end="0:22:34.732000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:33.285000" end="0:22:34.732000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:34.732000" end="0:22:36.232000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:34.732000" end="0:22:36.232000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:22:34.732000	0:22:36.232000
 also	also	ADV	-	0:22:34.732000	0:22:36.232000
 als	als	ADP	-	0:22:34.732000	0:22:36.232000
 Hobby	Hobby	NOUN	-	0:22:34.732000	0:22:36.232000
 ?	-	-	-	0:22:34.732000	0:22:36.232000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:36.232000" end="0:22:38.232000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:36.232000" end="0:22:38.232000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:22:36.232000	0:22:38.232000
 ,	-	-	-	0:22:36.232000	0:22:38.232000
 so	so	ADV	-	0:22:36.232000	0:22:38.232000
@@ -5860,7 +5860,7 @@ so	so	ADV	-	0:22:36.232000	0:22:38.232000
 nicht	nicht	PART	-	0:22:36.232000	0:22:38.232000
 .	-	-	-	0:22:36.232000	0:22:38.232000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:36.232000" end="0:22:38.639000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:36.232000" end="0:22:38.639000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:22:36.232000	0:22:38.232000
 so	so	ADV	-	0:22:36.232000	0:22:38.232000
 wie	wie	CCONJ	-	0:22:36.232000	0:22:38.232000
@@ -5874,7 +5874,7 @@ oder	oder	CCONJ	-	0:22:38.232000	0:22:38.639000
 so	so	ADV	-	0:22:38.232000	0:22:38.639000
 ?	-	-	-	0:22:38.232000	0:22:38.639000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:38.639000" end="0:22:40.145000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:38.639000" end="0:22:40.145000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:22:38.639000	0:22:40.145000
 ,	-	-	-	0:22:38.639000	0:22:40.145000
 überhaupt	überhaupt	ADV	-	0:22:38.639000	0:22:40.145000
@@ -5882,7 +5882,7 @@ nicht	nicht	PART	-	0:22:38.639000	0:22:40.145000
 ,	-	-	-	0:22:38.639000	0:22:40.145000
 also	also	ADV	-	0:22:38.639000	0:22:40.145000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:40.145000" end="0:22:41.419000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:40.145000" end="0:22:41.419000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:22:40.145000	0:22:41.419000
 singen	singen	NOUN	-	0:22:40.145000	0:22:41.419000
 geht	gehen	VERB	-	0:22:40.145000	0:22:41.419000
@@ -5890,14 +5890,14 @@ geht	gehen	VERB	-	0:22:40.145000	0:22:41.419000
 oder	oder	CCONJ	-	0:22:40.145000	0:22:41.419000
 ?	-	-	-	0:22:40.145000	0:22:41.419000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:41.419000" end="0:22:41.985000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:41.419000" end="0:22:41.985000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:22:41.419000	0:22:41.985000
 .	-	-	-	0:22:41.419000	0:22:41.985000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:41.419000" end="0:22:41.985000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:41.419000" end="0:22:41.985000" age_lower="18" age_upper="35">
 ?	-	-	-	0:22:41.419000	0:22:41.985000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:41.985000" end="0:22:45.979000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:41.985000" end="0:22:45.979000" age_lower="18" age_upper="35">
 <pause duration="2s"/>
 und	und	CCONJ	-	0:22:41.985000	0:22:44.505000
 du	du	PRON	-	0:22:41.985000	0:22:44.505000
@@ -5912,11 +5912,11 @@ so	so	ADV	-	0:22:44.505000	0:22:45.979000
 extrem	extrem	ADJ	-	0:22:44.505000	0:22:45.979000
 .	-	-	-	0:22:44.505000	0:22:45.979000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:45.979000" end="0:22:46.659000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:45.979000" end="0:22:46.659000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:22:45.979000	0:22:46.659000
 .	-	-	-	0:22:45.979000	0:22:46.659000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:46.659000" end="0:22:52.205000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:46.659000" end="0:22:52.205000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 also	also	ADV	-	0:22:46.659000	0:22:50.959000
 eigentlich	eigentlich	ADV	-	0:22:46.659000	0:22:50.959000
@@ -5939,7 +5939,7 @@ ganz	ganz	ADV	-	0:22:50.959000	0:22:52.205000
 gerne	gerne	ADV	-	0:22:50.959000	0:22:52.205000
 .	-	-	-	0:22:50.959000	0:22:52.205000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:52.205000" end="0:22:54.825000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:52.205000" end="0:22:54.825000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:22:52.205000	0:22:53.805000
 das	der	PRON	-	0:22:52.205000	0:22:53.805000
 das	-	-	-	0:22:52.205000	0:22:53.805000
@@ -5953,7 +5953,7 @@ sehr	-	-	-	0:22:53.805000	0:22:54.825000
 gut	-	-	-	0:22:53.805000	0:22:54.825000
 .	-	-	-	0:22:53.805000	0:22:54.825000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:54.825000" end="0:22:56.059000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:54.825000" end="0:22:56.059000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:22:54.825000	0:22:55.432000
 ,	-	-	-	0:22:54.825000	0:22:55.432000
 danke	danke	VERB	-	0:22:54.825000	0:22:55.432000
@@ -5962,11 +5962,11 @@ morgen	morgen	ADV	-	0:22:55.432000	0:22:56.059000
 fahre	fahren	VERB	-	0:22:55.432000	0:22:56.059000
 ich	ich	PRON	-	0:22:55.432000	0:22:56.059000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:55.432000" end="0:22:56.059000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:55.432000" end="0:22:56.059000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:22:55.432000	0:22:56.059000
 .	-	-	-	0:22:55.432000	0:22:56.059000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:56.059000" end="0:22:57.945000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:56.059000" end="0:22:57.945000" age_lower="18" age_upper="35">
 eh	eh	ADV	-	0:22:56.059000	0:22:56.692000
 nach	nach	ADP	-	0:22:56.059000	0:22:56.692000
 ORT	ORT	PROPN	-	0:22:56.059000	0:22:56.692000
@@ -5977,20 +5977,20 @@ eine	einen	DET	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin von
 Auszeichnung	Auszeichnung	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin von	0:22:56.692000	0:22:57.945000
 ,	-	-	-	0:22:56.692000	0:22:57.945000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:57.945000" end="0:22:58.585000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:57.945000" end="0:22:58.585000" age_lower="18" age_upper="35">
 aha	aha	X	-	0:22:57.945000	0:22:58.585000
 ?	-	-	-	0:22:57.945000	0:22:58.585000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:58.585000" end="0:23:00.259000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:22:58.585000" end="0:23:00.259000" age_lower="18" age_upper="35">
 familienfreundliche	familienfreundliche	ADJ	-	0:22:58.585000	0:23:00.259000
 Gemeinde	Gemeinde	NOUN	-	0:22:58.585000	0:23:00.259000
 .	-	-	-	0:22:58.585000	0:23:00.259000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:00.259000" end="0:23:00.885000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:00.259000" end="0:23:00.885000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:00.259000	0:23:00.885000
 .	-	-	-	0:23:00.259000	0:23:00.885000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:00.885000" end="0:23:05.032000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:00.885000" end="0:23:05.032000" age_lower="18" age_upper="35">
 von	von	ADP	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin von	0:23:00.885000	0:23:05.032000
 der	der	DET	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin von	0:23:00.885000	0:23:05.032000
 Frau	Frau	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin von	0:23:00.885000	0:23:05.032000
@@ -6000,11 +6000,11 @@ Bundesminister	Bundesminister	PROPN	+menschl -belebt App PM PR Pkon Poss Prel Pr
 NAME	NAME	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin von	0:23:00.885000	0:23:05.032000
 .	-	-	-	0:23:00.885000	0:23:05.032000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:05.032000" end="0:23:05.885000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:05.032000" end="0:23:05.885000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:05.032000	0:23:05.885000
 .	-	-	-	0:23:05.032000	0:23:05.885000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:05.885000" end="0:23:07.265000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:05.885000" end="0:23:07.265000" age_lower="18" age_upper="35">
 fahr	fahr	NOUN	-	0:23:05.885000	0:23:07.265000
 ich	ich	PRON	-	0:23:05.885000	0:23:07.265000
 mit	mit	ADP	-	0:23:05.885000	0:23:07.265000
@@ -6014,7 +6014,7 @@ Bürgermeister	Bürgermeister	NOUN	-	0:23:05.885000	0:23:07.265000
 raus	raus	ADP	-	0:23:05.885000	0:23:07.265000
 .	-	-	-	0:23:05.885000	0:23:07.265000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:07.265000" end="0:23:08.139000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:07.265000" end="0:23:08.139000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:23:07.265000	0:23:08.139000
 ,	schau	NOUN	-	0:23:07.265000	0:23:08.139000
 schau	-	-	-	0:23:07.265000	0:23:08.139000
@@ -6022,20 +6022,20 @@ einmal	einmal	ADV	-	0:23:07.265000	0:23:08.139000
 an	an	ADP	-	0:23:07.265000	0:23:08.139000
 !	-	-	-	0:23:07.265000	0:23:08.139000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:08.139000" end="0:23:08.805000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:08.139000" end="0:23:08.805000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:08.139000	0:23:08.805000
 .	-	-	-	0:23:08.139000	0:23:08.805000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:08.805000" end="0:23:09.679000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:08.805000" end="0:23:09.679000" age_lower="18" age_upper="35">
 _lei_	-	-	-	0:23:08.805000	0:23:09.679000
 ihr	-	-	-	0:23:08.805000	0:23:09.679000
 zwei	-	-	-	0:23:08.805000	0:23:09.679000
 ?	-	-	-	0:23:08.805000	0:23:09.679000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:09.679000" end="0:23:10.692000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:09.679000" end="0:23:10.692000" age_lower="18" age_upper="35">
 die	der	DET	-	0:23:09.679000	0:23:10.692000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:09.679000" end="0:23:13.259000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:09.679000" end="0:23:13.259000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:23:09.679000	0:23:10.692000
 deine	mein	DET	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond Soz irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Zug postnomin von	0:23:09.679000	0:23:10.692000
 Kolleginnen	Kollegin	NOUN	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond Soz irrelevant|+menschl -belebt App PM PR Pkon Poss Prel Zug postnomin von	0:23:10.692000	0:23:11.559000
@@ -6044,14 +6044,14 @@ vom	vom	ADP	+menschl -belebt App PM PR Pkon Poss Prel Zug postnomin von	0:23:11.
 Ausschuss	Ausschuss	PROPN	+menschl -belebt App PM PR Pkon Poss Prel Zug postnomin von	0:23:11.559000	0:23:13.259000
 ?	-	-	-	0:23:11.559000	0:23:13.259000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:13.259000" end="0:23:14.399000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:13.259000" end="0:23:14.399000" age_lower="18" age_upper="35">
 die	der	DET	-	0:23:13.259000	0:23:14.399000
 NAME	NAME	PROPN	-	0:23:13.259000	0:23:14.399000
 fährt	fahren	VERB	-	0:23:13.259000	0:23:14.399000
 mit	mit	ADP	-	0:23:13.259000	0:23:14.399000
 ,	-	-	-	0:23:13.259000	0:23:14.399000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:14.399000" end="0:23:15.172000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:14.399000" end="0:23:15.172000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:23:14.399000	0:23:15.172000
 ,	-	-	-	0:23:14.399000	0:23:15.172000
 die	der	DET	-	0:23:14.399000	0:23:15.172000
@@ -6060,22 +6060,22 @@ fährt	fahren	VERB	-	0:23:14.399000	0:23:15.172000
 mit	mit	ADP	-	0:23:14.399000	0:23:15.172000
 ?	-	-	-	0:23:14.399000	0:23:15.172000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:15.172000" end="0:23:15.612000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:15.172000" end="0:23:15.612000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:15.172000	0:23:15.612000
 .	-	-	-	0:23:15.172000	0:23:15.612000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:15.612000" end="0:23:18.312000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:15.612000" end="0:23:18.312000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ja	ja	ADV	-	0:23:15.612000	0:23:18.312000
 ,	-	-	-	0:23:15.612000	0:23:18.312000
 schön	schön	ADJ	-	0:23:15.612000	0:23:18.312000
 .	-	-	-	0:23:15.612000	0:23:18.312000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:18.312000" end="0:23:18.939000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:18.312000" end="0:23:18.939000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:18.312000	0:23:18.939000
 .	-	-	-	0:23:18.312000	0:23:18.939000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:18.939000" end="0:23:22.839000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:18.939000" end="0:23:22.839000" age_lower="18" age_upper="35">
 wer	wer	PRON	-	0:23:18.939000	0:23:20.739000
 hat	haben	AUX	-	0:23:18.939000	0:23:20.739000
 euch	sich	PRON	-	0:23:18.939000	0:23:20.739000
@@ -6092,41 +6092,41 @@ so	so	ADV	-	0:23:20.739000	0:23:22.839000
 teilgenommen	teilnehmen	VERB	-	0:23:20.739000	0:23:22.839000
 ?	-	-	-	0:23:20.739000	0:23:22.839000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:22.839000" end="0:23:24.032000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:22.839000" end="0:23:24.032000" age_lower="18" age_upper="35">
 mhm	hm	X	-	0:23:22.839000	0:23:24.032000
 .	-	-	-	0:23:22.839000	0:23:24.032000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:22.839000" end="0:23:25.579000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:22.839000" end="0:23:25.579000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:23:22.839000	0:23:24.032000
 schauen	schauen	VERB	-	0:23:24.032000	0:23:25.579000
 die	der	PRON	-	0:23:24.032000	0:23:25.579000
 ,	-	-	-	0:23:24.032000	0:23:25.579000
 beobachten	beobachten	VERB	-	0:23:24.032000	0:23:25.579000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:25.579000" end="0:23:26.425000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:25.579000" end="0:23:26.425000" age_lower="18" age_upper="35">
 die	der	DET	-	0:23:25.579000	0:23:26.425000
 beobachten	beobachten	VERB	-	0:23:25.579000	0:23:26.425000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:25.579000" end="0:23:26.425000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:25.579000" end="0:23:26.425000" age_lower="18" age_upper="35">
 die	der	DET	-	0:23:25.579000	0:23:26.425000
 das	der	PRON	-	0:23:25.579000	0:23:26.425000
 ?	-	-	-	0:23:25.579000	0:23:26.425000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:26.425000" end="0:23:27.019000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:26.425000" end="0:23:27.019000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:23:26.425000	0:23:27.019000
 ,	-	-	-	0:23:26.425000	0:23:27.019000
 ja	ja	PART	-	0:23:26.425000	0:23:27.019000
 .	-	-	-	0:23:26.425000	0:23:27.019000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:27.019000" end="0:23:27.512000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:27.019000" end="0:23:27.512000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:23:27.019000	0:23:27.512000
 ?	-	-	-	0:23:27.019000	0:23:27.512000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:27.512000" end="0:23:28.005000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:27.512000" end="0:23:28.005000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:27.512000	0:23:28.005000
 .	-	-	-	0:23:27.512000	0:23:28.005000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:28.005000" end="0:23:28.912000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:28.005000" end="0:23:28.912000" age_lower="18" age_upper="35">
 herausge=	-	-	-	0:23:28.005000	0:23:28.912000
 und	-	-	-	0:23:28.005000	0:23:28.912000
 da	-	-	-	0:23:28.005000	0:23:28.912000
@@ -6134,16 +6134,16 @@ haben	-	-	-	0:23:28.005000	0:23:28.912000
 sie	-	-	-	0:23:28.005000	0:23:28.912000
 das	-	-	-	0:23:28.005000	0:23:28.912000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:28.912000" end="0:23:29.552000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:28.912000" end="0:23:29.552000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:23:28.912000	0:23:29.552000
 wir	ich	PRON	-	0:23:28.912000	0:23:29.552000
 in	in	ADP	IRR	0:23:28.912000	0:23:29.552000
 so	so	ADV	IRR	0:23:28.912000	0:23:29.552000
 ku=	kurz	ADJ	IRR	0:23:28.912000	0:23:29.552000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:28.912000" end="0:23:29.552000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:28.912000" end="0:23:29.552000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:29.552000" end="0:23:31.472000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:29.552000" end="0:23:31.472000" age_lower="18" age_upper="35">
 rzer	-	SPACE	IRR	0:23:29.552000	0:23:31.472000
 Zeit	Zeit	NOUN	IRR	0:23:29.552000	0:23:31.472000
 ziemlich	ziemlich	ADV	-	0:23:29.552000	0:23:31.472000
@@ -6152,16 +6152,16 @@ gemacht	machen	VERB	-	0:23:29.552000	0:23:31.472000
 haben	haben	AUX	-	0:23:29.552000	0:23:31.472000
 .	-	-	-	0:23:29.552000	0:23:31.472000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:31.472000" end="0:23:32.365000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:31.472000" end="0:23:32.365000" age_lower="18" age_upper="35">
 ach	-	-	-	0:23:31.472000	0:23:32.365000
 so	-	-	-	0:23:31.472000	0:23:32.365000
 .	-	-	-	0:23:31.472000	0:23:32.365000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:32.365000" end="0:23:32.845000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:32.365000" end="0:23:32.845000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:32.365000	0:23:32.845000
 .	-	-	-	0:23:32.365000	0:23:32.845000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:32.845000" end="0:23:34.132000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:32.845000" end="0:23:34.132000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ah	ah	X	-	0:23:32.845000	0:23:34.132000
 ,	-	-	-	0:23:32.845000	0:23:34.132000
@@ -6170,11 +6170,11 @@ einmal	einmal	ADV	-	0:23:32.845000	0:23:34.132000
 an	an	ADP	-	0:23:32.845000	0:23:34.132000
 .	-	-	-	0:23:32.845000	0:23:34.132000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:34.132000" end="0:23:34.765000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:34.132000" end="0:23:34.765000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:23:34.132000	0:23:34.765000
 .	-	-	-	0:23:34.132000	0:23:34.765000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:34.765000" end="0:23:41.305000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:34.765000" end="0:23:41.305000" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 mhm	mhm	PROPN	-	0:23:34.765000	0:23:39.479000
 .	-	-	-	0:23:34.765000	0:23:39.479000
@@ -6190,14 +6190,14 @@ ist	sein	AUX	-	0:23:40.925000	0:23:41.305000
 da	da	ADV	-	0:23:40.925000	0:23:41.305000
 ,	-	-	-	0:23:40.925000	0:23:41.305000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:41.305000" end="0:23:42.492000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:41.305000" end="0:23:42.492000" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:41.305000	0:23:42.492000
 eine	-	-	-	0:23:41.305000	0:23:42.492000
 Urkunde	-	-	-	0:23:41.305000	0:23:42.492000
 *kriegst*	-	-	-	0:23:41.305000	0:23:42.492000
 ,	-	-	-	0:23:41.305000	0:23:42.492000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:41.305000" end="0:23:43.125000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:41.305000" end="0:23:43.125000" age_lower="18" age_upper="35">
 eine	einen	DET	-	0:23:41.305000	0:23:42.492000
 Fete	Fete	NOUN	-	0:23:41.305000	0:23:42.492000
 oder	oder	CCONJ	-	0:23:41.305000	0:23:42.492000
@@ -6206,7 +6206,7 @@ so	so	ADV	-	0:23:41.305000	0:23:42.492000
 achso	achso	NOUN	-	0:23:42.492000	0:23:43.125000
 .	-	-	-	0:23:42.492000	0:23:43.125000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:43.125000" end="0:23:45.972000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:43.125000" end="0:23:45.972000" age_lower="18" age_upper="35">
 Buffet	-	SPACE	-	0:23:43.125000	0:23:43.972000
 gibt	geben	VERB	-	0:23:43.125000	0:23:43.972000
 es	ich	PRON	-	0:23:43.125000	0:23:43.972000
@@ -6221,7 +6221,7 @@ heim	-	-	-	0:23:43.972000	0:23:45.972000
 aber	-	-	-	0:23:43.972000	0:23:45.972000
 /.	-	-	-	0:23:43.972000	0:23:45.972000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:43.972000" end="0:23:47.059000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:43.972000" end="0:23:47.059000" age_lower="18" age_upper="35">
 achso	achso	NOUN	-	0:23:43.972000	0:23:45.972000
 ja	ja	PART	-	0:23:43.972000	0:23:45.972000
 ,	-	-	-	0:23:43.972000	0:23:45.972000
@@ -6237,15 +6237,15 @@ ist	sein	AUX	-	0:23:45.972000	0:23:47.059000
 ja	ja	ADV	-	0:23:45.972000	0:23:47.059000
 trotzdem	trotzdem	ADV	-	0:23:45.972000	0:23:47.059000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:47.059000" end="0:23:47.432000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:47.059000" end="0:23:47.432000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:23:47.059000	0:23:47.432000
 dann	dann	ADV	-	0:23:47.059000	0:23:47.432000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:47.059000" end="0:23:47.432000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:47.059000" end="0:23:47.432000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:23:47.059000	0:23:47.432000
 .	-	-	-	0:23:47.059000	0:23:47.432000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:47.432000" end="0:23:51.825000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:47.432000" end="0:23:51.825000" age_lower="18" age_upper="35">
 wird	werden	VERB	-	0:23:47.432000	0:23:49.305000
 es	-	-	-	0:23:47.432000	0:23:49.305000
 drei	-	-	-	0:23:47.432000	0:23:49.305000
@@ -6265,11 +6265,11 @@ weitermachen	weitermachen	VERB	-	0:23:49.305000	0:23:51.825000
 ,	-	-	-	0:23:49.305000	0:23:51.825000
 und	und	CCONJ	-	0:23:49.305000	0:23:51.825000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:51.825000" end="0:23:52.499000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:51.825000" end="0:23:52.499000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:51.825000	0:23:52.499000
 .	-	-	-	0:23:51.825000	0:23:52.499000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:52.499000" end="0:23:58.299000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:52.499000" end="0:23:58.299000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 und	und	CCONJ	-	0:23:52.499000	0:23:56.519000
 dann	dann	ADV	-	0:23:52.499000	0:23:56.519000
@@ -6285,11 +6285,11 @@ familienfreundliche	familienfreundliche	ADJ	-	0:23:56.519000	0:23:58.299000
 Gemeinde	Gemeinde	NOUN	-	0:23:56.519000	0:23:58.299000
 .	-	-	-	0:23:56.519000	0:23:58.299000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:58.299000" end="0:23:59.172000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:58.299000" end="0:23:59.172000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:23:58.299000	0:23:59.172000
 .	-	-	-	0:23:58.299000	0:23:59.172000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:59.172000" end="0:24:05.072000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:23:59.172000" end="0:24:05.072000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:23:59.172000	0:24:01.965000
 kinderfreundliche	kinderfreundliche	ADJ	-	0:23:59.172000	0:24:01.965000
 Gemeinde	Gemeinde	NOUN	-	0:23:59.172000	0:24:01.965000
@@ -6303,7 +6303,7 @@ dann	dann	ADV	-	0:24:01.965000	0:24:05.072000
 schaffen	schaffen	VERB	-	0:24:01.965000	0:24:05.072000
 .	-	-	-	0:24:01.965000	0:24:05.072000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:05.072000" end="0:24:07.912000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:05.072000" end="0:24:07.912000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:05.072000	0:24:07.912000
 ,	-	-	-	0:24:05.072000	0:24:07.912000
 <pause duration="1s"/>
@@ -6314,7 +6314,7 @@ dort	dort	ADV	-	0:24:05.072000	0:24:07.912000
 auch	auch	ADV	-	0:24:05.072000	0:24:07.912000
 ?	-	-	-	0:24:05.072000	0:24:07.912000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:07.912000" end="0:24:10.532000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:07.912000" end="0:24:10.532000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:24:07.912000	0:24:09.039000
 ,	-	-	-	0:24:07.912000	0:24:09.039000
 wir	ich	PRON	-	0:24:07.912000	0:24:09.039000
@@ -6326,27 +6326,27 @@ wir	ich	PRON	-	0:24:10.119000	0:24:10.532000
 müssen	müssen	VERB	-	0:24:10.119000	0:24:10.532000
 alle	all	PRON	-	0:24:10.119000	0:24:10.532000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:10.119000" end="0:24:10.532000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:10.119000" end="0:24:10.532000" age_lower="18" age_upper="35">
 schade	schaden	ADJ	-	0:24:10.119000	0:24:10.532000
 .	-	-	-	0:24:10.119000	0:24:10.532000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:10.532000" end="0:24:11.279000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:10.532000" end="0:24:11.279000" age_lower="18" age_upper="35">
 wieder	wieder	ADV	-	0:24:10.532000	0:24:11.279000
 arbeiten	arbeiten	VERB	-	0:24:10.532000	0:24:11.279000
 .	-	-	-	0:24:10.532000	0:24:11.279000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:11.279000" end="0:24:11.852000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:11.279000" end="0:24:11.852000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:24:11.279000	0:24:11.852000
 ?	-	-	-	0:24:11.279000	0:24:11.852000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:11.852000" end="0:24:13.725000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:11.852000" end="0:24:13.725000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:11.852000	0:24:13.725000
 ,	-	-	-	0:24:11.852000	0:24:13.725000
 passt	passt	PROPN	-	0:24:11.852000	0:24:13.725000
 schon	schon	ADV	-	0:24:11.852000	0:24:13.725000
 .	-	-	-	0:24:11.852000	0:24:13.725000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:13.725000" end="0:24:15.725000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:13.725000" end="0:24:15.725000" age_lower="18" age_upper="35">
 <pause duration="1s"/>
 wie	wie	ADV	-	0:24:13.725000	0:24:15.725000
 fahrt	fahrt	VERB	-	0:24:13.725000	0:24:15.725000
@@ -6361,7 +6361,7 @@ oder	oder	CCONJ	-	0:24:13.725000	0:24:15.725000
 was	was	PRON	-	0:24:13.725000	0:24:15.725000
 ?	-	-	-	0:24:13.725000	0:24:15.725000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:15.725000" end="0:24:18.585000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:15.725000" end="0:24:18.585000" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:24:15.725000	0:24:18.205000
 fahren	fahren	VERB	-	0:24:15.725000	0:24:18.205000
 mit	mit	ADP	-	0:24:15.725000	0:24:18.205000
@@ -6372,7 +6372,7 @@ sel=	selber	ADV	-	0:24:15.725000	0:24:18.205000
 ber	-	SPACE	-	0:24:18.205000	0:24:18.585000
 .	-	-	-	0:24:18.205000	0:24:18.585000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:18.205000" end="0:24:18.979000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:18.205000" end="0:24:18.979000" age_lower="18" age_upper="35">
 fahrt	fahrt	VERB	-	0:24:18.205000	0:24:18.585000
 er	ich	PRON	-	0:24:18.205000	0:24:18.585000
 selber	selber	ADV	-	0:24:18.585000	0:24:18.979000
@@ -6380,27 +6380,27 @@ selber	selber	ADV	-	0:24:18.585000	0:24:18.979000
 ja	ja	PART	-	0:24:18.585000	0:24:18.979000
 ?	-	-	-	0:24:18.585000	0:24:18.979000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:18.979000" end="0:24:19.232000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:18.979000" end="0:24:19.232000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:18.979000	0:24:19.232000
 .	-	-	-	0:24:18.979000	0:24:19.232000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:19.232000" end="0:24:20.385000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:19.232000" end="0:24:20.385000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 der	der	DET	-	0:24:19.232000	0:24:20.385000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:20.385000" end="0:24:20.772000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:20.385000" end="0:24:20.772000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:20.385000	0:24:20.772000
 .	-	-	-	0:24:20.385000	0:24:20.772000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:20.772000" end="0:24:21.152000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:20.772000" end="0:24:21.152000" age_lower="18" age_upper="35">
 NAME	NAME	PROPN	-	0:24:20.772000	0:24:21.152000
 ?	-	-	-	0:24:20.772000	0:24:21.152000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:21.152000" end="0:24:21.579000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:21.152000" end="0:24:21.579000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:21.152000	0:24:21.579000
 .	-	-	-	0:24:21.152000	0:24:21.579000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:21.579000" end="0:24:24.725000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:21.579000" end="0:24:24.725000" age_lower="18" age_upper="35">
 <pause duration="2s"/>
 ja	ja	ADV	-	0:24:21.579000	0:24:24.725000
 ,	-	-	-	0:24:21.579000	0:24:24.725000
@@ -6411,7 +6411,7 @@ nichts	nichts	PRON	-	0:24:21.579000	0:24:24.725000
 ausmacht	ausmachen	VERB	-	0:24:21.579000	0:24:24.725000
 .	-	-	-	0:24:21.579000	0:24:24.725000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:24.725000" end="0:24:29.059000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:24.725000" end="0:24:29.059000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:24:24.725000	0:24:25.272000
 .	-	-	-	0:24:24.725000	0:24:25.272000
 <pause duration="0,8s"/>
@@ -6433,7 +6433,7 @@ wieder	wieder	ADV	-	0:24:28.259000	0:24:29.059000
 heim	heim	ADP	-	0:24:28.259000	0:24:29.059000
 .	-	-	-	0:24:28.259000	0:24:29.059000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:29.059000" end="0:24:32.965000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:29.059000" end="0:24:32.965000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 (*kannst*)	-	-	-	0:24:29.059000	0:24:32.965000
 (auch)	-	-	-	0:24:29.059000	0:24:32.965000
@@ -6442,15 +6442,15 @@ Brötchen	-	-	-	0:24:29.059000	0:24:32.965000
 essen	-	-	-	0:24:29.059000	0:24:32.965000
 .	-	-	-	0:24:29.059000	0:24:32.965000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:32.965000" end="0:24:33.899000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:32.965000" end="0:24:33.899000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:32.965000	0:24:33.899000
 .	-	-	-	0:24:32.965000	0:24:33.899000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:33.899000" end="0:24:34.645000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:33.899000" end="0:24:34.645000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:24:33.899000	0:24:34.645000
 .	-	-	-	0:24:33.899000	0:24:34.645000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:34.645000" end="0:24:36.299000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:34.645000" end="0:24:36.299000" age_lower="18" age_upper="35">
 schauen	schauen	VERB	-	0:24:34.645000	0:24:35.659000
 wir	ich	PRON	-	0:24:34.645000	0:24:35.659000
 einmal	einmal	ADV	-	0:24:34.645000	0:24:35.659000
@@ -6460,11 +6460,11 @@ es	ich	PRON	-	0:24:34.645000	0:24:35.659000
 wird	werden	AUX	-	0:24:35.659000	0:24:36.299000
 .	-	-	-	0:24:35.659000	0:24:36.299000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:35.659000" end="0:24:36.299000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:35.659000" end="0:24:36.299000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:35.659000	0:24:36.299000
 .	-	-	-	0:24:35.659000	0:24:36.299000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:36.299000" end="0:24:38.299000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:36.299000" end="0:24:38.299000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:24:36.299000	0:24:38.299000
 als	als	ADP	-	0:24:36.299000	0:24:38.299000
 Hobby	Hobby	NOUN	-	0:24:36.299000	0:24:38.299000
@@ -6474,20 +6474,20 @@ das	der	PRON	-	0:24:36.299000	0:24:38.299000
 nicht	nicht	PART	-	0:24:36.299000	0:24:38.299000
 .	-	-	-	0:24:36.299000	0:24:38.299000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:38.299000" end="0:24:38.752000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:38.299000" end="0:24:38.752000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:38.299000	0:24:38.752000
 ,	-	-	-	0:24:38.299000	0:24:38.752000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:38.752000" end="0:24:39.405000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:38.752000" end="0:24:39.405000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:24:38.752000	0:24:39.405000
 viel	viel	DET	-	0:24:38.752000	0:24:39.405000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:38.752000" end="0:24:39.405000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:38.752000" end="0:24:39.405000" age_lower="18" age_upper="35">
 glaube	glauben	VERB	-	0:24:38.752000	0:24:39.405000
 ich	ich	PRON	-	0:24:38.752000	0:24:39.405000
 .	-	-	-	0:24:38.752000	0:24:39.405000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:39.405000" end="0:24:44.039000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:39.405000" end="0:24:44.039000" age_lower="18" age_upper="35">
 Freizeit	Freizeit	NOUN	-	0:24:39.405000	0:24:40.605000
 geht	gehen	VERB	-	0:24:39.405000	0:24:40.605000
 schon	schon	ADV	-	0:24:39.405000	0:24:40.605000
@@ -6509,7 +6509,7 @@ auch	auch	ADV	-	0:24:43.005000	0:24:44.039000
 gerne	gerne	ADV	-	0:24:43.005000	0:24:44.039000
 .	-	-	-	0:24:43.005000	0:24:44.039000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:44.039000" end="0:24:50.439000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:44.039000" end="0:24:50.439000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:24:44.039000	0:24:45.345000
 stimmt	stimmen	VERB	-	0:24:44.039000	0:24:45.345000
 ,	-	-	-	0:24:44.039000	0:24:45.345000
@@ -6535,24 +6535,24 @@ mit	mit	ADP	-	0:24:48.579000	0:24:50.439000
 den	der	DET	-	0:24:48.579000	0:24:50.439000
 Mitteln	Mittel	NOUN	-	0:24:48.579000	0:24:50.439000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:50.439000" end="0:24:51.425000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:50.439000" end="0:24:51.425000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:24:50.439000	0:24:51.425000
 ,	-	-	-	0:24:50.439000	0:24:51.425000
 schlecht	schlecht	ADJ	-	0:24:50.439000	0:24:51.425000
 .	-	-	-	0:24:50.439000	0:24:51.425000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:50.439000" end="0:24:51.425000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:50.439000" end="0:24:51.425000" age_lower="18" age_upper="35">
 schaut	-	SPACE	-	0:24:50.439000	0:24:51.425000
 oder	oder	CCONJ	-	0:24:50.439000	0:24:51.425000
 ob	ob	SCONJ	-	0:24:50.439000	0:24:51.425000
 das	der	PRON	-	0:24:50.439000	0:24:51.425000
 /.	-	-	-	0:24:50.439000	0:24:51.425000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:51.425000" end="0:24:51.765000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:51.425000" end="0:24:51.765000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:24:51.425000	0:24:51.765000
 /.	-	-	-	0:24:51.425000	0:24:51.765000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:51.765000" end="0:24:52.919000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:51.765000" end="0:24:52.919000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:24:51.765000	0:24:52.919000
 ,	-	-	-	0:24:51.765000	0:24:52.919000
 gut	gut	ADJ	-	0:24:51.765000	0:24:52.919000
@@ -6564,9 +6564,9 @@ nicht	nicht	PART	-	0:24:51.765000	0:24:52.919000
 ?	-	-	-	0:24:51.765000	0:24:52.919000
 aber	aber	CCONJ	-	0:24:51.765000	0:24:52.919000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:52.919000" end="0:24:53.785000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:52.919000" end="0:24:53.785000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:53.785000" end="0:25:00.359000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:24:53.785000" end="0:25:00.359000" age_lower="18" age_upper="35">
 zumindest	zumindest	ADV	-	0:24:53.785000	0:24:55.019000
 ähm	-	-	-	0:24:53.785000	0:24:55.019000
 /,	-	-	-	0:24:53.785000	0:24:55.019000
@@ -6595,22 +6595,22 @@ das	der	DET	-	0:24:58.925000	0:25:00.359000
 Referat	Referat	NOUN	-	0:24:58.925000	0:25:00.359000
 noch	noch	ADV	-	0:24:58.925000	0:25:00.359000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:00.359000" end="0:25:00.752000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:00.359000" end="0:25:00.752000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:00.359000	0:25:00.752000
 ,	-	-	-	0:25:00.359000	0:25:00.752000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:00.359000" end="0:25:00.752000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:00.359000" end="0:25:00.752000" age_lower="18" age_upper="35">
 gibt	geben	VERB	-	0:25:00.359000	0:25:00.752000
 ,	-	-	-	0:25:00.359000	0:25:00.752000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:00.752000" end="0:25:01.519000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:00.752000" end="0:25:01.519000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:25:00.752000	0:25:01.519000
 gibt	geben	VERB	-	0:25:00.752000	0:25:01.519000
 es	ich	PRON	-	0:25:00.752000	0:25:01.519000
 noch	noch	ADV	-	0:25:00.752000	0:25:01.519000
 .	-	-	-	0:25:00.752000	0:25:01.519000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:01.519000" end="0:25:03.519000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:01.519000" end="0:25:03.519000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:25:01.519000	0:25:02.572000
 wenn	wenn	SCONJ	-	0:25:01.519000	0:25:02.572000
 da	da	ADV	-	0:25:01.519000	0:25:02.572000
@@ -6624,42 +6624,42 @@ ja	-	-	-	0:25:02.572000	0:25:03.519000
 wirklich	-	-	-	0:25:02.572000	0:25:03.519000
 nichts	-	-	-	0:25:02.572000	0:25:03.519000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:03.519000" end="0:25:04.025000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:03.519000" end="0:25:04.025000" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:03.519000	0:25:04.025000
 ,	-	-	-	0:25:03.519000	0:25:04.025000
 *kannst*	-	-	-	0:25:03.519000	0:25:04.025000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:03.519000" end="0:25:04.025000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:03.519000" end="0:25:04.025000" age_lower="18" age_upper="35">
 tun	-	-	-	0:25:03.519000	0:25:04.025000
 .	-	-	-	0:25:03.519000	0:25:04.025000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:04.025000" end="0:25:05.379000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:04.025000" end="0:25:05.379000" age_lower="18" age_upper="35">
 nichts	-	-	-	0:25:04.025000	0:25:04.525000
 tun	-	-	-	0:25:04.025000	0:25:04.525000
 ,	-	-	-	0:25:04.025000	0:25:04.525000
 der	der	PRON	-	0:25:04.525000	0:25:05.379000
 sitzt	sitzen	VERB	-	0:25:04.525000	0:25:05.379000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:04.525000" end="0:25:05.379000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:04.525000" end="0:25:05.379000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:25:04.525000	0:25:05.379000
 meine	meinen	VERB	-	0:25:04.525000	0:25:05.379000
 /.	-	-	-	0:25:04.525000	0:25:05.379000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:05.379000" end="0:25:06.639000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:05.379000" end="0:25:06.639000" age_lower="18" age_upper="35">
 am	am	ADP	-	0:25:05.379000	0:25:06.139000
 Trock=	Trockene	NOUN	-	0:25:05.379000	0:25:06.139000
 enen	-	SPACE	-	0:25:06.139000	0:25:06.639000
 .	-	-	-	0:25:06.139000	0:25:06.639000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:06.139000" end="0:25:06.639000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:06.139000" end="0:25:06.639000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:06.139000	0:25:06.639000
 .	-	-	-	0:25:06.139000	0:25:06.639000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:06.639000" end="0:25:07.285000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:06.639000" end="0:25:07.285000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:06.639000	0:25:07.285000
 .	-	-	-	0:25:06.639000	0:25:07.285000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:07.285000" end="0:25:08.465000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:07.285000" end="0:25:08.465000" age_lower="18" age_upper="35">
 wer	wer	PRON	-	0:25:07.285000	0:25:08.465000
 ist	sein	AUX	-	0:25:07.285000	0:25:08.465000
 denn	denn	ADV	-	0:25:07.285000	0:25:08.465000
@@ -6668,13 +6668,13 @@ das	der	PRON	-	0:25:07.285000	0:25:08.465000
 jetzt	jetzt	ADV	-	0:25:07.285000	0:25:08.465000
 ?	-	-	-	0:25:07.285000	0:25:08.465000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:08.465000" end="0:25:09.572000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:08.465000" end="0:25:09.572000" age_lower="18" age_upper="35">
 der	der	DET	-	0:25:08.465000	0:25:09.572000
 NAME	NAME	NOUN	-	0:25:08.465000	0:25:09.572000
 NAME	NAME	PROPN	-	0:25:08.465000	0:25:09.572000
 .	-	-	-	0:25:08.465000	0:25:09.572000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:09.572000" end="0:25:10.359000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:09.572000" end="0:25:10.359000" age_lower="18" age_upper="35">
 ah	ah	ADJ	-	0:25:09.572000	0:25:10.359000
 ja	ja	ADV	-	0:25:09.572000	0:25:10.359000
 ,	-	-	-	0:25:09.572000	0:25:10.359000
@@ -6684,7 +6684,7 @@ NAME	NAME	NOUN	-	0:25:09.572000	0:25:10.359000
 ja	ja	PART	-	0:25:09.572000	0:25:10.359000
 .	-	-	-	0:25:09.572000	0:25:10.359000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:10.359000" end="0:25:12.872000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:10.359000" end="0:25:12.872000" age_lower="18" age_upper="35">
 er	ich	PRON	-	0:25:10.359000	0:25:11.999000
 probiert	probieren	VERB	-	0:25:10.359000	0:25:11.999000
 wohl	wohl	ADV	-	0:25:10.359000	0:25:11.999000
@@ -6693,7 +6693,7 @@ fest	fest	ADP	-	0:25:11.999000	0:25:12.872000
 aber	aber	CCONJ	-	0:25:11.999000	0:25:12.872000
 /.	-	-	-	0:25:11.999000	0:25:12.872000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:11.999000" end="0:25:16.319000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:11.999000" end="0:25:16.319000" age_lower="18" age_upper="35">
 mhm	hm	X	-	0:25:11.999000	0:25:12.872000
 .	-	-	-	0:25:11.999000	0:25:12.872000
 <pause duration="0,9s"/>
@@ -6708,11 +6708,11 @@ der	der	DET	-	0:25:12.872000	0:25:16.319000
 gleichen	gleich	ADJ	-	0:25:12.872000	0:25:16.319000
 Situ=	Situation	NOUN	-	0:25:12.872000	0:25:16.319000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:16.319000" end="0:25:16.805000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:16.319000" end="0:25:16.805000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:16.319000	0:25:16.805000
 .	-	-	-	0:25:16.319000	0:25:16.805000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:16.319000" end="0:25:17.619000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:16.319000" end="0:25:17.619000" age_lower="18" age_upper="35">
 ation	-	SPACE	-	0:25:16.319000	0:25:16.805000
 ,	-	-	-	0:25:16.319000	0:25:16.805000
 in	in	ADP	-	0:25:16.805000	0:25:17.619000
@@ -6720,17 +6720,17 @@ meiner	sich	DET	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel
 Ära	Ära	NOUN	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:25:16.805000	0:25:17.619000
 .	-	-	-	0:25:16.805000	0:25:17.619000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:17.619000" end="0:25:18.885000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:17.619000" end="0:25:18.885000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:17.619000	0:25:18.885000
 ,	-	-	-	0:25:17.619000	0:25:18.885000
 stimmt	stimmen	VERB	-	0:25:17.619000	0:25:18.885000
 .	-	-	-	0:25:17.619000	0:25:18.885000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:18.885000" end="0:25:19.232000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:18.885000" end="0:25:19.232000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:18.885000	0:25:19.232000
 .	-	-	-	0:25:18.885000	0:25:19.232000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:19.232000" end="0:25:24.985000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:19.232000" end="0:25:24.985000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 aber	aber	CCONJ	-	0:25:19.232000	0:25:21.865000
 ich	ich	PRON	-	0:25:19.232000	0:25:21.865000
@@ -6756,13 +6756,13 @@ auch	auch	ADV	-	0:25:24.339000	0:25:24.985000
 gerne	gerne	ADV	-	0:25:24.339000	0:25:24.985000
 .	-	-	-	0:25:24.339000	0:25:24.985000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:24.339000" end="0:25:25.592000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:24.339000" end="0:25:25.592000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:25:24.339000	0:25:24.985000
 .	-	-	-	0:25:24.339000	0:25:24.985000
 mhm	mhm	PROPN	-	0:25:24.985000	0:25:25.592000
 .	-	-	-	0:25:24.985000	0:25:25.592000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:25.592000" end="0:25:29.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:25.592000" end="0:25:29.712000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 die	der	PRON	-	0:25:25.592000	0:25:28.005000
 freuen	freuen	VERB	-	0:25:25.592000	0:25:28.005000
@@ -6781,7 +6781,7 @@ wer	wer	PRON	-	0:25:28.005000	0:25:29.225000
 kommt	kommen	VERB	-	0:25:29.225000	0:25:29.712000
 .	-	-	-	0:25:29.225000	0:25:29.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:29.225000" end="0:25:30.345000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:29.225000" end="0:25:30.345000" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:29.225000	0:25:29.712000
 ,	-	-	-	0:25:29.225000	0:25:29.712000
 ja	-	-	-	0:25:29.225000	0:25:29.712000
@@ -6794,36 +6794,36 @@ wohl	wohl	ADV	-	0:25:29.712000	0:25:30.345000
 ja	ja	PART	-	0:25:29.712000	0:25:30.345000
 .	-	-	-	0:25:29.712000	0:25:30.345000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:30.345000" end="0:25:32.345000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:30.345000" end="0:25:32.345000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:32.345000" end="0:25:32.752000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:32.345000" end="0:25:32.752000" age_lower="18" age_upper="35">
 du	du	PRON	-	0:25:32.345000	0:25:32.752000
 darfst	dürfen	VERB	-	0:25:32.345000	0:25:32.752000
 ja	ja	ADV	-	0:25:32.345000	0:25:32.752000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:32.752000" end="0:25:33.905000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:32.752000" end="0:25:33.905000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:25:32.752000	0:25:33.905000
 mit	mit	ADP	-	0:25:32.752000	0:25:33.905000
 den	der	DET	-	0:25:32.752000	0:25:33.905000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:32.752000" end="0:25:33.905000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:32.752000" end="0:25:33.905000" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:25:32.752000	0:25:33.905000
 nicht	nicht	PART	-	0:25:32.752000	0:25:33.905000
 vergessen	vergessen	VERB	-	0:25:32.752000	0:25:33.905000
 /,	-	-	-	0:25:32.752000	0:25:33.905000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:33.905000" end="0:25:35.905000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:33.905000" end="0:25:35.905000" age_lower="18" age_upper="35">
 Senioren	Senior	NOUN	-	0:25:33.905000	0:25:35.905000
 reden	reden	VERB	-	0:25:33.905000	0:25:35.905000
 ,	-	-	-	0:25:33.905000	0:25:35.905000
 das	der	PRON	-	0:25:33.905000	0:25:35.905000
 ist	sein	AUX	-	0:25:33.905000	0:25:35.905000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:35.905000" end="0:25:36.172000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:35.905000" end="0:25:36.172000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:35.905000	0:25:36.172000
 .	-	-	-	0:25:35.905000	0:25:36.172000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:36.172000" end="0:25:39.345000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:36.172000" end="0:25:39.345000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:25:36.172000	0:25:38.172000
 <pause duration="0,9s"/>
 gut	gut	ADJ	-	0:25:36.172000	0:25:38.172000
@@ -6836,7 +6836,7 @@ gerne	gerne	ADV	-	0:25:38.172000	0:25:39.345000
 ja	ja	PART	-	0:25:38.172000	0:25:39.345000
 .	-	-	-	0:25:38.172000	0:25:39.345000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:38.172000" end="0:25:39.785000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:38.172000" end="0:25:39.785000" age_lower="18" age_upper="35">
 ist	-	-	-	0:25:38.172000	0:25:39.345000
 _unterhaltlich_	-	-	-	0:25:38.172000	0:25:39.345000
 ,	-	-	-	0:25:38.172000	0:25:39.345000
@@ -6845,7 +6845,7 @@ ja	ja	PART	-	0:25:38.172000	0:25:39.345000
 ja	ja	PART	-	0:25:39.345000	0:25:39.785000
 .	-	-	-	0:25:39.345000	0:25:39.785000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:39.786000" end="0:25:41.939000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:39.786000" end="0:25:41.939000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 was	-	-	-	0:25:39.786000	0:25:41.473000
 die	der	DET	-	0:25:39.786000	0:25:41.473000
@@ -6856,7 +6856,7 @@ _dafragst_	da	ADV	-	0:25:39.786000	0:25:41.473000
 und	und	CCONJ	-	0:25:41.473000	0:25:41.939000
 /.	-	-	-	0:25:41.473000	0:25:41.939000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:41.939000" end="0:25:46.552000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:41.939000" end="0:25:46.552000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 die	der	PRON	-	0:25:42.525000	0:25:46.552000
 sind	sein	AUX	-	0:25:42.525000	0:25:46.552000
@@ -6871,20 +6871,20 @@ wieder	wieder	ADP	-	0:25:42.525000	0:25:46.552000
 gell	gell	ADJ	-	0:25:42.525000	0:25:46.552000
 ?	-	-	-	0:25:42.525000	0:25:46.552000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:46.552000" end="0:25:47.485000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:46.552000" end="0:25:47.485000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:25:46.552000	0:25:47.485000
 .	-	-	-	0:25:46.552000	0:25:47.485000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:47.485000" end="0:25:48.485000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:47.485000" end="0:25:48.485000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:25:47.485000	0:25:48.485000
 auch	auch	ADV	-	0:25:47.485000	0:25:48.485000
 (gleich)	gleichen	ADV	-	0:25:47.485000	0:25:48.485000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:48.485000" end="0:25:49.172000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:48.485000" end="0:25:49.172000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:48.485000	0:25:49.172000
 .	-	-	-	0:25:48.485000	0:25:49.172000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:48.485000" end="0:25:50.325000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:48.485000" end="0:25:50.325000" age_lower="18" age_upper="35">
 beleidigt	beleidigen	VERB	-	0:25:48.485000	0:25:49.172000
 ,	-	-	-	0:25:48.485000	0:25:49.172000
 wenn	wenn	SCONJ	-	0:25:49.172000	0:25:50.325000
@@ -6894,19 +6894,19 @@ nicht	nicht	PART	-	0:25:49.172000	0:25:50.325000
 kriegen	kriegen	VERB	-	0:25:49.172000	0:25:50.325000
 .	-	-	-	0:25:49.172000	0:25:50.325000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:50.325000" end="0:25:51.532000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:50.325000" end="0:25:51.532000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:50.325000	0:25:51.532000
 ,	-	-	-	0:25:50.325000	0:25:51.532000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:50.325000" end="0:25:51.532000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:50.325000" end="0:25:51.532000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:51.532000" end="0:25:52.365000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:51.532000" end="0:25:52.365000" age_lower="18" age_upper="35">
 du	du	PRON	-	0:25:51.532000	0:25:52.365000
 hast	haben	AUX	-	0:25:51.532000	0:25:52.365000
 recht	recht	NOUN	-	0:25:51.532000	0:25:52.365000
 .	-	-	-	0:25:51.532000	0:25:52.365000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:52.365000" end="0:25:56.765000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:52.365000" end="0:25:56.765000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:25:52.365000	0:25:54.765000
 ,	-	-	-	0:25:52.365000	0:25:54.765000
 ich	ich	PRON	-	0:25:52.365000	0:25:54.765000
@@ -6929,7 +6929,7 @@ Mal	Mal	NOUN	-	0:25:54.765000	0:25:56.765000
 mit	mit	ADP	-	0:25:54.765000	0:25:56.765000
 .	-	-	-	0:25:54.765000	0:25:56.765000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:56.765000" end="0:25:59.912000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:56.765000" end="0:25:59.912000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:25:58.205000	0:25:59.912000
 ,	-	-	-	0:25:58.205000	0:25:59.912000
 es	ich	PRON	-	0:25:58.205000	0:25:59.912000
@@ -6937,7 +6937,7 @@ passt	passt	PROPN	-	0:25:58.205000	0:25:59.912000
 schon	schon	ADV	-	0:25:58.205000	0:25:59.912000
 .	-	-	-	0:25:58.205000	0:25:59.912000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:59.912000" end="0:26:04.992000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:25:59.912000" end="0:26:04.992000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 mhm	mhm	PROPN	-	0:25:59.912000	0:26:03.679000
 und	und	CCONJ	-	0:25:59.912000	0:26:03.679000
@@ -6956,7 +6956,7 @@ die	der	DET	-	0:26:03.679000	0:26:04.992000
 Antarktis	Antarktis	PROPN	-	0:26:03.679000	0:26:04.992000
 ?	-	-	-	0:26:03.679000	0:26:04.992000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:04.992000" end="0:26:08.705000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:04.992000" end="0:26:08.705000" age_lower="18" age_upper="35">
 ach	achso	NOUN	-	0:26:04.992000	0:26:08.705000
 so	-	-	-	0:26:04.992000	0:26:08.705000
 ,	-	-	-	0:26:04.992000	0:26:08.705000
@@ -6973,11 +6973,11 @@ nach	nach	ADP	-	0:26:04.992000	0:26:08.705000
 Singapur	Singapur	PROPN	-	0:26:04.992000	0:26:08.705000
 .	-	-	-	0:26:04.992000	0:26:08.705000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:08.705000" end="0:26:09.399000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:08.705000" end="0:26:09.399000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:08.705000	0:26:09.399000
 .	-	-	-	0:26:08.705000	0:26:09.399000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:09.399000" end="0:26:16.659000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:09.399000" end="0:26:16.659000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 Singapur	Singapur	PROPN	-	0:26:09.399000	0:26:12.772000
 ,	-	-	-	0:26:09.399000	0:26:12.772000
@@ -7005,11 +7005,11 @@ wir	ich	PRON	-	0:26:15.419000	0:26:16.659000
 weiter	weit	ADV	-	0:26:15.419000	0:26:16.659000
 .	-	-	-	0:26:15.419000	0:26:16.659000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:16.659000" end="0:26:17.132000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:16.659000" end="0:26:17.132000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:16.659000	0:26:17.132000
 .	-	-	-	0:26:16.659000	0:26:17.132000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:17.132000" end="0:26:21.559000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:17.132000" end="0:26:21.559000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:26:17.132000	0:26:21.559000
 wir	ich	PRON	-	0:26:17.132000	0:26:21.559000
 fliegen	fliegen	VERB	-	0:26:17.132000	0:26:21.559000
@@ -7021,7 +7021,7 @@ dann	dann	ADV	-	0:26:17.132000	0:26:21.559000
 Malaysien	Malaysien	NOUN	-	0:26:17.132000	0:26:21.559000
 .	-	-	-	0:26:17.132000	0:26:21.559000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:21.559000" end="0:26:23.172000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:21.559000" end="0:26:23.172000" age_lower="18" age_upper="35">
 wen	-	-	-	0:26:21.559000	0:26:23.172000
 *nimmst*	-	-	-	0:26:21.559000	0:26:23.172000
 denn	-	-	-	0:26:21.559000	0:26:23.172000
@@ -7029,20 +7029,20 @@ mit	-	-	-	0:26:21.559000	0:26:23.172000
 überhaupt	-	-	-	0:26:21.559000	0:26:23.172000
 ?	-	-	-	0:26:21.559000	0:26:23.172000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:23.172000" end="0:26:23.839000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:23.172000" end="0:26:23.839000" age_lower="18" age_upper="35">
 NAME	NAME	PROPN	-	0:26:23.172000	0:26:23.839000
 NAME	NAME	-	-	0:26:23.172000	0:26:23.839000
 wieder	wieder	ADV	-	0:26:23.172000	0:26:23.839000
 .	-	-	-	0:26:23.172000	0:26:23.839000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:23.839000" end="0:26:24.739000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:23.839000" end="0:26:24.739000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:26:23.839000	0:26:24.739000
 ,	-	-	-	0:26:23.839000	0:26:24.739000
 die	der	DET	-	0:26:23.839000	0:26:24.739000
 NAME	NAME	NOUN	-	0:26:23.839000	0:26:24.739000
 .	-	-	-	0:26:23.839000	0:26:24.739000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:24.739000" end="0:26:31.825000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:24.739000" end="0:26:31.825000" age_lower="18" age_upper="35">
 immer	immer	ADV	-	0:26:24.739000	0:26:27.445000
 ähm	ähm	ADJ	-	0:26:24.739000	0:26:27.445000
 schon	schon	ADV	-	0:26:24.739000	0:26:27.445000
@@ -7062,16 +7062,16 @@ mal	mal	ADV	-	0:26:29.825000	0:26:31.825000
 schauen	schauen	VERB	-	0:26:29.825000	0:26:31.825000
 .	-	-	-	0:26:29.825000	0:26:31.825000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:31.825000" end="0:26:32.925000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:31.825000" end="0:26:32.925000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 stark	stark	ADJ	-	0:26:31.825000	0:26:32.925000
 .	-	-	-	0:26:31.825000	0:26:32.925000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:32.925000" end="0:26:33.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:32.925000" end="0:26:33.712000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:32.925000	0:26:33.712000
 .	-	-	-	0:26:32.925000	0:26:33.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:33.712000" end="0:26:36.732000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:33.712000" end="0:26:36.732000" age_lower="18" age_upper="35">
 ach	ach	X	-	0:26:33.712000	0:26:36.732000
 so	so	ADV	-	0:26:33.712000	0:26:36.732000
 ,	-	-	-	0:26:33.712000	0:26:36.732000
@@ -7084,31 +7084,31 @@ nachher	nachher	ADV	-	0:26:33.712000	0:26:36.732000
 oder	oder	CCONJ	-	0:26:33.712000	0:26:36.732000
 ?	-	-	-	0:26:33.712000	0:26:36.732000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:36.732000" end="0:26:37.125000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:36.732000" end="0:26:37.125000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:36.732000	0:26:37.125000
 ,	-	-	-	0:26:36.732000	0:26:37.125000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:37.125000" end="0:26:37.979000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:37.125000" end="0:26:37.979000" age_lower="18" age_upper="35">
 also	-	-	-	0:26:37.125000	0:26:37.979000
 _lei_	-	-	-	0:26:37.125000	0:26:37.979000
 den	-	-	-	0:26:37.125000	0:26:37.979000
 Flug	-	-	-	0:26:37.125000	0:26:37.979000
 ,	-	-	-	0:26:37.125000	0:26:37.979000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:37.979000" end="0:26:38.792000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:37.979000" end="0:26:38.792000" age_lower="18" age_upper="35">
 wir	-	-	-	0:26:37.979000	0:26:38.792000
 buchen	-	-	-	0:26:37.979000	0:26:38.792000
 einmal	-	-	-	0:26:37.979000	0:26:38.792000
 _lei_	-	-	-	0:26:37.979000	0:26:38.792000
 einen	-	-	-	0:26:37.979000	0:26:38.792000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:37.979000" end="0:26:38.792000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:37.979000" end="0:26:38.792000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:26:37.979000	0:26:38.792000
 nachher	nachher	ADV	-	0:26:37.979000	0:26:38.792000
 schauen	schauen	VERB	-	0:26:37.979000	0:26:38.792000
 ?	-	-	-	0:26:37.979000	0:26:38.792000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:38.792000" end="0:26:41.212000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:38.792000" end="0:26:41.212000" age_lower="18" age_upper="35">
 Flug	-	-	-	0:26:38.792000	0:26:39.799000
 und	-	-	-	0:26:38.792000	0:26:39.799000
 dann	-	-	-	0:26:38.792000	0:26:39.799000
@@ -7120,27 +7120,27 @@ Rucksack	Rucksack	NOUN	-	0:26:39.799000	0:26:41.212000
 herum	herum	ADP	-	0:26:39.799000	0:26:41.212000
 .	-	-	-	0:26:39.799000	0:26:41.212000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:41.212000" end="0:26:41.699000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:41.212000" end="0:26:41.699000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:41.212000	0:26:41.699000
 .	-	-	-	0:26:41.212000	0:26:41.699000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:41.699000" end="0:26:42.245000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:41.699000" end="0:26:42.245000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:41.699000	0:26:42.245000
 .	-	-	-	0:26:41.699000	0:26:42.245000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:42.245000" end="0:26:42.959000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:42.245000" end="0:26:42.959000" age_lower="18" age_upper="35">
 nein	na	X	-	0:26:42.245000	0:26:42.959000
 ,	-	-	-	0:26:42.245000	0:26:42.959000
 stark	stark	ADJ	-	0:26:42.245000	0:26:42.959000
 .	-	-	-	0:26:42.245000	0:26:42.959000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:42.959000" end="0:26:45.305000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:42.959000" end="0:26:45.305000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 im	im	ADP	-	0:26:42.959000	0:26:45.305000
 SONSTIGE	SONSTIGE	NOUN	-	0:26:42.959000	0:26:45.305000
 .	-	-	-	0:26:42.959000	0:26:45.305000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:42.959000" end="0:26:46.892000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:42.959000" end="0:26:46.892000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ich	ich	PRON	-	0:26:45.305000	0:26:46.892000
 kann	können	VERB	-	0:26:45.305000	0:26:46.892000
@@ -7151,22 +7151,22 @@ nicht	nicht	PART	-	0:26:45.305000	0:26:46.892000
 vorstellen	vorstellen	VERB	-	0:26:45.305000	0:26:46.892000
 .	-	-	-	0:26:45.305000	0:26:46.892000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:46.892000" end="0:26:48.432000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:46.892000" end="0:26:48.432000" age_lower="18" age_upper="35">
 oh	oh	X	-	0:26:46.892000	0:26:48.432000
 ja	ja	PART	-	0:26:46.892000	0:26:48.432000
 .	-	-	-	0:26:46.892000	0:26:48.432000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:48.432000" end="0:26:49.459000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:48.432000" end="0:26:49.459000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:26:48.432000	0:26:49.459000
 dem	der	DET	-	0:26:48.432000	0:26:49.459000
 Auto	Auto	NOUN	-	0:26:48.432000	0:26:49.459000
 oder	oder	CCONJ	-	0:26:48.432000	0:26:49.459000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:49.459000" end="0:26:50.505000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:49.459000" end="0:26:50.505000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:26:49.459000	0:26:50.505000
 ,	-	-	-	0:26:49.459000	0:26:50.505000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:49.459000" end="0:26:51.725000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:49.459000" end="0:26:51.725000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:26:49.459000	0:26:50.505000
 zu	zu	ADP	-	0:26:49.459000	0:26:50.505000
 Fuß	Fuß	NOUN	-	0:26:49.459000	0:26:50.505000
@@ -7180,17 +7180,17 @@ so	so	ADV	-	0:26:50.505000	0:26:51.725000
 oder	oder	CCONJ	-	0:26:50.505000	0:26:51.725000
 ?	-	-	-	0:26:50.505000	0:26:51.725000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:51.725000" end="0:26:52.465000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:51.725000" end="0:26:52.465000" age_lower="18" age_upper="35">
 Bus	Bus	NOUN	-	0:26:51.725000	0:26:52.465000
 ,	-	-	-	0:26:51.725000	0:26:52.465000
 Zug	Zug	NOUN	-	0:26:51.725000	0:26:52.465000
 ,	-	-	-	0:26:51.725000	0:26:52.465000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:52.465000" end="0:26:52.839000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:52.465000" end="0:26:52.839000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:52.465000	0:26:52.839000
 .	-	-	-	0:26:52.465000	0:26:52.839000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:52.839000" end="0:26:55.819000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:52.839000" end="0:26:55.819000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:26:52.839000	0:26:53.272000
 .	-	-	-	0:26:52.839000	0:26:53.272000
 Auto	Auto	NOUN	-	0:26:53.272000	0:26:55.819000
@@ -7205,11 +7205,11 @@ in	in	ADP	-	0:26:53.272000	0:26:55.819000
 Kalifornien	Kalifornien	PROPN	-	0:26:53.272000	0:26:55.819000
 .	-	-	-	0:26:53.272000	0:26:55.819000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:55.819000" end="0:26:56.392000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:55.819000" end="0:26:56.392000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:26:55.819000	0:26:56.392000
 .	-	-	-	0:26:55.819000	0:26:56.392000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:56.392000" end="0:27:02.365000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:56.392000" end="0:27:02.365000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:26:56.392000	0:26:59.912000
 da	da	ADV	-	0:26:56.392000	0:26:59.912000
 in	in	ADP	2ArtSPE AKon DArt EAdj EPart ESubj IRR präpon spe+ spe-	0:26:56.392000	0:26:59.912000
@@ -7223,7 +7223,7 @@ ich	ich	PRON	-	0:26:56.392000	0:26:59.912000
 nicht	nicht	PART	-	0:26:56.392000	0:26:59.912000
 .	-	-	-	0:26:56.392000	0:26:59.912000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:59.912000" end="0:27:02.365000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:26:59.912000" end="0:27:02.365000" age_lower="18" age_upper="35">
 ob	ob	SCONJ	-	0:26:59.912000	0:27:02.365000
 ob	ob	SCONJ	-	0:26:59.912000	0:27:02.365000
 der	der	DET	-	0:26:59.912000	0:27:02.365000
@@ -7236,7 +7236,7 @@ gibt	geben	VERB	-	0:26:59.912000	0:27:02.365000
 überhaupt	überhaupt	ADV	-	0:26:59.912000	0:27:02.365000
 ?	-	-	-	0:26:59.912000	0:27:02.365000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:02.365000" end="0:27:05.699000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:02.365000" end="0:27:05.699000" age_lower="18" age_upper="35">
 geben	-	-	-	0:27:02.365000	0:27:03.699000
 *tuts*	-	-	-	0:27:02.365000	0:27:03.699000
 es	-	-	-	0:27:02.365000	0:27:03.699000
@@ -7251,7 +7251,7 @@ ein	einen	DET	-	0:27:03.699000	0:27:05.699000
 _bissel_	bissel	NOUN	-	0:27:03.699000	0:27:05.699000
 /.	-	-	-	0:27:03.699000	0:27:05.699000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:05.699000" end="0:27:07.259000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:05.699000" end="0:27:07.259000" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:27:05.699000	0:27:07.259000
 ,	-	-	-	0:27:05.699000	0:27:07.259000
 ob	ob	SCONJ	-	0:27:05.699000	0:27:07.259000
@@ -7261,11 +7261,11 @@ mithalten	mithalten	ADJ	-	0:27:05.699000	0:27:07.259000
 kannst	können	NOUN	-	0:27:05.699000	0:27:07.259000
 ,	-	-	-	0:27:05.699000	0:27:07.259000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:07.259000" end="0:27:08.625000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:07.259000" end="0:27:08.625000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:07.259000	0:27:08.625000
 .	-	-	-	0:27:07.259000	0:27:08.625000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:07.259000" end="0:27:08.945000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:07.259000" end="0:27:08.945000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:27:07.259000	0:27:08.625000
 die	der	PRON	-	0:27:07.259000	0:27:08.625000
 /,	-	-	-	0:27:07.259000	0:27:08.625000
@@ -7274,44 +7274,44 @@ den	der	DET	-	0:27:07.259000	0:27:08.625000
 /,	-	-	-	0:27:07.259000	0:27:08.625000
 mit	mit	ADP	-	0:27:08.625000	0:27:08.945000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:08.945000" end="0:27:09.339000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:08.945000" end="0:27:09.339000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:08.945000	0:27:09.339000
 .	-	-	-	0:27:08.945000	0:27:09.339000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:08.945000" end="0:27:10.272000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:08.945000" end="0:27:10.272000" age_lower="18" age_upper="35">
 die	der	DET	-	0:27:08.945000	0:27:09.339000
 gewohnheiten	Verkehrsgewohnheiten	NOUN	-	0:27:09.339000	0:27:10.272000
 ,	-	-	-	0:27:09.339000	0:27:10.272000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:10.272000" end="0:27:10.672000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:10.272000" end="0:27:10.672000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:10.272000	0:27:10.672000
 .	-	-	-	0:27:10.272000	0:27:10.672000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:10.272000" end="0:27:11.559000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:10.272000" end="0:27:11.559000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:27:10.272000	0:27:10.672000
 die	der	DET	-	0:27:10.272000	0:27:10.672000
 Verkehrsregeln	Verkehrsregeln	NOUN	-	0:27:10.672000	0:27:11.559000
 ,	-	-	-	0:27:10.672000	0:27:11.559000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:11.559000" end="0:27:12.112000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:11.559000" end="0:27:12.112000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:11.559000	0:27:12.112000
 .	-	-	-	0:27:11.559000	0:27:12.112000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:11.559000" end="0:27:14.112000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:11.559000" end="0:27:14.112000" age_lower="18" age_upper="35">
 mit	mit	ADP	-	0:27:12.112000	0:27:14.112000
 den	der	DET	-	0:27:12.112000	0:27:14.112000
 traditionellen	traditionell	NOUN	-	0:27:12.112000	0:27:14.112000
 ?	-	-	-	0:27:12.112000	0:27:14.112000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:14.112000" end="0:27:14.632000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:14.112000" end="0:27:14.632000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:14.112000	0:27:14.632000
 .	-	-	-	0:27:14.112000	0:27:14.632000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:14.632000" end="0:27:15.425000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:14.632000" end="0:27:15.425000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:14.632000	0:27:15.425000
 .	-	-	-	0:27:14.632000	0:27:15.425000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:15.425000" end="0:27:21.225000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:15.425000" end="0:27:21.225000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:27:15.425000	0:27:19.225000
 fahren	fahren	VERB	-	0:27:15.425000	0:27:19.225000
 wir	ich	PRON	-	0:27:15.425000	0:27:19.225000
@@ -7332,7 +7332,7 @@ nichts	nichts	PRON	-	0:27:19.225000	0:27:21.225000
 heikel	heikel	ADJ	-	0:27:19.225000	0:27:21.225000
 .	-	-	-	0:27:19.225000	0:27:21.225000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:21.225000" end="0:27:26.705000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:21.225000" end="0:27:26.705000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:21.225000	0:27:21.752000
 .	-	-	-	0:27:21.225000	0:27:21.752000
 <pause duration="1,5s"/>
@@ -7348,19 +7348,19 @@ einmal	-	-	-	0:27:23.839000	0:27:26.705000
 mit	-	-	-	0:27:23.839000	0:27:26.705000
 ?	-	-	-	0:27:23.839000	0:27:26.705000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:26.705000" end="0:27:27.272000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:26.705000" end="0:27:27.272000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:26.705000	0:27:27.272000
 ,	-	-	-	0:27:26.705000	0:27:27.272000
 gerne	gerne	ADV	-	0:27:26.705000	0:27:27.272000
 .	-	-	-	0:27:26.705000	0:27:27.272000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:26.705000" end="0:27:27.939000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:26.705000" end="0:27:27.939000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:27:27.272000	0:27:27.939000
 .	-	-	-	0:27:27.272000	0:27:27.939000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:27.939000" end="0:27:28.872000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:27.939000" end="0:27:28.872000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:28.872000" end="0:27:33.825000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:28.872000" end="0:27:33.825000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:27:28.872000	0:27:31.825000
 ähm	ähm	PROPN	-	0:27:28.872000	0:27:31.825000
 ähm	ähm	PROPN	-	0:27:28.872000	0:27:31.825000
@@ -7383,22 +7383,22 @@ Wochen	-	-	-	0:27:31.825000	0:27:33.825000
 oder	oder	CCONJ	-	0:27:31.825000	0:27:33.825000
 ?	-	-	-	0:27:31.825000	0:27:33.825000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:33.825000" end="0:27:35.092000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:33.825000" end="0:27:35.092000" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:27:33.825000	0:27:35.092000
 Monat	Monat	NOUN	-	0:27:33.825000	0:27:35.092000
 .	-	-	-	0:27:33.825000	0:27:35.092000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:35.092000" end="0:27:35.825000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:35.092000" end="0:27:35.825000" age_lower="18" age_upper="35">
 eh	eh	X	-	0:27:35.092000	0:27:35.825000
 ein	einen	DET	-	0:27:35.092000	0:27:35.825000
 Monat	Monat	NOUN	-	0:27:35.092000	0:27:35.825000
 ,	-	-	-	0:27:35.092000	0:27:35.825000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:35.825000" end="0:27:36.312000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:35.825000" end="0:27:36.312000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:35.825000	0:27:36.312000
 .	-	-	-	0:27:35.825000	0:27:36.312000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:35.825000" end="0:27:38.659000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:35.825000" end="0:27:38.659000" age_lower="18" age_upper="35">
 gell	gell	ADJ	-	0:27:35.825000	0:27:36.312000
 ?	-	-	-	0:27:35.825000	0:27:36.312000
 <pause duration="1,1s"/>
@@ -7413,7 +7413,7 @@ auch	auch	ADV	-	0:27:36.312000	0:27:38.659000
 oder	oder	CCONJ	-	0:27:36.312000	0:27:38.659000
 ?	-	-	-	0:27:36.312000	0:27:38.659000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:38.659000" end="0:27:39.399000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:38.659000" end="0:27:39.399000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:38.659000	0:27:39.399000
 ,	-	-	-	0:27:38.659000	0:27:39.399000
 da	da	ADV	-	0:27:38.659000	0:27:39.399000
@@ -7421,7 +7421,7 @@ geht	gehen	VERB	-	0:27:38.659000	0:27:39.399000
 dann	dann	ADV	-	0:27:38.659000	0:27:39.399000
 /.	-	-	-	0:27:38.659000	0:27:39.399000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:38.659000" end="0:27:40.705000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:38.659000" end="0:27:40.705000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:27:38.659000	0:27:39.399000
 ,	-	-	-	0:27:38.659000	0:27:39.399000
 im	im	ADP	-	0:27:38.659000	0:27:39.399000
@@ -7438,15 +7438,15 @@ gell	gell	ADJ	-	0:27:39.399000	0:27:40.705000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:27:39.399000	0:27:40.705000
 ?	-	-	-	0:27:39.399000	0:27:40.705000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:40.705000" end="0:27:41.265000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:40.705000" end="0:27:41.265000" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:27:40.705000	0:27:41.265000
 .	-	-	-	0:27:40.705000	0:27:41.265000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:41.265000" end="0:27:42.052000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:41.265000" end="0:27:42.052000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:27:41.265000	0:27:42.052000
 .	-	-	-	0:27:41.265000	0:27:42.052000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:42.052000" end="0:27:46.105000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:42.052000" end="0:27:46.105000" age_lower="18" age_upper="35">
 <pause duration="2s"/>
 und	und	CCONJ	-	0:27:42.052000	0:27:44.639000
 da	da	ADV	-	0:27:42.052000	0:27:44.639000
@@ -7458,7 +7458,7 @@ Urlaub	Urlaub	NOUN	-	0:27:44.639000	0:27:46.105000
 drauf	drauf	ADP	-	0:27:44.639000	0:27:46.105000
 .	-	-	-	0:27:44.639000	0:27:46.105000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:44.639000" end="0:27:46.105000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:44.639000" end="0:27:46.105000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:27:44.639000	0:27:46.105000
 tut	tun	VERB	-	0:27:44.639000	0:27:46.105000
 denn	denn	ADV	-	0:27:44.639000	0:27:46.105000
@@ -7468,23 +7468,23 @@ NAME	NAME	NOUN	-	0:27:44.639000	0:27:46.105000
 beruflich	beruflich	ADJ	-	0:27:44.639000	0:27:46.105000
 ?	-	-	-	0:27:44.639000	0:27:46.105000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:46.105000" end="0:27:48.105000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:46.105000" end="0:27:48.105000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:27:46.105000	0:27:48.105000
 arbeitet	arbeiten	VERB	-	0:27:46.105000	0:27:48.105000
 im	im	ADP	-	0:27:46.105000	0:27:48.105000
 SONSTIGE	SONSTIGE	PROPN	-	0:27:46.105000	0:27:48.105000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:48.105000" end="0:27:48.679000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:48.105000" end="0:27:48.679000" age_lower="18" age_upper="35">
 aha	aha	X	-	0:27:48.105000	0:27:48.679000
 .	-	-	-	0:27:48.105000	0:27:48.679000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:48.679000" end="0:27:51.199000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:48.679000" end="0:27:51.199000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 in	in	ADP	-	0:27:48.679000	0:27:51.199000
 ORT	ORT	NOUN	-	0:27:48.679000	0:27:51.199000
 .	-	-	-	0:27:48.679000	0:27:51.199000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:51.199000" end="0:27:56.472000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:51.199000" end="0:27:56.472000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:27:51.199000	0:27:51.845000
 .	-	-	-	0:27:51.199000	0:27:51.845000
 <pause duration="1,6s"/>
@@ -7504,7 +7504,7 @@ den	der	DET	-	0:27:54.399000	0:27:56.472000
 Schild)	Schild	NOUN	-	0:27:54.399000	0:27:56.472000
 .	-	-	-	0:27:54.399000	0:27:56.472000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:56.472000" end="0:28:00.005000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:27:56.472000" end="0:28:00.005000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:27:56.472000	0:28:00.005000
 ,	-	-	-	0:27:56.472000	0:28:00.005000
 <pause duration="1,2s"/>
@@ -7512,21 +7512,21 @@ einenhalb	einenhalb	NUM	-	0:27:56.472000	0:28:00.005000
 Jahre	Jahr	NOUN	-	0:27:56.472000	0:28:00.005000
 .	-	-	-	0:27:56.472000	0:28:00.005000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:00.005000" end="0:28:00.545000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:00.005000" end="0:28:00.545000" age_lower="18" age_upper="35">
 ah	ah	ADJ	-	0:28:00.005000	0:28:00.545000
 ,	-	-	-	0:28:00.005000	0:28:00.545000
 eh	eh	X	-	0:28:00.005000	0:28:00.545000
 ?	-	-	-	0:28:00.005000	0:28:00.545000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:00.545000" end="0:28:01.019000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:00.545000" end="0:28:01.019000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:00.545000	0:28:01.019000
 .	-	-	-	0:28:00.545000	0:28:01.019000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:01.019000" end="0:28:01.472000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:01.019000" end="0:28:01.472000" age_lower="18" age_upper="35">
 aha	aha	X	-	0:28:01.019000	0:28:01.472000
 .	-	-	-	0:28:01.019000	0:28:01.472000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:01.472000" end="0:28:04.305000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:01.472000" end="0:28:04.305000" age_lower="18" age_upper="35">
 <pause duration="2s"/>
 unter	unter	ADP	-	0:28:01.472000	0:28:04.305000
 mir	sich	PRON	-	0:28:01.472000	0:28:04.305000
@@ -7534,7 +7534,7 @@ mir	sich	PRON	-	0:28:01.472000	0:28:04.305000
 ja	ja	PART	-	0:28:01.472000	0:28:04.305000
 .	-	-	-	0:28:01.472000	0:28:04.305000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:04.305000" end="0:28:07.319000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:04.305000" end="0:28:07.319000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:28:04.305000	0:28:04.659000
 .	-	-	-	0:28:04.305000	0:28:04.659000
 <pause duration="2,1s"/>
@@ -7543,11 +7543,11 @@ nein	na	PROPN	-	0:28:04.659000	0:28:07.319000
 schau	schau	PROPN	-	0:28:04.659000	0:28:07.319000
 .	-	-	-	0:28:04.659000	0:28:07.319000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:07.319000" end="0:28:08.065000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:07.319000" end="0:28:08.065000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:07.319000	0:28:08.065000
 .	-	-	-	0:28:07.319000	0:28:08.065000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:08.065000" end="0:28:10.065000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:08.065000" end="0:28:10.065000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 hat	haben	AUX	-	0:28:08.065000	0:28:10.065000
 sich	sich	PRON	-	0:28:08.065000	0:28:10.065000
@@ -7557,18 +7557,18 @@ müssen	müssen	VERB	-	0:28:08.065000	0:28:10.065000
 daheim)	daheim	ADV	-	0:28:08.065000	0:28:10.065000
 .	-	-	-	0:28:08.065000	0:28:10.065000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:10.065000" end="0:28:13.332000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:10.065000" end="0:28:13.332000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:10.065000	0:28:11.332000
 .	-	-	-	0:28:10.065000	0:28:11.332000
 <pause duration="1,6s"/>
 stimmt	stimmen	VERB	-	0:28:11.332000	0:28:13.332000
 .	-	-	-	0:28:11.332000	0:28:13.332000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:13.332000" end="0:28:13.765000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:13.332000" end="0:28:13.765000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:13.332000	0:28:13.765000
 .	-	-	-	0:28:13.332000	0:28:13.765000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:13.765000" end="0:28:16.419000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:13.765000" end="0:28:16.419000" age_lower="18" age_upper="35">
 ihr	mein	DET	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	0:28:13.765000	0:28:15.165000
 Bruder	Bruder	NOUN	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	0:28:13.765000	0:28:15.165000
 hat	haben	AUX	-	0:28:13.765000	0:28:15.165000
@@ -7585,17 +7585,17 @@ ausziehen	ausziehen	VERB	-	0:28:15.165000	0:28:16.419000
 wird	werden	AUX	-	0:28:15.165000	0:28:16.419000
 .	-	-	-	0:28:15.165000	0:28:16.419000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:16.419000" end="0:28:17.219000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:16.419000" end="0:28:17.219000" age_lower="18" age_upper="35">
 ach	achso	NOUN	-	0:28:16.419000	0:28:17.219000
 so	-	-	-	0:28:16.419000	0:28:17.219000
 .	-	-	-	0:28:16.419000	0:28:17.219000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:17.220000" end="0:28:18.166000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:17.220000" end="0:28:18.166000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	PART	-	0:28:17.220000	0:28:18.166000
 .	-	-	-	0:28:17.220000	0:28:18.166000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:18.166000" end="0:28:20.999000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:18.166000" end="0:28:20.999000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 wieso	wieso	ADV	-	0:28:18.166000	0:28:20.999000
 ,	-	-	-	0:28:18.166000	0:28:20.999000
@@ -7610,7 +7610,7 @@ was	was	PRON	-	0:28:18.166000	0:28:20.999000
 nein	nein	PART	-	0:28:18.166000	0:28:20.999000
 .	-	-	-	0:28:18.166000	0:28:20.999000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:20.999000" end="0:28:22.632000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:20.999000" end="0:28:22.632000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:28:20.999000	0:28:22.365000
 ,	-	-	-	0:28:20.999000	0:28:22.365000
 sie	ich	PRON	-	0:28:20.999000	0:28:22.365000
@@ -7622,11 +7622,11 @@ Zimmer	Zimmer	NOUN	+menschl -belebt App Besitz PM PR Pkon Poss PossPron+NP Prel 
 gehabt	haben	AUX	-	0:28:22.365000	0:28:22.632000
 ,	-	-	-	0:28:22.365000	0:28:22.632000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:22.365000" end="0:28:22.632000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:22.365000" end="0:28:22.632000" age_lower="18" age_upper="35">
 eh	eh	X	-	0:28:22.365000	0:28:22.632000
 ?	-	-	-	0:28:22.365000	0:28:22.632000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:22.632000" end="0:28:26.372000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:22.632000" end="0:28:26.372000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:28:22.632000	0:28:26.372000
 <pause duration="0,9s"/>
 irgendwann	irgendwann	ADV	-	0:28:22.632000	0:28:26.372000
@@ -7640,7 +7640,7 @@ Hotel	Hotel	NOUN	-	0:28:22.632000	0:28:26.372000
 Mama	Mama	NOUN	-	0:28:22.632000	0:28:26.372000
 .	-	-	-	0:28:22.632000	0:28:26.372000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:26.372000" end="0:28:33.245000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:26.372000" end="0:28:33.245000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:26.372000	0:28:28.372000
 ,	-	-	-	0:28:26.372000	0:28:28.372000
 ja	ja	PART	-	0:28:26.372000	0:28:28.372000
@@ -7664,7 +7664,7 @@ einmal	einmal	ADV	-	0:28:28.372000	0:28:33.245000
 so	so	ADV	-	0:28:28.372000	0:28:33.245000
 .	-	-	-	0:28:28.372000	0:28:33.245000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:33.245000" end="0:28:37.659000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:33.245000" end="0:28:37.659000" age_lower="18" age_upper="35">
 <pause duration="3s"/>
 ja	ja	ADV	-	0:28:33.245000	0:28:37.659000
 eh	eh	X	-	0:28:33.245000	0:28:37.659000
@@ -7674,7 +7674,7 @@ der	der	DET	-	0:28:33.245000	0:28:37.659000
 dann	dann	ADV	-	0:28:33.245000	0:28:37.659000
 ,	-	-	-	0:28:33.245000	0:28:37.659000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:37.659000" end="0:28:38.945000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:37.659000" end="0:28:38.945000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:28:37.659000	0:28:38.945000
 ,	-	-	-	0:28:37.659000	0:28:38.945000
 ja	-	-	-	0:28:37.659000	0:28:38.945000
@@ -7684,7 +7684,7 @@ klar	-	-	-	0:28:37.659000	0:28:38.945000
 ja	-	-	-	0:28:37.659000	0:28:38.945000
 .	-	-	-	0:28:37.659000	0:28:38.945000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:38.945000" end="0:28:42.145000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:38.945000" end="0:28:42.145000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 und	und	CCONJ	-	0:28:38.945000	0:28:42.145000
 dann	dann	ADV	-	0:28:38.945000	0:28:42.145000
@@ -7697,7 +7697,7 @@ auch	auch	ADV	-	0:28:38.945000	0:28:42.145000
 noch	noch	ADV	-	0:28:38.945000	0:28:42.145000
 /.	-	-	-	0:28:38.945000	0:28:42.145000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:42.145000" end="0:28:52.892000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:42.145000" end="0:28:52.892000" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 so	so	ADV	-	0:28:42.145000	0:28:45.859000
 ist	sein	AUX	-	0:28:42.145000	0:28:45.859000
@@ -7729,11 +7729,11 @@ so	so	ADV	-	0:28:51.985000	0:28:52.892000
 alt	alt	ADJ	-	0:28:51.985000	0:28:52.892000
 ,	-	-	-	0:28:51.985000	0:28:52.892000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:52.892000" end="0:28:53.279000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:52.892000" end="0:28:53.279000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:28:52.892000	0:28:53.279000
 .	-	-	-	0:28:52.892000	0:28:53.279000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:52.892000" end="0:28:54.112000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:52.892000" end="0:28:54.112000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:28:52.892000	0:28:53.279000
 weiß	weiß	VERB	-	0:28:52.892000	0:28:53.279000
 nicht	nicht	PART	-	0:28:52.892000	0:28:53.279000
@@ -7744,11 +7744,11 @@ und	und	CCONJ	-	0:28:53.279000	0:28:54.112000
 die	der	PRON	-	0:28:53.279000	0:28:54.112000
 /.	-	-	-	0:28:53.279000	0:28:54.112000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:54.112000" end="0:28:54.565000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:54.112000" end="0:28:54.565000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:28:54.112000	0:28:54.565000
 .	-	-	-	0:28:54.112000	0:28:54.565000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:54.565000" end="0:28:56.565000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:54.565000" end="0:28:56.565000" age_lower="18" age_upper="35">
 aber	aber	ADV	-	0:28:54.565000	0:28:56.565000
 ich	ich	PRON	-	0:28:54.565000	0:28:56.565000
 glaube	glauben	VERB	-	0:28:54.565000	0:28:56.565000
@@ -7761,17 +7761,17 @@ nicht	nicht	PART	-	0:28:54.565000	0:28:56.565000
 arbeiten	arbeiten	VERB	-	0:28:54.565000	0:28:56.565000
 ,	-	-	-	0:28:54.565000	0:28:56.565000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:56.565000" end="0:28:57.559000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:56.565000" end="0:28:57.559000" age_lower="18" age_upper="35">
 was	was	PRON	-	0:28:56.565000	0:28:57.559000
 ?	-	-	-	0:28:56.565000	0:28:57.559000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:56.565000" end="0:28:57.992000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:56.565000" end="0:28:57.992000" age_lower="18" age_upper="35">
 die	der	DET	-	0:28:56.565000	0:28:57.559000
 NAME	NAME	PROPN	-	0:28:56.565000	0:28:57.559000
 schon	schon	ADV	-	0:28:57.559000	0:28:57.992000
 .	-	-	-	0:28:57.559000	0:28:57.992000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:57.992000" end="0:29:00.032000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:28:57.992000" end="0:29:00.032000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:28:57.992000	0:29:00.032000
 ,	-	-	-	0:28:57.992000	0:29:00.032000
 der	der	PRON	-	0:28:57.992000	0:29:00.032000
@@ -7785,12 +7785,12 @@ arbeiten	arbeiten	VERB	-	0:28:57.992000	0:29:00.032000
 gehen	gehen	VERB	-	0:28:57.992000	0:29:00.032000
 .	-	-	-	0:28:57.992000	0:29:00.032000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:00.032000" end="0:29:01.085000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:00.032000" end="0:29:01.085000" age_lower="18" age_upper="35">
 scheinbar	scheinbar	ADJ	-	0:29:00.032000	0:29:01.085000
 nicht	nicht	PART	-	0:29:00.032000	0:29:01.085000
 .	-	-	-	0:29:00.032000	0:29:01.085000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:01.085000" end="0:29:04.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:01.085000" end="0:29:04.712000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 will	wollen	VERB	-	0:29:01.085000	0:29:02.612000
 er	ich	PRON	-	0:29:01.085000	0:29:02.612000
@@ -7801,7 +7801,7 @@ nicht	nicht	PART	-	0:29:01.085000	0:29:02.612000
 echt	recht	NOUN	-	0:29:02.612000	0:29:04.712000
 ?	-	-	-	0:29:02.612000	0:29:04.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:02.612000" end="0:29:05.632000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:02.612000" end="0:29:05.632000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 hab	hab	SCONJ	-	0:29:02.612000	0:29:04.712000
 ich	ich	PRON	-	0:29:02.612000	0:29:04.712000
@@ -7814,7 +7814,7 @@ nicht	nicht	PART	-	0:29:04.712000	0:29:05.632000
 genau	genau	ADJ	-	0:29:04.712000	0:29:05.632000
 .	-	-	-	0:29:04.712000	0:29:05.632000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:05.632000" end="0:29:08.152000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:05.632000" end="0:29:08.152000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	aber	CCONJ	-	0:29:05.632000	0:29:07.632000
 ein	einen	DET	-	0:29:05.632000	0:29:07.632000
@@ -7825,7 +7825,7 @@ sie	ich	PRON	-	0:29:05.632000	0:29:07.632000
 gebaut	bauen	VERB	-	0:29:07.632000	0:29:08.152000
 .	-	-	-	0:29:07.632000	0:29:08.152000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:07.632000" end="0:29:12.892000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:07.632000" end="0:29:12.892000" age_lower="18" age_upper="35">
 angeblich	angeblich	ADJ	-	0:29:07.632000	0:29:08.152000
 .	-	-	-	0:29:07.632000	0:29:08.152000
 ja	ja	ADV	-	0:29:08.152000	0:29:12.892000
@@ -7842,7 +7842,7 @@ so	so	ADV	-	0:29:08.152000	0:29:12.892000
 gser/	-	-	-	0:29:08.152000	0:29:12.892000
 /.	-	-	-	0:29:08.152000	0:29:12.892000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:12.892000" end="0:29:14.892000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:12.892000" end="0:29:14.892000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 schaut	schauen	VERB	-	0:29:12.892000	0:29:14.892000
 sehr	sehr	ADV	-	0:29:12.892000	0:29:14.892000
@@ -7850,19 +7850,19 @@ schön	schön	ADJ	-	0:29:12.892000	0:29:14.892000
 aus	aus	ADP	-	0:29:12.892000	0:29:14.892000
 .	-	-	-	0:29:12.892000	0:29:14.892000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:14.892000" end="0:29:19.859000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:14.892000" end="0:29:19.859000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:29:14.892000	0:29:15.639000
 .	-	-	-	0:29:14.892000	0:29:15.639000
 <pause duration="3,9s"/>
 ja	ja	PART	-	0:29:15.639000	0:29:19.859000
 .	-	-	-	0:29:15.639000	0:29:19.859000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:19.859000" end="0:29:22.339000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:19.859000" end="0:29:22.339000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 ja	ja	PART	-	0:29:19.859000	0:29:22.339000
 .	-	-	-	0:29:19.859000	0:29:22.339000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:22.339000" end="0:29:25.065000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:22.339000" end="0:29:25.065000" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 was	was	PRON	-	0:29:22.339000	0:29:25.065000
 (haben)	haben	AUX	-	0:29:22.339000	0:29:25.065000
@@ -7870,7 +7870,7 @@ wir	ich	PRON	-	0:29:22.339000	0:29:25.065000
 jetzt	jetzt	ADV	-	0:29:22.339000	0:29:25.065000
 /?	-	-	-	0:29:22.339000	0:29:25.065000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:25.065000" end="0:29:28.659000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:25.065000" end="0:29:28.659000" age_lower="18" age_upper="35">
 "erzähle	erzählen	NOUN	-	0:29:25.065000	0:29:28.659000
 von	von	ADP	-	0:29:25.065000	0:29:28.659000
 einem	einer	DET	-	0:29:25.065000	0:29:28.659000
@@ -7880,7 +7880,7 @@ oder	oder	CCONJ	-	0:29:25.065000	0:29:28.659000
 Film"	Film	NOUN	-	0:29:25.065000	0:29:28.659000
 .	-	-	-	0:29:25.065000	0:29:28.659000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:28.659000" end="0:30:03.459000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:29:28.659000" end="0:30:03.459000" age_lower="18" age_upper="35">
 <pause duration="4,5s"/>
 und	und	CCONJ	-	0:29:28.659000	0:29:36.539000
 oder	oder	CCONJ	-	0:29:28.659000	0:29:36.539000
@@ -7969,14 +7969,14 @@ Marlen	Marlen	ADJ	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin 
 Haushofer	Haushofer	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Prop Quel postnomin von	0:30:01.459000	0:30:03.459000
 .	-	-	-	0:30:01.459000	0:30:03.459000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:03.459000" end="0:30:04.599000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:03.459000" end="0:30:04.599000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:30:03.459000	0:30:04.599000
 kenne	kennen	VERB	-	0:30:03.459000	0:30:04.599000
 ich	ich	PRON	-	0:30:03.459000	0:30:04.599000
 auch	auch	ADV	-	0:30:03.459000	0:30:04.599000
 .	-	-	-	0:30:03.459000	0:30:04.599000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:04.599000" end="0:30:13.072000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:04.599000" end="0:30:13.072000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 also	also	ADV	-	0:30:04.599000	0:30:06.912000
 das	der	PRON	-	0:30:04.599000	0:30:06.912000
@@ -8005,11 +8005,11 @@ auf	auf	ADP	-	0:30:10.019000	0:30:13.072000
 Erden	Erde	NOUN	-	0:30:10.019000	0:30:13.072000
 .	-	-	-	0:30:10.019000	0:30:13.072000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:13.072000" end="0:30:13.879000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:13.072000" end="0:30:13.879000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:30:13.072000	0:30:13.879000
 ?	-	-	-	0:30:13.072000	0:30:13.879000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:13.879000" end="0:30:17.313000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:13.879000" end="0:30:17.313000" age_lower="18" age_upper="35">
 mah	mah	PROPN	-	0:30:13.879000	0:30:15.165000
 ,	-	-	-	0:30:13.879000	0:30:15.165000
 das	der	PRON	-	0:30:13.879000	0:30:15.165000
@@ -8024,11 +8024,11 @@ einmal	einmal	ADV	-	0:30:15.165000	0:30:17.313000
 passiere	passieren	VERB	-	0:30:15.165000	0:30:17.313000
 .	-	-	-	0:30:15.165000	0:30:17.313000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:17.313000" end="0:30:19.165000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:17.313000" end="0:30:19.165000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:17.313000" end="0:30:19.165000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:17.313000" end="0:30:19.165000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:19.165000" end="0:30:22.972000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:19.165000" end="0:30:22.972000" age_lower="18" age_upper="35">
 meistens	-	-	-	0:30:19.165000	0:30:20.085000
 *ist*	-	-	-	0:30:19.165000	0:30:20.085000
 ja	-	-	-	0:30:19.165000	0:30:20.085000
@@ -8048,7 +8048,7 @@ Buch	Buch	NOUN	-	0:30:22.332000	0:30:22.972000
 gell	gell	ADJ	-	0:30:22.332000	0:30:22.972000
 ?	-	-	-	0:30:22.332000	0:30:22.972000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:22.332000" end="0:30:23.999000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:22.332000" end="0:30:23.999000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:22.332000	0:30:22.972000
 ,	-	-	-	0:30:22.332000	0:30:22.972000
 das	der	PRON	-	0:30:22.332000	0:30:22.972000
@@ -8061,11 +8061,11 @@ in	in	ADP	-	0:30:22.972000	0:30:23.999000
 dem	der	DET	-	0:30:22.972000	0:30:23.999000
 Fall	Fall	NOUN	-	0:30:22.972000	0:30:23.999000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:23.999000" end="0:30:24.685000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:23.999000" end="0:30:24.685000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:23.999000	0:30:24.685000
 .	-	-	-	0:30:23.999000	0:30:24.685000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:23.999000" end="0:30:35.485000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:23.999000" end="0:30:35.485000" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:30:23.999000	0:30:24.685000
 so	so	ADV	-	0:30:23.999000	0:30:24.685000
 .	-	-	-	0:30:23.999000	0:30:24.685000
@@ -8103,7 +8103,7 @@ eher	eher	ADV	-	0:30:31.199000	0:30:35.485000
 reserviert	reservieren	VERB	-	0:30:31.199000	0:30:35.485000
 ,	-	-	-	0:30:31.199000	0:30:35.485000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:35.485000" end="0:30:36.685000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:35.485000" end="0:30:36.685000" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:35.485000	0:30:36.685000
 ,	-	-	-	0:30:35.485000	0:30:36.685000
 ja	-	-	-	0:30:35.485000	0:30:36.685000
@@ -8113,7 +8113,7 @@ ja	-	-	-	0:30:35.485000	0:30:36.685000
 ja	-	-	-	0:30:35.485000	0:30:36.685000
 .	-	-	-	0:30:35.485000	0:30:36.685000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:36.685000" end="0:30:41.772000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:36.685000" end="0:30:41.772000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:30:36.685000	0:30:38.292000
 das	der	PRON	-	0:30:36.685000	0:30:38.292000
 kommt	kommen	VERB	-	0:30:36.685000	0:30:38.292000
@@ -8137,7 +8137,7 @@ diese	dies	DET	-	0:30:40.052000	0:30:41.772000
 Katzenszenen	Katzenszenen	NOUN	-	0:30:40.052000	0:30:41.772000
 .	-	-	-	0:30:40.052000	0:30:41.772000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:41.772000" end="0:30:43.212000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:41.772000" end="0:30:43.212000" age_lower="18" age_upper="35">
 du	du	PRON	-	0:30:41.772000	0:30:42.139000
 hast	haben	AUX	-	0:30:41.772000	0:30:42.139000
 vorher	vorher	ADV	-	0:30:42.139000	0:30:43.212000
@@ -8146,27 +8146,27 @@ Buch	Buch	NOUN	-	0:30:42.139000	0:30:43.212000
 gelesen	lesen	VERB	-	0:30:42.139000	0:30:43.212000
 ?	-	-	-	0:30:42.139000	0:30:43.212000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:43.212000" end="0:30:44.112000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:43.212000" end="0:30:44.112000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:30:43.212000	0:30:44.112000
 umgekehrt	umkehren	ADJ	-	0:30:43.212000	0:30:44.112000
 ,	-	-	-	0:30:43.212000	0:30:44.112000
 den	der	DET	-	0:30:43.212000	0:30:44.112000
 Film	Film	NOUN	-	0:30:43.212000	0:30:44.112000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:44.112000" end="0:30:44.505000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:44.112000" end="0:30:44.505000" age_lower="18" age_upper="35">
 aha	aha	X	-	0:30:44.112000	0:30:44.505000
 .	-	-	-	0:30:44.112000	0:30:44.505000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:44.112000" end="0:30:44.925000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:44.112000" end="0:30:44.925000" age_lower="18" age_upper="35">
 zuerst	zuerst	ADV	-	0:30:44.112000	0:30:44.505000
 gesehen	sehen	VERB	-	0:30:44.505000	0:30:44.925000
 .	-	-	-	0:30:44.505000	0:30:44.925000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:44.925000" end="0:30:45.399000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:44.925000" end="0:30:45.399000" age_lower="18" age_upper="35">
 okay	okay	NOUN	-	0:30:44.925000	0:30:45.399000
 .	-	-	-	0:30:44.925000	0:30:45.399000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:45.399000" end="0:30:47.859000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:45.399000" end="0:30:47.859000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:30:45.399000	0:30:47.859000
 aufgrund	aufgrund	ADV	-	0:30:45.399000	0:30:47.859000
 dessen	-	-	-	0:30:45.399000	0:30:47.859000
@@ -8178,11 +8178,11 @@ Romane	Roman	NOUN	-	0:30:45.399000	0:30:47.859000
 lese	lesen	VERB	-	0:30:45.399000	0:30:47.859000
 ,	-	-	-	0:30:45.399000	0:30:47.859000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:47.859000" end="0:30:48.399000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:47.859000" end="0:30:48.399000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:47.859000	0:30:48.399000
 ?	-	-	-	0:30:47.859000	0:30:48.399000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:48.399000" end="0:30:54.225000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:48.399000" end="0:30:54.225000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:30:48.399000	0:30:49.459000
 jetzt	jetzt	ADV	-	0:30:48.399000	0:30:49.459000
 aus	aus	ADP	-	0:30:48.399000	0:30:49.459000
@@ -8205,11 +8205,11 @@ so	so	ADV	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:30:49.45900
 der	der	DET	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:30:49.459000	0:30:54.225000
 Sachbuch-	Sachbuch	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:30:49.459000	0:30:54.225000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:54.225000" end="0:30:54.725000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:54.225000" end="0:30:54.725000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:30:54.225000	0:30:54.725000
 ?	-	-	-	0:30:54.225000	0:30:54.725000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:54.725000" end="0:31:28.139000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:30:54.725000" end="0:31:28.139000" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:30:54.725000	0:30:55.325000
 Leser	Leser	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR postpon spe+ spe-	0:30:54.725000	0:30:55.325000
 .	-	-	-	0:30:54.725000	0:30:55.325000
@@ -8334,7 +8334,7 @@ den	der	DET	-	0:31:26.139000	0:31:28.139000
 Film"	Film	NOUN	-	0:31:26.139000	0:31:28.139000
 ,	-	-	-	0:31:26.139000	0:31:28.139000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:28.139000" end="0:31:29.385000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:28.139000" end="0:31:29.385000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:31:28.139000	0:31:29.385000
 hab	hab	SCONJ	-	0:31:28.139000	0:31:29.385000
 ich	ich	PRON	-	0:31:28.139000	0:31:29.385000
@@ -8342,18 +8342,18 @@ auch	auch	ADV	-	0:31:28.139000	0:31:29.385000
 keinen	kein	DET	-	0:31:28.139000	0:31:29.385000
 ein=	einzig	ADJ	-	0:31:28.139000	0:31:29.385000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:28.139000" end="0:31:29.385000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:28.139000" end="0:31:29.385000" age_lower="18" age_upper="35">
 das	der	DET	-	0:31:28.139000	0:31:29.385000
 Buch	Buch	NOUN	-	0:31:28.139000	0:31:29.385000
 lese	lesen	VERB	-	0:31:28.139000	0:31:29.385000
 /,	-	-	-	0:31:28.139000	0:31:29.385000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:29.385000" end="0:31:30.225000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:29.385000" end="0:31:30.225000" age_lower="18" age_upper="35">
 zigen	-	SPACE	-	0:31:29.385000	0:31:30.225000
 angeschaut	anschauen	VERB	-	0:31:29.385000	0:31:30.225000
 .	-	-	-	0:31:29.385000	0:31:30.225000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:30.225000" end="0:31:32.732000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:30.225000" end="0:31:32.732000" age_lower="18" age_upper="35">
 das	der	DET	-	0:31:30.225000	0:31:32.732000
 Buch	Buch	NOUN	-	0:31:30.225000	0:31:32.732000
 lese	lesen	VERB	-	0:31:30.225000	0:31:32.732000
@@ -8365,7 +8365,7 @@ Bücher	Buch	NOUN	-	0:31:30.225000	0:31:32.732000
 lese	lesen	VERB	-	0:31:30.225000	0:31:32.732000
 ich	ich	PRON	-	0:31:30.225000	0:31:32.732000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:32.732000" end="0:31:33.792000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:32.732000" end="0:31:33.792000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:31:32.732000	0:31:33.792000
 hab	hab	VERB	-	0:31:32.732000	0:31:33.792000
 ich	ich	PRON	-	0:31:32.732000	0:31:33.792000
@@ -8374,19 +8374,19 @@ nicht	nicht	PART	-	0:31:32.732000	0:31:33.792000
 gelesen	lesen	VERB	-	0:31:32.732000	0:31:33.792000
 .	-	-	-	0:31:32.732000	0:31:33.792000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:32.732000" end="0:31:33.792000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:32.732000" end="0:31:33.792000" age_lower="18" age_upper="35">
 sicher	sichern	ADJ	-	0:31:32.732000	0:31:33.792000
 nicht	nicht	PART	-	0:31:32.732000	0:31:33.792000
 .	-	-	-	0:31:32.732000	0:31:33.792000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:33.792000" end="0:31:35.112000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:33.792000" end="0:31:35.112000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:31:33.792000	0:31:35.112000
 interessiert	interessieren	VERB	-	0:31:33.792000	0:31:35.112000
 mich	sich	PRON	-	0:31:33.792000	0:31:35.112000
 nicht	nicht	PART	-	0:31:33.792000	0:31:35.112000
 .	-	-	-	0:31:33.792000	0:31:35.112000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:33.792000" end="0:31:44.279000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:33.792000" end="0:31:44.279000" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:31:33.792000	0:31:35.112000
 es	ich	PRON	-	0:31:33.792000	0:31:35.112000
 sich	sich	PRON	-	0:31:33.792000	0:31:35.112000
@@ -8424,9 +8424,9 @@ die	der	DET	-	0:31:41.605000	0:31:44.279000
 Zuhörer	Zuhörer	NOUN	-	0:31:41.605000	0:31:44.279000
 ,	-	-	-	0:31:41.605000	0:31:44.279000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:44.279000" end="0:31:45.239000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:44.279000" end="0:31:45.239000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:45.239000" end="0:32:03.765000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:31:45.239000" end="0:32:03.765000" age_lower="18" age_upper="35">
 ähm	ähm	PROPN	-	0:31:45.239000	0:31:49.572000
 sagt	sagen	VERB	-	0:31:45.239000	0:31:49.572000
 ,	also	ADV	-	0:31:45.239000	0:31:49.572000
@@ -8485,21 +8485,21 @@ gesehen	sehen	VERB	-	0:32:00.239000	0:32:03.765000
 auch	auch	ADV	-	0:32:00.239000	0:32:03.765000
 ?	-	-	-	0:32:00.239000	0:32:03.765000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:03.765000" end="0:32:04.259000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:03.765000" end="0:32:04.259000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:32:03.765000	0:32:04.259000
 .	-	-	-	0:32:03.765000	0:32:04.259000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:04.259000" end="0:32:05.052000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:04.259000" end="0:32:05.052000" age_lower="18" age_upper="35">
 das	der	DET	-	0:32:04.259000	0:32:05.052000
 Buch	Buch	NOUN	-	0:32:04.259000	0:32:05.052000
 gelesen	lesen	VERB	-	0:32:04.259000	0:32:05.052000
 ?	-	-	-	0:32:04.259000	0:32:05.052000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:05.052000" end="0:32:05.485000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:05.052000" end="0:32:05.485000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:32:05.052000	0:32:05.485000
 .	-	-	-	0:32:05.052000	0:32:05.485000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:05.485000" end="0:32:08.025000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:05.485000" end="0:32:08.025000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 weil	weil	SCONJ	-	0:32:05.485000	0:32:08.025000
 du	du	PRON	-	0:32:05.485000	0:32:08.025000
@@ -8511,47 +8511,47 @@ hast	haben	AUX	-	0:32:05.485000	0:32:08.025000
 du	du	PRON	-	0:32:05.485000	0:32:08.025000
 kennst	kennen	VERB	-	0:32:05.485000	0:32:08.025000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:08.025000" end="0:32:09.059000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:08.025000" end="0:32:09.059000" age_lower="18" age_upper="35">
 achso	achso	PROPN	-	0:32:08.025000	0:32:09.059000
 ,	-	-	-	0:32:08.025000	0:32:09.059000
 "Die	der	DET	-	0:32:08.025000	0:32:09.059000
 Wand"	Wand	NOUN	-	0:32:08.025000	0:32:09.059000
 !	-	-	-	0:32:08.025000	0:32:09.059000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:08.025000" end="0:32:09.059000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:08.025000" end="0:32:09.059000" age_lower="18" age_upper="35">
 "Die	der	PRON	-	0:32:08.025000	0:32:09.059000
 die	-	-	-	0:32:08.025000	0:32:09.059000
 Wand"	Wand	NOUN	-	0:32:08.025000	0:32:09.059000
 .	-	-	-	0:32:08.025000	0:32:09.059000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.059000" end="0:32:09.505000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.059000" end="0:32:09.505000" age_lower="18" age_upper="35">
 den	der	DET	-	0:32:09.059000	0:32:09.505000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.059000" end="0:32:09.505000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.059000" end="0:32:09.505000" age_lower="18" age_upper="35">
 "Die	der	DET	-	0:32:09.059000	0:32:09.505000
 Wand"	Wand	NOUN	-	0:32:09.059000	0:32:09.505000
 .	-	-	-	0:32:09.059000	0:32:09.505000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.505000" end="0:32:09.952000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.505000" end="0:32:09.952000" age_lower="18" age_upper="35">
 Film	Film	NOUN	-	0:32:09.505000	0:32:09.952000
 .	-	-	-	0:32:09.505000	0:32:09.952000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.952000" end="0:32:10.432000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:09.952000" end="0:32:10.432000" age_lower="18" age_upper="35">
 den	der	DET	-	0:32:09.952000	0:32:10.432000
 Film	Film	NOUN	-	0:32:09.952000	0:32:10.432000
 ,	-	-	-	0:32:09.952000	0:32:10.432000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:10.432000" end="0:32:10.845000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:10.432000" end="0:32:10.845000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:10.432000	0:32:10.845000
 .	-	-	-	0:32:10.432000	0:32:10.845000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:10.432000" end="0:32:11.485000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:10.432000" end="0:32:11.485000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:10.432000	0:32:10.845000
 .	-	-	-	0:32:10.432000	0:32:10.845000
 mhm	mhm	PROPN	-	0:32:10.845000	0:32:11.485000
 .	-	-	-	0:32:10.845000	0:32:11.485000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:11.485000" end="0:32:15.885000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:11.485000" end="0:32:15.885000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:32:11.485000	0:32:15.205000
 habe	habe	AUX	-	0:32:11.485000	0:32:15.205000
 jetzt	jetzt	ADV	-	0:32:11.485000	0:32:15.205000
@@ -8570,14 +8570,14 @@ auch	auch	ADV	-	0:32:15.205000	0:32:15.885000
 nichts	nichts	PRON	-	0:32:15.205000	0:32:15.885000
 an=	anschauen	VERB	-	0:32:15.205000	0:32:15.885000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:15.205000" end="0:32:15.885000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:15.205000" end="0:32:15.885000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:32:15.205000	0:32:15.885000
 .	-	-	-	0:32:15.205000	0:32:15.885000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:15.885000" end="0:32:16.192000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:15.885000" end="0:32:16.192000" age_lower="18" age_upper="35">
 geschaut	-	SPACE	-	0:32:15.885000	0:32:16.192000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:16.192000" end="0:32:17.832000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:16.192000" end="0:32:17.832000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:32:16.192000	0:32:16.492000
 .	-	-	-	0:32:16.192000	0:32:16.492000
 <pause duration="0,7s"/>
@@ -8587,11 +8587,11 @@ einmal	einmal	ADV	-	0:32:16.492000	0:32:17.832000
 angeschaut	anschauen	VERB	-	0:32:16.492000	0:32:17.832000
 ?	-	-	-	0:32:16.492000	0:32:17.832000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:17.832000" end="0:32:18.405000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:17.832000" end="0:32:18.405000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:32:17.832000	0:32:18.405000
 .	-	-	-	0:32:17.832000	0:32:18.405000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:17.832000" end="0:32:19.612000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:17.832000" end="0:32:19.612000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:32:17.832000	0:32:18.405000
 .	-	-	-	0:32:17.832000	0:32:18.405000
 ach	ach	X	-	0:32:18.405000	0:32:19.612000
@@ -8604,7 +8604,7 @@ ich	ich	PRON	-	0:32:18.405000	0:32:19.612000
 geschaut	schauen	VERB	-	0:32:18.405000	0:32:19.612000
 .	-	-	-	0:32:18.405000	0:32:19.612000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:19.612000" end="0:32:20.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:19.612000" end="0:32:20.712000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:32:19.612000	0:32:20.025000
 ?	-	-	-	0:32:19.612000	0:32:20.025000
 nein	nein	PART	-	0:32:20.025000	0:32:20.712000
@@ -8613,7 +8613,7 @@ ich	ich	PRON	-	0:32:20.025000	0:32:20.712000
 habe	habe	AUX	-	0:32:20.025000	0:32:20.712000
 /.	-	-	-	0:32:20.025000	0:32:20.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:20.025000" end="0:32:22.599000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:20.025000" end="0:32:22.599000" age_lower="18" age_upper="35">
 jawohl	jawohl	PROPN	-	0:32:20.025000	0:32:20.712000
 ,	-	-	-	0:32:20.025000	0:32:20.712000
 nein	-	-	-	0:32:20.025000	0:32:20.712000
@@ -8623,9 +8623,9 @@ taug/	-	-	-	0:32:20.712000	0:32:22.599000
 also	also	ADV	-	0:32:20.712000	0:32:22.599000
 ähm	ähm	ADJ	-	0:32:20.712000	0:32:22.599000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:22.599000" end="0:32:23.832000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:22.599000" end="0:32:23.832000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:22.599000" end="0:32:42.818000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:22.599000" end="0:32:42.818000" age_lower="18" age_upper="35">
 am	am	PART	-	0:32:22.599000	0:32:23.832000
 ehesten	ehesten	ADJ	-	0:32:22.599000	0:32:23.832000
 .	-	-	-	0:32:22.599000	0:32:23.832000
@@ -8689,7 +8689,7 @@ ganzen	ganz	ADJ	-	0:32:38.298000	0:32:42.818000
 Sachen	Sache	NOUN	-	0:32:38.298000	0:32:42.818000
 /.	-	-	-	0:32:38.298000	0:32:42.818000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:42.818000" end="0:32:53.512000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:42.818000" end="0:32:53.512000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:32:42.818000	0:32:43.718000
 schaue	schauen	VERB	-	0:32:42.818000	0:32:43.718000
 ich	ich	PRON	-	0:32:42.818000	0:32:43.718000
@@ -8725,7 +8725,7 @@ Geschichte"	Geschichte	NOUN	-	0:32:48.605000	0:32:51.638000
 aber	aber	CCONJ	-	0:32:51.638000	0:32:53.512000
 /.	-	-	-	0:32:51.638000	0:32:53.512000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:51.638000" end="0:32:53.512000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:51.638000" end="0:32:53.512000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:32:51.638000	0:32:53.512000
 ja	ja	PART	-	0:32:51.638000	0:32:53.512000
 ,	-	-	-	0:32:51.638000	0:32:53.512000
@@ -8736,7 +8736,7 @@ waren	-	-	-	0:32:51.638000	0:32:53.512000
 immer	-	-	-	0:32:51.638000	0:32:53.512000
 /.	-	-	-	0:32:51.638000	0:32:53.512000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:53.512000" end="0:32:57.872000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:53.512000" end="0:32:57.872000" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:32:53.512000	0:32:55.098000
 gesagt	sagen	VERB	-	0:32:53.512000	0:32:55.098000
 ,	-	-	-	0:32:53.512000	0:32:55.098000
@@ -8759,16 +8759,16 @@ schlafe	schlafe	VERB	-	0:32:55.098000	0:32:57.872000
 ich	ich	PRON	-	0:32:55.098000	0:32:57.872000
 .	-	-	-	0:32:55.098000	0:32:57.872000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:57.872000" end="0:32:58.625000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:57.872000" end="0:32:58.625000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:32:57.872000	0:32:58.625000
 ,	-	-	-	0:32:57.872000	0:32:58.625000
 ja	-	-	-	0:32:57.872000	0:32:58.625000
 .	-	-	-	0:32:57.872000	0:32:58.625000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:58.625000" end="0:32:59.285000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:58.625000" end="0:32:59.285000" age_lower="18" age_upper="35">
 deswegen	deswegen	ADV	-	0:32:58.625000	0:32:59.285000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:59.285000" end="0:33:00.112000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:32:59.285000" end="0:33:00.112000" age_lower="18" age_upper="35">
 ist	sein	AUX	-	0:32:59.285000	0:33:00.112000
 eh	eh	ADV	-	0:32:59.285000	0:33:00.112000
 bei	bei	ADP	-	0:32:59.285000	0:33:00.112000
@@ -8777,7 +8777,7 @@ auch	auch	ADV	-	0:32:59.285000	0:33:00.112000
 so	so	ADV	-	0:32:59.285000	0:33:00.112000
 .	-	-	-	0:32:59.285000	0:33:00.112000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:00.112000" end="0:33:04.452000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:00.112000" end="0:33:04.452000" age_lower="18" age_upper="35">
 schaue	schauen	VERB	-	0:33:00.112000	0:33:00.852000
 ich	ich	PRON	-	0:33:00.112000	0:33:00.852000
 gar	gar	ADV	-	0:33:00.112000	0:33:00.852000
@@ -8802,7 +8802,7 @@ ausgeht	ausgehen	VERB	-	0:33:03.085000	0:33:04.452000
 oder	oder	CCONJ	-	0:33:03.085000	0:33:04.452000
 /.	-	-	-	0:33:03.085000	0:33:04.452000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:04.452000" end="0:33:15.632000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:04.452000" end="0:33:15.632000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:33:04.452000	0:33:04.972000
 .	-	-	-	0:33:04.452000	0:33:04.972000
 <pause duration="2,1s"/>
@@ -8844,12 +8844,12 @@ dich	sich	PRON	-	0:33:12.792000	0:33:15.632000
 interessiert	interessieren	ADJ	-	0:33:12.792000	0:33:15.632000
 .	-	-	-	0:33:12.792000	0:33:15.632000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:15.632000" end="0:33:18.365000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:15.632000" end="0:33:18.365000" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 ja	ja	ADV	-	0:33:15.632000	0:33:18.365000
 .	-	-	-	0:33:15.632000	0:33:18.365000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:18.365000" end="0:33:25.438000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:18.365000" end="0:33:25.438000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:33:18.365000	0:33:22.578000
 halt	halt	VERB	-	0:33:18.365000	0:33:22.578000
 du/	du	PRON	-	0:33:18.365000	0:33:22.578000
@@ -8877,24 +8877,24 @@ mich	sich	PRON	-	0:33:22.578000	0:33:25.438000
 jetzt	jetzt	ADV	-	0:33:22.578000	0:33:25.438000
 .	-	-	-	0:33:22.578000	0:33:25.438000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:25.438000" end="0:33:26.732000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:25.438000" end="0:33:26.732000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	ja	ADV	-	0:33:25.438000	0:33:26.732000
 ,	-	-	-	0:33:25.438000	0:33:26.732000
 genau	genau	ADJ	-	0:33:25.438000	0:33:26.732000
 .	-	-	-	0:33:25.438000	0:33:26.732000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:26.732000" end="0:33:28.018000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:26.732000" end="0:33:28.018000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	ADV	-	0:33:26.732000	0:33:28.018000
 ,	-	-	-	0:33:26.732000	0:33:28.018000
 ja	-	-	-	0:33:26.732000	0:33:28.018000
 .	-	-	-	0:33:26.732000	0:33:28.018000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:28.018000" end="0:33:29.212000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:28.018000" end="0:33:29.212000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:29.212000" end="0:33:31.738000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:29.212000" end="0:33:31.738000" age_lower="18" age_upper="35">
 (mhm)	mhm	PROPN	-	0:33:29.212000	0:33:30.025000
 achso	achso	PROPN	-	0:33:30.025000	0:33:31.738000
 bin	sein	AUX	-	0:33:30.025000	0:33:31.738000
@@ -8902,11 +8902,11 @@ ich	ich	PRON	-	0:33:30.025000	0:33:31.738000
 da	da	ADV	-	0:33:30.025000	0:33:31.738000
 dr=	dran	ADV	-	0:33:30.025000	0:33:31.738000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:31.738000" end="0:33:31.992000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:31.738000" end="0:33:31.992000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:33:31.738000	0:33:31.992000
 ,	-	-	-	0:33:31.738000	0:33:31.992000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:31.738000" end="0:33:33.392000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:31.738000" end="0:33:33.392000" age_lower="18" age_upper="35">
 an	-	SPACE	-	0:33:31.738000	0:33:31.992000
 .	-	-	-	0:33:31.738000	0:33:31.992000
 was	was	PRON	-	0:33:31.992000	0:33:33.392000
@@ -8919,21 +8919,21 @@ eine	einen	DET	-	0:33:31.992000	0:33:33.392000
 Farbe	Farbe	NOUN	-	0:33:31.992000	0:33:33.392000
 ?	-	-	-	0:33:31.992000	0:33:33.392000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:33.392000" end="0:33:34.378000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:33.392000" end="0:33:34.378000" age_lower="18" age_upper="35">
 Orange	Orange	NOUN	-	0:33:33.392000	0:33:34.378000
 .	-	-	-	0:33:33.392000	0:33:34.378000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:33.392000" end="0:33:34.378000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:33.392000" end="0:33:34.378000" age_lower="18" age_upper="35">
 Orange	Orange	NOUN	-	0:33:33.392000	0:33:34.378000
 ,	gell	ADJ	-	0:33:33.392000	0:33:34.378000
 gell	-	-	-	0:33:33.392000	0:33:34.378000
 ?	-	-	-	0:33:33.392000	0:33:34.378000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:34.378000" end="0:33:36.092000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:34.378000" end="0:33:36.092000" age_lower="18" age_upper="35">
 bravo	bravo	PROPN	-	0:33:34.378000	0:33:36.092000
 .	-	-	-	0:33:34.378000	0:33:36.092000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:36.092000" end="0:33:42.452000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:36.092000" end="0:33:42.452000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 ja	ja	ADV	-	0:33:38.092000	0:33:40.438000
 ,	-	-	-	0:33:38.092000	0:33:40.438000
@@ -8957,17 +8957,17 @@ v=	vor	ADP	-	0:33:41.065000	0:33:41.745000
 or	-	SPACE	-	0:33:41.745000	0:33:42.452000
 ,	-	-	-	0:33:41.745000	0:33:42.452000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:42.452000" end="0:33:43.105000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:42.452000" end="0:33:43.105000" age_lower="18" age_upper="35">
 naja	naja	INTJ	-	0:33:42.452000	0:33:43.105000
 .	-	-	-	0:33:42.452000	0:33:43.105000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:43.105000" end="0:33:45.385000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:43.105000" end="0:33:45.385000" age_lower="18" age_upper="35">
 Österreich	Österreich	PROPN	-	0:33:43.105000	0:33:45.385000
 als	als	ADP	-	0:33:43.105000	0:33:45.385000
 Fußballweltmeister	Fußballweltmeister	NOUN	-	0:33:43.105000	0:33:45.385000
 .	-	-	-	0:33:43.105000	0:33:45.385000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:45.385000" end="0:33:52.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:45.385000" end="0:33:52.712000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	der	PRON	-	0:33:45.385000	0:33:52.352000
 haben	haben	AUX	-	0:33:45.385000	0:33:52.352000
@@ -8982,11 +8982,11 @@ gehabt	haben	AUX	-	0:33:45.385000	0:33:52.352000
 oder	oder	CCONJ	-	0:33:52.352000	0:33:52.712000
 ?	-	-	-	0:33:52.352000	0:33:52.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:52.352000" end="0:33:52.712000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:52.352000" end="0:33:52.712000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:52.352000	0:33:52.712000
 .	-	-	-	0:33:52.352000	0:33:52.712000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:52.712000" end="0:33:54.165000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:52.712000" end="0:33:54.165000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:33:52.712000	0:33:54.165000
 interessiert	interessieren	VERB	-	0:33:52.712000	0:33:54.165000
 uns	sich	PRON	-	0:33:52.712000	0:33:54.165000
@@ -8994,7 +8994,7 @@ beide	beid	PRON	-	0:33:52.712000	0:33:54.165000
 nicht	nicht	PART	-	0:33:52.712000	0:33:54.165000
 .	-	-	-	0:33:52.712000	0:33:54.165000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:54.165000" end="0:33:55.712000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:54.165000" end="0:33:55.712000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:33:54.165000	0:33:55.712000
 interessiert	interessieren	VERB	-	0:33:54.165000	0:33:55.712000
 uns	sich	PRON	-	0:33:54.165000	0:33:55.712000
@@ -9004,7 +9004,7 @@ nicht	nicht	PART	-	0:33:54.165000	0:33:55.712000
 nein	nein	PART	-	0:33:54.165000	0:33:55.712000
 .	-	-	-	0:33:54.165000	0:33:55.712000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:55.712000" end="0:33:57.072000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:55.712000" end="0:33:57.072000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:33:55.712000	0:33:57.072000
 stellen	stellen	VERB	-	0:33:55.712000	0:33:57.072000
 wir	ich	PRON	-	0:33:55.712000	0:33:57.072000
@@ -9012,7 +9012,7 @@ uns	sich	PRON	-	0:33:55.712000	0:33:57.072000
 auch	auch	ADV	-	0:33:55.712000	0:33:57.072000
 nicht	nicht	PART	-	0:33:55.712000	0:33:57.072000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:55.712000" end="0:33:57.072000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:55.712000" end="0:33:57.072000" age_lower="18" age_upper="35">
 (da	da	ADV	-	0:33:55.712000	0:33:57.072000
 reden	reden	VERB	-	0:33:55.712000	0:33:57.072000
 wir	ich	PRON	-	0:33:55.712000	0:33:57.072000
@@ -9020,15 +9020,15 @@ auch	auch	ADV	-	0:33:55.712000	0:33:57.072000
 nicht/	-	-	-	0:33:55.712000	0:33:57.072000
 /.)	-	-	-	0:33:55.712000	0:33:57.072000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:57.072000" end="0:33:57.545000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:57.072000" end="0:33:57.545000" age_lower="18" age_upper="35">
 vor	vor	ADP	-	0:33:57.072000	0:33:57.545000
 .	-	-	-	0:33:57.072000	0:33:57.545000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:57.545000" end="0:33:57.998000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:57.545000" end="0:33:57.998000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:33:57.545000	0:33:57.998000
 .	-	-	-	0:33:57.545000	0:33:57.998000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:57.998000" end="0:34:01.545000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:33:57.998000" end="0:34:01.545000" age_lower="18" age_upper="35">
 also	-	-	-	0:33:57.998000	0:33:59.532000
 mir	-	-	-	0:33:57.998000	0:33:59.532000
 ist	-	-	-	0:33:57.998000	0:33:59.532000
@@ -9044,7 +9044,7 @@ oder	oder	CCONJ	-	0:33:59.532000	0:34:01.545000
 nicht	nicht	PART	-	0:33:59.532000	0:34:01.545000
 ,	-	-	-	0:33:59.532000	0:34:01.545000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:01.545000" end="0:34:03.545000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:01.545000" end="0:34:03.545000" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:34:01.545000	0:34:03.545000
 so	so	ADV	-	0:34:01.545000	0:34:03.545000
 ,	-	-	-	0:34:01.545000	0:34:03.545000
@@ -9060,7 +9060,7 @@ Mal	Mal	NOUN	-	0:34:01.545000	0:34:03.545000
 gesagt	sagen	VERB	-	0:34:01.545000	0:34:03.545000
 .	-	-	-	0:34:01.545000	0:34:03.545000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:03.545000" end="0:34:08.838000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:03.545000" end="0:34:08.838000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 und	und	CCONJ	-	0:34:03.545000	0:34:07.945000
 wenn	wenn	SCONJ	-	0:34:03.545000	0:34:07.945000
@@ -9080,11 +9080,11 @@ _lei_	-	-	-	0:34:07.945000	0:34:08.838000
 Geld	-	-	-	0:34:07.945000	0:34:08.838000
 .	-	-	-	0:34:07.945000	0:34:08.838000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:08.838000" end="0:34:09.745000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:08.838000" end="0:34:09.745000" age_lower="18" age_upper="35">
 genau	genau	ADJ	-	0:34:08.838000	0:34:09.745000
 .	-	-	-	0:34:08.838000	0:34:09.745000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:09.745000" end="0:34:11.058000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:09.745000" end="0:34:11.058000" age_lower="18" age_upper="35">
 sollen	sollen	VERB	-	0:34:09.745000	0:34:11.058000
 sie	ich	PRON	-	0:34:09.745000	0:34:11.058000
 daheim	daheim	ADV	-	0:34:09.745000	0:34:11.058000
@@ -9092,7 +9092,7 @@ bleiben	bleiben	VERB	-	0:34:09.745000	0:34:11.058000
 und/	-	-	-	0:34:09.745000	0:34:11.058000
 /.	-	-	-	0:34:09.745000	0:34:11.058000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:11.058000" end="0:34:15.237000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:11.058000" end="0:34:15.237000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 die	der	DET	-	0:34:11.438000	0:34:15.237000
 kosten	kosten	NOUN	-	0:34:11.438000	0:34:15.237000
@@ -9103,13 +9103,13 @@ viel	viel	DET	-	0:34:11.438000	0:34:15.237000
 Geld	Geld	NOUN	-	0:34:11.438000	0:34:15.237000
 .	-	-	-	0:34:11.438000	0:34:15.237000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:15.237000" end="0:34:15.685000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:15.237000" end="0:34:15.685000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:15.237000	0:34:15.685000
 .	-	-	-	0:34:15.237000	0:34:15.685000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:15.685000" end="0:34:16.277000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:15.685000" end="0:34:16.277000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:16.277000" end="0:34:18.558000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:16.277000" end="0:34:18.558000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:34:16.277000	0:34:17.344000
 ,	-	-	-	0:34:16.277000	0:34:17.344000
 das	der	PRON	-	0:34:16.277000	0:34:17.344000
@@ -9122,7 +9122,7 @@ einmal	einmal	ADV	-	0:34:17.344000	0:34:18.558000
 gesehen	gesehenhm	NOUN	-	0:34:17.344000	0:34:18.558000
 /.	-	-	-	0:34:17.344000	0:34:18.558000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:17.344000" end="0:34:19.472000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:17.344000" end="0:34:19.472000" age_lower="18" age_upper="35">
 haben	haben	AUX	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:34:17.344000	0:34:18.558000
 sie	ich	PRON	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:34:17.344000	0:34:18.558000
 jetzt	jetzt	ADV	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:34:17.344000	0:34:18.558000
@@ -9133,11 +9133,11 @@ einen	ein	DET	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:34:
 Trainer	Trainer	NOUN	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:34:18.558000	0:34:19.472000
 ?	-	-	-	0:34:18.558000	0:34:19.472000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:19.472000" end="0:34:20.665000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:19.472000" end="0:34:20.665000" age_lower="18" age_upper="35">
 hm	hm	ADP	-	0:34:19.472000	0:34:20.665000
 .	-	-	-	0:34:19.472000	0:34:20.665000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:19.472000" end="0:34:21.312000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:19.472000" end="0:34:21.312000" age_lower="18" age_upper="35">
 macht	machen	VERB	-	0:34:19.472000	0:34:20.665000
 das	der	PRON	-	0:34:19.472000	0:34:20.665000
 der	der	DET	-	0:34:19.472000	0:34:20.665000
@@ -9148,7 +9148,7 @@ oder	oder	CCONJ	-	0:34:20.665000	0:34:21.312000
 was	was	PRON	-	0:34:20.665000	0:34:21.312000
 ?	-	-	-	0:34:20.665000	0:34:21.312000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:21.312000" end="0:34:25.032000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:21.312000" end="0:34:25.032000" age_lower="18" age_upper="35">
 anscheinend	anscheinen	ADJ	-	0:34:21.312000	0:34:23.938000
 ,	-	-	-	0:34:21.312000	0:34:23.938000
 aber	aber	CCONJ	-	0:34:21.312000	0:34:23.938000
@@ -9168,7 +9168,7 @@ irgendwo	-	-	-	0:34:23.938000	0:34:25.032000
 gelesen	-	-	-	0:34:23.938000	0:34:25.032000
 .	-	-	-	0:34:23.938000	0:34:25.032000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:25.032000" end="0:34:39.792000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:25.032000" end="0:34:39.792000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:25.032000	0:34:27.391000
 ,	-	-	-	0:34:25.032000	0:34:27.391000
 <pause duration="1,0s"/>
@@ -9224,7 +9224,7 @@ Mann	Mann	NOUN	+menschl App PM PR Pkon Poss Prel Prop Soz pränomin von	0:34:37.
 .	-	-	-	0:34:37.792000	0:34:39.792000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:39.792000" end="0:34:42.072000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:39.792000" end="0:34:42.072000" age_lower="18" age_upper="35">
 interessiert	interessieren	ADJ	-	0:34:39.792000	0:34:40.978000
 der	der	PRON	-	0:34:39.792000	0:34:40.978000
 sich	sich	PRON	-	0:34:39.792000	0:34:40.978000
@@ -9233,7 +9233,7 @@ für	für	ADP	-	0:34:40.978000	0:34:42.072000
 echt	echt	ADJ	-	0:34:40.978000	0:34:42.072000
 ?	-	-	-	0:34:40.978000	0:34:42.072000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:40.978000" end="0:34:42.565000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:40.978000" end="0:34:42.565000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:34:40.978000	0:34:42.072000
 ,	-	-	-	0:34:40.978000	0:34:42.072000
 voll	voll	ADJ	-	0:34:40.978000	0:34:42.072000
@@ -9241,7 +9241,7 @@ voll	voll	ADJ	-	0:34:40.978000	0:34:42.072000
 ja	ja	PART	-	0:34:42.072000	0:34:42.565000
 .	-	-	-	0:34:42.072000	0:34:42.565000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:42.565000" end="0:34:44.185000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:42.565000" end="0:34:44.185000" age_lower="18" age_upper="35">
 ein	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe-	0:34:42.565000	0:34:44.185000
 voll	voll	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe-	0:34:42.565000	0:34:44.185000
 ein	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe-	0:34:42.565000	0:34:44.185000
@@ -9249,7 +9249,7 @@ Hype	Hype	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe-	0:34:42.565000	0
 dann	-	-	-	0:34:42.565000	0:34:44.185000
 .	-	-	-	0:34:42.565000	0:34:44.185000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:44.185000" end="0:34:48.172000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:44.185000" end="0:34:48.172000" age_lower="18" age_upper="35">
 (ich	legend	NOUN	-	0:34:44.185000	0:34:45.165000
 denke)	-	-	-	0:34:44.185000	0:34:45.165000
 ja	ja	PART	-	0:34:44.185000	0:34:45.165000
@@ -9265,15 +9265,15 @@ mehr	-	-	-	0:34:45.165000	0:34:48.172000
 weg	-	-	-	0:34:45.165000	0:34:48.172000
 .	-	-	-	0:34:45.165000	0:34:48.172000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:48.172000" end="0:34:49.065000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:48.172000" end="0:34:49.065000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:34:48.172000	0:34:49.065000
 ?	-	-	-	0:34:48.172000	0:34:49.065000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:49.065000" end="0:34:50.145000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:49.065000" end="0:34:50.145000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:34:49.065000	0:34:50.145000
 .	-	-	-	0:34:49.065000	0:34:50.145000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:50.145000" end="0:34:52.052000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:50.145000" end="0:34:52.052000" age_lower="18" age_upper="35">
 _oida_	-	-	-	0:34:50.145000	0:34:52.052000
 ,	-	-	-	0:34:50.145000	0:34:52.052000
 das	der	PRON	-	0:34:50.145000	0:34:52.052000
@@ -9282,7 +9282,7 @@ mich	sich	PRON	-	0:34:50.145000	0:34:52.052000
 nicht	nicht	PART	-	0:34:50.145000	0:34:52.052000
 .	-	-	-	0:34:50.145000	0:34:52.052000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:52.052000" end="0:34:55.085000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:52.052000" end="0:34:55.085000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:34:52.052000	0:34:52.844000
 ,	-	-	-	0:34:52.052000	0:34:52.844000
 mich	sich	PRON	-	0:34:52.052000	0:34:52.844000
@@ -9300,7 +9300,7 @@ geben	geben	VERB	-	0:34:52.844000	0:34:55.085000
 oder	oder	CCONJ	-	0:34:52.844000	0:34:55.085000
 ?	-	-	-	0:34:52.844000	0:34:55.085000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:55.085000" end="0:34:59.305000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:55.085000" end="0:34:59.305000" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 mein	meinen	DET	+menschl -belebt ?? App PM PR Pkon Poss PossPron+NP Prel Prop Soz irrelevant	0:34:55.085000	0:34:59.305000
 Gott	Gott	NOUN	+menschl -belebt ?? App PM PR Pkon Poss PossPron+NP Prel Prop Soz irrelevant	0:34:55.085000	0:34:59.305000
@@ -9308,7 +9308,7 @@ Gott	Gott	NOUN	+menschl -belebt ?? App PM PR Pkon Poss PossPron+NP Prel Prop Soz
 nein	nein	PART	-	0:34:55.085000	0:34:59.305000
 .	-	-	-	0:34:55.085000	0:34:59.305000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:59.305000" end="0:35:05.778000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:34:59.305000" end="0:35:05.778000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:34:59.305000	0:35:01.305000
 ,	-	-	-	0:34:59.305000	0:35:01.305000
 das	der	PRON	-	0:34:59.305000	0:35:01.305000
@@ -9333,7 +9333,7 @@ nach	nach	ADP	-	0:35:03.305000	0:35:05.778000
 Deutschland"	Deutschland	PROPN	-	0:35:03.305000	0:35:05.778000
 .	-	-	-	0:35:03.305000	0:35:05.778000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:05.778000" end="0:35:07.612000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:05.778000" end="0:35:07.612000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:35:05.778000	0:35:07.612000
 ,	-	-	-	0:35:05.778000	0:35:07.612000
 das	der	PRON	-	0:35:05.778000	0:35:07.612000
@@ -9345,16 +9345,16 @@ nicht	nicht	PART	-	0:35:05.778000	0:35:07.612000
 vorstellen	vorstellen	VERB	-	0:35:05.778000	0:35:07.612000
 .	-	-	-	0:35:05.778000	0:35:07.612000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:07.612000" end="0:35:08.045000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:07.612000" end="0:35:08.045000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:07.612000	0:35:08.045000
 .	-	-	-	0:35:07.612000	0:35:08.045000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:08.045000" end="0:35:10.905000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:08.045000" end="0:35:10.905000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 also	also	ADV	-	0:35:08.045000	0:35:10.905000
 /.	-	-	-	0:35:08.045000	0:35:10.905000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:08.045000" end="0:35:10.905000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:08.045000" end="0:35:10.905000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 *kannst*	-	-	-	0:35:08.045000	0:35:10.905000
 dir	-	-	-	0:35:08.045000	0:35:10.905000
@@ -9363,7 +9363,7 @@ nicht	-	-	-	0:35:08.045000	0:35:10.905000
 vorstellen	-	-	-	0:35:08.045000	0:35:10.905000
 ?	-	-	-	0:35:08.045000	0:35:10.905000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:10.905000" end="0:35:14.005000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:10.905000" end="0:35:14.005000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:35:10.905000	0:35:11.352000
 .	-	-	-	0:35:10.905000	0:35:11.352000
 <pause duration="0,7s"/>
@@ -9379,17 +9379,17 @@ aus	aus	ADP	-	0:35:13.178000	0:35:14.005000
 ORT	ORT	PROPN	-	0:35:13.178000	0:35:14.005000
 weg=	weg	ADV	-	0:35:13.178000	0:35:14.005000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:13.178000" end="0:35:14.005000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:13.178000" end="0:35:14.005000" age_lower="18" age_upper="35">
 eh	eh	ADV	-	0:35:13.178000	0:35:14.005000
 eh	eh	ADV	-	0:35:13.178000	0:35:14.005000
 nie	nie	ADV	-	0:35:13.178000	0:35:14.005000
 .	-	-	-	0:35:13.178000	0:35:14.005000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:14.005000" end="0:35:14.432000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:14.005000" end="0:35:14.432000" age_lower="18" age_upper="35">
 ziehe	ziehen	VERB	-	0:35:14.005000	0:35:14.432000
 .	-	-	-	0:35:14.005000	0:35:14.432000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:14.432000" end="0:35:25.198000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:14.432000" end="0:35:25.198000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 ja	ja	ADV	-	0:35:14.432000	0:35:21.305000
 ,	ja	ADV	-	0:35:14.432000	0:35:21.305000
@@ -9415,18 +9415,18 @@ der	der	DET	-	0:35:22.472000	0:35:25.198000
 im	im	ADP	-	0:35:22.472000	0:35:25.198000
 Wirtschafts=	Wirtschafts	NOUN	-	0:35:22.472000	0:35:25.198000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:25.198000" end="0:35:26.598000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:25.198000" end="0:35:26.598000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:25.198000" end="0:35:26.598000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:25.198000" end="0:35:26.598000" age_lower="18" age_upper="35">
 =motor	motorwo	VERB	-	0:35:25.198000	0:35:26.598000
 .	-	-	-	0:35:25.198000	0:35:26.598000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:26.598000" end="0:35:28.712000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:26.598000" end="0:35:28.712000" age_lower="18" age_upper="35">
 ah	aja	PROPN	-	0:35:27.492000	0:35:28.712000
 ja	-	-	-	0:35:27.492000	0:35:28.712000
 .	-	-	-	0:35:27.492000	0:35:28.712000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:27.492000" end="0:35:30.712000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:27.492000" end="0:35:30.712000" age_lower="18" age_upper="35">
 wo	wo	ADV	-	0:35:27.492000	0:35:28.712000
 die	der	DET	-	0:35:27.492000	0:35:28.712000
 Wi=	Wirtschaft	NOUN	-	0:35:27.492000	0:35:28.712000
@@ -9437,7 +9437,7 @@ Hufen	Hufe	NOUN	-	0:35:28.712000	0:35:30.712000
 reitet	reiten	VERB	-	0:35:28.712000	0:35:30.712000
 .	-	-	-	0:35:28.712000	0:35:30.712000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:30.712000" end="0:35:33.012000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:30.712000" end="0:35:33.012000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:30.712000	0:35:33.012000
 ,	-	-	-	0:35:30.712000	0:35:33.012000
 da	da	ADV	-	0:35:30.712000	0:35:33.012000
@@ -9449,14 +9449,14 @@ gut	gut	ADJ	-	0:35:30.712000	0:35:33.012000
 geht	gehen	VERB	-	0:35:30.712000	0:35:33.012000
 .	-	-	-	0:35:30.712000	0:35:33.012000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:33.012000" end="0:35:35.425000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:33.012000" end="0:35:35.425000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:35:33.012000	0:35:35.425000
 ,	-	-	-	0:35:33.012000	0:35:35.425000
 komischerweise	komischerweise	NOUN	-	0:35:33.012000	0:35:35.425000
 nicht	nicht	PART	-	0:35:33.012000	0:35:35.425000
 .	-	-	-	0:35:33.012000	0:35:35.425000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:35.425000" end="0:35:44.338000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:35.425000" end="0:35:44.338000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:35.425000	0:35:36.118000
 .	-	-	-	0:35:35.425000	0:35:36.118000
 <pause duration="1,7s"/>
@@ -9484,11 +9484,11 @@ Verwandte	verwenden	NOUN	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrel
 habe	habe	AUX	+menschl App PM PR Pkon Poss Prel Präd Psond Soz irrelevant	0:35:43.872000	0:35:44.338000
 ,	-	-	-	0:35:43.872000	0:35:44.338000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:43.872000" end="0:35:44.338000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:43.872000" end="0:35:44.338000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:43.872000	0:35:44.338000
 .	-	-	-	0:35:43.872000	0:35:44.338000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:44.338000" end="0:35:50.638000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:44.338000" end="0:35:50.638000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	aber	CCONJ	-	0:35:44.338000	0:35:46.718000
 <pause duration="0,7s"/>
@@ -9511,7 +9511,7 @@ uns	sich	PRON	-	0:35:49.138000	0:35:50.132000
 ziehen	ziehen	VERB	-	0:35:50.132000	0:35:50.638000
 .	-	-	-	0:35:50.132000	0:35:50.638000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:50.132000" end="0:36:04.978000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:35:50.132000" end="0:36:04.978000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:35:50.132000	0:35:50.638000
 ,	-	-	-	0:35:50.132000	0:35:50.638000
 ich	ich	PRON	-	0:35:50.132000	0:35:50.638000
@@ -9579,22 +9579,22 @@ Kreuzfahrt	Kreuzfahrt	NOUN	-	0:36:01.925000	0:36:04.978000
 gell	gell	ADJ	-	0:36:01.925000	0:36:04.978000
 ?	-	-	-	0:36:01.925000	0:36:04.978000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:04.978000" end="0:36:05.265000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:04.978000" end="0:36:05.265000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:04.978000	0:36:05.265000
 .	-	-	-	0:36:04.978000	0:36:05.265000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:04.978000" end="0:36:06.405000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:04.978000" end="0:36:06.405000" age_lower="18" age_upper="35">
 da	da	SCONJ	-	0:36:04.978000	0:36:05.265000
 Kiel	Kiel	PROPN	-	0:36:05.265000	0:36:06.405000
 zum	zum	ADP	-	0:36:05.265000	0:36:06.405000
 Beispiel	Beispiel	NOUN	-	0:36:05.265000	0:36:06.405000
 .	-	-	-	0:36:05.265000	0:36:06.405000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:06.405000" end="0:36:07.018000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:06.405000" end="0:36:07.018000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:36:06.405000	0:36:07.018000
 .	-	-	-	0:36:06.405000	0:36:07.018000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:06.405000" end="0:36:08.065000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:06.405000" end="0:36:08.065000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:36:06.405000	0:36:07.018000
 war	sein	AUX	-	0:36:06.405000	0:36:07.018000
 schon	schon	ADV	-	0:36:07.018000	0:36:08.065000
@@ -9602,7 +9602,7 @@ witzig	witzig	ADJ	-	0:36:07.018000	0:36:08.065000
 irgendwie	irgendwie	ADV	-	0:36:07.018000	0:36:08.065000
 .	-	-	-	0:36:07.018000	0:36:08.065000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:08.065000" end="0:36:09.878000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:08.065000" end="0:36:09.878000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:36:08.065000	0:36:09.878000
 ,	da	ADV	-	0:36:08.065000	0:36:09.878000
 da	-	-	-	0:36:08.065000	0:36:09.878000
@@ -9616,7 +9616,7 @@ stimmt	stimmen	VERB	-	0:36:08.065000	0:36:09.878000
 schon	schon	ADV	-	0:36:08.065000	0:36:09.878000
 .	-	-	-	0:36:08.065000	0:36:09.878000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:09.878000" end="0:36:27.485000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:09.878000" end="0:36:27.485000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:36:09.878000	0:36:12.098000
 einmal	einmal	ADV	-	0:36:09.878000	0:36:12.098000
 waren	sein	AUX	-	0:36:09.878000	0:36:12.098000
@@ -9666,18 +9666,18 @@ auch	auch	ADV	-	0:36:25.145000	0:36:27.485000
 stark	stark	ADJ	-	0:36:25.145000	0:36:27.485000
 .	-	-	-	0:36:25.145000	0:36:27.485000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:27.485000" end="0:36:28.025000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:27.485000" end="0:36:28.025000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:36:27.485000	0:36:28.025000
 ?	-	-	-	0:36:27.485000	0:36:28.025000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:28.025000" end="0:36:29.178000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:28.025000" end="0:36:29.178000" age_lower="18" age_upper="35">
 so	so	ADV	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:36:28.025000	0:36:29.178000
 eine	einen	DET	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:36:28.025000	0:36:29.178000
 schöne	schöne	ADJ	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:36:28.025000	0:36:29.178000
 Stadt	Stadt	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj postpon spe+ spe-	0:36:28.025000	0:36:29.178000
 .	-	-	-	0:36:28.025000	0:36:29.178000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:29.178000" end="0:36:33.032000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:29.178000" end="0:36:33.032000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 da	da	ADV	-	0:36:29.178000	0:36:33.032000
 muss	muss	VERB	-	0:36:29.178000	0:36:33.032000
@@ -9691,13 +9691,13 @@ nach	nach	ADP	-	0:36:29.178000	0:36:33.032000
 Leipzig	Leipzig	PROPN	-	0:36:29.178000	0:36:33.032000
 .	-	-	-	0:36:29.178000	0:36:33.032000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:33.032000" end="0:36:34.025000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:33.032000" end="0:36:34.025000" age_lower="18" age_upper="35">
 Leipzig	Leipzig	PROPN	-	0:36:33.032000	0:36:34.025000
 ,	-	-	-	0:36:33.032000	0:36:34.025000
 ja	ja	PART	-	0:36:33.032000	0:36:34.025000
 .	-	-	-	0:36:33.032000	0:36:34.025000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:34.025000" end="0:36:35.945000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:34.025000" end="0:36:35.945000" age_lower="18" age_upper="35">
 der	der	DET	-	0:36:34.025000	0:36:35.945000
 NAME	NAME	NOUN	-	0:36:34.025000	0:36:35.945000
 NAME	NAME	PROPN	-	0:36:34.025000	0:36:35.945000
@@ -9707,7 +9707,7 @@ immer	immer	ADV	-	0:36:34.025000	0:36:35.945000
 ein	einen	ADP	-	0:36:34.025000	0:36:35.945000
 .	-	-	-	0:36:34.025000	0:36:35.945000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:35.945000" end="0:36:36.978000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:35.945000" end="0:36:36.978000" age_lower="18" age_upper="35">
 ach	ach	X	-	0:36:35.945000	0:36:36.978000
 genau	genau	ADJ	-	0:36:35.945000	0:36:36.978000
 ,	-	-	-	0:36:35.945000	0:36:36.978000
@@ -9716,29 +9716,29 @@ ist	sein	AUX	-	0:36:35.945000	0:36:36.978000
 ja	ja	ADV	-	0:36:35.945000	0:36:36.978000
 da	da	ADV	-	0:36:35.945000	0:36:36.978000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:36.978000" end="0:36:37.638000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:36.978000" end="0:36:37.638000" age_lower="18" age_upper="35">
 der	der	PRON	-	0:36:36.978000	0:36:37.638000
 arbeitet	arbeiten	VERB	-	0:36:36.978000	0:36:37.638000
 /,	-	-	-	0:36:36.978000	0:36:37.638000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:36.978000" end="0:36:37.638000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:36.978000" end="0:36:37.638000" age_lower="18" age_upper="35">
 draußen	draußen	ADV	-	0:36:36.978000	0:36:37.638000
 ,	-	-	-	0:36:36.978000	0:36:37.638000
 gell	gell	ADJ	-	0:36:36.978000	0:36:37.638000
 ?	-	-	-	0:36:36.978000	0:36:37.638000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:37.638000" end="0:36:38.758000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:37.638000" end="0:36:38.758000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:36:37.638000	0:36:38.298000
 den	der	PRON	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:36:37.638000	0:36:38.298000
 gehört	hören	VERB	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:36:38.298000	0:36:38.758000
 da	da	ADV	-	0:36:38.298000	0:36:38.758000
 jetzt	jetzt	ADV	-	0:36:38.298000	0:36:38.758000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:38.298000" end="0:36:38.758000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:38.298000" end="0:36:38.758000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:36:38.298000	0:36:38.758000
 .	-	-	-	0:36:38.298000	0:36:38.758000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:38.758000" end="0:36:43.205000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:38.758000" end="0:36:43.205000" age_lower="18" age_upper="35">
 das	der	DET	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:36:38.758000	0:36:39.425000
 Lokal	Lokal	NOUN	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:36:38.758000	0:36:39.425000
 ,	-	-	-	0:36:38.758000	0:36:39.425000
@@ -9753,11 +9753,11 @@ Deutschlands	Deutschland	PROPN	-belebt App Gen PM PR Pkon Poss Prel postnomin sp
 und	und	CCONJ	-	0:36:42.592000	0:36:43.205000
 dort	dort	ADV	-	0:36:42.592000	0:36:43.205000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:42.592000" end="0:36:43.205000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:42.592000" end="0:36:43.205000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:42.592000	0:36:43.205000
 .	-	-	-	0:36:42.592000	0:36:43.205000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:43.205000" end="0:36:45.205000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:43.205000" end="0:36:45.205000" age_lower="18" age_upper="35">
 ladet	laden	VERB	-	0:36:43.205000	0:36:45.205000
 er	ich	PRON	-	0:36:43.205000	0:36:45.205000
 mich	sich	PRON	-	0:36:43.205000	0:36:45.205000
@@ -9768,11 +9768,11 @@ lange	lang	ADV	-	0:36:43.205000	0:36:45.205000
 ein	einen	ADP	-	0:36:43.205000	0:36:45.205000
 .	-	-	-	0:36:43.205000	0:36:45.205000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:45.205000" end="0:36:45.718000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:45.205000" end="0:36:45.718000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:36:45.205000	0:36:45.718000
 .	-	-	-	0:36:45.205000	0:36:45.718000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:45.718000" end="0:36:53.492000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:45.718000" end="0:36:53.492000" age_lower="18" age_upper="35">
 muss	muss	VERB	-	0:36:45.718000	0:36:46.838000
 ich	ich	PRON	-	0:36:45.718000	0:36:46.838000
 jetzt	jetzt	ADV	-	0:36:45.718000	0:36:46.838000
@@ -9798,7 +9798,7 @@ nicht	nicht	PART	-	0:36:52.005000	0:36:53.492000
 vorstellen	vorstellen	VERB	-	0:36:52.005000	0:36:53.492000
 .	-	-	-	0:36:52.005000	0:36:53.492000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:53.492000" end="0:37:06.745000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:36:53.492000" end="0:37:06.745000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:36:53.492000	0:36:55.692000
 ich/	-	-	-	0:36:53.492000	0:36:55.692000
 ich	ich	PRON	-	0:36:53.492000	0:36:55.692000
@@ -9851,12 +9851,12 @@ ich	ich	PRON	-	0:37:03.472000	0:37:06.745000
 gerne	gerne	ADV	-	0:37:03.472000	0:37:06.745000
 /.	-	-	-	0:37:03.472000	0:37:06.745000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:06.745000" end="0:37:08.572000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:06.745000" end="0:37:08.572000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 mhm	mhm	PROPN	-	0:37:06.745000	0:37:08.572000
 .	-	-	-	0:37:06.745000	0:37:08.572000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:08.572000" end="0:37:18.552000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:08.572000" end="0:37:18.552000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:37:08.572000	0:37:10.105000
 irgendwie	irgendwie	ADV	-	0:37:08.572000	0:37:10.105000
 wäre	sein	AUX	-	0:37:08.572000	0:37:10.105000
@@ -9894,17 +9894,17 @@ halt	halt	ADV	-	0:37:16.485000	0:37:18.552000
 viele	viel	DET	-	0:37:16.485000	0:37:18.552000
 Stammgäste	Stammgäste	NOUN	-	0:37:16.485000	0:37:18.552000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:18.552000" end="0:37:18.945000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:18.552000" end="0:37:18.945000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:37:18.552000	0:37:18.945000
 ,	-	-	-	0:37:18.552000	0:37:18.945000
 ja	-	-	-	0:37:18.552000	0:37:18.945000
 .	-	-	-	0:37:18.552000	0:37:18.945000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:18.552000" end="0:37:18.945000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:18.552000" end="0:37:18.945000" age_lower="18" age_upper="35">
 da	-	SPACE	-	0:37:18.552000	0:37:18.945000
 .	-	-	-	0:37:18.552000	0:37:18.945000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:18.945000" end="0:37:20.038000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:18.945000" end="0:37:20.038000" age_lower="18" age_upper="35">
 (zu	zu	ADP	-	0:37:18.945000	0:37:19.732000
 uns)	sich	PRON	-	0:37:18.945000	0:37:19.732000
 kommen	kommen	VERB	-	0:37:18.945000	0:37:19.732000
@@ -9912,7 +9912,7 @@ kommen	kommen	VERB	-	0:37:18.945000	0:37:19.732000
 ja	ja	PART	-	0:37:19.732000	0:37:20.038000
 .	-	-	-	0:37:19.732000	0:37:20.038000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:19.732000" end="0:37:22.038000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:19.732000" end="0:37:22.038000" age_lower="18" age_upper="35">
 die	der	DET	-	0:37:19.732000	0:37:20.038000
 ja	ja	ADV	-	0:37:19.732000	0:37:20.038000
 /,	-	-	-	0:37:19.732000	0:37:20.038000
@@ -9927,14 +9927,14 @@ wie	wie	CCONJ	-	0:37:20.038000	0:37:22.038000
 du	du	PRON	-	0:37:20.038000	0:37:22.038000
 .	-	-	-	0:37:20.038000	0:37:22.038000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:22.038000" end="0:37:23.358000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:22.038000" end="0:37:23.358000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:37:22.038000	0:37:23.358000
 ,	-	-	-	0:37:22.038000	0:37:23.358000
 das	der	PRON	-	0:37:22.038000	0:37:23.358000
 stimmt	stimmen	VERB	-	0:37:22.038000	0:37:23.358000
 .	-	-	-	0:37:22.038000	0:37:23.358000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:22.038000" end="0:37:24.498000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:22.038000" end="0:37:24.498000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:37:22.038000	0:37:23.358000
 fahren	fahren	VERB	-	0:37:22.038000	0:37:23.358000
 ja/	-	-	-	0:37:22.038000	0:37:23.358000
@@ -9945,54 +9945,54 @@ quasi	quasi	ADV	-	0:37:23.358000	0:37:24.498000
 heim	heim	ADP	-	0:37:23.358000	0:37:24.498000
 ,	-	-	-	0:37:23.358000	0:37:24.498000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:24.498000" end="0:37:24.752000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:24.498000" end="0:37:24.752000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:37:24.498000	0:37:24.752000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:24.498000" end="0:37:24.752000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:24.498000" end="0:37:24.752000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	0:37:24.498000	0:37:24.752000
 ?	-	-	-	0:37:24.498000	0:37:24.752000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:24.752000" end="0:37:25.625000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:24.752000" end="0:37:25.625000" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:37:24.752000	0:37:25.625000
 ,	-	-	-	0:37:24.752000	0:37:25.625000
 ja	ja	PART	-	0:37:24.752000	0:37:25.625000
 .	-	-	-	0:37:24.752000	0:37:25.625000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:25.625000" end="0:37:26.145000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:25.625000" end="0:37:26.145000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:37:25.625000	0:37:26.145000
 fahren	fahren	VERB	-	0:37:25.625000	0:37:26.145000
 ja	ja	ADV	-	0:37:25.625000	0:37:26.145000
 nicht	nicht	PART	-	0:37:25.625000	0:37:26.145000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:26.145000" end="0:37:26.758000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:26.145000" end="0:37:26.758000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:37:26.145000	0:37:26.758000
 haben	haben	AUX	-	0:37:26.145000	0:37:26.758000
 wir	ich	PRON	-	0:37:26.145000	0:37:26.758000
 viele	viel	PRON	-	0:37:26.145000	0:37:26.758000
 ,	-	-	-	0:37:26.145000	0:37:26.758000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:26.145000" end="0:37:26.758000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:26.145000" end="0:37:26.758000" age_lower="18" age_upper="35">
 in	in	ADP	-	0:37:26.145000	0:37:26.758000
 Urlaub	Urlaub	NOUN	-	0:37:26.145000	0:37:26.758000
 .	-	-	-	0:37:26.145000	0:37:26.758000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:26.758000" end="0:37:27.578000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:26.758000" end="0:37:27.578000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:37:26.758000	0:37:27.218000
 wenn	wenn	SCONJ	-	0:37:26.758000	0:37:27.218000
 ich	ich	PRON	-	0:37:26.758000	0:37:27.218000
 denke	denken	VERB	-	0:37:27.218000	0:37:27.578000
 /.	-	-	-	0:37:27.218000	0:37:27.578000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:27.218000" end="0:37:27.578000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:27.218000" end="0:37:27.578000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:37:27.218000	0:37:27.578000
 .	-	-	-	0:37:27.218000	0:37:27.578000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:27.578000" end="0:37:28.792000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:27.578000" end="0:37:28.792000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:37:27.578000	0:37:28.792000
 .	-	-	-	0:37:27.578000	0:37:28.792000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:28.792000" end="0:37:31.032000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:28.792000" end="0:37:31.032000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:37:28.792000	0:37:30.132000
 die	der	PRON	-	0:37:28.792000	0:37:30.132000
 sind	sein	AUX	-	0:37:28.792000	0:37:30.132000
@@ -10003,7 +10003,7 @@ nur	nur	ADV	-	0:37:30.132000	0:37:31.032000
 dabei	dabei	ADV	-	0:37:30.132000	0:37:31.032000
 .	-	-	-	0:37:30.132000	0:37:31.032000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:31.032000" end="0:37:38.272000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:31.032000" end="0:37:38.272000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:37:31.032000	0:37:31.852000
 .	-	-	-	0:37:31.032000	0:37:31.852000
 <pause duration="2,0s"/>
@@ -10032,11 +10032,11 @@ NAME	NAME	NOUN	-	0:37:36.272000	0:37:38.272000
 NAME	NAME	PROPN	-	0:37:36.272000	0:37:38.272000
 ,	-	-	-	0:37:36.272000	0:37:38.272000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:38.272000" end="0:37:38.698000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:38.272000" end="0:37:38.698000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:37:38.272000	0:37:38.698000
 .	-	-	-	0:37:38.272000	0:37:38.698000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:38.698000" end="0:37:43.172000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:38.698000" end="0:37:43.172000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:37:38.698000	0:37:41.865000
 der	der	PRON	-	0:37:38.698000	0:37:41.865000
 schreibt	schreiben	VERB	-	0:37:38.698000	0:37:41.865000
@@ -10054,9 +10054,9 @@ abgeholt	abholen	VERB	-	0:37:41.865000	0:37:43.172000
 wird	werden	AUX	-	0:37:41.865000	0:37:43.172000
 .	-	-	-	0:37:41.865000	0:37:43.172000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:43.172000" end="0:37:43.852000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:43.172000" end="0:37:43.852000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:43.852000" end="0:37:48.898000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:43.852000" end="0:37:48.898000" age_lower="18" age_upper="35">
 Weißbriach	Weißbriach	PROPN	-	0:37:43.852000	0:37:46.038000
 und	und	CCONJ	-	0:37:43.852000	0:37:46.038000
 das	der	DET	-	0:37:43.852000	0:37:46.038000
@@ -10071,11 +10071,11 @@ informiert	informieren	VERB	-	0:37:46.038000	0:37:48.352000
 immer	immer	ADV	-	0:37:48.352000	0:37:48.898000
 .	-	-	-	0:37:48.352000	0:37:48.898000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:48.352000" end="0:37:48.898000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:48.352000" end="0:37:48.898000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:37:48.352000	0:37:48.898000
 .	-	-	-	0:37:48.352000	0:37:48.898000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:48.898000" end="0:37:56.045000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:48.898000" end="0:37:56.045000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 nein	nein	PART	-	0:37:50.898000	0:37:53.612000
 ,	-	-	-	0:37:50.898000	0:37:53.612000
@@ -10096,20 +10096,20 @@ vorstellen	vorstellen	VERB	-	0:37:54.165000	0:37:55.738000
 da	da	ADV	-	0:37:55.738000	0:37:56.045000
 weg	weg	ADV	-	0:37:55.738000	0:37:56.045000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:55.738000" end="0:37:56.045000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:55.738000" end="0:37:56.045000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:37:55.738000	0:37:56.045000
 .	-	-	-	0:37:55.738000	0:37:56.045000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:56.045000" end="0:37:56.765000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:56.045000" end="0:37:56.765000" age_lower="18" age_upper="35">
 zu	zu	PART	-	0:37:56.045000	0:37:56.765000
 ziehen	ziehen	VERB	-	0:37:56.045000	0:37:56.765000
 .	-	-	-	0:37:56.045000	0:37:56.765000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:56.765000" end="0:37:57.345000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:56.765000" end="0:37:57.345000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:37:56.765000	0:37:57.345000
 .	-	-	-	0:37:56.765000	0:37:57.345000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:57.345000" end="0:38:03.005000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:57.345000" end="0:38:03.005000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:37:57.345000	0:37:59.138000
 sag	sag	PROPN	-	0:37:57.345000	0:37:59.138000
 niemals	niemals	ADV	-	0:37:57.345000	0:37:59.138000
@@ -10120,7 +10120,7 @@ aber	aber	ADV	-	0:37:57.345000	0:37:59.138000
 *mogst*	-	-	-	0:37:59.138000	0:38:03.005000
 /?	-	-	-	0:37:59.138000	0:38:03.005000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:59.138000" end="0:38:05.112000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:37:59.138000" end="0:38:05.112000" age_lower="18" age_upper="35">
 <pause duration="3,5s"/>
 ja	-	-	-	0:37:59.138000	0:38:03.005000
 ,	-	-	-	0:37:59.138000	0:38:03.005000
@@ -10134,31 +10134,31 @@ weil	-	-	-	0:38:03.005000	0:38:05.112000
 es	-	-	-	0:38:03.005000	0:38:05.112000
 ist	-	-	-	0:38:03.005000	0:38:05.112000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:05.112000" end="0:38:06.452000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:05.112000" end="0:38:06.452000" age_lower="18" age_upper="35">
 "Rede	rede	NOUN	-	0:38:05.112000	0:38:06.452000
 über	über	ADP	-	0:38:05.112000	0:38:06.452000
 dein	mein	DET	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:38:05.112000	0:38:06.452000
 Lieblings=	Lieblingsbuch	NOUN	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:38:05.112000	0:38:06.452000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:05.112000" end="0:38:06.452000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:05.112000" end="0:38:06.452000" age_lower="18" age_upper="35">
 schon	-	-	-	0:38:05.112000	0:38:06.452000
 wieder	-	-	-	0:38:05.112000	0:38:06.452000
 /.	-	-	-	0:38:05.112000	0:38:06.452000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:06.452000" end="0:38:07.718000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:06.452000" end="0:38:07.718000" age_lower="18" age_upper="35">
 buch	-	SPACE	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:38:06.452000	0:38:07.718000
 ,	-	-	-	0:38:06.452000	0:38:07.718000
 Zeitung"	Zeitung	NOUN	-	0:38:06.452000	0:38:07.718000
 .	-	-	-	0:38:06.452000	0:38:07.718000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:07.718000" end="0:38:08.898000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:07.718000" end="0:38:08.898000" age_lower="18" age_upper="35">
 schon	-	-	-	0:38:07.718000	0:38:08.898000
 wieder	-	-	-	0:38:07.718000	0:38:08.898000
 ein	-	-	-	0:38:07.718000	0:38:08.898000
 Buch	-	-	-	0:38:07.718000	0:38:08.898000
 .	-	-	-	0:38:07.718000	0:38:08.898000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:08.898000" end="0:38:11.732000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:08.898000" end="0:38:11.732000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:08.898000	0:38:09.452000
 .	-	-	-	0:38:08.898000	0:38:09.452000
 <pause duration="1,0s"/>
@@ -10168,7 +10168,7 @@ schon	schon	ADV	-	0:38:09.452000	0:38:11.732000
 gehabt	haben	AUX	-	0:38:09.452000	0:38:11.732000
 .	-	-	-	0:38:09.452000	0:38:11.732000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:09.452000" end="0:38:17.218000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:09.452000" end="0:38:17.218000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 da	da	ADV	-	0:38:09.452000	0:38:11.732000
 muss	muss	VERB	-	0:38:09.452000	0:38:11.732000
@@ -10188,11 +10188,11 @@ was	was	PRON	-	0:38:15.812000	0:38:17.218000
 Anderes	ander	PRON	-	0:38:15.812000	0:38:17.218000
 /?	-	-	-	0:38:15.812000	0:38:17.218000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:17.218000" end="0:38:17.972000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:17.218000" end="0:38:17.972000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:17.218000	0:38:17.972000
 .	-	-	-	0:38:17.218000	0:38:17.972000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:17.972000" end="0:38:46.618000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:17.972000" end="0:38:46.618000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 also	also	ADV	-	0:38:17.972000	0:38:23.205000
 Zeitung	Zeitung	NOUN	-	0:38:17.972000	0:38:23.205000
@@ -10284,7 +10284,7 @@ freuen	freuen	VERB	-	0:38:44.858000	0:38:46.618000
 gell	gell	ADJ	-	0:38:44.858000	0:38:46.618000
 ?	-	-	-	0:38:44.858000	0:38:46.618000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:46.618000" end="0:38:48.358000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:46.618000" end="0:38:48.358000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:46.618000	0:38:48.358000
 ,	-	-	-	0:38:46.618000	0:38:48.358000
 die	der	PRON	-	0:38:46.618000	0:38:48.358000
@@ -10292,7 +10292,7 @@ kenne	kennen	VERB	-	0:38:46.618000	0:38:48.358000
 ich	ich	PRON	-	0:38:46.618000	0:38:48.358000
 .	-	-	-	0:38:46.618000	0:38:48.358000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:48.358000" end="0:39:00.265000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:38:48.358000" end="0:39:00.265000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:38:48.358000	0:38:48.878000
 ?	-	-	-	0:38:48.358000	0:38:48.878000
 <pause duration="0,8s"/>
@@ -10336,11 +10336,11 @@ Verhörsendung	Verhörsendung	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp s
 hat	haben	AUX	-	0:38:55.938000	0:39:00.265000
 er	ich	PRON	-	0:38:55.938000	0:39:00.265000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:00.265000" end="0:39:00.812000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:00.265000" end="0:39:00.812000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:39:00.265000	0:39:00.812000
 .	-	-	-	0:39:00.265000	0:39:00.812000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:00.265000" end="0:39:10.152000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:00.265000" end="0:39:10.152000" age_lower="18" age_upper="35">
 sie	ich	PRON	-	0:39:00.265000	0:39:00.812000
 genannt	nennen	VERB	-	0:39:00.265000	0:39:00.812000
 ,	-	-	-	0:39:00.265000	0:39:00.812000
@@ -10383,13 +10383,13 @@ so	so	ADV	-	0:39:08.012000	0:39:10.152000
 ,	-	-	-	0:39:08.012000	0:39:10.152000
 oder	oder	CCONJ	-	0:39:08.012000	0:39:10.152000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:10.152000" end="0:39:11.358000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:10.152000" end="0:39:11.358000" age_lower="18" age_upper="35">
 _buff_	buff	PROPN	-	0:39:10.152000	0:39:11.358000
 ,	-	-	-	0:39:10.152000	0:39:11.358000
 ja	ja	PART	-	0:39:10.152000	0:39:11.358000
 .	-	-	-	0:39:10.152000	0:39:11.358000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:10.152000" end="0:39:57.018000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:10.152000" end="0:39:57.018000" age_lower="18" age_upper="35">
 Chefredakteur	Chefredakteur	NOUN	-	0:39:10.152000	0:39:11.358000
 oder	oder	CCONJ	-	0:39:10.152000	0:39:11.358000
 weiß	weiß	VERB	-	0:39:10.152000	0:39:11.358000
@@ -10527,21 +10527,21 @@ der	der	DET	-	0:39:45.425000	0:39:57.018000
 Tagesaktu(())alität	Tagesaktu()alität	NOUN	-	0:39:45.425000	0:39:57.018000
 ähm	ähm	ADJ	-	0:39:45.425000	0:39:57.018000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:57.018000" end="0:39:57.505000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:57.018000" end="0:39:57.505000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:39:57.018000	0:39:57.505000
 .	-	-	-	0:39:57.018000	0:39:57.505000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:57.018000" end="0:39:58.085000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:57.018000" end="0:39:58.085000" age_lower="18" age_upper="35">
 gerecht	gerecht	ADJ	-	0:39:57.018000	0:39:57.505000
 werden	werden	AUX	-	0:39:57.505000	0:39:58.085000
 muss	muss	VERB	-	0:39:57.505000	0:39:58.085000
 .	-	-	-	0:39:57.505000	0:39:58.085000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:58.085000" end="0:39:58.452000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:58.085000" end="0:39:58.452000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:39:58.085000	0:39:58.452000
 .	-	-	-	0:39:58.085000	0:39:58.452000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:58.452000" end="0:40:16.105000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:39:58.452000" end="0:40:16.105000" age_lower="18" age_upper="35">
 weil	-	-	-	0:39:58.452000	0:40:03.260000
 <pause duration="1,0s"/>
 *siehst*	-	-	-	0:39:58.452000	0:40:03.260000
@@ -10602,13 +10602,13 @@ genauer	genau	ADJ	-	0:40:13.018000	0:40:16.105000
 dieses/	-	-	-	0:40:13.018000	0:40:16.105000
 /.	-	-	-	0:40:13.018000	0:40:16.105000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:16.105000" end="0:40:17.185000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:16.105000" end="0:40:17.185000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 das	der	PRON	-	0:40:16.105000	0:40:17.185000
 stimmt	stimmen	VERB	-	0:40:16.105000	0:40:17.185000
 .	-	-	-	0:40:16.105000	0:40:17.185000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:17.185000" end="0:40:22.732000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:17.185000" end="0:40:22.732000" age_lower="18" age_upper="35">
 und	-	-	-	0:40:17.185000	0:40:19.892000
 das	-	-	-	0:40:17.185000	0:40:19.892000
 ähm	-	-	-	0:40:17.185000	0:40:19.892000
@@ -10632,11 +10632,11 @@ mir	sich	PRON	-	0:40:19.892000	0:40:22.732000
 vor	vor	ADP	-	0:40:19.892000	0:40:22.732000
 .	-	-	-	0:40:19.892000	0:40:22.732000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:22.732000" end="0:40:23.458000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:22.732000" end="0:40:23.458000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:22.732000	0:40:23.458000
 .	-	-	-	0:40:22.732000	0:40:23.458000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:23.458000" end="0:40:27.038000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:23.458000" end="0:40:27.038000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:40:23.458000	0:40:26.305000
 der/	-	-	-	0:40:23.458000	0:40:26.305000
 und	und	CCONJ	-	0:40:23.458000	0:40:26.305000
@@ -10654,7 +10654,7 @@ ich	ich	PRON	-	0:40:26.305000	0:40:27.038000
 sagen	sagen	VERB	-	0:40:26.305000	0:40:27.038000
 .	-	-	-	0:40:26.305000	0:40:27.038000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:27.038000" end="0:40:28.472000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:27.038000" end="0:40:28.472000" age_lower="18" age_upper="35">
 *holst*	-	-	-	0:40:27.038000	0:40:28.472000
 dir	-	-	-	0:40:27.038000	0:40:28.472000
 das	-	-	-	0:40:27.038000	0:40:28.472000
@@ -10662,13 +10662,13 @@ jede	-	-	-	0:40:27.038000	0:40:28.472000
 Woche	-	-	-	0:40:27.038000	0:40:28.472000
 ?	-	-	-	0:40:27.038000	0:40:28.472000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:28.472000" end="0:40:29.572000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:28.472000" end="0:40:29.572000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:40:28.472000	0:40:29.572000
 ,	-	-	-	0:40:28.472000	0:40:29.572000
 nein	nein	PART	-	0:40:28.472000	0:40:29.572000
 .	-	-	-	0:40:28.472000	0:40:29.572000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:29.572000" end="0:40:31.572000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:29.572000" end="0:40:31.572000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 nur	nur	ADV	-	0:40:29.572000	0:40:31.572000
 ,	-	-	-	0:40:29.572000	0:40:31.572000
@@ -10681,7 +10681,7 @@ Sinn	Sinn	NOUN	-	0:40:29.572000	0:40:31.572000
 kommt	kommen	VERB	-	0:40:29.572000	0:40:31.572000
 ?	-	-	-	0:40:29.572000	0:40:31.572000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:31.572000" end="0:40:36.065000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:31.572000" end="0:40:36.065000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:40:31.572000	0:40:32.565000
 ist	sein	AUX	-	0:40:31.572000	0:40:32.565000
 es	ich	PRON	-	0:40:31.572000	0:40:32.565000
@@ -10695,11 +10695,11 @@ Trafik	-	-	-	0:40:32.565000	0:40:35.685000
 ,	-	-	-	0:40:32.565000	0:40:35.685000
 in	in	ADP	-	0:40:35.685000	0:40:36.065000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:36.065000" end="0:40:36.558000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:36.065000" end="0:40:36.558000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:40:36.065000	0:40:36.558000
 .	-	-	-	0:40:36.065000	0:40:36.558000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:36.065000" end="0:40:43.912000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:36.065000" end="0:40:43.912000" age_lower="18" age_upper="35">
 ORT	ORT	PROPN	-	0:40:36.065000	0:40:36.558000
 ,	-	-	-	0:40:36.065000	0:40:36.558000
 ja	ja	PART	-	0:40:36.558000	0:40:36.985000
@@ -10723,7 +10723,7 @@ objektiv	objektiv	ADJ	-	0:40:41.098000	0:40:43.912000
 sein	mein	AUX	-	0:40:41.098000	0:40:43.912000
 .	-	-	-	0:40:41.098000	0:40:43.912000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:43.912000" end="0:40:45.392000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:43.912000" end="0:40:45.392000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	ja	PART	-	0:40:43.912000	0:40:45.392000
 ,	-	-	-	0:40:43.912000	0:40:45.392000
@@ -10731,7 +10731,7 @@ ich	ich	PRON	-	0:40:43.912000	0:40:45.392000
 weiß	weiß	VERB	-	0:40:43.912000	0:40:45.392000
 .	-	-	-	0:40:43.912000	0:40:45.392000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:43.912000" end="0:40:51.125000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:43.912000" end="0:40:51.125000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 gell	gell	ADJ	-	0:40:43.912000	0:40:45.392000
 ,	-	-	-	0:40:43.912000	0:40:45.392000
@@ -10763,7 +10763,7 @@ wie	-	-	-	0:40:50.252000	0:40:51.125000
 denn	-	-	-	0:40:50.252000	0:40:51.125000
 /.	-	-	-	0:40:50.252000	0:40:51.125000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:51.125000" end="0:40:52.658000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:51.125000" end="0:40:52.658000" age_lower="18" age_upper="35">
 wir	ich	PRON	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:40:51.125000	0:40:52.658000
 haben	haben	AUX	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:40:51.125000	0:40:52.658000
 keine	kein	DET	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:40:51.125000	0:40:52.658000
@@ -10771,7 +10771,7 @@ freie	freie	ADJ	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irr
 Presse	Presse	NOUN	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:40:51.125000	0:40:52.658000
 .	-	-	-	0:40:51.125000	0:40:52.658000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:52.658000" end="0:40:54.658000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:52.658000" end="0:40:54.658000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:40:52.658000	0:40:54.658000
 ,	-	-	-	0:40:52.658000	0:40:54.658000
 und	und	CCONJ	-	0:40:52.658000	0:40:54.658000
@@ -10785,11 +10785,11 @@ gar	gar	ADV	-	0:40:52.658000	0:40:54.658000
 nicht	nicht	PART	-	0:40:52.658000	0:40:54.658000
 ,	-	-	-	0:40:52.658000	0:40:54.658000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:54.658000" end="0:40:55.045000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:54.658000" end="0:40:55.045000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:40:54.658000	0:40:55.045000
 .	-	-	-	0:40:54.658000	0:40:55.045000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:54.658000" end="0:41:25.332000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:40:54.658000" end="0:41:25.332000" age_lower="18" age_upper="35">
 jed=	jedder	NOUN	-	0:40:54.658000	0:40:55.045000
 der	-	SPACE	-	0:40:55.045000	0:40:56.358000
 der	der	PRON	-	0:40:55.045000	0:40:56.358000
@@ -10901,31 +10901,31 @@ finde	finden	VERB	-	0:41:22.992000	0:41:25.332000
 ich	ich	PRON	-	0:41:22.992000	0:41:25.332000
 .	-	-	-	0:41:22.992000	0:41:25.332000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:25.332000" end="0:41:25.912000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:25.332000" end="0:41:25.912000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:41:25.332000	0:41:25.912000
 .	-	-	-	0:41:25.332000	0:41:25.912000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:25.912000" end="0:41:27.345000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:25.912000" end="0:41:27.345000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 so	so	ADV	-	0:41:25.912000	0:41:27.345000
 ,	-	-	-	0:41:25.912000	0:41:27.345000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:27.345000" end="0:41:27.925000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:27.345000" end="0:41:27.925000" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:41:27.345000	0:41:27.925000
 .	-	-	-	0:41:27.345000	0:41:27.925000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:27.345000" end="0:41:27.925000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:27.345000" end="0:41:27.925000" age_lower="18" age_upper="35">
 Frage	Frage	NOUN	-	0:41:27.345000	0:41:27.925000
 .	-	-	-	0:41:27.345000	0:41:27.925000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:27.925000" end="0:41:29.478000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:27.925000" end="0:41:29.478000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 Grün	Grün	ADJ	-	0:41:27.925000	0:41:29.478000
 ,	-	-	-	0:41:27.925000	0:41:29.478000
 oder	oder	CCONJ	-	0:41:27.925000	0:41:29.478000
 ?	-	-	-	0:41:27.925000	0:41:29.478000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:29.478000" end="0:41:31.478000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:29.478000" end="0:41:31.478000" age_lower="18" age_upper="35">
 nehmen	nehmen	VERB	-	0:41:29.478000	0:41:31.478000
 wir	ich	PRON	-	0:41:29.478000	0:41:31.478000
 Grün	grün	ADJ	-	0:41:29.478000	0:41:31.478000
@@ -10939,12 +10939,12 @@ zwei	-	-	-	0:41:29.478000	0:41:31.478000
 gell	gell	ADJ	-	0:41:29.478000	0:41:31.478000
 ?	-	-	-	0:41:29.478000	0:41:31.478000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:31.478000" end="0:41:32.632000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:31.478000" end="0:41:32.632000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:41:31.478000	0:41:32.632000
 .	-	-	-	0:41:31.478000	0:41:32.632000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:31.478000" end="0:41:35.325000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:31.478000" end="0:41:35.325000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 "Erzähle	erzählen	NOUN	-	0:41:31.478000	0:41:32.632000
 von	von	ADP	-	0:41:32.632000	0:41:35.325000
@@ -10952,12 +10952,12 @@ Dorf(())fest(())e	Dorf()fest(())e	NOUN	-	0:41:32.632000	0:41:35.325000
 früher"	früh	ADJ	-	0:41:32.632000	0:41:35.325000
 .	-	-	-	0:41:32.632000	0:41:35.325000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:35.325000" end="0:41:37.065000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:35.325000" end="0:41:37.065000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:41:35.325000	0:41:37.065000
 .	-	-	-	0:41:35.325000	0:41:37.065000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:37.065000" end="0:41:38.378000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:37.065000" end="0:41:38.378000" age_lower="18" age_upper="35">
 w/	-	-	-	0:41:37.065000	0:41:38.378000
 was	was	PRON	-	0:41:37.065000	0:41:38.378000
 heißt	heißen	VERB	-	0:41:37.065000	0:41:38.378000
@@ -10966,23 +10966,23 @@ früher	früh	ADJ	-	0:41:37.065000	0:41:38.378000
 v/	-	-	-	0:41:37.065000	0:41:38.378000
 v/	-	-	-	0:41:37.065000	0:41:38.378000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:38.378000" end="0:41:38.892000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:38.378000" end="0:41:38.892000" age_lower="18" age_upper="35">
 _enter_	-	-	-	0:41:38.378000	0:41:38.892000
 .	-	-	-	0:41:38.378000	0:41:38.892000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:38.892000" end="0:41:40.265000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:38.892000" end="0:41:40.265000" age_lower="18" age_upper="35">
 vor	vor	ADP	-	0:41:38.892000	0:41:40.265000
 unserer	mein	DET	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:41:38.892000	0:41:40.265000
 Geburt	Geburt	NOUN	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:41:38.892000	0:41:40.265000
 (ja)	ja	ADV	-	0:41:38.892000	0:41:40.265000
 ?	-	-	-	0:41:38.892000	0:41:40.265000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:40.266000" end="0:41:41.933000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:40.266000" end="0:41:41.933000" age_lower="18" age_upper="35">
 <pause duration="seufzen"/>
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:40.266000" end="0:41:41.933000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:40.266000" end="0:41:41.933000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:41.933000" end="0:41:57.618000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:41.933000" end="0:41:57.618000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 das	-	-	-	0:41:41.933000	0:41:44.518000
 weiß	-	-	-	0:41:41.933000	0:41:44.518000
@@ -11043,11 +11043,11 @@ und	und	CCONJ	-	0:41:57.058000	0:41:57.618000
 einen	ein	DET	-	0:41:57.058000	0:41:57.618000
 Kirch=	Kirchtag	NOUN	-	0:41:57.058000	0:41:57.618000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:57.058000" end="0:41:57.618000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:57.058000" end="0:41:57.618000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:41:57.058000	0:41:57.618000
 .	-	-	-	0:41:57.058000	0:41:57.618000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:57.618000" end="0:42:00.732000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:41:57.618000" end="0:42:00.732000" age_lower="18" age_upper="35">
 tag	-	SPACE	-	0:41:57.618000	0:41:59.685000
 und	und	CCONJ	-	0:41:57.618000	0:41:59.685000
 <pause duration="0,5s"/>
@@ -11062,11 +11062,11 @@ mir	sich	PRON	-	0:41:59.685000	0:42:00.732000
 erzählt	erzählen	VERB	-	0:41:59.685000	0:42:00.732000
 ,	-	-	-	0:41:59.685000	0:42:00.732000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:00.732000" end="0:42:01.165000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:00.732000" end="0:42:01.165000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:00.732000	0:42:01.165000
 .	-	-	-	0:42:00.732000	0:42:01.165000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:01.165000" end="0:42:09.012000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:01.165000" end="0:42:09.012000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:42:01.165000	0:42:03.318000
 haben	haben	AUX	-	0:42:01.165000	0:42:03.318000
 sie	ich	PRON	-	0:42:01.165000	0:42:03.318000
@@ -11096,7 +11096,7 @@ Frühe	Frühe	NOUN	-	0:42:07.012000	0:42:09.012000
 gegangen	gehen	VERB	-	0:42:07.012000	0:42:09.012000
 .	-	-	-	0:42:07.012000	0:42:09.012000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:09.012000" end="0:42:09.932000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:09.012000" end="0:42:09.932000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 so	so	ADV	-	0:42:09.012000	0:42:09.932000
 ist	sein	AUX	-	0:42:09.012000	0:42:09.932000
@@ -11105,7 +11105,7 @@ es	ich	PRON	-	0:42:09.012000	0:42:09.932000
 ja	ja	PART	-	0:42:09.012000	0:42:09.932000
 .	-	-	-	0:42:09.012000	0:42:09.932000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:09.932000" end="0:42:13.345000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:09.932000" end="0:42:13.345000" age_lower="18" age_upper="35">
 und	-	-	-	0:42:09.932000	0:42:12.765000
 da	-	-	-	0:42:09.932000	0:42:12.765000
 hat	-	-	-	0:42:09.932000	0:42:12.765000
@@ -11123,11 +11123,11 @@ gegeben	geben	VERB	-	0:42:09.932000	0:42:12.765000
 ,	-	-	-	0:42:09.932000	0:42:12.765000
 und	und	CCONJ	-	0:42:12.765000	0:42:13.345000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:12.765000" end="0:42:13.345000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:12.765000" end="0:42:13.345000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:12.765000	0:42:13.345000
 .	-	-	-	0:42:12.765000	0:42:13.345000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:13.345000" end="0:42:17.492000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:13.345000" end="0:42:17.492000" age_lower="18" age_upper="35">
 auch	einen	DET	-	0:42:13.345000	0:42:14.878000
 Musik	-	-	-	0:42:13.345000	0:42:14.878000
 ,	-	-	-	0:42:13.345000	0:42:14.878000
@@ -11144,11 +11144,11 @@ Freude	Freude	NOUN	-	0:42:16.512000	0:42:17.492000
 gehabt	haben	AUX	-	0:42:16.512000	0:42:17.492000
 .	-	-	-	0:42:16.512000	0:42:17.492000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:17.492000" end="0:42:18.112000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:17.492000" end="0:42:18.112000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:17.492000	0:42:18.112000
 .	-	-	-	0:42:17.492000	0:42:18.112000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:18.112000" end="0:42:20.285000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:18.112000" end="0:42:20.285000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ist	sein	AUX	-	0:42:18.112000	0:42:20.285000
 nicht	nicht	PART	-	0:42:18.112000	0:42:20.285000
@@ -11157,7 +11157,7 @@ wie	wie	CCONJ	-	0:42:18.112000	0:42:20.285000
 heute	heute	ADV	-	0:42:18.112000	0:42:20.285000
 .	-	-	-	0:42:18.112000	0:42:20.285000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:20.285000" end="0:42:24.765000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:20.285000" end="0:42:24.765000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 aber	aber	CCONJ	-	0:42:20.285000	0:42:24.765000
 es	ich	PRON	-	0:42:20.285000	0:42:24.765000
@@ -11177,13 +11177,13 @@ die	der	DET	-	0:42:20.285000	0:42:24.765000
 Richtung	Richtung	NOUN	-	0:42:20.285000	0:42:24.765000
 .	-	-	-	0:42:20.285000	0:42:24.765000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:24.765000" end="0:42:26.765000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:24.765000" end="0:42:26.765000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 zum	zum	ADP	-	0:42:24.765000	0:42:26.765000
 Traditionellen	Traditionelle	NOUN	-	0:42:24.765000	0:42:26.765000
 .	-	-	-	0:42:24.765000	0:42:26.765000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:26.765000" end="0:42:33.892000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:26.765000" end="0:42:33.892000" age_lower="18" age_upper="35">
 weil	-	-	-	0:42:26.765000	0:42:32.092000
 ähm	-	-	-	0:42:26.765000	0:42:32.092000
 <pause duration="1,3s"/>
@@ -11205,11 +11205,11 @@ schon	-	-	-	0:42:32.092000	0:42:33.892000
 _hinter_	-	-	-	0:42:32.092000	0:42:33.892000
 .	-	-	-	0:42:32.092000	0:42:33.892000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:33.892000" end="0:42:34.605000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:33.892000" end="0:42:34.605000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:33.892000	0:42:34.605000
 .	-	-	-	0:42:33.892000	0:42:34.605000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:34.605000" end="0:42:36.972000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:34.605000" end="0:42:36.972000" age_lower="18" age_upper="35">
 tun	tun	VERB	-	0:42:34.605000	0:42:36.525000
 nicht	nicht	PART	-	0:42:34.605000	0:42:36.525000
 mehr	mehr	ADV	-	0:42:34.605000	0:42:36.525000
@@ -11222,21 +11222,21 @@ inszenieren	inszenieren	VERB	-	0:42:34.605000	0:42:36.525000
 sondern	sondern	CCONJ	-	0:42:36.525000	0:42:36.972000
 ein=	einfach	ADV	-	0:42:36.525000	0:42:36.972000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:36.972000" end="0:42:37.405000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:36.972000" end="0:42:37.405000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:36.972000	0:42:37.405000
 .	-	-	-	0:42:36.972000	0:42:37.405000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:36.972000" end="0:42:37.965000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:36.972000" end="0:42:37.965000" age_lower="18" age_upper="35">
 fach	-	SPACE	-	0:42:36.972000	0:42:37.405000
 einen	ein	DET	-	0:42:36.972000	0:42:37.405000
 Tanz	Tanz	NOUN	-	0:42:37.405000	0:42:37.965000
 zu	zu	PART	-	0:42:37.405000	0:42:37.965000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:37.965000" end="0:42:38.885000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:37.965000" end="0:42:38.885000" age_lower="18" age_upper="35">
 traditionell	traditionell	ADJ	-	0:42:37.965000	0:42:38.885000
 ,	-	-	-	0:42:37.965000	0:42:38.885000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:37.965000" end="0:42:39.198000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:37.965000" end="0:42:39.198000" age_lower="18" age_upper="35">
 machen	machen	VERB	-	0:42:37.965000	0:42:38.885000
 ,	-	-	-	0:42:37.965000	0:42:38.885000
 einen	ein	DET	-	0:42:37.965000	0:42:38.885000
@@ -11244,7 +11244,7 @@ Frühschopp=	Frühschoppen	NOUN	-	0:42:37.965000	0:42:38.885000
 en	-	SPACE	-	0:42:38.885000	0:42:39.198000
 ,	-	-	-	0:42:38.885000	0:42:39.198000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:39.198000" end="0:42:41.232000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:39.198000" end="0:42:41.232000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:39.198000	0:42:39.618000
 .	-	-	-	0:42:39.198000	0:42:39.618000
 ich	ich	PRON	-	0:42:39.618000	0:42:41.232000
@@ -11254,7 +11254,7 @@ auch	auch	ADV	-	0:42:39.618000	0:42:41.232000
 gut	gut	ADJ	-	0:42:39.618000	0:42:41.232000
 .	-	-	-	0:42:39.618000	0:42:41.232000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:39.618000" end="0:42:52.452000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:39.618000" end="0:42:52.452000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:42:39.618000	0:42:41.232000
 ähm	ähm	ADJ	-	0:42:39.618000	0:42:41.232000
 und	und	CCONJ	-	0:42:39.618000	0:42:41.232000
@@ -11299,7 +11299,7 @@ wirklich	wirklich	ADJ	-	0:42:48.978000	0:42:52.452000
 gell	gell	ADJ	-	0:42:48.978000	0:42:52.452000
 ?	-	-	-	0:42:48.978000	0:42:52.452000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:52.452000" end="0:42:55.238000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:52.452000" end="0:42:55.238000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:52.452000	0:42:54.552000
 ,	-	-	-	0:42:52.452000	0:42:54.552000
 du	du	PRON	-	0:42:52.452000	0:42:54.552000
@@ -11315,7 +11315,7 @@ arbeiten	arbeiten	VERB	-	0:42:52.452000	0:42:54.552000
 und/	-	-	-	0:42:54.552000	0:42:55.238000
 .	-	-	-	0:42:54.552000	0:42:55.238000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:54.552000" end="0:42:59.598000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:54.552000" end="0:42:59.598000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:42:54.552000	0:42:55.238000
 .	-	-	-	0:42:54.552000	0:42:55.238000
 aber	aber	CCONJ	-	0:42:55.238000	0:42:57.238000
@@ -11337,11 +11337,11 @@ aufgebaut	aufbauen	VERB	-	0:42:57.238000	0:42:59.598000
 gell	gell	ADJ	-	0:42:57.238000	0:42:59.598000
 ,	-	-	-	0:42:57.238000	0:42:59.598000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:59.598000" end="0:43:00.198000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:59.598000" end="0:43:00.198000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:42:59.598000	0:43:00.198000
 .	-	-	-	0:42:59.598000	0:43:00.198000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:59.598000" end="0:43:15.512000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:42:59.598000" end="0:43:15.512000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:42:59.598000	0:43:00.198000
 ist	sein	AUX	-	0:43:00.198000	0:43:02.198000
 schon	schon	ADV	-	0:43:00.198000	0:43:02.198000
@@ -11410,20 +11410,20 @@ ein	einen	DET	-	0:43:15.132000	0:43:15.512000
 bissel	bissel	NOUN	-	0:43:15.132000	0:43:15.512000
 her=	herrichten	ADJ	-	0:43:15.132000	0:43:15.512000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:15.512000" end="0:43:16.452000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:15.512000" end="0:43:16.452000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:43:15.512000	0:43:16.452000
 war	sein	AUX	-	0:43:15.512000	0:43:16.452000
 immer	immer	ADV	-	0:43:15.512000	0:43:16.452000
 schwierig	schwierig	ADJ	-	0:43:15.512000	0:43:16.452000
 ,	-	-	-	0:43:15.512000	0:43:16.452000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:15.512000" end="0:43:16.452000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:15.512000" end="0:43:16.452000" age_lower="18" age_upper="35">
 zurichten	-	SPACE	-	0:43:15.512000	0:43:16.452000
 ,	-	-	-	0:43:15.512000	0:43:16.452000
 gell	gell	ADJ	-	0:43:15.512000	0:43:16.452000
 ?	-	-	-	0:43:15.512000	0:43:16.452000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:16.452000" end="0:43:18.005000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:16.452000" end="0:43:18.005000" age_lower="18" age_upper="35">
 auch	auch	ADV	-	0:43:16.452000	0:43:18.005000
 die	der	DET	-	0:43:16.452000	0:43:18.005000
 Leute	Leute	NOUN	-	0:43:16.452000	0:43:18.005000
@@ -11432,24 +11432,24 @@ finden	finden	VERB	-	0:43:16.452000	0:43:18.005000
 ,	-	-	-	0:43:16.452000	0:43:18.005000
 aber	aber	CCONJ	-	0:43:16.452000	0:43:18.005000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:18.005000" end="0:43:18.632000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:18.005000" end="0:43:18.632000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:18.005000	0:43:18.632000
 .	-	-	-	0:43:18.005000	0:43:18.632000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:18.632000" end="0:43:20.145000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:18.632000" end="0:43:20.145000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 aber	aber	CCONJ	-	0:43:18.632000	0:43:20.145000
 es	ich	PRON	-	0:43:18.632000	0:43:20.145000
 ist	sein	AUX	-	0:43:18.632000	0:43:20.145000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:20.145000" end="0:43:20.732000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:20.145000" end="0:43:20.732000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:43:20.145000	0:43:20.732000
 meine	meinen	VERB	-	0:43:20.145000	0:43:20.732000
 bei	bei	ADP	-	0:43:20.145000	0:43:20.732000
 uns	sich	PRON	-	0:43:20.145000	0:43:20.732000
 /,	-	-	-	0:43:20.145000	0:43:20.732000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:20.732000" end="0:43:22.672000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:20.732000" end="0:43:22.672000" age_lower="18" age_upper="35">
 ein	einen	DET	-	0:43:20.732000	0:43:21.938000
 gutes	gutes	ADJ	-	0:43:20.732000	0:43:21.938000
 Fest	Fest	NOUN	-	0:43:20.732000	0:43:21.938000
@@ -11460,7 +11460,7 @@ und	und	CCONJ	-	0:43:21.938000	0:43:22.672000
 das	der	PRON	-	0:43:21.938000	0:43:22.672000
 (soll)	soll	VERB	-	0:43:21.938000	0:43:22.672000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:21.938000" end="0:43:26.032000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:21.938000" end="0:43:26.032000" age_lower="18" age_upper="35">
 i/	-	-	-	0:43:21.938000	0:43:22.672000
 im	im	ADP	-	0:43:21.938000	0:43:22.672000
 Zwangsfalle	Zwangsfalle	NOUN	-	0:43:22.672000	0:43:26.032000
@@ -11473,11 +11473,11 @@ relativ	relativ	ADJ	-	0:43:22.672000	0:43:26.032000
 stressbefreit	stressbefreit	ADJ	-	0:43:22.672000	0:43:26.032000
 ,	-	-	-	0:43:22.672000	0:43:26.032000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:26.032000" end="0:43:26.472000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:26.032000" end="0:43:26.472000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:43:26.032000	0:43:26.472000
 .	-	-	-	0:43:26.032000	0:43:26.472000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:26.472000" end="0:43:29.992000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:26.472000" end="0:43:29.992000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:43:26.472000	0:43:28.472000
 haben	haben	AUX	-	0:43:26.472000	0:43:28.472000
 sich	sich	PRON	-	0:43:26.472000	0:43:28.472000
@@ -11492,17 +11492,17 @@ der	der	DET	-	0:43:28.472000	0:43:29.992000
 Musik	Musik	NOUN	-	0:43:28.472000	0:43:29.992000
 .	-	-	-	0:43:28.472000	0:43:29.992000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:29.992000" end="0:43:30.292000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:29.992000" end="0:43:30.292000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:29.992000	0:43:30.292000
 .	-	-	-	0:43:29.992000	0:43:30.292000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:30.292000" end="0:43:30.845000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:30.292000" end="0:43:30.845000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:43:30.292000	0:43:30.845000
 so	so	ADV	-	0:43:30.292000	0:43:30.845000
 ist	-	-	-	0:43:30.292000	0:43:30.845000
 /.	-	-	-	0:43:30.292000	0:43:30.845000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:30.845000" end="0:43:33.185000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:30.845000" end="0:43:33.185000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:43:30.845000	0:43:32.771000
 das	der	PRON	-	0:43:30.845000	0:43:32.771000
 ist	sein	AUX	-	0:43:30.845000	0:43:32.771000
@@ -11513,22 +11513,22 @@ regt	regen	VERB	-	0:43:32.771000	0:43:33.185000
 sich	sich	PRON	-	0:43:32.771000	0:43:33.185000
 auf	auf	ADP	-	0:43:32.771000	0:43:33.185000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:32.771000" end="0:43:33.185000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:32.771000" end="0:43:33.185000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:32.771000	0:43:33.185000
 .	-	-	-	0:43:32.771000	0:43:33.185000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:33.185000" end="0:43:34.198000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:33.185000" end="0:43:34.198000" age_lower="18" age_upper="35">
 zwecks	zwecks	ADP	-	0:43:33.185000	0:43:33.758000
 der	der	DET	-	0:43:33.185000	0:43:33.758000
 Mu=	Musik	NOUN	-	0:43:33.185000	0:43:33.758000
 sik	-	SPACE	-	0:43:33.758000	0:43:34.198000
 .	-	-	-	0:43:33.758000	0:43:34.198000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:33.758000" end="0:43:34.198000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:33.758000" end="0:43:34.198000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:33.758000	0:43:34.198000
 .	-	-	-	0:43:33.758000	0:43:34.198000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:34.198000" end="0:43:39.918000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:34.198000" end="0:43:39.918000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 hat	haben	AUX	-	0:43:34.198000	0:43:36.651000
 dir	sich	PRON	-	0:43:34.198000	0:43:36.651000
@@ -11553,11 +11553,11 @@ also	-	-	-	0:43:38.511000	0:43:39.451000
 schwierig	-	-	-	0:43:39.451000	0:43:39.918000
 ,	-	-	-	0:43:39.451000	0:43:39.918000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:39.451000" end="0:43:39.918000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:39.451000" end="0:43:39.918000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:43:39.451000	0:43:39.918000
 .	-	-	-	0:43:39.451000	0:43:39.918000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:39.918000" end="0:43:41.518000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:39.918000" end="0:43:41.518000" age_lower="18" age_upper="35">
 Leute	Leute	NOUN	-	0:43:39.918000	0:43:40.631000
 finden	finden	VERB	-	0:43:39.918000	0:43:40.631000
 ,	-	-	-	0:43:39.918000	0:43:40.631000
@@ -11567,7 +11567,7 @@ ich	ich	PRON	-	0:43:40.631000	0:43:41.518000
 schon	schon	ADV	-	0:43:40.631000	0:43:41.518000
 .	-	-	-	0:43:40.631000	0:43:41.518000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:40.631000" end="0:44:07.578000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:43:40.631000" end="0:44:07.578000" age_lower="18" age_upper="35">
 nein	na	INTJ	-	0:43:40.631000	0:43:41.518000
 ,	-	-	-	0:43:40.631000	0:43:41.518000
 eh	eh	X	-	0:43:40.631000	0:43:41.518000
@@ -11670,11 +11670,11 @@ das	der	PRON	-	0:44:06.638000	0:44:07.578000
 noch	noch	ADV	-	0:44:06.638000	0:44:07.578000
 ,	-	-	-	0:44:06.638000	0:44:07.578000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:07.578000" end="0:44:07.891000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:07.578000" end="0:44:07.891000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:07.578000	0:44:07.891000
 .	-	-	-	0:44:07.578000	0:44:07.891000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:07.578000" end="0:44:12.491000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:07.578000" end="0:44:12.491000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:44:07.578000	0:44:07.891000
 ?	-	-	-	0:44:07.578000	0:44:07.891000
 <pause duration="1,4s"/>
@@ -11694,15 +11694,15 @@ Fälscherei	Feilscherei	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe+ sp
 ist	sein	AUX	-	0:44:10.651000	0:44:12.491000
 ,	-	-	-	0:44:10.651000	0:44:12.491000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:12.491000" end="0:44:12.958000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:12.491000" end="0:44:12.958000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:12.491000	0:44:12.958000
 .	-	-	-	0:44:12.491000	0:44:12.958000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:12.491000" end="0:44:12.958000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:12.491000" end="0:44:12.958000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:44:12.491000	0:44:12.958000
 .	-	-	-	0:44:12.491000	0:44:12.958000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:12.958000" end="0:44:15.778000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:12.958000" end="0:44:15.778000" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 immer	immer	ADV	-	0:44:12.958000	0:44:15.778000
 die	der	DET	-	0:44:12.958000	0:44:15.778000
@@ -11710,7 +11710,7 @@ gleichen	gleich	ADJ	-	0:44:12.958000	0:44:15.778000
 und	und	CCONJ	-	0:44:12.958000	0:44:15.778000
 /.	-	-	-	0:44:12.958000	0:44:15.778000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:15.778000" end="0:44:18.598000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:15.778000" end="0:44:18.598000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:15.778000	0:44:17.118000
 ,	-	-	-	0:44:15.778000	0:44:17.118000
 weil	weil	SCONJ	-	0:44:15.778000	0:44:17.118000
@@ -11726,11 +11726,11 @@ vo/	-	-	-	0:44:17.118000	0:44:18.598000
 von	von	ADP	-	0:44:17.118000	0:44:18.598000
 jedem	jed	DET	-	0:44:17.118000	0:44:18.598000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:18.598000" end="0:44:19.145000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:18.598000" end="0:44:19.145000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:18.598000	0:44:19.145000
 .	-	-	-	0:44:18.598000	0:44:19.145000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:18.598000" end="0:44:21.651000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:18.598000" end="0:44:21.651000" age_lower="18" age_upper="35">
 Verein	Verein	NOUN	-	0:44:18.598000	0:44:19.145000
 zu	zu	PART	-	0:44:18.598000	0:44:19.145000
 stellen	stellen	VERB	-	0:44:19.145000	0:44:19.651000
@@ -11747,18 +11747,18 @@ herum	herum	ADP	-	0:44:19.651000	0:44:21.651000
 ja	ja	PART	-	0:44:19.651000	0:44:21.651000
 .	-	-	-	0:44:19.651000	0:44:21.651000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:21.651000" end="0:44:23.038000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:21.651000" end="0:44:23.038000" age_lower="18" age_upper="35">
 mhm	mhm	X	-	0:44:21.651000	0:44:23.038000
 ,	-	-	-	0:44:21.651000	0:44:23.038000
 das	der	PRON	-	0:44:21.651000	0:44:23.038000
 stimmt	stimmen	VERB	-	0:44:21.651000	0:44:23.038000
 .	-	-	-	0:44:21.651000	0:44:23.038000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:23.038000" end="0:44:23.418000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:23.038000" end="0:44:23.418000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:44:23.038000	0:44:23.418000
 .	-	-	-	0:44:23.038000	0:44:23.418000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:23.418000" end="0:44:25.418000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:23.418000" end="0:44:25.418000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 aber	aber	CCONJ	-	0:44:23.418000	0:44:25.418000
 es	ich	PRON	-	0:44:23.418000	0:44:25.418000
@@ -11766,14 +11766,14 @@ ist	sein	AUX	-	0:44:23.418000	0:44:25.418000
 schwierig	schwierig	ADJ	-	0:44:23.418000	0:44:25.418000
 .	-	-	-	0:44:23.418000	0:44:25.418000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:25.418000" end="0:44:27.598000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:25.418000" end="0:44:27.598000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:25.418000	0:44:27.598000
 ,	-	-	-	0:44:25.418000	0:44:27.598000
 <pause duration="1,4s"/>
 scheinbar	scheinbar	ADJ	-	0:44:25.418000	0:44:27.598000
 .	-	-	-	0:44:25.418000	0:44:27.598000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:27.598000" end="0:44:34.051000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:27.598000" end="0:44:34.051000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 aber	-	-	-	0:44:27.598000	0:44:32.305000
 jedenfalls	-	-	-	0:44:27.598000	0:44:32.305000
@@ -11793,11 +11793,11 @@ wer	wer	PRON	-	0:44:32.305000	0:44:33.571000
 das	der	PRON	-	0:44:32.305000	0:44:33.571000
 damals	damals	ADV	-	0:44:33.571000	0:44:34.051000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:33.571000" end="0:44:34.051000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:33.571000" end="0:44:34.051000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:33.571000	0:44:34.051000
 .	-	-	-	0:44:33.571000	0:44:34.051000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:34.051000" end="0:44:43.311000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:34.051000" end="0:44:43.311000" age_lower="18" age_upper="35">
 organisiert	organisieren	VERB	-	0:44:34.051000	0:44:35.058000
 hat	haben	AUX	-	0:44:34.051000	0:44:35.058000
 oder	-	-	-	0:44:34.051000	0:44:35.058000
@@ -11824,7 +11824,7 @@ da	da	ADV	-	0:44:41.858000	0:44:42.705000
 mit	-	-	-	0:44:42.705000	0:44:43.311000
 /.	-	-	-	0:44:42.705000	0:44:43.311000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:42.705000" end="0:44:44.491000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:42.705000" end="0:44:44.491000" age_lower="18" age_upper="35">
 ja	-	-	-	0:44:42.705000	0:44:43.311000
 ,	-	-	-	0:44:42.705000	0:44:43.311000
 ja	-	-	-	0:44:42.705000	0:44:43.311000
@@ -11840,7 +11840,7 @@ man	man	PRON	-	0:44:43.311000	0:44:44.491000
 ja	ja	PART	-	0:44:43.311000	0:44:44.491000
 .	-	-	-	0:44:43.311000	0:44:44.491000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:44.491000" end="0:44:48.911000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:44.491000" end="0:44:48.911000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:44:44.491000	0:44:48.911000
 <pause duration="1,1s"/>
@@ -11855,11 +11855,11 @@ Freude	Freude	NOUN	-	0:44:44.491000	0:44:48.911000
 gehabt	haben	AUX	-	0:44:44.491000	0:44:48.911000
 haben	haben	AUX	-	0:44:44.491000	0:44:48.911000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:48.911000" end="0:44:49.358000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:48.911000" end="0:44:49.358000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:48.911000	0:44:49.358000
 .	-	-	-	0:44:48.911000	0:44:49.358000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:49.358000" end="0:44:51.445000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:49.358000" end="0:44:51.445000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:44:49.358000	0:44:51.445000
 auch	auch	ADV	-	0:44:49.358000	0:44:51.445000
 das	der	DET	-	0:44:49.358000	0:44:51.445000
@@ -11870,11 +11870,11 @@ gewartet	warten	VERB	-	0:44:49.358000	0:44:51.445000
 haben	haben	AUX	-	0:44:49.358000	0:44:51.445000
 .	-	-	-	0:44:49.358000	0:44:51.445000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:51.445000" end="0:44:51.905000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:51.445000" end="0:44:51.905000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:44:51.445000	0:44:51.905000
 .	-	-	-	0:44:51.445000	0:44:51.905000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:51.905000" end="0:44:58.651000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:51.905000" end="0:44:58.651000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 heuer	heuer	ADV	-	0:44:51.905000	0:44:55.531000
 ist	sein	AUX	-	0:44:51.905000	0:44:55.531000
@@ -11893,13 +11893,13 @@ irgendwo	irgendwo	ADV	-	0:44:55.531000	0:44:58.651000
 was	was	PRON	-	0:44:55.531000	0:44:58.651000
 .	-	-	-	0:44:55.531000	0:44:58.651000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:58.651000" end="0:44:59.425000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:58.651000" end="0:44:59.425000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:44:58.651000	0:44:59.425000
 ,	-	-	-	0:44:58.651000	0:44:59.425000
 ja	-	-	-	0:44:58.651000	0:44:59.425000
 .	-	-	-	0:44:58.651000	0:44:59.425000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:59.425000" end="0:45:01.558000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:44:59.425000" end="0:45:01.558000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:44:59.425000	0:45:01.558000
 da	da	ADV	-	0:44:59.425000	0:45:01.558000
 sind	sein	AUX	-	0:44:59.425000	0:45:01.558000
@@ -11912,13 +11912,13 @@ _bissel_	bissel	NOUN	-	0:44:59.425000	0:45:01.558000
 übersättigt	übersättigen	VERB	-	0:44:59.425000	0:45:01.558000
 .	-	-	-	0:44:59.425000	0:45:01.558000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:01.558000" end="0:45:02.618000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:01.558000" end="0:45:02.618000" age_lower="18" age_upper="35">
 eh	eh	X	-	0:45:01.558000	0:45:02.618000
 ,	-	-	-	0:45:01.558000	0:45:02.618000
 selbstverständlich	selbstverständlich	ADJ	-	0:45:01.558000	0:45:02.618000
 .	-	-	-	0:45:01.558000	0:45:02.618000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:02.618000" end="0:45:04.938000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:02.618000" end="0:45:04.938000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:45:02.618000	0:45:04.938000
 ist	sein	AUX	-	0:45:02.618000	0:45:04.938000
@@ -11928,7 +11928,7 @@ zu	zu	PART	-	0:45:02.618000	0:45:04.938000
 viel	viel	PRON	-	0:45:02.618000	0:45:04.938000
 .	-	-	-	0:45:02.618000	0:45:04.938000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:02.618000" end="0:45:07.765000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:02.618000" end="0:45:07.765000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 das	der	PRON	-	0:45:02.618000	0:45:04.938000
 ist	sein	AUX	-	0:45:02.618000	0:45:04.938000
@@ -11947,7 +11947,7 @@ auch	auch	ADV	-	0:45:05.258000	0:45:07.765000
 sehr	-	-	-	0:45:05.258000	0:45:07.765000
 /.	-	-	-	0:45:05.258000	0:45:07.765000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:07.765000" end="0:45:10.458000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:07.765000" end="0:45:10.458000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 deswegen	deswegen	ADV	-	0:45:07.765000	0:45:10.458000
 ist	sein	AUX	-	0:45:07.765000	0:45:10.458000
@@ -11960,7 +11960,7 @@ so	so	ADV	-	0:45:07.765000	0:45:10.458000
 besonders	besonders	ADV	-	0:45:07.765000	0:45:10.458000
 .	-	-	-	0:45:07.765000	0:45:10.458000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:10.458000" end="0:45:32.878000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:10.458000" end="0:45:32.878000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	ja	PART	-	0:45:10.458000	0:45:12.358000
 .	-	-	-	0:45:10.458000	0:45:12.358000
@@ -12022,21 +12022,21 @@ gute	-	-	-	0:45:29.398000	0:45:32.878000
 Leber	-	-	-	0:45:29.398000	0:45:32.878000
 .	-	-	-	0:45:29.398000	0:45:32.878000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:32.878000" end="0:45:33.638000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:32.878000" end="0:45:33.638000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:32.878000	0:45:33.638000
 .	-	-	-	0:45:32.878000	0:45:33.638000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:33.638000" end="0:45:34.038000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:33.638000" end="0:45:34.038000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:33.638000	0:45:34.038000
 .	-	-	-	0:45:33.638000	0:45:34.038000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:34.038000" end="0:45:35.138000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:34.038000" end="0:45:35.138000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:45:34.038000	0:45:35.138000
 ist	sein	AUX	-	0:45:34.038000	0:45:35.138000
 enorm	enorm	ADJ	-	0:45:34.038000	0:45:35.138000
 .	-	-	-	0:45:34.038000	0:45:35.138000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:35.138000" end="0:45:45.678000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:35.138000" end="0:45:45.678000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	PART	-	0:45:35.911000	0:45:37.178000
 .	-	-	-	0:45:35.911000	0:45:37.178000
@@ -12069,9 +12069,9 @@ den	-	-	-	0:45:41.325000	0:45:45.678000
 NAME	NAME	-	-	0:45:41.325000	0:45:45.678000
 ,	-	-	-	0:45:41.325000	0:45:45.678000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:45.678000" end="0:45:46.658000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:45.678000" end="0:45:46.658000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:45.678000" end="0:45:48.438000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:45.678000" end="0:45:48.438000" age_lower="18" age_upper="35">
 *denkst*	-	-	-	0:45:46.658000	0:45:48.438000
 sie	-	-	-	0:45:46.658000	0:45:48.438000
 haben	-	-	-	0:45:46.658000	0:45:48.438000
@@ -12082,33 +12082,33 @@ alles	-	-	-	0:45:46.658000	0:45:48.438000
 (?	-	-	-	0:45:46.658000	0:45:48.438000
 kinna)	-	-	-	0:45:46.658000	0:45:48.438000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:48.438000" end="0:45:49.405000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:48.438000" end="0:45:49.405000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:45:48.438000	0:45:49.405000
 .	-	-	-	0:45:48.438000	0:45:49.405000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:49.405000" end="0:45:50.411000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:49.405000" end="0:45:50.411000" age_lower="18" age_upper="35">
 Weißenseer	-	-	-	0:45:49.405000	0:45:50.411000
 ,	-	-	-	0:45:49.405000	0:45:50.411000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:50.411000" end="0:45:51.105000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:50.411000" end="0:45:51.105000" age_lower="18" age_upper="35">
 alle	all	PRON	-	0:45:50.411000	0:45:51.105000
 .	-	-	-	0:45:50.411000	0:45:51.105000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:51.105000" end="0:45:52.338000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:51.105000" end="0:45:52.338000" age_lower="18" age_upper="35">
 nach	nach	ADP	-	0:45:51.105000	0:45:52.338000
 /,	-	-	-	0:45:51.105000	0:45:52.338000
 ja	ja	PART	-	0:45:51.105000	0:45:52.338000
 .	-	-	-	0:45:51.105000	0:45:52.338000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:52.338000" end="0:45:54.451000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:52.338000" end="0:45:54.451000" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	0:45:52.338000	0:45:53.565000
 .	-	-	-	0:45:52.338000	0:45:53.565000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:53.565000" end="0:45:54.451000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:53.565000" end="0:45:54.451000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:45:53.565000	0:45:54.451000
 .	-	-	-	0:45:53.565000	0:45:54.451000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:54.451000" end="0:45:59.738000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:54.451000" end="0:45:59.738000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 aber	aber	CCONJ	-	0:45:54.451000	0:45:59.738000
 <pause duration="0,5s"/>
@@ -12123,7 +12123,7 @@ jedem	jed	DET	-	0:45:54.451000	0:45:59.738000
 Dorf	Dorf	NOUN	-	0:45:54.451000	0:45:59.738000
 .	-	-	-	0:45:54.451000	0:45:59.738000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:59.738000" end="0:46:17.558000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:45:59.738000" end="0:46:17.558000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ja	ja	PART	-	0:45:59.738000	0:46:02.571000
 .	-	-	-	0:45:59.738000	0:46:02.571000
@@ -12165,14 +12165,14 @@ denen	-	-	-	0:46:15.558000	0:46:17.558000
 ist	-	-	-	0:46:15.558000	0:46:17.558000
 ja	-	-	-	0:46:15.558000	0:46:17.558000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:17.558000" end="0:46:18.951000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:17.558000" end="0:46:18.951000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:46:17.558000	0:46:18.951000
 da	da	ADV	-	0:46:17.558000	0:46:18.951000
 ist	sein	AUX	-	0:46:17.558000	0:46:18.951000
 es/	-	-	-	0:46:17.558000	0:46:18.951000
 .	-	-	-	0:46:17.558000	0:46:18.951000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:17.558000" end="0:46:18.951000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:17.558000" end="0:46:18.951000" age_lower="18" age_upper="35">
 tag	-	-	-	0:46:17.558000	0:46:18.951000
 ,	-	-	-	0:46:17.558000	0:46:18.951000
 *weißt*	-	-	-	0:46:17.558000	0:46:18.951000
@@ -12182,27 +12182,27 @@ ja	-	-	-	0:46:17.558000	0:46:18.951000
 ,	-	-	-	0:46:17.558000	0:46:18.951000
 die	-	-	-	0:46:17.558000	0:46:18.951000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:18.951000" end="0:46:20.685000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:18.951000" end="0:46:20.685000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 die	-	-	-	0:46:18.951000	0:46:20.685000
 kochen	-	-	-	0:46:18.951000	0:46:20.685000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:18.951000" end="0:46:20.685000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:18.951000" end="0:46:20.685000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 die	-	-	-	0:46:18.951000	0:46:20.685000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:20.685000" end="0:46:21.705000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:20.685000" end="0:46:21.705000" age_lower="18" age_upper="35">
 auf	-	-	-	0:46:20.685000	0:46:21.105000
 und	-	-	-	0:46:20.685000	0:46:21.105000
 machen	-	-	-	0:46:21.105000	0:46:21.705000
 da	-	-	-	0:46:21.105000	0:46:21.705000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:21.105000" end="0:46:21.705000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:21.105000" end="0:46:21.705000" age_lower="18" age_upper="35">
 die	-	-	-	0:46:21.105000	0:46:21.705000
 br/	-	-	-	0:46:21.105000	0:46:21.705000
 /,	-	-	-	0:46:21.105000	0:46:21.705000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:21.705000" end="0:46:23.705000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:21.705000" end="0:46:23.705000" age_lower="18" age_upper="35">
 ein	-	-	-	0:46:21.705000	0:46:23.705000
 _tramdam_	-	-	-	0:46:21.705000	0:46:23.705000
 ,	-	-	-	0:46:21.705000	0:46:23.705000
@@ -12212,7 +12212,7 @@ _ge_	-	-	-	0:46:21.705000	0:46:23.705000
 bitte	-	-	-	0:46:21.705000	0:46:23.705000
 .	-	-	-	0:46:21.705000	0:46:23.705000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:21.705000" end="0:46:23.705000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:21.705000" end="0:46:23.705000" age_lower="18" age_upper="35">
 j/	-	-	-	0:46:21.705000	0:46:23.705000
 ja	-	-	-	0:46:21.705000	0:46:23.705000
 ,	-	-	-	0:46:21.705000	0:46:23.705000
@@ -12222,25 +12222,25 @@ ja	-	-	-	0:46:21.705000	0:46:23.705000
 (recht	-	-	-	0:46:21.705000	0:46:23.705000
 auch)	-	-	-	0:46:21.705000	0:46:23.705000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:23.705000" end="0:46:24.898000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:23.705000" end="0:46:24.898000" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:23.705000	0:46:24.898000
 ,	-	-	-	0:46:23.705000	0:46:24.898000
 ja	-	-	-	0:46:23.705000	0:46:24.898000
 .	-	-	-	0:46:23.705000	0:46:24.898000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:23.705000" end="0:46:24.898000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:23.705000" end="0:46:24.898000" age_lower="18" age_upper="35">
 ein	-	-	-	0:46:23.705000	0:46:24.898000
 Familienfest	-	-	-	0:46:23.705000	0:46:24.898000
 ,	-	-	-	0:46:23.705000	0:46:24.898000
 nicht	nicht	PART	-	0:46:23.705000	0:46:24.898000
 ?	-	-	-	0:46:23.705000	0:46:24.898000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:24.898000" end="0:46:26.051000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:24.898000" end="0:46:26.051000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	ja	PART	-	0:46:24.898000	0:46:26.051000
 .	-	-	-	0:46:24.898000	0:46:26.051000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:26.051000" end="0:46:44.145000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:26.051000" end="0:46:44.145000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 also	also	ADV	-	0:46:26.051000	0:46:29.385000
 das	der	PRON	-	0:46:26.051000	0:46:29.385000
@@ -12305,30 +12305,30 @@ Horde	-	-	-	0:46:42.045000	0:46:44.145000
 war	-	-	-	0:46:42.045000	0:46:44.145000
 ,	-	-	-	0:46:42.045000	0:46:44.145000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:44.145000" end="0:46:44.925000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:44.145000" end="0:46:44.925000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 immer	immer	ADV	-	0:46:44.145000	0:46:44.925000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:44.145000" end="0:46:44.925000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:44.145000" end="0:46:44.925000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 oder	-	-	-	0:46:44.145000	0:46:44.925000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:44.925000" end="0:46:45.545000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:44.925000" end="0:46:45.545000" age_lower="18" age_upper="35">
 weniger	wenig	ADV	-	0:46:44.925000	0:46:45.545000
 .	-	-	-	0:46:44.925000	0:46:45.545000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:45.545000" end="0:46:46.725000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:45.545000" end="0:46:46.725000" age_lower="18" age_upper="35">
 beim	beim	ADP	-	0:46:45.545000	0:46:46.725000
 NAME	-	-	-	0:46:45.545000	0:46:46.725000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:46.725000" end="0:46:48.358000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:46.725000" end="0:46:48.358000" age_lower="18" age_upper="35">
 ja	-	-	-	0:46:46.725000	0:46:48.358000
 ,	-	-	-	0:46:46.725000	0:46:48.358000
 immer	-	-	-	0:46:46.725000	0:46:48.358000
 weniger	-	-	-	0:46:46.725000	0:46:48.358000
 .	-	-	-	0:46:46.725000	0:46:48.358000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:46.725000" end="0:46:49.698000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:46.725000" end="0:46:49.698000" age_lower="18" age_upper="35">
 (in	in	ADP	-	0:46:46.725000	0:46:48.358000
 ?	-	-	-	0:46:46.725000	0:46:48.358000
 sehe	sehen	VERB	-	0:46:46.725000	0:46:48.358000
@@ -12341,11 +12341,11 @@ sechzig	sechzig	NUM	-	0:46:48.358000	0:46:49.698000
 Leute	Leute	NOUN	-	0:46:48.358000	0:46:49.698000
 .	-	-	-	0:46:48.358000	0:46:49.698000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:49.698000" end="0:46:50.518000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:49.698000" end="0:46:50.518000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:49.698000	0:46:50.518000
 .	-	-	-	0:46:49.698000	0:46:50.518000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:50.518000" end="0:46:54.425000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:50.518000" end="0:46:54.425000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:50.518000	0:46:51.825000
 ,	-	-	-	0:46:50.518000	0:46:51.825000
 beim	beim	ADP	-	0:46:50.518000	0:46:51.825000
@@ -12359,7 +12359,7 @@ ohne	ohne	ADP	-	0:46:51.825000	0:46:54.425000
 Musik	Musik	NOUN	-	0:46:51.825000	0:46:54.425000
 .	-	-	-	0:46:51.825000	0:46:54.425000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:54.425000" end="0:46:56.625000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:54.425000" end="0:46:56.625000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:54.425000	0:46:56.625000
 ,	-	-	-	0:46:54.425000	0:46:56.625000
 <pause duration="0,8s"/>
@@ -12367,11 +12367,11 @@ das	der	PRON	-	0:46:54.425000	0:46:56.625000
 stimmt	stimmen	VERB	-	0:46:54.425000	0:46:56.625000
 .	-	-	-	0:46:54.425000	0:46:56.625000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:56.625000" end="0:46:57.211000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:56.625000" end="0:46:57.211000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:46:56.625000	0:46:57.211000
 .	-	-	-	0:46:56.625000	0:46:57.211000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:57.211000" end="0:47:01.791000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:46:57.211000" end="0:47:01.791000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 aber	aber	CCONJ	-	0:46:57.211000	0:46:59.791000
 ist	sein	AUX	-	0:46:57.211000	0:46:59.791000
@@ -12387,7 +12387,7 @@ noch	noch	ADV	-	0:46:59.791000	0:47:01.791000
 hochhalten	hochhalten	VERB	-	0:46:59.791000	0:47:01.791000
 .	-	-	-	0:46:59.791000	0:47:01.791000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:01.791000" end="0:47:04.431000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:01.791000" end="0:47:04.431000" age_lower="18" age_upper="35">
 nein	na	INTJ	-	0:47:01.791000	0:47:04.431000
 ,	-	-	-	0:47:01.791000	0:47:04.431000
 eh	eh	X	-	0:47:01.791000	0:47:04.431000
@@ -12403,9 +12403,9 @@ einmal	einmal	ADV	-	0:47:01.791000	0:47:04.431000
 mit	mit	ADP	-	0:47:01.791000	0:47:04.431000
 .	-	-	-	0:47:01.791000	0:47:04.431000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:04.431000" end="0:47:05.578000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:04.431000" end="0:47:05.578000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:05.578000" end="0:47:13.111000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:05.578000" end="0:47:13.111000" age_lower="18" age_upper="35">
 (mit	bei	ADP	-	0:47:05.578000	0:47:08.765000
 ,	sich	PRON	-	0:47:05.578000	0:47:08.765000
 oder)	da	ADV	-	0:47:05.578000	0:47:08.765000
@@ -12445,12 +12445,12 @@ also	also	ADV	-	0:47:10.805000	0:47:13.111000
 das	-	-	-	0:47:10.805000	0:47:13.111000
 /.	-	-	-	0:47:10.805000	0:47:13.111000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:13.111000" end="0:47:14.378000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:13.111000" end="0:47:14.378000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 extrem	extrem	ADJ	-	0:47:13.111000	0:47:14.378000
 .	-	-	-	0:47:13.111000	0:47:14.378000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:14.378000" end="0:47:30.098000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:14.378000" end="0:47:30.098000" age_lower="18" age_upper="35">
 _boah_	boah	NOUN	-	0:47:14.378000	0:47:14.751000
 .	-	-	-	0:47:14.378000	0:47:14.751000
 <pause duration="2,7s"/>
@@ -12485,11 +12485,11 @@ und	und	CCONJ	-	0:47:25.318000	0:47:30.098000
 Dorfbrunnenbadeaktionen	Dorfbrunnenbadeaktionen	NOUN	-	0:47:25.318000	0:47:30.098000
 .	-	-	-	0:47:25.318000	0:47:30.098000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:30.098000" end="0:47:30.891000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:30.098000" end="0:47:30.891000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:47:30.098000	0:47:30.891000
 .	-	-	-	0:47:30.098000	0:47:30.891000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:30.891000" end="0:47:34.498000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:30.891000" end="0:47:34.498000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 das	der	PRON	-	0:47:30.891000	0:47:34.498000
 ist	sein	AUX	-	0:47:30.891000	0:47:34.498000
@@ -12501,13 +12501,13 @@ _bissel_	bissel	NOUN	-	0:47:30.891000	0:47:34.498000
 sympathischer	sympathisch	NOUN	-	0:47:30.891000	0:47:34.498000
 .	-	-	-	0:47:30.891000	0:47:34.498000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:34.498000" end="0:47:38.025000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:34.498000" end="0:47:38.025000" age_lower="18" age_upper="35">
 wohl	-	-	-	0:47:35.858000	0:47:38.025000
 ,	-	-	-	0:47:35.858000	0:47:38.025000
 wohl	-	-	-	0:47:35.858000	0:47:38.025000
 .	-	-	-	0:47:35.858000	0:47:38.025000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:35.858000" end="0:47:45.471000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:35.858000" end="0:47:45.471000" age_lower="18" age_upper="35">
 bevor	bevor	SCONJ	-	0:47:35.858000	0:47:38.025000
 ich	ich	PRON	-	0:47:35.858000	0:47:38.025000
 /.	-	-	-	0:47:35.858000	0:47:38.025000
@@ -12534,7 +12534,7 @@ die	der	DET	+menschl -belebt App Komp PM PR Pkon Poss Prel Prop Quel irrelevant	
 NAME	NAME	NOUN	-(e)n Interf Interf- NPL SDent Suff U- Uml sd+|+menschl -belebt App Komp PM PR Pkon Poss Prel Prop Quel irrelevant	0:47:41.765000	0:47:45.471000
 NAME	NAME	PROPN	-(e)n Interf Interf- NPL SDent Suff U- Uml sd+|+menschl -belebt App Komp PM PR Pkon Poss Prel Prop Quel irrelevant	0:47:41.765000	0:47:45.471000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:45.471000" end="0:47:46.631000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:45.471000" end="0:47:46.631000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:47:45.471000	0:47:46.631000
 ,	-	-	-	0:47:45.471000	0:47:46.631000
 ja	-	-	-	0:47:45.471000	0:47:46.631000
@@ -12544,14 +12544,14 @@ ja	-	-	-	0:47:45.471000	0:47:46.631000
 ja	-	-	-	0:47:45.471000	0:47:46.631000
 .	-	-	-	0:47:45.471000	0:47:46.631000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:45.471000" end="0:47:46.631000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:45.471000" end="0:47:46.631000" age_lower="18" age_upper="35">
 Zeiten	-	SPACE	-(e)n Interf Interf- NPL SDent Suff U- Uml sd+|+menschl -belebt App Komp PM PR Pkon Poss Prel Prop Quel irrelevant	0:47:45.471000	0:47:46.631000
 ,	-	-	-	0:47:45.471000	0:47:46.631000
 und	und	CCONJ	-	0:47:45.471000	0:47:46.631000
 und	und	CCONJ	-	0:47:45.471000	0:47:46.631000
 NAME	NAME	NOUN	-	0:47:45.471000	0:47:46.631000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:46.631000" end="0:47:48.085000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:46.631000" end="0:47:48.085000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:47:46.631000	0:47:48.085000
 habe	habe	AUX	-	0:47:46.631000	0:47:48.085000
 ich	ich	PRON	-	0:47:46.631000	0:47:48.085000
@@ -12560,7 +12560,7 @@ auch	auch	ADV	-	0:47:46.631000	0:47:48.085000
 gehört	hören	VERB	-	0:47:46.631000	0:47:48.085000
 .	-	-	-	0:47:46.631000	0:47:48.085000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:46.631000" end="0:47:49.011000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:46.631000" end="0:47:49.011000" age_lower="18" age_upper="35">
 en	-	SPACE	-	0:47:46.631000	0:47:48.085000
 NAME	NAME	PROPN	-	0:47:46.631000	0:47:48.085000
 ,	-	-	-	0:47:46.631000	0:47:48.085000
@@ -12571,7 +12571,7 @@ ja	ja	ADV	-	0:47:48.085000	0:47:49.011000
 ähm	ähm	PROPN	-	0:47:48.085000	0:47:49.011000
 /,	-	-	-	0:47:48.085000	0:47:49.011000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:49.011000" end="0:47:51.471000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:49.011000" end="0:47:51.471000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:49.011000	0:47:50.405000
 ,	-	-	-	0:47:49.011000	0:47:50.405000
 die	der	PRON	-	0:47:49.011000	0:47:50.405000
@@ -12586,7 +12586,7 @@ beim	beim	ADP	-	0:47:50.405000	0:47:51.471000
 NAME	NAME	NOUN	-	0:47:50.405000	0:47:51.471000
 .	-	-	-	0:47:50.405000	0:47:51.471000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:50.405000" end="0:47:53.105000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:50.405000" end="0:47:53.105000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:50.405000	0:47:51.471000
 ,	-	-	-	0:47:50.405000	0:47:51.471000
 (das/)	-	-	-	0:47:50.405000	0:47:51.471000
@@ -12599,7 +12599,7 @@ gewütet	-	-	-	0:47:51.471000	0:47:53.105000
 haben	-	-	-	0:47:51.471000	0:47:53.105000
 .	-	-	-	0:47:51.471000	0:47:53.105000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:53.105000" end="0:47:55.911000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:53.105000" end="0:47:55.911000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:47:53.105000	0:47:55.385000
 sind	sein	AUX	-	0:47:53.105000	0:47:55.385000
 sie	ich	PRON	-	0:47:53.105000	0:47:55.385000
@@ -12612,7 +12612,7 @@ hinein	hinein	ADV	-	0:47:53.105000	0:47:55.385000
 gehüpft	hüpfen	VERB	-	0:47:55.385000	0:47:55.911000
 .	-	-	-	0:47:55.385000	0:47:55.911000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:55.385000" end="0:47:57.365000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:55.385000" end="0:47:57.365000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:47:55.385000	0:47:55.911000
 .	-	-	-	0:47:55.385000	0:47:55.911000
 arg	arg	PROPN	-	0:47:55.911000	0:47:57.365000
@@ -12620,14 +12620,14 @@ arg	arg	PROPN	-	0:47:55.911000	0:47:57.365000
 arg	arg	PROPN	-	0:47:55.911000	0:47:57.365000
 .	-	-	-	0:47:55.911000	0:47:57.365000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:57.365000" end="0:47:58.011000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:57.365000" end="0:47:58.011000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:58.011000" end="0:47:59.345000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:58.011000" end="0:47:59.345000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 hm	hm	X	-	0:47:58.011000	0:47:59.345000
 .	-	-	-	0:47:58.011000	0:47:59.345000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:59.345000" end="0:48:04.431000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:47:59.345000" end="0:48:04.431000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	ja	PART	-	0:47:59.345000	0:48:01.238000
 .	-	-	-	0:47:59.345000	0:48:01.238000
@@ -12637,18 +12637,18 @@ ja	ja	PART	-	0:47:59.345000	0:48:01.238000
 Heimat"	Heimat	NOUN	-	0:48:01.238000	0:48:04.431000
 .	-	-	-	0:48:01.238000	0:48:04.431000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:04.431000" end="0:48:05.878000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:04.431000" end="0:48:05.878000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:04.431000	0:48:05.878000
 ,	-	-	-	0:48:04.431000	0:48:05.878000
 schon	schon	ADV	-	0:48:04.431000	0:48:05.878000
 wieder	wieder	ADV	-	0:48:04.431000	0:48:05.878000
 .	-	-	-	0:48:04.431000	0:48:05.878000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:05.878000" end="0:48:06.571000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:05.878000" end="0:48:06.571000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:48:05.878000	0:48:06.571000
 .	-	-	-	0:48:05.878000	0:48:06.571000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:06.571000" end="0:48:21.311000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:06.571000" end="0:48:21.311000" age_lower="18" age_upper="35">
 <pause duration="2,9s"/>
 Heimat	Heimat	NOUN	-	0:48:06.571000	0:48:10.178000
 .	-	-	-	0:48:06.571000	0:48:10.178000
@@ -12692,13 +12692,13 @@ ich	ich	PRON	-	0:48:19.311000	0:48:21.311000
 oder	oder	CCONJ	-	0:48:19.311000	0:48:21.311000
 ?	-	-	-	0:48:19.311000	0:48:21.311000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:21.311000" end="0:48:23.045000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:21.311000" end="0:48:23.045000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ich	ich	PRON	-	0:48:21.311000	0:48:23.045000
 glaube	glauben	VERB	-	0:48:21.311000	0:48:23.045000
 .	-	-	-	0:48:21.311000	0:48:23.045000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:23.045000" end="0:49:03.005000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:48:23.045000" end="0:49:03.005000" age_lower="18" age_upper="35">
 Heimat	Heimat	NOUN	-	0:48:23.045000	0:48:25.045000
 ,	-	-	-	0:48:23.045000	0:48:25.045000
 ja	-	-	-	0:48:23.045000	0:48:25.045000
@@ -12808,7 +12808,7 @@ oder	oder	CCONJ	-	0:49:00.478000	0:49:03.005000
 was	was	PRON	-	0:49:00.478000	0:49:03.005000
 ,	-	-	-	0:49:00.478000	0:49:03.005000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:03.005000" end="0:49:05.685000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:03.005000" end="0:49:05.685000" age_lower="18" age_upper="35">
 da	-	-	-	0:49:03.005000	0:49:05.685000
 hätte	-	-	-	0:49:03.005000	0:49:05.685000
 ich	-	-	-	0:49:03.005000	0:49:05.685000
@@ -12817,7 +12817,7 @@ kein	-	-	-	0:49:03.005000	0:49:05.685000
 Problem	-	-	-	0:49:03.005000	0:49:05.685000
 .	-	-	-	0:49:03.005000	0:49:05.685000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:03.005000" end="0:49:07.331000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:03.005000" end="0:49:07.331000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 bring/	-	-	-	0:49:03.005000	0:49:05.685000
 bringt	bringen	VERB	-	0:49:03.005000	0:49:05.685000
@@ -12828,13 +12828,13 @@ die	der	DET	-	0:49:05.685000	0:49:07.331000
 Barrikaden	Barrikade	NOUN	-	0:49:05.685000	0:49:07.331000
 .	-	-	-	0:49:05.685000	0:49:07.331000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:07.331000" end="0:49:08.405000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:07.331000" end="0:49:08.405000" age_lower="18" age_upper="35">
 mich	sich	PRON	-	0:49:07.331000	0:49:08.405000
 auch	auch	ADV	-	0:49:07.331000	0:49:08.405000
 nicht	nicht	PART	-	0:49:07.331000	0:49:08.405000
 .	-	-	-	0:49:07.331000	0:49:08.405000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:08.405000" end="0:49:22.711000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:08.405000" end="0:49:22.711000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 oder	oder	CCONJ	-	0:49:08.405000	0:49:12.111000
 ,	-	-	-	0:49:08.405000	0:49:12.111000
@@ -12871,21 +12871,21 @@ Besitzansprüche	Besitzansprüche	NOUN	-	0:49:19.551000	0:49:22.711000
 stellen	stellen	VERB	-	0:49:19.551000	0:49:22.711000
 oder	oder	CCONJ	-	0:49:19.551000	0:49:22.711000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:22.711000" end="0:49:23.251000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:22.711000" end="0:49:23.251000" age_lower="18" age_upper="35">
 täte	-	-	-	0:49:22.711000	0:49:23.251000
 mich	-	-	-	0:49:22.711000	0:49:23.251000
 auch	-	-	-	0:49:22.711000	0:49:23.251000
 nicht	-	-	-	0:49:22.711000	0:49:23.251000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:22.711000" end="0:49:23.251000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:22.711000" end="0:49:23.251000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:49:22.711000	0:49:23.251000
 .	-	-	-	0:49:22.711000	0:49:23.251000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:23.251000" end="0:49:23.758000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:23.251000" end="0:49:23.758000" age_lower="18" age_upper="35">
 stören	stören	VERB	-	0:49:23.251000	0:49:23.758000
 .	-	-	-	0:49:23.251000	0:49:23.758000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:23.758000" end="0:49:41.525000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:23.758000" end="0:49:41.525000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ja	ja	PART	-	0:49:23.758000	0:49:26.465000
 ,	-	-	-	0:49:23.758000	0:49:26.465000
@@ -12947,11 +12947,11 @@ das	-	-	-	0:49:40.578000	0:49:41.525000
 *kannst*	-	-	-	0:49:40.578000	0:49:41.525000
 ja	-	-	-	0:49:40.578000	0:49:41.525000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:41.525000" end="0:49:41.911000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:41.525000" end="0:49:41.911000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:41.525000	0:49:41.911000
 .	-	-	-	0:49:41.525000	0:49:41.911000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:41.525000" end="0:49:42.878000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:41.525000" end="0:49:42.878000" age_lower="18" age_upper="35">
 genauso	-	-	-	0:49:41.525000	0:49:41.911000
 gut	-	-	-	0:49:41.911000	0:49:42.878000
 überall	-	-	-	0:49:41.911000	0:49:42.878000
@@ -12959,7 +12959,7 @@ auf	-	-	-	0:49:41.911000	0:49:42.878000
 der	-	-	-	0:49:41.911000	0:49:42.878000
 ganzen	-	-	-	0:49:41.911000	0:49:42.878000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:42.878000" end="0:49:44.265000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:42.878000" end="0:49:44.265000" age_lower="18" age_upper="35">
 wir	ich	PRON	-	0:49:42.878000	0:49:44.265000
 leben	leben	VERB	-	0:49:42.878000	0:49:44.265000
 schon	schon	ADV	-	0:49:42.878000	0:49:44.265000
@@ -12967,26 +12967,26 @@ an	an	ADP	-	0:49:42.878000	0:49:44.265000
 einem	einer	DET	-	0:49:42.878000	0:49:44.265000
 schönen	schön	ADJ	-	0:49:42.878000	0:49:44.265000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:42.878000" end="0:49:44.265000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:42.878000" end="0:49:44.265000" age_lower="18" age_upper="35">
 Welt	-	-	-	0:49:42.878000	0:49:44.265000
 geboren	-	-	-	0:49:42.878000	0:49:44.265000
 sein	-	-	-	0:49:42.878000	0:49:44.265000
 und	-	-	-	0:49:42.878000	0:49:44.265000
 /.	-	-	-	0:49:42.878000	0:49:44.265000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:44.265000" end="0:49:44.825000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:44.265000" end="0:49:44.825000" age_lower="18" age_upper="35">
 _Platzel_	Platzel	NOUN	-	0:49:44.265000	0:49:44.825000
 .	-	-	-	0:49:44.265000	0:49:44.825000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:44.825000" end="0:49:45.251000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:44.825000" end="0:49:45.251000" age_lower="18" age_upper="35">
 ja	-	-	-	0:49:44.825000	0:49:45.251000
 .	-	-	-	0:49:44.825000	0:49:45.251000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:45.251000" end="0:49:45.611000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:45.251000" end="0:49:45.611000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:49:45.251000	0:49:45.611000
 .	-	-	-	0:49:45.251000	0:49:45.611000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:45.611000" end="0:50:09.125000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:49:45.611000" end="0:50:09.125000" age_lower="18" age_upper="35">
 und	-	-	-	0:49:45.611000	0:49:50.231000
 dann	-	-	-	0:49:45.611000	0:49:50.231000
 ähm	-	-	-	0:49:45.611000	0:49:50.231000
@@ -13054,7 +13054,7 @@ einmal	einmal	ADV	-	0:50:06.165000	0:50:09.125000
 so	so	ADV	-	0:50:06.165000	0:50:09.125000
 .	-	-	-	0:50:06.165000	0:50:09.125000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:09.125000" end="0:50:12.591000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:09.125000" end="0:50:12.591000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 (ja)	ja	PART	-	0:50:09.125000	0:50:10.591000
 .	-	-	-	0:50:09.125000	0:50:10.591000
@@ -13063,7 +13063,7 @@ das	der	PRON	-	0:50:10.591000	0:50:12.591000
 stimmt	stimmen	VERB	-	0:50:10.591000	0:50:12.591000
 .	-	-	-	0:50:10.591000	0:50:12.591000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:12.591000" end="0:50:28.758000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:12.591000" end="0:50:28.758000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 weil	weil	SCONJ	-	0:50:12.591000	0:50:15.758000
 die	der	PRON	-	0:50:12.591000	0:50:15.758000
@@ -13123,12 +13123,12 @@ woanders	woanders	ADV	-	0:50:25.038000	0:50:28.758000
 gefunden	finden	VERB	-	0:50:25.038000	0:50:28.758000
 .	-	-	-	0:50:25.038000	0:50:28.758000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:28.758000" end="0:50:31.418000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:28.758000" end="0:50:31.418000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 mhm	mhm	PROPN	-	0:50:28.758000	0:50:31.418000
 .	-	-	-	0:50:28.758000	0:50:31.418000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:31.418000" end="0:50:36.491000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:31.418000" end="0:50:36.491000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 ich	ich	PRON	-	0:50:31.418000	0:50:36.491000
 denke	denken	VERB	-	0:50:31.418000	0:50:36.491000
@@ -13148,39 +13148,39 @@ _Platzel_	Platzel	NOUN	2ArtSPE AKon DArt EAdj EPart ESubj IRR dopp spe+ spe-	0:5
 wo	wo	ADV	-	0:50:31.418000	0:50:36.491000
 man	man	PRON	-	0:50:31.418000	0:50:36.491000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:36.491000" end="0:50:37.371000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:36.491000" end="0:50:37.371000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:50:36.491000	0:50:36.925000
 glaube	glauben	VERB	-	0:50:36.491000	0:50:36.925000
 auch	auch	ADV	-	0:50:36.925000	0:50:37.371000
 .	-	-	-	0:50:36.925000	0:50:37.371000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:36.925000" end="0:50:38.618000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:36.925000" end="0:50:38.618000" age_lower="18" age_upper="35">
 sich	sich	PRON	-	0:50:36.925000	0:50:37.371000
 daheim	daheim	ADV	-	0:50:37.371000	0:50:38.618000
 fühlt	fühlen	VERB	-	0:50:37.371000	0:50:38.618000
 ,	-	-	-	0:50:37.371000	0:50:38.618000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:38.618000" end="0:50:39.825000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:38.618000" end="0:50:39.825000" age_lower="18" age_upper="35">
 dort	-	-	-	0:50:38.618000	0:50:39.825000
 wo	-	-	-	0:50:38.618000	0:50:39.825000
 die	-	-	-	0:50:38.618000	0:50:39.825000
 Wurzeln	-	-	-	0:50:38.618000	0:50:39.825000
 ,	-	-	-	0:50:38.618000	0:50:39.825000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:38.618000" end="0:50:39.825000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:38.618000" end="0:50:39.825000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:50:38.618000	0:50:39.825000
 daheim	daheim	ADV	-	0:50:38.618000	0:50:39.825000
 /.	-	-	-	0:50:38.618000	0:50:39.825000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:39.825000" end="0:50:40.398000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:39.825000" end="0:50:40.398000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:50:39.825000	0:50:40.398000
 ,	-	-	-	0:50:39.825000	0:50:40.398000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:39.825000" end="0:50:40.398000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:39.825000" end="0:50:40.398000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:50:39.825000	0:50:40.398000
 .	-	-	-	0:50:39.825000	0:50:40.398000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:40.398000" end="0:50:46.158000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:40.398000" end="0:50:46.158000" age_lower="18" age_upper="35">
 sind	sein	AUX	-	0:50:40.398000	0:50:41.265000
 .	-	-	-	0:50:40.398000	0:50:41.265000
 ja	hm	X	-	0:50:41.265000	0:50:42.571000
@@ -13194,24 +13194,24 @@ sehr	sehr	ADV	-	0:50:42.571000	0:50:46.158000
 schön	schön	ADJ	-	0:50:42.571000	0:50:46.158000
 .	-	-	-	0:50:42.571000	0:50:46.158000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:46.158000" end="0:50:47.138000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:46.158000" end="0:50:47.138000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:50:46.158000	0:50:47.138000
 ist	sein	AUX	-	0:50:46.158000	0:50:47.138000
 es	ich	PRON	-	0:50:46.158000	0:50:47.138000
 .	-	-	-	0:50:46.158000	0:50:47.138000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:47.138000" end="0:50:47.558000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:47.138000" end="0:50:47.558000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:50:47.138000	0:50:47.558000
 .	-	-	-	0:50:47.138000	0:50:47.558000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:47.558000" end="0:50:48.698000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:47.558000" end="0:50:48.698000" age_lower="18" age_upper="35">
 muss	muss	VERB	-	0:50:47.558000	0:50:48.698000
 ich	ich	PRON	-	0:50:47.558000	0:50:48.698000
 auch	auch	ADV	-	0:50:47.558000	0:50:48.698000
 sagen	sagen	VERB	-	0:50:47.558000	0:50:48.698000
 .	-	-	-	0:50:47.558000	0:50:48.698000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:48.698000" end="0:50:51.065000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:48.698000" end="0:50:51.065000" age_lower="18" age_upper="35">
 uns	sich	PRON	-	0:50:48.698000	0:50:50.611000
 geht	gehen	VERB	-	0:50:48.698000	0:50:50.611000
 nichts	nichts	PRON	-	0:50:48.698000	0:50:50.611000
@@ -13221,16 +13221,16 @@ uns	sich	PRON	-	0:50:50.611000	0:50:51.065000
 geht	gehen	VERB	-	0:50:50.611000	0:50:51.065000
 es	ich	PRON	-	0:50:50.611000	0:50:51.065000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:50.611000" end="0:50:51.065000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:50.611000" end="0:50:51.065000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:50:50.611000	0:50:51.065000
 .	-	-	-	0:50:50.611000	0:50:51.065000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:51.065000" end="0:50:51.685000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:51.065000" end="0:50:51.685000" age_lower="18" age_upper="35">
 gut	gut	ADJ	-	0:50:51.065000	0:50:51.685000
 und	und	CCONJ	-	0:50:51.065000	0:50:51.685000
 /.	-	-	-	0:50:51.065000	0:50:51.685000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:51.685000" end="0:50:57.678000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:51.685000" end="0:50:57.678000" age_lower="18" age_upper="35">
 <pause duration="2,8s"/>
 und	und	CCONJ	-	0:50:51.685000	0:50:57.678000
 wahrscheinlich	wahrscheinlich	ADJ	-	0:50:51.685000	0:50:57.678000
@@ -13248,7 +13248,7 @@ uninteressant	uninteressant	ADJ	-	0:50:51.685000	0:50:57.678000
 sind	sein	AUX	-	0:50:51.685000	0:50:57.678000
 .	-	-	-	0:50:51.685000	0:50:57.678000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:57.678000" end="0:51:03.331000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:50:57.678000" end="0:51:03.331000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:50:57.678000	0:51:01.225000
 ,	-	-	-	0:50:57.678000	0:51:01.225000
 aber	aber	ADV	-	0:50:57.678000	0:51:01.225000
@@ -13270,24 +13270,24 @@ Gemeinde	Gemeinde	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Que
 für	für	ADP	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:51:02.351000	0:51:03.331000
 Infra=	Infrastruktur	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:51:02.351000	0:51:03.331000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:02.351000" end="0:51:03.331000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:02.351000" end="0:51:03.331000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:03.331000" end="0:51:04.085000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:03.331000" end="0:51:04.085000" age_lower="18" age_upper="35">
 struktur	-	SPACE	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:51:03.331000	0:51:04.085000
 haben	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:51:03.331000	0:51:04.085000
 .	-	-	-	0:51:03.331000	0:51:04.085000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:04.085000" end="0:51:05.598000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:04.085000" end="0:51:05.598000" age_lower="18" age_upper="35">
 selbstverständlich	selbstverständlich	ADJ	-	0:51:04.085000	0:51:05.598000
 ,	-	-	-	0:51:04.085000	0:51:05.598000
 derwegen	derowegen	VERB	-	0:51:04.085000	0:51:05.598000
 .	-	-	-	0:51:04.085000	0:51:05.598000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:05.598000" end="0:51:06.091000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:05.598000" end="0:51:06.091000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:05.598000	0:51:06.091000
 .	-	-	-	0:51:05.598000	0:51:06.091000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:06.551000" end="0:51:11.938000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:06.551000" end="0:51:11.938000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 aber	aber	CCONJ	-	0:51:06.551000	0:51:11.938000
 das	der	PRON	-	0:51:06.551000	0:51:11.938000
@@ -13301,7 +13301,7 @@ auch	auch	ADV	-	0:51:06.551000	0:51:11.938000
 jetzt	jetzt	ADV	-	0:51:06.551000	0:51:11.938000
 nichts	nichts	PRON	-	0:51:06.551000	0:51:11.938000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:11.938000" end="0:51:13.938000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:11.938000" end="0:51:13.938000" age_lower="18" age_upper="35">
 ja	-	-	-	0:51:11.938000	0:51:13.938000
 ,	-	-	-	0:51:11.938000	0:51:13.938000
 das	-	-	-	0:51:11.938000	0:51:13.938000
@@ -13311,7 +13311,7 @@ austauschen	-	-	-	0:51:11.938000	0:51:13.938000
 einfach	-	-	-	0:51:11.938000	0:51:13.938000
 .	-	-	-	0:51:11.938000	0:51:13.938000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:11.938000" end="0:51:28.271000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:11.938000" end="0:51:28.271000" age_lower="18" age_upper="35">
 ähm	ähm	PRON	-	0:51:11.938000	0:51:13.938000
 nichts	nichts	PRON	-	0:51:11.938000	0:51:13.938000
 mit/	-	-	-	0:51:11.938000	0:51:13.938000
@@ -13366,22 +13366,22 @@ ist	sein	AUX	-	0:51:27.031000	0:51:28.271000
 ja	ja	ADV	-	0:51:27.031000	0:51:28.271000
 keine	kein	DET	-	0:51:27.031000	0:51:28.271000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:28.271000" end="0:51:28.625000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:28.271000" end="0:51:28.625000" age_lower="18" age_upper="35">
 ja	-	-	-	0:51:28.271000	0:51:28.625000
 ,	-	-	-	0:51:28.271000	0:51:28.625000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:28.271000" end="0:51:28.625000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:28.271000" end="0:51:28.625000" age_lower="18" age_upper="35">
 Frage	Frage	NOUN	-	0:51:28.271000	0:51:28.625000
 .	-	-	-	0:51:28.271000	0:51:28.625000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:28.625000" end="0:51:29.411000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:28.625000" end="0:51:29.411000" age_lower="18" age_upper="35">
 du	du	PRON	-	0:51:28.625000	0:51:29.411000
 weißt	wissen	VERB	-	0:51:28.625000	0:51:29.411000
 es	ich	PRON	-	0:51:28.625000	0:51:29.411000
 eh	eh	ADV	-	0:51:28.625000	0:51:29.411000
 .	-	-	-	0:51:28.625000	0:51:29.411000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:29.411000" end="0:51:38.105000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:29.411000" end="0:51:38.105000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 aber	aber	CCONJ	-	0:51:29.411000	0:51:33.011000
 trotzdem	trotzdem	ADV	-	0:51:29.411000	0:51:33.011000
@@ -13408,11 +13408,11 @@ viele	viel	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Quel irrelevant	0
 Wünsche	Wunsch	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Quel irrelevant	0:51:36.485000	0:51:38.105000
 .	-	-	-	0:51:36.485000	0:51:38.105000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:38.105000" end="0:51:39.251000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:38.105000" end="0:51:39.251000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:51:38.105000	0:51:39.251000
 .	-	-	-	0:51:38.105000	0:51:39.251000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:38.105000" end="0:51:44.678000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:38.105000" end="0:51:44.678000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:51:38.105000	0:51:39.251000
 muss	muss	VERB	-	0:51:38.105000	0:51:39.251000
 man	man	PRON	-	0:51:38.105000	0:51:39.251000
@@ -13438,14 +13438,14 @@ gesehen	sehen	VERB	-	0:51:41.905000	0:51:44.678000
 erfüllen	erfüllen	VERB	-	0:51:41.905000	0:51:44.678000
 ,	-	-	-	0:51:41.905000	0:51:44.678000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:44.678000" end="0:51:45.958000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:44.678000" end="0:51:45.958000" age_lower="18" age_upper="35">
 da	da	ADV	-	0:51:44.678000	0:51:45.958000
 hast	haben	AUX	-	0:51:44.678000	0:51:45.958000
 du	du	PRON	-	0:51:44.678000	0:51:45.958000
 Recht	Recht	NOUN	-	0:51:44.678000	0:51:45.958000
 .	-	-	-	0:51:44.678000	0:51:45.958000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:44.678000" end="0:51:50.118000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:44.678000" end="0:51:50.118000" age_lower="18" age_upper="35">
 die	der	DET	-	0:51:44.678000	0:51:45.958000
 Bedürfnisse	Bedürfnis	NOUN	-	0:51:44.678000	0:51:45.958000
 .	-	-	-	0:51:44.678000	0:51:45.958000
@@ -13462,13 +13462,13 @@ und	und	CCONJ	-	0:51:47.878000	0:51:50.118000
 ja	ja	PART	-	0:51:47.878000	0:51:50.118000
 .	-	-	-	0:51:47.878000	0:51:50.118000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:50.118000" end="0:51:52.671000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:50.118000" end="0:51:52.671000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 die	der	DET	-	0:51:50.118000	0:51:52.671000
 Grundbedürfnisse	Grundbedürfnisse	NOUN	-	0:51:50.118000	0:51:52.671000
 .	-	-	-	0:51:50.118000	0:51:52.671000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:52.671000" end="0:52:02.745000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:51:52.671000" end="0:52:02.745000" age_lower="18" age_upper="35">
 ob	-	-	-	0:51:52.671000	0:51:58.165000
 da	-	-	-	0:51:52.671000	0:51:58.165000
 jetzt	-	-	-	0:51:52.671000	0:51:58.165000
@@ -13498,11 +13498,11 @@ eine	einen	DET	-	0:52:01.231000	0:52:02.745000
 Heimat	Heimat	NOUN	-	0:52:01.231000	0:52:02.745000
 .	-	-	-	0:52:01.231000	0:52:02.745000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:02.745000" end="0:52:03.345000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:02.745000" end="0:52:03.345000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:52:02.745000	0:52:03.345000
 .	-	-	-	0:52:02.745000	0:52:03.345000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:03.345000" end="0:52:11.345000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:03.345000" end="0:52:11.345000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:03.345000	0:52:04.018000
 .	-	-	-	0:52:03.345000	0:52:04.018000
 so	so	ADV	-	0:52:04.018000	0:52:07.638000
@@ -13531,12 +13531,12 @@ schon	schon	ADV	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irr
 mehr	mehr	PRON	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	0:52:07.638000	0:52:11.345000
 .	-	-	-	0:52:07.638000	0:52:11.345000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:11.345000" end="0:52:12.025000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:11.345000" end="0:52:12.025000" age_lower="18" age_upper="35">
 drei	drei	NUM	-	0:52:11.345000	0:52:12.025000
 Weiße	Weiß	NOUN	-	0:52:11.345000	0:52:12.025000
 .	-	-	-	0:52:11.345000	0:52:12.025000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:12.025000" end="0:52:17.965000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:12.025000" end="0:52:17.965000" age_lower="18" age_upper="35">
 darf	dürfen	VERB	-	0:52:12.025000	0:52:12.511000
 ich	ich	PRON	-	0:52:12.025000	0:52:12.511000
 ?	-	-	-	0:52:12.025000	0:52:12.511000
@@ -13556,7 +13556,7 @@ im	im	ADP	-	0:52:13.938000	0:52:17.965000
 TV"	TV	NOUN	-	0:52:13.938000	0:52:17.965000
 .	-	-	-	0:52:13.938000	0:52:17.965000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:17.965000" end="0:52:21.218000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:17.965000" end="0:52:21.218000" age_lower="18" age_upper="35">
 _ma_!	-	-	-	0:52:17.965000	0:52:18.545000
 ich	-	-	-	0:52:18.545000	0:52:21.218000
 sch/	-	-	-	0:52:18.545000	0:52:21.218000
@@ -13564,7 +13564,7 @@ sch/	-	-	-	0:52:18.545000	0:52:21.218000
 nein	-	-	-	0:52:18.545000	0:52:21.218000
 .	-	-	-	0:52:18.545000	0:52:21.218000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:18.545000" end="0:52:21.218000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:18.545000" end="0:52:21.218000" age_lower="18" age_upper="35">
 *schaust*	-	-	-	0:52:18.545000	0:52:21.218000
 nicht	-	-	-	0:52:18.545000	0:52:21.218000
 viel	-	-	-	0:52:18.545000	0:52:21.218000
@@ -13574,7 +13574,7 @@ gesagt	-	-	-	0:52:18.545000	0:52:21.218000
 gell	gell	ADJ	-	0:52:18.545000	0:52:21.218000
 ?	-	-	-	0:52:18.545000	0:52:21.218000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:21.218000" end="0:52:23.505000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:21.218000" end="0:52:23.505000" age_lower="18" age_upper="35">
 wie	wie	ADV	-	0:52:21.218000	0:52:23.505000
 gesagt	sagen	VERB	-	0:52:21.218000	0:52:23.505000
 ,	-	-	-	0:52:21.218000	0:52:23.505000
@@ -13585,11 +13585,11 @@ wenig	wenig	DET	-	0:52:21.218000	0:52:23.505000
 Fernsehen	Fernsehen	NOUN	-	0:52:21.218000	0:52:23.505000
 .	-	-	-	0:52:21.218000	0:52:23.505000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:23.505000" end="0:52:24.385000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:23.505000" end="0:52:24.385000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:23.505000	0:52:24.385000
 .	-	-	-	0:52:23.505000	0:52:24.385000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:24.385000" end="0:52:34.791000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:24.385000" end="0:52:34.791000" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:52:24.385000	0:52:26.385000
 muss	muss	VERB	-	0:52:24.385000	0:52:26.385000
 ich	ich	PRON	-	0:52:24.385000	0:52:26.385000
@@ -13612,11 +13612,11 @@ schauen	schauen	VERB	-	0:52:26.385000	0:52:33.565000
 weil	weil	SCONJ	-	0:52:33.565000	0:52:34.791000
 die	der	PRON	-	0:52:33.565000	0:52:34.791000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:33.565000" end="0:52:34.791000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:33.565000" end="0:52:34.791000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:33.565000	0:52:34.791000
 .	-	-	-	0:52:33.565000	0:52:34.791000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:34.791000" end="0:52:35.991000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:34.791000" end="0:52:35.991000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:52:34.791000	0:52:35.991000
 irgendwie	irgendwie	ADV	-	0:52:34.791000	0:52:35.991000
 schon	schon	ADV	-	0:52:34.791000	0:52:35.991000
@@ -13624,11 +13624,11 @@ auf	auf	ADP	-	0:52:34.791000	0:52:35.991000
 das	der	DET	-	0:52:34.791000	0:52:35.991000
 /,	-	-	-	0:52:34.791000	0:52:35.991000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:35.991000" end="0:52:36.578000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:35.991000" end="0:52:36.578000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:35.991000	0:52:36.578000
 .	-	-	-	0:52:35.991000	0:52:36.578000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:36.578000" end="0:52:41.385000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:36.578000" end="0:52:41.385000" age_lower="18" age_upper="35">
 zwanzig	zwanzig	NUM	-	0:52:36.578000	0:52:37.791000
 Minuten	Minute	NOUN	-	0:52:36.578000	0:52:37.791000
 ,	-	-	-	0:52:36.578000	0:52:37.791000
@@ -13647,11 +13647,11 @@ passiert	-	-	-	0:52:37.791000	0:52:40.938000
 und	und	CCONJ	-	0:52:40.938000	0:52:41.385000
 /,	-	-	-	0:52:40.938000	0:52:41.385000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:40.938000" end="0:52:41.385000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:40.938000" end="0:52:41.385000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:40.938000	0:52:41.385000
 .	-	-	-	0:52:40.938000	0:52:41.385000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:41.385000" end="0:52:46.505000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:41.385000" end="0:52:46.505000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:52:41.385000	0:52:44.071000
 zum	zum	ADP	-	0:52:41.385000	0:52:44.071000
 Zeitunglesen	Zeitunglesen	NOUN	-	0:52:41.385000	0:52:44.071000
@@ -13675,11 +13675,11 @@ die	der	DET	-	0:52:44.071000	0:52:46.505000
 Zeitung	Zeitung	NOUN	-	0:52:44.071000	0:52:46.505000
 .	-	-	-	0:52:44.071000	0:52:46.505000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:46.505000" end="0:52:47.358000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:46.505000" end="0:52:47.358000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:46.505000	0:52:47.358000
 .	-	-	-	0:52:46.505000	0:52:47.358000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:47.358000" end="0:52:50.671000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:47.358000" end="0:52:50.671000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:52:47.358000	0:52:50.671000
 "Kärnten	Kärnten	PROPN	-	0:52:47.358000	0:52:50.671000
 Heute"	Heute	ADV	-	0:52:47.358000	0:52:50.671000
@@ -13690,11 +13690,11 @@ regelmäßig	regelmäßig	ADJ	-	0:52:47.358000	0:52:50.671000
 zu	zu	PART	-	0:52:47.358000	0:52:50.671000
 schauen	schauen	VERB	-	0:52:47.358000	0:52:50.671000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:50.671000" end="0:52:51.358000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:50.671000" end="0:52:51.358000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:52:50.671000	0:52:51.358000
 .	-	-	-	0:52:50.671000	0:52:51.358000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:51.358000" end="0:52:54.698000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:51.358000" end="0:52:54.698000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:52:51.358000	0:52:52.865000
 zumindest	zumindest	ADV	-	0:52:51.358000	0:52:52.865000
 nachzulesen	nachlesen	VERB	-	0:52:51.358000	0:52:52.865000
@@ -13708,7 +13708,7 @@ erzählt	erzählen	VERB	-	0:52:52.865000	0:52:54.698000
 haben	haben	AUX	-	0:52:52.865000	0:52:54.698000
 .	-	-	-	0:52:52.865000	0:52:54.698000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:54.698000" end="0:53:01.885000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:52:54.698000" end="0:53:01.885000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 also	also	ADV	-	0:52:54.698000	0:52:58.758000
 dir	sich	PRON	-	0:52:54.698000	0:52:58.758000
@@ -13730,11 +13730,11 @@ Sendungen	Sendung	NOUN	-	0:52:58.758000	0:53:01.885000
 sehen	sehen	VERB	-	0:52:58.758000	0:53:01.885000
 ,	-	-	-	0:52:58.758000	0:53:01.885000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:01.885000" end="0:53:02.651000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:01.885000" end="0:53:02.651000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:01.885000	0:53:02.651000
 .	-	-	-	0:53:01.885000	0:53:02.651000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:02.651000" end="0:53:05.458000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:02.651000" end="0:53:05.458000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:53:02.651000	0:53:04.505000
 die	der	PRON	-	0:53:02.651000	0:53:04.505000
 sind	sein	AUX	-	0:53:02.651000	0:53:04.505000
@@ -13751,11 +13751,11 @@ dann	dann	ADV	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelev
 auch	auch	ADV	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:53:04.505000	0:53:05.458000
 keinen	kein	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:53:04.505000	0:53:05.458000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:05.458000" end="0:53:05.818000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:05.458000" end="0:53:05.818000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:05.458000	0:53:05.818000
 .	-	-	-	0:53:05.458000	0:53:05.818000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:05.458000" end="0:53:06.518000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:05.458000" end="0:53:06.518000" age_lower="18" age_upper="35">
 Geist	Geist	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:53:05.458000	0:53:05.818000
 mehr	mehr	ADV	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:53:05.458000	0:53:05.818000
 ,	-	-	-	0:53:05.458000	0:53:05.818000
@@ -13763,20 +13763,20 @@ so	so	ADV	-	0:53:05.818000	0:53:06.518000
 lange	lang	ADV	-	0:53:05.818000	0:53:06.518000
 aufzu=	aufbleiben	VERB	-	0:53:05.818000	0:53:06.518000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.518000" end="0:53:06.905000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.518000" end="0:53:06.905000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:53:06.518000	0:53:06.905000
 ,	-	-	-	0:53:06.518000	0:53:06.905000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.518000" end="0:53:06.905000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.518000" end="0:53:06.905000" age_lower="18" age_upper="35">
 bleiben	-	SPACE	-	0:53:06.518000	0:53:06.905000
 .	-	-	-	0:53:06.518000	0:53:06.905000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.905000" end="0:53:08.078000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.905000" end="0:53:08.078000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:53:06.905000	0:53:08.078000
 stimmt	stimmen	VERB	-	0:53:06.905000	0:53:08.078000
 .	-	-	-	0:53:06.905000	0:53:08.078000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.905000" end="0:53:10.691000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:06.905000" end="0:53:10.691000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:53:06.905000	0:53:08.078000
 geht	gehen	VERB	-	0:53:06.905000	0:53:08.078000
 es	ich	PRON	-	0:53:06.905000	0:53:08.078000
@@ -13797,7 +13797,7 @@ Fernsehen	Fernsehen	NOUN	-	0:53:09.785000	0:53:10.691000
 sehen)	sehen	VERB	-	0:53:09.785000	0:53:10.691000
 .	-	-	-	0:53:09.785000	0:53:10.691000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:10.691000" end="0:53:12.178000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:10.691000" end="0:53:12.178000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:53:10.691000	0:53:12.178000
 ich	ich	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:53:10.691000	0:53:12.178000
 habe	habe	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:53:10.691000	0:53:12.178000
@@ -13805,7 +13805,7 @@ keine	kein	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrele
 Lieblingssendung	Lieblingssendung	NOUN	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:53:10.691000	0:53:12.178000
 .	-	-	-	0:53:10.691000	0:53:12.178000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:12.178000" end="0:53:20.865000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:12.178000" end="0:53:20.865000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:53:12.178000	0:53:18.525000
 ,	-	-	-	0:53:12.178000	0:53:18.525000
 <pause duration="0,7s"/>
@@ -13839,11 +13839,11 @@ und	und	CCONJ	-	0:53:18.525000	0:53:20.865000
 so	so	ADV	-	0:53:18.525000	0:53:20.865000
 .	-	-	-	0:53:18.525000	0:53:20.865000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:20.865000" end="0:53:21.331000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:20.865000" end="0:53:21.331000" age_lower="18" age_upper="35">
 mhm	mh	X	-	0:53:20.865000	0:53:21.331000
 .	-	-	-	0:53:20.865000	0:53:21.331000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:21.331000" end="0:53:27.198000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:21.331000" end="0:53:27.198000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ja	ja	PART	-	0:53:21.331000	0:53:26.258000
 ,	-	-	-	0:53:21.331000	0:53:26.258000
@@ -13860,13 +13860,13 @@ um	um	ADP	-	0:53:26.258000	0:53:27.198000
 neun	neun	NUM	-	0:53:26.258000	0:53:27.198000
 ,	-	-	-	0:53:26.258000	0:53:27.198000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:27.198000" end="0:53:29.198000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:27.198000" end="0:53:29.198000" age_lower="18" age_upper="35">
 die	-	-	-	0:53:27.198000	0:53:29.198000
 *schaust*	-	-	-	0:53:27.198000	0:53:29.198000
 dann	-	-	-	0:53:27.198000	0:53:29.198000
 /,	-	-	-	0:53:27.198000	0:53:29.198000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:27.198000" end="0:53:30.065000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:27.198000" end="0:53:30.065000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 das	der	PRON	-	0:53:27.198000	0:53:29.198000
 geht	gehen	VERB	-	0:53:27.198000	0:53:29.198000
@@ -13874,13 +13874,13 @@ geht	gehen	VERB	-	0:53:27.198000	0:53:29.198000
 mhm	mhm	PROPN	-	0:53:29.198000	0:53:30.065000
 .	-	-	-	0:53:29.198000	0:53:30.065000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:30.065000" end="0:53:31.498000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:30.065000" end="0:53:31.498000" age_lower="18" age_upper="35">
 *schaust*	-	-	-	0:53:30.065000	0:53:30.885000
 die	-	-	-	0:53:30.065000	0:53:30.885000
 regelmäßig	-	-	-	0:53:30.885000	0:53:31.498000
 ?	-	-	-	0:53:30.885000	0:53:31.498000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:30.885000" end="0:53:55.105000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:30.885000" end="0:53:55.105000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:53:30.885000	0:53:31.498000
 ,	-	-	-	0:53:30.885000	0:53:31.498000
 also	also	ADV	-	0:53:30.885000	0:53:31.498000
@@ -13962,7 +13962,7 @@ nicht	-	-	-	0:53:53.411000	0:53:55.105000
 oder	oder	CCONJ	-	0:53:53.411000	0:53:55.105000
 ?	-	-	-	0:53:53.411000	0:53:55.105000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:55.105000" end="0:53:57.171000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:55.105000" end="0:53:57.171000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:53:55.105000	0:53:55.545000
 ,	-	-	-	0:53:55.105000	0:53:55.545000
 <pause duration="0,5s"/>
@@ -13970,7 +13970,7 @@ nein	nein	PART	-	0:53:55.105000	0:53:55.545000
 nicht	nicht	PART	-	0:53:55.545000	0:53:57.171000
 .	-	-	-	0:53:55.545000	0:53:57.171000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:55.545000" end="0:53:59.785000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:55.545000" end="0:53:59.785000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ich	ich	PRON	-	0:53:55.545000	0:53:57.171000
 eigentlich	eigentlich	ADV	-	0:53:55.545000	0:53:57.171000
@@ -13983,12 +13983,12 @@ nicht	nicht	PART	-	0:53:55.545000	0:53:57.171000
 ja	ja	PART	-	0:53:57.458000	0:53:59.785000
 .	-	-	-	0:53:57.458000	0:53:59.785000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:59.785000" end="0:54:00.631000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:59.785000" end="0:54:00.631000" age_lower="18" age_upper="35">
 überhaupt	überhaupt	ADV	-	0:53:59.785000	0:54:00.631000
 nicht	nicht	PART	-	0:53:59.785000	0:54:00.631000
 .	-	-	-	0:53:59.785000	0:54:00.631000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:59.785000" end="0:54:05.031000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:53:59.785000" end="0:54:05.031000" age_lower="18" age_upper="35">
 (über	über	ADP	-	0:53:59.785000	0:54:00.631000
 das)	der	DET	-	0:53:59.785000	0:54:00.631000
 das	der	PRON	-	0:54:00.631000	0:54:02.411000
@@ -14007,7 +14007,7 @@ Sendung	Sendung	NOUN	-	0:54:02.411000	0:54:05.031000
 aber	aber	CCONJ	-	0:54:02.411000	0:54:05.031000
 /.	-	-	-	0:54:02.411000	0:54:05.031000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:05.031000" end="0:54:08.625000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:05.031000" end="0:54:08.625000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 das	der	PRON	-	0:54:05.031000	0:54:08.111000
 muss	muss	VERB	-	0:54:05.031000	0:54:08.111000
@@ -14021,20 +14021,20 @@ od=	oder	CCONJ	-	0:54:05.031000	0:54:08.111000
 er	-	SPACE	-	0:54:08.111000	0:54:08.625000
 ?	-	-	-	0:54:08.111000	0:54:08.625000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:08.111000" end="0:54:08.625000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:08.111000" end="0:54:08.625000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:54:08.111000	0:54:08.625000
 .	-	-	-	0:54:08.111000	0:54:08.625000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:08.625000" end="0:54:09.811000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:08.625000" end="0:54:09.811000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 nein	nein	PART	-	0:54:08.625000	0:54:09.811000
 .	-	-	-	0:54:08.625000	0:54:09.811000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:09.811000" end="0:54:10.671000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:09.811000" end="0:54:10.671000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:54:09.811000	0:54:10.671000
 .	-	-	-	0:54:09.811000	0:54:10.671000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:10.671000" end="0:54:14.891000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:10.671000" end="0:54:14.891000" age_lower="18" age_upper="35">
 schaue	schauen	VERB	-	0:54:10.671000	0:54:11.378000
 ich	ich	PRON	-	0:54:10.671000	0:54:11.378000
 auch	auch	ADV	-	0:54:10.671000	0:54:11.378000
@@ -14045,7 +14045,7 @@ an	an	ADP	-	0:54:10.671000	0:54:11.378000
 nein	na	X	-	0:54:11.378000	0:54:14.891000
 .	-	-	-	0:54:11.378000	0:54:14.891000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:14.891000" end="0:54:18.251000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:14.891000" end="0:54:18.251000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 ja	ja	ADV	-	0:54:14.891000	0:54:18.251000
 ,	-	-	-	0:54:14.891000	0:54:18.251000
@@ -14054,10 +14054,10 @@ ist	sein	AUX	-	0:54:14.891000	0:54:18.251000
 schwierig	schwierig	ADJ	-	0:54:14.891000	0:54:18.251000
 ,	-	-	-	0:54:14.891000	0:54:18.251000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:18.251000" end="0:54:19.925000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:18.251000" end="0:54:19.925000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:18.251000" end="0:54:31.704000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:18.251000" end="0:54:31.704000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 in	in	ADP	-	0:54:18.251000	0:54:19.925000
 dem	der	DET	-	0:54:18.251000	0:54:19.925000
@@ -14101,7 +14101,7 @@ unbedingt	-	-	-	0:54:28.911000	0:54:31.704000
 interessant	-	-	-	0:54:28.911000	0:54:31.704000
 .	-	-	-	0:54:28.911000	0:54:31.704000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:31.704000" end="0:54:34.531000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:31.704000" end="0:54:34.531000" age_lower="18" age_upper="35">
 da	da	ADV	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:54:31.704000	0:54:32.924000
 hast	haben	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:54:31.704000	0:54:32.924000
 du	du	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:54:31.704000	0:54:32.924000
@@ -14115,26 +14115,26 @@ für	für	ADP	-	0:54:32.924000	0:54:34.531000
 uns	sich	PRON	-	0:54:32.924000	0:54:34.531000
 .	-	-	-	0:54:32.924000	0:54:34.531000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:34.531000" end="0:54:35.071000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:34.531000" end="0:54:35.071000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:54:34.531000	0:54:35.071000
 .	-	-	-	0:54:34.531000	0:54:35.071000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:35.071000" end="0:54:36.951000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:35.071000" end="0:54:36.951000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 so	so	ADV	-	0:54:35.071000	0:54:36.604000
 ,	-	-	-	0:54:35.071000	0:54:36.604000
 was	-	-	-	0:54:36.604000	0:54:36.951000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:36.604000" end="0:54:36.951000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:36.604000" end="0:54:36.951000" age_lower="18" age_upper="35">
 gut	-	-	-	0:54:36.604000	0:54:36.951000
 .	-	-	-	0:54:36.604000	0:54:36.951000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:36.951000" end="0:54:37.631000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:36.951000" end="0:54:37.631000" age_lower="18" age_upper="35">
 *magst*	-	-	-	0:54:36.951000	0:54:37.631000
 jetzt	-	-	-	0:54:36.951000	0:54:37.631000
 ?	-	-	-	0:54:36.951000	0:54:37.631000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:37.631000" end="0:54:40.338000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:37.631000" end="0:54:40.338000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 *weiß*	-	-	-	0:54:37.631000	0:54:40.338000
 nicht	-	-	-	0:54:37.631000	0:54:40.338000
@@ -14146,27 +14146,27 @@ für	-	-	-	0:54:37.631000	0:54:40.338000
 eine	-	-	-	0:54:37.631000	0:54:40.338000
 ?	-	-	-	0:54:37.631000	0:54:40.338000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:40.338000" end="0:54:41.258000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:40.338000" end="0:54:41.258000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:54:40.338000	0:54:41.258000
 habe	habe	AUX	-	0:54:40.338000	0:54:41.258000
 viel	viel	PRON	-	0:54:40.338000	0:54:41.258000
 /.	-	-	-	0:54:40.338000	0:54:41.258000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:41.258000" end="0:54:42.104000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:41.258000" end="0:54:42.104000" age_lower="18" age_upper="35">
 Defizite	Defizit	NOUN	-	0:54:41.258000	0:54:42.104000
 .	-	-	-	0:54:41.258000	0:54:42.104000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:42.104000" end="0:54:43.238000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:42.104000" end="0:54:43.238000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:54:42.104000	0:54:42.598000
 .	-	-	-	0:54:42.104000	0:54:42.598000
 Orange	orange	NOUN	-	0:54:42.598000	0:54:43.238000
 .	-	-	-	0:54:42.598000	0:54:43.238000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:42.598000" end="0:54:43.238000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:42.598000" end="0:54:43.238000" age_lower="18" age_upper="35">
 die	-	-	-	0:54:42.598000	0:54:43.238000
 /.	-	-	-	0:54:42.598000	0:54:43.238000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:43.238000" end="0:54:47.831000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:43.238000" end="0:54:47.831000" age_lower="18" age_upper="35">
 "Stelle	stelle	VERB	-	0:54:43.238000	0:54:47.831000
 dir	sich	PRON	-	0:54:43.238000	0:54:47.831000
 vor	vor	ADP	-	0:54:43.238000	0:54:47.831000
@@ -14176,7 +14176,7 @@ als	als	ADP	-	0:54:43.238000	0:54:47.831000
 Bundespräsident"	Bundespräsident	NOUN	-	0:54:43.238000	0:54:47.831000
 .	-	-	-	0:54:43.238000	0:54:47.831000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:47.831000" end="0:54:50.984000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:47.831000" end="0:54:50.984000" age_lower="18" age_upper="35">
 _ma_	-	-	-	0:54:47.831000	0:54:50.984000
 ,	-	-	-	0:54:47.831000	0:54:50.984000
 das/	-	-	-	0:54:47.831000	0:54:50.984000
@@ -14193,13 +14193,13 @@ erinnern	erinnern	VERB	-	0:54:47.831000	0:54:50.984000
 auf	auf	ADP	-	0:54:47.831000	0:54:50.984000
 die	der	DET	-	0:54:47.831000	0:54:50.984000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:50.984000" end="0:54:52.351000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:50.984000" end="0:54:52.351000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:50.984000" end="0:54:52.351000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:50.984000" end="0:54:52.351000" age_lower="18" age_upper="35">
 Frage	Frage	NOUN	-	0:54:50.984000	0:54:52.351000
 .	-	-	-	0:54:50.984000	0:54:52.351000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:52.351000" end="0:54:53.631000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:52.351000" end="0:54:53.631000" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:54:52.351000	0:54:53.224000
 dir	-	-	-	0:54:52.351000	0:54:53.224000
 das	-	-	-	0:54:52.351000	0:54:53.224000
@@ -14207,7 +14207,7 @@ vor=	-	-	-	0:54:52.351000	0:54:53.224000
 stellen	-	-	-	0:54:53.224000	0:54:53.631000
 ?	-	-	-	0:54:53.224000	0:54:53.631000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:53.224000" end="0:54:54.724000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:53.224000" end="0:54:54.724000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:54:53.224000	0:54:53.631000
 was	was	PRON	-	0:54:53.631000	0:54:54.724000
 habe	habe	AUX	-	0:54:53.631000	0:54:54.724000
@@ -14216,7 +14216,7 @@ damals	damals	ADV	-	0:54:53.631000	0:54:54.724000
 gesagt	sagen	VERB	-	0:54:53.631000	0:54:54.724000
 ?	-	-	-	0:54:53.631000	0:54:54.724000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:54.724000" end="0:54:58.111000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:54.724000" end="0:54:58.111000" age_lower="18" age_upper="35">
 weiß	weiß	VERB	-	0:54:54.724000	0:54:56.111000
 ich	ich	PRON	-	0:54:54.724000	0:54:56.111000
 nicht	nicht	PART	-	0:54:54.724000	0:54:56.111000
@@ -14227,7 +14227,7 @@ es	ich	PRON	-	0:54:56.111000	0:54:58.111000
 mir	-	-	-	0:54:56.111000	0:54:58.111000
 /.	-	-	-	0:54:56.111000	0:54:58.111000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:56.111000" end="0:55:00.304000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:54:56.111000" end="0:55:00.304000" age_lower="18" age_upper="35">
 ah	ah	X	-	0:54:56.111000	0:54:58.111000
 ,	-	-	-	0:54:56.111000	0:54:58.111000
 ich	ich	PRON	-	0:54:56.111000	0:54:58.111000
@@ -14249,9 +14249,9 @@ ich	ich	PRON	-	0:54:58.704000	0:55:00.304000
 gesagt	sagen	VERB	-	0:54:58.704000	0:55:00.304000
 ,	-	-	-	0:54:58.704000	0:55:00.304000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:00.304000" end="0:55:01.891000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:00.304000" end="0:55:01.891000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:00.304000" end="0:55:16.564000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:00.304000" end="0:55:16.564000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	0:55:00.304000	0:55:01.891000
 ich	ich	PRON	-	0:55:00.304000	0:55:01.891000
 bilde	bilde	VERB	-	0:55:00.304000	0:55:01.891000
@@ -14289,22 +14289,22 @@ selbst	selbst	ADV	-	0:55:10.318000	0:55:16.564000
 zerstören	zerstören	VERB	-	0:55:10.318000	0:55:16.564000
 .	-	-	-	0:55:10.318000	0:55:16.564000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:16.564000" end="0:55:17.698000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:16.564000" end="0:55:17.698000" age_lower="18" age_upper="35">
 findest	finden	VERB	-	0:55:16.564000	0:55:17.698000
 du	du	PRON	-	0:55:16.564000	0:55:17.698000
 ,	der	PRON	-	0:55:16.564000	0:55:17.698000
 das	-	-	-	0:55:16.564000	0:55:17.698000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:16.564000" end="0:55:17.698000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:16.564000" end="0:55:17.698000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:17.698000" end="0:55:18.978000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:17.698000" end="0:55:18.978000" age_lower="18" age_upper="35">
 der	der	DET	-	0:55:17.698000	0:55:18.978000
 nicht	nicht	PART	-	0:55:17.698000	0:55:18.978000
 notwendig	notwendig	ADJ	-	0:55:17.698000	0:55:18.978000
 ist	sein	AUX	-	0:55:17.698000	0:55:18.978000
 ?	-	-	-	0:55:17.698000	0:55:18.978000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:18.978000" end="0:55:19.704000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:18.978000" end="0:55:19.704000" age_lower="18" age_upper="35">
 so	so	ADV	-	0:55:18.978000	0:55:19.704000
 ist	sein	AUX	-	0:55:18.978000	0:55:19.704000
 es	ich	PRON	-	0:55:18.978000	0:55:19.704000
@@ -14312,14 +14312,14 @@ es	ich	PRON	-	0:55:18.978000	0:55:19.704000
 ja	ja	PART	-	0:55:18.978000	0:55:19.704000
 .	-	-	-	0:55:18.978000	0:55:19.704000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:19.704000" end="0:55:20.964000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:19.704000" end="0:55:20.964000" age_lower="18" age_upper="35">
 sehe	sehen	VERB	-	0:55:19.704000	0:55:20.964000
 ich	ich	PRON	-	0:55:19.704000	0:55:20.964000
 auch	auch	ADV	-	0:55:19.704000	0:55:20.964000
 so	so	ADV	-	0:55:19.704000	0:55:20.964000
 .	-	-	-	0:55:19.704000	0:55:20.964000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:20.964000" end="0:55:27.051000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:20.964000" end="0:55:27.051000" age_lower="18" age_upper="35">
 (bei)	bei	ADP	-	0:55:20.964000	0:55:24.884000
 der	der	DET	-	0:55:20.964000	0:55:24.884000
 Bundespräsident	Bundespräsident	NOUN	-	0:55:20.964000	0:55:24.884000
@@ -14334,14 +14334,14 @@ ist	sein	AUX	-	0:55:24.884000	0:55:27.051000
 ähm	ähm	PROPN	-	0:55:24.884000	0:55:27.051000
 ähm	ähm	PROPN	-	0:55:24.884000	0:55:27.051000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:27.051000" end="0:55:29.704000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:27.051000" end="0:55:29.704000" age_lower="18" age_upper="35">
 er	ich	PRON	-	0:55:27.051000	0:55:29.704000
 repräsentiert	repräsentieren	VERB	-	0:55:27.051000	0:55:29.704000
 das	der	DET	-	0:55:27.051000	0:55:29.704000
 Land	Land	NOUN	-	0:55:27.051000	0:55:29.704000
 .	-	-	-	0:55:27.051000	0:55:29.704000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:27.051000" end="0:55:34.531000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:27.051000" end="0:55:34.531000" age_lower="18" age_upper="35">
 eine	einen	DET	-	0:55:27.051000	0:55:29.704000
 unterschätzte	unterschätzen	ADJ	-	0:55:27.051000	0:55:29.704000
 Persönlichkeit	Persönlichkeit	NOUN	-	0:55:27.051000	0:55:29.704000
@@ -14363,13 +14363,13 @@ noch	-	-	-	0:55:32.531000	0:55:34.531000
 keiner	-	-	-	0:55:32.531000	0:55:34.531000
 /,	-	-	-	0:55:32.531000	0:55:34.531000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:34.531000" end="0:55:35.484000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:34.531000" end="0:55:35.484000" age_lower="18" age_upper="35">
 noch	noch	ADV	-	0:55:34.531000	0:55:35.484000
 keiner	kein	PRON	-	0:55:34.531000	0:55:35.484000
 genutzt	nutzen	VERB	-	0:55:34.531000	0:55:35.484000
 .	-	-	-	0:55:34.531000	0:55:35.484000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:35.484000" end="0:55:48.611000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:35.484000" end="0:55:48.611000" age_lower="18" age_upper="35">
 noch	-	-	-	0:55:35.484000	0:55:37.538000
 keiner	-	-	-	0:55:35.484000	0:55:37.538000
 genutzt	-	-	-	0:55:35.484000	0:55:37.538000
@@ -14415,12 +14415,12 @@ auch	-	-	-	0:55:47.091000	0:55:48.611000
 eingeladen	-	-	-	0:55:47.091000	0:55:48.611000
 .	-	-	-	0:55:47.091000	0:55:48.611000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:48.611000" end="0:55:50.224000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:48.611000" end="0:55:50.224000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	PART	-	0:55:48.611000	0:55:50.224000
 .	-	-	-	0:55:48.611000	0:55:50.224000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:50.224000" end="0:55:52.224000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:50.224000" end="0:55:52.224000" age_lower="18" age_upper="35">
 oder	oder	CCONJ	-	0:55:50.224000	0:55:52.224000
 zumindest	zumindest	ADV	-	0:55:50.224000	0:55:52.224000
 der	der	DET	-	0:55:50.224000	0:55:52.224000
@@ -14431,12 +14431,12 @@ schon	schon	ADV	-	0:55:50.224000	0:55:52.224000
 einmal	einmal	ADV	-	0:55:50.224000	0:55:52.224000
 .	-	-	-	0:55:50.224000	0:55:52.224000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:52.224000" end="0:55:53.851000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:52.224000" end="0:55:53.851000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 _boah_	boah	NOUN	-	0:55:52.224000	0:55:53.851000
 .	-	-	-	0:55:52.224000	0:55:53.851000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:52.224000" end="0:55:54.751000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:52.224000" end="0:55:54.751000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 weiß	weiß	VERB	-	0:55:52.224000	0:55:53.851000
 nicht	nicht	PART	-	0:55:52.224000	0:55:53.851000
@@ -14448,7 +14448,7 @@ auch	auch	ADV	-	0:55:53.851000	0:55:54.751000
 waren	sein	AUX	-	0:55:53.851000	0:55:54.751000
 .	-	-	-	0:55:53.851000	0:55:54.751000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:54.751000" end="0:55:56.318000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:54.751000" end="0:55:56.318000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:55:54.751000	0:55:56.318000
 ,	-	-	-	0:55:54.751000	0:55:56.318000
 das	der	PRON	-	0:55:54.751000	0:55:56.318000
@@ -14457,7 +14457,7 @@ ich	ich	PRON	-	0:55:54.751000	0:55:56.318000
 auch	auch	ADV	-	0:55:54.751000	0:55:56.318000
 .	-	-	-	0:55:54.751000	0:55:56.318000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:56.318000" end="0:56:14.724000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:55:56.318000" end="0:56:14.724000" age_lower="18" age_upper="35">
 oder	-	-	-	0:55:56.318000	0:56:00.051000
 zumindest	-	-	-	0:55:56.318000	0:56:00.051000
 wahrscheinlich	-	-	-	0:55:56.318000	0:56:00.051000
@@ -14509,16 +14509,16 @@ und	und	CCONJ	-	0:56:10.131000	0:56:14.724000
 wieso	wieso	ADV	-	0:56:10.131000	0:56:14.724000
 über=	über	ADP	-	0:56:10.131000	0:56:14.724000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:14.724000" end="0:56:15.431000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:14.724000" end="0:56:15.431000" age_lower="18" age_upper="35">
 warum	warum	ADV	-	0:56:14.724000	0:56:15.431000
 es	ich	PRON	-	0:56:14.724000	0:56:15.431000
 den	der	DET	-	0:56:14.724000	0:56:15.431000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:14.724000" end="0:56:15.431000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:14.724000" end="0:56:15.431000" age_lower="18" age_upper="35">
 =haupt	haupt	NOUN	-	0:56:14.724000	0:56:15.431000
 und	und	CCONJ	-	0:56:14.724000	0:56:15.431000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:15.431000" end="0:56:18.291000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:15.431000" end="0:56:18.291000" age_lower="18" age_upper="35">
 gibt	geben	VERB	-	0:56:15.431000	0:56:17.404000
 und	und	CCONJ	-	0:56:15.431000	0:56:17.404000
 die	der	DET	-	0:56:15.431000	0:56:17.404000
@@ -14529,7 +14529,7 @@ immer	immer	ADV	-	0:56:15.431000	0:56:17.404000
 weniger	-	-	-	0:56:17.404000	0:56:18.291000
 .	-	-	-	0:56:17.404000	0:56:18.291000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:17.404000" end="0:56:18.731000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:17.404000" end="0:56:18.731000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:56:17.404000	0:56:18.291000
 ,	-	-	-	0:56:17.404000	0:56:18.291000
 ja	-	-	-	0:56:17.404000	0:56:18.291000
@@ -14537,7 +14537,7 @@ ja	-	-	-	0:56:17.404000	0:56:18.291000
 ja	ja	PART	-	0:56:18.291000	0:56:18.731000
 .	-	-	-	0:56:18.291000	0:56:18.731000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:18.731000" end="0:56:23.011000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:18.731000" end="0:56:23.011000" age_lower="18" age_upper="35">
 deswegen	deswegen	ADV	-	0:56:18.731000	0:56:21.231000
 glaube	glauben	VERB	-	0:56:18.731000	0:56:21.231000
 ich	ich	PRON	-	0:56:18.731000	0:56:21.231000
@@ -14556,16 +14556,16 @@ notwendig	notwendig	ADJ	-	0:56:21.231000	0:56:23.011000
 brauchen	brauchen	VERB	-	0:56:21.231000	0:56:23.011000
 .	-	-	-	0:56:21.231000	0:56:23.011000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:23.011000" end="0:56:23.684000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:23.011000" end="0:56:23.684000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:56:23.011000	0:56:23.684000
 .	-	-	-	0:56:23.011000	0:56:23.684000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:23.684000" end="0:56:26.424000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:23.684000" end="0:56:26.424000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 mhm	mhm	PROPN	-	0:56:23.684000	0:56:26.424000
 .	-	-	-	0:56:23.684000	0:56:26.424000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:23.684000" end="0:56:41.004000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:23.684000" end="0:56:41.004000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 genau	genau	ADJ	-	0:56:23.684000	0:56:26.424000
 .	-	-	-	0:56:23.684000	0:56:26.424000
@@ -14610,16 +14610,16 @@ zum	zum	ADP	-	0:56:37.144000	0:56:41.004000
 Reisen	Reise	NOUN	-	0:56:37.144000	0:56:41.004000
 ,	-	-	-	0:56:37.144000	0:56:41.004000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:41.004000" end="0:56:41.858000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:41.004000" end="0:56:41.858000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:56:41.004000	0:56:41.858000
 ,	-	-	-	0:56:41.004000	0:56:41.858000
 _uma_	-	-	-	0:56:41.004000	0:56:41.858000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:41.004000" end="0:56:41.858000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:41.004000" end="0:56:41.858000" age_lower="18" age_upper="35">
 gell	gell	ADJ	-	0:56:41.004000	0:56:41.858000
 ?	-	-	-	0:56:41.004000	0:56:41.858000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:41.858000" end="0:56:44.778000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:41.858000" end="0:56:44.778000" age_lower="18" age_upper="35">
 fahren	-	-	-	0:56:41.858000	0:56:42.978000
 ,	-	-	-	0:56:41.858000	0:56:42.978000
 das	-	-	-	0:56:41.858000	0:56:42.978000
@@ -14630,7 +14630,7 @@ intere=	-	-	-	0:56:42.978000	0:56:44.144000
 ssant	-	-	-	0:56:44.144000	0:56:44.778000
 .	-	-	-	0:56:44.144000	0:56:44.778000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:44.144000" end="0:56:48.731000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:44.144000" end="0:56:48.731000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:56:44.144000	0:56:44.778000
 .	-	-	-	0:56:44.144000	0:56:44.778000
 <pause duration="2,7s"/>
@@ -14643,7 +14643,7 @@ schlecht	schlecht	ADJ	-	0:56:44.778000	0:56:48.731000
 ja	ja	PART	-	0:56:44.778000	0:56:48.731000
 .	-	-	-	0:56:44.778000	0:56:48.731000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:48.731000" end="0:56:53.931000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:48.731000" end="0:56:53.931000" age_lower="18" age_upper="35">
 aber	-	-	-	0:56:48.731000	0:56:51.718000
 *bist*	-	-	-	0:56:48.731000	0:56:51.718000
 ja	-	-	-	0:56:48.731000	0:56:51.718000
@@ -14669,36 +14669,36 @@ nicht	-	-	-	0:56:51.718000	0:56:53.611000
 erst	-	-	-	0:56:53.611000	0:56:53.931000
 mit	-	-	-	0:56:53.611000	0:56:53.931000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:53.611000" end="0:56:53.931000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:53.611000" end="0:56:53.931000" age_lower="18" age_upper="35">
 _boah_	boah	VERB	-	0:56:53.611000	0:56:53.931000
 ,	-	-	-	0:56:53.611000	0:56:53.931000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:53.931000" end="0:56:55.311000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:53.931000" end="0:56:55.311000" age_lower="18" age_upper="35">
 fünfundvierzig	-	-	-	0:56:53.931000	0:56:55.311000
 ,	-	-	-	0:56:53.931000	0:56:55.311000
 glaube	-	-	-	0:56:53.931000	0:56:55.311000
 ich	-	-	-	0:56:53.931000	0:56:55.311000
 .	-	-	-	0:56:53.931000	0:56:55.311000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:55.311000" end="0:56:56.218000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:55.311000" end="0:56:56.218000" age_lower="18" age_upper="35">
 ich	ich	PRON	-	0:56:55.311000	0:56:56.218000
 weiß	weiß	VERB	-	0:56:55.311000	0:56:56.218000
 gar	gar	ADV	-	0:56:55.311000	0:56:56.218000
 nicht	nicht	PART	-	0:56:55.311000	0:56:56.218000
 .	-	-	-	0:56:55.311000	0:56:56.218000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:56.218000" end="0:57:00.111000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:56.218000" end="0:57:00.111000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 oder	oder	CCONJ	-	0:56:56.218000	0:56:59.344000
 dreiundvierzig	dreiundvierzig	NUM	-	0:56:56.218000	0:56:59.344000
 oder	oder	CCONJ	-	0:56:56.218000	0:56:59.344000
 fünfundvierzig	fünfundvierzig	ADJ	-	0:56:59.344000	0:57:00.111000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:59.344000" end="0:57:00.111000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:56:59.344000" end="0:57:00.111000" age_lower="18" age_upper="35">
 hm	hm	X	-	0:56:59.344000	0:57:00.111000
 .	-	-	-	0:56:59.344000	0:57:00.111000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:00.111000" end="0:57:02.398000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:00.111000" end="0:57:02.398000" age_lower="18" age_upper="35">
 glaube	glauben	VERB	-	0:57:00.111000	0:57:02.398000
 ich	ich	PRON	-	0:57:00.111000	0:57:02.398000
 ,	-	-	-	0:57:00.111000	0:57:02.398000
@@ -14708,7 +14708,7 @@ Bundespräsident	-	-	-	0:57:00.111000	0:57:02.398000
 werden	-	-	-	0:57:00.111000	0:57:02.398000
 .	-	-	-	0:57:00.111000	0:57:02.398000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:02.398000" end="0:57:10.458000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:02.398000" end="0:57:10.458000" age_lower="18" age_upper="35">
 möglich	möglich	ADJ	-	0:57:02.398000	0:57:03.178000
 ,	-	-	-	0:57:02.398000	0:57:03.178000
 ja	ja	PART	-	0:57:02.398000	0:57:03.178000
@@ -14733,12 +14733,12 @@ jetzt	jetzt	ADV	-	0:57:06.904000	0:57:10.458000
 ausgeglichen	ausgleichen	VERB	-	0:57:06.904000	0:57:10.458000
 .	-	-	-	0:57:06.904000	0:57:10.458000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:10.458000" end="0:57:11.751000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:10.458000" end="0:57:11.751000" age_lower="18" age_upper="35">
 alles	alle	PRON	-	0:57:10.458000	0:57:11.751000
 egal	egal	ADV	-	0:57:10.458000	0:57:11.751000
 .	-	-	-	0:57:10.458000	0:57:11.751000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:10.458000" end="0:57:13.751000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:10.458000" end="0:57:13.751000" age_lower="18" age_upper="35">
 *kannst*	-	-	-	0:57:10.458000	0:57:11.751000
 dir	-	-	-	0:57:10.458000	0:57:11.751000
 eine	-	-	-	0:57:10.458000	0:57:11.751000
@@ -14754,11 +14754,11 @@ jetzt	jetzt	ADV	-	0:57:11.751000	0:57:13.751000
 gehabt	haben	AUX	-	0:57:11.751000	0:57:13.751000
 ?	-	-	-	0:57:11.751000	0:57:13.751000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:13.751000" end="0:57:14.711000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:13.751000" end="0:57:14.711000" age_lower="18" age_upper="35">
 Orange	orange	NOUN	-	0:57:13.751000	0:57:14.711000
 .	-	-	-	0:57:13.751000	0:57:14.711000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:13.751000" end="0:57:18.738000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:13.751000" end="0:57:18.738000" age_lower="18" age_upper="35">
 er/	-	-	-	0:57:13.751000	0:57:14.711000
 /.	-	-	-	0:57:13.751000	0:57:14.711000
 Orange	orange	NOUN	-	0:57:14.711000	0:57:15.838000
@@ -14774,7 +14774,7 @@ deiner	sich	DET	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel
 Kindheit"	Kindheit	NOUN	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Quel irrelevant	0:57:15.838000	0:57:18.738000
 .	-	-	-	0:57:15.838000	0:57:18.738000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:18.738000" end="0:57:25.184000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:18.738000" end="0:57:25.184000" age_lower="18" age_upper="35">
 ich	ich	PRON	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:57:18.738000	0:57:22.591000
 habe	habe	AUX	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:57:18.738000	0:57:22.591000
 eine	einen	DET	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	0:57:18.738000	0:57:22.591000
@@ -14789,11 +14789,11 @@ gut	gut	ADJ	-	0:57:22.591000	0:57:25.184000
 aufgewachsen	aufwachsen	VERB	-	0:57:22.591000	0:57:25.184000
 .	-	-	-	0:57:22.591000	0:57:25.184000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:25.184000" end="0:57:25.851000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:25.184000" end="0:57:25.851000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:25.184000	0:57:25.851000
 .	-	-	-	0:57:25.184000	0:57:25.851000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:25.851000" end="0:57:28.424000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:25.851000" end="0:57:28.424000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	0:57:25.851000	0:57:27.498000
 noch	noch	ADV	-	0:57:25.851000	0:57:27.498000
 sehr	sehr	ADV	-	0:57:25.851000	0:57:27.498000
@@ -14805,11 +14805,11 @@ ich	ich	PRON	-	0:57:27.498000	0:57:28.424000
 einmal	einmal	ADV	-	0:57:27.498000	0:57:28.424000
 .	-	-	-	0:57:27.498000	0:57:28.424000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:28.424000" end="0:57:28.884000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:28.424000" end="0:57:28.884000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:28.424000	0:57:28.884000
 .	-	-	-	0:57:28.424000	0:57:28.884000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:28.884000" end="0:57:31.651000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:28.884000" end="0:57:31.651000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:57:28.884000	0:57:31.651000
 wenn	wenn	SCONJ	-	0:57:28.884000	0:57:31.651000
 ich	ich	PRON	-	0:57:28.884000	0:57:31.651000
@@ -14823,9 +14823,9 @@ so	so	ADV	-	0:57:28.884000	0:57:31.651000
 anschaue	anschauen	VERB	-	0:57:28.884000	0:57:31.651000
 ,	-	-	-	0:57:28.884000	0:57:31.651000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:31.651000" end="0:57:32.998000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:31.651000" end="0:57:32.998000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:32.998000" end="0:57:37.458000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:32.998000" end="0:57:37.458000" age_lower="18" age_upper="35">
 die	der	PRON	-	0:57:32.998000	0:57:35.758000
 sitzen	sitzen	VERB	-	0:57:32.998000	0:57:35.758000
 nur	nur	ADV	-	0:57:32.998000	0:57:35.758000
@@ -14841,11 +14841,11 @@ herum	herum	ADP	-	0:57:35.758000	0:57:37.458000
 und	und	CCONJ	-	0:57:35.758000	0:57:37.458000
 /,	-	-	-	0:57:35.758000	0:57:37.458000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:37.458000" end="0:57:37.844000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:37.458000" end="0:57:37.844000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:37.458000	0:57:37.844000
 .	-	-	-	0:57:37.458000	0:57:37.844000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:37.844000" end="0:57:39.844000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:37.844000" end="0:57:39.844000" age_lower="18" age_upper="35">
 obwohl	obwohl	SCONJ	-	0:57:37.844000	0:57:39.844000
 die	der	PRON	-	0:57:37.844000	0:57:39.844000
 noch	noch	ADV	-	0:57:37.844000	0:57:39.844000
@@ -14853,7 +14853,7 @@ nicht	nicht	PART	-	0:57:37.844000	0:57:39.844000
 einmal	einmal	ADV	-	0:57:37.844000	0:57:39.844000
 /,	-	-	-	0:57:37.844000	0:57:39.844000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:37.844000" end="0:57:39.844000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:37.844000" end="0:57:39.844000" age_lower="18" age_upper="35">
 (sind	sehen	VERB	-	0:57:37.844000	0:57:39.844000
 das	-	-	-	0:57:37.844000	0:57:39.844000
 die	-	-	-	0:57:37.844000	0:57:39.844000
@@ -14861,7 +14861,7 @@ noch	-	-	-	0:57:37.844000	0:57:39.844000
 immer)	-	-	-	0:57:37.844000	0:57:39.844000
 ?	-	-	-	0:57:37.844000	0:57:39.844000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:39.844000" end="0:57:44.044000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:39.844000" end="0:57:44.044000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	ja	ADV	-	0:57:39.844000	0:57:43.424000
 ,	-	-	-	0:57:39.844000	0:57:43.424000
@@ -14877,11 +14877,11 @@ sind	sein	AUX	-	0:57:39.844000	0:57:43.424000
 gell	gell	ADJ	-	0:57:43.424000	0:57:44.044000
 ?	-	-	-	0:57:43.424000	0:57:44.044000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:43.424000" end="0:57:44.044000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:43.424000" end="0:57:44.044000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:43.424000	0:57:44.044000
 .	-	-	-	0:57:43.424000	0:57:44.044000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:44.044000" end="0:57:52.024000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:44.044000" end="0:57:52.024000" age_lower="18" age_upper="35">
 weil	weil	SCONJ	-	0:57:44.044000	0:57:46.044000
 es	ich	PRON	-	0:57:44.044000	0:57:46.044000
 gibt	geben	VERB	-	0:57:44.044000	0:57:46.044000
@@ -14912,11 +14912,11 @@ wird	-	-	-	0:57:48.391000	0:57:51.731000
 dass	dass	SCONJ	-	0:57:51.731000	0:57:52.024000
 es	ich	PRON	-	0:57:51.731000	0:57:52.024000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:52.024000" end="0:57:52.444000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:52.024000" end="0:57:52.444000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:52.024000	0:57:52.444000
 .	-	-	-	0:57:52.024000	0:57:52.444000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:52.444000" end="0:57:56.071000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:52.444000" end="0:57:56.071000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 dass	dass	SCONJ	-	0:57:52.444000	0:57:55.784000
 es	ich	PRON	-	0:57:52.444000	0:57:55.784000
@@ -14926,11 +14926,11 @@ gibt	geben	VERB	-	0:57:52.444000	0:57:55.784000
 .	-	-	-	0:57:52.444000	0:57:55.784000
 die	der	PRON	-	0:57:55.784000	0:57:56.071000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:55.784000" end="0:57:56.071000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:55.784000" end="0:57:56.071000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	0:57:55.784000	0:57:56.071000
 .	-	-	-	0:57:55.784000	0:57:56.071000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:56.071000" end="0:57:59.704000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:56.071000" end="0:57:59.704000" age_lower="18" age_upper="35">
 gehen	gehen	VERB	-	0:57:56.071000	0:57:56.938000
 nichts	nichts	PRON	-	0:57:56.071000	0:57:56.938000
 in	in	ADP	-	0:57:56.071000	0:57:56.938000
@@ -14946,13 +14946,13 @@ oder	oder	CCONJ	-	0:57:58.471000	0:57:59.704000
 irgendsoetwas	irgendsoetwas	PRON	-	0:57:58.471000	0:57:59.704000
 .	-	-	-	0:57:58.471000	0:57:59.704000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:58.471000" end="0:57:59.704000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:58.471000" end="0:57:59.704000" age_lower="18" age_upper="35">
 nein	nein	PART	-	0:57:58.471000	0:57:59.704000
 ,	-	-	-	0:57:58.471000	0:57:59.704000
 nein	nein	PART	-	0:57:58.471000	0:57:59.704000
 .	-	-	-	0:57:58.471000	0:57:59.704000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:59.704000" end="0:58:03.484000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:57:59.704000" end="0:58:03.484000" age_lower="18" age_upper="35">
 also	also	ADV	-	0:57:59.704000	0:58:02.564000
 wir	ich	PRON	-	0:57:59.704000	0:58:02.564000
 sind	sein	AUX	-	0:57:59.704000	0:58:02.564000
@@ -14966,7 +14966,7 @@ ich	ich	PRON	-	0:58:02.564000	0:58:03.484000
 einmal	einmal	ADV	-	0:58:02.564000	0:58:03.484000
 .	-	-	-	0:58:02.564000	0:58:03.484000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:03.484000" end="0:58:16.371000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:03.484000" end="0:58:16.371000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 und	und	CCONJ	-	0:58:03.484000	0:58:05.484000
 vor	vor	ADP	-	0:58:03.484000	0:58:05.484000
@@ -15020,11 +15020,11 @@ pass	pass	PROPN	-	0:58:13.931000	0:58:16.371000
 dort	dort	ADV	-	0:58:13.931000	0:58:16.371000
 auf"	auf	ADP	-	0:58:13.931000	0:58:16.371000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:16.371000" end="0:58:18.771000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:16.371000" end="0:58:18.771000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:17.578000	0:58:18.771000
 .	-	-	-	0:58:17.578000	0:58:18.771000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:17.578000" end="0:58:20.704000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:17.578000" end="0:58:20.704000" age_lower="18" age_upper="35">
 mein	meinen	DET	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Soz irrelevant	0:58:17.578000	0:58:18.771000
 Gott	Gott	NOUN	+menschl -belebt App PM PR Pkon Poss PossPron+NP Prel Psond Soz irrelevant	0:58:17.578000	0:58:18.771000
 .	-	-	-	0:58:17.578000	0:58:18.771000
@@ -15037,16 +15037,16 @@ uns	sich	PRON	-	0:58:18.771000	0:58:20.704000
 überhaupt	überhaupt	ADV	-	0:58:18.771000	0:58:20.704000
 kei=	kein	DET	-	0:58:18.771000	0:58:20.704000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:20.704000" end="0:58:21.538000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:20.704000" end="0:58:21.538000" age_lower="18" age_upper="35">
 überhaupt	überhaupt	ADV	-	0:58:20.704000	0:58:21.538000
 keinen	kein	PRON	-	0:58:20.704000	0:58:21.538000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:20.704000" end="0:58:21.538000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:20.704000" end="0:58:21.538000" age_lower="18" age_upper="35">
 nen	-	SPACE	-	0:58:20.704000	0:58:21.538000
 interessiert	interessieren	ADJ	-	0:58:20.704000	0:58:21.538000
 .	-	-	-	0:58:20.704000	0:58:21.538000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:21.538000" end="0:58:24.398000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:21.538000" end="0:58:24.398000" age_lower="18" age_upper="35">
 interessiert	interessieren	ADJ	-	0:58:21.538000	0:58:23.804000
 ,	-	-	-	0:58:21.538000	0:58:23.804000
 du	du	PRON	-	0:58:21.538000	0:58:23.804000
@@ -15061,26 +15061,26 @@ kommen	kommen	VERB	-	0:58:23.804000	0:58:24.398000
 ,	-	-	-	0:58:23.804000	0:58:24.398000
 dreck=	-	-	-	0:58:23.804000	0:58:24.398000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:23.804000" end="0:58:24.398000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:23.804000" end="0:58:24.398000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:23.804000	0:58:24.398000
 .	-	-	-	0:58:23.804000	0:58:24.398000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:24.398000" end="0:58:24.964000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:24.398000" end="0:58:24.964000" age_lower="18" age_upper="35">
 ig	-	SPACE	-	0:58:24.398000	0:58:24.964000
 und	und	CCONJ	-	0:58:24.398000	0:58:24.964000
 /,	-	-	-	0:58:24.398000	0:58:24.964000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:24.964000" end="0:58:26.038000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:24.964000" end="0:58:26.038000" age_lower="18" age_upper="35">
 *warst*	-	-	-	0:58:24.964000	0:58:26.038000
 halt	-	-	-	0:58:24.964000	0:58:26.038000
 _aufghaut_	-	-	-	0:58:24.964000	0:58:26.038000
 ,	-	-	-	0:58:24.964000	0:58:26.038000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:26.038000" end="0:58:26.411000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:26.038000" end="0:58:26.411000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:58:26.038000	0:58:26.411000
 .	-	-	-	0:58:26.038000	0:58:26.411000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:26.038000" end="0:58:27.711000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:26.038000" end="0:58:27.711000" age_lower="18" age_upper="35">
 ja	-	-	-	0:58:26.038000	0:58:26.411000
 ,	-	-	-	0:58:26.038000	0:58:26.411000
 *bist*	-	-	-	0:58:26.038000	0:58:26.411000
@@ -15092,11 +15092,11 @@ ja	ja	PART	-	0:58:26.411000	0:58:27.711000
 und	und	CCONJ	-	0:58:26.411000	0:58:27.711000
 ?	-	-	-	0:58:26.411000	0:58:27.711000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:27.711000" end="0:58:28.338000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:27.711000" end="0:58:28.338000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:27.711000	0:58:28.338000
 .	-	-	-	0:58:27.711000	0:58:28.338000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:28.338000" end="0:58:31.531000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:28.338000" end="0:58:31.531000" age_lower="18" age_upper="35">
 um	um	ADP	-	0:58:28.338000	0:58:29.351000
 Gottes	Gott	NOUN	-belebt App Gen PM PR Pkon Poss Prel Quel pränomin	0:58:28.338000	0:58:29.351000
 Willen	Wille	NOUN	-belebt App Gen PM PR Pkon Poss Prel Quel pränomin	0:58:28.338000	0:58:29.351000
@@ -15107,14 +15107,14 @@ ohne	ohne	ADP	-	0:58:29.351000	0:58:31.531000
 Helm	Helm	PROPN	-	0:58:29.351000	0:58:31.531000
 .	-	-	-	0:58:29.351000	0:58:31.531000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:31.531000" end="0:58:35.324000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:31.531000" end="0:58:35.324000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:58:31.531000	0:58:32.071000
 .	-	-	-	0:58:31.531000	0:58:32.071000
 unvorstellbar	unvorstellbar	ADJ	-	0:58:32.071000	0:58:35.324000
 heute	heute	ADV	-	0:58:32.071000	0:58:35.324000
 .	-	-	-	0:58:32.071000	0:58:35.324000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:32.071000" end="0:58:36.478000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:32.071000" end="0:58:36.478000" age_lower="18" age_upper="35">
 Skateboard	Skateboard	NOUN	-	0:58:32.071000	0:58:35.324000
 fahren	fahren	VERB	-	0:58:32.071000	0:58:35.324000
 ohne	ohne	ADP	-	0:58:32.071000	0:58:35.324000
@@ -15124,20 +15124,20 @@ ohne	ohne	ADP	-	0:58:35.324000	0:58:36.478000
 Knieschützer	Knieschützer	NOUN	-	0:58:35.324000	0:58:36.478000
 .	-	-	-	0:58:35.324000	0:58:36.478000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:36.478000" end="0:58:38.078000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:36.478000" end="0:58:38.078000" age_lower="18" age_upper="35">
 unvor=	unvorstellbar	ADJ	-	0:58:36.478000	0:58:37.044000
 stellbar	-	SPACE	-	0:58:37.044000	0:58:38.078000
 heute	heute	ADV	-	0:58:37.044000	0:58:38.078000
 .	-	-	-	0:58:37.044000	0:58:38.078000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:37.044000" end="0:58:38.078000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:37.044000" end="0:58:38.078000" age_lower="18" age_upper="35">
 hat	haben	AUX	-	0:58:37.044000	0:58:38.078000
 dich	sich	PRON	-	0:58:37.044000	0:58:38.078000
 keiner	kein	PRON	-	0:58:37.044000	0:58:38.078000
 gefragt	fragen	VERB	-	0:58:37.044000	0:58:38.078000
 .	-	-	-	0:58:37.044000	0:58:38.078000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:38.078000" end="0:58:40.651000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:38.078000" end="0:58:40.651000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 kein	kein	DET	-	0:58:38.078000	0:58:40.651000
 Mensch	Mensch	NOUN	-	0:58:38.078000	0:58:40.651000
@@ -15146,7 +15146,7 @@ dich	sich	PRON	-	0:58:38.078000	0:58:40.651000
 gefragt	fragen	VERB	-	0:58:38.078000	0:58:40.651000
 .	-	-	-	0:58:38.078000	0:58:40.651000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:40.651000" end="0:58:48.185000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:40.651000" end="0:58:48.185000" age_lower="18" age_upper="35">
 das	der	PRON	-	0:58:40.651000	0:58:45.719000
 fällt	fällen	VERB	-	0:58:40.651000	0:58:45.719000
 mir	sich	PRON	-	0:58:40.651000	0:58:45.719000
@@ -15179,7 +15179,7 @@ _angesoden_	-	-	-	0:58:45.719000	0:58:48.185000
 werden	-	-	-	0:58:45.719000	0:58:48.185000
 .	-	-	-	0:58:45.719000	0:58:48.185000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:48.185000" end="0:58:52.629000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:48.185000" end="0:58:52.629000" age_lower="18" age_upper="35">
 obwohl	-	-	-	0:58:48.185000	0:58:52.629000
 ich	-	-	-	0:58:48.185000	0:58:52.629000
 finde	-	-	-	0:58:48.185000	0:58:52.629000
@@ -15197,7 +15197,7 @@ besser	-	-	-	0:58:48.185000	0:58:52.629000
 ist	-	-	-	0:58:48.185000	0:58:52.629000
 .	-	-	-	0:58:48.185000	0:58:52.629000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:52.629000" end="0:59:09.393000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:58:52.629000" end="0:59:09.393000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:58:52.629000	0:58:53.960000
 ,	-	-	-	0:58:52.629000	0:58:53.960000
 ja	-	-	-	0:58:52.629000	0:58:53.960000
@@ -15260,7 +15260,7 @@ Volksschule	Volksschule	NOUN	-	0:59:06.643000	0:59:09.393000
 gehen	gehen	VERB	-	0:59:06.643000	0:59:09.393000
 ,	-	-	-	0:59:06.643000	0:59:09.393000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:09.393000" end="0:59:10.559000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:09.393000" end="0:59:10.559000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	0:59:09.393000	0:59:10.559000
 ,	-	-	-	0:59:09.393000	0:59:10.559000
 der	der	PRON	-	0:59:09.393000	0:59:10.559000
@@ -15269,7 +15269,7 @@ schon	schon	ADV	-	0:59:09.393000	0:59:10.559000
 Volksschule	Volksschule	NOUN	-	0:59:09.393000	0:59:10.559000
 .	-	-	-	0:59:09.393000	0:59:10.559000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:10.559000" end="0:59:16.763000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:10.559000" end="0:59:16.763000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:59:10.559000	0:59:11.626000
 ,	-	-	-	0:59:10.559000	0:59:11.626000
 der	der	DET	-	0:59:10.559000	0:59:11.626000
@@ -15290,10 +15290,10 @@ da	da	ADV	-	0:59:11.626000	0:59:16.763000
 nicht"	nicht	PART	-	0:59:11.626000	0:59:16.763000
 .	-	-	-	0:59:11.626000	0:59:16.763000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:16.763000" end="0:59:17.962000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:16.763000" end="0:59:17.962000" age_lower="18" age_upper="35">
 <pause duration="seufzen"/>
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:16.763000" end="0:59:17.962000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:16.763000" end="0:59:17.962000" age_lower="18" age_upper="35">
 da	na	PROPN	-	0:59:16.763000	0:59:17.962000
 denke	-	-	-	0:59:16.763000	0:59:17.962000
 ich	-	-	-	0:59:16.763000	0:59:17.962000
@@ -15301,11 +15301,11 @@ mir	-	-	-	0:59:16.763000	0:59:17.962000
 auch	-	-	-	0:59:16.763000	0:59:17.962000
 ,	-	-	-	0:59:16.763000	0:59:17.962000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:17.962000" end="0:59:19.062000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:17.962000" end="0:59:19.062000" age_lower="18" age_upper="35">
 echt	echt	ADJ	-	0:59:17.962000	0:59:19.062000
 ?	-	-	-	0:59:17.962000	0:59:19.062000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:17.962000" end="0:59:21.062000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:17.962000" end="0:59:21.062000" age_lower="18" age_upper="35">
 jetzt	jetzt	ADV	-	0:59:17.962000	0:59:19.062000
 lass	lass	ADJ	-	0:59:19.062000	0:59:21.062000
 doch	doch	ADV	-	0:59:19.062000	0:59:21.062000
@@ -15319,7 +15319,7 @@ Ruhe	Ruhe	NOUN	-	0:59:19.062000	0:59:21.062000
 he	hey	X	-	0:59:19.062000	0:59:21.062000
 .	-	-	-	0:59:19.062000	0:59:21.062000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:21.062000" end="0:59:24.496000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:21.062000" end="0:59:24.496000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 *musst*	-	-	-	0:59:21.062000	0:59:23.935000
 eh	-	-	-	0:59:21.062000	0:59:23.935000
@@ -15328,7 +15328,7 @@ drauf=	-	-	-	0:59:21.062000	0:59:23.935000
 kommen	-	-	-	0:59:23.935000	0:59:24.496000
 .	-	-	-	0:59:23.935000	0:59:24.496000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:23.935000" end="0:59:36.233000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:23.935000" end="0:59:36.233000" age_lower="18" age_upper="35">
 "pass	pass	ADJ	-	0:59:23.935000	0:59:24.496000
 auf	auf	ADP	-	0:59:23.935000	0:59:24.496000
 ,	-	-	-	0:59:23.935000	0:59:24.496000
@@ -15367,7 +15367,7 @@ schon	-	-	-	0:59:35.518000	0:59:36.233000
 recht	-	-	-	0:59:35.518000	0:59:36.233000
 .	-	-	-	0:59:35.518000	0:59:36.233000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:36.233000" end="0:59:44.164000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:36.233000" end="0:59:44.164000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:59:36.233000	0:59:39.995000
 ,	-	-	-	0:59:36.233000	0:59:39.995000
 also	also	ADV	-	0:59:36.233000	0:59:39.995000
@@ -15396,7 +15396,7 @@ schön	schön	ADJ	-	0:59:43.284000	0:59:44.164000
 finden	finden	VERB	-	0:59:43.284000	0:59:44.164000
 .	-	-	-	0:59:43.284000	0:59:44.164000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:43.284000" end="0:59:45.671000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:43.284000" end="0:59:45.671000" age_lower="18" age_upper="35">
 Spiel=	Spielzeug	NOUN	-	0:59:43.284000	0:59:44.164000
 auch	auch	ADV	-	0:59:43.284000	0:59:44.164000
 so	so	ADV	-	0:59:43.284000	0:59:44.164000
@@ -15413,11 +15413,11 @@ ja	-	-	-	0:59:44.164000	0:59:45.671000
 noch	-	-	-	0:59:44.164000	0:59:45.671000
 /,	-	-	-	0:59:44.164000	0:59:45.671000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:45.671000" end="0:59:46.155000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:45.671000" end="0:59:46.155000" age_lower="18" age_upper="35">
 ja	ja	PART	-	0:59:45.671000	0:59:46.155000
 .	-	-	-	0:59:45.671000	0:59:46.155000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:46.155000" end="1:00:07.275000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="0:59:46.155000" end="1:00:07.275000" age_lower="18" age_upper="35">
 dürfen	dürfen	VERB	-	0:59:46.155000	0:59:49.763000
 ,	-	-	-	0:59:46.155000	0:59:49.763000
 ich	ich	PRON	-	0:59:46.155000	0:59:49.763000
@@ -15499,23 +15499,23 @@ das	der	DET	-	1:00:03.964000	1:00:07.275000
 irgendwie	irgendwie	ADV	-	1:00:03.964000	1:00:07.275000
 nachzu=	nachbilden	ADJ	-	1:00:03.964000	1:00:07.275000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:07.275000" end="1:00:07.869000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:07.275000" end="1:00:07.869000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:00:07.275000	1:00:07.869000
 ,	-	-	-	1:00:07.275000	1:00:07.869000
 und	und	CCONJ	-	1:00:07.275000	1:00:07.869000
 was	was	PRON	-	1:00:07.275000	1:00:07.869000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:07.275000" end="1:00:07.869000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:07.275000" end="1:00:07.869000" age_lower="18" age_upper="35">
 bilden	-	SPACE	-	1:00:07.275000	1:00:07.869000
 .	-	-	-	1:00:07.275000	1:00:07.869000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:07.869000" end="1:00:08.716000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:07.869000" end="1:00:08.716000" age_lower="18" age_upper="35">
 die	der	PRON	-	1:00:07.869000	1:00:08.309000
 alles	alle	PRON	-	1:00:07.869000	1:00:08.309000
 haben	haben	AUX	-	1:00:08.309000	1:00:08.716000
 .	-	-	-	1:00:08.309000	1:00:08.716000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:08.309000" end="1:00:22.596000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:08.309000" end="1:00:22.596000" age_lower="18" age_upper="35">
 Lego	Lego	PROPN	-	1:00:08.309000	1:00:08.716000
 Technik	Technik	NOUN	-	1:00:08.716000	1:00:09.717000
 und	und	CCONJ	-	1:00:08.716000	1:00:09.717000
@@ -15568,19 +15568,19 @@ nur	nur	ADV	-	1:00:20.596000	1:00:22.596000
 gebastelt	basteln	VERB	-	1:00:20.596000	1:00:22.596000
 .	-	-	-	1:00:20.596000	1:00:22.596000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:22.596000" end="1:00:22.928000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:22.596000" end="1:00:22.928000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:00:22.596000	1:00:22.928000
 .	-	-	-	1:00:22.596000	1:00:22.928000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:22.928000" end="1:00:23.445000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:22.928000" end="1:00:23.445000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:00:22.928000	1:00:23.445000
 .	-	-	-	1:00:22.928000	1:00:23.445000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:23.445000" end="1:00:24.039000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:23.445000" end="1:00:24.039000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:00:23.445000	1:00:24.039000
 .	-	-	-	1:00:23.445000	1:00:24.039000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:24.039000" end="1:00:26.965000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:24.039000" end="1:00:26.965000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 ja	-	-	-	1:00:24.039000	1:00:26.965000
 ,	-	-	-	1:00:24.039000	1:00:26.965000
@@ -15591,7 +15591,7 @@ war	-	-	-	1:00:24.039000	1:00:26.965000
 schon	-	-	-	1:00:24.039000	1:00:26.965000
 /.	-	-	-	1:00:24.039000	1:00:26.965000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:26.965000" end="1:00:30.452000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:26.965000" end="1:00:30.452000" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 heute	heute	ADV	-	1:00:26.965000	1:00:30.452000
 ,	-	-	-	1:00:26.965000	1:00:30.452000
@@ -15599,7 +15599,7 @@ he	he	X	-	1:00:26.965000	1:00:30.452000
 also	-	-	-	1:00:26.965000	1:00:30.452000
 /.	-	-	-	1:00:26.965000	1:00:30.452000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:30.452000" end="1:00:43.080000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:30.452000" end="1:00:43.080000" age_lower="18" age_upper="35">
 stimmt	stimmen	VERB	-	1:00:30.452000	1:00:32.861000
 ,	-	-	-	1:00:30.452000	1:00:32.861000
 dürfen	dürfen	VERB	-	1:00:30.452000	1:00:32.861000
@@ -15627,18 +15627,18 @@ wirklich	wirklich	ADJ	-	1:00:35.556000	1:00:43.080000
 solides	solide	ADJ	-	1:00:35.556000	1:00:43.080000
 Umfeld	Umfeld	NOUN	-	1:00:35.556000	1:00:43.080000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:43.080000" end="1:00:43.740000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:43.080000" end="1:00:43.740000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:00:43.080000	1:00:43.740000
 .	-	-	-	1:00:43.080000	1:00:43.740000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:43.740000" end="1:00:44.532000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:43.740000" end="1:00:44.532000" age_lower="18" age_upper="35">
 um	um	ADP	-	1:00:43.740000	1:00:44.532000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:44.532000" end="1:00:45.137000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:44.532000" end="1:00:45.137000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:00:44.532000	1:00:45.137000
 .	-	-	-	1:00:44.532000	1:00:45.137000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:45.137000" end="1:00:55.015000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:45.137000" end="1:00:55.015000" age_lower="18" age_upper="35">
 aufzuwachsen	aufwachsen	VERB	-	1:00:45.137000	1:00:46.204000
 ,	-	-	-	1:00:45.137000	1:00:46.204000
 ja	ja	PART	-	1:00:45.137000	1:00:46.204000
@@ -15670,12 +15670,12 @@ und	und	CCONJ	-	1:00:52.617000	1:00:55.015000
 (Hausauf/)	Hausauf	NOUN	-	1:00:52.617000	1:00:55.015000
 /,	-	-	-	1:00:52.617000	1:00:55.015000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:55.015000" end="1:00:55.906000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:55.015000" end="1:00:55.906000" age_lower="18" age_upper="35">
 kein	kein	DET	-	1:00:55.015000	1:00:55.906000
 Mensch	Mensch	NOUN	-	1:00:55.015000	1:00:55.906000
 !	-	-	-	1:00:55.015000	1:00:55.906000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:55.015000" end="1:00:59.954000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:55.015000" end="1:00:59.954000" age_lower="18" age_upper="35">
 nicht	nicht	PART	-	1:00:55.015000	1:00:55.906000
 nur	nur	ADV	-	1:00:55.015000	1:00:55.906000
 in	in	ADP	-	1:00:55.015000	1:00:55.906000
@@ -15695,14 +15695,14 @@ in	in	ADP	-	1:00:59.030000	1:00:59.954000
 die	der	PRON	-	1:00:59.030000	1:00:59.954000
 ,	-	-	-	1:00:59.030000	1:00:59.954000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:59.954000" end="1:01:01.131000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:59.954000" end="1:01:01.131000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:00:59.954000	1:01:01.131000
 ,	-	-	-	1:00:59.954000	1:01:01.131000
 das	der	PRON	-	1:00:59.954000	1:01:01.131000
 stimmt	stimmen	VERB	-	1:00:59.954000	1:01:01.131000
 .	-	-	-	1:00:59.954000	1:01:01.131000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:59.954000" end="1:01:01.945000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:00:59.954000" end="1:01:01.945000" age_lower="18" age_upper="35">
 bei	bei	ADP	-	1:00:59.954000	1:01:01.131000
 meiner	sich	DET	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	1:00:59.954000	1:01:01.131000
 Schwä=	Schwägerin	NOUN	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin	1:00:59.954000	1:01:01.131000
@@ -15710,25 +15710,25 @@ gerin	-	SPACE	+menschl App PM PR Pkon Poss PossPron+NP Prel Psond irrelevant kin
 mitgekriegt	mitkriegen	VERB	-	1:01:01.131000	1:01:01.945000
 .	-	-	-	1:01:01.131000	1:01:01.945000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:01.945000" end="1:01:02.858000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:01.945000" end="1:01:02.858000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:01:01.945000	1:01:02.858000
 ,	-	-	-	1:01:01.945000	1:01:02.858000
 das	der	PRON	-	1:01:01.945000	1:01:02.858000
 stimmt	stimmen	VERB	-	1:01:01.945000	1:01:02.858000
 .	-	-	-	1:01:01.945000	1:01:02.858000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:02.858000" end="1:01:04.200000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:02.858000" end="1:01:04.200000" age_lower="18" age_upper="35">
 die	der	DET	-	1:01:02.858000	1:01:04.200000
 kriegen	kriegen	NOUN	-	1:01:02.858000	1:01:04.200000
 wirklich	wirklich	ADJ	-	1:01:02.858000	1:01:04.200000
 Hausauf=	Hausaufgabe	NOUN	-	1:01:02.858000	1:01:04.200000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:04.200000" end="1:01:05.113000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:04.200000" end="1:01:05.113000" age_lower="18" age_upper="35">
 das	der	DET	-	1:01:04.200000	1:01:05.113000
 Ganzes	Ganzes	NOUN	-	1:01:04.200000	1:01:05.113000
 /.	-	-	-	1:01:04.200000	1:01:05.113000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:04.200000" end="1:01:06.125000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:04.200000" end="1:01:06.125000" age_lower="18" age_upper="35">
 aufgabe	-	SPACE	-	1:01:04.200000	1:01:05.113000
 ,	-	-	-	1:01:04.200000	1:01:05.113000
 was	was	PRON	-	1:01:04.200000	1:01:05.113000
@@ -15738,11 +15738,11 @@ nicht	nicht	PART	-	1:01:05.113000	1:01:06.125000
 verstehen	verstehen	VERB	-	1:01:05.113000	1:01:06.125000
 .	-	-	-	1:01:05.113000	1:01:06.125000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:06.125000" end="1:01:06.444000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:06.125000" end="1:01:06.444000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:01:06.125000	1:01:06.444000
 .	-	-	-	1:01:06.125000	1:01:06.444000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:06.444000" end="1:01:09.150000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:06.444000" end="1:01:09.150000" age_lower="18" age_upper="35">
 wo	wo	ADV	-	1:01:06.444000	1:01:09.150000
 sie	ich	PRON	-	1:01:06.444000	1:01:09.150000
 unzureichend	unzureichend	ADJ	-	1:01:06.444000	1:01:09.150000
@@ -15750,11 +15750,11 @@ scheinbar	scheinbar	ADJ	-	1:01:06.444000	1:01:09.150000
 unterrichten	unterrichten	VERB	-	1:01:06.444000	1:01:09.150000
 .	-	-	-	1:01:06.444000	1:01:09.150000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:09.150000" end="1:01:09.733000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:09.150000" end="1:01:09.733000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:01:09.150000	1:01:09.733000
 .	-	-	-	1:01:09.150000	1:01:09.733000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:09.150000" end="1:01:36.089000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:09.150000" end="1:01:36.089000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:01:09.150000	1:01:09.733000
 .	-	-	-	1:01:09.150000	1:01:09.733000
 ist	-	-	-	1:01:09.733000	1:01:10.602000
@@ -15845,11 +15845,11 @@ das	der	DET	-	1:01:33.150000	1:01:36.089000
 tag/	-	-	-	1:01:33.150000	1:01:36.089000
 tagtägliches	tagtäglich	ADJ	-	1:01:33.150000	1:01:36.089000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:36.089000" end="1:01:36.628000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:36.089000" end="1:01:36.628000" age_lower="18" age_upper="35">
 mm	mm	NOUN	-	1:01:36.089000	1:01:36.628000
 .	-	-	-	1:01:36.089000	1:01:36.628000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:36.089000" end="1:01:37.805000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:36.089000" end="1:01:37.805000" age_lower="18" age_upper="35">
 Programm	Programm	NOUN	-	1:01:36.089000	1:01:36.628000
 ist	sein	AUX	-	1:01:36.628000	1:01:37.805000
 mit	mit	ADP	-	1:01:36.628000	1:01:37.805000
@@ -15859,18 +15859,18 @@ Kindern	Kind	NOUN	-	1:01:36.628000	1:01:37.805000
 (zu	zu	ADP	-	1:01:36.628000	1:01:37.805000
 ihnen)	ich	PRON	-	1:01:36.628000	1:01:37.805000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:37.805000" end="1:01:38.644000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:37.805000" end="1:01:38.644000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:01:37.805000	1:01:38.644000
 .	-	-	-	1:01:37.805000	1:01:38.644000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:37.805000" end="1:01:39.092000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:37.805000" end="1:01:39.092000" age_lower="18" age_upper="35">
 setzen	setzen	VERB	-	1:01:37.805000	1:01:38.644000
 ,	-	-	-	1:01:37.805000	1:01:38.644000
 Hausaufgabe	Hausaufgabe	NOUN	-	1:01:37.805000	1:01:38.644000
 machen	machen	VERB	-	1:01:38.644000	1:01:39.092000
 .	-	-	-	1:01:38.644000	1:01:39.092000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:39.092000" end="1:01:42.473000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:39.092000" end="1:01:42.473000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 oder	oder	CCONJ	-	1:01:39.092000	1:01:41.092000
 eine	einen	DET	-	1:01:39.092000	1:01:41.092000
@@ -15887,7 +15887,7 @@ nicht	-	-	-	1:01:41.466000	1:01:42.473000
 gegeben	-	-	-	1:01:41.466000	1:01:42.473000
 .	-	-	-	1:01:41.466000	1:01:42.473000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:41.466000" end="1:01:43.173000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:41.466000" end="1:01:43.173000" age_lower="18" age_upper="35">
 nein	na	INTJ	-	1:01:41.466000	1:01:42.473000
 ,	-	-	-	1:01:41.466000	1:01:42.473000
 bitte	bitte	ADV	-	1:01:41.466000	1:01:42.473000
@@ -15896,7 +15896,7 @@ gar	gar	ADV	-	1:01:42.473000	1:01:43.173000
 schön	schön	ADJ	-	1:01:42.473000	1:01:43.173000
 .	-	-	-	1:01:42.473000	1:01:43.173000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:43.173000" end="1:01:54.349000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:43.173000" end="1:01:54.349000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 gestern	gestern	ADV	-	1:01:43.173000	1:01:45.648000
 hat	haben	AUX	-	1:01:43.173000	1:01:45.648000
@@ -15944,11 +15944,11 @@ das	der	PRON	-	1:01:50.389000	1:01:53.799000
 nicht	nicht	PART	-	1:01:53.799000	1:01:54.349000
 ,	-	-	-	1:01:53.799000	1:01:54.349000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:53.799000" end="1:01:54.349000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:53.799000" end="1:01:54.349000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:01:53.799000	1:01:54.349000
 .	-	-	-	1:01:53.799000	1:01:54.349000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:54.349000" end="1:01:57.198000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:54.349000" end="1:01:57.198000" age_lower="18" age_upper="35">
 die	der	DET	-	1:01:54.349000	1:01:56.349000
 ganze	ganze	ADJ	-	1:01:54.349000	1:01:56.349000
 Klasse	Klasse	NOUN	-	1:01:54.349000	1:01:56.349000
@@ -15961,21 +15961,21 @@ ganze	ganze	ADJ	-	1:01:56.349000	1:01:57.198000
 Klasse	Klasse	NOUN	-	1:01:56.349000	1:01:57.198000
 ,	-	-	-	1:01:56.349000	1:01:57.198000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:56.349000" end="1:01:57.198000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:56.349000" end="1:01:57.198000" age_lower="18" age_upper="35">
 komisch	komisch	ADJ	-	1:01:56.349000	1:01:57.198000
 .	-	-	-	1:01:56.349000	1:01:57.198000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:57.198000" end="1:01:57.660000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:57.198000" end="1:01:57.660000" age_lower="18" age_upper="35">
 jeder	jed	PRON	-	1:01:57.198000	1:01:57.660000
 .	-	-	-	1:01:57.198000	1:01:57.660000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:57.660000" end="1:01:59.660000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:57.660000" end="1:01:59.660000" age_lower="18" age_upper="35">
 was	was	PRON	-	1:01:57.660000	1:01:59.660000
 ist	sein	AUX	-	1:01:57.660000	1:01:59.660000
 SONSTIGE	SONSTIGE	PROPN	-	1:01:57.660000	1:01:59.660000
 ?	-	-	-	1:01:57.660000	1:01:59.660000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:59.660000" end="1:02:04.579000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:01:59.660000" end="1:02:04.579000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:01:59.660000	1:02:04.007000
 diese	dies	PRON	-	1:01:59.660000	1:02:04.007000
 ,	-	-	-	1:01:59.660000	1:02:04.007000
@@ -15991,11 +15991,11 @@ weiß	weiß	VERB	-	1:02:04.007000	1:02:04.579000
 nicht	nicht	PART	-	1:02:04.007000	1:02:04.579000
 ,	-	-	-	1:02:04.007000	1:02:04.579000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:04.007000" end="1:02:04.579000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:04.007000" end="1:02:04.579000" age_lower="18" age_upper="35">
 aha	aha	X	-	1:02:04.007000	1:02:04.579000
 .	-	-	-	1:02:04.007000	1:02:04.579000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:04.579000" end="1:02:07.439000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:04.579000" end="1:02:07.439000" age_lower="18" age_upper="35">
 nur	nur	ADV	-	1:02:04.579000	1:02:06.999000
 <pause duration="1,1s"/>
 schon	schon	ADV	-	1:02:04.579000	1:02:06.999000
@@ -16005,11 +16005,11 @@ und	und	CCONJ	-	1:02:06.999000	1:02:07.439000
 so	so	ADV	-	1:02:06.999000	1:02:07.439000
 ,	-	-	-	1:02:06.999000	1:02:07.439000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:06.999000" end="1:02:07.439000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:06.999000" end="1:02:07.439000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:02:06.999000	1:02:07.439000
 .	-	-	-	1:02:06.999000	1:02:07.439000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:07.439000" end="1:02:12.554000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:07.439000" end="1:02:12.554000" age_lower="18" age_upper="35">
 sie	ich	PRON	-	1:02:07.439000	1:02:08.847000
 macht	machen	VERB	-	1:02:07.439000	1:02:08.847000
 das	der	PRON	-	1:02:07.439000	1:02:08.847000
@@ -16027,11 +16027,11 @@ jeder	jed	DET	-	1:02:11.949000	1:02:12.554000
 Schüler	Schüler	NOUN	-	1:02:11.949000	1:02:12.554000
 ,	-	-	-	1:02:11.949000	1:02:12.554000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:11.949000" end="1:02:12.554000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:11.949000" end="1:02:12.554000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:02:11.949000	1:02:12.554000
 .	-	-	-	1:02:11.949000	1:02:12.554000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:12.554000" end="1:02:14.325000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:12.554000" end="1:02:14.325000" age_lower="18" age_upper="35">
 muss	muss	VERB	-	1:02:12.554000	1:02:13.676000
 Nachhilfe	Nachhilfe	NOUN	-	1:02:12.554000	1:02:13.676000
 in	in	ADP	-	1:02:12.554000	1:02:13.676000
@@ -16039,11 +16039,11 @@ Mathe	Mathe	NOUN	-	1:02:12.554000	1:02:13.676000
 nehmen	nehmen	VERB	-	1:02:13.676000	1:02:14.325000
 .	-	-	-	1:02:13.676000	1:02:14.325000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:13.676000" end="1:02:14.325000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:13.676000" end="1:02:14.325000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:02:13.676000	1:02:14.325000
 .	-	-	-	1:02:13.676000	1:02:14.325000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:14.325000" end="1:02:18.307000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:14.325000" end="1:02:18.307000" age_lower="18" age_upper="35">
 eine	einen	DET	-	1:02:14.325000	1:02:17.691000
 Nachhilfestunde	Nachhilfestunde	NOUN	-	1:02:14.325000	1:02:17.691000
 kostet	kosten	VERB	-	1:02:14.325000	1:02:17.691000
@@ -16055,11 +16055,11 @@ das	der	PRON	-	1:02:17.691000	1:02:18.307000
 ist	sein	AUX	-	1:02:17.691000	1:02:18.307000
 noch	noch	ADV	-	1:02:17.691000	1:02:18.307000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:17.691000" end="1:02:18.307000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:17.691000" end="1:02:18.307000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:02:17.691000	1:02:18.307000
 .	-	-	-	1:02:17.691000	1:02:18.307000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:18.307000" end="1:02:19.572000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:18.307000" end="1:02:19.572000" age_lower="18" age_upper="35">
 billig	billigen	ADJ	-	1:02:18.307000	1:02:19.099000
 ,	-	-	-	1:02:18.307000	1:02:19.099000
 hat	haben	AUX	-	1:02:18.307000	1:02:19.099000
@@ -16068,11 +16068,11 @@ ge=	sagen	VERB	-	1:02:18.307000	1:02:19.099000
 sagt	-	SPACE	-	1:02:19.099000	1:02:19.572000
 ,	-	-	-	1:02:19.099000	1:02:19.572000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:19.099000" end="1:02:19.572000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:19.099000" end="1:02:19.572000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:02:19.099000	1:02:19.572000
 .	-	-	-	1:02:19.099000	1:02:19.572000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:19.572000" end="1:02:23.565000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:19.572000" end="1:02:23.565000" age_lower="18" age_upper="35">
 und	-	-	-	1:02:19.572000	1:02:21.948000
 *kriegst*	-	-	-	1:02:19.572000	1:02:21.948000
 alleweile	-	-	-	1:02:19.572000	1:02:21.948000
@@ -16086,12 +16086,12 @@ ja	ja	PART	-	1:02:21.948000	1:02:23.565000
 arg	arg	PROPN	-	1:02:21.948000	1:02:23.565000
 .	-	-	-	1:02:21.948000	1:02:23.565000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:23.565000" end="1:02:25.369000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:23.565000" end="1:02:25.369000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 mhm	mhm	PROPN	-	1:02:23.565000	1:02:25.369000
 .	-	-	-	1:02:23.565000	1:02:25.369000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:25.369000" end="1:02:27.745000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:25.369000" end="1:02:27.745000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 das	der	PRON	-	1:02:25.369000	1:02:27.745000
 hat	haben	AUX	-	1:02:25.369000	1:02:27.745000
@@ -16103,7 +16103,7 @@ nicht	nicht	PART	-	1:02:25.369000	1:02:27.745000
 gegeben	geben	VERB	-	1:02:25.369000	1:02:27.745000
 .	-	-	-	1:02:25.369000	1:02:27.745000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:27.745000" end="1:02:41.594000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:27.745000" end="1:02:41.594000" age_lower="18" age_upper="35">
 <pause duration="4,2s"/>
 da	da	ADV	-	1:02:27.745000	1:02:33.872000
 habe	habe	AUX	-	1:02:27.745000	1:02:33.872000
@@ -16137,11 +16137,11 @@ Chefarzt	Chefarzt	NOUN	-	1:02:36.105000	1:02:41.055000
 also	also	ADV	-	1:02:41.055000	1:02:41.594000
 der	der	DET	-	1:02:41.055000	1:02:41.594000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:41.594000" end="1:02:42.111000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:41.594000" end="1:02:42.111000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:02:41.594000	1:02:42.111000
 .	-	-	-	1:02:41.594000	1:02:42.111000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:41.594000" end="1:03:13.296000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:02:41.594000" end="1:03:13.296000" age_lower="18" age_upper="35">
 (also)	also	ADV	-	1:02:41.594000	1:02:42.111000
 Chefpsychologe	Chefpsychologe	NOUN	-	1:02:42.111000	1:02:44.509000
 oder	oder	CCONJ	-	1:02:42.111000	1:02:44.509000
@@ -16230,27 +16230,27 @@ witzig	witzig	ADJ	-	1:03:12.361000	1:03:13.296000
 gell	gell	ADJ	-	1:03:12.361000	1:03:13.296000
 ?	-	-	-	1:03:12.361000	1:03:13.296000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:13.296000" end="1:03:15.296000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:13.296000" end="1:03:15.296000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 ja	ja	ADV	-	1:03:13.296000	1:03:15.296000
 ,	-	-	-	1:03:13.296000	1:03:15.296000
 witzig	witzig	ADJ	-	1:03:13.296000	1:03:15.296000
 .	-	-	-	1:03:13.296000	1:03:15.296000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:15.296000" end="1:03:17.750000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:15.296000" end="1:03:17.750000" age_lower="18" age_upper="35">
 wegen	wegen	ADP	-	1:03:15.296000	1:03:16.617000
 dem	der	DET	-	1:03:15.296000	1:03:16.617000
 Bildungssystem	Bildungssystem	NOUN	-	1:03:15.296000	1:03:16.617000
 .	-	-	-	1:03:15.296000	1:03:16.617000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:17.750000" end="1:03:20.093000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:17.750000" end="1:03:20.093000" age_lower="18" age_upper="35">
 da	-	-	-	1:03:18.426000	1:03:20.093000
 *fragst*	-	-	-	1:03:18.426000	1:03:20.093000
 dich	-	-	-	1:03:18.426000	1:03:20.093000
 schon	-	-	-	1:03:18.426000	1:03:20.093000
 .	-	-	-	1:03:18.426000	1:03:20.093000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:20.093000" end="1:03:33.590000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:20.093000" end="1:03:33.590000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:03:20.093000	1:03:20.665000
 .	-	-	-	1:03:20.093000	1:03:20.665000
 <pause duration="1,0s"/>
@@ -16306,11 +16306,11 @@ nicht	nicht	PART	-	1:03:31.300000	1:03:33.590000
 sein	mein	AUX	-	1:03:31.300000	1:03:33.590000
 ,	-	-	-	1:03:31.300000	1:03:33.590000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:33.590000" end="1:03:34.866000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:33.590000" end="1:03:34.866000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:03:33.590000	1:03:34.866000
 !	-	-	-	1:03:33.590000	1:03:34.866000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:33.590000" end="1:03:34.866000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:33.590000" end="1:03:34.866000" age_lower="18" age_upper="35">
 es	ich	PRON	-	1:03:33.590000	1:03:34.866000
 werden	werden	AUX	-	1:03:33.590000	1:03:34.866000
 da	da	ADV	-	1:03:33.590000	1:03:34.866000
@@ -16318,11 +16318,11 @@ halt	halt	ADV	-	1:03:33.590000	1:03:34.866000
 die	der	DET	-	1:03:33.590000	1:03:34.866000
 Eltern	Eltern	NOUN	-	1:03:33.590000	1:03:34.866000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:34.866000" end="1:03:35.724000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:34.866000" end="1:03:35.724000" age_lower="18" age_upper="35">
 sicher	sichern	ADJ	-	1:03:34.866000	1:03:35.724000
 .	-	-	-	1:03:34.866000	1:03:35.724000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:34.866000" end="1:03:43.369000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:34.866000" end="1:03:43.369000" age_lower="18" age_upper="35">
 da=	daheim	ADV	-	1:03:34.866000	1:03:35.724000
 Druck	Druck	NOUN	-	1:03:34.866000	1:03:35.724000
 machen	machen	VERB	-	1:03:34.866000	1:03:35.724000
@@ -16357,14 +16357,14 @@ ich	ich	PRON	-	1:03:42.456000	1:03:43.369000
 halt	halt	ADV	-	1:03:42.456000	1:03:43.369000
 .	-	-	-	1:03:42.456000	1:03:43.369000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:43.369000" end="1:03:44.381000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:43.369000" end="1:03:44.381000" age_lower="18" age_upper="35">
 das	der	PRON	-	1:03:43.369000	1:03:44.381000
 glaube	glauben	VERB	-	1:03:43.369000	1:03:44.381000
 ich	ich	PRON	-	1:03:43.369000	1:03:44.381000
 auch	auch	ADV	-	1:03:43.369000	1:03:44.381000
 .	-	-	-	1:03:43.369000	1:03:44.381000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:44.381000" end="1:03:50.478000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:44.381000" end="1:03:50.478000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 *weißt*	-	-	-	1:03:44.381000	1:03:46.812000
 eh	-	-	-	1:03:44.381000	1:03:46.812000
@@ -16391,7 +16391,7 @@ noch	-	-	-	1:03:48.132000	1:03:50.478000
 Gas	-	-	-	1:03:48.132000	1:03:50.478000
 ,	-	-	-	1:03:48.132000	1:03:50.478000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:50.478000" end="1:03:52.733000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:50.478000" end="1:03:52.733000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:03:50.478000	1:03:52.733000
 ,	-	-	-	1:03:50.478000	1:03:52.733000
 boah	boah	NOUN	-	1:03:50.478000	1:03:52.733000
@@ -16400,7 +16400,7 @@ du	du	PRON	-	1:03:50.478000	1:03:52.733000
 daheim	daheim	ADV	-	1:03:50.478000	1:03:52.733000
 gesagt	sagen	VERB	-	1:03:50.478000	1:03:52.733000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:50.478000" end="1:03:52.733000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:50.478000" end="1:03:52.733000" age_lower="18" age_upper="35">
 und	-	-	-	1:03:50.478000	1:03:52.733000
 die	-	-	-	1:03:50.478000	1:03:52.733000
 Eltern	-	-	-	1:03:50.478000	1:03:52.733000
@@ -16409,7 +16409,7 @@ Eltern	-	-	-	1:03:50.478000	1:03:52.733000
 ja	-	-	-	1:03:50.478000	1:03:52.733000
 /.	-	-	-	1:03:50.478000	1:03:52.733000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:52.733000" end="1:03:55.260000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:52.733000" end="1:03:55.260000" age_lower="18" age_upper="35">
 hättest	haben	PROPN	-	1:03:52.733000	1:03:54.820000
 ,	-	-	-	1:03:52.733000	1:03:54.820000
 die	-	-	-	1:03:52.733000	1:03:54.820000
@@ -16422,11 +16422,11 @@ zum	-	-	-	1:03:52.733000	1:03:54.820000
 Kragen	-	-	-	1:03:54.820000	1:03:55.260000
 ,	-	-	-	1:03:54.820000	1:03:55.260000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:54.820000" end="1:03:55.260000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:54.820000" end="1:03:55.260000" age_lower="18" age_upper="35">
 ja	-	-	-	1:03:54.820000	1:03:55.260000
 .	-	-	-	1:03:54.820000	1:03:55.260000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:55.260000" end="1:03:58.802000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:55.260000" end="1:03:58.802000" age_lower="18" age_upper="35">
 die	der	PRON	-	1:03:55.260000	1:03:56.294000
 tut	tun	VERB	-	1:03:55.260000	1:03:56.294000
 das	der	PRON	-	1:03:55.260000	1:03:56.294000
@@ -16446,7 +16446,7 @@ die	der	DET	-	1:03:56.294000	1:03:57.779000
 (Schule)	-	-	-	1:03:57.779000	1:03:58.802000
 gelaufen	-	-	-	1:03:57.779000	1:03:58.802000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:57.779000" end="1:03:58.802000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:57.779000" end="1:03:58.802000" age_lower="18" age_upper="35">
 nein	na	INTJ	-	1:03:57.779000	1:03:58.802000
 ,	-	-	-	1:03:57.779000	1:03:58.802000
 bitte	bitte	ADV	-	1:03:57.779000	1:03:58.802000
@@ -16455,7 +16455,7 @@ gar	gar	ADV	-	1:03:57.779000	1:03:58.802000
 schön	schön	ADJ	-	1:03:57.779000	1:03:58.802000
 .	-	-	-	1:03:57.779000	1:03:58.802000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:58.802000" end="1:04:01.365000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:03:58.802000" end="1:04:01.365000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:03:58.802000	1:04:00.474000
 hätte	haben	AUX	-	1:03:58.802000	1:04:00.474000
 der	der	DET	-	1:03:58.802000	1:04:00.474000
@@ -16469,36 +16469,36 @@ da	da	ADV	-	1:04:00.474000	1:04:01.365000
 hättest	haben	VERB	-	1:04:00.474000	1:04:01.365000
 daheim	daheim	ADV	-	1:04:00.474000	1:04:01.365000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:01.365000" end="1:04:02.487000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:01.365000" end="1:04:02.487000" age_lower="18" age_upper="35">
 du	du	PRON	-	1:04:01.365000	1:04:02.487000
 ,	-	-	-	1:04:01.365000	1:04:02.487000
 die	der	PRON	-	1:04:01.365000	1:04:02.487000
 hätte	haben	AUX	-	1:04:01.365000	1:04:02.487000
 auch	auch	ADV	-	1:04:01.365000	1:04:02.487000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:02.487000" end="1:04:03.191000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:02.487000" end="1:04:03.191000" age_lower="18" age_upper="35">
 noch	noch	ADV	-	1:04:02.487000	1:04:03.191000
 eine	einen	DET	-	1:04:02.487000	1:04:03.191000
 krie/	-	-	-	1:04:02.487000	1:04:03.191000
 /.	-	-	-	1:04:02.487000	1:04:03.191000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:02.487000" end="1:04:03.191000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:02.487000" end="1:04:03.191000" age_lower="18" age_upper="35">
 nichts	nichts	PRON	-	1:04:02.487000	1:04:03.191000
 gesagt	sagen	VERB	-	1:04:02.487000	1:04:03.191000
 .	-	-	-	1:04:02.487000	1:04:03.191000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:03.191000" end="1:04:04.390000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:03.191000" end="1:04:04.390000" age_lower="18" age_upper="35">
 gell	-	-	-	1:04:03.191000	1:04:03.774000
 ?	-	-	-	1:04:03.191000	1:04:03.774000
 aber	aber	ADV	-	1:04:03.774000	1:04:04.390000
 heute	heute	ADV	-	1:04:03.774000	1:04:04.390000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:03.774000" end="1:04:04.390000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:03.774000" end="1:04:04.390000" age_lower="18" age_upper="35">
 die	der	PRON	-	1:04:03.774000	1:04:04.390000
 hätte	haben	AUX	-	1:04:03.774000	1:04:04.390000
 /.	-	-	-	1:04:03.774000	1:04:04.390000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:04.390000" end="1:04:06.711000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:04.390000" end="1:04:06.711000" age_lower="18" age_upper="35">
 laufen	laufen	VERB	-	1:04:04.390000	1:04:06.711000
 ja	ja	ADV	-	1:04:04.390000	1:04:06.711000
 die	der	DET	-	1:04:04.390000	1:04:06.711000
@@ -16511,7 +16511,7 @@ jedem	jed	DET	-	1:04:04.390000	1:04:06.711000
 Blödsinn	Blödsinn	NOUN	-	1:04:04.390000	1:04:06.711000
 .	-	-	-	1:04:04.390000	1:04:06.711000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:06.711000" end="1:04:11.230000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:06.711000" end="1:04:11.230000" age_lower="18" age_upper="35">
 ja	ja	ADV	-	1:04:06.711000	1:04:07.492000
 ,	-	-	-	1:04:06.711000	1:04:07.492000
 ja	-	-	-	1:04:06.711000	1:04:07.492000
@@ -16533,14 +16533,14 @@ irgendwo	irgendwo	ADV	-	1:04:09.230000	1:04:11.230000
 abschließe	abschließen	VERB	-	1:04:09.230000	1:04:11.230000
 .	-	-	-	1:04:09.230000	1:04:11.230000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:11.230000" end="1:04:13.047000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:11.230000" end="1:04:13.047000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:04:11.230000	1:04:12.057000
 .	-	-	-	1:04:11.230000	1:04:12.057000
 das	der	PRON	-	1:04:12.057000	1:04:13.047000
 stimmt	stimmen	VERB	-	1:04:12.057000	1:04:13.047000
 .	-	-	-	1:04:12.057000	1:04:13.047000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:12.057000" end="1:04:25.255000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:12.057000" end="1:04:25.255000" age_lower="18" age_upper="35">
 das	der	PRON	-	1:04:12.057000	1:04:13.047000
 hat	haben	AUX	-	1:04:12.057000	1:04:13.047000
 ja	ja	ADV	-	1:04:12.057000	1:04:13.047000
@@ -16590,7 +16590,7 @@ das	der	PRON	-	1:04:23.255000	1:04:25.255000
 jetzt	jetzt	ADV	-	1:04:23.255000	1:04:25.255000
 ?	-	-	-	1:04:23.255000	1:04:25.255000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:25.255000" end="1:04:26.885000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:25.255000" end="1:04:26.885000" age_lower="18" age_upper="35">
 ist	sein	AUX	-	1:04:25.255000	1:04:26.126000
 trotzdem	trotzdem	ADV	-	1:04:25.255000	1:04:26.126000
 was	was	PRON	-	1:04:25.255000	1:04:26.126000
@@ -16599,7 +16599,7 @@ aus	aus	ADP	-	1:04:26.126000	1:04:26.885000
 ihm	ich	PRON	-	1:04:26.126000	1:04:26.885000
 .	-	-	-	1:04:26.126000	1:04:26.885000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:26.126000" end="1:04:28.040000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:26.126000" end="1:04:28.040000" age_lower="18" age_upper="35">
 muss	muss	VERB	-	1:04:26.126000	1:04:26.885000
 ich	ich	PRON	-	1:04:26.126000	1:04:26.885000
 dann	dann	ADV	-	1:04:26.126000	1:04:26.885000
@@ -16610,21 +16610,21 @@ Terror	Terror	NOUN	-	1:04:26.885000	1:04:28.040000
 machen	machen	VERB	-	1:04:26.885000	1:04:28.040000
 ?	-	-	-	1:04:26.885000	1:04:28.040000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:28.040000" end="1:04:28.502000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:28.040000" end="1:04:28.502000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:04:28.040000	1:04:28.502000
 !	-	-	-	1:04:28.040000	1:04:28.502000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:28.502000" end="1:04:29.888000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:28.502000" end="1:04:29.888000" age_lower="18" age_upper="35">
 jahraus	jahraus	PROPN	-	1:04:28.502000	1:04:29.888000
 ,	-	-	-	1:04:28.502000	1:04:29.888000
 jahrein	jahrein	NOUN	-	1:04:28.502000	1:04:29.888000
 ?	-	-	-	1:04:28.502000	1:04:29.888000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:29.888000" end="1:04:30.680000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:29.888000" end="1:04:30.680000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:04:29.888000	1:04:30.680000
 .	-	-	-	1:04:29.888000	1:04:30.680000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:30.680000" end="1:04:38.633000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:30.680000" end="1:04:38.633000" age_lower="18" age_upper="35">
 hm	hm	X	-	1:04:30.680000	1:04:31.472000
 .	-	-	-	1:04:30.680000	1:04:31.472000
 <pause duration="1,4s"/>
@@ -16642,7 +16642,7 @@ die	der	DET	-	1:04:33.472000	1:04:38.633000
 Kindheit	Kindheit	NOUN	-	1:04:33.472000	1:04:38.633000
 .	-	-	-	1:04:33.472000	1:04:38.633000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:38.633000" end="1:04:40.778000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:38.633000" end="1:04:40.778000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:04:38.633000	1:04:40.096000
 ,	-	-	-	1:04:38.633000	1:04:40.096000
 unsere	mein	DET	-	1:04:38.633000	1:04:40.096000
@@ -16652,7 +16652,7 @@ noch	noch	ADV	-	1:04:40.096000	1:04:40.778000
 schön	schön	ADJ	-	1:04:40.096000	1:04:40.778000
 .	-	-	-	1:04:40.096000	1:04:40.778000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:40.096000" end="1:05:17.463000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:04:40.096000" end="1:05:17.463000" age_lower="18" age_upper="35">
 ist	sein	AUX	-	1:04:40.096000	1:04:40.778000
 in/	-	-	-	1:04:40.096000	1:04:40.778000
 ist	sein	AUX	-	1:04:40.096000	1:04:40.778000
@@ -16783,13 +16783,13 @@ auch	auch	ADV	-	1:05:15.175000	1:05:17.463000
 da	da	ADV	-	1:05:15.175000	1:05:17.463000
 noch	-	-	-	1:05:15.175000	1:05:17.463000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:17.463000" end="1:05:19.234000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:17.463000" end="1:05:19.234000" age_lower="18" age_upper="35">
 da	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	1:05:17.463000	1:05:19.234000
 *hast*	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	1:05:17.463000	1:05:19.234000
 recht	-	-	+menschl -belebt App PM PR Pkon Poss Prel Präd Psond Quel irrelevant	1:05:17.463000	1:05:19.234000
 .	-	-	-	1:05:17.463000	1:05:19.234000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:19.234000" end="1:05:40.277000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:19.234000" end="1:05:40.277000" age_lower="18" age_upper="35">
 das	der	DET	-	1:05:19.234000	1:05:23.227000
 letzte	letzte	ADJ	-	1:05:19.234000	1:05:23.227000
 _bissel_	bissel	ADJ	-	1:05:19.234000	1:05:23.227000
@@ -16838,7 +16838,7 @@ dieses	dies	PRON	-	1:05:38.605000	1:05:40.277000
 Aufmerksamkeit/	-	-	-	1:05:38.605000	1:05:40.277000
 /.	-	-	-	1:05:38.605000	1:05:40.277000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:40.277000" end="1:05:41.520000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:40.277000" end="1:05:41.520000" age_lower="18" age_upper="35">
 hat	haben	AUX	-	1:05:40.277000	1:05:41.520000
 es	ich	PRON	-	1:05:40.277000	1:05:41.520000
 ja	ja	ADV	-	1:05:40.277000	1:05:41.520000
@@ -16849,7 +16849,7 @@ nicht	nicht	PART	-	1:05:40.277000	1:05:41.520000
 gegeben	geben	VERB	-	1:05:40.277000	1:05:41.520000
 .	-	-	-	1:05:40.277000	1:05:41.520000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:41.520000" end="1:06:00.484000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:05:41.520000" end="1:06:00.484000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:05:41.520000	1:05:44.050000
 dann	dann	ADV	-	1:05:41.520000	1:05:44.050000
 kriegen	kriegen	VERB	-	1:05:41.520000	1:05:44.050000
@@ -16903,10 +16903,10 @@ spinne	spinne	VERB	-	1:05:56.786000	1:05:58.786000
 ja	ja	PART	-	1:05:58.786000	1:06:00.484000
 .	-	-	-	1:05:58.786000	1:06:00.484000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:00.484000" end="1:06:03.575000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:00.484000" end="1:06:03.575000" age_lower="18" age_upper="35">
 <pause duration="2,5s"/>
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:03.575000" end="1:06:06.633000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:03.575000" end="1:06:06.633000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:06:03.575000	1:06:06.633000
 das	der	DET	-	1:06:03.575000	1:06:06.633000
 Medikament	Medikament	NOUN	-	1:06:03.575000	1:06:06.633000
@@ -16914,28 +16914,28 @@ unterliegt	unterliegen	VERB	-	1:06:03.575000	1:06:06.633000
 dem	der	DET	-	1:06:03.575000	1:06:06.633000
 Betäubingsmittelschutzge=	Betäubingsmittelschutzgesetz	NOUN	-	1:06:03.575000	1:06:06.633000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:06.633000" end="1:06:07.271000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:06.633000" end="1:06:07.271000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:06:06.633000	1:06:07.271000
 ?	-	-	-	1:06:06.633000	1:06:07.271000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:06.633000" end="1:06:07.271000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:06.633000" end="1:06:07.271000" age_lower="18" age_upper="35">
 setz	-	SPACE	-	1:06:06.633000	1:06:07.271000
 ,	-	-	-	1:06:06.633000	1:06:07.271000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:07.271000" end="1:06:08.631000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:07.271000" end="1:06:08.631000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:06:07.271000	1:06:08.631000
 das	der	PRON	-	1:06:07.271000	1:06:08.631000
 geben	geben	VERB	-	1:06:07.271000	1:06:08.631000
 sie	ich	PRON	-	1:06:07.271000	1:06:08.631000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:07.271000" end="1:06:08.631000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:07.271000" end="1:06:08.631000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:08.631000" end="1:06:09.636000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:08.631000" end="1:06:09.636000" age_lower="18" age_upper="35">
 ihre	-	-	-	1:06:08.631000	1:06:09.636000
 Kindern	-	-	-	1:06:08.631000	1:06:09.636000
 ?	-	-	-	1:06:08.631000	1:06:09.636000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:08.631000" end="1:06:13.772000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:08.631000" end="1:06:13.772000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:06:08.631000	1:06:09.636000
 .	-	-	-	1:06:08.631000	1:06:09.636000
 <pause duration="1,1s"/>
@@ -16947,7 +16947,7 @@ in	in	ADP	-	1:06:12.485000	1:06:13.772000
 Deutschland	Deutschland	PROPN	-	1:06:12.485000	1:06:13.772000
 .	-	-	-	1:06:12.485000	1:06:13.772000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:13.772000" end="1:06:17.622000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:13.772000" end="1:06:17.622000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:06:13.772000	1:06:14.190000
 .	-	-	-	1:06:13.772000	1:06:14.190000
 <pause duration="2,3s"/>
@@ -16958,13 +16958,13 @@ ein	einen	DET	-	1:06:14.190000	1:06:17.622000
 Wahnsinn	Wahnsinn	NOUN	-	1:06:14.190000	1:06:17.622000
 .	-	-	-	1:06:14.190000	1:06:17.622000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:17.622000" end="1:06:18.282000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:17.622000" end="1:06:18.282000" age_lower="18" age_upper="35">
 arg	arg	PROPN	-	1:06:17.622000	1:06:18.282000
 ,	-	-	-	1:06:17.622000	1:06:18.282000
 gell	gell	ADJ	-	1:06:17.622000	1:06:18.282000
 ?	-	-	-	1:06:17.622000	1:06:18.282000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:18.282000" end="1:06:23.265000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:18.282000" end="1:06:23.265000" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 die	der	DET	-	1:06:18.282000	1:06:23.265000
 Welt	Welt	NOUN	-	1:06:18.282000	1:06:23.265000
@@ -16973,7 +16973,7 @@ immer	immer	ADV	-	1:06:18.282000	1:06:23.265000
 verrückter	verrückt	ADJ	-	1:06:18.282000	1:06:23.265000
 .	-	-	-	1:06:18.282000	1:06:23.265000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:23.265000" end="1:06:27.434000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:23.265000" end="1:06:27.434000" age_lower="18" age_upper="35">
 vielleicht	-	-	-	1:06:23.265000	1:06:27.434000
 *willst*	-	-	-	1:06:23.265000	1:06:27.434000
 nicht	-	-	-	1:06:23.265000	1:06:27.434000
@@ -16987,16 +16987,16 @@ Deutschland	-	-	-	1:06:23.265000	1:06:27.434000
 umziehen	-	-	-	1:06:23.265000	1:06:27.434000
 ?	-	-	-	1:06:23.265000	1:06:27.434000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:27.434000" end="1:06:28.864000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:27.434000" end="1:06:28.864000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:27.434000" end="1:06:28.864000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:27.434000" end="1:06:28.864000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:28.864000" end="1:06:30.316000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:28.864000" end="1:06:30.316000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:06:28.864000	1:06:30.316000
 ,	-	-	-	1:06:28.864000	1:06:30.316000
 das	der	PRON	-	1:06:28.864000	1:06:30.316000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:28.864000" end="1:06:31.009000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:28.864000" end="1:06:31.009000" age_lower="18" age_upper="35">
 nein	nein	PART	-	1:06:28.864000	1:06:30.316000
 ,	-	-	-	1:06:28.864000	1:06:30.316000
 das	der	PRON	-	1:06:28.864000	1:06:30.316000
@@ -17009,7 +17009,7 @@ nichts	nichts	DET	-	1:06:30.316000	1:06:31.009000
 anderes	ander	PRON	-	1:06:30.316000	1:06:31.009000
 .	-	-	-	1:06:30.316000	1:06:31.009000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:31.009000" end="1:06:32.857000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:31.009000" end="1:06:32.857000" age_lower="18" age_upper="35">
 ist	sein	AUX	-	1:06:31.009000	1:06:31.845000
 bei	bei	ADP	-	1:06:31.845000	1:06:32.857000
 uns	sich	PRON	-	1:06:31.845000	1:06:32.857000
@@ -17017,7 +17017,7 @@ nichts	nichts	DET	-	1:06:31.845000	1:06:32.857000
 anderes	ander	PRON	-	1:06:31.845000	1:06:32.857000
 .	-	-	-	1:06:31.845000	1:06:32.857000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:32.857000" end="1:06:52.756000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:32.857000" end="1:06:52.756000" age_lower="18" age_upper="35">
 aber	aber	CCONJ	-	1:06:32.857000	1:06:33.924000
 am	am	ADP	-	1:06:32.857000	1:06:33.924000
 Land	Land	NOUN	-	1:06:32.857000	1:06:33.924000
@@ -17080,28 +17080,28 @@ einmal	einmal	ADV	-	1:06:51.579000	1:06:52.756000
 so	so	ADV	-	1:06:51.579000	1:06:52.756000
 .	-	-	-	1:06:51.579000	1:06:52.756000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:52.756000" end="1:06:54.756000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:52.756000" end="1:06:54.756000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 abholen	abholen	VERB	-	1:06:52.756000	1:06:54.756000
 .	-	-	-	1:06:52.756000	1:06:54.756000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:54.756000" end="1:06:55.946000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:54.756000" end="1:06:55.946000" age_lower="18" age_upper="35">
 (kann	können	VERB	-	1:06:54.756000	1:06:55.946000
 man)	man	PRON	-	1:06:54.756000	1:06:55.946000
 schon	schon	ADV	-	1:06:54.756000	1:06:55.946000
 sagen	sagen	VERB	-	1:06:54.756000	1:06:55.946000
 .	-	-	-	1:06:54.756000	1:06:55.946000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:55.946000" end="1:06:57.145000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:55.946000" end="1:06:57.145000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	ja	PART	-	1:06:55.946000	1:06:57.145000
 .	-	-	-	1:06:55.946000	1:06:57.145000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:57.145000" end="1:06:57.777000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:57.145000" end="1:06:57.777000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:06:57.145000	1:06:57.777000
 .	-	-	-	1:06:57.145000	1:06:57.777000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:57.777000" end="1:06:59.851000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:57.777000" end="1:06:59.851000" age_lower="18" age_upper="35">
 sollen	sollen	VERB	-	1:06:57.777000	1:06:59.851000
 wir	ich	PRON	-	1:06:57.777000	1:06:59.851000
 was	was	PRON	-	1:06:57.777000	1:06:59.851000
@@ -17109,7 +17109,7 @@ reden	reden	VERB	-	1:06:57.777000	1:06:59.851000
 noch	noch	ADV	-	1:06:57.777000	1:06:59.851000
 ?	-	-	-	1:06:57.777000	1:06:59.851000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:59.851000" end="1:07:01.851000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:06:59.851000" end="1:07:01.851000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	ja	ADV	-	1:06:59.851000	1:07:01.851000
 eine	einen	DET	-	1:06:59.851000	1:07:01.851000
@@ -17118,18 +17118,18 @@ ist	sein	AUX	-	1:06:59.851000	1:07:01.851000
 um	um	ADP	-	1:06:59.851000	1:07:01.851000
 ,	-	-	-	1:06:59.851000	1:07:01.851000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:01.851000" end="1:07:03.304000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:01.851000" end="1:07:03.304000" age_lower="18" age_upper="35">
 "stell	stell	ADJ	-	1:07:01.851000	1:07:03.304000
 dir	sich	PRON	-	1:07:01.851000	1:07:03.304000
 vor	vor	ADP	-	1:07:01.851000	1:07:03.304000
 kein	kein	DET	-	1:07:01.851000	1:07:03.304000
 Hoch=	Hochdeutsch	NOUN	-	1:07:01.851000	1:07:03.304000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:01.851000" end="1:07:03.304000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:01.851000" end="1:07:03.304000" age_lower="18" age_upper="35">
 laut	lautach	PROPN	-	1:07:01.851000	1:07:03.304000
 /.	-	-	-	1:07:01.851000	1:07:03.304000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:03.304000" end="1:07:07.937000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:03.304000" end="1:07:07.937000" age_lower="18" age_upper="35">
 =deutsch	-	SPACE	-	1:07:03.304000	1:07:05.404000
 mehr	mehr	ADV	-	1:07:03.304000	1:07:05.404000
 in	in	ADP	-	1:07:03.304000	1:07:05.404000
@@ -17150,7 +17150,7 @@ gleiche	gleich	ADJ	-	1:07:06.051000	1:07:07.937000
 Frage	Frage	NOUN	-	1:07:06.051000	1:07:07.937000
 .	-	-	-	1:07:06.051000	1:07:07.937000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:07.937000" end="1:07:12.764000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:07.937000" end="1:07:12.764000" age_lower="18" age_upper="35">
 ach	ach	VERB	-	1:07:07.937000	1:07:08.884000
 ja	ja	ADV	-	1:07:07.937000	1:07:08.884000
 ,	-	-	-	1:07:07.937000	1:07:08.884000
@@ -17166,7 +17166,7 @@ in	in	ADP	-	1:07:08.884000	1:07:12.764000
 Österreich	Österreich	PROPN	-	1:07:08.884000	1:07:12.764000
 .	-	-	-	1:07:08.884000	1:07:12.764000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:12.764000" end="1:07:15.637000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:12.764000" end="1:07:15.637000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:07:12.764000	1:07:15.637000
 ,	-	-	-	1:07:12.764000	1:07:15.637000
 oder	oder	CCONJ	-	1:07:12.764000	1:07:15.637000
@@ -17175,7 +17175,7 @@ in	in	ADP	-	1:07:12.764000	1:07:15.637000
 Österreich	Österreich	PROPN	-	1:07:12.764000	1:07:15.637000
 .	-	-	-	1:07:12.764000	1:07:15.637000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:15.637000" end="1:07:24.584000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:15.637000" end="1:07:24.584000" age_lower="18" age_upper="35">
 das	der	PRON	-	1:07:15.637000	1:07:23.004000
 ist	sein	AUX	-	1:07:15.637000	1:07:23.004000
 nachher	nachher	ADV	-	1:07:15.637000	1:07:23.004000
@@ -17193,32 +17193,32 @@ mehr	mehr	ADV	-	1:07:23.004000	1:07:24.584000
 ja	ja	PART	-	1:07:23.004000	1:07:24.584000
 .	-	-	-	1:07:23.004000	1:07:24.584000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:24.584000" end="1:07:25.071000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:24.584000" end="1:07:25.071000" age_lower="18" age_upper="35">
 ja	ja	PART	-	1:07:24.584000	1:07:25.071000
 .	-	-	-	1:07:24.584000	1:07:25.071000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:25.071000" end="1:07:25.604000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:25.071000" end="1:07:25.604000" age_lower="18" age_upper="35">
 und	und	CCONJ	-	1:07:25.071000	1:07:25.604000
 nachher	nacher	PROPN	-	1:07:25.071000	1:07:25.604000
 ?	-	-	-	1:07:25.071000	1:07:25.604000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:25.604000" end="1:07:26.411000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:25.604000" end="1:07:26.411000" age_lower="18" age_upper="35">
 dann	dann	ADV	-	1:07:25.604000	1:07:26.411000
 gibt	geben	VERB	-	1:07:25.604000	1:07:26.411000
 es	ich	PRON	-	1:07:25.604000	1:07:26.411000
 keines	kein	PRON	-	1:07:25.604000	1:07:26.411000
 .	-	-	-	1:07:25.604000	1:07:26.411000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:26.411000" end="1:07:30.551000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:26.411000" end="1:07:30.551000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 hallo	hallo	PROPN	-	1:07:26.411000	1:07:30.551000
 .	-	-	-	1:07:26.411000	1:07:30.551000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:30.551000" end="1:07:31.497000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:30.551000" end="1:07:31.497000" age_lower="18" age_upper="35">
 hallo	hallo	PROPN	-	1:07:30.551000	1:07:31.497000
 .	-	-	-	1:07:30.551000	1:07:31.497000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:31.497000" end="1:07:34.597000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:31.497000" end="1:07:34.597000" age_lower="1" age_upper="999">
 hallo	hallo	PROPN	-	1:07:31.497000	1:07:33.497000
 ,	-	-	-	1:07:31.497000	1:07:33.497000
 und	und	CCONJ	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprkomp Frage GrammForm Gruß GrußFunk Lautung Name- OrgFunk Pro- Redupl Zeitgeb attrAdj attrAdj- exprkomp- kurzF kurzF- redupl- sonstForm sonstForm- stdLneut zeitgeb-	1:07:31.497000	1:07:33.497000
@@ -17229,15 +17229,15 @@ euch	sich	PRON	Anrede_Form Anrede_Name Appo Appo- Begrüßung Dimin Dimin- Exprk
 ?	-	-	-	1:07:31.497000	1:07:33.497000
 leider	leider	ADV	-	1:07:33.497000	1:07:34.597000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:33.497000" end="1:07:34.597000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:33.497000" end="1:07:34.597000" age_lower="18" age_upper="35">
 gut	gut	ADJ	-	1:07:33.497000	1:07:34.597000
 .	-	-	-	1:07:33.497000	1:07:34.597000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:33.497000" end="1:07:34.597000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:33.497000" end="1:07:34.597000" age_lower="18" age_upper="35">
 gut	gut	ADJ	-	1:07:33.497000	1:07:34.597000
 .	-	-	-	1:07:33.497000	1:07:34.597000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:34.597000" end="1:07:37.097000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:34.597000" end="1:07:37.097000" age_lower="1" age_upper="999">
 etwas	etwas	ADV	-	1:07:34.597000	1:07:37.097000
 nass	nass	ADJ	-	1:07:34.597000	1:07:37.097000
 geworden	werden	AUX	-	1:07:34.597000	1:07:37.097000
@@ -17248,11 +17248,11 @@ zehn	zehn	NUM	-	1:07:34.597000	1:07:37.097000
 Minuten	Minute	NOUN	-	1:07:34.597000	1:07:37.097000
 .	-	-	-	1:07:34.597000	1:07:37.097000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:37.097000" end="1:07:38.791000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:37.097000" end="1:07:38.791000" age_lower="18" age_upper="35">
 _mah_	mah	X	-	1:07:37.097000	1:07:38.791000
 !	-	-	-	1:07:37.097000	1:07:38.791000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:37.097000" end="1:07:38.791000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:37.097000" end="1:07:38.791000" age_lower="18" age_upper="35">
 ah	ah	X	-	1:07:37.097000	1:07:38.791000
 ,	-	-	-	1:07:37.097000	1:07:38.791000
 keinen	kein	DET	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	1:07:37.097000	1:07:38.791000
@@ -17260,7 +17260,7 @@ Schirm	Schirm	NOUN	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond 
 gehabt	haben	AUX	+menschl -belebt App Besitz PM PR Pkon Poss Prel Präd Psond irrelevant	1:07:37.097000	1:07:38.791000
 ?	-	-	-	1:07:37.097000	1:07:38.791000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:38.791000" end="1:07:43.564000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:38.791000" end="1:07:43.564000" age_lower="1" age_upper="999">
 nein	nein	PART	-	1:07:38.791000	1:07:42.124000
 ,	-	-	-	1:07:38.791000	1:07:42.124000
 ich	ich	PRON	-	1:07:38.791000	1:07:42.124000
@@ -17285,11 +17285,11 @@ nicht	nicht	PART	-	1:07:42.124000	1:07:43.564000
 so	so	ADV	-	1:07:42.124000	1:07:43.564000
 /.	-	-	-	1:07:42.124000	1:07:43.564000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:43.564000" end="1:07:44.544000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:43.564000" end="1:07:44.544000" age_lower="18" age_upper="35">
 _mah_	mah	X	-	1:07:43.564000	1:07:44.544000
 !	-	-	-	1:07:43.564000	1:07:44.544000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:44.544000" end="1:07:47.491000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:44.544000" end="1:07:47.491000" age_lower="1" age_upper="999">
 aber	aber	ADV	-	1:07:44.544000	1:07:47.491000
 es	ich	PRON	-	1:07:44.544000	1:07:47.491000
 ist	sein	AUX	-	1:07:44.544000	1:07:47.491000
@@ -17303,11 +17303,11 @@ noch	noch	ADV	-	1:07:44.544000	1:07:47.491000
 trocken	trocken	ADJ	-	1:07:44.544000	1:07:47.491000
 .	-	-	-	1:07:44.544000	1:07:47.491000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:47.491000" end="1:07:48.011000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:47.491000" end="1:07:48.011000" age_lower="18" age_upper="35">
 mhm	mhm	PROPN	-	1:07:47.491000	1:07:48.011000
 .	-	-	-	1:07:47.491000	1:07:48.011000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:48.011000" end="1:07:51.284000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:48.011000" end="1:07:51.284000" age_lower="1" age_upper="999">
 also	also	ADV	-	1:07:48.011000	1:07:51.284000
 aber	aber	ADV	-	1:07:48.011000	1:07:51.284000
 wegen	wegen	ADP	-	1:07:48.011000	1:07:51.284000
@@ -17325,7 +17325,7 @@ rein	rein	ADJ	-	1:07:48.011000	1:07:51.284000
 kommen	kommen	VERB	-	1:07:48.011000	1:07:51.284000
 .	-	-	-	1:07:48.011000	1:07:51.284000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:51.284000" end="1:07:53.064000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:51.284000" end="1:07:53.064000" age_lower="18" age_upper="35">
 komm	-	-	-	1:07:51.284000	1:07:53.064000
 _lei_	-	-	-	1:07:51.284000	1:07:53.064000
 herein	-	-	-	1:07:51.284000	1:07:53.064000
@@ -17336,12 +17336,12 @@ keine	kein	DET	-	1:07:51.284000	1:07:53.064000
 Tragik	Tragik	NOUN	-	1:07:51.284000	1:07:53.064000
 .	-	-	-	1:07:51.284000	1:07:53.064000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:53.064000" end="1:07:54.271000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:53.064000" end="1:07:54.271000" age_lower="1" age_upper="999">
 ähm	ähm	X	-	1:07:53.064000	1:07:54.271000
 ja	ja	PART	-	1:07:53.064000	1:07:54.271000
 .	-	-	-	1:07:53.064000	1:07:54.271000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:54.271000" end="1:07:55.657000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:54.271000" end="1:07:55.657000" age_lower="18" age_upper="35">
 _mah_	mah	PROPN	-	1:07:54.271000	1:07:55.657000
 bitte	bitte	PART	-	1:07:54.271000	1:07:55.657000
 ,	-	-	-	1:07:54.271000	1:07:55.657000
@@ -17350,19 +17350,19 @@ einfach	einfach	ADV	-	1:07:54.271000	1:07:55.657000
 herein	herein	ADP	-	1:07:54.271000	1:07:55.657000
 .	-	-	-	1:07:54.271000	1:07:55.657000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:55.657000" end="1:07:56.224000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="1:07:55.657000" end="1:07:56.224000" age_lower="1" age_upper="999">
 okay	okay	NOUN	-	1:07:55.657000	1:07:56.224000
 ,	-	-	-	1:07:55.657000	1:07:56.224000
 danke	danke	VERB	-	1:07:55.657000	1:07:56.224000
 .	-	-	-	1:07:55.657000	1:07:56.224000
 </u>
-<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:56.224000" end="1:07:56.851000" persName="Informant 0052" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_21" sex="female" age="jung (18-35) -matura" name="Informant 0052" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:56.224000" end="1:07:56.851000" age_lower="18" age_upper="35">
 das	der	DET	-	1:07:56.224000	1:07:56.851000
 passt	passt	PROPN	-	1:07:56.224000	1:07:56.851000
 schon	schon	ADV	-	1:07:56.224000	1:07:56.851000
 .	-	-	-	1:07:56.224000	1:07:56.851000
 </u>
-<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:56.851000" end="1:07:58.811000" persName="Informant 0071" residence="Weißbriach" age_lower="18" age_upper="35">
+<u who="spk_39" sex="male" age="jung (18-35) -matura" name="Informant 0071" location="Weißbriach" lat="46.6891567" lon="13.2535836" start="1:07:56.851000" end="1:07:58.811000" age_lower="18" age_upper="35">
 darf	dürfen	VERB	-	1:07:56.851000	1:07:58.811000
 ich	ich	PRON	-	1:07:56.851000	1:07:58.811000
 noch	noch	ADV	-	1:07:56.851000	1:07:58.811000

@@ -1,24 +1,24 @@
 <doc id="transcript_600" name="4060_BADEN_alt_m_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="600.xml" title="Transcript: Transcript_600">
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:00:00" end="0:02:29.179000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:00:00" end="0:02:29.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:00:00" end="0:02:29.179000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:00:00" end="0:02:29.179000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:02:29.179000" end="0:02:30.793000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:02:29.179000" end="0:02:30.793000" age_lower="1" age_upper="999">
 wohnen	-	-	-	0:02:29.179000	0:02:30.793000
 Sie	-	-	-	0:02:29.179000	0:02:30.793000
 gern	-	-	-	0:02:29.179000	0:02:30.793000
 in	-	-	-	0:02:29.179000	0:02:30.793000
 ORT	ORT	-	-	0:02:29.179000	0:02:30.793000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:02:30.793000" end="0:02:33.362000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:02:30.793000" end="0:02:33.362000" age_lower="65" age_upper="999">
 ja	-	-	-	0:02:30.793000	0:02:31.459000
 durchaus	-	-	-	0:02:31.459000	0:02:32.214000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:02:32.473000" end="0:02:33.362000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:02:32.473000" end="0:02:33.362000" age_lower="1" age_upper="999">
 warum	-	-	-	0:02:32.823000	0:02:33.362000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:02:33.362000" end="0:02:56.553000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:02:33.362000" end="0:02:56.553000" age_lower="65" age_upper="999">
 warum	-	-	-	0:02:33.362000	0:02:34.346000
 ja	-	-	-	0:02:34.346000	0:02:38.276000
 es	-	-	-	0:02:34.346000	0:02:38.276000
@@ -66,7 +66,7 @@ Dutzend	-	-	-	0:02:52.792000	0:02:56.553000
 Bekannte	-	-	-	0:02:52.792000	0:02:56.553000
 treffe	-	-	-	0:02:52.792000	0:02:56.553000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:02:53.039000" end="0:03:06.318000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:02:53.039000" end="0:03:06.318000" age_lower="1" age_upper="999">
 lustig	-	-	-	0:02:57.091000	0:02:57.701000
 war	-	-	-	0:02:57.701000	0:02:59.486000
 nämich	-	-	-	0:02:57.701000	0:02:59.486000
@@ -98,7 +98,7 @@ dieser	-	-	-	0:03:04.792000	0:03:06.318000
 Park	-	-	-	0:03:04.792000	0:03:06.318000
 hieß	-	-	-	0:03:04.792000	0:03:06.318000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:06.318000" end="0:03:09.097000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:06.318000" end="0:03:09.097000" age_lower="65" age_upper="999">
 ein	-	-	-	0:03:06.318000	0:03:08.180000
 ja	-	-	-	0:03:06.318000	0:03:08.180000
 es	-	-	-	0:03:06.318000	0:03:08.180000
@@ -110,10 +110,10 @@ ein	-	-	-	0:03:08.180000	0:03:09.097000
 eben	-	-	-	0:03:08.180000	0:03:09.097000
 war	-	-	-	0:03:08.180000	0:03:09.097000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:09.097000" end="0:03:09.412000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:09.097000" end="0:03:09.412000" age_lower="1" age_upper="999">
 nein	-	-	-	0:03:09.097000	0:03:09.412000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:09.097000" end="0:03:11.106000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:09.097000" end="0:03:11.106000" age_lower="65" age_upper="999">
 und	-	-	-	0:03:09.097000	0:03:11.106000
 wenn	-	-	-	0:03:09.097000	0:03:11.106000
 ein	-	-	-	0:03:09.097000	0:03:11.106000
@@ -122,17 +122,17 @@ ist	-	-	-	0:03:09.097000	0:03:11.106000
 da	-	-	-	0:03:09.097000	0:03:11.106000
 ORT	ORT	-	-	0:03:09.097000	0:03:11.106000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:10.861000" end="0:03:12.156000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:10.861000" end="0:03:12.156000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:10.861000	0:03:11.281000
 genau	-	-	-	0:03:10.861000	0:03:11.281000
 ORT	ORT	-	-	0:03:11.281000	0:03:12.156000
 war	-	-	-	0:03:11.281000	0:03:12.156000
 es	-	-	-	0:03:11.281000	0:03:12.156000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:11.771000" end="0:03:11.995000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:11.771000" end="0:03:11.995000" age_lower="65" age_upper="999">
 ja	-	-	-	0:03:11.771000	0:03:11.995000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:12.156000" end="0:03:13.871000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:12.156000" end="0:03:13.871000" age_lower="1" age_upper="999">
 der	-	-	-	0:03:12.156000	0:03:13.871000
 ist	-	-	-	0:03:12.156000	0:03:13.871000
 ja	-	-	-	0:03:12.156000	0:03:13.871000
@@ -141,17 +141,17 @@ sehr	-	-	-	0:03:12.156000	0:03:13.871000
 sehr	-	-	-	0:03:12.156000	0:03:13.871000
 schön	-	-	-	0:03:12.156000	0:03:13.871000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:12.156000" end="0:03:14.452000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:12.156000" end="0:03:14.452000" age_lower="65" age_upper="999">
 ja	-	-	-	0:03:12.156000	0:03:12.772000
 nein	-	-	-	0:03:13.500000	0:03:14.452000
 das	-	-	-	0:03:13.500000	0:03:14.452000
 ist	-	-	-	0:03:13.500000	0:03:14.452000
 wunderschön	-	-	-	0:03:13.500000	0:03:14.452000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:14.452000" end="0:03:14.732000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:14.452000" end="0:03:14.732000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:14.452000	0:03:14.732000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:14.452000" end="0:03:23.377000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:14.452000" end="0:03:23.377000" age_lower="65" age_upper="999">
 allem	-	-	-	0:03:14.452000	0:03:17.063000
 ah	-	-	-	0:03:14.452000	0:03:17.063000
 das	-	-	-	0:03:14.452000	0:03:17.063000
@@ -171,9 +171,9 @@ wunderbar	-	-	-	0:03:20.122000	0:03:23.377000
 gepflegten	-	-	-	0:03:20.122000	0:03:23.377000
 Garten	-	-	-	0:03:20.122000	0:03:23.377000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:22.810000" end="0:03:23.244000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:22.810000" end="0:03:23.244000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:23.377000" end="0:03:27.528000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:23.377000" end="0:03:27.528000" age_lower="65" age_upper="999">
 gartenbereich	-	-	-	0:03:23.377000	0:03:27.528000
 geht	-	-	-	0:03:23.377000	0:03:27.528000
 es	-	-	-	0:03:23.377000	0:03:27.528000
@@ -186,9 +186,9 @@ freie	-	-	-	0:03:23.377000	0:03:27.528000
 Natur	-	-	-	0:03:23.377000	0:03:27.528000
 über	-	-	-	0:03:23.377000	0:03:27.528000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:27.024000" end="0:03:27.528000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:27.024000" end="0:03:27.528000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:27.528000" end="0:03:30.055000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:27.528000" end="0:03:30.055000" age_lower="65" age_upper="999">
 kann	-	-	-	0:03:27.528000	0:03:28.725000
 zwei	-	-	-	0:03:27.528000	0:03:28.725000
 Stunden	-	-	-	0:03:27.528000	0:03:28.725000
@@ -198,7 +198,7 @@ zu	-	-	-	0:03:28.725000	0:03:30.055000
 keiner	-	-	-	0:03:28.725000	0:03:30.055000
 Strasse	-	-	-	0:03:28.725000	0:03:30.055000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:28.984000" end="0:03:39.148000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:28.984000" end="0:03:39.148000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:28.984000	0:03:29.236000
 ja	-	-	-	0:03:29.964000	0:03:30.251000
 das	-	-	-	0:03:30.251000	0:03:31.721000
@@ -227,30 +227,30 @@ dieser	-	-	-	0:03:34.220000	0:03:39.148000
 Therme	-	-	-	0:03:34.220000	0:03:39.148000
 rausgekommen	-	-	-	0:03:34.220000	0:03:39.148000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:39.001000" end="0:03:39.728000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:39.001000" end="0:03:39.728000" age_lower="65" age_upper="999">
 ja	-	-	-	0:03:39.001000	0:03:39.358000
 ja	-	-	-	0:03:39.358000	0:03:39.728000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:39.547000" end="0:03:41.079000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:39.547000" end="0:03:41.079000" age_lower="1" age_upper="999">
 des	-	-	-	0:03:39.799000	0:03:41.079000
 war	-	-	-	0:03:39.799000	0:03:41.079000
 wirklich	-	-	-	0:03:39.799000	0:03:41.079000
 <<kichernd>	-	-	-	0:03:39.799000	0:03:41.079000
 schön;>	-	-	-	0:03:39.799000	0:03:41.079000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:39.799000" end="0:03:41.079000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:39.799000" end="0:03:41.079000" age_lower="65" age_upper="999">
 ja	-	-	-	0:03:39.799000	0:03:40.002000
 nein	-	-	-	0:03:40.002000	0:03:41.079000
 ist	-	-	-	0:03:40.002000	0:03:41.079000
 recht	-	-	-	0:03:40.002000	0:03:41.079000
 schön	-	-	-	0:03:40.002000	0:03:41.079000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:41.079000" end="0:03:41.437000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:41.079000" end="0:03:41.437000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:41.079000	0:03:41.437000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:41.079000" end="0:03:41.836000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:41.079000" end="0:03:41.836000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:41.437000" end="0:03:50.873000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:41.437000" end="0:03:50.873000" age_lower="1" age_upper="999">
 würde	-	-	-	0:03:43.208000	0:03:46.526000
 es	-	-	-	0:03:43.208000	0:03:46.526000
 Ihnen	-	-	-	0:03:43.208000	0:03:46.526000
@@ -265,7 +265,7 @@ von	-	-	-	0:03:48.156000	0:03:50.873000
 hier	-	-	-	0:03:48.156000	0:03:50.873000
 wegzuziehen	-	-	-	0:03:48.156000	0:03:50.873000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:50.873000" end="0:03:59.531000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:50.873000" end="0:03:59.531000" age_lower="65" age_upper="999">
 na	-	-	-	0:03:50.873000	0:03:55.087000
 ja	-	-	-	0:03:50.873000	0:03:55.087000
 ich	-	-	-	0:03:50.873000	0:03:55.087000
@@ -287,9 +287,9 @@ ORT	ORT	-	-	0:03:56.091000	0:03:58.132000
 näherer	-	-	-	0:03:58.132000	0:03:59.531000
 Verbindung	-	-	-	0:03:58.132000	0:03:59.531000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:58.496000" end="0:03:58.804000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:03:58.496000" end="0:03:58.804000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:59.531000" end="0:04:02.710000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:03:59.531000" end="0:04:02.710000" age_lower="65" age_upper="999">
 un	-	-	-	0:03:59.531000	0:04:02.710000
 da	-	-	-	0:03:59.531000	0:04:02.710000
 kein	-	-	-	0:03:59.531000	0:04:02.710000
@@ -301,9 +301,9 @@ besonders	-	-	-	0:03:59.531000	0:04:02.710000
 gut	-	-	-	0:03:59.531000	0:04:02.710000
 vorsten	-	-	-	0:03:59.531000	0:04:02.710000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:01.954000" end="0:04:02.367000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:01.954000" end="0:04:02.367000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:04:02.710000" end="0:04:09.871000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:04:02.710000" end="0:04:09.871000" age_lower="65" age_upper="999">
 ich	-	-	-	0:04:02.710000	0:04:05.160000
 aber	-	-	-	0:04:02.710000	0:04:05.160000
 als	-	-	-	0:04:02.710000	0:04:05.160000
@@ -329,18 +329,18 @@ auch	-	-	-	0:04:07.708000	0:04:09.871000
 <<kichernd>	-	-	-	0:04:07.708000	0:04:09.871000
 ziehen,>	-	-	-	0:04:07.708000	0:04:09.871000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:08.611000" end="0:04:12.160000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:08.611000" end="0:04:12.160000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:04:09.871000" end="0:04:12.706000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:04:09.871000" end="0:04:12.706000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:12.160000" end="0:04:15.730000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:12.160000" end="0:04:15.730000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:12.783000	0:04:14.827000
 Ihre	-	-	-	0:04:12.783000	0:04:14.827000
 Freizeitgestaltung	-	-	-	0:04:12.783000	0:04:14.827000
 sie	-	-	-	0:04:14.827000	0:04:15.730000
 Hobbys	-	-	-	0:04:14.827000	0:04:15.730000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:04:15.730000" end="0:04:57.541000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:04:15.730000" end="0:04:57.541000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:15.730000	0:04:16.738000
 zu	-	-	-	0:04:16.738000	0:04:17.745000
 viele	-	-	-	0:04:16.738000	0:04:17.745000
@@ -424,7 +424,7 @@ immer	-	-	-	0:04:54.412000	0:04:57.541000
 zu	-	-	-	0:04:54.412000	0:04:57.541000
 kurz	-	-	-	0:04:54.412000	0:04:57.541000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:55.203000" end="0:05:01.769000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:04:55.203000" end="0:05:01.769000" age_lower="1" age_upper="999">
 schön	-	-	-	0:04:55.203000	0:04:55.665000
 und	-	-	-	0:04:57.632000	0:04:59.935000
 äh	-	-	-	0:04:57.632000	0:04:59.935000
@@ -438,29 +438,29 @@ den	-	-	-	0:04:59.935000	0:05:01.769000
 Pfadfindern	-	-	-	0:04:59.935000	0:05:01.769000
 aus	-	-	-	0:04:59.935000	0:05:01.769000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:01.601000" end="0:05:03.414000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:01.601000" end="0:05:03.414000" age_lower="65" age_upper="999">
 das	-	-	-	0:05:01.601000	0:05:03.414000
 sind	-	-	-	0:05:01.601000	0:05:03.414000
 die	-	-	-	0:05:01.601000	0:05:03.414000
 Erwachsenen	-	-	-	0:05:01.601000	0:05:03.414000
 Pfadfinder	-	-	-	0:05:01.601000	0:05:03.414000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:01.769000" end="0:05:04.268000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:01.769000" end="0:05:04.268000" age_lower="1" age_upper="999">
 ah	-	-	-	0:05:03.106000	0:05:03.414000
 so	-	-	-	0:05:03.106000	0:05:03.414000
 ist	-	-	-	0:05:03.414000	0:05:04.268000
 direkt	-	-	-	0:05:03.414000	0:05:04.268000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:03.414000" end="0:05:04.730000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:03.414000" end="0:05:04.730000" age_lower="65" age_upper="999">
 es	-	-	-	0:05:03.414000	0:05:04.730000
 gibt	-	-	-	0:05:03.414000	0:05:04.730000
 die	-	-	-	0:05:03.414000	0:05:04.730000
 jugendgruppe	-	-	-	0:05:03.414000	0:05:04.730000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:04.268000" end="0:05:05.318000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:04.268000" end="0:05:05.318000" age_lower="1" age_upper="999">
 hm	-	-	-	0:05:04.730000	0:05:05.318000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:04.730000" end="0:05:20.081000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:04.730000" end="0:05:20.081000" age_lower="65" age_upper="999">
 der	-	-	-	0:05:04.730000	0:05:07.033000
 ich	-	-	-	0:05:04.730000	0:05:07.033000
 äh	-	-	-	0:05:04.730000	0:05:07.033000
@@ -494,7 +494,7 @@ bei	-	-	-	0:05:18.380000	0:05:20.081000
 den	-	-	-	0:05:18.380000	0:05:20.081000
 oldies	-	-	-	0:05:18.380000	0:05:20.081000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:20.081000" end="0:05:23.518000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:20.081000" end="0:05:23.518000" age_lower="1" age_upper="999">
 und	-	-	-	0:05:21.159000	0:05:22.650000
 was	-	-	-	0:05:21.159000	0:05:22.650000
 wird	-	-	-	0:05:21.159000	0:05:22.650000
@@ -505,7 +505,7 @@ ich	-	-	-	0:05:22.650000	0:05:23.518000
 fragen	-	-	-	0:05:22.650000	0:05:23.518000
 darf	-	-	-	0:05:22.650000	0:05:23.518000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:23.518000" end="0:05:29.279000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:23.518000" end="0:05:29.279000" age_lower="65" age_upper="999">
 noch	-	-	-	0:05:23.518000	0:05:29.279000
 wir	-	-	-	0:05:23.518000	0:05:29.279000
 haben	-	-	-	0:05:23.518000	0:05:29.279000
@@ -520,9 +520,9 @@ gilden	-	-	-	0:05:23.518000	0:05:29.279000
 in	-	-	-	0:05:23.518000	0:05:29.279000
 Österreich	-	-	-	0:05:23.518000	0:05:29.279000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:24.435000" end="0:05:24.946000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:24.435000" end="0:05:24.946000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:29.279000" end="0:05:45.904000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:29.279000" end="0:05:45.904000" age_lower="65" age_upper="999">
 intensivste	-	-	-	0:05:29.279000	0:05:30.868000
 Programm	-	-	-	0:05:29.279000	0:05:30.868000
 wir	-	-	-	0:05:30.868000	0:05:32.520000
@@ -553,16 +553,16 @@ sein	-	-	-	0:05:43.097000	0:05:45.904000
 im	-	-	-	0:05:43.097000	0:05:45.904000
 Sommer	-	-	-	0:05:43.097000	0:05:45.904000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:44.581000" end="0:05:45.624000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:44.581000" end="0:05:45.624000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:45.904000" end="0:05:48.361000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:05:45.904000" end="0:05:48.361000" age_lower="65" age_upper="999">
 es	-	-	-	0:05:45.904000	0:05:48.361000
 ist	-	-	-	0:05:45.904000	0:05:48.361000
 immer	-	-	-	0:05:45.904000	0:05:48.361000
 volles	-	-	-	0:05:45.904000	0:05:48.361000
 Haus	-	-	-	0:05:45.904000	0:05:48.361000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:48.361000" end="0:06:06.484000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:05:48.361000" end="0:06:06.484000" age_lower="1" age_upper="999">
 also	-	-	-	0:05:48.361000	0:05:49.719000
 volles	-	-	-	0:05:48.361000	0:05:49.719000
 Programm	-	-	-	0:05:48.361000	0:05:49.719000
@@ -595,19 +595,19 @@ mir	-	-	-	0:06:04.720000	0:06:06.484000
 das	-	-	-	0:06:04.720000	0:06:06.484000
 vorstellen	-	-	-	0:06:04.720000	0:06:06.484000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:06.071000" end="0:06:07.429000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:06.071000" end="0:06:07.429000" age_lower="65" age_upper="999">
 ich	-	-	-	0:06:06.071000	0:06:07.429000
 baue	-	-	-	0:06:06.071000	0:06:07.429000
 wieder	-	-	-	0:06:06.071000	0:06:07.429000
 dran	-	-	-	0:06:06.071000	0:06:07.429000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:07.296000" end="0:06:08.255000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:07.296000" end="0:06:08.255000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:06:07.296000	0:06:08.255000
 ah	-	-	-	0:06:07.296000	0:06:08.255000
 so	-	-	-	0:06:07.296000	0:06:08.255000
 okay,>	-	-	-	0:06:07.296000	0:06:08.255000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:07.429000" end="0:06:09.837000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:07.429000" end="0:06:09.837000" age_lower="65" age_upper="999">
 ja,>	-	-	-	0:06:07.429000	0:06:07.912000
 um	-	-	-	0:06:07.912000	0:06:09.837000
 auch	-	-	-	0:06:07.912000	0:06:09.837000
@@ -617,32 +617,32 @@ zu	-	-	-	0:06:07.912000	0:06:09.837000
 <<kichernd>	-	-	-	0:06:07.912000	0:06:09.837000
 lassen;>	-	-	-	0:06:07.912000	0:06:09.837000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:08.255000" end="0:06:10.026000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:08.255000" end="0:06:10.026000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:09.837000" end="0:06:10.124000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:09.837000" end="0:06:10.124000" age_lower="65" age_upper="999">
 ja,>	-	-	-	0:06:09.837000	0:06:10.124000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:10.026000" end="0:06:10.719000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:10.026000" end="0:06:10.719000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:06:10.026000	0:06:10.719000
 schön;>	-	-	-	0:06:10.026000	0:06:10.719000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:10.124000" end="0:06:11.419000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:10.124000" end="0:06:11.419000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:10.719000" end="0:06:11.769000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:10.719000" end="0:06:11.769000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:11.419000" end="0:06:12.588000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:11.419000" end="0:06:12.588000" age_lower="65" age_upper="999">
 d	-	-	-	0:06:11.419000	0:06:12.588000
 ist	-	-	-	0:06:11.419000	0:06:12.588000
 sehr	-	-	-	0:06:11.419000	0:06:12.588000
 entspannend	-	-	-	0:06:11.419000	0:06:12.588000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:12.588000" end="0:06:13.491000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:12.588000" end="0:06:13.491000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:12.588000	0:06:13.491000
 das	-	-	-	0:06:12.588000	0:06:13.491000
 glaube	-	-	-	0:06:12.588000	0:06:13.491000
 ich	-	-	-	0:06:12.588000	0:06:13.491000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:12.588000" end="0:06:15.927000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:12.588000" end="0:06:15.927000" age_lower="65" age_upper="999">
 doch	-	-	-	0:06:12.588000	0:06:15.927000
 technisch	-	-	-	0:06:12.588000	0:06:15.927000
 und	-	-	-	0:06:12.588000	0:06:15.927000
@@ -651,9 +651,9 @@ ein	-	-	-	0:06:12.588000	0:06:15.927000
 bisschen	-	-	-	0:06:12.588000	0:06:15.927000
 fordernd	-	-	-	0:06:12.588000	0:06:15.927000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:13.491000" end="0:06:15.682000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:13.491000" end="0:06:15.682000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:15.927000" end="0:06:20.435000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:15.927000" end="0:06:20.435000" age_lower="65" age_upper="999">
 und	-	-	-	0:06:15.927000	0:06:20.435000
 auch	-	-	-	0:06:15.927000	0:06:20.435000
 die	-	-	-	0:06:15.927000	0:06:20.435000
@@ -663,10 +663,10 @@ geschicklichkeit	-	-	-	0:06:15.927000	0:06:20.435000
 wird	-	-	-	0:06:15.927000	0:06:20.435000
 gebraucht	-	-	-	0:06:15.927000	0:06:20.435000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:18.475000" end="0:06:18.923000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:18.475000" end="0:06:18.923000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:18.475000	0:06:18.923000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:20.435000" end="0:06:24.306000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:20.435000" end="0:06:24.306000" age_lower="65" age_upper="999">
 nette	-	-	-	0:06:20.435000	0:06:22.435000
 Sache	-	-	-	0:06:20.435000	0:06:22.435000
 und	-	-	-	0:06:22.435000	0:06:24.306000
@@ -676,9 +676,9 @@ das	-	-	-	0:06:22.435000	0:06:24.306000
 nicht	-	-	-	0:06:22.435000	0:06:24.306000
 los	-	-	-	0:06:22.435000	0:06:24.306000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:22.605000" end="0:06:24.845000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:22.605000" end="0:06:24.845000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:24.306000" end="0:06:27.134000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:24.306000" end="0:06:27.134000" age_lower="65" age_upper="999">
 ist	-	-	-	0:06:24.306000	0:06:25.615000
 wie	-	-	-	0:06:24.306000	0:06:25.615000
 malaria	-	-	-	0:06:24.306000	0:06:25.615000
@@ -689,16 +689,16 @@ habe	-	-	-	0:06:25.615000	0:06:27.134000
 es	-	-	-	0:06:25.615000	0:06:27.134000
 üwerstanden	-	-	-	0:06:25.615000	0:06:27.134000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:26.021000" end="0:06:26.504000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:26.021000" end="0:06:26.504000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:27.134000" end="0:06:28.527000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:27.134000" end="0:06:28.527000" age_lower="65" age_upper="999">
 dann	-	-	-	0:06:27.134000	0:06:28.527000
 kommt	-	-	-	0:06:27.134000	0:06:28.527000
 wieder	-	-	-	0:06:27.134000	0:06:28.527000
 ein	-	-	-	0:06:27.134000	0:06:28.527000
 schub	-	-	-	0:06:27.134000	0:06:28.527000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:28.107000" end="0:06:41.911000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:28.107000" end="0:06:41.911000" age_lower="1" age_upper="999">
 und	-	-	-	0:06:30.053000	0:06:32.097000
 äh	-	-	-	0:06:30.053000	0:06:32.097000
 spielen	-	-	-	0:06:30.053000	0:06:32.097000
@@ -727,7 +727,7 @@ auch	-	-	-	0:06:38.033000	0:06:41.519000
 dann	-	-	-	0:06:38.033000	0:06:41.519000
 gemeinsam	-	-	-	0:06:38.033000	0:06:41.519000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:41.911000" end="0:06:50.248000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:41.911000" end="0:06:50.248000" age_lower="65" age_upper="999">
 ah	-	-	-	0:06:41.911000	0:06:43.997000
 noch	-	-	-	0:06:41.911000	0:06:43.997000
 nicht	-	-	-	0:06:41.911000	0:06:43.997000
@@ -749,11 +749,11 @@ bisschen	-	-	-	0:06:47.175000	0:06:50.248000
 zu	-	-	-	0:06:47.175000	0:06:50.248000
 jung	-	-	-	0:06:47.175000	0:06:50.248000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:49.961000" end="0:06:50.465000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:49.961000" end="0:06:50.465000" age_lower="1" age_upper="999">
 ah	-	-	-	0:06:49.961000	0:06:50.465000
 so	-	-	-	0:06:49.961000	0:06:50.465000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:50.465000" end="0:06:58.914000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:50.465000" end="0:06:58.914000" age_lower="65" age_upper="999">
 äh	-	-	-	0:06:50.465000	0:06:52.341000
 aber	-	-	-	0:06:50.465000	0:06:52.341000
 na	-	-	-	0:06:52.341000	0:06:53.804000
@@ -773,19 +773,19 @@ nicht	-	-	-	0:06:56.870000	0:06:58.914000
 spielen	-	-	-	0:06:56.870000	0:06:58.914000
 sagen	-	-	-	0:06:56.870000	0:06:58.914000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:58.305000" end="0:06:59.072000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:06:58.305000" end="0:06:59.072000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:06:58.752000	0:06:59.072000
 ja	-	-	-	0:06:58.752000	0:06:59.072000
 ha,>	-	-	-	0:06:58.752000	0:06:59.072000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:58.914000" end="0:07:00.812000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:06:58.914000" end="0:07:00.812000" age_lower="65" age_upper="999">
 macht	-	-	-	0:06:59.072000	0:07:00.399000
 zugebetrieb	-	-	-	0:06:59.072000	0:07:00.399000
 so	-	-	-	0:07:00.399000	0:07:00.812000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:00.812000" end="0:07:01.559000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:00.812000" end="0:07:01.559000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:00.812000" end="0:07:10.385000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:00.812000" end="0:07:10.385000" age_lower="65" age_upper="999">
 davon	-	-	-	0:07:00.812000	0:07:02.599000
 bin	-	-	-	0:07:00.812000	0:07:02.599000
 ich	-	-	-	0:07:00.812000	0:07:02.599000
@@ -819,16 +819,16 @@ ist	-	-	-	0:07:08.232000	0:07:10.385000
 <<kichernd>	-	-	-	0:07:08.232000	0:07:10.385000
 meine;>	-	-	-	0:07:08.232000	0:07:10.385000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:08.392000" end="0:07:12.385000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:08.392000" end="0:07:12.385000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:10.385000	0:07:12.385000
 das	-	-	-	0:07:10.385000	0:07:12.385000
 klingt	-	-	-	0:07:10.385000	0:07:12.385000
 wirklich	-	-	-	0:07:10.385000	0:07:12.385000
 aufregend	-	-	-	0:07:10.385000	0:07:12.385000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:10.719000" end="0:07:14.179000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:10.719000" end="0:07:14.179000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:12.385000" end="0:07:21.545000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:12.385000" end="0:07:21.545000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:15.385000	0:07:21.545000
 mit	-	-	-	0:07:15.385000	0:07:21.545000
 welchen	-	-	-	0:07:15.385000	0:07:21.545000
@@ -839,7 +839,7 @@ Ihre	-	-	-	0:07:15.385000	0:07:21.545000
 Freizeit	-	-	-	0:07:15.385000	0:07:21.545000
 meistens	-	-	-	0:07:15.385000	0:07:21.545000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:21.545000" end="0:07:37.118000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:21.545000" end="0:07:37.118000" age_lower="65" age_upper="999">
 ein	-	-	-	0:07:21.545000	0:07:25.432000
 ja	-	-	-	0:07:21.545000	0:07:25.432000
 teils	-	-	-	0:07:21.545000	0:07:25.432000
@@ -864,9 +864,9 @@ mit	-	-	-	0:07:32.892000	0:07:37.118000
 verschiedensten	-	-	-	0:07:32.892000	0:07:37.118000
 Freunden	-	-	-	0:07:32.892000	0:07:37.118000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:37.118000" end="0:07:37.692000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:37.118000" end="0:07:37.692000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:37.118000" end="0:07:42.398000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:37.118000" end="0:07:42.398000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:37.118000	0:07:37.692000
 mit	-	-	-	0:07:37.692000	0:07:40.178000
 einer	-	-	-	0:07:37.692000	0:07:40.178000
@@ -878,9 +878,9 @@ es	-	-	-	0:07:40.178000	0:07:40.652000
 wie	-	-	-	0:07:40.652000	0:07:42.398000
 gesagt	-	-	-	0:07:40.652000	0:07:42.398000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:41.938000" end="0:07:42.398000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:41.938000" end="0:07:42.398000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:42.398000" end="0:07:44.645000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:42.398000" end="0:07:44.645000" age_lower="65" age_upper="999">
 die	-	-	-	0:07:42.398000	0:07:44.645000
 die	-	-	-	0:07:42.398000	0:07:44.645000
 Wochen	-	-	-	0:07:42.398000	0:07:44.645000
@@ -888,7 +888,7 @@ werden	-	-	-	0:07:42.398000	0:07:44.645000
 zu	-	-	-	0:07:42.398000	0:07:44.645000
 kurz	-	-	-	0:07:42.398000	0:07:44.645000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:44.465000" end="0:07:50.972000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:44.465000" end="0:07:50.972000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:46.685000	0:07:49.045000
 wenn	-	-	-	0:07:46.685000	0:07:49.045000
 Sie	-	-	-	0:07:46.685000	0:07:49.045000
@@ -902,7 +902,7 @@ sich	-	-	-	0:07:49.045000	0:07:50.972000
 dann	-	-	-	0:07:49.045000	0:07:50.972000
 typischerweise	-	-	-	0:07:49.045000	0:07:50.972000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:50.972000" end="0:07:58.678000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:50.972000" end="0:07:58.678000" age_lower="65" age_upper="999">
 ein	-	-	-	0:07:50.972000	0:07:57.052000
 ja	-	-	-	0:07:50.972000	0:07:57.052000
 ein	-	-	-	0:07:50.972000	0:07:57.052000
@@ -920,9 +920,9 @@ gegenüber	-	-	-	0:07:57.052000	0:07:58.678000
 vom	-	-	-	0:07:57.052000	0:07:58.678000
 ORT	ORT	-	-	0:07:57.052000	0:07:58.678000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:58.678000" end="0:07:59.212000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:07:58.678000" end="0:07:59.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:59.212000" end="0:08:16.012000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:07:59.212000" end="0:08:16.012000" age_lower="65" age_upper="999">
 äh	-	-	-	0:07:59.212000	0:08:03.045000
 e	-	-	-	0:07:59.212000	0:08:03.045000
 ein	-	-	-	0:07:59.212000	0:08:03.045000
@@ -959,27 +959,27 @@ gastlich	-	-	-	0:08:13.298000	0:08:16.012000
 <<kichernd>	-	-	-	0:08:13.298000	0:08:16.012000
 eingerichtet;>	-	-	-	0:08:13.298000	0:08:16.012000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:15.032000" end="0:08:15.732000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:15.032000" end="0:08:15.732000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:16.012000" end="0:08:16.485000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:16.012000" end="0:08:16.485000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:16.485000" end="0:08:17.432000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:16.485000" end="0:08:17.432000" age_lower="1" age_upper="999">
 verstehe	-	-	-	0:08:16.485000	0:08:17.432000
 ich	-	-	-	0:08:16.485000	0:08:17.432000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:16.485000" end="0:08:17.738000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:16.485000" end="0:08:17.738000" age_lower="65" age_upper="999">
 habe	-	-	-	0:08:16.485000	0:08:17.738000
 wenig	-	-	-	0:08:16.485000	0:08:17.738000
 vorräte	-	-	-	0:08:16.485000	0:08:17.738000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:17.738000" end="0:08:21.132000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:17.738000" end="0:08:21.132000" age_lower="1" age_upper="999">
 und	-	-	-	0:08:18.298000	0:08:20.105000
 Ihre	-	-	-	0:08:18.298000	0:08:20.105000
 Freunde	-	-	-	0:08:18.298000	0:08:20.105000
 kommen	-	-	-	0:08:20.105000	0:08:21.132000
 die	-	-	-	0:08:20.105000	0:08:21.132000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:21.132000" end="0:08:40.044000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:21.132000" end="0:08:40.044000" age_lower="65" age_upper="999">
 ein	-	-	-	0:08:21.132000	0:08:26.325000
 ja	-	-	-	0:08:21.132000	0:08:26.325000
 großteils	-	-	-	0:08:21.132000	0:08:26.325000
@@ -1009,9 +1009,9 @@ meiner	-	-	-	0:08:35.678000	0:08:40.044000
 zur	-	-	-	0:08:35.678000	0:08:40.044000
 lehrerschaft	-	-	-	0:08:35.678000	0:08:40.044000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:39.985000" end="0:08:40.325000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:39.985000" end="0:08:40.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:40.044000" end="0:08:49.712000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:08:40.044000" end="0:08:49.712000" age_lower="65" age_upper="999">
 mit	-	-	-	0:08:40.044000	0:08:42.245000
 dene	-	-	-	0:08:40.044000	0:08:42.245000
 mich	-	-	-	0:08:40.044000	0:08:42.245000
@@ -1041,7 +1041,7 @@ berufliche	-	-	-	0:08:47.392000	0:08:49.712000
 inzucht	-	-	-	0:08:47.392000	0:08:49.712000
 macht	-	-	-	0:08:47.392000	0:08:49.712000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:49.065000" end="0:09:02.665000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:08:49.065000" end="0:09:02.665000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:08:52.152000	0:08:53.998000
 es	-	-	-	0:08:52.152000	0:08:53.998000
 hier	-	-	-	0:08:52.152000	0:08:53.998000
@@ -1062,7 +1062,7 @@ infrastrukturelle	-	-	-	0:08:57.652000	0:09:01.665000
 Aspekte	-	-	-	0:08:57.652000	0:09:01.665000
 irgendetwas	-	-	-	0:09:01.665000	0:09:02.665000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:02.665000" end="0:09:07.152000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:02.665000" end="0:09:07.152000" age_lower="65" age_upper="999">
 nein	-	-	-	0:09:02.665000	0:09:07.152000
 im	-	-	-	0:09:02.665000	0:09:07.152000
 Großen	-	-	-	0:09:02.665000	0:09:07.152000
@@ -1078,9 +1078,9 @@ in	-	-	-	0:09:02.665000	0:09:07.152000
 ORT	ORT	-	-	0:09:02.665000	0:09:07.152000
 hochzufrieden	-	-	-	0:09:02.665000	0:09:07.152000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:03.665000" end="0:09:04.298000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:03.665000" end="0:09:04.298000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:07.152000" end="0:09:12.485000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:07.152000" end="0:09:12.485000" age_lower="65" age_upper="999">
 ich	-	-	-	0:09:07.152000	0:09:09.772000
 genieße	-	-	-	0:09:07.152000	0:09:09.772000
 es	-	-	-	0:09:07.152000	0:09:09.772000
@@ -1097,9 +1097,9 @@ restauriert	-	-	-	0:09:11.178000	0:09:12.485000
 <<kichernd>	-	-	-	0:09:11.178000	0:09:12.485000
 wird,>	-	-	-	0:09:11.178000	0:09:12.485000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:12.485000" end="0:09:13.065000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:12.485000" end="0:09:13.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:12.485000" end="0:09:27.325000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:12.485000" end="0:09:27.325000" age_lower="65" age_upper="999">
 jedes	-	-	-	0:09:13.065000	0:09:16.165000
 blumenbeet>	-	-	-	0:09:13.065000	0:09:16.165000
 das	-	-	-	0:09:13.065000	0:09:16.165000
@@ -1131,7 +1131,7 @@ nicht	-	-	-	0:09:23.878000	0:09:27.325000
 ins	-	-	-	0:09:23.878000	0:09:27.325000
 gewicht	-	-	-	0:09:23.878000	0:09:27.325000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:23.998000" end="0:09:36.985000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:23.998000" end="0:09:36.985000" age_lower="1" age_upper="999">
 und	-	-	-	0:09:27.792000	0:09:30.825000
 wenn	-	-	-	0:09:27.792000	0:09:30.825000
 Sie	-	-	-	0:09:27.792000	0:09:30.825000
@@ -1151,7 +1151,7 @@ was	-	-	-	0:09:33.818000	0:09:36.658000
 verändern	-	-	-	0:09:33.818000	0:09:36.658000
 wollen	-	-	-	0:09:33.818000	0:09:36.658000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:36.925000" end="0:09:55.485000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:36.925000" end="0:09:55.485000" age_lower="65" age_upper="999">
 also	-	-	-	0:09:36.925000	0:09:39.612000
 ich	-	-	-	0:09:36.925000	0:09:39.612000
 bin	-	-	-	0:09:36.925000	0:09:39.612000
@@ -1190,9 +1190,9 @@ Generationen	-	-	-	0:09:49.612000	0:09:55.485000
 tapfer	-	-	-	0:09:49.612000	0:09:55.485000
 einsetzt	-	-	-	0:09:49.612000	0:09:55.485000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:55.485000" end="0:09:55.965000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:09:55.485000" end="0:09:55.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:55.965000" end="0:10:08.171000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:09:55.965000" end="0:10:08.171000" age_lower="65" age_upper="999">
 äh	-	-	-	0:09:55.965000	0:09:57.178000
 f	-	-	-	0:09:55.965000	0:09:57.178000
 ja	-	-	-	0:09:55.965000	0:09:57.178000
@@ -1223,7 +1223,7 @@ Basis	-	-	-	0:10:06.365000	0:10:08.171000
 braucht	-	-	-	0:10:06.365000	0:10:08.171000
 orientiert	-	-	-	0:10:06.365000	0:10:08.171000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:08.171000" end="0:10:17.705000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:08.171000" end="0:10:17.705000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:08.651000	0:10:10.971000
 das	-	-	-	0:10:08.651000	0:10:10.971000
 klingt	-	-	-	0:10:08.651000	0:10:10.971000
@@ -1246,10 +1246,10 @@ bisschen	-	-	-	0:10:15.418000	0:10:17.705000
 Sprache	-	-	-	0:10:15.418000	0:10:17.705000
 sprechen	-	-	-	0:10:15.418000	0:10:17.705000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:17.705000" end="0:10:18.151000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:17.705000" end="0:10:18.151000" age_lower="65" age_upper="999">
 gerne	-	-	-	0:10:17.705000	0:10:18.151000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:18.151000" end="0:10:21.671000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:18.151000" end="0:10:21.671000" age_lower="1" age_upper="999">
 was	-	-	-	0:10:18.811000	0:10:21.671000
 verstehen	-	-	-	0:10:18.811000	0:10:21.671000
 Sie	-	-	-	0:10:18.811000	0:10:21.671000
@@ -1258,7 +1258,7 @@ dem	-	-	-	0:10:18.811000	0:10:21.671000
 Begriff	-	-	-	0:10:18.811000	0:10:21.671000
 Dialekt	-	-	-	0:10:18.811000	0:10:21.671000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:21.671000" end="0:10:39.505000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:21.671000" end="0:10:39.505000" age_lower="65" age_upper="999">
 is	-	-	-	0:10:21.671000	0:10:25.631000
 ja	-	-	-	0:10:21.671000	0:10:25.631000
 definieren	-	-	-	0:10:21.671000	0:10:25.631000
@@ -1296,9 +1296,9 @@ unter	-	-	-	0:10:37.191000	0:10:39.505000
 den	-	-	-	0:10:37.191000	0:10:39.505000
 erwachsenen	-	-	-	0:10:37.191000	0:10:39.505000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:37.431000" end="0:10:37.805000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:37.431000" end="0:10:37.805000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:39.505000" end="0:10:47.005000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:39.505000" end="0:10:47.005000" age_lower="65" age_upper="999">
 den	-	-	-	0:10:39.505000	0:10:43.718000
 kleineren	-	-	-	0:10:39.505000	0:10:43.718000
 Kindern	-	-	-	0:10:39.505000	0:10:43.718000
@@ -1322,9 +1322,9 @@ Schule	-	-	-	0:10:43.718000	0:10:47.005000
 zu	-	-	-	0:10:43.718000	0:10:47.005000
 erleichtern	-	-	-	0:10:43.718000	0:10:47.005000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:44.998000" end="0:10:45.345000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:44.998000" end="0:10:45.345000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:47.005000" end="0:10:55.958000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:47.005000" end="0:10:55.958000" age_lower="65" age_upper="999">
 aber	-	-	-	0:10:47.005000	0:10:49.945000
 mich	-	-	-	0:10:47.005000	0:10:49.945000
 stört	-	-	-	0:10:47.005000	0:10:49.945000
@@ -1347,18 +1347,18 @@ einfach	-	-	-	0:10:53.445000	0:10:55.958000
 starke	-	-	-	0:10:53.445000	0:10:55.958000
 formulierungen	-	-	-	0:10:53.445000	0:10:55.958000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:53.638000" end="0:10:54.005000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:53.638000" end="0:10:54.005000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:55.958000" end="0:10:57.418000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:55.958000" end="0:10:57.418000" age_lower="65" age_upper="999">
 kein	-	-	-	0:10:55.958000	0:10:57.418000
 man	-	-	-	0:10:55.958000	0:10:57.418000
 manches	-	-	-	0:10:55.958000	0:10:57.418000
 schneller	-	-	-	0:10:55.958000	0:10:57.418000
 sagen	-	-	-	0:10:55.958000	0:10:57.418000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:56.858000" end="0:10:57.418000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:10:56.858000" end="0:10:57.418000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:57.418000" end="0:11:00.938000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:10:57.418000" end="0:11:00.938000" age_lower="65" age_upper="999">
 das	-	-	-	0:10:57.418000	0:10:59.405000
 geht	-	-	-	0:10:57.418000	0:10:59.405000
 dann	-	-	-	0:10:57.418000	0:10:59.405000
@@ -1366,7 +1366,7 @@ gschwinder	-	-	-	0:10:57.418000	0:10:59.405000
 rüber	-	-	-	0:10:57.418000	0:10:59.405000
 ja	-	-	-	0:10:59.691000	0:11:00.938000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:00.098000" end="0:11:05.551000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:00.098000" end="0:11:05.551000" age_lower="1" age_upper="999">
 und	-	-	-	0:11:02.898000	0:11:05.551000
 wie	-	-	-	0:11:02.898000	0:11:05.551000
 würden	-	-	-	0:11:02.898000	0:11:05.551000
@@ -1378,7 +1378,7 @@ von	-	-	-	0:11:02.898000	0:11:05.551000
 Dialekt	-	-	-	0:11:02.898000	0:11:05.551000
 nennen	-	-	-	0:11:02.898000	0:11:05.551000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:05.551000" end="0:11:19.405000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:05.551000" end="0:11:19.405000" age_lower="65" age_upper="999">
 no	-	-	-	0:11:05.551000	0:11:09.005000
 ich	-	-	-	0:11:05.551000	0:11:09.005000
 würde	-	-	-	0:11:05.551000	0:11:09.005000
@@ -1406,7 +1406,7 @@ nicht	-	-	-	0:11:16.505000	0:11:19.405000
 so	-	-	-	0:11:16.505000	0:11:19.405000
 bietet	-	-	-	0:11:16.505000	0:11:19.405000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:19.405000" end="0:11:27.085000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:19.405000" end="0:11:27.085000" age_lower="1" age_upper="999">
 und	-	-	-	0:11:22.371000	0:11:24.638000
 können	-	-	-	0:11:22.371000	0:11:24.638000
 Sie	-	-	-	0:11:22.371000	0:11:24.638000
@@ -1415,7 +1415,7 @@ ah	-	-	-	0:11:24.638000	0:11:27.085000
 Schriftsprache	-	-	-	0:11:24.638000	0:11:27.085000
 sprechen	-	-	-	0:11:24.638000	0:11:27.085000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:27.085000" end="0:11:41.345000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:27.085000" end="0:11:41.345000" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:27.085000	0:11:31.091000
 das	-	-	-	0:11:27.085000	0:11:31.091000
 kommt	-	-	-	0:11:27.085000	0:11:31.091000
@@ -1448,9 +1448,9 @@ ins	-	-	-	0:11:38.445000	0:11:41.345000
 eher	-	-	-	0:11:38.445000	0:11:41.345000
 breitere	-	-	-	0:11:38.445000	0:11:41.345000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:38.771000" end="0:11:39.165000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:38.771000" end="0:11:39.165000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:41.345000" end="0:11:47.938000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:41.345000" end="0:11:47.938000" age_lower="65" age_upper="999">
 in	-	-	-	0:11:41.345000	0:11:44.290000
 den	-	-	-	0:11:41.345000	0:11:44.290000
 breiteren	-	-	-	0:11:41.345000	0:11:44.290000
@@ -1465,11 +1465,11 @@ wohlig	-	-	-	0:11:44.290000	0:11:47.311000
 is	-	-	-	0:11:47.311000	0:11:47.938000
 ja,>	-	-	-	0:11:47.311000	0:11:47.938000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:47.471000" end="0:11:48.311000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:47.471000" end="0:11:48.311000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:47.938000" end="0:11:50.078000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:47.938000" end="0:11:50.078000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:48.311000" end="0:11:58.378000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:48.311000" end="0:11:58.378000" age_lower="1" age_upper="999">
 schön	-	-	-	0:11:48.311000	0:11:48.778000
 und	-	-	-	0:11:49.505000	0:11:50.658000
 in	-	-	-	0:11:49.505000	0:11:50.658000
@@ -1490,7 +1490,7 @@ sprechen	-	-	-	0:11:52.205000	0:11:57.045000
 Sie	-	-	-	0:11:52.205000	0:11:57.045000
 Dialekt	-	-	-	0:11:52.205000	0:11:57.045000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:58.378000" end="0:12:25.711000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:11:58.378000" end="0:12:25.711000" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:58.378000	0:12:00.558000
 eigentlich	-	-	-	0:11:58.378000	0:12:00.558000
 in	-	-	-	0:11:58.378000	0:12:00.558000
@@ -1544,9 +1544,9 @@ sozusagen	-	-	-	0:12:23.145000	0:12:25.711000
 sie	-	-	-	0:12:23.145000	0:12:25.711000
 dort	-	-	-	0:12:23.145000	0:12:25.711000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:25.625000" end="0:12:26.011000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:25.625000" end="0:12:26.011000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:25.711000" end="0:12:46.984000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:25.711000" end="0:12:46.984000" age_lower="65" age_upper="999">
 sie	-	-	-	0:12:25.711000	0:12:29.578000
 emotional	-	-	-	0:12:25.711000	0:12:29.578000
 tsch	-	-	-	0:12:25.711000	0:12:29.578000
@@ -1603,16 +1603,16 @@ ziehen	-	-	-	0:12:43.664000	0:12:46.984000
 <<kichernd>	-	-	-	0:12:43.664000	0:12:46.984000
 kann;>	-	-	-	0:12:43.664000	0:12:46.984000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:44.811000" end="0:12:45.984000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:44.811000" end="0:12:45.984000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:46.984000" end="0:12:47.258000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:46.984000" end="0:12:47.258000" age_lower="65" age_upper="999">
 ja,>	-	-	-	0:12:46.984000	0:12:47.258000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:47.258000" end="0:12:48.244000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:47.258000" end="0:12:48.244000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:47.258000" end="0:12:50.098000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:47.258000" end="0:12:50.098000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:48.244000" end="0:12:58.858000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:48.244000" end="0:12:58.858000" age_lower="1" age_upper="999">
 schön	-	-	-	0:12:48.244000	0:12:48.984000
 und	-	-	-	0:12:49.718000	0:12:51.004000
 ah	-	-	-	0:12:49.718000	0:12:51.004000
@@ -1628,7 +1628,7 @@ sie	-	-	-	0:12:54.891000	0:12:57.671000
 eine	-	-	-	0:12:54.891000	0:12:57.671000
 Schriftsprache	-	-	-	0:12:54.891000	0:12:57.671000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:58.858000" end="0:13:13.298000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:12:58.858000" end="0:13:13.298000" age_lower="65" age_upper="999">
 ja	-	-	-	0:12:58.858000	0:13:02.458000
 zunächst	-	-	-	0:12:58.858000	0:13:02.458000
 eimal	-	-	-	0:12:58.858000	0:13:02.458000
@@ -1653,9 +1653,9 @@ sozsong	-	-	-	0:13:11.371000	0:13:13.298000
 nach	-	-	-	0:13:11.371000	0:13:13.298000
 aussen	-	-	-	0:13:11.371000	0:13:13.298000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:13.298000" end="0:13:14.031000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:13.298000" end="0:13:14.031000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:14.031000" end="0:13:16.958000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:14.031000" end="0:13:16.958000" age_lower="65" age_upper="999">
 oder	-	-	-	0:13:14.031000	0:13:16.958000
 eben	-	-	-	0:13:14.031000	0:13:16.958000
 wie	-	-	-	0:13:14.031000	0:13:16.958000
@@ -1664,7 +1664,7 @@ mit	-	-	-	0:13:14.031000	0:13:16.958000
 den	-	-	-	0:13:14.031000	0:13:16.958000
 Kindern	-	-	-	0:13:14.031000	0:13:16.958000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:16.958000" end="0:13:21.958000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:16.958000" end="0:13:21.958000" age_lower="1" age_upper="999">
 und	-	-	-	0:13:17.384000	0:13:21.958000
 welche	-	-	-	0:13:17.384000	0:13:21.958000
 Sprechweise	-	-	-	0:13:17.384000	0:13:21.958000
@@ -1673,7 +1673,7 @@ Sie	-	-	-	0:13:17.384000	0:13:21.958000
 am	-	-	-	0:13:17.384000	0:13:21.958000
 liebsten	-	-	-	0:13:17.384000	0:13:21.958000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:21.958000" end="0:13:27.238000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:21.958000" end="0:13:27.238000" age_lower="65" age_upper="999">
 da	-	-	-	0:13:21.958000	0:13:27.238000
 kann	-	-	-	0:13:21.958000	0:13:27.238000
 ich	-	-	-	0:13:21.958000	0:13:27.238000
@@ -1682,7 +1682,7 @@ keine	-	-	-	0:13:21.958000	0:13:27.238000
 präferenz	-	-	-	0:13:21.958000	0:13:27.238000
 nennen	-	-	-	0:13:21.958000	0:13:27.238000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:27.238000" end="0:13:31.818000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:27.238000" end="0:13:31.818000" age_lower="1" age_upper="999">
 und	-	-	-	0:13:27.238000	0:13:30.038000
 fällt	-	-	-	0:13:27.238000	0:13:30.038000
 es	-	-	-	0:13:27.238000	0:13:30.038000
@@ -1694,16 +1694,16 @@ dazwischen	-	-	-	0:13:30.038000	0:13:31.818000
 zu	-	-	-	0:13:30.038000	0:13:31.818000
 wechseln	-	-	-	0:13:30.038000	0:13:31.818000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:31.818000" end="0:13:35.731000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:31.818000" end="0:13:35.731000" age_lower="65" age_upper="999">
 geht	-	-	-	0:13:32.384000	0:13:35.731000
 Vielfach	-	-	-	0:13:32.384000	0:13:35.731000
 natürlich	-	-	-	0:13:32.384000	0:13:35.731000
 ziemlich	-	-	-	0:13:32.384000	0:13:35.731000
 unbewusst	-	-	-	0:13:32.384000	0:13:35.731000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:35.731000" end="0:13:36.064000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:35.731000" end="0:13:36.064000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:36.064000" end="0:13:51.331000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:36.064000" end="0:13:51.331000" age_lower="65" age_upper="999">
 äh	-	-	-	0:13:36.064000	0:13:39.338000
 in	-	-	-	0:13:36.064000	0:13:39.338000
 Situationen	-	-	-	0:13:36.064000	0:13:39.338000
@@ -1732,9 +1732,9 @@ auftreten	-	-	-	0:13:46.724000	0:13:51.331000
 zu	-	-	-	0:13:46.724000	0:13:51.331000
 absolvieren	-	-	-	0:13:46.724000	0:13:51.331000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:47.378000" end="0:13:47.744000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:47.378000" end="0:13:47.744000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:51.331000" end="0:14:01.818000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:13:51.331000" end="0:14:01.818000" age_lower="65" age_upper="999">
 da	-	-	-	0:13:51.331000	0:13:53.318000
 geht	-	-	-	0:13:51.331000	0:13:53.318000
 das	-	-	-	0:13:51.331000	0:13:53.318000
@@ -1761,7 +1761,7 @@ Schrift	-	-	-	0:13:58.758000	0:14:01.818000
 <<kichernd>	-	-	-	0:13:58.758000	0:14:01.818000
 gesprochen,>	-	-	-	0:13:58.758000	0:14:01.818000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:00.238000" end="0:14:08.791000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:00.238000" end="0:14:08.791000" age_lower="1" age_upper="999">
 welches	-	-	-	0:14:02.911000	0:14:08.791000
 Ansehen	-	-	-	0:14:02.911000	0:14:08.791000
 hat	-	-	-	0:14:02.911000	0:14:08.791000
@@ -1773,7 +1773,7 @@ hier	-	-	-	0:14:02.911000	0:14:08.791000
 in	-	-	-	0:14:02.911000	0:14:08.791000
 ORT	ORT	-	-	0:14:02.911000	0:14:08.791000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:14:08.791000" end="0:14:40.151000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:14:08.791000" end="0:14:40.151000" age_lower="65" age_upper="999">
 ja	-	-	-	0:14:08.791000	0:14:14.671000
 da	-	-	-	0:14:08.791000	0:14:14.671000
 reiferen	-	-	-	0:14:08.791000	0:14:14.671000
@@ -1843,7 +1843,7 @@ fernsehserien	-	-	-	0:14:37.258000	0:14:40.151000
 übernommen	-	-	-	0:14:37.258000	0:14:40.151000
 wird	-	-	-	0:14:37.258000	0:14:40.151000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:40.151000" end="0:14:49.644000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:40.151000" end="0:14:49.644000" age_lower="1" age_upper="999">
 haben	-	-	-	0:14:42.764000	0:14:44.964000
 Sie	-	-	-	0:14:42.764000	0:14:44.964000
 den	-	-	-	0:14:42.764000	0:14:44.964000
@@ -1862,7 +1862,7 @@ aus	-	-	-	0:14:48.258000	0:14:49.644000
 ORT	ORT	-	-	0:14:48.258000	0:14:49.644000
 kommen	-	-	-	0:14:48.258000	0:14:49.644000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:14:49.644000" end="0:15:09.557000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:14:49.644000" end="0:15:09.557000" age_lower="65" age_upper="999">
 ja	-	-	-	0:14:49.644000	0:14:50.758000
 ich	-	-	-	0:14:51.418000	0:14:52.938000
 schäme	-	-	-	0:14:51.418000	0:14:52.938000
@@ -1902,9 +1902,9 @@ diese	-	-	-	0:15:04.524000	0:15:09.557000
 urigen	-	-	-	0:15:04.524000	0:15:09.557000
 Vokabel	-	-	-	0:15:04.524000	0:15:09.557000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:05.004000" end="0:15:06.044000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:05.004000" end="0:15:06.044000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:09.557000" end="0:15:19.431000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:09.557000" end="0:15:19.431000" age_lower="65" age_upper="999">
 ich	-	-	-	0:15:09.557000	0:15:12.091000
 zum	-	-	-	0:15:09.557000	0:15:12.091000
 Teil	-	-	-	0:15:09.557000	0:15:12.091000
@@ -1934,7 +1934,7 @@ sehr	-	-	-	0:15:16.684000	0:15:19.431000
 treffend	-	-	-	0:15:16.684000	0:15:19.431000
 ausdrücken	-	-	-	0:15:16.684000	0:15:19.431000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:19.431000" end="0:15:27.124000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:19.431000" end="0:15:27.124000" age_lower="1" age_upper="999">
 und	-	-	-	0:15:20.124000	0:15:27.124000
 können	-	-	-	0:15:20.124000	0:15:27.124000
 Sie	-	-	-	0:15:20.124000	0:15:27.124000
@@ -1945,7 +1945,7 @@ Ihrer	-	-	-	0:15:20.124000	0:15:27.124000
 Sprechweise	-	-	-	0:15:20.124000	0:15:27.124000
 zuordnen	-	-	-	0:15:20.124000	0:15:27.124000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:27.124000" end="0:15:29.771000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:27.124000" end="0:15:29.771000" age_lower="65" age_upper="999">
 ich	-	-	-	0:15:27.124000	0:15:28.324000
 versuche	-	-	-	0:15:27.124000	0:15:28.324000
 es	-	-	-	0:15:27.124000	0:15:28.324000
@@ -1953,12 +1953,12 @@ es	-	-	-	0:15:27.124000	0:15:28.324000
 leidenschaftlich	-	-	-	0:15:28.324000	0:15:29.771000
 gern;>	-	-	-	0:15:28.324000	0:15:29.771000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:29.771000" end="0:15:30.971000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:29.771000" end="0:15:30.971000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:29.771000" end="0:15:32.197000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:29.771000" end="0:15:32.197000" age_lower="65" age_upper="999">
 ja,>	-	-	-	0:15:29.771000	0:15:30.251000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:30.971000" end="0:15:32.837000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:30.971000" end="0:15:32.837000" age_lower="1" age_upper="999">
 und	-	-	-	0:15:30.971000	0:15:32.837000
 fällt	-	-	-	0:15:30.971000	0:15:32.837000
 Ihnen	-	-	-	0:15:30.971000	0:15:32.837000
@@ -1966,7 +1966,7 @@ da	-	-	-	0:15:30.971000	0:15:32.837000
 Beispiel	-	-	-	0:15:30.971000	0:15:32.837000
 ein	-	-	-	0:15:30.971000	0:15:32.837000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:32.837000" end="0:15:55.404000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:32.837000" end="0:15:55.404000" age_lower="65" age_upper="999">
 na	-	-	-	0:15:32.837000	0:15:38.031000
 ja	-	-	-	0:15:32.837000	0:15:38.031000
 ein	-	-	-	0:15:32.837000	0:15:38.031000
@@ -2011,9 +2011,9 @@ ein	-	-	-	0:15:53.124000	0:15:55.404000
 bisschen	-	-	-	0:15:53.124000	0:15:55.404000
 bellend	-	-	-	0:15:53.124000	0:15:55.404000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:53.377000" end="0:15:55.877000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:53.377000" end="0:15:55.877000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:55.404000" end="0:16:03.597000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:15:55.404000" end="0:16:03.597000" age_lower="65" age_upper="999">
 jo,>	-	-	-	0:15:55.404000	0:15:55.631000
 Kärntner	-	-	-	0:15:56.064000	0:15:57.497000
 natürlich	-	-	-	0:15:56.064000	0:15:57.497000
@@ -2031,11 +2031,11 @@ lei	-	-	-	0:15:59.997000	0:16:03.597000
 recht	-	-	-	0:15:59.997000	0:16:03.597000
 lieb	-	-	-	0:15:59.997000	0:16:03.597000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:03.597000" end="0:16:05.131000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:03.597000" end="0:16:05.131000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:03.597000" end="0:16:06.124000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:03.597000" end="0:16:06.124000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:05.131000" end="0:16:18.591000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:05.131000" end="0:16:18.591000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:06.124000	0:16:07.611000
 das	-	-	-	0:16:06.124000	0:16:07.611000
 höre	-	-	-	0:16:06.124000	0:16:07.611000
@@ -2069,16 +2069,16 @@ und	-	-	-	0:16:16.144000	0:16:18.591000
 in	-	-	-	0:16:16.144000	0:16:18.591000
 ORT	ORT	-	-	0:16:16.144000	0:16:18.591000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:17.991000" end="0:16:18.357000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:17.991000" end="0:16:18.357000" age_lower="65" age_upper="999">
 ja	-	-	-	0:16:17.991000	0:16:18.357000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:18.591000" end="0:16:19.931000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:18.591000" end="0:16:19.931000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:18.591000" end="0:16:19.791000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:18.591000" end="0:16:19.791000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:16:18.591000	0:16:19.791000
 durchaus	-	-	-	0:16:18.591000	0:16:19.791000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:19.931000" end="0:16:24.004000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:19.931000" end="0:16:24.004000" age_lower="1" age_upper="999">
 oder	-	-	-	0:16:19.931000	0:16:21.657000
 in	-	-	-	0:16:19.931000	0:16:21.657000
 ORT	ORT	-	-	0:16:19.931000	0:16:21.657000
@@ -2096,9 +2096,9 @@ ORT	ORT	-	-	0:16:21.657000	0:16:24.004000
 und	-	-	-	0:16:21.657000	0:16:24.004000
 ORT	ORT	-	-	0:16:21.657000	0:16:24.004000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:21.784000" end="0:16:22.244000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:21.784000" end="0:16:22.244000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:24.004000" end="0:16:38.797000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:24.004000" end="0:16:38.797000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:25.124000	0:16:29.724000
 gibt	-	-	-	0:16:25.124000	0:16:29.724000
 es	-	-	-	0:16:25.124000	0:16:29.724000
@@ -2136,10 +2136,10 @@ schon	-	-	-	0:16:36.744000	0:16:38.797000
 beantwortet	-	-	-	0:16:36.744000	0:16:38.797000
 eigentlich	-	-	-	0:16:36.744000	0:16:38.797000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:37.824000" end="0:16:38.277000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:37.824000" end="0:16:38.277000" age_lower="65" age_upper="999">
 ja	-	-	-	0:16:37.824000	0:16:38.277000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:38.797000" end="0:16:44.764000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:38.797000" end="0:16:44.764000" age_lower="1" age_upper="999">
 ah	-	-	-	0:16:38.797000	0:16:41.371000
 können	-	-	-	0:16:38.797000	0:16:41.371000
 Sie	-	-	-	0:16:38.797000	0:16:41.371000
@@ -2155,19 +2155,19 @@ untereinander	-	-	-	0:16:41.371000	0:16:44.764000
 gesprochen	-	-	-	0:16:41.371000	0:16:44.764000
 haben	-	-	-	0:16:41.371000	0:16:44.764000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:44.764000" end="0:16:52.071000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:44.764000" end="0:16:52.071000" age_lower="65" age_upper="999">
 ja	-	-	-	0:16:44.764000	0:16:46.624000
 L	-	-	-	0:16:46.624000	0:16:51.551000
 so	-	-	-	0:16:46.624000	0:16:51.551000
 gemässigtem	-	-	-	0:16:46.624000	0:16:51.551000
 untereinander	-	-	-	0:16:46.624000	0:16:51.551000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:51.971000" end="0:16:54.444000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:51.971000" end="0:16:54.444000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:52.364000	0:16:54.444000
 mit	-	-	-	0:16:52.364000	0:16:54.444000
 Ihnen	-	-	-	0:16:52.364000	0:16:54.444000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:54.444000" end="0:17:16.111000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:16:54.444000" end="0:17:16.111000" age_lower="65" age_upper="999">
 mit	-	-	-	0:16:54.444000	0:16:56.204000
 uns	-	-	-	0:16:54.444000	0:16:56.204000
 anfangs	-	-	-	0:16:56.204000	0:16:59.764000
@@ -2219,13 +2219,13 @@ viel	-	-	-	0:17:13.317000	0:17:16.111000
 Dialekt	-	-	-	0:17:13.317000	0:17:16.111000
 mitgekriegt	-	-	-	0:17:13.317000	0:17:16.111000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:15.436000" end="0:17:16.023000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:15.436000" end="0:17:16.023000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:16.111000" end="0:17:16.371000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:16.111000" end="0:17:16.371000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:16.371000" end="0:17:16.771000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:16.371000" end="0:17:16.771000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:16.771000" end="0:17:20.664000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:16.771000" end="0:17:20.664000" age_lower="65" age_upper="999">
 auch	-	-	-	0:17:16.771000	0:17:19.517000
 Vokabel	-	-	-	0:17:16.771000	0:17:19.517000
 die	-	-	-	0:17:16.771000	0:17:19.517000
@@ -2236,7 +2236,7 @@ einfach	-	-	-	0:17:16.771000	0:17:19.517000
 >	-	-	-	0:17:16.771000	0:17:19.517000
 waren;>	-	-	-	0:17:16.771000	0:17:19.517000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:19.717000" end="0:17:29.544000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:19.717000" end="0:17:29.544000" age_lower="1" age_upper="999">
 und	-	-	-	0:17:22.624000	0:17:25.817000
 haben	-	-	-	0:17:22.624000	0:17:25.817000
 Sie	-	-	-	0:17:22.624000	0:17:25.817000
@@ -2252,7 +2252,7 @@ Sprechweise	-	-	-	0:17:25.817000	0:17:29.544000
 verändert	-	-	-	0:17:25.817000	0:17:29.544000
 hat	-	-	-	0:17:25.817000	0:17:29.544000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:29.544000" end="0:17:35.791000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:29.544000" end="0:17:35.791000" age_lower="65" age_upper="999">
 kann	-	-	-	0:17:29.544000	0:17:34.124000
 ich	-	-	-	0:17:29.544000	0:17:34.124000
 mich	-	-	-	0:17:29.544000	0:17:34.124000
@@ -2264,9 +2264,9 @@ glaube	-	-	-	0:17:34.124000	0:17:35.791000
 eigentlich	-	-	-	0:17:34.124000	0:17:35.791000
 nicht	-	-	-	0:17:34.124000	0:17:35.791000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:35.791000" end="0:17:36.344000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:35.791000" end="0:17:36.344000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:36.344000" end="0:17:49.364000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:36.344000" end="0:17:49.364000" age_lower="65" age_upper="999">
 also	-	-	-	0:17:36.344000	0:17:39.044000
 bewusst	-	-	-	0:17:36.344000	0:17:39.044000
 ist	-	-	-	0:17:36.344000	0:17:39.044000
@@ -2292,16 +2292,16 @@ ordentlich	-	-	-	0:17:46.804000	0:17:49.364000
 zu	-	-	-	0:17:46.804000	0:17:49.364000
 sprechen	-	-	-	0:17:46.804000	0:17:49.364000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:49.157000" end="0:17:49.544000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:49.157000" end="0:17:49.544000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:49.544000" end="0:17:51.304000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:49.544000" end="0:17:51.304000" age_lower="65" age_upper="999">
 aber	-	-	-	0:17:49.544000	0:17:51.304000
 das	-	-	-	0:17:49.544000	0:17:51.304000
 ging	-	-	-	0:17:49.544000	0:17:51.304000
 ganz	-	-	-	0:17:49.544000	0:17:51.304000
 locker	-	-	-	0:17:49.544000	0:17:51.304000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:52.310000" end="0:17:57.484000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:52.310000" end="0:17:57.484000" age_lower="1" age_upper="999">
 und	-	-	-	0:17:52.810000	0:17:56.624000
 wie	-	-	-	0:17:52.810000	0:17:56.624000
 wurde	-	-	-	0:17:52.810000	0:17:56.624000
@@ -2316,13 +2316,13 @@ gesprochen	-	-	-	0:17:52.810000	0:17:56.624000
 m	-	-	-	0:17:56.624000	0:17:57.484000
 hm	-	-	-	0:17:56.624000	0:17:57.484000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:57.484000" end="0:18:00.657000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:17:57.484000" end="0:18:00.657000" age_lower="65" age_upper="999">
 ja	-	-	-	0:17:57.484000	0:18:00.657000
 also	-	-	-	0:17:57.484000	0:18:00.657000
 gemäßigte	-	-	-	0:17:57.484000	0:18:00.657000
 Schriftsprache	-	-	-	0:17:57.484000	0:18:00.657000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:00.424000" end="0:18:12.064000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:00.424000" end="0:18:12.064000" age_lower="1" age_upper="999">
 okay	-	-	-	0:18:00.424000	0:18:00.977000
 und	-	-	-	0:18:01.744000	0:18:04.017000
 äh	-	-	-	0:18:01.744000	0:18:04.017000
@@ -2346,17 +2346,17 @@ wurde	-	-	-	0:18:06.104000	0:18:10.737000
 eher	-	-	-	0:18:10.737000	0:18:12.064000
 nicht	-	-	-	0:18:10.737000	0:18:12.064000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:11.417000" end="0:18:12.337000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:11.417000" end="0:18:12.337000" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:11.417000	0:18:11.670000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:12.064000" end="0:18:12.337000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:12.064000" end="0:18:12.337000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:12.337000" end="0:18:13.050000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:12.337000" end="0:18:13.050000" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:12.337000	0:18:13.050000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:12.777000" end="0:18:13.050000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:12.777000" end="0:18:13.050000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:13.050000" end="0:18:17.784000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:13.050000" end="0:18:17.784000" age_lower="65" age_upper="999">
 da	-	-	-	0:18:13.050000	0:18:16.330000
 waren	-	-	-	0:18:13.050000	0:18:16.330000
 für	-	-	-	0:18:13.050000	0:18:16.330000
@@ -2366,7 +2366,7 @@ besonderen	-	-	-	0:18:13.050000	0:18:16.330000
 auffällikeiten	-	-	-	0:18:13.050000	0:18:16.330000
 nein	-	-	-	0:18:16.330000	0:18:17.784000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:17.784000" end="0:18:22.784000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:17.784000" end="0:18:22.784000" age_lower="1" age_upper="999">
 und	-	-	-	0:18:17.784000	0:18:19.224000
 wie	-	-	-	0:18:17.784000	0:18:19.224000
 sollten	-	-	-	0:18:17.784000	0:18:19.224000
@@ -2381,7 +2381,7 @@ mit	-	-	-	0:18:20.484000	0:18:22.784000
 den	-	-	-	0:18:20.484000	0:18:22.784000
 Schülern	-	-	-	0:18:20.484000	0:18:22.784000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:22.784000" end="0:18:37.230000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:22.784000" end="0:18:37.230000" age_lower="65" age_upper="999">
 ein	-	-	-	0:18:22.784000	0:18:26.610000
 ja	-	-	-	0:18:22.784000	0:18:26.610000
 ich	-	-	-	0:18:22.784000	0:18:26.610000
@@ -2420,9 +2420,9 @@ den	-	-	-	0:18:35.330000	0:18:37.230000
 Inhalten	-	-	-	0:18:35.330000	0:18:37.230000
 entsprechend	-	-	-	0:18:35.330000	0:18:37.230000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:37.230000" end="0:18:37.697000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:37.230000" end="0:18:37.697000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:37.230000" end="0:18:42.657000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:37.230000" end="0:18:42.657000" age_lower="65" age_upper="999">
 gewechselt	-	-	-	0:18:37.230000	0:18:38.830000
 werden	-	-	-	0:18:37.230000	0:18:38.830000
 können	-	-	-	0:18:37.230000	0:18:38.830000
@@ -2435,9 +2435,9 @@ eins	-	-	-	0:18:38.830000	0:18:42.657000
 andere	-	-	-	0:18:38.830000	0:18:42.657000
 üwerfließt	-	-	-	0:18:38.830000	0:18:42.657000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:42.657000" end="0:18:43.030000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:42.657000" end="0:18:43.030000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:43.030000" end="0:18:59.444000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:18:43.030000" end="0:18:59.444000" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:43.030000	0:18:43.644000
 äh	-	-	-	0:18:43.644000	0:18:48.217000
 manche	-	-	-	0:18:43.644000	0:18:48.217000
@@ -2473,7 +2473,7 @@ niederschreiben	-	-	-	0:18:57.697000	0:18:59.444000
 <<kichernd>	-	-	-	0:18:57.697000	0:18:59.444000
 können;>	-	-	-	0:18:57.697000	0:18:59.444000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:59.357000" end="0:19:08.977000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:59.357000" end="0:19:08.977000" age_lower="1" age_upper="999">
 n	-	-	-	0:18:59.357000	0:18:59.857000
 ja	-	-	-	0:18:59.357000	0:18:59.857000
 und	-	-	-	0:19:02.444000	0:19:08.977000
@@ -2489,13 +2489,13 @@ Berufsleben	-	-	-	0:19:02.444000	0:19:08.977000
 etwas	-	-	-	0:19:02.444000	0:19:08.977000
 verändert	-	-	-	0:19:02.444000	0:19:08.977000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:08.977000" end="0:19:12.690000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:08.977000" end="0:19:12.690000" age_lower="65" age_upper="999">
 na	-	-	-	0:19:08.977000	0:19:11.784000
 eigentlich	-	-	-	0:19:08.977000	0:19:11.784000
 nicht	-	-	-	0:19:08.977000	0:19:11.784000
 nein	-	-	-	0:19:12.037000	0:19:12.690000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:12.484000" end="0:19:18.524000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:12.484000" end="0:19:18.524000" age_lower="1" age_upper="999">
 und	-	-	-	0:19:12.917000	0:19:16.517000
 ah	-	-	-	0:19:12.917000	0:19:16.517000
 mit	-	-	-	0:19:12.917000	0:19:16.517000
@@ -2508,7 +2508,7 @@ Sie	-	-	-	0:19:16.517000	0:19:18.524000
 etwas	-	-	-	0:19:16.517000	0:19:18.524000
 verändert	-	-	-	0:19:16.517000	0:19:18.524000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:18.524000" end="0:19:33.450000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:18.524000" end="0:19:33.450000" age_lower="65" age_upper="999">
 nein	-	-	-	0:19:18.524000	0:19:21.904000
 das	-	-	-	0:19:18.524000	0:19:21.904000
 ist	-	-	-	0:19:18.524000	0:19:21.904000
@@ -2539,9 +2539,9 @@ Sprechweise	-	-	-	0:19:30.230000	0:19:33.450000
 jetzt	-	-	-	0:19:30.230000	0:19:33.450000
 f	-	-	-	0:19:30.230000	0:19:33.450000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:33.157000" end="0:19:33.577000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:33.157000" end="0:19:33.577000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:33.450000" end="0:19:38.224000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:33.450000" end="0:19:38.224000" age_lower="65" age_upper="999">
 die	-	-	-	0:19:33.450000	0:19:38.224000
 ich	-	-	-	0:19:33.450000	0:19:38.224000
 nur	-	-	-	0:19:33.450000	0:19:38.224000
@@ -2557,7 +2557,7 @@ Schule	-	-	-	0:19:33.450000	0:19:38.224000
 benützt	-	-	-	0:19:33.450000	0:19:38.224000
 hätte	-	-	-	0:19:33.450000	0:19:38.224000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:38.224000" end="0:19:50.450000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:38.224000" end="0:19:50.450000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:19:40.950000	0:19:44.890000
 Sie	-	-	-	0:19:40.950000	0:19:44.890000
 mit	-	-	-	0:19:40.950000	0:19:44.890000
@@ -2575,18 +2575,18 @@ freundschaftlichen	-	-	-	0:19:46.057000	0:19:50.450000
 Umfeld	-	-	-	0:19:46.057000	0:19:50.450000
 unterschiedlich	-	-	-	0:19:46.057000	0:19:50.450000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:50.450000" end="0:19:51.457000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:50.450000" end="0:19:51.457000" age_lower="65" age_upper="999">
 ja	-	-	-	0:19:50.450000	0:19:51.457000
 durchaus	-	-	-	0:19:50.450000	0:19:51.457000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:51.297000" end="0:19:51.650000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:51.297000" end="0:19:51.650000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:51.457000" end="0:19:51.777000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:51.457000" end="0:19:51.777000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:51.650000" end="0:19:52.564000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:51.650000" end="0:19:52.564000" age_lower="1" age_upper="999">
 inwiefern	-	-	-	0:19:51.650000	0:19:52.564000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:51.777000" end="0:20:18.050000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:19:51.777000" end="0:20:18.050000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:19:51.777000	0:19:52.244000
 nein	-	-	-	0:19:52.564000	0:19:56.770000
 ja	-	-	-	0:19:52.564000	0:19:56.770000
@@ -2643,7 +2643,7 @@ da	-	-	-	0:20:15.303000	0:20:18.050000
 Dialekt	-	-	-	0:20:15.303000	0:20:18.050000
 zu	-	-	-	0:20:15.303000	0:20:18.050000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:17.777000" end="0:20:24.237000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:17.777000" end="0:20:24.237000" age_lower="1" age_upper="999">
 und	-	-	-	0:20:21.050000	0:20:24.237000
 sprechen	-	-	-	0:20:21.050000	0:20:24.237000
 Sie	-	-	-	0:20:21.050000	0:20:24.237000
@@ -2656,7 +2656,7 @@ sprachen	-	-	-	0:20:21.050000	0:20:24.237000
 als	-	-	-	0:20:21.050000	0:20:24.237000
 deutsch	-	-	-	0:20:21.050000	0:20:24.237000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:20:24.237000" end="0:20:46.003000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:20:24.237000" end="0:20:46.003000" age_lower="65" age_upper="999">
 ah	-	-	-	0:20:24.237000	0:20:26.243000
 also	-	-	-	0:20:26.743000	0:20:31.410000
 mit	-	-	-	0:20:26.743000	0:20:31.410000
@@ -2690,9 +2690,9 @@ Training	-	-	-	0:20:44.450000	0:20:46.003000
 für	-	-	-	0:20:44.450000	0:20:46.003000
 mich	-	-	-	0:20:44.450000	0:20:46.003000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:46.003000" end="0:20:46.597000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:46.003000" end="0:20:46.597000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:20:46.597000" end="0:20:56.683000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:20:46.597000" end="0:20:56.683000" age_lower="65" age_upper="999">
 äh	-	-	-	0:20:46.597000	0:20:51.203000
 ein	-	-	-	0:20:46.597000	0:20:51.203000
 auf	-	-	-	0:20:46.597000	0:20:51.203000
@@ -2709,9 +2709,9 @@ ich	-	-	-	0:20:51.203000	0:20:56.683000
 eigentlich	-	-	-	0:20:51.203000	0:20:56.683000
 niemanden	-	-	-	0:20:51.203000	0:20:56.683000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:56.683000" end="0:20:57.250000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:56.683000" end="0:20:57.250000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:20:56.683000" end="0:21:03.723000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:20:56.683000" end="0:21:03.723000" age_lower="65" age_upper="999">
 der	-	-	-	0:20:56.683000	0:20:57.150000
 den	-	-	-	0:20:57.250000	0:20:59.097000
 ich	-	-	-	0:20:57.250000	0:20:59.097000
@@ -2727,13 +2727,13 @@ versuchen	-	-	-	0:21:02.310000	0:21:03.723000
 <<kichernd>	-	-	-	0:21:02.310000	0:21:03.723000
 müsste;>	-	-	-	0:21:02.310000	0:21:03.723000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:03.470000" end="0:21:04.677000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:03.470000" end="0:21:04.677000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:03.723000" end="0:21:06.023000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:03.723000" end="0:21:06.023000" age_lower="65" age_upper="999">
 ja	-	-	-	0:21:03.723000	0:21:04.030000
 ha,>	-	-	-	0:21:03.723000	0:21:04.030000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:05.923000" end="0:21:28.770000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:05.923000" end="0:21:28.770000" age_lower="1" age_upper="999">
 und	-	-	-	0:21:06.457000	0:21:12.137000
 wenn	-	-	-	0:21:06.457000	0:21:12.137000
 Sie	-	-	-	0:21:06.457000	0:21:12.137000
@@ -2775,7 +2775,7 @@ oder	-	-	-	0:21:25.830000	0:21:28.210000
 oder	-	-	-	0:21:25.830000	0:21:28.210000
 nicht	-	-	-	0:21:25.830000	0:21:28.210000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:28.770000" end="0:21:35.563000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:28.770000" end="0:21:35.563000" age_lower="65" age_upper="999">
 ja	-	-	-	0:21:28.770000	0:21:28.990000
 doch	-	-	-	0:21:28.990000	0:21:29.597000
 da	-	-	-	0:21:29.597000	0:21:35.563000
@@ -2787,9 +2787,9 @@ unterschiedliche	-	-	-	0:21:29.597000	0:21:35.563000
 ah	-	-	-	0:21:29.597000	0:21:35.563000
 Situationen	-	-	-	0:21:29.597000	0:21:35.563000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:31.763000" end="0:21:32.323000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:31.763000" end="0:21:32.323000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:35.563000" end="0:21:50.110000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:35.563000" end="0:21:50.110000" age_lower="65" age_upper="999">
 ah	-	-	-	0:21:35.563000	0:21:37.250000
 je	-	-	-	0:21:35.563000	0:21:37.250000
 nachdem	-	-	-	0:21:35.563000	0:21:37.250000
@@ -2821,10 +2821,10 @@ offizielles	-	-	-	0:21:45.997000	0:21:50.110000
 Anliegen	-	-	-	0:21:45.997000	0:21:50.110000
 ist	-	-	-	0:21:45.997000	0:21:50.110000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:50.017000" end="0:21:50.403000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:50.017000" end="0:21:50.403000" age_lower="1" age_upper="999">
 hm,	-	-	-	0:21:50.017000	0:21:50.403000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:50.110000" end="0:21:59.863000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:21:50.110000" end="0:21:59.863000" age_lower="65" age_upper="999">
 vorzubringen	-	-	-	0:21:50.110000	0:21:51.510000
 ist	-	-	-	0:21:50.110000	0:21:51.510000
 wird	-	-	-	0:21:51.510000	0:21:54.050000
@@ -2845,7 +2845,7 @@ schon	-	-	-	0:21:57.670000	0:21:59.863000
 recht	-	-	-	0:21:57.670000	0:21:59.863000
 locker	-	-	-	0:21:57.670000	0:21:59.863000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:59.863000" end="0:22:06.877000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:59.863000" end="0:22:06.877000" age_lower="1" age_upper="999">
 und	-	-	-	0:22:00.657000	0:22:05.343000
 ah	-	-	-	0:22:00.657000	0:22:05.343000
 wie	-	-	-	0:22:00.657000	0:22:05.343000
@@ -2857,7 +2857,7 @@ Kindern	-	-	-	0:22:00.657000	0:22:05.343000
 oder	-	-	-	0:22:05.343000	0:22:06.877000
 Enkelkindern	-	-	-	0:22:05.343000	0:22:06.877000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:22:06.877000" end="0:22:44.930000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:22:06.877000" end="0:22:44.930000" age_lower="65" age_upper="999">
 also	-	-	-	0:22:06.877000	0:22:09.670000
 mit	-	-	-	0:22:06.877000	0:22:09.670000
 meinen	-	-	-	0:22:06.877000	0:22:09.670000
@@ -2937,9 +2937,9 @@ zu	-	-	-	0:22:39.043000	0:22:44.930000
 zu	-	-	-	0:22:39.043000	0:22:44.930000
 schön	-	-	-	0:22:39.043000	0:22:44.930000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:44.930000" end="0:22:45.530000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:44.930000" end="0:22:45.530000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:22:44.930000" end="0:23:04.250000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:22:44.930000" end="0:23:04.250000" age_lower="65" age_upper="999">
 da	-	-	-	0:22:45.370000	0:22:49.003000
 geht	-	-	-	0:22:45.370000	0:22:49.003000
 man	-	-	-	0:22:45.370000	0:22:49.003000
@@ -2984,9 +2984,9 @@ sind	-	-	-	0:23:02.163000	0:23:04.250000
 zweisprachig	-	-	-	0:23:02.163000	0:23:04.250000
 aufgewachsen	-	-	-	0:23:02.163000	0:23:04.250000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:04.250000" end="0:23:04.663000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:04.250000" end="0:23:04.663000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:04.250000" end="0:23:06.970000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:04.250000" end="0:23:06.970000" age_lower="65" age_upper="999">
 die	-	-	-	0:23:04.250000	0:23:06.970000
 mutti	-	-	-	0:23:04.250000	0:23:06.970000
 in	-	-	-	0:23:04.250000	0:23:06.970000
@@ -2995,9 +2995,9 @@ gross	-	-	-	0:23:04.250000	0:23:06.970000
 geworden	-	-	-	0:23:04.250000	0:23:06.970000
 ist	-	-	-	0:23:04.250000	0:23:06.970000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:06.770000" end="0:23:07.183000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:06.770000" end="0:23:07.183000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:07.183000" end="0:23:19.336000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:07.183000" end="0:23:19.336000" age_lower="65" age_upper="999">
 und	-	-	-	0:23:07.183000	0:23:09.743000
 die	-	-	-	0:23:07.183000	0:23:09.743000
 pflegen	-	-	-	0:23:07.183000	0:23:09.743000
@@ -3037,18 +3037,18 @@ zu	-	-	-	0:23:15.663000	0:23:19.336000
 <<kichernd>	-	-	-	0:23:15.663000	0:23:19.336000
 üwersetzen;>	-	-	-	0:23:15.663000	0:23:19.336000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:19.030000" end="0:23:20.590000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:19.030000" end="0:23:20.590000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:19.336000" end="0:23:21.056000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:19.336000" end="0:23:21.056000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:20.590000" end="0:23:21.576000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:20.590000" end="0:23:21.576000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:23:20.590000	0:23:21.576000
 des>	-	-	-	0:23:20.590000	0:23:21.576000
 ist	-	-	-	0:23:20.590000	0:23:21.576000
 ja	-	-	-	0:23:20.590000	0:23:21.576000
 lustig	-	-	-	0:23:20.590000	0:23:21.576000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:21.056000" end="0:23:25.343000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:21.056000" end="0:23:25.343000" age_lower="65" age_upper="999">
 die	-	-	-	0:23:21.056000	0:23:21.776000
 Nase	-	-	-	0:23:21.056000	0:23:21.776000
 ja	-	-	-	0:23:21.056000	0:23:21.776000
@@ -3061,9 +3061,9 @@ Deutsch	-	-	-	0:23:21.776000	0:23:25.343000
 kann	-	-	-	0:23:21.776000	0:23:25.343000
 natürli	-	-	-	0:23:21.776000	0:23:25.343000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:23.443000" end="0:23:23.903000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:23.443000" end="0:23:23.903000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:25.343000" end="0:23:31.596000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:25.343000" end="0:23:31.596000" age_lower="65" age_upper="999">
 hat	-	-	-	0:23:25.343000	0:23:28.690000
 auch	-	-	-	0:23:25.343000	0:23:28.690000
 in	-	-	-	0:23:25.343000	0:23:28.690000
@@ -3078,24 +3078,24 @@ sicher	-	-	-	0:23:28.690000	0:23:31.596000
 kein	-	-	-	0:23:28.690000	0:23:31.596000
 Problem	-	-	-	0:23:28.690000	0:23:31.596000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:30.910000" end="0:23:31.983000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:30.910000" end="0:23:31.983000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:31.596000" end="0:23:32.856000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:31.596000" end="0:23:32.856000" age_lower="65" age_upper="999">
 Sie	-	-	-	0:23:31.596000	0:23:32.856000
 pflegen	-	-	-	0:23:31.596000	0:23:32.856000
 das	-	-	-	0:23:31.596000	0:23:32.856000
 halt	-	-	-	0:23:31.596000	0:23:32.856000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:32.790000" end="0:23:33.243000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:32.790000" end="0:23:33.243000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:32.856000" end="0:23:34.570000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:32.856000" end="0:23:34.570000" age_lower="65" age_upper="999">
 die	-	-	-	0:23:32.856000	0:23:34.570000
 sind	-	-	-	0:23:32.856000	0:23:34.570000
 auch	-	-	-	0:23:32.856000	0:23:34.570000
 stolz	-	-	-	0:23:32.856000	0:23:34.570000
 darauf	-	-	-	0:23:32.856000	0:23:34.570000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:34.570000" end="0:23:40.996000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:34.570000" end="0:23:40.996000" age_lower="1" age_upper="999">
 und	-	-	-	0:23:34.570000	0:23:39.403000
 sprechen	-	-	-	0:23:34.570000	0:23:39.403000
 dann	-	-	-	0:23:34.570000	0:23:39.403000
@@ -3107,7 +3107,7 @@ Englisch	-	-	-	0:23:34.570000	0:23:39.403000
 Ihre	-	-	-	0:23:39.403000	0:23:40.996000
 to	-	-	-	0:23:39.403000	0:23:40.996000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:40.723000" end="0:23:42.870000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:40.723000" end="0:23:42.870000" age_lower="65" age_upper="999">
 ah	-	-	-	0:23:40.723000	0:23:42.870000
 da	-	-	-	0:23:40.723000	0:23:42.870000
 da	-	-	-	0:23:40.723000	0:23:42.870000
@@ -3115,7 +3115,7 @@ sch	-	-	-	0:23:40.723000	0:23:42.870000
 der	-	-	-	0:23:40.723000	0:23:42.870000
 Sohn	-	-	-	0:23:40.723000	0:23:42.870000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:40.996000" end="0:23:42.616000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:40.996000" end="0:23:42.616000" age_lower="1" age_upper="999">
 na	-	-	-	0:23:40.996000	0:23:41.410000
 moment	-	-	-	0:23:40.996000	0:23:41.410000
 Sohn	-	-	-	0:23:41.410000	0:23:42.616000
@@ -3123,7 +3123,7 @@ oder	-	-	-	0:23:41.410000	0:23:42.616000
 Ihre	-	-	-	0:23:41.410000	0:23:42.616000
 Tochter	-	-	-	0:23:41.410000	0:23:42.616000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:42.870000" end="0:23:46.096000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:42.870000" end="0:23:46.096000" age_lower="65" age_upper="999">
 und	-	-	-	0:23:42.870000	0:23:44.163000
 die	-	-	-	0:23:42.870000	0:23:44.163000
 schwiegertochter	-	-	-	0:23:42.870000	0:23:44.163000
@@ -3131,9 +3131,9 @@ die	-	-	-	0:23:44.163000	0:23:46.096000
 zweite	-	-	-	0:23:44.163000	0:23:46.096000
 garnitur	-	-	-	0:23:44.163000	0:23:46.096000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:46.096000" end="0:23:46.630000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:46.096000" end="0:23:46.630000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:46.096000" end="0:23:55.856000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:46.096000" end="0:23:55.856000" age_lower="65" age_upper="999">
 jüngere	-	-	-	0:23:46.096000	0:23:46.630000
 ah	-	-	-	0:23:46.630000	0:23:52.590000
 die	-	-	-	0:23:46.630000	0:23:52.590000
@@ -3147,9 +3147,9 @@ aber	-	-	-	0:23:52.590000	0:23:55.856000
 nicht	-	-	-	0:23:52.590000	0:23:55.856000
 nur	-	-	-	0:23:52.590000	0:23:55.856000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:55.856000" end="0:23:56.330000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:55.856000" end="0:23:56.330000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:55.856000" end="0:23:58.170000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:55.856000" end="0:23:58.170000" age_lower="65" age_upper="999">
 un	-	-	-	0:23:55.856000	0:23:58.170000
 vor	-	-	-	0:23:55.856000	0:23:58.170000
 allem	-	-	-	0:23:55.856000	0:23:58.170000
@@ -3158,13 +3158,13 @@ vor	-	-	-	0:23:55.856000	0:23:58.170000
 anderem	-	-	-	0:23:55.856000	0:23:58.170000
 Publikum	-	-	-	0:23:55.856000	0:23:58.170000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:58.050000" end="0:23:58.450000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:58.050000" end="0:23:58.450000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:58.170000" end="0:23:58.450000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:58.170000" end="0:23:58.450000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:58.450000" end="0:23:58.863000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:58.450000" end="0:23:58.863000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:58.450000" end="0:24:13.230000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:23:58.450000" end="0:24:13.230000" age_lower="65" age_upper="999">
 wir	-	-	-	0:23:58.450000	0:24:00.663000
 würden	-	-	-	0:23:58.450000	0:24:00.663000
 das	-	-	-	0:23:58.450000	0:24:00.663000
@@ -3201,9 +3201,9 @@ ganz	-	-	-	0:24:07.883000	0:24:13.230000
 schnell	-	-	-	0:24:07.883000	0:24:13.230000
 einfällt	-	-	-	0:24:07.883000	0:24:13.230000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:10.083000" end="0:24:10.790000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:10.083000" end="0:24:10.790000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:13.230000" end="0:24:17.430000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:13.230000" end="0:24:17.430000" age_lower="65" age_upper="999">
 äh	-	-	-	0:24:13.230000	0:24:16.316000
 dann	-	-	-	0:24:13.230000	0:24:16.316000
 wird	-	-	-	0:24:13.230000	0:24:16.316000
@@ -3217,16 +3217,16 @@ ist	-	-	-	0:24:16.316000	0:24:17.430000
 ganz	-	-	-	0:24:16.316000	0:24:17.430000
 köstlich	-	-	-	0:24:16.316000	0:24:17.430000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:16.636000" end="0:24:17.083000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:16.636000" end="0:24:17.083000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:17.430000" end="0:24:18.550000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:17.430000" end="0:24:18.550000" age_lower="65" age_upper="999">
 das	-	-	-	0:24:17.430000	0:24:18.550000
 hin	-	-	-	0:24:17.430000	0:24:18.550000
 und	-	-	-	0:24:17.430000	0:24:18.550000
 her	-	-	-	0:24:17.430000	0:24:18.550000
 geht	-	-	-	0:24:17.430000	0:24:18.550000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:18.110000" end="0:24:22.850000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:18.110000" end="0:24:22.850000" age_lower="1" age_upper="999">
 und	-	-	-	0:24:18.656000	0:24:22.456000
 ah	-	-	-	0:24:18.656000	0:24:22.456000
 wird	-	-	-	0:24:18.656000	0:24:22.456000
@@ -3237,7 +3237,7 @@ ausschliesslich	-	-	-	0:24:18.656000	0:24:22.456000
 Englisch	-	-	-	0:24:18.656000	0:24:22.456000
 gesprochen	-	-	-	0:24:18.656000	0:24:22.456000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:22.850000" end="0:24:26.003000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:22.850000" end="0:24:26.003000" age_lower="65" age_upper="999">
 die	-	-	-	0:24:22.850000	0:24:24.956000
 mutti	-	-	-	0:24:22.850000	0:24:24.956000
 spricht	-	-	-	0:24:22.850000	0:24:24.956000
@@ -3246,9 +3246,9 @@ Ihnen	-	-	-	0:24:22.850000	0:24:24.956000
 Englisch	-	-	-	0:24:22.850000	0:24:24.956000
 Normalfall	-	-	-	0:24:24.956000	0:24:26.003000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:25.110000" end="0:24:25.503000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:25.110000" end="0:24:25.503000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:26.003000" end="0:24:28.450000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:26.003000" end="0:24:28.450000" age_lower="65" age_upper="999">
 und	-	-	-	0:24:26.003000	0:24:28.450000
 mein	-	-	-	0:24:26.003000	0:24:28.450000
 Sohn	-	-	-	0:24:26.003000	0:24:28.450000
@@ -3257,11 +3257,11 @@ mit	-	-	-	0:24:26.003000	0:24:28.450000
 Ihnen	-	-	-	0:24:26.003000	0:24:28.450000
 Deutsch	-	-	-	0:24:26.003000	0:24:28.450000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:28.450000" end="0:24:29.090000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:28.450000" end="0:24:29.090000" age_lower="1" age_upper="999">
 ah	-	-	-	0:24:28.450000	0:24:29.090000
 okay	-	-	-	0:24:28.450000	0:24:29.090000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:29.090000" end="0:24:32.203000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:29.090000" end="0:24:32.203000" age_lower="65" age_upper="999">
 das	-	-	-	0:24:29.090000	0:24:32.203000
 geht	-	-	-	0:24:29.090000	0:24:32.203000
 also	-	-	-	0:24:29.090000	0:24:32.203000
@@ -3269,11 +3269,11 @@ recht	-	-	-	0:24:29.090000	0:24:32.203000
 flott	-	-	-	0:24:29.090000	0:24:32.203000
 dahin	-	-	-	0:24:29.090000	0:24:32.203000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:31.643000" end="0:24:32.430000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:31.643000" end="0:24:32.430000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:32.203000" end="0:24:32.430000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:32.203000" end="0:24:32.430000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:32.430000" end="0:24:47.390000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:32.430000" end="0:24:47.390000" age_lower="1" age_upper="999">
 Wahnsinn	-	-	-	0:24:32.430000	0:24:33.003000
 schön	-	-	-	0:24:33.003000	0:24:33.983000
 wenn	-	-	-	0:24:36.950000	0:24:44.476000
@@ -3300,7 +3300,7 @@ ein	-	-	-	0:24:44.476000	0:24:47.390000
 Verbindung	-	-	-	0:24:44.476000	0:24:47.390000
 haben	-	-	-	0:24:44.476000	0:24:47.390000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:47.390000" end="0:24:50.463000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:47.390000" end="0:24:50.463000" age_lower="65" age_upper="999">
 n	-	-	-	0:24:47.390000	0:24:47.810000
 ja	-	-	-	0:24:47.390000	0:24:47.810000
 =i	-	-	-	0:24:47.390000	0:24:47.810000
@@ -3314,11 +3314,11 @@ seminarwochen>	-	-	-	0:24:47.810000	0:24:50.463000
 in	-	-	-	0:24:47.810000	0:24:50.463000
 ORT	ORT	-	-	0:24:47.810000	0:24:50.463000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:49.270000" end="0:24:50.463000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:49.270000" end="0:24:50.463000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:50.463000" end="0:24:50.763000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:50.463000" end="0:24:50.763000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:50.763000" end="0:24:57.790000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:50.763000" end="0:24:57.790000" age_lower="1" age_upper="999">
 haben	-	-	-	0:24:50.763000	0:24:52.776000
 Sie	-	-	-	0:24:50.763000	0:24:52.776000
 da	-	-	-	0:24:50.763000	0:24:52.776000
@@ -3337,7 +3337,7 @@ in	-	-	-	0:24:55.163000	0:24:57.790000
 ORT	ORT	-	-	0:24:55.163000	0:24:57.790000
 unterscheidet	-	-	-	0:24:55.163000	0:24:57.790000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:57.790000" end="0:25:01.430000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:24:57.790000" end="0:25:01.430000" age_lower="65" age_upper="999">
 in	-	-	-	0:24:57.790000	0:25:01.430000
 der	-	-	-	0:24:57.790000	0:25:01.430000
 Alltagssprache	-	-	-	0:24:57.790000	0:25:01.430000
@@ -3349,9 +3349,9 @@ Tonfall	-	-	-	0:24:57.790000	0:25:01.430000
 sehr	-	-	-	0:24:57.790000	0:25:01.430000
 deutlich	-	-	-	0:24:57.790000	0:25:01.430000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:01.236000" end="0:25:01.663000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:01.236000" end="0:25:01.663000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:01.430000" end="0:25:07.863000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:01.430000" end="0:25:07.863000" age_lower="65" age_upper="999">
 den	-	-	-	0:25:01.430000	0:25:05.303000
 Vokabeln	-	-	-	0:25:01.430000	0:25:05.303000
 könnte	-	-	-	0:25:01.430000	0:25:05.303000
@@ -3362,12 +3362,12 @@ so	-	-	-	0:25:01.430000	0:25:05.303000
 einschätzen	-	-	-	0:25:01.430000	0:25:05.303000
 ich	-	-	-	0:25:05.303000	0:25:05.856000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:07.863000" end="0:25:09.223000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:07.863000" end="0:25:09.223000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:09.116000" end="0:25:09.383000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:09.116000" end="0:25:09.383000" age_lower="65" age_upper="999">
 ja	-	-	-	0:25:09.116000	0:25:09.383000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:09.383000" end="0:25:27.616000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:09.383000" end="0:25:27.616000" age_lower="1" age_upper="999">
 fal	-	-	-	0:25:09.383000	0:25:13.236000
 okay	-	-	-	0:25:13.511000	0:25:15.843000
 von	-	-	-	0:25:13.511000	0:25:15.843000
@@ -3406,9 +3406,9 @@ ein	-	-	-	0:25:24.643000	0:25:27.616000
 für	-	-	-	0:25:24.643000	0:25:27.616000
 ORT	ORT	-	-	0:25:24.643000	0:25:27.616000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:26.509000" end="0:25:27.183000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:26.509000" end="0:25:27.183000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:27.616000" end="0:25:43.523000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:27.616000" end="0:25:43.523000" age_lower="1" age_upper="999">
 oder	-	-	-	0:25:27.616000	0:25:30.823000
 auch	-	-	-	0:25:27.616000	0:25:30.823000
 äh	-	-	-	0:25:27.616000	0:25:30.823000
@@ -3440,15 +3440,15 @@ auch	-	-	-	0:25:41.256000	0:25:42.496000
 Grammatik	-	-	-	0:25:41.256000	0:25:42.496000
 irgendetwas	-	-	-	0:25:42.496000	0:25:43.523000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:43.043000" end="0:25:43.423000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:43.043000" end="0:25:43.423000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:43.523000" end="0:25:44.736000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:43.523000" end="0:25:44.736000" age_lower="1" age_upper="999">
 Ihnen	-	-	-	0:25:43.523000	0:25:44.736000
 da	-	-	-	0:25:43.523000	0:25:44.736000
 irgendwas	-	-	-	0:25:43.523000	0:25:44.736000
 einfällt	-	-	-	0:25:43.523000	0:25:44.736000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:44.609000" end="0:25:48.549000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:44.609000" end="0:25:48.549000" age_lower="65" age_upper="999">
 also	-	-	-	0:25:44.609000	0:25:48.549000
 so	-	-	-	0:25:44.609000	0:25:48.549000
 so	-	-	-	0:25:44.609000	0:25:48.549000
@@ -3462,9 +3462,9 @@ nicht	-	-	-	0:25:44.609000	0:25:48.549000
 im	-	-	-	0:25:44.609000	0:25:48.549000
 Kopf	-	-	-	0:25:44.609000	0:25:48.549000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:44.736000" end="0:25:48.503000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:44.736000" end="0:25:48.503000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:48.549000" end="0:25:51.723000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:48.549000" end="0:25:51.723000" age_lower="65" age_upper="999">
 ah	-	-	-	0:25:48.549000	0:25:51.723000
 das	-	-	-	0:25:48.549000	0:25:51.723000
 ist	-	-	-	0:25:48.549000	0:25:51.723000
@@ -3472,9 +3472,9 @@ eher	-	-	-	0:25:48.549000	0:25:51.723000
 so	-	-	-	0:25:48.549000	0:25:51.723000
 unbewusst	-	-	-	0:25:48.549000	0:25:51.723000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:48.969000" end="0:25:52.129000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:48.969000" end="0:25:52.129000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:51.723000" end="0:26:10.396000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:25:51.723000" end="0:26:10.396000" age_lower="65" age_upper="999">
 in	-	-	-	0:25:52.129000	0:25:55.903000
 ORT	ORT	-	-	0:25:52.129000	0:25:55.903000
 gibt	-	-	-	0:25:52.129000	0:25:55.903000
@@ -3505,9 +3505,9 @@ mischpoche	-	-	-	0:26:07.729000	0:26:08.989000
 ein	-	-	-	0:26:08.989000	0:26:10.396000
 machen	-	-	-	0:26:08.989000	0:26:10.396000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:09.883000" end="0:26:10.276000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:09.883000" end="0:26:10.276000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:26:10.396000" end="0:26:22.636000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:26:10.396000" end="0:26:22.636000" age_lower="65" age_upper="999">
 so	-	-	-	0:26:10.396000	0:26:11.043000
 weiter	-	-	-	0:26:10.396000	0:26:11.043000
 diese	-	-	-	0:26:11.043000	0:26:11.503000
@@ -3537,10 +3537,10 @@ die	-	-	-	0:26:19.856000	0:26:22.636000
 Ausdrücke	-	-	-	0:26:19.856000	0:26:22.636000
 herstammen	-	-	-	0:26:19.856000	0:26:22.636000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:20.156000" end="0:26:20.523000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:20.156000" end="0:26:20.523000" age_lower="1" age_upper="999">
 ja	-	-	-	0:26:20.156000	0:26:20.523000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:26:22.636000" end="0:26:54.216000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:26:22.636000" end="0:26:54.216000" age_lower="65" age_upper="999">
 dann	-	-	-	0:26:22.636000	0:26:27.316000
 kommt	-	-	-	0:26:22.636000	0:26:27.316000
 natürich	-	-	-	0:26:22.636000	0:26:27.316000
@@ -3607,7 +3607,7 @@ gedächnis	-	-	-	0:26:46.996000	0:26:54.216000
 nix	-	-	-	0:26:46.996000	0:26:54.216000
 zitieren	-	-	-	0:26:46.996000	0:26:54.216000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:51.083000" end="0:27:03.589000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:51.083000" end="0:27:03.589000" age_lower="1" age_upper="999">
 und	-	-	-	0:26:54.216000	0:26:57.956000
 haben	-	-	-	0:26:54.216000	0:26:57.956000
 Sie	-	-	-	0:26:54.216000	0:26:57.956000
@@ -3629,7 +3629,7 @@ oder	-	-	-	0:27:00.716000	0:27:03.589000
 ORT	ORT	-	-	0:27:00.716000	0:27:03.589000
 sind	-	-	-	0:27:00.716000	0:27:03.589000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:03.589000" end="0:27:28.429000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:03.589000" end="0:27:28.429000" age_lower="65" age_upper="999">
 ja	-	-	-	0:27:03.589000	0:27:04.716000
 f	-	-	-	0:27:03.589000	0:27:04.716000
 in	-	-	-	0:27:04.716000	0:27:06.683000
@@ -3676,9 +3676,9 @@ bisschen	-	-	-	0:27:24.056000	0:27:26.623000
 sehr	-	-	-	0:27:24.056000	0:27:26.623000
 gewöhnlich	-	-	-	0:27:24.056000	0:27:26.623000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:26.796000" end="0:27:28.429000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:26.796000" end="0:27:28.429000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:28.429000" end="0:27:37.696000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:28.429000" end="0:27:37.696000" age_lower="65" age_upper="999">
 also	-	-	-	0:27:28.429000	0:27:34.503000
 es	-	-	-	0:27:28.429000	0:27:34.503000
 hat	-	-	-	0:27:28.429000	0:27:34.503000
@@ -3703,9 +3703,9 @@ oder	-	-	-	0:27:36.256000	0:27:37.696000
 äh	-	-	-	0:27:36.256000	0:27:37.696000
 ja	-	-	-	0:27:36.256000	0:27:37.696000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:37.696000" end="0:27:38.363000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:37.696000" end="0:27:38.363000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:38.363000" end="0:27:54.629000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:38.363000" end="0:27:54.629000" age_lower="65" age_upper="999">
 ah	-	-	-	0:27:38.363000	0:27:39.623000
 oder	-	-	-	0:27:38.363000	0:27:39.623000
 das	-	-	-	0:27:38.363000	0:27:39.623000
@@ -3743,11 +3743,11 @@ bisschen	-	-	-	0:27:50.189000	0:27:54.629000
 bisschen	-	-	-	0:27:50.189000	0:27:54.629000
 streng	-	-	-	0:27:50.189000	0:27:54.629000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:50.696000" end="0:27:56.729000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:50.696000" end="0:27:56.729000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:54.629000" end="0:27:57.282000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:27:54.629000" end="0:27:57.282000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:56.729000" end="0:28:05.462000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:56.729000" end="0:28:05.462000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:27:56.729000	0:27:58.169000
 Sie	-	-	-	0:27:56.729000	0:27:58.169000
 ORT	ORT	-	-	0:27:58.169000	0:28:00.536000
@@ -3767,7 +3767,7 @@ in	-	-	-	0:28:00.536000	0:28:05.462000
 allgemein	-	-	-	0:28:00.536000	0:28:05.462000
 ausüben	-	-	-	0:28:00.536000	0:28:05.462000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:05.462000" end="0:28:30.229000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:05.462000" end="0:28:30.229000" age_lower="65" age_upper="999">
 schwer	-	-	-	0:28:05.462000	0:28:09.076000
 zu	-	-	-	0:28:05.462000	0:28:09.076000
 sagen	-	-	-	0:28:05.462000	0:28:09.076000
@@ -3810,9 +3810,9 @@ ORT	ORT	-	-	0:28:29.209000	0:28:30.229000
 zu	-	-	-	0:28:29.209000	0:28:30.229000
 reden	-	-	-	0:28:29.209000	0:28:30.229000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:29.902000" end="0:28:30.229000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:29.902000" end="0:28:30.229000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:30.229000" end="0:28:40.822000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:30.229000" end="0:28:40.822000" age_lower="65" age_upper="999">
 äh	-	-	-	0:28:30.229000	0:28:35.642000
 und	-	-	-	0:28:30.229000	0:28:35.642000
 und	-	-	-	0:28:30.229000	0:28:35.642000
@@ -3836,7 +3836,7 @@ aus	-	-	-	0:28:38.102000	0:28:40.822000
 dominiert	-	-	-	0:28:38.102000	0:28:40.822000
 wird	-	-	-	0:28:38.102000	0:28:40.822000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:39.342000" end="0:28:47.969000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:39.342000" end="0:28:47.969000" age_lower="1" age_upper="999">
 und	-	-	-	0:28:41.396000	0:28:44.222000
 haben	-	-	-	0:28:41.396000	0:28:44.222000
 Sie	-	-	-	0:28:41.396000	0:28:44.222000
@@ -3850,7 +3850,7 @@ gegenseitig	-	-	-	0:28:44.222000	0:28:47.969000
 sprachlich	-	-	-	0:28:44.222000	0:28:47.969000
 beeinflussen	-	-	-	0:28:44.222000	0:28:47.969000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:47.969000" end="0:28:53.259000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:47.969000" end="0:28:53.259000" age_lower="65" age_upper="999">
 das	-	-	-	0:28:47.969000	0:28:50.858000
 kann	-	-	-	0:28:47.969000	0:28:50.858000
 ich	-	-	-	0:28:47.969000	0:28:50.858000
@@ -3865,9 +3865,9 @@ zu	-	-	-	0:28:50.858000	0:28:53.259000
 wenig	-	-	-	0:28:50.858000	0:28:53.259000
 Einblick	-	-	-	0:28:50.858000	0:28:53.259000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:53.259000" end="0:28:54.071000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:53.259000" end="0:28:54.071000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:54.071000" end="0:28:57.816000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:54.071000" end="0:28:57.816000" age_lower="65" age_upper="999">
 da	-	-	-	0:28:54.071000	0:28:55.590000
 müsste	-	-	-	0:28:54.071000	0:28:55.590000
 man	-	-	-	0:28:54.071000	0:28:55.590000
@@ -3879,13 +3879,13 @@ und	-	-	-	0:28:55.590000	0:28:57.816000
 her	-	-	-	0:28:55.590000	0:28:57.816000
 pendeln	-	-	-	0:28:55.590000	0:28:57.816000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:57.816000" end="0:28:58.236000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:57.816000" end="0:28:58.236000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:57.816000" end="0:28:59.545000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:28:57.816000" end="0:28:59.545000" age_lower="65" age_upper="999">
 beim	-	-	-	0:28:58.416000	0:28:59.545000
 Studium	-	-	-	0:28:58.416000	0:28:59.545000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:03.395000" end="0:29:14.735000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:03.395000" end="0:29:14.735000" age_lower="1" age_upper="999">
 ah	-	-	-	0:29:03.724000	0:29:09.163000
 unterscheidet	-	-	-	0:29:03.724000	0:29:09.163000
 sich	-	-	-	0:29:03.724000	0:29:09.163000
@@ -3908,7 +3908,7 @@ die	-	-	-	0:29:11.480000	0:29:14.735000
 Sprechweise	-	-	-	0:29:11.480000	0:29:14.735000
 eigentlich	-	-	-	0:29:11.480000	0:29:14.735000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:29:14.735000" end="0:29:53.921000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:29:14.735000" end="0:29:53.921000" age_lower="65" age_upper="999">
 nein	-	-	-	0:29:14.735000	0:29:15.932000
 kaum	-	-	-	0:29:14.735000	0:29:15.932000
 also	-	-	-	0:29:15.932000	0:29:16.786000
@@ -3991,7 +3991,7 @@ wenig	-	-	-	0:29:46.172000	0:29:50.064000
 <<kichernd>	-	-	-	0:29:46.172000	0:29:50.064000
 deutsch;>	-	-	-	0:29:46.172000	0:29:50.064000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:50.225000" end="0:29:59.787000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:50.225000" end="0:29:59.787000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:52.598000	0:29:54.656000
 würden	-	-	-	0:29:52.598000	0:29:54.656000
 Sie	-	-	-	0:29:52.598000	0:29:54.656000
@@ -4010,7 +4010,7 @@ hier	-	-	-	0:29:54.656000	0:29:59.787000
 in	-	-	-	0:29:54.656000	0:29:59.787000
 ORT	ORT	-	-	0:29:54.656000	0:29:59.787000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:29:59.787000" end="0:30:16.376000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:29:59.787000" end="0:30:16.376000" age_lower="65" age_upper="999">
 also	-	-	-	0:29:59.787000	0:30:03.805000
 wir	-	-	-	0:29:59.787000	0:30:03.805000
 machen	-	-	-	0:29:59.787000	0:30:03.805000
@@ -4042,7 +4042,7 @@ da	-	-	-	0:30:11.624000	0:30:16.376000
 keinen	-	-	-	0:30:11.624000	0:30:16.376000
 Unterschied	-	-	-	0:30:11.624000	0:30:16.376000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:16.313000" end="0:30:30.390000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:16.313000" end="0:30:30.390000" age_lower="1" age_upper="999">
 haben	-	-	-	0:30:18.350000	0:30:20.926000
 Sie	-	-	-	0:30:18.350000	0:30:20.926000
 umgekehrt	-	-	-	0:30:18.350000	0:30:20.926000
@@ -4071,7 +4071,7 @@ in	-	-	-	0:30:23.964000	0:30:30.390000
 ORT	ORT	-	-	0:30:23.964000	0:30:30.390000
 ausüben	-	-	-	0:30:23.964000	0:30:30.390000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:30:30.390000" end="0:30:43.907000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:30:30.390000" end="0:30:43.907000" age_lower="65" age_upper="999">
 auch	-	-	-	0:30:30.390000	0:30:34.653000
 da	-	-	-	0:30:30.390000	0:30:34.653000
 kann	-	-	-	0:30:30.390000	0:30:34.653000
@@ -4096,9 +4096,9 @@ Situationen	-	-	-	0:30:38.776000	0:30:43.907000
 zu	-	-	-	0:30:38.776000	0:30:43.907000
 wenig	-	-	-	0:30:38.776000	0:30:43.907000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:43.907000" end="0:30:44.509000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:43.907000" end="0:30:44.509000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:30:44.509000" end="0:31:18.417000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:30:44.509000" end="0:31:18.417000" age_lower="65" age_upper="999">
 auch	-	-	-	0:30:44.509000	0:30:49.696000
 wenn	-	-	-	0:30:44.509000	0:30:49.696000
 also	-	-	-	0:30:44.509000	0:30:49.696000
@@ -4168,7 +4168,7 @@ heraushören	-	-	-	0:31:13.440000	0:31:18.417000
 oder	-	-	-	0:31:13.440000	0:31:18.417000
 zuordnen	-	-	-	0:31:13.440000	0:31:18.417000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:15.477000" end="0:31:23.758000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:15.477000" end="0:31:23.758000" age_lower="1" age_upper="999">
 und	-	-	-	0:31:20.790000	0:31:22.393000
 wie	-	-	-	0:31:20.790000	0:31:22.393000
 würden	-	-	-	0:31:20.790000	0:31:22.393000
@@ -4180,15 +4180,15 @@ ORT	ORT	-	-	0:31:22.393000	0:31:23.758000
 gesprochen	-	-	-	0:31:22.393000	0:31:23.758000
 wird	-	-	-	0:31:22.393000	0:31:23.758000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:31:23.758000" end="0:31:29.988000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:31:23.758000" end="0:31:29.988000" age_lower="65" age_upper="999">
 nein	-	-	-	0:31:26.131000	0:31:27.636000
 ja	-	-	-	0:31:26.131000	0:31:27.636000
 Alltagssprache	-	-	-	0:31:27.636000	0:31:29.615000
 jedenfalls	-	-	-	0:31:27.636000	0:31:29.615000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:29.988000" end="0:31:30.478000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:29.988000" end="0:31:30.478000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:31:29.988000" end="0:31:45.458000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:31:29.988000" end="0:31:45.458000" age_lower="65" age_upper="999">
 ja	-	-	-	0:31:29.988000	0:31:30.478000
 es	-	-	-	0:31:30.478000	0:31:33.579000
 ist	-	-	-	0:31:30.478000	0:31:33.579000
@@ -4221,7 +4221,7 @@ sehr	-	-	-	0:31:42.875000	0:31:45.458000
 unterscheiden	-	-	-	0:31:42.875000	0:31:45.458000
 möchte	-	-	-	0:31:42.875000	0:31:45.458000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:45.458000" end="0:31:58.975000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:45.458000" end="0:31:58.975000" age_lower="1" age_upper="999">
 und	-	-	-	0:31:50.386000	0:31:54.334000
 was	-	-	-	0:31:50.386000	0:31:54.334000
 macht	-	-	-	0:31:50.386000	0:31:54.334000
@@ -4240,13 +4240,13 @@ Meinung	-	-	-	0:31:55.027000	0:31:58.975000
 nach	-	-	-	0:31:55.027000	0:31:58.975000
 charakteristisch	-	-	-	0:31:55.027000	0:31:58.975000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:31:58.975000" end="0:32:02.979000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:31:58.975000" end="0:32:02.979000" age_lower="65" age_upper="999">
 schwere	-	-	-	0:31:58.975000	0:32:02.244000
 Frage	-	-	-	0:31:58.975000	0:32:02.244000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:02.699000" end="0:32:03.301000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:02.699000" end="0:32:03.301000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:32:03.301000" end="0:32:52.655000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:32:03.301000" end="0:32:52.655000" age_lower="65" age_upper="999">
 was	-	-	-	0:32:03.301000	0:32:05.555000
 ist	-	-	-	0:32:03.301000	0:32:05.555000
 da	-	-	-	0:32:03.301000	0:32:05.555000
@@ -4340,9 +4340,9 @@ genug>	-	-	-	0:32:50.495000	0:32:52.655000
 für	-	-	-	0:32:50.495000	0:32:52.655000
 Sie	-	-	-	0:32:50.495000	0:32:52.655000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:52.388000" end="0:32:52.855000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:52.388000" end="0:32:52.855000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:32:52.855000" end="0:32:58.355000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:32:52.855000" end="0:32:58.355000" age_lower="65" age_upper="999">
 äh	-	-	-	0:32:52.855000	0:32:55.268000
 ja	-	-	-	0:32:52.855000	0:32:55.268000
 aber	-	-	-	0:32:55.268000	0:32:58.055000
@@ -4353,7 +4353,7 @@ eine	-	-	-	0:32:55.268000	0:32:58.055000
 grober	-	-	-	0:32:55.268000	0:32:58.055000
 Unfug	-	-	-	0:32:55.268000	0:32:58.055000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:58.355000" end="0:33:07.935000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:58.355000" end="0:33:07.935000" age_lower="1" age_upper="999">
 und	-	-	-	0:32:59.288000	0:33:04.095000
 wie	-	-	-	0:32:59.288000	0:33:04.095000
 gefällt	-	-	-	0:32:59.288000	0:33:04.095000
@@ -4368,14 +4368,14 @@ man	-	-	-	0:33:05.295000	0:33:06.442000
 jetzt	-	-	-	0:33:05.295000	0:33:06.442000
 gesagt	-	-	-	0:33:05.295000	0:33:06.442000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:07.442000" end="0:33:08.722000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:07.442000" end="0:33:08.722000" age_lower="65" age_upper="999">
 das	-	-	-	0:33:07.442000	0:33:08.722000
 ORT	ORT	-	-	0:33:07.442000	0:33:08.722000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:08.548000" end="0:33:08.895000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:08.548000" end="0:33:08.895000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:08.548000	0:33:08.895000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:08.722000" end="0:33:22.515000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:08.722000" end="0:33:22.515000" age_lower="65" age_upper="999">
 oder	-	-	-	0:33:08.722000	0:33:10.275000
 Großraum	-	-	-	0:33:08.722000	0:33:10.275000
 ORT	ORT	-	-	0:33:08.722000	0:33:10.275000
@@ -4406,19 +4406,19 @@ mit	-	-	-	0:33:17.855000	0:33:22.515000
 ordinärem	-	-	-	0:33:17.855000	0:33:22.515000
 anflug	-	-	-	0:33:17.855000	0:33:22.515000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:21.002000" end="0:33:22.162000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:21.002000" end="0:33:22.162000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:22.515000" end="0:33:22.835000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:22.515000" end="0:33:22.835000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:22.835000" end="0:33:25.362000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:22.835000" end="0:33:25.362000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:22.835000" end="0:33:25.695000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:22.835000" end="0:33:25.695000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:25.362000" end="0:33:26.222000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:25.362000" end="0:33:26.222000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:26.222000" end="0:33:27.462000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:26.222000" end="0:33:27.462000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:27.462000" end="0:33:37.682000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:27.462000" end="0:33:37.682000" age_lower="1" age_upper="999">
 verändert	-	-	-	0:33:27.462000	0:33:35.055000
 sich	-	-	-	0:33:27.462000	0:33:35.055000
 derzeit	-	-	-	0:33:27.462000	0:33:35.055000
@@ -4443,7 +4443,7 @@ von	-	-	-	0:33:35.055000	0:33:37.682000
 anderen	-	-	-	0:33:35.055000	0:33:37.682000
 Sprachen	-	-	-	0:33:35.055000	0:33:37.682000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:37.682000" end="0:34:38.955000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:33:37.682000" end="0:34:38.955000" age_lower="65" age_upper="999">
 also	-	-	-	0:33:37.682000	0:33:41.762000
 den	-	-	-	0:33:37.682000	0:33:41.762000
 Einfluss	-	-	-	0:33:37.682000	0:33:41.762000
@@ -4583,9 +4583,9 @@ Leute	-	-	-	0:34:34.574000	0:34:38.955000
 in	-	-	-	0:34:34.574000	0:34:38.955000
 Norddeutschland	-	-	-	0:34:34.574000	0:34:38.955000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:38.828000" end="0:34:39.168000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:38.828000" end="0:34:39.168000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:34:38.955000" end="0:34:41.161000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:34:38.955000" end="0:34:41.161000" age_lower="65" age_upper="999">
 weil	-	-	-	0:34:38.955000	0:34:41.161000
 das	-	-	-	0:34:38.955000	0:34:41.161000
 im	-	-	-	0:34:38.955000	0:34:41.161000
@@ -4594,9 +4594,9 @@ oft	-	-	-	0:34:38.955000	0:34:41.161000
 so	-	-	-	0:34:38.955000	0:34:41.161000
 rüberkommt	-	-	-	0:34:38.955000	0:34:41.161000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:41.101000" end="0:34:41.534000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:41.101000" end="0:34:41.534000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:34:41.534000" end="0:35:03.155000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:34:41.534000" end="0:35:03.155000" age_lower="65" age_upper="999">
 ah	-	-	-	0:34:41.534000	0:34:42.702000
 ich	-	-	-	0:34:41.534000	0:34:42.702000
 ich	-	-	-	0:34:41.534000	0:34:42.702000
@@ -4652,9 +4652,9 @@ uns	-	-	-	0:35:00.675000	0:35:03.155000
 <<kichernd>	-	-	-	0:35:00.675000	0:35:03.155000
 lernen,>	-	-	-	0:35:00.675000	0:35:03.155000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:02.882000" end="0:35:04.462000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:02.882000" end="0:35:04.462000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:03.155000" end="0:35:07.422000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:03.155000" end="0:35:07.422000" age_lower="65" age_upper="999">
 nicht,>	-	-	-	0:35:03.155000	0:35:03.475000
 wir	-	-	-	0:35:04.462000	0:35:07.422000
 müssen	-	-	-	0:35:04.462000	0:35:07.422000
@@ -4665,9 +4665,9 @@ dem	-	-	-	0:35:04.462000	0:35:07.422000
 Norddeutschen	-	-	-	0:35:04.462000	0:35:07.422000
 zurechtkommen	-	-	-	0:35:04.462000	0:35:07.422000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:04.815000" end="0:35:05.175000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:04.815000" end="0:35:05.175000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:07.422000" end="0:35:09.728000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:07.422000" end="0:35:09.728000" age_lower="65" age_upper="999">
 klingt	-	-	-	0:35:07.422000	0:35:09.728000
 für	-	-	-	0:35:07.422000	0:35:09.728000
 uns	-	-	-	0:35:07.422000	0:35:09.728000
@@ -4677,7 +4677,7 @@ immer	-	-	-	0:35:07.422000	0:35:09.728000
 sehr	-	-	-	0:35:07.422000	0:35:09.728000
 vertraut	-	-	-	0:35:07.422000	0:35:09.728000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:09.728000" end="0:35:23.688000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:09.728000" end="0:35:23.688000" age_lower="1" age_upper="999">
 also	-	-	-	0:35:11.542000	0:35:16.828000
 w	-	-	-	0:35:11.542000	0:35:16.828000
 äh	-	-	-	0:35:11.542000	0:35:16.828000
@@ -4701,26 +4701,26 @@ also	-	-	-	0:35:21.995000	0:35:23.688000
 glauben	-	-	-	0:35:21.995000	0:35:23.688000
 Sie	-	-	-	0:35:21.995000	0:35:23.688000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:23.421000" end="0:35:24.868000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:23.421000" end="0:35:24.868000" age_lower="65" age_upper="999">
 ein	-	-	-	0:35:23.421000	0:35:24.868000
 ja	-	-	-	0:35:23.421000	0:35:24.868000
 das	-	-	-	0:35:23.421000	0:35:24.868000
 englische	-	-	-	0:35:23.421000	0:35:24.868000
 sicher	-	-	-	0:35:23.421000	0:35:24.868000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:24.361000" end="0:35:25.075000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:24.361000" end="0:35:25.075000" age_lower="1" age_upper="999">
 das	-	-	-	0:35:24.361000	0:35:25.075000
 englische	-	-	-	0:35:24.361000	0:35:25.075000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:24.868000" end="0:35:25.261000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:24.868000" end="0:35:25.261000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:25.075000" end="0:35:25.475000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:25.075000" end="0:35:25.475000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:25.261000" end="0:35:26.101000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:25.261000" end="0:35:26.101000" age_lower="65" age_upper="999">
 jeden	-	-	-	0:35:25.261000	0:35:26.101000
 Fall	-	-	-	0:35:25.261000	0:35:26.101000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:26.101000" end="0:35:42.281000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:26.101000" end="0:35:42.281000" age_lower="1" age_upper="999">
 verstehe	-	-	-	0:35:26.728000	0:35:27.401000
 und	-	-	-	0:35:27.401000	0:35:31.295000
 ah	-	-	-	0:35:27.401000	0:35:31.295000
@@ -4753,7 +4753,7 @@ also	-	-	-	0:35:40.635000	0:35:42.281000
 diesen	-	-	-	0:35:40.635000	0:35:42.281000
 Einfluss	-	-	-	0:35:40.635000	0:35:42.281000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:42.281000" end="0:35:44.855000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:42.281000" end="0:35:44.855000" age_lower="65" age_upper="999">
 ein	-	-	-	0:35:42.281000	0:35:44.855000
 ja	-	-	-	0:35:42.281000	0:35:44.855000
 ich	-	-	-	0:35:42.281000	0:35:44.855000
@@ -4763,9 +4763,9 @@ ziemlich	-	-	-	0:35:42.281000	0:35:44.855000
 quer	-	-	-	0:35:42.281000	0:35:44.855000
 durch	-	-	-	0:35:42.281000	0:35:44.855000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:44.855000" end="0:35:45.248000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:44.855000" end="0:35:45.248000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:44.855000" end="0:36:03.775000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:35:44.855000" end="0:36:03.775000" age_lower="65" age_upper="999">
 äh	-	-	-	0:35:44.855000	0:35:46.808000
 der	-	-	-	0:35:44.855000	0:35:46.808000
 Einfluss	-	-	-	0:35:44.855000	0:35:46.808000
@@ -4814,18 +4814,18 @@ ist	-	-	-	0:36:01.001000	0:36:03.075000
 es	-	-	-	0:36:03.075000	0:36:03.775000
 cool	-	-	-	0:36:03.075000	0:36:03.775000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:03.775000" end="0:36:07.128000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:03.775000" end="0:36:07.128000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:03.775000" end="0:36:06.655000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:03.775000" end="0:36:06.655000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:07.128000" end="0:36:09.335000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:07.128000" end="0:36:09.335000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:36:07.128000	0:36:07.681000
 is	-	-	-	0:36:07.128000	0:36:07.681000
 ja,>	-	-	-	0:36:07.128000	0:36:07.681000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:08.895000" end="0:36:09.761000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:08.895000" end="0:36:09.761000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:11.028000" end="0:36:17.721000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:11.028000" end="0:36:17.721000" age_lower="1" age_upper="999">
 und	-	-	-	0:36:11.028000	0:36:17.721000
 hat	-	-	-	0:36:11.028000	0:36:17.721000
 sich	-	-	-	0:36:11.028000	0:36:17.721000
@@ -4843,7 +4843,7 @@ anderen	-	-	-	0:36:11.028000	0:36:17.721000
 Sprachen	-	-	-	0:36:11.028000	0:36:17.721000
 verändert	-	-	-	0:36:11.028000	0:36:17.721000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:17.721000" end="0:36:35.868000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:17.721000" end="0:36:35.868000" age_lower="65" age_upper="999">
 ja	-	-	-	0:36:17.721000	0:36:20.328000
 gibt	-	-	-	0:36:20.708000	0:36:25.081000
 natürlich	-	-	-	0:36:20.708000	0:36:25.081000
@@ -4870,9 +4870,9 @@ beim	-	-	-	0:36:34.048000	0:36:35.555000
 essen	-	-	-	0:36:34.048000	0:36:35.555000
 sowieso	-	-	-	0:36:34.048000	0:36:35.555000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:35.748000" end="0:36:36.248000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:35.748000" end="0:36:36.248000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:36.248000" end="0:36:42.881000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:36.248000" end="0:36:42.881000" age_lower="65" age_upper="999">
 äh	-	-	-	0:36:36.248000	0:36:38.768000
 ja	-	-	-	0:36:36.248000	0:36:38.768000
 aber	-	-	-	0:36:38.768000	0:36:42.881000
@@ -4882,7 +4882,7 @@ ich	-	-	-	0:36:38.768000	0:36:42.881000
 als	-	-	-	0:36:38.768000	0:36:42.881000
 Bereicherung	-	-	-	0:36:38.768000	0:36:42.881000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:42.881000" end="0:36:54.661000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:42.881000" end="0:36:54.661000" age_lower="1" age_upper="999">
 äh	-	-	-	0:36:43.595000	0:36:50.108000
 Deutsch	-	-	-	0:36:43.595000	0:36:50.108000
 war	-	-	-	0:36:43.595000	0:36:50.108000
@@ -4909,7 +4909,7 @@ als	-	-	-	0:36:50.108000	0:36:54.661000
 entscheidend	-	-	-	0:36:50.108000	0:36:54.661000
 Ansehen	-	-	-	0:36:50.108000	0:36:54.661000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:54.661000" end="0:36:58.728000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:54.661000" end="0:36:58.728000" age_lower="65" age_upper="999">
 ein	-	-	-	0:36:54.661000	0:36:58.728000
 ja	-	-	-	0:36:54.661000	0:36:58.728000
 aus	-	-	-	0:36:54.661000	0:36:58.728000
@@ -4920,9 +4920,9 @@ Menge	-	-	-	0:36:54.661000	0:36:58.728000
 äh	-	-	-	0:36:54.661000	0:36:58.728000
 Ausdrücke	-	-	-	0:36:54.661000	0:36:58.728000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:57.528000" end="0:36:57.921000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:57.528000" end="0:36:57.921000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:58.728000" end="0:37:15.628000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:36:58.728000" end="0:37:15.628000" age_lower="65" age_upper="999">
 ah	-	-	-	0:36:58.728000	0:37:03.061000
 vom	-	-	-	0:36:58.728000	0:37:03.061000
 ungarischen	-	-	-	0:36:58.728000	0:37:03.061000
@@ -4951,7 +4951,7 @@ Spuren	-	-	-	0:37:11.708000	0:37:15.628000
 bei	-	-	-	0:37:11.708000	0:37:15.628000
 uns	-	-	-	0:37:11.708000	0:37:15.628000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:15.628000" end="0:37:25.588000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:15.628000" end="0:37:25.588000" age_lower="1" age_upper="999">
 hatten	-	-	-	0:37:19.601000	0:37:25.588000
 Ihrer	-	-	-	0:37:19.601000	0:37:25.588000
 Meinung	-	-	-	0:37:19.601000	0:37:25.588000
@@ -4967,7 +4967,7 @@ Sprache	-	-	-	0:37:19.601000	0:37:25.588000
 in	-	-	-	0:37:19.601000	0:37:25.588000
 Österreich	-	-	-	0:37:19.601000	0:37:25.588000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:37:25.588000" end="0:37:33.701000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:37:25.588000" end="0:37:33.701000" age_lower="65" age_upper="999">
 also	-	-	-	0:37:25.588000	0:37:32.155000
 ich	-	-	-	0:37:25.588000	0:37:32.155000
 denke	-	-	-	0:37:25.588000	0:37:32.155000
@@ -4984,9 +4984,9 @@ Land	-	-	-	0:37:32.155000	0:37:33.701000
 gezogen	-	-	-	0:37:32.155000	0:37:33.701000
 haben	-	-	-	0:37:32.155000	0:37:33.701000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:32.995000" end="0:37:33.495000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:32.995000" end="0:37:33.495000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:37:33.701000" end="0:37:43.948000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:37:33.701000" end="0:37:43.948000" age_lower="65" age_upper="999">
 die	-	-	-	0:37:33.701000	0:37:36.515000
 bei	-	-	-	0:37:33.701000	0:37:36.515000
 uns	-	-	-	0:37:33.701000	0:37:36.515000
@@ -5004,7 +5004,7 @@ ich	-	-	-	0:37:36.515000	0:37:43.948000
 eher	-	-	-	0:37:36.515000	0:37:43.948000
 nicht	-	-	-	0:37:36.515000	0:37:43.948000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:43.948000" end="0:37:47.261000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:43.948000" end="0:37:47.261000" age_lower="1" age_upper="999">
 und	-	-	-	0:37:44.595000	0:37:47.261000
 ich	-	-	-	0:37:44.595000	0:37:47.261000
 komme	-	-	-	0:37:44.595000	0:37:47.261000
@@ -5013,9 +5013,9 @@ zur	-	-	-	0:37:44.595000	0:37:47.261000
 letzten	-	-	-	0:37:44.595000	0:37:47.261000
 Frage	-	-	-	0:37:44.595000	0:37:47.261000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:37:46.595000" end="0:37:49.108000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:37:46.595000" end="0:37:49.108000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:47.261000" end="0:38:00.561000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:47.261000" end="0:38:00.561000" age_lower="1" age_upper="999">
 ah	-	-	-	0:37:47.261000	0:37:51.501000
 wie	-	-	-	0:37:47.261000	0:37:51.501000
 sehen	-	-	-	0:37:47.261000	0:37:51.501000
@@ -5046,7 +5046,7 @@ Sie	-	-	-	0:37:55.894000	0:38:00.201000
 überhaupt	-	-	-	0:37:55.894000	0:38:00.201000
 verändern	-	-	-	0:37:55.894000	0:38:00.201000
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:00.561000" end="0:38:09.348000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:00.561000" end="0:38:09.348000" age_lower="65" age_upper="999">
 nein	-	-	-	0:38:00.561000	0:38:02.601000
 ja	-	-	-	0:38:00.561000	0:38:02.601000
 Sie	-	-	-	0:38:00.561000	0:38:02.601000
@@ -5069,9 +5069,9 @@ beim	-	-	-	0:38:06.588000	0:38:09.348000
 mittelhochdeutschen	-	-	-	0:38:06.588000	0:38:09.348000
 geblieben	-	-	-	0:38:06.588000	0:38:09.348000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:09.194000" end="0:38:09.708000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:09.194000" end="0:38:09.708000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:09.708000" end="0:38:43.841000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:09.708000" end="0:38:43.841000" age_lower="65" age_upper="999">
 ah	-	-	-	0:38:09.708000	0:38:11.401000
 es	-	-	-	0:38:09.708000	0:38:11.401000
 ich	-	-	-	0:38:11.401000	0:38:16.328000
@@ -5117,9 +5117,9 @@ Eck	-	-	-	0:38:42.154000	0:38:43.841000
 echte	-	-	-	0:38:42.154000	0:38:43.841000
 Zeitung	-	-	-	0:38:42.154000	0:38:43.841000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:43.268000" end="0:38:43.534000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:43.268000" end="0:38:43.534000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:43.841000" end="0:38:48.601000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:43.841000" end="0:38:48.601000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:38:43.841000	0:38:48.601000
 irgend	-	-	-	0:38:43.841000	0:38:48.601000
 so	-	-	-	0:38:43.841000	0:38:48.601000
@@ -5129,9 +5129,9 @@ ein	-	-	-	0:38:43.841000	0:38:48.601000
 gratis	-	-	-	0:38:43.841000	0:38:48.601000
 bildblattl	-	-	-	0:38:43.841000	0:38:48.601000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:44.154000" end="0:38:44.414000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:44.154000" end="0:38:44.414000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:48.601000" end="0:39:06.874000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:38:48.601000" end="0:39:06.874000" age_lower="65" age_upper="999">
 äh	-	-	-	0:38:48.601000	0:38:52.968000
 es	-	-	-	0:38:48.601000	0:38:52.968000
 wird	-	-	-	0:38:48.601000	0:38:52.968000
@@ -5164,9 +5164,9 @@ man	-	-	-	0:39:01.741000	0:39:06.874000
 so	-	-	-	0:39:01.741000	0:39:06.874000
 vie	-	-	-	0:39:01.741000	0:39:06.874000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:05.528000" end="0:39:06.028000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:05.528000" end="0:39:06.028000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:06.874000" end="0:39:16.248000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:06.874000" end="0:39:16.248000" age_lower="65" age_upper="999">
 man	-	-	-	0:39:06.874000	0:39:09.901000
 über	-	-	-	0:39:06.874000	0:39:09.901000
 so	-	-	-	0:39:06.874000	0:39:09.901000
@@ -5181,9 +5181,9 @@ ohne	-	-	-	0:39:13.214000	0:39:15.214000
 dir	-	-	-	0:39:13.214000	0:39:15.214000
 Beispiel	-	-	-	0:39:15.474000	0:39:16.248000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:15.921000" end="0:39:16.248000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:15.921000" end="0:39:16.248000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:16.248000" end="0:39:23.194000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:16.248000" end="0:39:23.194000" age_lower="65" age_upper="999">
 ist	-	-	-	0:39:16.248000	0:39:16.721000
 ich	-	-	-	0:39:16.721000	0:39:19.648000
 ich	-	-	-	0:39:16.721000	0:39:19.648000
@@ -5200,17 +5200,17 @@ tut	-	-	-	0:39:21.181000	0:39:23.194000
 alles	-	-	-	0:39:21.181000	0:39:23.194000
 ist	-	-	-	0:39:21.181000	0:39:23.194000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:23.194000" end="0:39:23.781000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:23.194000" end="0:39:23.781000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:23.194000" end="0:39:25.108000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:23.194000" end="0:39:25.108000" age_lower="65" age_upper="999">
 kostet	-	-	-	0:39:23.194000	0:39:25.108000
 dir	-	-	-	0:39:23.194000	0:39:25.108000
 so	-	-	-	0:39:23.194000	0:39:25.108000
 viel	-	-	-	0:39:23.194000	0:39:25.108000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:24.868000" end="0:39:25.361000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:24.868000" end="0:39:25.361000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:25.108000" end="0:39:32.394000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:25.108000" end="0:39:32.394000" age_lower="65" age_upper="999">
 das	-	-	-	0:39:25.361000	0:39:26.841000
 tut	-	-	-	0:39:25.361000	0:39:26.841000
 schon	-	-	-	0:39:25.361000	0:39:26.841000
@@ -5232,9 +5232,9 @@ genitiv	-	-	-	0:39:30.101000	0:39:32.394000
 sein	-	-	-	0:39:30.101000	0:39:32.394000
 Tod	-	-	-	0:39:30.101000	0:39:32.394000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:31.828000" end="0:39:33.874000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:31.828000" end="0:39:33.874000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:32.394000" end="0:39:36.621000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:32.394000" end="0:39:36.621000" age_lower="65" age_upper="999">
 nicht,>	-	-	-	0:39:32.394000	0:39:32.708000
 <<lachend>	-	-	-	0:39:33.241000	0:39:36.621000
 und	-	-	-	0:39:33.241000	0:39:36.621000
@@ -5247,15 +5247,15 @@ Teil	-	-	-	0:39:33.241000	0:39:36.621000
 schon	-	-	-	0:39:33.241000	0:39:36.621000
 so;>	-	-	-	0:39:33.241000	0:39:36.621000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:35.714000" end="0:39:37.628000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:35.714000" end="0:39:37.628000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:37.628000" end="0:39:41.674000" persName="Informant 4060" residence="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" age_lower="65" age_upper="999">
+<u who="spk_678" sex="male" age="alt (65+) männlich" name="Informant 4060" location="Baden, Bezirk Baden, Niederösterreich, 2500, Österreich" lat="48.0085749" lon="16.2334951" start="0:39:37.628000" end="0:39:41.674000" age_lower="65" age_upper="999">
 ja	-	-	-	0:39:37.628000	0:39:39.454000
 war	-	-	-	0:39:40.361000	0:39:41.674000
 sehr	-	-	-	0:39:40.361000	0:39:41.674000
 nett	-	-	-	0:39:40.361000	0:39:41.674000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:41.554000" end="0:39:41.961000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:41.554000" end="0:39:41.961000" age_lower="1" age_upper="999">
 </u>
 </file>
 </doc>

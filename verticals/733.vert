@@ -1,6 +1,6 @@
 <doc id="transcript_733" name="0368_PASS_jungII_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="733.xml" title="Transcript: Transcript_733">
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:00.003000" end="0:00:05.875000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:00.003000" end="0:00:05.875000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 gut	-	-	-	0:00:00.003000	0:00:02.663000
 .	-	-	-	0:00:00.003000	0:00:02.663000
@@ -10,13 +10,13 @@ Ihr	-	-	-	0:00:02.663000	0:00:05.875000
 Geburtsdatum	-	-	-	0:00:02.663000	0:00:05.875000
 ?	-	-	-	0:00:02.663000	0:00:05.875000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:05.875000" end="0:00:07.739000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:05.875000" end="0:00:07.739000" age_lower="18" age_upper="35">
 ZAHL	ZAHL	-	-	0:00:05.875000	0:00:07.739000
 sechster	-	-	-	0:00:05.875000	0:00:07.739000
 ZAHL	ZAHL	-	-	0:00:05.875000	0:00:07.739000
 .	-	-	-	0:00:05.875000	0:00:07.739000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:07.739000" end="0:00:10.400000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:07.739000" end="0:00:10.400000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:07.739000	0:00:10.400000
 ,	-	-	-	0:00:07.739000	0:00:10.400000
 und	-	-	-	0:00:07.739000	0:00:10.400000
@@ -26,29 +26,29 @@ Sie	-	-	-	0:00:07.739000	0:00:10.400000
 geboren	-	-	-	0:00:07.739000	0:00:10.400000
 ?	-	-	-	0:00:07.739000	0:00:10.400000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:10.400000" end="0:00:11.051000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:10.400000" end="0:00:11.051000" age_lower="18" age_upper="35">
 in	-	-	-	0:00:10.400000	0:00:11.051000
 ORT	ORT	-	-	0:00:10.400000	0:00:11.051000
 .	-	-	-	0:00:10.400000	0:00:11.051000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:11.051000" end="0:00:11.748000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:11.051000" end="0:00:11.748000" age_lower="1" age_upper="999">
 in	-	-	-	0:00:11.051000	0:00:11.748000
 ORT	ORT	-	-	0:00:11.051000	0:00:11.748000
 .	-	-	-	0:00:11.051000	0:00:11.748000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:11.748000" end="0:00:12.400000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:11.748000" end="0:00:12.400000" age_lower="18" age_upper="35">
 genau	-	-	-	0:00:11.748000	0:00:12.400000
 ,	-	-	-	0:00:11.748000	0:00:12.400000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:11.748000" end="0:00:12.400000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:11.748000" end="0:00:12.400000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:11.748000	0:00:12.400000
 .	-	-	-	0:00:11.748000	0:00:12.400000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:12.400000" end="0:00:13.345000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:12.400000" end="0:00:13.345000" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:12.400000	0:00:13.345000
 .	-	-	-	0:00:12.400000	0:00:13.345000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:12.400000" end="0:00:14.048000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:12.400000" end="0:00:14.048000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:12.400000	0:00:13.345000
 .	-	-	-	0:00:12.400000	0:00:13.345000
 und	-	-	-	0:00:13.345000	0:00:14.048000
@@ -56,22 +56,22 @@ wo	-	-	-	0:00:13.345000	0:00:14.048000
 sind	-	-	-	0:00:13.345000	0:00:14.048000
 Sie	-	-	-	0:00:13.345000	0:00:14.048000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:14.048000" end="0:00:15.139000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:14.048000" end="0:00:15.139000" age_lower="18" age_upper="35">
 hier	-	-	-	0:00:14.048000	0:00:15.139000
 .	-	-	-	0:00:14.048000	0:00:15.139000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:14.048000" end="0:00:15.139000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:14.048000" end="0:00:15.139000" age_lower="1" age_upper="999">
 aufgewachsen	-	-	-	0:00:14.048000	0:00:15.139000
 ?	-	-	-	0:00:14.048000	0:00:15.139000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:15.139000" end="0:00:17.330000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:15.139000" end="0:00:17.330000" age_lower="18" age_upper="35">
 in	-	-	-	0:00:15.139000	0:00:17.330000
 [Passail]O	-	-	-	0:00:15.139000	0:00:17.330000
 ,	-	-	-	0:00:15.139000	0:00:17.330000
 ja	-	-	-	0:00:15.139000	0:00:17.330000
 .	-	-	-	0:00:15.139000	0:00:17.330000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:15.139000" end="0:00:19.396000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:15.139000" end="0:00:19.396000" age_lower="1" age_upper="999">
 hier	-	-	-	0:00:15.139000	0:00:17.330000
 in	-	-	-	0:00:15.139000	0:00:17.330000
 [Passail]O	-	-	-	0:00:15.139000	0:00:17.330000
@@ -86,13 +86,13 @@ immer	-	-	-	0:00:17.330000	0:00:19.396000
 hier	-	-	-	0:00:17.330000	0:00:19.396000
 gelebt	-	-	-	0:00:17.330000	0:00:19.396000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:19.396000" end="0:00:20.112000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:19.396000" end="0:00:20.112000" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:19.396000	0:00:20.112000
 ,	-	-	-	0:00:19.396000	0:00:20.112000
 immer	-	-	-	0:00:19.396000	0:00:20.112000
 .	-	-	-	0:00:19.396000	0:00:20.112000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:19.396000" end="0:00:25.606000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:19.396000" end="0:00:25.606000" age_lower="1" age_upper="999">
 eigentlich	-	-	-	0:00:19.396000	0:00:20.112000
 ?	-	-	-	0:00:19.396000	0:00:20.112000
 ja	-	-	-	0:00:20.112000	0:00:23.406000
@@ -110,7 +110,7 @@ Ihre	-	-	-	0:00:23.406000	0:00:25.606000
 Eltern	-	-	-	0:00:23.406000	0:00:25.606000
 ?	-	-	-	0:00:23.406000	0:00:25.606000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:25.606000" end="0:00:27.287000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:25.606000" end="0:00:27.287000" age_lower="18" age_upper="35">
 die	-	-	-	0:00:25.606000	0:00:27.287000
 Mama	-	-	-	0:00:25.606000	0:00:27.287000
 von	-	-	-	0:00:25.606000	0:00:27.287000
@@ -118,11 +118,11 @@ da	-	-	-	0:00:25.606000	0:00:27.287000
 oben	-	-	-	0:00:25.606000	0:00:27.287000
 ,	-	-	-	0:00:25.606000	0:00:27.287000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:27.287000" end="0:00:27.809000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:27.287000" end="0:00:27.809000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:27.287000	0:00:27.809000
 .	-	-	-	0:00:27.287000	0:00:27.809000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:27.809000" end="0:00:31.766000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:27.809000" end="0:00:31.766000" age_lower="18" age_upper="35">
 und	-	-	-	0:00:27.809000	0:00:30.018000
 der	-	-	-	0:00:27.809000	0:00:30.018000
 Papa	-	-	-	0:00:27.809000	0:00:30.018000
@@ -139,13 +139,13 @@ der	-	-	-	0:00:30.018000	0:00:31.766000
 Nähe	-	-	-	0:00:30.018000	0:00:31.766000
 .	-	-	-	0:00:30.018000	0:00:31.766000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:31.766000" end="0:00:32.645000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:31.766000" end="0:00:32.645000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:31.766000	0:00:32.645000
 ,	-	-	-	0:00:31.766000	0:00:32.645000
 mhm	-	-	-	0:00:31.766000	0:00:32.645000
 .	-	-	-	0:00:31.766000	0:00:32.645000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:32.645000" end="0:00:34.345000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:32.645000" end="0:00:34.345000" age_lower="18" age_upper="35">
 also	-	-	-	0:00:32.645000	0:00:34.345000
 beide	-	-	-	0:00:32.645000	0:00:34.345000
 eigentlich	-	-	-	0:00:32.645000	0:00:34.345000
@@ -153,17 +153,17 @@ aus	-	-	-	0:00:32.645000	0:00:34.345000
 ORT	ORT	-	-	0:00:32.645000	0:00:34.345000
 .	-	-	-	0:00:32.645000	0:00:34.345000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:34.345000" end="0:00:35.166000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:34.345000" end="0:00:35.166000" age_lower="1" age_upper="999">
 beide	-	-	-	0:00:34.345000	0:00:35.166000
 aus	-	-	-	0:00:34.345000	0:00:35.166000
 ORT	ORT	-	-	0:00:34.345000	0:00:35.166000
 ,	-	-	-	0:00:34.345000	0:00:35.166000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:35.166000" end="0:00:35.648000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:35.166000" end="0:00:35.648000" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:35.166000	0:00:35.648000
 .	-	-	-	0:00:35.166000	0:00:35.648000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:35.166000" end="0:00:38.275000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:35.166000" end="0:00:38.275000" age_lower="1" age_upper="999">
 kann	-	-	-	0:00:35.166000	0:00:35.648000
 man	-	-	-	0:00:35.166000	0:00:35.648000
 sagen	-	-	-	0:00:35.166000	0:00:35.648000
@@ -176,10 +176,10 @@ mhm	-	-	-	0:00:35.648000	0:00:38.275000
 ähm	-	-	-	0:00:35.648000	0:00:38.275000
 /.	-	-	-	0:00:35.648000	0:00:38.275000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:38.275000" end="0:00:39.515000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:38.275000" end="0:00:39.515000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:38.275000" end="0:00:41.736000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:38.275000" end="0:00:41.736000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 was	-	-	-	0:00:39.515000	0:00:41.736000
 machen	-	-	-	0:00:39.515000	0:00:41.736000
@@ -188,7 +188,7 @@ Eltern	-	-	-	0:00:39.515000	0:00:41.736000
 beruflich	-	-	-	0:00:39.515000	0:00:41.736000
 ?	-	-	-	0:00:39.515000	0:00:41.736000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:41.736000" end="0:00:47.242000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:41.736000" end="0:00:47.242000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:41.736000	0:00:46.436000
 meine	-	-	-	0:00:41.736000	0:00:46.436000
 Mama	-	-	-	0:00:41.736000	0:00:46.436000
@@ -203,11 +203,11 @@ jetzt	-	-	-	0:00:41.736000	0:00:46.436000
 SONSTIGE	SONSTIGE	-	-	0:00:46.436000	0:00:47.242000
 ,	-	-	-	0:00:46.436000	0:00:47.242000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:46.436000" end="0:00:47.242000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:46.436000" end="0:00:47.242000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:46.436000	0:00:47.242000
 .	-	-	-	0:00:46.436000	0:00:47.242000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:47.242000" end="0:00:51.160000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:47.242000" end="0:00:51.160000" age_lower="18" age_upper="35">
 und	-	-	-	0:00:47.242000	0:00:51.160000
 sonst	-	-	-	0:00:47.242000	0:00:51.160000
 arbeitet	-	-	-	0:00:47.242000	0:00:51.160000
@@ -217,11 +217,11 @@ als	-	-	-	0:00:47.242000	0:00:51.160000
 SONSTIGE	SONSTIGE	-	-	0:00:47.242000	0:00:51.160000
 ,	-	-	-	0:00:47.242000	0:00:51.160000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:51.160000" end="0:00:51.693000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:51.160000" end="0:00:51.693000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:51.160000	0:00:51.693000
 .	-	-	-	0:00:51.160000	0:00:51.693000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:51.693000" end="0:00:55.315000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:51.693000" end="0:00:55.315000" age_lower="18" age_upper="35">
 und	-	-	-	0:00:51.693000	0:00:54.615000
 auch	-	-	-	0:00:51.693000	0:00:54.615000
 in	-	-	-	0:00:51.693000	0:00:54.615000
@@ -231,11 +231,11 @@ in	-	-	-	0:00:54.615000	0:00:55.315000
 ORT	ORT	-	-	0:00:54.615000	0:00:55.315000
 ,	-	-	-	0:00:54.615000	0:00:55.315000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:54.615000" end="0:00:55.315000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:54.615000" end="0:00:55.315000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:54.615000	0:00:55.315000
 .	-	-	-	0:00:54.615000	0:00:55.315000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:55.315000" end="0:00:57" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:55.315000" end="0:00:57" age_lower="18" age_upper="35">
 und	-	-	-	0:00:55.315000	0:00:57
 mein	-	-	-	0:00:55.315000	0:00:57
 Papa	-	-	-	0:00:55.315000	0:00:57
@@ -243,7 +243,7 @@ ist	-	-	-	0:00:55.315000	0:00:57
 SONSTIGE	SONSTIGE	-	-	0:00:55.315000	0:00:57
 .	-	-	-	0:00:55.315000	0:00:57
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:55.315000" end="0:01:03.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:55.315000" end="0:01:03.100000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:55.315000	0:00:57
 .	-	-	-	0:00:55.315000	0:00:57
 mhm	-	-	-	0:00:57	0:00:59.887000
@@ -263,11 +263,11 @@ Sie	-	-	-	0:01:02.248000	0:01:03.100000
 in	-	-	-	0:01:02.248000	0:01:03.100000
 einer	-	-	-	0:01:02.248000	0:01:03.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:03.100000" end="0:01:04.453000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:03.100000" end="0:01:04.453000" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:03.100000	0:01:04.453000
 .	-	-	-	0:01:03.100000	0:01:04.453000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:03.100000" end="0:01:05.081000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:03.100000" end="0:01:05.081000" age_lower="1" age_upper="999">
 Partnerschaft	-	-	-	0:01:03.100000	0:01:04.453000
 oder	-	-	-	0:01:03.100000	0:01:04.453000
 /?	-	-	-	0:01:03.100000	0:01:04.453000
@@ -276,9 +276,9 @@ nein	-	-	-	0:01:04.453000	0:01:05.081000
 nein	-	-	-	0:01:04.453000	0:01:05.081000
 .	-	-	-	0:01:04.453000	0:01:05.081000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:05.081000" end="0:01:05.718000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:05.081000" end="0:01:05.718000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:05.081000" end="0:01:13.196000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:05.081000" end="0:01:13.196000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:05.081000	0:01:05.718000
 .	-	-	-	0:01:05.081000	0:01:05.718000
 ich	-	-	-	0:01:05.718000	0:01:08.854000
@@ -304,23 +304,23 @@ Sie	-	-	-	0:01:11.336000	0:01:13.196000
 auch	-	-	-	0:01:11.336000	0:01:13.196000
 noch	-	-	-	0:01:11.336000	0:01:13.196000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:13.196000" end="0:01:14.800000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:13.196000" end="0:01:14.800000" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:13.196000	0:01:14.800000
 .	-	-	-	0:01:13.196000	0:01:14.800000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:13.196000" end="0:01:14.800000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:13.196000" end="0:01:14.800000" age_lower="1" age_upper="999">
 keine	-	-	-	0:01:13.196000	0:01:14.800000
 Kinder	-	-	-	0:01:13.196000	0:01:14.800000
 haben	-	-	-	0:01:13.196000	0:01:14.800000
 ?	-	-	-	0:01:13.196000	0:01:14.800000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:14.800000" end="0:01:16.060000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:14.800000" end="0:01:16.060000" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:14.800000	0:01:16.060000
 ,	-	-	-	0:01:14.800000	0:01:16.060000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:14.800000" end="0:01:16.060000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:14.800000" end="0:01:16.060000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:16.060000" end="0:01:19.718000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:16.060000" end="0:01:19.718000" age_lower="18" age_upper="35">
 habe	-	-	-	0:01:16.060000	0:01:16.578000
 ich	-	-	-	0:01:16.060000	0:01:16.578000
 auch	-	-	-	0:01:16.060000	0:01:16.578000
@@ -334,7 +334,7 @@ nein	-	-	-	0:01:16.578000	0:01:19.718000
 ich	-	-	-	0:01:16.578000	0:01:19.718000
 habe	-	-	-	0:01:16.578000	0:01:19.718000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:16.578000" end="0:01:19.718000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:16.578000" end="0:01:19.718000" age_lower="1" age_upper="999">
 man	-	-	-	0:01:16.578000	0:01:19.718000
 soll	-	-	-	0:01:16.578000	0:01:19.718000
 zwar	-	-	-	0:01:16.578000	0:01:19.718000
@@ -346,12 +346,12 @@ aber	-	-	-	0:01:16.578000	0:01:19.718000
 grundsätzlich	-	-	-	0:01:16.578000	0:01:19.718000
 /.	-	-	-	0:01:16.578000	0:01:19.718000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:19.718000" end="0:01:20.881000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:19.718000" end="0:01:20.881000" age_lower="18" age_upper="35">
 keine	-	-	-	0:01:19.718000	0:01:20.881000
 Kinder	-	-	-	0:01:19.718000	0:01:20.881000
 .	-	-	-	0:01:19.718000	0:01:20.881000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:19.718000" end="0:01:23.821000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:19.718000" end="0:01:23.821000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:19.718000	0:01:20.881000
 .	-	-	-	0:01:19.718000	0:01:20.881000
 <pause duration="0,5s"/>
@@ -370,11 +370,11 @@ in	-	-	-	0:01:21.690000	0:01:23.821000
 die	-	-	-	0:01:21.690000	0:01:23.821000
 Schule	-	-	-	0:01:21.690000	0:01:23.821000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:23.821000" end="0:01:24.466000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:23.821000" end="0:01:24.466000" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:23.821000	0:01:24.466000
 .	-	-	-	0:01:23.821000	0:01:24.466000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:23.821000" end="0:01:25.536000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:23.821000" end="0:01:25.536000" age_lower="1" age_upper="999">
 gehen	-	-	-	0:01:23.821000	0:01:24.466000
 ,	-	-	-	0:01:23.821000	0:01:24.466000
 wo	-	-	-	0:01:24.466000	0:01:25.536000
@@ -382,12 +382,12 @@ gehen	-	-	-	0:01:24.466000	0:01:25.536000
 Sie	-	-	-	0:01:24.466000	0:01:25.536000
 da	-	-	-	0:01:24.466000	0:01:25.536000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:25.536000" end="0:01:26.248000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:25.536000" end="0:01:26.248000" age_lower="18" age_upper="35">
 in	-	-	-	0:01:25.536000	0:01:26.248000
 ORT	ORT	-	-	0:01:25.536000	0:01:26.248000
 .	-	-	-	0:01:25.536000	0:01:26.248000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:25.536000" end="0:01:26.912000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:25.536000" end="0:01:26.912000" age_lower="1" age_upper="999">
 in	-	-	-	0:01:25.536000	0:01:26.248000
 die	-	-	-	0:01:25.536000	0:01:26.248000
 Schule	-	-	-	0:01:25.536000	0:01:26.248000
@@ -396,11 +396,11 @@ in	-	-	-	0:01:26.248000	0:01:26.912000
 ORT	ORT	-	-	0:01:26.248000	0:01:26.912000
 .	-	-	-	0:01:26.248000	0:01:26.912000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:26.912000" end="0:01:27.509000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:26.912000" end="0:01:27.509000" age_lower="18" age_upper="35">
 genau	-	-	-	0:01:26.912000	0:01:27.509000
 .	-	-	-	0:01:26.912000	0:01:27.509000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:26.912000" end="0:01:27.851000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:26.912000" end="0:01:27.851000" age_lower="1" age_upper="999">
 und	-	-	-	0:01:26.912000	0:01:27.509000
 was	-	-	-	0:01:26.912000	0:01:27.509000
 ist	-	-	-	0:01:26.912000	0:01:27.509000
@@ -408,31 +408,31 @@ das	-	-	-	0:01:27.509000	0:01:27.851000
 für	-	-	-	0:01:27.509000	0:01:27.851000
 eine	-	-	-	0:01:27.509000	0:01:27.851000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:27.851000" end="0:01:28.533000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:27.851000" end="0:01:28.533000" age_lower="18" age_upper="35">
 SONSTIGE	SONSTIGE	-	-	0:01:27.851000	0:01:28.533000
 .	-	-	-	0:01:27.851000	0:01:28.533000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:27.851000" end="0:01:29.184000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:27.851000" end="0:01:29.184000" age_lower="1" age_upper="999">
 Schule	-	-	-	0:01:27.851000	0:01:28.533000
 ?	-	-	-	0:01:27.851000	0:01:28.533000
 eine	-	-	-	0:01:28.533000	0:01:29.184000
 SONSTIGE	SONSTIGE	-	-	0:01:28.533000	0:01:29.184000
 .	-	-	-	0:01:28.533000	0:01:29.184000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:29.184000" end="0:01:30.100000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:29.184000" end="0:01:30.100000" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:29.184000	0:01:30.100000
 .	-	-	-	0:01:29.184000	0:01:30.100000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:29.184000" end="0:01:30.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:29.184000" end="0:01:30.100000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:29.184000	0:01:30.100000
 ,	-	-	-	0:01:29.184000	0:01:30.100000
 okay	-	-	-	0:01:29.184000	0:01:30.100000
 .	-	-	-	0:01:29.184000	0:01:30.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:30.100000" end="0:01:30.542000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:30.100000" end="0:01:30.542000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:30.100000" end="0:01:32.259000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:30.100000" end="0:01:32.259000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:01:30.542000	0:01:32.259000
 da	-	-	-	0:01:30.542000	0:01:32.259000
@@ -443,7 +443,7 @@ der	-	-	-	0:01:30.542000	0:01:32.259000
 letzten	-	-	-	0:01:30.542000	0:01:32.259000
 /,	-	-	-	0:01:30.542000	0:01:32.259000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:32.259000" end="0:01:33.315000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:32.259000" end="0:01:33.315000" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:32.259000	0:01:33.315000
 ,	-	-	-	0:01:32.259000	0:01:33.315000
 in	-	-	-	0:01:32.259000	0:01:33.315000
@@ -451,7 +451,7 @@ der	-	-	-	0:01:32.259000	0:01:33.315000
 dritten	-	-	-	0:01:32.259000	0:01:33.315000
 .	-	-	-	0:01:32.259000	0:01:33.315000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:32.259000" end="0:01:33.315000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:32.259000" end="0:01:33.315000" age_lower="1" age_upper="999">
 oder	-	-	-	0:01:32.259000	0:01:33.315000
 auf	-	-	-	0:01:32.259000	0:01:33.315000
 in	-	-	-	0:01:32.259000	0:01:33.315000
@@ -459,13 +459,13 @@ der	-	-	-	0:01:32.259000	0:01:33.315000
 v/	-	-	-	0:01:32.259000	0:01:33.315000
 /?	-	-	-	0:01:32.259000	0:01:33.315000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:33.315000" end="0:01:34.948000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:33.315000" end="0:01:34.948000" age_lower="18" age_upper="35">
 dritten	-	-	-	0:01:33.315000	0:01:34.948000
 ,	-	-	-	0:01:33.315000	0:01:34.948000
 ja	-	-	-	0:01:33.315000	0:01:34.948000
 .	-	-	-	0:01:33.315000	0:01:34.948000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:33.315000" end="0:01:40.884000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:33.315000" end="0:01:40.884000" age_lower="1" age_upper="999">
 dritten	-	-	-	0:01:33.315000	0:01:34.948000
 Klasse	-	-	-	0:01:33.315000	0:01:34.948000
 ,	-	-	-	0:01:33.315000	0:01:34.948000
@@ -492,7 +492,7 @@ die	-	-	-	0:01:39.054000	0:01:40.884000
 Matura	-	-	-	0:01:39.054000	0:01:40.884000
 zu	-	-	-	0:01:39.054000	0:01:40.884000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:40.884000" end="0:01:42.978000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:40.884000" end="0:01:42.978000" age_lower="18" age_upper="35">
 genau	-	-	-	0:01:40.884000	0:01:42.978000
 ,	-	-	-	0:01:40.884000	0:01:42.978000
 genau	-	-	-	0:01:40.884000	0:01:42.978000
@@ -502,7 +502,7 @@ ja	-	-	-	0:01:40.884000	0:01:42.978000
 ja	-	-	-	0:01:40.884000	0:01:42.978000
 .	-	-	-	0:01:40.884000	0:01:42.978000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:40.884000" end="0:01:51.603000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:40.884000" end="0:01:51.603000" age_lower="1" age_upper="999">
 machen	-	-	-	0:01:40.884000	0:01:42.978000
 dann	-	-	-	0:01:40.884000	0:01:42.978000
 ,	-	-	-	0:01:40.884000	0:01:42.978000
@@ -536,7 +536,7 @@ Schule	-	-	-	0:01:48.902000	0:01:51.603000
 immer	-	-	-	0:01:48.902000	0:01:51.603000
 ?	-	-	-	0:01:48.902000	0:01:51.603000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:51.603000" end="0:01:53.777000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:51.603000" end="0:01:53.777000" age_lower="18" age_upper="35">
 eine	-	-	-	0:01:51.603000	0:01:52.406000
 Stunde	-	-	-	0:01:51.603000	0:01:52.406000
 .	-	-	-	0:01:51.603000	0:01:52.406000
@@ -544,13 +544,13 @@ also	-	-	-	0:01:52.406000	0:01:53.777000
 ich	-	-	-	0:01:52.406000	0:01:53.777000
 fahre	-	-	-	0:01:52.406000	0:01:53.777000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:52.406000" end="0:01:53.777000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:52.406000" end="0:01:53.777000" age_lower="1" age_upper="999">
 Stunde	-	-	-	0:01:52.406000	0:01:53.777000
 ,	-	-	-	0:01:52.406000	0:01:53.777000
 mhm	-	-	-	0:01:52.406000	0:01:53.777000
 .	-	-	-	0:01:52.406000	0:01:53.777000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:53.777000" end="0:01:58.603000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:53.777000" end="0:01:58.603000" age_lower="18" age_upper="35">
 von	-	-	-	0:01:53.777000	0:01:56.057000
 ORT	ORT	-	-	0:01:53.777000	0:01:56.057000
 nach	-	-	-	0:01:53.777000	0:01:56.057000
@@ -569,7 +569,7 @@ eine	-	-	-	0:01:56.057000	0:01:58.603000
 halbe	-	-	-	0:01:56.057000	0:01:58.603000
 .	-	-	-	0:01:56.057000	0:01:58.603000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:58.603000" end="0:02:02.642000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:01:58.603000" end="0:02:02.642000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:58.603000	0:02:02.642000
 ,	-	-	-	0:01:58.603000	0:02:02.642000
 das	-	-	-	0:01:58.603000	0:02:02.642000
@@ -588,11 +588,11 @@ spezielle	-	-	-	0:01:58.603000	0:02:02.642000
 ,	-	-	-	0:01:58.603000	0:02:02.642000
 oder	-	-	-	0:01:58.603000	0:02:02.642000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:02.642000" end="0:02:03.763000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:02.642000" end="0:02:03.763000" age_lower="18" age_upper="35">
 nein	-	-	-	0:02:02.642000	0:02:03.763000
 .	-	-	-	0:02:02.642000	0:02:03.763000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:02.642000" end="0:02:03.763000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:02.642000" end="0:02:03.763000" age_lower="1" age_upper="999">
 oder	-	-	-	0:02:02.642000	0:02:03.763000
 muss	-	-	-	0:02:02.642000	0:02:03.763000
 man	-	-	-	0:02:02.642000	0:02:03.763000
@@ -600,7 +600,7 @@ da	-	-	-	0:02:02.642000	0:02:03.763000
 ähm	-	-	-	0:02:02.642000	0:02:03.763000
 /?	-	-	-	0:02:02.642000	0:02:03.763000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:03.763000" end="0:02:08.306000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:03.763000" end="0:02:08.306000" age_lower="18" age_upper="35">
 also	-	-	-	0:02:03.763000	0:02:06.557000
 in	-	-	-	0:02:03.763000	0:02:06.557000
 der	-	-	-	0:02:03.763000	0:02:06.557000
@@ -619,11 +619,11 @@ sechs	-	-	-	0:02:06.557000	0:02:08.306000
 fährt	-	-	-	0:02:06.557000	0:02:08.306000
 .	-	-	-	0:02:06.557000	0:02:08.306000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:08.306000" end="0:02:08.972000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:08.306000" end="0:02:08.972000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:08.306000	0:02:08.972000
 .	-	-	-	0:02:08.306000	0:02:08.972000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:08.972000" end="0:02:13.306000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:08.972000" end="0:02:13.306000" age_lower="18" age_upper="35">
 und	-	-	-	0:02:08.972000	0:02:13.306000
 in	-	-	-	0:02:08.972000	0:02:13.306000
 ORT	ORT	-	-	0:02:08.972000	0:02:13.306000
@@ -639,7 +639,7 @@ Verkehrsmittel	-	-	-	0:02:08.972000	0:02:13.306000
 eben	-	-	-	0:02:08.972000	0:02:13.306000
 .	-	-	-	0:02:08.972000	0:02:13.306000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:13.306000" end="0:02:23.175000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:13.306000" end="0:02:23.175000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:13.306000	0:02:15.548000
 ,	-	-	-	0:02:13.306000	0:02:15.548000
 mhm	-	-	-	0:02:13.306000	0:02:15.548000
@@ -666,19 +666,19 @@ so	-	-	-	0:02:19.475000	0:02:22.090000
 irgendwelche	-	-	-	0:02:22.090000	0:02:23.175000
 Sommerjobs	-	-	-	0:02:22.090000	0:02:23.175000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:23.175000" end="0:02:24.381000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:23.175000" end="0:02:24.381000" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:23.175000	0:02:24.381000
 ,	-	-	-	0:02:23.175000	0:02:24.381000
 also	-	-	-	0:02:23.175000	0:02:24.381000
 ich	-	-	-	0:02:23.175000	0:02:24.381000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:23.175000" end="0:02:24.381000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:23.175000" end="0:02:24.381000" age_lower="1" age_upper="999">
 gemacht	-	-	-	0:02:23.175000	0:02:24.381000
 oder	-	-	-	0:02:23.175000	0:02:24.381000
 so	-	-	-	0:02:23.175000	0:02:24.381000
 ?	-	-	-	0:02:23.175000	0:02:24.381000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:24.381000" end="0:02:27.760000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:24.381000" end="0:02:27.760000" age_lower="18" age_upper="35">
 war	-	-	-	0:02:24.381000	0:02:26.718000
 ähm	-	-	-	0:02:24.381000	0:02:26.718000
 in	-	-	-	0:02:24.381000	0:02:26.718000
@@ -689,13 +689,13 @@ im	-	-	-	0:02:26.718000	0:02:27.760000
 Büro	-	-	-	0:02:26.718000	0:02:27.760000
 .	-	-	-	0:02:26.718000	0:02:27.760000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:26.718000" end="0:02:28.336000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:26.718000" end="0:02:28.336000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:26.718000	0:02:27.760000
 .	-	-	-	0:02:26.718000	0:02:27.760000
 okay	-	-	-	0:02:27.760000	0:02:28.336000
 .	-	-	-	0:02:27.760000	0:02:28.336000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:28.336000" end="0:02:33.305000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:28.336000" end="0:02:33.305000" age_lower="18" age_upper="35">
 ich	-	-	-	0:02:28.336000	0:02:29.733000
 war	-	-	-	0:02:28.336000	0:02:29.733000
 auch	-	-	-	0:02:28.336000	0:02:29.733000
@@ -719,13 +719,13 @@ Mathe	-	-	-	0:02:29.733000	0:02:33.305000
 gelernt	-	-	-	0:02:29.733000	0:02:33.305000
 .	-	-	-	0:02:29.733000	0:02:33.305000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:33.305000" end="0:02:34.339000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:33.305000" end="0:02:34.339000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:33.305000	0:02:34.339000
 ,	-	-	-	0:02:33.305000	0:02:34.339000
 super	-	-	-	0:02:33.305000	0:02:34.339000
 .	-	-	-	0:02:33.305000	0:02:34.339000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:34.339000" end="0:02:37.018000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:34.339000" end="0:02:37.018000" age_lower="18" age_upper="35">
 und	-	-	-	0:02:34.339000	0:02:37.018000
 bei	-	-	-	0:02:34.339000	0:02:37.018000
 SONSTIGE	SONSTIGE	-	-	0:02:34.339000	0:02:37.018000
@@ -738,15 +738,15 @@ als	-	-	-	0:02:34.339000	0:02:37.018000
 Dialogerin	-	-	-	0:02:34.339000	0:02:37.018000
 .	-	-	-	0:02:34.339000	0:02:37.018000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:37.018000" end="0:02:37.787000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:37.018000" end="0:02:37.787000" age_lower="1" age_upper="999">
 toll	-	-	-	0:02:37.018000	0:02:37.787000
 .	-	-	-	0:02:37.018000	0:02:37.787000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:37.787000" end="0:02:38.957000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:37.787000" end="0:02:38.957000" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:37.787000	0:02:38.957000
 .	-	-	-	0:02:37.787000	0:02:38.957000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:37.787000" end="0:02:42.809000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:37.787000" end="0:02:42.809000" age_lower="1" age_upper="999">
 okay	-	-	-	0:02:37.787000	0:02:38.957000
 .	-	-	-	0:02:37.787000	0:02:38.957000
 ja	-	-	-	0:02:38.957000	0:02:40.836000
@@ -759,10 +759,10 @@ okay	-	-	-	0:02:40.836000	0:02:42.809000
 mhm	-	-	-	0:02:40.836000	0:02:42.809000
 .	-	-	-	0:02:40.836000	0:02:42.809000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:42.809000" end="0:02:44.327000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:42.809000" end="0:02:44.327000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:42.809000" end="0:02:46.018000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:42.809000" end="0:02:46.018000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 gut	-	-	-	0:02:44.327000	0:02:46.018000
 ,	-	-	-	0:02:44.327000	0:02:46.018000
@@ -772,11 +772,11 @@ wir	-	-	-	0:02:44.327000	0:02:46.018000
 mal	-	-	-	0:02:44.327000	0:02:46.018000
 zur	-	-	-	0:02:44.327000	0:02:46.018000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:46.018000" end="0:02:47.515000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:46.018000" end="0:02:47.515000" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:46.018000	0:02:47.515000
 .	-	-	-	0:02:46.018000	0:02:47.515000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:46.018000" end="0:02:51.218000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:46.018000" end="0:02:51.218000" age_lower="1" age_upper="999">
 Sprache	-	-	-	0:02:46.018000	0:02:47.515000
 .	-	-	-	0:02:46.018000	0:02:47.515000
 was	-	-	-	0:02:47.515000	0:02:48.781000
@@ -790,11 +790,11 @@ in	-	-	-	0:02:48.781000	0:02:51.218000
 unterschiedlichen	-	-	-	0:02:48.781000	0:02:51.218000
 Situationen	-	-	-	0:02:48.781000	0:02:51.218000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:51.218000" end="0:02:51.569000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:51.218000" end="0:02:51.569000" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:51.218000	0:02:51.569000
 .	-	-	-	0:02:51.218000	0:02:51.569000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:51.218000" end="0:02:55.293000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:51.218000" end="0:02:55.293000" age_lower="1" age_upper="999">
 oder	-	-	-	0:02:51.218000	0:02:51.569000
 mit	-	-	-	0:02:51.218000	0:02:51.569000
 unterschiedlichen	-	-	-	0:02:51.569000	0:02:53.696000
@@ -808,7 +808,7 @@ immer	-	-	-	0:02:53.696000	0:02:55.293000
 gleich	-	-	-	0:02:53.696000	0:02:55.293000
 ?	-	-	-	0:02:53.696000	0:02:55.293000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:55.293000" end="0:02:56.896000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:55.293000" end="0:02:56.896000" age_lower="18" age_upper="35">
 nein	-	-	-	0:02:55.293000	0:02:56.896000
 ,	-	-	-	0:02:55.293000	0:02:56.896000
 ich	-	-	-	0:02:55.293000	0:02:56.896000
@@ -818,7 +818,7 @@ immer	-	-	-	0:02:55.293000	0:02:56.896000
 gleich	-	-	-	0:02:55.293000	0:02:56.896000
 .	-	-	-	0:02:55.293000	0:02:56.896000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:56.896000" end="0:02:58.078000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:56.896000" end="0:02:58.078000" age_lower="1" age_upper="999">
 okay	-	-	-	0:02:56.896000	0:02:58.078000
 ,	-	-	-	0:02:56.896000	0:02:58.078000
 wa/	-	-	-	0:02:56.896000	0:02:58.078000
@@ -826,24 +826,24 @@ was	-	-	-	0:02:56.896000	0:02:58.078000
 gibt	-	-	-	0:02:56.896000	0:02:58.078000
 es	-	-	-	0:02:56.896000	0:02:58.078000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:58.078000" end="0:02:59.742000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:58.078000" end="0:02:59.742000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:58.078000	0:02:59.742000
 /.	-	-	-	0:02:58.078000	0:02:59.742000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:58.078000" end="0:02:59.742000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:02:58.078000" end="0:02:59.742000" age_lower="1" age_upper="999">
 da	-	-	-	0:02:58.078000	0:02:59.742000
 für	-	-	-	0:02:58.078000	0:02:59.742000
 Unterschiede	-	-	-	0:02:58.078000	0:02:59.742000
 ?	-	-	-	0:02:58.078000	0:02:59.742000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:59.742000" end="0:03:00.903000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:02:59.742000" end="0:03:00.903000" age_lower="18" age_upper="35">
 zuhause	-	-	-	0:02:59.742000	0:03:00.903000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:00.903000" end="0:03:01.387000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:00.903000" end="0:03:01.387000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:00.903000	0:03:01.387000
 .	-	-	-	0:03:00.903000	0:03:01.387000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:01.387000" end="0:03:04.166000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:01.387000" end="0:03:04.166000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 spreche	-	-	-	0:03:01.387000	0:03:04.166000
 ich	-	-	-	0:03:01.387000	0:03:04.166000
@@ -855,11 +855,11 @@ so	-	-	-	0:03:01.387000	0:03:04.166000
 richtig	-	-	-	0:03:01.387000	0:03:04.166000
 .	-	-	-	0:03:01.387000	0:03:04.166000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:04.166000" end="0:03:04.790000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:04.166000" end="0:03:04.790000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:04.166000	0:03:04.790000
 .	-	-	-	0:03:04.166000	0:03:04.790000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:04.790000" end="0:03:08.106000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:04.790000" end="0:03:08.106000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:03:04.790000	0:03:06.136000
 /.	-	-	-	0:03:04.790000	0:03:06.136000
 in	-	-	-	0:03:06.136000	0:03:08.106000
@@ -869,19 +869,19 @@ gar	-	-	-	0:03:06.136000	0:03:08.106000
 nicht	-	-	-	0:03:06.136000	0:03:08.106000
 .	-	-	-	0:03:06.136000	0:03:08.106000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:08.106000" end="0:03:09.227000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:08.106000" end="0:03:09.227000" age_lower="1" age_upper="999">
 aha	-	-	-	0:03:08.106000	0:03:09.227000
 ,	-	-	-	0:03:08.106000	0:03:09.227000
 okay	-	-	-	0:03:08.106000	0:03:09.227000
 .	-	-	-	0:03:08.106000	0:03:09.227000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:09.227000" end="0:03:10.145000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:09.227000" end="0:03:10.145000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:09.227000" end="0:03:10.145000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:09.227000" end="0:03:10.145000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:10.145000" end="0:03:18.812000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:10.145000" end="0:03:18.812000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:03:10.145000	0:03:11.945000
 /.	-	-	-	0:03:10.145000	0:03:11.945000
 <pause duration="1,1s"/>
@@ -915,17 +915,17 @@ der	-	-	-	0:03:15.451000	0:03:18.812000
 Familie	-	-	-	0:03:15.451000	0:03:18.812000
 .	-	-	-	0:03:15.451000	0:03:18.812000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:18.812000" end="0:03:20.069000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:18.812000" end="0:03:20.069000" age_lower="1" age_upper="999">
 okay	-	-	-	0:03:18.812000	0:03:20.069000
 ,	-	-	-	0:03:18.812000	0:03:20.069000
 interessant	-	-	-	0:03:18.812000	0:03:20.069000
 .	-	-	-	0:03:18.812000	0:03:20.069000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:20.069000" end="0:03:20.748000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:20.069000" end="0:03:20.748000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:03:20.069000	0:03:20.748000
 .	-	-	-	0:03:20.069000	0:03:20.748000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:20.069000" end="0:03:34.827000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:20.069000" end="0:03:34.827000" age_lower="1" age_upper="999">
 aha	-	-	-	0:03:20.069000	0:03:20.748000
 .	-	-	-	0:03:20.069000	0:03:20.748000
 ja	-	-	-	0:03:20.748000	0:03:23.424000
@@ -960,7 +960,7 @@ das	-	-	-	0:03:32.893000	0:03:34.827000
 bezeichnen	-	-	-	0:03:32.893000	0:03:34.827000
 ?	-	-	-	0:03:32.893000	0:03:34.827000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:34.827000" end="0:03:39.115000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:34.827000" end="0:03:39.115000" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:34.827000	0:03:37.878000
 ,	-	-	-	0:03:34.827000	0:03:37.878000
 sie	-	-	-	0:03:34.827000	0:03:37.878000
@@ -973,11 +973,11 @@ Dialekt	-	-	-	0:03:34.827000	0:03:37.878000
 manchmal	-	-	-	0:03:37.878000	0:03:39.115000
 /,	-	-	-	0:03:37.878000	0:03:39.115000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:37.878000" end="0:03:39.115000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:37.878000" end="0:03:39.115000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:37.878000	0:03:39.115000
 .	-	-	-	0:03:37.878000	0:03:39.115000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:39.115000" end="0:03:45.627000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:39.115000" end="0:03:45.627000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 es	-	-	-	0:03:39.115000	0:03:43.048000
 gibt	-	-	-	0:03:39.115000	0:03:43.048000
@@ -996,7 +996,7 @@ ist	-	-	-	0:03:43.048000	0:03:45.627000
 das	-	-	-	0:03:43.048000	0:03:45.627000
 ?	-	-	-	0:03:43.048000	0:03:45.627000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:45.627000" end="0:03:47.748000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:45.627000" end="0:03:47.748000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:45.627000	0:03:46.696000
 ,	-	-	-	0:03:45.627000	0:03:46.696000
 ja	-	-	-	0:03:45.627000	0:03:46.696000
@@ -1009,13 +1009,13 @@ die	-	-	-	0:03:46.696000	0:03:47.748000
 richtig	-	-	-	0:03:46.696000	0:03:47.748000
 alten	-	-	-	0:03:46.696000	0:03:47.748000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:47.748000" end="0:03:49.369000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:47.748000" end="0:03:49.369000" age_lower="18" age_upper="35">
 genau	-	-	-	0:03:47.748000	0:03:49.369000
 ,	-	-	-	0:03:47.748000	0:03:49.369000
 genau	-	-	-	0:03:47.748000	0:03:49.369000
 .	-	-	-	0:03:47.748000	0:03:49.369000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:47.748000" end="0:03:49.369000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:47.748000" end="0:03:49.369000" age_lower="1" age_upper="999">
 Leute	-	-	-	0:03:47.748000	0:03:49.369000
 ,	-	-	-	0:03:47.748000	0:03:49.369000
 also	-	-	-	0:03:47.748000	0:03:49.369000
@@ -1023,7 +1023,7 @@ also	-	-	-	0:03:47.748000	0:03:49.369000
 okay	-	-	-	0:03:47.748000	0:03:49.369000
 .	-	-	-	0:03:47.748000	0:03:49.369000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:49.369000" end="0:03:51.278000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:49.369000" end="0:03:51.278000" age_lower="18" age_upper="35">
 genau	-	-	-	0:03:49.369000	0:03:51.278000
 ,	-	-	-	0:03:49.369000	0:03:51.278000
 wo	-	-	-	0:03:49.369000	0:03:51.278000
@@ -1034,13 +1034,13 @@ so	-	-	-	0:03:49.369000	0:03:51.278000
 denke	-	-	-	0:03:49.369000	0:03:51.278000
 ,	-	-	-	0:03:49.369000	0:03:51.278000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:49.369000" end="0:03:51.278000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:49.369000" end="0:03:51.278000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:49.369000	0:03:51.278000
 ,	-	-	-	0:03:49.369000	0:03:51.278000
 mhm	-	-	-	0:03:49.369000	0:03:51.278000
 .	-	-	-	0:03:49.369000	0:03:51.278000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:51.278000" end="0:03:53.136000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:51.278000" end="0:03:53.136000" age_lower="18" age_upper="35">
 habe	-	-	-	0:03:51.278000	0:03:52.612000
 ich	-	-	-	0:03:51.278000	0:03:52.612000
 noch	-	-	-	0:03:51.278000	0:03:52.612000
@@ -1048,11 +1048,11 @@ nie	-	-	-	0:03:51.278000	0:03:52.612000
 gehört	-	-	-	0:03:51.278000	0:03:52.612000
 ,	-	-	-	0:03:51.278000	0:03:52.612000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:52.612000" end="0:03:53.136000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:52.612000" end="0:03:53.136000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:52.612000	0:03:53.136000
 .	-	-	-	0:03:52.612000	0:03:53.136000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:53.136000" end="0:03:54.960000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:03:53.136000" end="0:03:54.960000" age_lower="18" age_upper="35">
 ist	-	-	-	0:03:53.136000	0:03:54.960000
 das	-	-	-	0:03:53.136000	0:03:54.960000
 eh	-	-	-	0:03:53.136000	0:03:54.960000
@@ -1060,7 +1060,7 @@ unser	-	-	-	0:03:53.136000	0:03:54.960000
 Dialekt	-	-	-	0:03:53.136000	0:03:54.960000
 ?	-	-	-	0:03:53.136000	0:03:54.960000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:54.960000" end="0:04:03.339000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:03:54.960000" end="0:04:03.339000" age_lower="1" age_upper="999">
 okay	-	-	-	0:03:54.960000	0:03:57.427000
 ,	-	-	-	0:03:54.960000	0:03:57.427000
 okay	-	-	-	0:03:54.960000	0:03:57.427000
@@ -1085,13 +1085,13 @@ diesen	-	-	-	0:03:57.427000	0:04:03.339000
 Dialekt	-	-	-	0:03:57.427000	0:04:03.339000
 ?	-	-	-	0:03:57.427000	0:04:03.339000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:03.339000" end="0:04:05.490000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:03.339000" end="0:04:05.490000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:03.339000" end="0:04:05.490000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:03.339000" end="0:04:05.490000" age_lower="1" age_upper="999">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:05.490000" end="0:04:07.963000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:05.490000" end="0:04:07.963000" age_lower="18" age_upper="35">
 also	-	-	-	0:04:05.490000	0:04:07.100000
 so	-	-	-	0:04:05.490000	0:04:07.100000
 wie	-	-	-	0:04:05.490000	0:04:07.100000
@@ -1102,34 +1102,34 @@ nein	-	-	-	0:04:07.100000	0:04:07.963000
 ,	-	-	-	0:04:07.100000	0:04:07.963000
 aber	-	-	-	0:04:07.100000	0:04:07.963000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:07.100000" end="0:04:07.963000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:07.100000" end="0:04:07.963000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:04:07.100000	0:04:07.963000
 .	-	-	-	0:04:07.100000	0:04:07.963000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:07.963000" end="0:04:08.981000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:07.963000" end="0:04:08.981000" age_lower="18" age_upper="35">
 schon	-	-	-	0:04:07.963000	0:04:08.981000
 (irgendwie)	-	-	-	0:04:07.963000	0:04:08.981000
 .	-	-	-	0:04:07.963000	0:04:08.981000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:07.963000" end="0:04:08.981000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:07.963000" end="0:04:08.981000" age_lower="1" age_upper="999">
 aber	-	-	-	0:04:07.963000	0:04:08.981000
 schon	-	-	-	0:04:07.963000	0:04:08.981000
 in	-	-	-	0:04:07.963000	0:04:08.981000
 dem	-	-	-	0:04:07.963000	0:04:08.981000
 /,	-	-	-	0:04:07.963000	0:04:08.981000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:08.981000" end="0:04:10.190000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:08.981000" end="0:04:10.190000" age_lower="18" age_upper="35">
 weil	-	-	-	0:04:08.981000	0:04:10.190000
 die	-	-	-	0:04:08.981000	0:04:10.190000
 Wörter	-	-	-	0:04:08.981000	0:04:10.190000
 ,	-	-	-	0:04:08.981000	0:04:10.190000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:08.981000" end="0:04:10.190000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:08.981000" end="0:04:10.190000" age_lower="1" age_upper="999">
 im	-	-	-	0:04:08.981000	0:04:10.190000
 Dialekt	-	-	-	0:04:08.981000	0:04:10.190000
 .	-	-	-	0:04:08.981000	0:04:10.190000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:10.190000" end="0:04:13.954000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:10.190000" end="0:04:13.954000" age_lower="18" age_upper="35">
 die	-	-	-	0:04:10.190000	0:04:11.575000
 kenne	-	-	-	0:04:10.190000	0:04:11.575000
 ich	-	-	-	0:04:10.190000	0:04:11.575000
@@ -1151,11 +1151,11 @@ so	-	-	-	0:04:11.575000	0:04:13.954000
 in	-	-	-	0:04:11.575000	0:04:13.954000
 /,	-	-	-	0:04:11.575000	0:04:13.954000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:11.575000" end="0:04:13.954000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:11.575000" end="0:04:13.954000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:11.575000	0:04:13.954000
 .	-	-	-	0:04:11.575000	0:04:13.954000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:13.954000" end="0:04:18.254000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:13.954000" end="0:04:18.254000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:04:13.954000	0:04:17.553000
 ich	-	-	-	0:04:13.954000	0:04:17.553000
 Dialekt	-	-	-	0:04:13.954000	0:04:17.553000
@@ -1172,22 +1172,22 @@ gar	-	-	-	0:04:13.954000	0:04:17.553000
 nicht	-	-	-	0:04:17.553000	0:04:18.254000
 .	-	-	-	0:04:17.553000	0:04:18.254000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:17.553000" end="0:04:18.254000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:17.553000" end="0:04:18.254000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:17.553000	0:04:18.254000
 ,	-	-	-	0:04:17.553000	0:04:18.254000
 ja	-	-	-	0:04:17.553000	0:04:18.254000
 .	-	-	-	0:04:17.553000	0:04:18.254000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:18.254000" end="0:04:18.781000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:18.254000" end="0:04:18.781000" age_lower="18" age_upper="35">
 denn	-	-	-	0:04:18.254000	0:04:18.781000
 die	-	-	-	0:04:18.254000	0:04:18.781000
 ,	-	-	-	0:04:18.254000	0:04:18.781000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:18.254000" end="0:04:18.781000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:18.254000" end="0:04:18.781000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:18.254000	0:04:18.781000
 .	-	-	-	0:04:18.254000	0:04:18.781000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:18.781000" end="0:04:22.993000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:18.781000" end="0:04:22.993000" age_lower="18" age_upper="35">
 die	-	-	-	0:04:18.781000	0:04:20.542000
 ich	-	-	-	0:04:18.781000	0:04:20.542000
 so	-	-	-	0:04:18.781000	0:04:20.542000
@@ -1206,17 +1206,17 @@ normalen	-	-	-	0:04:20.542000	0:04:22.993000
 Deutsch	-	-	-	0:04:20.542000	0:04:22.993000
 .	-	-	-	0:04:20.542000	0:04:22.993000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:22.993000" end="0:04:23.584000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:22.993000" end="0:04:23.584000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:22.993000	0:04:23.584000
 .	-	-	-	0:04:22.993000	0:04:23.584000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:23.584000" end="0:04:24.724000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:23.584000" end="0:04:24.724000" age_lower="18" age_upper="35">
 und	-	-	-	0:04:23.584000	0:04:24.039000
 /,	-	-	-	0:04:23.584000	0:04:24.039000
 ja	-	-	-	0:04:24.039000	0:04:24.724000
 .	-	-	-	0:04:24.039000	0:04:24.724000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:24.039000" end="0:04:35.896000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:24.039000" end="0:04:35.896000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:24.039000	0:04:24.724000
 .	-	-	-	0:04:24.039000	0:04:24.724000
 ja	-	-	-	0:04:24.724000	0:04:26.433000
@@ -1259,12 +1259,12 @@ da	-	-	-	0:04:32.766000	0:04:35.896000
 einschätzen	-	-	-	0:04:32.766000	0:04:35.896000
 ?	-	-	-	0:04:32.766000	0:04:35.896000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:35.896000" end="0:04:36.766000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:35.896000" end="0:04:36.766000" age_lower="18" age_upper="35">
 so	-	-	-	0:04:35.896000	0:04:36.766000
 (ankreuzen)	-	-	-	0:04:35.896000	0:04:36.766000
 ?	-	-	-	0:04:35.896000	0:04:36.766000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:35.896000" end="0:04:41.330000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:35.896000" end="0:04:41.330000" age_lower="1" age_upper="999">
 zwischen	-	-	-	0:04:35.896000	0:04:36.766000
 gar	-	-	-	0:04:35.896000	0:04:36.766000
 nicht	-	-	-	0:04:35.896000	0:04:36.766000
@@ -1281,7 +1281,7 @@ was	-	-	-	0:04:36.766000	0:04:41.330000
 was	-	-	-	0:04:36.766000	0:04:41.330000
 /?	-	-	-	0:04:36.766000	0:04:41.330000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:41.330000" end="0:04:44.372000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:41.330000" end="0:04:44.372000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:04:41.330000	0:04:43.260000
 in	-	-	-	0:04:41.330000	0:04:43.260000
 der	-	-	-	0:04:41.330000	0:04:43.260000
@@ -1291,7 +1291,7 @@ da	-	-	-	0:04:43.260000	0:04:44.372000
 ich	-	-	-	0:04:43.260000	0:04:44.372000
 ,	-	-	-	0:04:43.260000	0:04:44.372000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:43.260000" end="0:04:45.766000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:43.260000" end="0:04:45.766000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:43.260000	0:04:44.372000
 .	-	-	-	0:04:43.260000	0:04:44.372000
 mhm	-	-	-	0:04:44.372000	0:04:45.766000
@@ -1300,7 +1300,7 @@ mhm	-	-	-	0:04:44.372000	0:04:45.766000
 ja	-	-	-	0:04:44.372000	0:04:45.766000
 .	-	-	-	0:04:44.372000	0:04:45.766000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:45.766000" end="0:04:47.712000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:45.766000" end="0:04:47.712000" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:45.766000	0:04:46.996000
 ,	-	-	-	0:04:45.766000	0:04:46.996000
 immer	-	-	-	0:04:45.766000	0:04:46.996000
@@ -1311,7 +1311,7 @@ gleich	-	-	-	0:04:46.996000	0:04:47.712000
 weiter	-	-	-	0:04:46.996000	0:04:47.712000
 ?	-	-	-	0:04:46.996000	0:04:47.712000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:46.996000" end="0:04:53.832000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:46.996000" end="0:04:53.832000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:46.996000	0:04:47.712000
 .	-	-	-	0:04:46.996000	0:04:47.712000
 mhm	-	-	-	0:04:47.712000	0:04:48.545000
@@ -1340,12 +1340,12 @@ Dialekt	-	-	-	0:04:50.672000	0:04:53.832000
 verstehen	-	-	-	0:04:50.672000	0:04:53.832000
 ?	-	-	-	0:04:50.672000	0:04:53.832000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:53.832000" end="0:04:54.490000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:04:53.832000" end="0:04:54.490000" age_lower="18" age_upper="35">
 schon	-	-	-	0:04:53.832000	0:04:54.490000
 gut	-	-	-	0:04:53.832000	0:04:54.490000
 .	-	-	-	0:04:53.832000	0:04:54.490000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:54.490000" end="0:05:02.842000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:04:54.490000" end="0:05:02.842000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:54.490000	0:04:55.090000
 .	-	-	-	0:04:54.490000	0:04:55.090000
 ja	-	-	-	0:04:55.090000	0:04:56.663000
@@ -1364,10 +1364,10 @@ gut	-	-	-	0:04:59.215000	0:05:02.842000
 ähm	-	-	-	0:04:59.215000	0:05:02.842000
 /.	-	-	-	0:04:59.215000	0:05:02.842000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:02.842000" end="0:05:06.539000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:02.842000" end="0:05:06.539000" age_lower="18" age_upper="35">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:02.842000" end="0:05:13.396000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:02.842000" end="0:05:13.396000" age_lower="1" age_upper="999">
 <pause duration="3,7s"/>
 wie	-	-	-	0:05:06.539000	0:05:08.578000
 würden	-	-	-	0:05:06.539000	0:05:08.578000
@@ -1394,13 +1394,13 @@ alten	-	-	-	0:05:08.578000	0:05:13.396000
 Leute	-	-	-	0:05:08.578000	0:05:13.396000
 ?	-	-	-	0:05:08.578000	0:05:13.396000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:13.396000" end="0:05:15.278000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:13.396000" end="0:05:15.278000" age_lower="18" age_upper="35">
 nein	-	-	-	0:05:13.396000	0:05:15.278000
 ,	-	-	-	0:05:13.396000	0:05:15.278000
 nein	-	-	-	0:05:13.396000	0:05:15.278000
 .	-	-	-	0:05:13.396000	0:05:15.278000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:13.396000" end="0:05:15.278000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:13.396000" end="0:05:15.278000" age_lower="1" age_upper="999">
 oder	-	-	-	0:05:13.396000	0:05:15.278000
 ist	-	-	-	0:05:13.396000	0:05:15.278000
 Ihnen	-	-	-	0:05:13.396000	0:05:15.278000
@@ -1410,14 +1410,14 @@ nicht	-	-	-	0:05:13.396000	0:05:15.278000
 so	-	-	-	0:05:13.396000	0:05:15.278000
 wichtig	-	-	-	0:05:13.396000	0:05:15.278000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:15.278000" end="0:05:16.478000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:15.278000" end="0:05:16.478000" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:05:15.278000	0:05:16.478000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:15.278000" end="0:05:16.478000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:15.278000" end="0:05:16.478000" age_lower="1" age_upper="999">
 eigentlich	-	-	-	0:05:15.278000	0:05:16.478000
 ?	-	-	-	0:05:15.278000	0:05:16.478000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:16.478000" end="0:05:20.027000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:16.478000" end="0:05:20.027000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ist	-	-	-	0:05:16.478000	0:05:18.878000
 mir	-	-	-	0:05:16.478000	0:05:18.878000
@@ -1432,11 +1432,11 @@ das	-	-	-	0:05:18.884000	0:05:20.027000
 so	-	-	-	0:05:18.884000	0:05:20.027000
 ,	-	-	-	0:05:18.884000	0:05:20.027000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:18.884000" end="0:05:20.027000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:18.884000" end="0:05:20.027000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:18.884000	0:05:20.027000
 .	-	-	-	0:05:18.884000	0:05:20.027000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:20.027000" end="0:05:25.118000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:20.027000" end="0:05:25.118000" age_lower="18" age_upper="35">
 die	-	-	-	0:05:20.027000	0:05:23.675000
 sollen	-	-	-	0:05:20.027000	0:05:23.675000
 /,	-	-	-	0:05:20.027000	0:05:23.675000
@@ -1457,11 +1457,11 @@ das	-	-	-	0:05:23.675000	0:05:25.118000
 ,	-	-	-	0:05:23.675000	0:05:25.118000
 aber	-	-	-	0:05:23.675000	0:05:25.118000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:25.118000" end="0:05:25.515000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:25.118000" end="0:05:25.515000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:25.118000	0:05:25.515000
 .	-	-	-	0:05:25.118000	0:05:25.515000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:25.515000" end="0:05:29.887000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:25.515000" end="0:05:29.887000" age_lower="18" age_upper="35">
 man	-	-	-	0:05:25.515000	0:05:27.975000
 sollte	-	-	-	0:05:25.515000	0:05:27.975000
 vielleicht	-	-	-	0:05:25.515000	0:05:27.975000
@@ -1479,11 +1479,11 @@ Dorf	-	-	-	0:05:27.975000	0:05:29.887000
 ja	-	-	-	0:05:27.975000	0:05:29.887000
 ?	-	-	-	0:05:27.975000	0:05:29.887000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:29.887000" end="0:05:30.260000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:29.887000" end="0:05:30.260000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:29.887000	0:05:30.260000
 .	-	-	-	0:05:29.887000	0:05:30.260000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:30.260000" end="0:05:37.978000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:30.260000" end="0:05:37.978000" age_lower="18" age_upper="35">
 und	-	-	-	0:05:30.260000	0:05:33.406000
 wir	-	-	-	0:05:30.260000	0:05:33.406000
 /,	-	-	-	0:05:30.260000	0:05:33.406000
@@ -1510,17 +1510,17 @@ sprechen	-	-	-	0:05:33.406000	0:05:37.978000
 können	-	-	-	0:05:33.406000	0:05:37.978000
 .	-	-	-	0:05:33.406000	0:05:37.978000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:37.978000" end="0:05:38.645000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:37.978000" end="0:05:38.645000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:37.978000	0:05:38.645000
 ,	-	-	-	0:05:37.978000	0:05:38.645000
 ja	-	-	-	0:05:37.978000	0:05:38.645000
 ,	-	-	-	0:05:37.978000	0:05:38.645000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:38.645000" end="0:05:39.360000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:38.645000" end="0:05:39.360000" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:38.645000	0:05:39.360000
 .	-	-	-	0:05:38.645000	0:05:39.360000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:38.645000" end="0:05:41.124000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:38.645000" end="0:05:41.124000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:38.645000	0:05:39.360000
 ,	-	-	-	0:05:38.645000	0:05:39.360000
 ja	-	-	-	0:05:38.645000	0:05:39.360000
@@ -1532,37 +1532,37 @@ mhm	-	-	-	0:05:39.360000	0:05:41.124000
 mhm	-	-	-	0:05:39.360000	0:05:41.124000
 .	-	-	-	0:05:39.360000	0:05:41.124000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:41.124000" end="0:05:42.621000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:41.124000" end="0:05:42.621000" age_lower="18" age_upper="35">
 es	-	-	-	0:05:41.124000	0:05:42.621000
 klingt	-	-	-	0:05:41.124000	0:05:42.621000
 schöner	-	-	-	0:05:41.124000	0:05:42.621000
 .	-	-	-	0:05:41.124000	0:05:42.621000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:42.621000" end="0:05:43.139000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:42.621000" end="0:05:43.139000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:42.621000	0:05:43.139000
 .	-	-	-	0:05:42.621000	0:05:43.139000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:43.139000" end="0:05:43.993000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:43.139000" end="0:05:43.993000" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:43.139000	0:05:43.993000
 .	-	-	-	0:05:43.139000	0:05:43.993000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:43.993000" end="0:05:44.703000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:43.993000" end="0:05:44.703000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:43.993000	0:05:44.703000
 .	-	-	-	0:05:43.993000	0:05:44.703000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:44.703000" end="0:05:45.957000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:44.703000" end="0:05:45.957000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:44.703000" end="0:05:47.427000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:44.703000" end="0:05:47.427000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 gut	-	-	-	0:05:45.957000	0:05:47.427000
 ähm	-	-	-	0:05:45.957000	0:05:47.427000
 /.	-	-	-	0:05:45.957000	0:05:47.427000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:47.427000" end="0:05:48.760000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:47.427000" end="0:05:48.760000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:47.427000" end="0:05:51.236000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:47.427000" end="0:05:51.236000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 sprechen	-	-	-	0:05:48.760000	0:05:51.236000
 Sie	-	-	-	0:05:48.760000	0:05:51.236000
@@ -1570,20 +1570,20 @@ gerne	-	-	-	0:05:48.760000	0:05:51.236000
 Dialekt	-	-	-	0:05:48.760000	0:05:51.236000
 ?	-	-	-	0:05:48.760000	0:05:51.236000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:51.236000" end="0:05:51.909000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:51.236000" end="0:05:51.909000" age_lower="18" age_upper="35">
 mm	-	-	-	0:05:51.236000	0:05:51.909000
 .	-	-	-	0:05:51.236000	0:05:51.909000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:51.909000" end="0:05:52.490000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:51.909000" end="0:05:52.490000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:05:51.909000	0:05:52.490000
 so	-	-	-	0:05:51.909000	0:05:52.490000
 ?	-	-	-	0:05:51.909000	0:05:52.490000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:52.490000" end="0:05:53.106000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:52.490000" end="0:05:53.106000" age_lower="18" age_upper="35">
 mm	-	-	-	0:05:52.490000	0:05:53.106000
 .	-	-	-	0:05:52.490000	0:05:53.106000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:52.490000" end="0:05:53.642000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:52.490000" end="0:05:53.642000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:52.490000	0:05:53.106000
 .	-	-	-	0:05:52.490000	0:05:53.106000
 gar	-	-	-	0:05:53.106000	0:05:53.642000
@@ -1591,11 +1591,11 @@ nicht	-	-	-	0:05:53.106000	0:05:53.642000
 s/	-	-	-	0:05:53.106000	0:05:53.642000
 /?	-	-	-	0:05:53.106000	0:05:53.642000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:53.642000" end="0:05:54.745000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:53.642000" end="0:05:54.745000" age_lower="18" age_upper="35">
 nein	-	-	-	0:05:53.642000	0:05:54.745000
 .	-	-	-	0:05:53.642000	0:05:54.745000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:53.642000" end="0:05:55.390000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:53.642000" end="0:05:55.390000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:53.642000	0:05:54.745000
 ,	-	-	-	0:05:53.642000	0:05:54.745000
 mhm	-	-	-	0:05:53.642000	0:05:54.745000
@@ -1603,10 +1603,10 @@ mhm	-	-	-	0:05:53.642000	0:05:54.745000
 mhm	-	-	-	0:05:54.745000	0:05:55.390000
 .	-	-	-	0:05:54.745000	0:05:55.390000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:55.390000" end="0:05:56.215000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:55.390000" end="0:05:56.215000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:55.390000" end="0:05:59.884000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:55.390000" end="0:05:59.884000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:05:56.215000	0:05:57.187000
 /.	-	-	-	0:05:56.215000	0:05:57.187000
@@ -1621,11 +1621,11 @@ Situationen	-	-	-	0:05:58.260000	0:05:59.884000
 ha/	-	-	-	0:05:58.260000	0:05:59.884000
 /,	-	-	-	0:05:58.260000	0:05:59.884000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:59.884000" end="0:06:01.627000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:05:59.884000" end="0:06:01.627000" age_lower="18" age_upper="35">
 ja	-	-	-	0:05:59.884000	0:06:01.627000
 .	-	-	-	0:05:59.884000	0:06:01.627000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:59.884000" end="0:06:05.239000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:05:59.884000" end="0:06:05.239000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:05:59.884000	0:06:01.627000
 haben	-	-	-	0:05:59.884000	0:06:01.627000
 es	-	-	-	0:05:59.884000	0:06:01.627000
@@ -1646,13 +1646,13 @@ allem	-	-	-	0:06:01.627000	0:06:05.239000
 Dialekt	-	-	-	0:06:01.627000	0:06:05.239000
 ?	-	-	-	0:06:01.627000	0:06:05.239000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:05.239000" end="0:06:05.815000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:05.239000" end="0:06:05.815000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:05.239000" end="0:06:05.815000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:05.239000" end="0:06:05.815000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:05.815000" end="0:06:08.118000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:05.815000" end="0:06:08.118000" age_lower="18" age_upper="35">
 zuhause	-	-	-	0:06:05.815000	0:06:06.412000
 ,	-	-	-	0:06:05.815000	0:06:06.412000
 eigentlich	-	-	-	0:06:06.412000	0:06:08.118000
@@ -1661,7 +1661,7 @@ nur	-	-	-	0:06:06.412000	0:06:08.118000
 zuhause	-	-	-	0:06:06.412000	0:06:08.118000
 .	-	-	-	0:06:06.412000	0:06:08.118000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:06.412000" end="0:06:08.118000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:06.412000" end="0:06:08.118000" age_lower="1" age_upper="999">
 es	-	-	-	0:06:06.412000	0:06:08.118000
 ist	-	-	-	0:06:06.412000	0:06:08.118000
 nu/	-	-	-	0:06:06.412000	0:06:08.118000
@@ -1669,7 +1669,7 @@ nur	-	-	-	0:06:06.412000	0:06:08.118000
 zuhause	-	-	-	0:06:06.412000	0:06:08.118000
 ?	-	-	-	0:06:06.412000	0:06:08.118000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:08.118000" end="0:06:11.336000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:08.118000" end="0:06:11.336000" age_lower="18" age_upper="35">
 das	-	-	-	0:06:08.118000	0:06:10.045000
 Ding	-	-	-	0:06:08.118000	0:06:10.045000
 ist	-	-	-	0:06:08.118000	0:06:10.045000
@@ -1677,10 +1677,10 @@ ist	-	-	-	0:06:08.118000	0:06:10.045000
 ,	-	-	-	0:06:08.118000	0:06:10.045000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:10.045000" end="0:06:11.336000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:10.045000" end="0:06:11.336000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:11.336000" end="0:06:20.696000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:11.336000" end="0:06:20.696000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:06:11.336000	0:06:14.581000
 ich	-	-	-	0:06:11.336000	0:06:14.581000
 jetzt	-	-	-	0:06:11.336000	0:06:14.581000
@@ -1718,20 +1718,20 @@ immer	-	-	-	0:06:18.736000	0:06:20.118000
 so	-	-	-	0:06:18.736000	0:06:20.118000
 so	-	-	-	0:06:20.118000	0:06:20.696000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:20.118000" end="0:06:20.696000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:20.118000" end="0:06:20.696000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:20.118000	0:06:20.696000
 .	-	-	-	0:06:20.118000	0:06:20.696000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:20.696000" end="0:06:21.600000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:20.696000" end="0:06:21.600000" age_lower="18" age_upper="35">
 komisch	-	-	-	0:06:20.696000	0:06:21.600000
 so	-	-	-	0:06:20.696000	0:06:21.600000
 .	-	-	-	0:06:20.696000	0:06:21.600000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:21.600000" end="0:06:22.209000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:21.600000" end="0:06:22.209000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:21.600000	0:06:22.209000
 .	-	-	-	0:06:21.600000	0:06:22.209000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:22.209000" end="0:06:23.490000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:22.209000" end="0:06:23.490000" age_lower="18" age_upper="35">
 "was	-	-	-	0:06:22.209000	0:06:23.490000
 ist	-	-	-	0:06:22.209000	0:06:23.490000
 mit	-	-	-	0:06:22.209000	0:06:23.490000
@@ -1739,11 +1739,11 @@ der	-	-	-	0:06:22.209000	0:06:23.490000
 los	-	-	-	0:06:22.209000	0:06:23.490000
 ,	-	-	-	0:06:22.209000	0:06:23.490000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:22.209000" end="0:06:23.490000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:22.209000" end="0:06:23.490000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:22.209000	0:06:23.490000
 .	-	-	-	0:06:22.209000	0:06:23.490000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:23.490000" end="0:06:25.596000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:23.490000" end="0:06:25.596000" age_lower="18" age_upper="35">
 die	-	-	-	0:06:23.490000	0:06:25.596000
 kann	-	-	-	0:06:23.490000	0:06:25.596000
 auch	-	-	-	0:06:23.490000	0:06:25.596000
@@ -1753,7 +1753,7 @@ uns	-	-	-	0:06:23.490000	0:06:25.596000
 sprechen"	-	-	-	0:06:23.490000	0:06:25.596000
 .	-	-	-	0:06:23.490000	0:06:25.596000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:23.490000" end="0:06:26.384000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:23.490000" end="0:06:26.384000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:23.490000	0:06:25.596000
 .	-	-	-	0:06:23.490000	0:06:25.596000
 ja	-	-	-	0:06:25.596000	0:06:26.384000
@@ -1761,20 +1761,20 @@ ja	-	-	-	0:06:25.596000	0:06:26.384000
 ja	-	-	-	0:06:25.596000	0:06:26.384000
 ,	-	-	-	0:06:25.596000	0:06:26.384000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:26.384000" end="0:06:27.339000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:26.384000" end="0:06:27.339000" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:26.384000	0:06:27.339000
 ,	-	-	-	0:06:26.384000	0:06:27.339000
 aber	-	-	-	0:06:26.384000	0:06:27.339000
 ich	-	-	-	0:06:26.384000	0:06:27.339000
 /.	-	-	-	0:06:26.384000	0:06:27.339000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:26.384000" end="0:06:27.339000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:26.384000" end="0:06:27.339000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:26.384000	0:06:27.339000
 ,	-	-	-	0:06:26.384000	0:06:27.339000
 ja	-	-	-	0:06:26.384000	0:06:27.339000
 .	-	-	-	0:06:26.384000	0:06:27.339000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:27.339000" end="0:06:33.618000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:27.339000" end="0:06:33.618000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 das	-	-	-	0:06:27.339000	0:06:33.618000
 kommt	-	-	-	0:06:27.339000	0:06:33.618000
@@ -1801,7 +1801,7 @@ nur	-	-	-	0:06:27.339000	0:06:33.618000
 so	-	-	-	0:06:27.339000	0:06:33.618000
 .	-	-	-	0:06:27.339000	0:06:33.618000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:33.618000" end="0:06:41.445000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:33.618000" end="0:06:41.445000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:33.618000	0:06:35.603000
 ,	-	-	-	0:06:33.618000	0:06:35.603000
 mhm	-	-	-	0:06:33.618000	0:06:35.603000
@@ -1830,7 +1830,7 @@ der	-	-	-	0:06:38.206000	0:06:41.445000
 Volksschule	-	-	-	0:06:38.206000	0:06:41.445000
 ?	-	-	-	0:06:38.206000	0:06:41.445000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:41.445000" end="0:06:43.939000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:41.445000" end="0:06:43.939000" age_lower="18" age_upper="35">
 Genau	-	-	-	0:06:41.445000	0:06:43.939000
 ,	-	-	-	0:06:41.445000	0:06:43.939000
 Volksschule	-	-	-	0:06:41.445000	0:06:43.939000
@@ -1840,7 +1840,7 @@ in	-	-	-	0:06:41.445000	0:06:43.939000
 ORT	ORT	-	-	0:06:41.445000	0:06:43.939000
 .	-	-	-	0:06:41.445000	0:06:43.939000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:41.445000" end="0:06:43.939000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:41.445000" end="0:06:43.939000" age_lower="1" age_upper="999">
 oder	-	-	-	0:06:41.445000	0:06:43.939000
 /?	-	-	-	0:06:41.445000	0:06:43.939000
 genau	-	-	-	0:06:41.445000	0:06:43.939000
@@ -1848,16 +1848,16 @@ genau	-	-	-	0:06:41.445000	0:06:43.939000
 ORT	ORT	-	-	0:06:41.445000	0:06:43.939000
 .	-	-	-	0:06:41.445000	0:06:43.939000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:43.939000" end="0:06:45.100000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:43.939000" end="0:06:45.100000" age_lower="18" age_upper="35">
 dann	-	-	-	0:06:43.939000	0:06:45.100000
 ging	-	-	-	0:06:43.939000	0:06:45.100000
 ich	-	-	-	0:06:43.939000	0:06:45.100000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:43.939000" end="0:06:45.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:43.939000" end="0:06:45.100000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:43.939000	0:06:45.100000
 .	-	-	-	0:06:43.939000	0:06:45.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:45.100000" end="0:06:47.096000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:45.100000" end="0:06:47.096000" age_lower="18" age_upper="35">
 nach	-	-	-	0:06:45.100000	0:06:47.096000
 ORT	ORT	-	-	0:06:45.100000	0:06:47.096000
 ,	-	-	-	0:06:45.100000	0:06:47.096000
@@ -1865,11 +1865,11 @@ nach	-	-	-	0:06:45.100000	0:06:47.096000
 ORT	ORT	-	-	0:06:45.100000	0:06:47.096000
 ,	-	-	-	0:06:45.100000	0:06:47.096000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:47.096000" end="0:06:47.451000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:47.096000" end="0:06:47.451000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:47.096000	0:06:47.451000
 .	-	-	-	0:06:47.096000	0:06:47.451000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:47.451000" end="0:06:49.239000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:47.451000" end="0:06:49.239000" age_lower="18" age_upper="35">
 in	-	-	-	0:06:47.451000	0:06:49.239000
 die	-	-	-	0:06:47.451000	0:06:49.239000
 SONSTIGE	SONSTIGE	-	-	0:06:47.451000	0:06:49.239000
@@ -1879,22 +1879,22 @@ nach	-	-	-	0:06:47.451000	0:06:49.239000
 ORT	ORT	-	-	0:06:47.451000	0:06:49.239000
 .	-	-	-	0:06:47.451000	0:06:49.239000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:49.239000" end="0:06:50.200000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:49.239000" end="0:06:50.200000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:06:49.239000	0:06:50.200000
 okay	-	-	-	0:06:49.239000	0:06:50.200000
 .	-	-	-	0:06:49.239000	0:06:50.200000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:50.200000" end="0:06:51.096000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:50.200000" end="0:06:51.096000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:06:50.200000	0:06:51.096000
 .	-	-	-	0:06:50.200000	0:06:51.096000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:50.200000" end="0:06:51.096000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:50.200000" end="0:06:51.096000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:50.200000	0:06:51.096000
 .	-	-	-	0:06:50.200000	0:06:51.096000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:51.096000" end="0:06:54.118000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:51.096000" end="0:06:54.118000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:51.096000" end="0:06:57.372000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:51.096000" end="0:06:57.372000" age_lower="1" age_upper="999">
 das	-	-	-	0:06:51.096000	0:06:54.118000
 heißt	-	-	-	0:06:51.096000	0:06:54.118000
 ,	-	-	-	0:06:51.096000	0:06:54.118000
@@ -1916,11 +1916,11 @@ Schulfreunden	-	-	-	0:06:54.118000	0:06:57.372000
 aus	-	-	-	0:06:54.118000	0:06:57.372000
 [Passail]O	-	-	-	0:06:54.118000	0:06:57.372000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:57.372000" end="0:06:58.215000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:06:57.372000" end="0:06:58.215000" age_lower="18" age_upper="35">
 nein	-	-	-	0:06:57.372000	0:06:58.215000
 .	-	-	-	0:06:57.372000	0:06:58.215000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:57.372000" end="0:07:01.427000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:06:57.372000" end="0:07:01.427000" age_lower="1" age_upper="999">
 oder	-	-	-	0:06:57.372000	0:06:58.215000
 /?	-	-	-	0:06:57.372000	0:06:58.215000
 gar	-	-	-	0:06:57.372000	0:06:58.215000
@@ -1938,11 +1938,11 @@ mit	-	-	-	0:06:58.215000	0:07:01.427000
 den	-	-	-	0:06:58.215000	0:07:01.427000
 neuen	-	-	-	0:06:58.215000	0:07:01.427000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:01.427000" end="0:07:02.178000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:01.427000" end="0:07:02.178000" age_lower="18" age_upper="35">
 genau	-	-	-	0:07:01.427000	0:07:02.178000
 .	-	-	-	0:07:01.427000	0:07:02.178000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:01.427000" end="0:07:03.760000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:01.427000" end="0:07:03.760000" age_lower="1" age_upper="999">
 Kontakten	-	-	-	0:07:01.427000	0:07:02.178000
 .	-	-	-	0:07:01.427000	0:07:02.178000
 okay	-	-	-	0:07:02.178000	0:07:03.760000
@@ -1952,19 +1952,19 @@ mhm	-	-	-	0:07:02.178000	0:07:03.760000
 mhm	-	-	-	0:07:02.178000	0:07:03.760000
 .	-	-	-	0:07:02.178000	0:07:03.760000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:03.760000" end="0:07:04.863000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:03.760000" end="0:07:04.863000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:03.760000" end="0:07:06.360000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:03.760000" end="0:07:06.360000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 gut	-	-	-	0:07:04.863000	0:07:06.360000
 ähm	-	-	-	0:07:04.863000	0:07:06.360000
 /.	-	-	-	0:07:04.863000	0:07:06.360000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:06.360000" end="0:07:07.535000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:06.360000" end="0:07:07.535000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:06.360000" end="0:07:13.645000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:06.360000" end="0:07:13.645000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 wenn	-	-	-	0:07:07.536000	0:07:10.351000
 Sie	-	-	-	0:07:07.536000	0:07:10.351000
@@ -1988,10 +1988,10 @@ Sie	-	-	-	0:07:11.363000	0:07:13.645000
 Dialekt	-	-	-	0:07:11.363000	0:07:13.645000
 ?	-	-	-	0:07:11.363000	0:07:13.645000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:13.645000" end="0:07:15.766000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:13.645000" end="0:07:15.766000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:13.645000" end="0:07:18.021000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:13.645000" end="0:07:18.021000" age_lower="1" age_upper="999">
 <pause duration="2,1s"/>
 so	-	-	-	0:07:15.766000	0:07:18.021000
 ,	-	-	-	0:07:15.766000	0:07:18.021000
@@ -2007,11 +2007,11 @@ nur	-	-	-	0:07:15.766000	0:07:18.021000
 in	-	-	-	0:07:15.766000	0:07:18.021000
 der	-	-	-	0:07:15.766000	0:07:18.021000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:18.021000" end="0:07:19.384000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:18.021000" end="0:07:19.384000" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:18.021000	0:07:19.384000
 .	-	-	-	0:07:18.021000	0:07:19.384000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:18.021000" end="0:07:21.790000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:18.021000" end="0:07:21.790000" age_lower="1" age_upper="999">
 Familie	-	-	-	0:07:18.021000	0:07:19.384000
 ,	-	-	-	0:07:18.021000	0:07:19.384000
 kann	-	-	-	0:07:19.384000	0:07:21.790000
@@ -2025,25 +2025,25 @@ irgendwie	-	-	-	0:07:19.384000	0:07:21.790000
 einschätzen	-	-	-	0:07:19.384000	0:07:21.790000
 ,	-	-	-	0:07:19.384000	0:07:21.790000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:21.790000" end="0:07:22.954000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:21.790000" end="0:07:22.954000" age_lower="18" age_upper="35">
 naja	-	-	-	0:07:21.790000	0:07:22.954000
 .	-	-	-	0:07:21.790000	0:07:22.954000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:21.790000" end="0:07:22.954000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:21.790000" end="0:07:22.954000" age_lower="1" age_upper="999">
 wie	-	-	-	0:07:21.790000	0:07:22.954000
 viel	-	-	-	0:07:21.790000	0:07:22.954000
 das	-	-	-	0:07:21.790000	0:07:22.954000
 /?	-	-	-	0:07:21.790000	0:07:22.954000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:22.954000" end="0:07:26.215000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:22.954000" end="0:07:26.215000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:07:22.954000	0:07:24.178000
 /.	-	-	-	0:07:22.954000	0:07:24.178000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:24.178000" end="0:07:26.215000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:24.178000" end="0:07:26.215000" age_lower="1" age_upper="999">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:26.215000" end="0:07:33.493000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:26.215000" end="0:07:33.493000" age_lower="18" age_upper="35">
 ich	-	-	-	0:07:26.215000	0:07:31.415000
 glaube	-	-	-	0:07:26.215000	0:07:31.415000
 ,	-	-	-	0:07:26.215000	0:07:31.415000
@@ -2071,11 +2071,11 @@ bin	-	-	-	0:07:31.415000	0:07:32.954000
 ich	-	-	-	0:07:32.954000	0:07:33.493000
 bin	-	-	-	0:07:32.954000	0:07:33.493000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:32.954000" end="0:07:33.493000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:32.954000" end="0:07:33.493000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:32.954000	0:07:33.493000
 .	-	-	-	0:07:32.954000	0:07:33.493000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:33.493000" end="0:07:35.866000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:33.493000" end="0:07:35.866000" age_lower="18" age_upper="35">
 bis	-	-	-	0:07:33.493000	0:07:34.842000
 vier	-	-	-	0:07:33.493000	0:07:34.842000
 in	-	-	-	0:07:33.493000	0:07:34.842000
@@ -2085,7 +2085,7 @@ Schule	-	-	-	0:07:33.493000	0:07:34.842000
 und	-	-	-	0:07:34.842000	0:07:35.866000
 /.	-	-	-	0:07:34.842000	0:07:35.866000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:34.842000" end="0:07:36.803000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:34.842000" end="0:07:36.803000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:34.842000	0:07:35.866000
 .	-	-	-	0:07:34.842000	0:07:35.866000
 und	-	-	-	0:07:35.866000	0:07:36.803000
@@ -2094,11 +2094,11 @@ noch	-	-	-	0:07:35.866000	0:07:36.803000
 der	-	-	-	0:07:35.866000	0:07:36.803000
 weite	-	-	-	0:07:35.866000	0:07:36.803000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:36.803000" end="0:07:37.636000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:36.803000" end="0:07:37.636000" age_lower="18" age_upper="35">
 genau	-	-	-	0:07:36.803000	0:07:37.636000
 .	-	-	-	0:07:36.803000	0:07:37.636000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:36.803000" end="0:07:39.566000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:36.803000" end="0:07:39.566000" age_lower="1" age_upper="999">
 Heimweg	-	-	-	0:07:36.803000	0:07:37.636000
 und	-	-	-	0:07:36.803000	0:07:37.636000
 so	-	-	-	0:07:36.803000	0:07:37.636000
@@ -2114,10 +2114,10 @@ okay	-	-	-	0:07:37.636000	0:07:39.566000
 mhm	-	-	-	0:07:37.636000	0:07:39.566000
 .	-	-	-	0:07:37.636000	0:07:39.566000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:39.566000" end="0:07:40.257000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:39.566000" end="0:07:40.257000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:39.566000" end="0:07:46.442000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:39.566000" end="0:07:46.442000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 gut	-	-	-	0:07:40.257000	0:07:41.100000
 .	-	-	-	0:07:40.257000	0:07:41.100000
@@ -2135,10 +2135,10 @@ noch	-	-	-	0:07:43.975000	0:07:46.442000
 kurz	-	-	-	0:07:43.975000	0:07:46.442000
 /.	-	-	-	0:07:43.975000	0:07:46.442000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:46.442000" end="0:07:47.242000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:46.442000" end="0:07:47.242000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:46.442000" end="0:07:49.603000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:46.442000" end="0:07:49.603000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 also	-	-	-	0:07:47.242000	0:07:49.603000
 wie	-	-	-	0:07:47.242000	0:07:49.603000
@@ -2149,18 +2149,18 @@ Dialekt	-	-	-	0:07:47.242000	0:07:49.603000
 sprechen	-	-	-	0:07:47.242000	0:07:49.603000
 .	-	-	-	0:07:47.242000	0:07:49.603000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:49.603000" end="0:07:54.551000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:49.603000" end="0:07:54.551000" age_lower="18" age_upper="35">
 <pause duration="4,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:49.603000" end="0:07:54.551000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:49.603000" end="0:07:54.551000" age_lower="1" age_upper="999">
 <pause duration="4,9s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:54.551000" end="0:07:55.987000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:07:54.551000" end="0:07:55.987000" age_lower="18" age_upper="35">
 da	-	-	-	0:07:54.551000	0:07:55.987000
 .	-	-	-	0:07:54.551000	0:07:55.987000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:55.987000" end="0:08:00.672000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:07:55.987000" end="0:08:00.672000" age_lower="1" age_upper="999">
 passt	-	-	-	0:07:55.987000	0:07:57.659000
 ,	-	-	-	0:07:55.987000	0:07:57.659000
 okay	-	-	-	0:07:55.987000	0:07:57.659000
@@ -2171,10 +2171,10 @@ gut	-	-	-	0:07:57.659000	0:08:00.672000
 ähm	-	-	-	0:07:57.659000	0:08:00.672000
 /.	-	-	-	0:07:57.659000	0:08:00.672000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:00.672000" end="0:08:01.369000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:00.672000" end="0:08:01.369000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:00.672000" end="0:08:13.351000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:00.672000" end="0:08:13.351000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 würden	-	-	-	0:08:01.369000	0:08:02.142000
 Sie	-	-	-	0:08:01.369000	0:08:02.142000
@@ -2222,31 +2222,31 @@ passt	-	-	-	0:08:11.727000	0:08:13.351000
 ,	-	-	-	0:08:11.727000	0:08:13.351000
 Dialekt	-	-	-	0:08:11.727000	0:08:13.351000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:13.351000" end="0:08:14.706000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:13.351000" end="0:08:14.706000" age_lower="18" age_upper="35">
 zum	-	-	-	0:08:13.351000	0:08:14.706000
 Beispiel	-	-	-	0:08:13.351000	0:08:14.706000
 beim	-	-	-	0:08:13.351000	0:08:14.706000
 Schimpfen	-	-	-	0:08:13.351000	0:08:14.706000
 .	-	-	-	0:08:13.351000	0:08:14.706000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:13.351000" end="0:08:15.442000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:13.351000" end="0:08:15.442000" age_lower="1" age_upper="999">
 zu	-	-	-	0:08:13.351000	0:08:14.706000
 sprechen	-	-	-	0:08:13.351000	0:08:14.706000
 ?	-	-	-	0:08:13.351000	0:08:14.706000
 aha	-	-	-	0:08:14.706000	0:08:15.442000
 ,	-	-	-	0:08:14.706000	0:08:15.442000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:15.442000" end="0:08:16.681000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:15.442000" end="0:08:16.681000" age_lower="18" age_upper="35">
 ich	-	-	-	0:08:15.442000	0:08:16.681000
 finde	-	-	-	0:08:15.442000	0:08:16.681000
 das	-	-	-	0:08:15.442000	0:08:16.681000
 /,	-	-	-	0:08:15.442000	0:08:16.681000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:15.442000" end="0:08:16.681000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:15.442000" end="0:08:16.681000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:15.442000	0:08:16.681000
 .	-	-	-	0:08:15.442000	0:08:16.681000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:16.681000" end="0:08:20.369000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:16.681000" end="0:08:20.369000" age_lower="18" age_upper="35">
 man	-	-	-	0:08:16.681000	0:08:19.924000
 kann	-	-	-	0:08:16.681000	0:08:19.924000
 nur	-	-	-	0:08:16.681000	0:08:19.924000
@@ -2257,11 +2257,11 @@ Dialekt	-	-	-	0:08:16.681000	0:08:19.924000
 schimpfen	-	-	-	0:08:16.681000	0:08:19.924000
 .	-	-	-	0:08:16.681000	0:08:19.924000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:19.924000" end="0:08:20.369000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:19.924000" end="0:08:20.369000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:19.924000	0:08:20.369000
 .	-	-	-	0:08:19.924000	0:08:20.369000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:20.369000" end="0:08:29.978000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:20.369000" end="0:08:29.978000" age_lower="18" age_upper="35">
 so	-	-	-	0:08:20.369000	0:08:22.557000
 es	-	-	-	0:08:20.369000	0:08:22.557000
 gibt	-	-	-	0:08:20.369000	0:08:22.557000
@@ -2293,11 +2293,11 @@ würde	-	-	-	0:08:27.251000	0:08:29.251000
 /,	-	-	-	0:08:27.251000	0:08:29.251000
 also	-	-	-	0:08:29.251000	0:08:29.978000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:29.251000" end="0:08:29.978000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:29.251000" end="0:08:29.978000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:29.251000	0:08:29.978000
 .	-	-	-	0:08:29.251000	0:08:29.978000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:29.978000" end="0:08:36.893000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:29.978000" end="0:08:36.893000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:08:29.978000	0:08:32.436000
 übersetzen	-	-	-	0:08:29.978000	0:08:32.436000
 würde	-	-	-	0:08:29.978000	0:08:32.436000
@@ -2321,7 +2321,7 @@ Dialekt	-	-	-	0:08:32.436000	0:08:35.135000
 ja	-	-	-	0:08:35.135000	0:08:36.893000
 .	-	-	-	0:08:35.135000	0:08:36.893000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:35.135000" end="0:08:36.893000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:35.135000" end="0:08:36.893000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:35.135000	0:08:36.893000
 ,	-	-	-	0:08:35.135000	0:08:36.893000
 ja	-	-	-	0:08:35.135000	0:08:36.893000
@@ -2331,16 +2331,16 @@ ja	-	-	-	0:08:35.135000	0:08:36.893000
 okay	-	-	-	0:08:35.135000	0:08:36.893000
 .	-	-	-	0:08:35.135000	0:08:36.893000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:36.893000" end="0:08:38.196000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:36.893000" end="0:08:38.196000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:36.893000" end="0:08:38.196000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:36.893000" end="0:08:38.196000" age_lower="1" age_upper="999">
 gut	-	-	-	0:08:36.893000	0:08:38.196000
 .	-	-	-	0:08:36.893000	0:08:38.196000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:38.196000" end="0:08:38.986000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:38.196000" end="0:08:38.986000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:38.196000" end="0:08:47.251000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:38.196000" end="0:08:47.251000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:08:38.986000	0:08:40.681000
 würden	-	-	-	0:08:38.986000	0:08:40.681000
@@ -2369,7 +2369,7 @@ also	-	-	-	0:08:45.766000	0:08:47.251000
 wo	-	-	-	0:08:45.766000	0:08:47.251000
 wo	-	-	-	0:08:45.766000	0:08:47.251000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:47.251000" end="0:08:49.600000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:47.251000" end="0:08:49.600000" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:47.251000	0:08:49.600000
 zum	-	-	-	0:08:47.251000	0:08:49.600000
 Beisp/	-	-	-	0:08:47.251000	0:08:49.600000
@@ -2379,7 +2379,7 @@ man	-	-	-	0:08:47.251000	0:08:49.600000
 halt	-	-	-	0:08:47.251000	0:08:49.600000
 wirklich	-	-	-	0:08:47.251000	0:08:49.600000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:47.251000" end="0:08:49.600000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:47.251000" end="0:08:49.600000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:08:47.251000	0:08:49.600000
 sagen	-	-	-	0:08:47.251000	0:08:49.600000
 ,	-	-	-	0:08:47.251000	0:08:49.600000
@@ -2388,15 +2388,15 @@ ganz	-	-	-	0:08:47.251000	0:08:49.600000
 unpassend	-	-	-	0:08:47.251000	0:08:49.600000
 .	-	-	-	0:08:47.251000	0:08:49.600000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:49.600000" end="0:08:52" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:49.600000" end="0:08:52" age_lower="18" age_upper="35">
 mit	-	-	-	0:08:49.600000	0:08:50.172000
 /.	-	-	-	0:08:49.600000	0:08:50.172000
 <pause duration="1,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:50.172000" end="0:08:52" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:50.172000" end="0:08:52" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:52" end="0:08:59.954000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:52" end="0:08:59.954000" age_lower="18" age_upper="35">
 al/	-	-	-	0:08:52	0:08:54.436000
 das	-	-	-	0:08:52	0:08:54.436000
 klingt	-	-	-	0:08:52	0:08:54.436000
@@ -2428,21 +2428,21 @@ dann	-	-	-	0:08:59.290000	0:08:59.954000
 wäre	-	-	-	0:08:59.290000	0:08:59.954000
 es	-	-	-	0:08:59.290000	0:08:59.954000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:59.290000" end="0:08:59.954000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:08:59.290000" end="0:08:59.954000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:08:59.290000	0:08:59.954000
 .	-	-	-	0:08:59.290000	0:08:59.954000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:59.954000" end="0:09:01.387000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:08:59.954000" end="0:09:01.387000" age_lower="18" age_upper="35">
 angebracht	-	-	-	0:08:59.954000	0:09:00.703000
 .	-	-	-	0:08:59.954000	0:09:00.703000
 aber	-	-	-	0:09:00.703000	0:09:01.387000
 zum	-	-	-	0:09:00.703000	0:09:01.387000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:00.703000" end="0:09:01.387000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:00.703000" end="0:09:01.387000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:00.703000	0:09:01.387000
 .	-	-	-	0:09:00.703000	0:09:01.387000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:01.387000" end="0:09:07.227000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:01.387000" end="0:09:07.227000" age_lower="18" age_upper="35">
 Beispiel	-	-	-	0:09:01.387000	0:09:02.918000
 meine	-	-	-	0:09:01.387000	0:09:02.918000
 Schule	-	-	-	0:09:01.387000	0:09:02.918000
@@ -2465,11 +2465,11 @@ der	-	-	-	0:09:02.918000	0:09:07.227000
 Wirtschaft	-	-	-	0:09:02.918000	0:09:07.227000
 ,	-	-	-	0:09:02.918000	0:09:07.227000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:07.227000" end="0:09:07.863000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:07.227000" end="0:09:07.863000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:07.227000	0:09:07.863000
 .	-	-	-	0:09:07.227000	0:09:07.863000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:07.863000" end="0:09:10.509000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:07.863000" end="0:09:10.509000" age_lower="18" age_upper="35">
 na/	-	-	-	0:09:07.863000	0:09:09.993000
 da	-	-	-	0:09:07.863000	0:09:09.993000
 ist	-	-	-	0:09:07.863000	0:09:09.993000
@@ -2481,11 +2481,11 @@ angebracht	-	-	-	0:09:07.863000	0:09:09.993000
 .	-	-	-	0:09:07.863000	0:09:09.993000
 weil	-	-	-	0:09:09.993000	0:09:10.509000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:09.993000" end="0:09:10.509000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:09.993000" end="0:09:10.509000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:09.993000	0:09:10.509000
 .	-	-	-	0:09:09.993000	0:09:10.509000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:10.509000" end="0:09:13.421000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:10.509000" end="0:09:13.421000" age_lower="18" age_upper="35">
 weil	-	-	-	0:09:10.509000	0:09:12.687000
 die	-	-	-	0:09:10.509000	0:09:12.687000
 selbst	-	-	-	0:09:10.509000	0:09:12.687000
@@ -2499,7 +2499,7 @@ das	-	-	-	0:09:12.687000	0:09:13.421000
 dann	-	-	-	0:09:12.687000	0:09:13.421000
 /.	-	-	-	0:09:12.687000	0:09:13.421000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:12.687000" end="0:09:17.845000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:12.687000" end="0:09:17.845000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:12.687000	0:09:13.421000
 .	-	-	-	0:09:12.687000	0:09:13.421000
 mhm	-	-	-	0:09:13.421000	0:09:15.081000
@@ -2519,7 +2519,7 @@ Gäste	-	-	-	0:09:15.081000	0:09:17.845000
 ,	-	-	-	0:09:15.081000	0:09:17.845000
 die	-	-	-	0:09:15.081000	0:09:17.845000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:17.845000" end="0:09:19.048000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:17.845000" end="0:09:19.048000" age_lower="18" age_upper="35">
 nein	-	-	-	0:09:17.845000	0:09:19.048000
 ,	-	-	-	0:09:17.845000	0:09:19.048000
 es	-	-	-	0:09:17.845000	0:09:19.048000
@@ -2527,12 +2527,12 @@ kommen	-	-	-	0:09:17.845000	0:09:19.048000
 auch	-	-	-	0:09:17.845000	0:09:19.048000
 /,	-	-	-	0:09:17.845000	0:09:19.048000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:17.845000" end="0:09:19.048000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:17.845000" end="0:09:19.048000" age_lower="1" age_upper="999">
 die	-	-	-	0:09:17.845000	0:09:19.048000
 irgendwie	-	-	-	0:09:17.845000	0:09:19.048000
 /?	-	-	-	0:09:17.845000	0:09:19.048000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:19.048000" end="0:09:24.084000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:19.048000" end="0:09:24.084000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:09:19.048000	0:09:21.457000
 also	-	-	-	0:09:19.048000	0:09:21.457000
 vor	-	-	-	0:09:19.048000	0:09:21.457000
@@ -2554,12 +2554,12 @@ Wirtschaft	-	-	-	0:09:21.457000	0:09:22.893000
 runterkommen	-	-	-	0:09:22.893000	0:09:24.084000
 .	-	-	-	0:09:22.893000	0:09:24.084000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:22.893000" end="0:09:24.084000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:22.893000" end="0:09:24.084000" age_lower="1" age_upper="999">
 m/	-	-	-	0:09:22.893000	0:09:24.084000
 mhm	-	-	-	0:09:22.893000	0:09:24.084000
 .	-	-	-	0:09:22.893000	0:09:24.084000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:24.084000" end="0:09:29.881000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:24.084000" end="0:09:29.881000" age_lower="18" age_upper="35">
 und	-	-	-	0:09:24.084000	0:09:26.893000
 wir	-	-	-	0:09:24.084000	0:09:26.893000
 haben	-	-	-	0:09:24.084000	0:09:26.893000
@@ -2581,29 +2581,29 @@ solche	-	-	-	0:09:28.893000	0:09:29.881000
 kommen	-	-	-	0:09:28.893000	0:09:29.881000
 ,	-	-	-	0:09:28.893000	0:09:29.881000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:28.893000" end="0:09:29.881000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:28.893000" end="0:09:29.881000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:09:28.893000	0:09:29.881000
 ja	-	-	-	0:09:28.893000	0:09:29.881000
 .	-	-	-	0:09:28.893000	0:09:29.881000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:29.881000" end="0:09:31.190000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:29.881000" end="0:09:31.190000" age_lower="18" age_upper="35">
 wir	-	-	-	0:09:29.881000	0:09:31.190000
 gehen	-	-	-	0:09:29.881000	0:09:31.190000
 welche	-	-	-	0:09:29.881000	0:09:31.190000
 besuchen	-	-	-	0:09:29.881000	0:09:31.190000
 .	-	-	-	0:09:29.881000	0:09:31.190000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:31.190000" end="0:09:32.369000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:31.190000" end="0:09:32.369000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:31.190000	0:09:32.369000
 ,	-	-	-	0:09:31.190000	0:09:32.369000
 okay	-	-	-	0:09:31.190000	0:09:32.369000
 .	-	-	-	0:09:31.190000	0:09:32.369000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:32.369000" end="0:09:33.057000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:32.369000" end="0:09:33.057000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:32.369000	0:09:33.057000
 .	-	-	-	0:09:32.369000	0:09:33.057000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:32.369000" end="0:09:34.096000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:32.369000" end="0:09:34.096000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:32.369000	0:09:33.057000
 ,	-	-	-	0:09:32.369000	0:09:33.057000
 ja	-	-	-	0:09:32.369000	0:09:33.057000
@@ -2613,10 +2613,10 @@ mhm	-	-	-	0:09:33.057000	0:09:34.096000
 mhm	-	-	-	0:09:33.057000	0:09:34.096000
 .	-	-	-	0:09:33.057000	0:09:34.096000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:34.096000" end="0:09:34.790000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:34.096000" end="0:09:34.790000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:34.096000" end="0:09:47.203000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:34.096000" end="0:09:47.203000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 gut	-	-	-	0:09:34.790000	0:09:36.233000
 .	-	-	-	0:09:34.790000	0:09:36.233000
@@ -2648,17 +2648,17 @@ sie	-	-	-	0:09:44.551000	0:09:47.203000
 den	-	-	-	0:09:44.551000	0:09:47.203000
 ?	-	-	-	0:09:44.551000	0:09:47.203000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:47.203000" end="0:09:48.469000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:47.203000" end="0:09:48.469000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:47.203000" end="0:09:49.936000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:47.203000" end="0:09:49.936000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 also	-	-	-	0:09:48.469000	0:09:49.936000
 wie	-	-	-	0:09:48.469000	0:09:49.936000
 finden	-	-	-	0:09:48.469000	0:09:49.936000
 Menschen	-	-	-	0:09:48.469000	0:09:49.936000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:49.936000" end="0:09:51.745000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:49.936000" end="0:09:51.745000" age_lower="18" age_upper="35">
 ich	-	-	-	0:09:49.936000	0:09:51.745000
 glaube	-	-	-	0:09:49.936000	0:09:51.745000
 ,	-	-	-	0:09:49.936000	0:09:51.745000
@@ -2668,7 +2668,7 @@ den	-	-	-	0:09:49.936000	0:09:51.745000
 komisch	-	-	-	0:09:49.936000	0:09:51.745000
 .	-	-	-	0:09:49.936000	0:09:51.745000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:49.936000" end="0:09:52.636000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:49.936000" end="0:09:52.636000" age_lower="1" age_upper="999">
 sozusagen	-	-	-	0:09:49.936000	0:09:51.745000
 von	-	-	-	0:09:49.936000	0:09:51.745000
 außen	-	-	-	0:09:49.936000	0:09:51.745000
@@ -2678,7 +2678,7 @@ komisch	-	-	-	0:09:51.745000	0:09:52.636000
 okay	-	-	-	0:09:51.745000	0:09:52.636000
 .	-	-	-	0:09:51.745000	0:09:52.636000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:52.636000" end="0:09:53.306000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:52.636000" end="0:09:53.306000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:52.636000	0:09:53.306000
 ,	-	-	-	0:09:52.636000	0:09:53.306000
 weil	-	-	-	0:09:52.636000	0:09:53.306000
@@ -2686,11 +2686,11 @@ mir	-	-	-	0:09:52.636000	0:09:53.306000
 ist	-	-	-	0:09:52.636000	0:09:53.306000
 es	-	-	-	0:09:52.636000	0:09:53.306000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:52.636000" end="0:09:53.306000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:09:52.636000" end="0:09:53.306000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:09:52.636000	0:09:53.306000
 .	-	-	-	0:09:52.636000	0:09:53.306000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:53.306000" end="0:10:02.696000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:09:53.306000" end="0:10:02.696000" age_lower="18" age_upper="35">
 schon	-	-	-	0:09:53.306000	0:09:54.190000
 öfter	-	-	-	0:09:53.306000	0:09:54.190000
 passiert	-	-	-	0:09:53.306000	0:09:54.190000
@@ -2729,17 +2729,17 @@ Dialekt	-	-	-	0:10:00.321000	0:10:02.696000
 gesprochen	-	-	-	0:10:00.321000	0:10:02.696000
 .	-	-	-	0:10:00.321000	0:10:02.696000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:02.696000" end="0:10:03.163000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:02.696000" end="0:10:03.163000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:10:02.696000	0:10:03.163000
 .	-	-	-	0:10:02.696000	0:10:03.163000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:03.163000" end="0:10:03.836000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:03.163000" end="0:10:03.836000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:03.163000" end="0:10:03.836000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:03.163000" end="0:10:03.836000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:03.836000" end="0:10:11.130000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:03.836000" end="0:10:11.130000" age_lower="18" age_upper="35">
 manchmal	-	-	-	0:10:03.836000	0:10:06.587000
 wussten	-	-	-	0:10:03.836000	0:10:06.587000
 sie	-	-	-	0:10:03.836000	0:10:06.587000
@@ -2776,22 +2776,22 @@ wie	-	-	-	0:10:07.827000	0:10:11.130000
 wir	-	-	-	0:10:07.827000	0:10:11.130000
 ,	-	-	-	0:10:07.827000	0:10:11.130000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:11.130000" end="0:10:11.618000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:11.130000" end="0:10:11.618000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:11.130000	0:10:11.618000
 .	-	-	-	0:10:11.130000	0:10:11.618000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:11.618000" end="0:10:12.918000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:11.618000" end="0:10:12.918000" age_lower="18" age_upper="35">
 aber	-	-	-	0:10:11.618000	0:10:12.560000
 anscheinend	-	-	-	0:10:11.618000	0:10:12.560000
 doch	-	-	-	0:10:11.618000	0:10:12.560000
 nicht	-	-	-	0:10:12.560000	0:10:12.918000
 .	-	-	-	0:10:12.560000	0:10:12.918000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:12.560000" end="0:10:12.918000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:12.560000" end="0:10:12.918000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:10:12.560000	0:10:12.918000
 .	-	-	-	0:10:12.560000	0:10:12.918000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:12.918000" end="0:10:18.206000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:12.918000" end="0:10:18.206000" age_lower="18" age_upper="35">
 und	-	-	-	0:10:12.918000	0:10:15.039000
 manche	-	-	-	0:10:12.918000	0:10:15.039000
 Wörter	-	-	-	0:10:12.918000	0:10:15.039000
@@ -2812,18 +2812,18 @@ komisch	-	-	-	0:10:15.039000	0:10:17.387000
 ,	-	-	-	0:10:15.039000	0:10:17.387000
 weil	-	-	-	0:10:17.387000	0:10:18.206000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:17.387000" end="0:10:18.206000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:17.387000" end="0:10:18.206000" age_lower="1" age_upper="999">
 aha	-	-	-	0:10:17.387000	0:10:18.206000
 ,	-	-	-	0:10:17.387000	0:10:18.206000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:18.206000" end="0:10:19.254000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:18.206000" end="0:10:19.254000" age_lower="18" age_upper="35">
 so	-	-	-	0:10:18.206000	0:10:19.254000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:18.206000" end="0:10:19.254000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:18.206000" end="0:10:19.254000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:18.206000	0:10:19.254000
 .	-	-	-	0:10:18.206000	0:10:19.254000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:19.254000" end="0:10:23.506000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:19.254000" end="0:10:23.506000" age_lower="18" age_upper="35">
 Uhrzeit	-	-	-	0:10:19.254000	0:10:21.630000
 habe	-	-	-	0:10:19.254000	0:10:21.630000
 ich	-	-	-	0:10:19.254000	0:10:21.630000
@@ -2834,7 +2834,7 @@ wie	-	-	-	0:10:19.254000	0:10:21.630000
 die	-	-	-	0:10:19.254000	0:10:21.630000
 .	-	-	-	0:10:19.254000	0:10:21.630000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:21.639000" end="0:10:23.506000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:21.639000" end="0:10:23.506000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:21.639000	0:10:23.506000
 ,	-	-	-	0:10:21.639000	0:10:23.506000
 wa/	-	-	-	0:10:21.639000	0:10:23.506000
@@ -2844,7 +2844,7 @@ da	-	-	-	0:10:21.639000	0:10:23.506000
 anders	-	-	-	0:10:21.639000	0:10:23.506000
 ?	-	-	-	0:10:21.639000	0:10:23.506000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:23.506000" end="0:10:26.396000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:23.506000" end="0:10:26.396000" age_lower="18" age_upper="35">
 zum	-	-	-	0:10:23.506000	0:10:26.396000
 Beispiel	-	-	-	0:10:23.506000	0:10:26.396000
 ,	-	-	-	0:10:23.506000	0:10:26.396000
@@ -2852,11 +2852,11 @@ Beispiel	-	-	-	0:10:23.506000	0:10:26.396000
 "viertel	-	-	-	0:10:23.506000	0:10:26.396000
 neun"	-	-	-	0:10:23.506000	0:10:26.396000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:23.506000" end="0:10:27.033000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:23.506000" end="0:10:27.033000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:26.396000	0:10:27.033000
 ?	-	-	-	0:10:26.396000	0:10:27.033000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:27.033000" end="0:10:36.165000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:27.033000" end="0:10:36.165000" age_lower="18" age_upper="35">
 ist	-	-	-	0:10:27.033000	0:10:34.590000
 <pause duration="1,0s"/>
 /,	-	-	-	0:10:27.033000	0:10:34.590000
@@ -2878,11 +2878,11 @@ so	-	-	-	0:10:34.590000	0:10:36.165000
 das	-	-	-	0:10:34.590000	0:10:36.165000
 ergibt	-	-	-	0:10:34.590000	0:10:36.165000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:34.590000" end="0:10:36.165000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:34.590000" end="0:10:36.165000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:10:34.590000	0:10:36.165000
 /.	-	-	-	0:10:34.590000	0:10:36.165000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:36.165000" end="0:10:38.769000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:36.165000" end="0:10:38.769000" age_lower="18" age_upper="35">
 in	-	-	-	0:10:36.165000	0:10:37.796000
 meinem	-	-	-	0:10:36.165000	0:10:37.796000
 /,	-	-	-	0:10:36.165000	0:10:37.796000
@@ -2899,11 +2899,11 @@ so	-	-	-	0:10:37.796000	0:10:38.769000
 ,	-	-	-	0:10:37.796000	0:10:38.769000
 wieso	-	-	-	0:10:37.796000	0:10:38.769000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:37.796000" end="0:10:38.769000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:37.796000" end="0:10:38.769000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:37.796000	0:10:38.769000
 .	-	-	-	0:10:37.796000	0:10:38.769000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:38.769000" end="0:10:41.327000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:38.769000" end="0:10:41.327000" age_lower="18" age_upper="35">
 sagen	-	-	-	0:10:38.769000	0:10:39.233000
 die	-	-	-	0:10:38.769000	0:10:39.233000
 nicht	-	-	-	0:10:38.769000	0:10:39.233000
@@ -2916,24 +2916,24 @@ dieses	-	-	-	0:10:39.233000	0:10:41.327000
 nicht	-	-	-	0:10:39.233000	0:10:41.327000
 .	-	-	-	0:10:39.233000	0:10:41.327000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:41.327000" end="0:10:41.903000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:41.327000" end="0:10:41.903000" age_lower="1" age_upper="999">
 ach	-	-	-	0:10:41.327000	0:10:41.903000
 so	-	-	-	0:10:41.327000	0:10:41.903000
 .	-	-	-	0:10:41.327000	0:10:41.903000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:41.906000" end="0:10:42.942000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:41.906000" end="0:10:42.942000" age_lower="18" age_upper="35">
 und	-	-	-	0:10:41.906000	0:10:42.942000
 deshalb	-	-	-	0:10:41.906000	0:10:42.942000
 und	-	-	-	0:10:41.906000	0:10:42.942000
 i/	-	-	-	0:10:41.906000	0:10:42.942000
 /.	-	-	-	0:10:41.906000	0:10:42.942000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:42.942000" end="0:10:43.945000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:42.942000" end="0:10:43.945000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:10:42.942000	0:10:43.945000
 ja	-	-	-	0:10:42.942000	0:10:43.945000
 ,	-	-	-	0:10:42.942000	0:10:43.945000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:43.945000" end="0:10:46.393000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:43.945000" end="0:10:46.393000" age_lower="18" age_upper="35">
 aber	-	-	-	0:10:43.945000	0:10:46.393000
 das	-	-	-	0:10:43.945000	0:10:46.393000
 ist	-	-	-	0:10:43.945000	0:10:46.393000
@@ -2948,7 +2948,7 @@ das	-	-	-	0:10:43.945000	0:10:46.393000
 ist	-	-	-	0:10:43.945000	0:10:46.393000
 mir	-	-	-	0:10:43.945000	0:10:46.393000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:43.945000" end="0:10:46.393000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:43.945000" end="0:10:46.393000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:43.945000	0:10:46.393000
 ,	-	-	-	0:10:43.945000	0:10:46.393000
 ja	-	-	-	0:10:43.945000	0:10:46.393000
@@ -2965,7 +2965,7 @@ auch	-	-	-	0:10:43.945000	0:10:46.393000
 ja	-	-	-	0:10:43.945000	0:10:46.393000
 .	-	-	-	0:10:43.945000	0:10:46.393000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:46.393000" end="0:10:53.093000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:46.393000" end="0:10:53.093000" age_lower="18" age_upper="35">
 in	-	-	-	0:10:46.393000	0:10:48.651000
 ORT	ORT	-	-	0:10:46.393000	0:10:48.651000
 ,	-	-	-	0:10:46.393000	0:10:48.651000
@@ -3001,17 +3001,17 @@ dreiviertel	-	-	-	0:10:51.633000	0:10:53.093000
 zehn"	-	-	-	0:10:51.633000	0:10:53.093000
 .	-	-	-	0:10:51.633000	0:10:53.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:51.633000" end="0:10:53.093000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:51.633000" end="0:10:53.093000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:51.633000	0:10:53.093000
 .	-	-	-	0:10:51.633000	0:10:53.093000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:53.093000" end="0:10:53.709000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:53.093000" end="0:10:53.709000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:53.093000" end="0:10:53.709000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:53.093000" end="0:10:53.709000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:53.709000" end="0:10:55.084000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:53.709000" end="0:10:55.084000" age_lower="18" age_upper="35">
 nein	-	-	-	0:10:53.709000	0:10:55.084000
 ,	-	-	-	0:10:53.709000	0:10:55.084000
 es	-	-	-	0:10:53.709000	0:10:55.084000
@@ -3020,11 +3020,11 @@ ist	-	-	-	0:10:53.709000	0:10:55.084000
 neun"	-	-	-	0:10:53.709000	0:10:55.084000
 .	-	-	-	0:10:53.709000	0:10:55.084000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:53.709000" end="0:10:55.084000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:53.709000" end="0:10:55.084000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:53.709000	0:10:55.084000
 .	-	-	-	0:10:53.709000	0:10:55.084000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:55.084000" end="0:10:57.360000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:55.084000" end="0:10:57.360000" age_lower="18" age_upper="35">
 aber	-	-	-	0:10:55.084000	0:10:57.360000
 für	-	-	-	0:10:55.084000	0:10:57.360000
 mich	-	-	-	0:10:55.084000	0:10:57.360000
@@ -3038,25 +3038,25 @@ neun	-	-	-	0:10:55.084000	0:10:57.360000
 also	-	-	-	0:10:55.084000	0:10:57.360000
 /.	-	-	-	0:10:55.084000	0:10:57.360000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:57.360000" end="0:10:58.451000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:57.360000" end="0:10:58.451000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:57.360000	0:10:58.451000
 .	-	-	-	0:10:57.360000	0:10:58.451000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:57.360000" end="0:10:58.451000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:57.360000" end="0:10:58.451000" age_lower="18" age_upper="35">
 das	-	-	-	0:10:57.360000	0:10:58.451000
 ist	-	-	-	0:10:57.360000	0:10:58.451000
 komisch	-	-	-	0:10:57.360000	0:10:58.451000
 .	-	-	-	0:10:57.360000	0:10:58.451000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:58.451000" end="0:10:59.572000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:58.451000" end="0:10:59.572000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:58.451000	0:10:59.572000
 ,	-	-	-	0:10:58.451000	0:10:59.572000
 interessant	-	-	-	0:10:58.451000	0:10:59.572000
 .	-	-	-	0:10:58.451000	0:10:59.572000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:58.451000" end="0:10:59.572000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:10:58.451000" end="0:10:59.572000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:59.572000" end="0:11:03.454000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:10:59.572000" end="0:11:03.454000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:59.572000	0:11:02.066000
 ,	-	-	-	0:10:59.572000	0:11:02.066000
 ja	-	-	-	0:10:59.572000	0:11:02.066000
@@ -3068,10 +3068,10 @@ gut	-	-	-	0:11:02.066000	0:11:03.454000
 ähm	-	-	-	0:11:02.066000	0:11:03.454000
 /.	-	-	-	0:11:02.066000	0:11:03.454000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:03.454000" end="0:11:04.312000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:03.454000" end="0:11:04.312000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:03.454000" end="0:11:11.209000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:03.454000" end="0:11:11.209000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 welche	-	-	-	0:11:04.312000	0:11:10.318000
 Personengruppen	-	-	-	0:11:04.312000	0:11:10.318000
@@ -3088,7 +3088,7 @@ Sie	-	-	-	0:11:10.318000	0:11:11.209000
 sagen	-	-	-	0:11:10.318000	0:11:11.209000
 ?	-	-	-	0:11:10.318000	0:11:11.209000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:11.209000" end="0:11:12.703000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:11.209000" end="0:11:12.703000" age_lower="18" age_upper="35">
 ich	-	-	-	0:11:11.209000	0:11:12.703000
 glaube	-	-	-	0:11:11.209000	0:11:12.703000
 ,	-	-	-	0:11:11.209000	0:11:12.703000
@@ -3096,30 +3096,30 @@ jeder	-	-	-	0:11:11.209000	0:11:12.703000
 eigentlich	-	-	-	0:11:11.209000	0:11:12.703000
 .	-	-	-	0:11:11.209000	0:11:12.703000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:12.703000" end="0:11:13.360000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:12.703000" end="0:11:13.360000" age_lower="1" age_upper="999">
 jeder	-	-	-	0:11:12.703000	0:11:13.360000
 eigentlich	-	-	-	0:11:12.703000	0:11:13.360000
 .	-	-	-	0:11:12.703000	0:11:13.360000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:13.360000" end="0:11:14.084000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:13.360000" end="0:11:14.084000" age_lower="18" age_upper="35">
 ich	-	-	-	0:11:13.360000	0:11:14.084000
 kenne	-	-	-	0:11:13.360000	0:11:14.084000
 /,	-	-	-	0:11:13.360000	0:11:14.084000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:13.360000" end="0:11:14.084000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:13.360000" end="0:11:14.084000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:13.360000	0:11:14.084000
 .	-	-	-	0:11:13.360000	0:11:14.084000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:14.084000" end="0:11:17.142000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:14.084000" end="0:11:17.142000" age_lower="18" age_upper="35">
 also	-	-	-	0:11:14.084000	0:11:15.069000
 wirk/	-	-	-	0:11:14.084000	0:11:15.069000
 /.	-	-	-	0:11:14.084000	0:11:15.069000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:15.069000" end="0:11:17.142000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:15.069000" end="0:11:17.142000" age_lower="1" age_upper="999">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:17.142000" end="0:11:23.806000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:17.142000" end="0:11:23.806000" age_lower="18" age_upper="35">
 die	-	-	-	0:11:17.142000	0:11:21.784000
 die	-	-	-	0:11:17.142000	0:11:21.784000
 halt	-	-	-	0:11:17.142000	0:11:21.784000
@@ -3139,11 +3139,11 @@ ja	-	-	-	0:11:21.784000	0:11:23.806000
 eine	-	-	-	0:11:21.784000	0:11:23.806000
 polnische	-	-	-	0:11:21.784000	0:11:23.806000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:23.806000" end="0:11:24.896000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:23.806000" end="0:11:24.896000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:23.806000	0:11:24.896000
 .	-	-	-	0:11:23.806000	0:11:24.896000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:23.806000" end="0:11:31.242000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:23.806000" end="0:11:31.242000" age_lower="18" age_upper="35">
 Familie	-	-	-	0:11:23.806000	0:11:24.896000
 und	-	-	-	0:11:23.806000	0:11:24.896000
 so	-	-	-	0:11:23.806000	0:11:24.896000
@@ -3167,11 +3167,11 @@ wirklich	-	-	-	0:11:26.839000	0:11:31.242000
 sind	-	-	-	0:11:26.839000	0:11:31.242000
 ,	-	-	-	0:11:26.839000	0:11:31.242000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:31.242000" end="0:11:31.775000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:31.242000" end="0:11:31.775000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:31.242000	0:11:31.775000
 .	-	-	-	0:11:31.242000	0:11:31.775000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:31.775000" end="0:11:33.157000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:31.775000" end="0:11:33.157000" age_lower="18" age_upper="35">
 ich	-	-	-	0:11:31.775000	0:11:33.157000
 glaube	-	-	-	0:11:31.775000	0:11:33.157000
 ,	-	-	-	0:11:31.775000	0:11:33.157000
@@ -3180,24 +3180,24 @@ sprechen	-	-	-	0:11:31.775000	0:11:33.157000
 alle	-	-	-	0:11:31.775000	0:11:33.157000
 .	-	-	-	0:11:31.775000	0:11:33.157000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:33.157000" end="0:11:34.187000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:33.157000" end="0:11:34.187000" age_lower="1" age_upper="999">
 alle	-	-	-	0:11:33.157000	0:11:33.654000
 .	-	-	-	0:11:33.157000	0:11:33.654000
 okay	-	-	-	0:11:33.654000	0:11:34.187000
 ,	-	-	-	0:11:33.654000	0:11:34.187000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:33.654000" end="0:11:34.187000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:33.654000" end="0:11:34.187000" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:33.654000	0:11:34.187000
 .	-	-	-	0:11:33.654000	0:11:34.187000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:34.187000" end="0:11:34.518000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:34.187000" end="0:11:34.518000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:34.187000	0:11:34.518000
 .	-	-	-	0:11:34.187000	0:11:34.518000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:34.187000" end="0:11:34.518000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:34.187000" end="0:11:34.518000" age_lower="18" age_upper="35">
 ich	-	-	-	0:11:34.187000	0:11:34.518000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:34.518000" end="0:11:36.309000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:34.518000" end="0:11:36.309000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:34.518000	0:11:36.309000
 /,	-	-	-	0:11:34.518000	0:11:36.309000
 der	-	-	-	0:11:34.518000	0:11:36.309000
@@ -3206,7 +3206,7 @@ nicht	-	-	-	0:11:34.518000	0:11:36.309000
 spricht	-	-	-	0:11:34.518000	0:11:36.309000
 ,	-	-	-	0:11:34.518000	0:11:36.309000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:34.518000" end="0:11:36.309000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:34.518000" end="0:11:36.309000" age_lower="18" age_upper="35">
 ich	-	-	-	0:11:34.518000	0:11:36.309000
 kenne	-	-	-	0:11:34.518000	0:11:36.309000
 niemanden	-	-	-	0:11:34.518000	0:11:36.309000
@@ -3217,7 +3217,7 @@ nicht	-	-	-	0:11:34.518000	0:11:36.309000
 spricht	-	-	-	0:11:34.518000	0:11:36.309000
 .	-	-	-	0:11:34.518000	0:11:36.309000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:36.309000" end="0:11:39.448000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:36.309000" end="0:11:39.448000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:36.309000	0:11:38.572000
 ,	-	-	-	0:11:36.309000	0:11:38.572000
 mhm	-	-	-	0:11:36.309000	0:11:38.572000
@@ -3225,10 +3225,10 @@ mhm	-	-	-	0:11:36.309000	0:11:38.572000
 /.	-	-	-	0:11:36.309000	0:11:38.572000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:38.572000" end="0:11:39.448000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:38.572000" end="0:11:39.448000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:39.448000" end="0:11:43.356000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:39.448000" end="0:11:43.356000" age_lower="1" age_upper="999">
 wie	-	-	-	0:11:39.448000	0:11:42.593000
 sehen	-	-	-	0:11:39.448000	0:11:42.593000
 Sie	-	-	-	0:11:39.448000	0:11:42.593000
@@ -3241,10 +3241,10 @@ in	-	-	-	0:11:39.448000	0:11:42.593000
 ?	-	-	-	0:11:39.448000	0:11:42.593000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:42.593000" end="0:11:43.356000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:42.593000" end="0:11:43.356000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:43.363000" end="0:11:46.512000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:43.363000" end="0:11:46.512000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:11:43.363000	0:11:45.157000
 Sie	-	-	-	0:11:43.363000	0:11:45.157000
 ,	-	-	-	0:11:43.363000	0:11:45.157000
@@ -3258,13 +3258,13 @@ oder	-	-	-	0:11:45.165000	0:11:46.512000
 /?	-	-	-	0:11:45.165000	0:11:46.512000
 ja	-	-	-	0:11:45.165000	0:11:46.512000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:45.165000" end="0:11:46.512000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:45.165000" end="0:11:46.512000" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:45.165000	0:11:46.512000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:45.165000" end="0:11:46.512000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:45.165000" end="0:11:46.512000" age_lower="1" age_upper="999">
 .	-	-	-	0:11:45.165000	0:11:46.512000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:45.165000" end="0:11:51.254000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:45.165000" end="0:11:51.254000" age_lower="18" age_upper="35">
 ,	-	-	-	0:11:45.165000	0:11:46.512000
 ich	-	-	-	0:11:45.165000	0:11:46.512000
 glaube	-	-	-	0:11:45.165000	0:11:46.512000
@@ -3283,20 +3283,20 @@ hier	-	-	-	0:11:46.512000	0:11:51.254000
 bleiben	-	-	-	0:11:46.512000	0:11:51.254000
 ,	-	-	-	0:11:46.512000	0:11:51.254000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:51.254000" end="0:11:52.918000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:51.254000" end="0:11:52.918000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:51.254000	0:11:52.918000
 ,	-	-	-	0:11:51.254000	0:11:52.918000
 <pause duration="0,6s"/>
 ja	-	-	-	0:11:51.254000	0:11:52.918000
 .	-	-	-	0:11:51.254000	0:11:52.918000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:52.918000" end="0:11:54.160000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:52.918000" end="0:11:54.160000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 wieder	-	-	-	0:11:52.918000	0:11:54.160000
 weiter	-	-	-	0:11:52.918000	0:11:54.160000
 .	-	-	-	0:11:52.918000	0:11:54.160000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:54.160000" end="0:11:58.360000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:54.160000" end="0:11:58.360000" age_lower="1" age_upper="999">
 ja	-	-	-	0:11:54.160000	0:11:55.290000
 ,	-	-	-	0:11:54.160000	0:11:55.290000
 ja	-	-	-	0:11:54.160000	0:11:55.290000
@@ -3316,65 +3316,65 @@ ab	-	-	-	0:11:55.290000	0:11:57.987000
 wissen	-	-	-	0:11:57.987000	0:11:58.360000
 Sie	-	-	-	0:11:57.987000	0:11:58.360000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 nein	-	-	-	0:11:58.360000	0:12:00.996000
 ,	-	-	-	0:11:58.360000	0:12:00.996000
 ich	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 wie	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 glaube	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 das	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 ,	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 ist	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 viele	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 /?	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 bleiben	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 nein	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 hier	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 ?	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 ,	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 bleiben	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 schon	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:11:58.360000" end="0:12:00.996000" age_lower="18" age_upper="35">
 .	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:11:58.360000" end="0:12:00.996000" age_lower="1" age_upper="999">
 ,	-	-	-	0:11:58.360000	0:12:00.996000
 mhm	-	-	-	0:11:58.360000	0:12:00.996000
 .	-	-	-	0:11:58.360000	0:12:00.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:00.996000" end="0:12:04.090000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:00.996000" end="0:12:04.090000" age_lower="18" age_upper="35">
 es	-	-	-	0:12:00.996000	0:12:04.090000
 kommen	-	-	-	0:12:00.996000	0:12:04.090000
 auch	-	-	-	0:12:00.996000	0:12:04.090000
@@ -3385,11 +3385,11 @@ welche	-	-	-	0:12:00.996000	0:12:04.090000
 hierher	-	-	-	0:12:00.996000	0:12:04.090000
 ,	-	-	-	0:12:00.996000	0:12:04.090000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:04.090000" end="0:12:04.615000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:04.090000" end="0:12:04.615000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:04.090000	0:12:04.615000
 .	-	-	-	0:12:04.090000	0:12:04.615000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:04.090000" end="0:12:06.812000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:04.090000" end="0:12:06.812000" age_lower="18" age_upper="35">
 also	-	-	-	0:12:04.090000	0:12:04.615000
 f/	-	-	-	0:12:04.090000	0:12:04.615000
 f/	-	-	-	0:12:04.090000	0:12:04.615000
@@ -3402,19 +3402,19 @@ dann	-	-	-	0:12:04.615000	0:12:06.812000
 hierher	-	-	-	0:12:04.615000	0:12:06.812000
 .	-	-	-	0:12:04.615000	0:12:06.812000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:06.812000" end="0:12:07.642000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:06.812000" end="0:12:07.642000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:12:06.812000	0:12:07.642000
 ja	-	-	-	0:12:06.812000	0:12:07.642000
 ,	-	-	-	0:12:06.812000	0:12:07.642000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:06.812000" end="0:12:07.642000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:06.812000" end="0:12:07.642000" age_lower="18" age_upper="35">
 und	-	-	-	0:12:06.812000	0:12:07.642000
 dann	-	-	-	0:12:06.812000	0:12:07.642000
 /,	-	-	-	0:12:06.812000	0:12:07.642000
 ja	-	-	-	0:12:06.812000	0:12:07.642000
 .	-	-	-	0:12:06.812000	0:12:07.642000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:07.642000" end="0:12:25.084000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:07.642000" end="0:12:25.084000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:07.642000	0:12:08.818000
 ,	-	-	-	0:12:07.642000	0:12:08.818000
 mhm	-	-	-	0:12:07.642000	0:12:08.818000
@@ -3476,7 +3476,7 @@ in	-	-	-	0:12:22.145000	0:12:25.084000
 der	-	-	-	0:12:22.145000	0:12:25.084000
 Steiermark	-	-	-	0:12:22.145000	0:12:25.084000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:25.084000" end="0:12:27.624000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:25.084000" end="0:12:27.624000" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:25.084000	0:12:27.624000
 ,	-	-	-	0:12:25.084000	0:12:27.624000
 ich	-	-	-	0:12:25.084000	0:12:27.624000
@@ -3489,7 +3489,7 @@ schon	-	-	-	0:12:25.084000	0:12:27.624000
 ja	-	-	-	0:12:25.084000	0:12:27.624000
 .	-	-	-	0:12:25.084000	0:12:27.624000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:25.084000" end="0:12:31.681000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:25.084000" end="0:12:31.681000" age_lower="1" age_upper="999">
 so	-	-	-	0:12:25.084000	0:12:27.624000
 ist	-	-	-	0:12:25.084000	0:12:27.624000
 ?	-	-	-	0:12:25.084000	0:12:27.624000
@@ -3509,10 +3509,10 @@ okay	-	-	-	0:12:28.851000	0:12:31.681000
 .	-	-	-	0:12:28.851000	0:12:31.681000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:31.681000" end="0:12:32.424000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:31.681000" end="0:12:32.424000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:31.681000" end="0:12:33.881000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:31.681000" end="0:12:33.881000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 wenn	-	-	-	0:12:32.424000	0:12:33.881000
 Sie	-	-	-	0:12:32.424000	0:12:33.881000
@@ -3520,11 +3520,11 @@ jetzt	-	-	-	0:12:32.424000	0:12:33.881000
 an	-	-	-	0:12:32.424000	0:12:33.881000
 ORF-	-	-	-	0:12:32.424000	0:12:33.881000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:33.881000" end="0:12:34.987000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:33.881000" end="0:12:34.987000" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:33.881000	0:12:34.987000
 .	-	-	-	0:12:33.881000	0:12:34.987000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:33.881000" end="0:12:39.145000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:33.881000" end="0:12:39.145000" age_lower="1" age_upper="999">
 Nachrichtensprecher	-	-	-	0:12:33.881000	0:12:34.987000
 im	-	-	-	0:12:34.987000	0:12:36.709000
 Fernsehen	-	-	-	0:12:34.987000	0:12:36.709000
@@ -3541,27 +3541,27 @@ die	-	-	-	0:12:36.709000	0:12:39.145000
 sprechen	-	-	-	0:12:36.709000	0:12:39.145000
 ?	-	-	-	0:12:36.709000	0:12:39.145000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:39.148000" end="0:12:41.021000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:39.148000" end="0:12:41.021000" age_lower="18" age_upper="35">
 gemischt	-	-	-	0:12:39.148000	0:12:39.927000
 .	-	-	-	0:12:39.148000	0:12:39.927000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:39.927000" end="0:12:41.021000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:39.927000" end="0:12:41.021000" age_lower="1" age_upper="999">
 gemischt	-	-	-	0:12:39.927000	0:12:41.021000
 ,	-	-	-	0:12:39.927000	0:12:41.021000
 okay	-	-	-	0:12:39.927000	0:12:41.021000
 .	-	-	-	0:12:39.927000	0:12:41.021000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:41.021000" end="0:12:42.484000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:41.021000" end="0:12:42.484000" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:41.021000	0:12:42.484000
 ,	-	-	-	0:12:41.021000	0:12:42.484000
 sie	-	-	-	0:12:41.021000	0:12:42.484000
 verwenden	-	-	-	0:12:41.021000	0:12:42.484000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:41.021000" end="0:12:42.484000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:41.021000" end="0:12:42.484000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:41.021000	0:12:42.484000
 .	-	-	-	0:12:41.021000	0:12:42.484000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:42.484000" end="0:12:47.651000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:42.484000" end="0:12:47.651000" age_lower="18" age_upper="35">
 manchmal	-	-	-	0:12:42.484000	0:12:46.215000
 halt	-	-	-	0:12:42.484000	0:12:46.215000
 /,	-	-	-	0:12:42.484000	0:12:46.215000
@@ -3579,15 +3579,15 @@ Dialektwort	-	-	-	0:12:46.215000	0:12:47.651000
 rein	-	-	-	0:12:46.215000	0:12:47.651000
 .	-	-	-	0:12:46.215000	0:12:47.651000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:46.215000" end="0:12:47.651000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:46.215000" end="0:12:47.651000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:12:46.215000	0:12:47.651000
 .	-	-	-	0:12:46.215000	0:12:47.651000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:47.651000" end="0:12:48.969000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:47.651000" end="0:12:48.969000" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:47.651000	0:12:48.969000
 .	-	-	-	0:12:47.651000	0:12:48.969000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:47.651000" end="0:12:52.154000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:47.651000" end="0:12:52.154000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:47.651000	0:12:48.969000
 ,	-	-	-	0:12:47.651000	0:12:48.969000
 okay	-	-	-	0:12:47.651000	0:12:48.969000
@@ -3602,18 +3602,18 @@ gut	-	-	-	0:12:48.969000	0:12:50.930000
 mhm	-	-	-	0:12:50.930000	0:12:52.154000
 .	-	-	-	0:12:50.930000	0:12:52.154000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:52.154000" end="0:12:53.057000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:52.154000" end="0:12:53.057000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:52.154000" end="0:12:53.712000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:52.154000" end="0:12:53.712000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:12:53.057000	0:12:53.712000
 /.	-	-	-	0:12:53.057000	0:12:53.712000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:53.712000" end="0:12:55.306000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:53.712000" end="0:12:55.306000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:53.712000" end="0:12:59.684000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:53.712000" end="0:12:59.684000" age_lower="1" age_upper="999">
 <pause duration="1,6s"/>
 fallen	-	-	-	0:12:55.306000	0:12:57.106000
 Ihnen	-	-	-	0:12:55.306000	0:12:57.106000
@@ -3629,13 +3629,13 @@ gemischt	-	-	-	0:12:57.106000	0:12:59.684000
 spricht	-	-	-	0:12:57.106000	0:12:59.684000
 ?	-	-	-	0:12:57.106000	0:12:59.684000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:59.684000" end="0:13:02.400000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:12:59.684000" end="0:13:02.400000" age_lower="18" age_upper="35">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:59.684000" end="0:13:02.400000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:12:59.684000" end="0:13:02.400000" age_lower="1" age_upper="999">
 <pause duration="2,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:02.400000" end="0:13:05.627000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:02.400000" end="0:13:05.627000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:13:02.400000	0:13:03.309000
 nein	-	-	-	0:13:02.400000	0:13:03.309000
 .	-	-	-	0:13:02.400000	0:13:03.309000
@@ -3647,12 +3647,12 @@ auch	-	-	-	0:13:03.309000	0:13:05.627000
 gemischt	-	-	-	0:13:03.309000	0:13:05.627000
 .	-	-	-	0:13:03.309000	0:13:05.627000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:05.627000" end="0:13:06.527000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:05.627000" end="0:13:06.527000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:05.627000	0:13:06.527000
 .	-	-	-	0:13:05.627000	0:13:06.527000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:06.527000" end="0:13:11.266000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:06.527000" end="0:13:11.266000" age_lower="18" age_upper="35">
 sonst	-	-	-	0:13:06.527000	0:13:11.266000
 gibt	-	-	-	0:13:06.527000	0:13:11.266000
 es	-	-	-	0:13:06.527000	0:13:11.266000
@@ -3665,11 +3665,11 @@ die	-	-	-	0:13:06.527000	0:13:11.266000
 gemischt	-	-	-	0:13:06.527000	0:13:11.266000
 dann	-	-	-	0:13:06.527000	0:13:11.266000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:11.266000" end="0:13:11.891000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:11.266000" end="0:13:11.891000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:11.266000	0:13:11.891000
 .	-	-	-	0:13:11.266000	0:13:11.891000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:11.890000" end="0:13:18.172000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:11.890000" end="0:13:18.172000" age_lower="18" age_upper="35">
 sprechen	-	-	-	0:13:11.890000	0:13:16.563000
 so	-	-	-	0:13:11.890000	0:13:16.563000
 ,	-	-	-	0:13:11.890000	0:13:16.563000
@@ -3691,14 +3691,14 @@ Wörter	-	-	-	0:13:16.563000	0:13:18.172000
 rein	-	-	-	0:13:16.563000	0:13:18.172000
 .	-	-	-	0:13:16.563000	0:13:18.172000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:18.172000" end="0:13:18.857000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:18.172000" end="0:13:18.857000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:13:18.172000	0:13:18.857000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:18.857000" end="0:13:19.703000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:18.857000" end="0:13:19.703000" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:18.857000	0:13:19.703000
 .	-	-	-	0:13:18.857000	0:13:19.703000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:18.857000" end="0:13:20.621000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:18.857000" end="0:13:20.621000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:18.857000	0:13:19.703000
 .	-	-	-	0:13:18.857000	0:13:19.703000
 mhm	-	-	-	0:13:19.703000	0:13:20.621000
@@ -3706,19 +3706,19 @@ mhm	-	-	-	0:13:19.703000	0:13:20.621000
 mhm	-	-	-	0:13:19.703000	0:13:20.621000
 .	-	-	-	0:13:19.703000	0:13:20.621000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:20.621000" end="0:13:21.351000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:20.621000" end="0:13:21.351000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:20.621000" end="0:13:22.630000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:20.621000" end="0:13:22.630000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 gut	-	-	-	0:13:21.351000	0:13:22.630000
 ähm	-	-	-	0:13:21.351000	0:13:22.630000
 /.	-	-	-	0:13:21.351000	0:13:22.630000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:22.630000" end="0:13:25.951000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:22.630000" end="0:13:25.951000" age_lower="18" age_upper="35">
 <pause duration="3,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:22.630000" end="0:13:30.118000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:22.630000" end="0:13:30.118000" age_lower="1" age_upper="999">
 <pause duration="3,3s"/>
 können	-	-	-	0:13:25.951000	0:13:30.118000
 Sie	-	-	-	0:13:25.951000	0:13:30.118000
@@ -3733,14 +3733,14 @@ Sie	-	-	-	0:13:25.951000	0:13:30.118000
 sagen	-	-	-	0:13:25.951000	0:13:30.118000
 ?	-	-	-	0:13:25.951000	0:13:30.118000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:30.118000" end="0:13:31.536000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:30.118000" end="0:13:31.536000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:13:30.118000	0:13:30.793000
 ,	-	-	-	0:13:30.118000	0:13:30.793000
 schon	-	-	-	0:13:30.793000	0:13:31.536000
 .	-	-	-	0:13:30.793000	0:13:31.536000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:30.793000" end="0:13:34.027000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:30.793000" end="0:13:34.027000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:30.793000	0:13:31.536000
 .	-	-	-	0:13:30.793000	0:13:31.536000
 mhm	-	-	-	0:13:31.536000	0:13:32.600000
@@ -3754,7 +3754,7 @@ da	-	-	-	0:13:32.600000	0:13:34.027000
 wieder	-	-	-	0:13:32.600000	0:13:34.027000
 /.	-	-	-	0:13:32.600000	0:13:34.027000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:34.027000" end="0:13:35.887000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:34.027000" end="0:13:35.887000" age_lower="18" age_upper="35">
 das	-	-	-	0:13:34.027000	0:13:35.887000
 kommt	-	-	-	0:13:34.027000	0:13:35.887000
 ja	-	-	-	0:13:34.027000	0:13:35.887000
@@ -3762,17 +3762,17 @@ ganz	-	-	-	0:13:34.027000	0:13:35.887000
 automatisch	-	-	-	0:13:34.027000	0:13:35.887000
 .	-	-	-	0:13:34.027000	0:13:35.887000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:34.027000" end="0:13:36.357000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:34.027000" end="0:13:36.357000" age_lower="1" age_upper="999">
 s/	-	-	-	0:13:34.027000	0:13:35.887000
 /.	-	-	-	0:13:34.027000	0:13:35.887000
 ja	-	-	-	0:13:35.887000	0:13:36.357000
 ,	-	-	-	0:13:35.887000	0:13:36.357000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:36.357000" end="0:13:37.133000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:36.357000" end="0:13:37.133000" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:36.357000	0:13:37.133000
 .	-	-	-	0:13:36.357000	0:13:37.133000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:36.357000" end="0:13:45.551000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:36.357000" end="0:13:45.551000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:36.357000	0:13:37.133000
 ,	-	-	-	0:13:36.357000	0:13:37.133000
 ja	-	-	-	0:13:36.357000	0:13:37.133000
@@ -3801,28 +3801,28 @@ da	-	-	-	0:13:43.396000	0:13:45.551000
 sagen	-	-	-	0:13:43.396000	0:13:45.551000
 ?	-	-	-	0:13:43.396000	0:13:45.551000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:45.551000" end="0:13:49.587000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:45.551000" end="0:13:49.587000" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:45.551000" end="0:13:51.412000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:45.551000" end="0:13:51.412000" age_lower="1" age_upper="999">
 <pause duration="4,0s"/>
 wunderbar	-	-	-	0:13:49.587000	0:13:50.330000
 .	-	-	-	0:13:49.587000	0:13:50.330000
 mhm	-	-	-	0:13:50.330000	0:13:51.412000
 .	-	-	-	0:13:50.330000	0:13:51.412000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:51.412000" end="0:13:52.900000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:51.412000" end="0:13:52.900000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:51.412000" end="0:13:53.730000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:51.412000" end="0:13:53.730000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 ähm	-	-	-	0:13:52.900000	0:13:53.730000
 /.	-	-	-	0:13:52.900000	0:13:53.730000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:53.730000" end="0:13:55.257000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:13:53.730000" end="0:13:55.257000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:53.730000" end="0:14:02.287000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:13:53.730000" end="0:14:02.287000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 glauben	-	-	-	0:13:55.257000	0:13:55.687000
 Sie	-	-	-	0:13:55.257000	0:13:55.687000
@@ -3844,10 +3844,10 @@ zum	-	-	-	0:13:55.687000	0:14:02.287000
 Beispiel	-	-	-	0:13:55.687000	0:14:02.287000
 ?	-	-	-	0:13:55.687000	0:14:02.287000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:02.287000" end="0:14:02.724000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:02.287000" end="0:14:02.724000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:02.287000" end="0:14:07.106000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:02.287000" end="0:14:07.106000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 auch	-	-	-	0:14:02.724000	0:14:04.954000
 wenn	-	-	-	0:14:02.724000	0:14:04.954000
@@ -3867,32 +3867,32 @@ irgendwelche	-	-	-	0:14:04.954000	0:14:07.106000
 Unterschiede	-	-	-	0:14:04.954000	0:14:07.106000
 ?	-	-	-	0:14:04.954000	0:14:07.106000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:07.106000" end="0:14:08.136000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:07.106000" end="0:14:08.136000" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:07.106000	0:14:08.136000
 ,	-	-	-	0:14:07.106000	0:14:08.136000
 bestimmt	-	-	-	0:14:07.106000	0:14:08.136000
 .	-	-	-	0:14:07.106000	0:14:08.136000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:08.136000" end="0:14:08.706000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:08.136000" end="0:14:08.706000" age_lower="1" age_upper="999">
 ja	-	-	-	0:14:08.136000	0:14:08.706000
 .	-	-	-	0:14:08.136000	0:14:08.706000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:08.706000" end="0:14:10" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:08.706000" end="0:14:10" age_lower="18" age_upper="35">
 bestimmt	-	-	-	0:14:08.706000	0:14:10
 .	-	-	-	0:14:08.706000	0:14:10
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:08.706000" end="0:14:10" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:08.706000" end="0:14:10" age_lower="1" age_upper="999">
 w/	-	-	-	0:14:08.706000	0:14:10
 welch/	-	-	-	0:14:08.706000	0:14:10
 /.	-	-	-	0:14:08.706000	0:14:10
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:10" end="0:14:10.787000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:10" end="0:14:10.787000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:10" end="0:14:10.787000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:10" end="0:14:10.787000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:10.787000" end="0:14:14.045000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:10.787000" end="0:14:14.045000" age_lower="18" age_upper="35">
 ich	-	-	-	0:14:10.787000	0:14:14.045000
 ich	-	-	-	0:14:10.787000	0:14:14.045000
 glaube	-	-	-	0:14:10.787000	0:14:14.045000
@@ -3904,21 +3904,21 @@ ist	-	-	-	0:14:10.787000	0:14:14.045000
 es	-	-	-	0:14:10.787000	0:14:14.045000
 .	-	-	-	0:14:10.787000	0:14:14.045000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:10.787000" end="0:14:14.657000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:10.787000" end="0:14:14.657000" age_lower="1" age_upper="999">
 vielleicht	-	-	-	0:14:10.787000	0:14:14.045000
 /.	-	-	-	0:14:10.787000	0:14:14.045000
 mhm	-	-	-	0:14:14.045000	0:14:14.657000
 .	-	-	-	0:14:14.045000	0:14:14.657000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:14.657000" end="0:14:16.396000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:14.657000" end="0:14:16.396000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:14:14.657000	0:14:15.657000
 /.	-	-	-	0:14:14.657000	0:14:15.657000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:15.657000" end="0:14:16.396000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:15.657000" end="0:14:16.396000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:16.396000" end="0:14:21.324000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:16.396000" end="0:14:21.324000" age_lower="18" age_upper="35">
 die	-	-	-	0:14:16.396000	0:14:21.324000
 Wörter	-	-	-	0:14:16.396000	0:14:21.324000
 werden	-	-	-	0:14:16.396000	0:14:21.324000
@@ -3935,13 +3935,13 @@ anders	-	-	-	0:14:16.396000	0:14:21.324000
 aus	-	-	-	0:14:16.396000	0:14:21.324000
 .	-	-	-	0:14:16.396000	0:14:21.324000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:21.324000" end="0:14:22.309000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:21.324000" end="0:14:22.309000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:21.324000	0:14:22.309000
 ,	-	-	-	0:14:21.324000	0:14:22.309000
 mhm	-	-	-	0:14:21.324000	0:14:22.309000
 .	-	-	-	0:14:21.324000	0:14:22.309000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:22.309000" end="0:14:24.869000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:22.309000" end="0:14:24.869000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:14:22.309000	0:14:24.869000
 ich	-	-	-	0:14:22.309000	0:14:24.869000
 so	-	-	-	0:14:22.309000	0:14:24.869000
@@ -3954,11 +3954,11 @@ aus	-	-	-	0:14:22.309000	0:14:24.869000
 Wien	-	-	-	0:14:22.309000	0:14:24.869000
 ,	-	-	-	0:14:22.309000	0:14:24.869000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:24.869000" end="0:14:25.366000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:24.869000" end="0:14:25.366000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:24.869000	0:14:25.366000
 .	-	-	-	0:14:24.869000	0:14:25.366000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:25.366000" end="0:14:34.496000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:25.366000" end="0:14:34.496000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:14:25.366000	0:14:28.824000
 die	-	-	-	0:14:25.366000	0:14:28.824000
 im	-	-	-	0:14:25.366000	0:14:28.824000
@@ -3995,19 +3995,19 @@ als	-	-	-	0:14:33.881000	0:14:34.496000
 ich	-	-	-	0:14:33.881000	0:14:34.496000
 .	-	-	-	0:14:33.881000	0:14:34.496000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:33.881000" end="0:14:34.975000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:33.881000" end="0:14:34.975000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:14:33.881000	0:14:34.496000
 .	-	-	-	0:14:33.881000	0:14:34.496000
 mhm	-	-	-	0:14:34.496000	0:14:34.975000
 .	-	-	-	0:14:34.496000	0:14:34.975000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:34.975000" end="0:14:35.939000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:34.975000" end="0:14:35.939000" age_lower="18" age_upper="35">
 also	-	-	-	0:14:34.975000	0:14:35.939000
 /,	-	-	-	0:14:34.975000	0:14:35.939000
 ja	-	-	-	0:14:34.975000	0:14:35.939000
 .	-	-	-	0:14:34.975000	0:14:35.939000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:34.975000" end="0:14:37.118000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:34.975000" end="0:14:37.118000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:34.975000	0:14:35.939000
 .	-	-	-	0:14:34.975000	0:14:35.939000
 ja	-	-	-	0:14:35.939000	0:14:37.118000
@@ -4017,19 +4017,19 @@ ja	-	-	-	0:14:35.939000	0:14:37.118000
 mhm	-	-	-	0:14:35.939000	0:14:37.118000
 .	-	-	-	0:14:35.939000	0:14:37.118000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:37.118000" end="0:14:37.990000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:37.118000" end="0:14:37.990000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:37.118000" end="0:14:39.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:37.118000" end="0:14:39.100000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 gut	-	-	-	0:14:37.990000	0:14:39.100000
 ähm	-	-	-	0:14:37.990000	0:14:39.100000
 /.	-	-	-	0:14:37.990000	0:14:39.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:39.100000" end="0:14:40.236000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:39.100000" end="0:14:40.236000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:39.100000" end="0:14:51.312000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:39.100000" end="0:14:51.312000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 würden	-	-	-	0:14:40.236000	0:14:41.184000
 Sie	-	-	-	0:14:40.236000	0:14:41.184000
@@ -4061,10 +4061,10 @@ der	-	-	-	0:14:42.384000	0:14:51.312000
 ORF-Nachrichtensprecher	-	-	-	0:14:42.384000	0:14:51.312000
 ?	-	-	-	0:14:42.384000	0:14:51.312000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:51.312000" end="0:14:52.524000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:51.312000" end="0:14:52.524000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:51.312000" end="0:14:56.260000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:51.312000" end="0:14:56.260000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 also	-	-	-	0:14:52.524000	0:14:56.260000
 so	-	-	-	0:14:52.524000	0:14:56.260000
@@ -4076,7 +4076,7 @@ Deutsch	-	-	-	0:14:52.524000	0:14:56.260000
 oder	-	-	-	0:14:52.524000	0:14:56.260000
 /?	-	-	-	0:14:52.524000	0:14:56.260000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:56.260000" end="0:15:01.178000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:14:56.260000" end="0:15:01.178000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:14:56.260000	0:14:57.503000
 glaube	-	-	-	0:14:56.260000	0:14:57.503000
 nicht	-	-	-	0:14:56.260000	0:14:57.503000
@@ -4096,21 +4096,21 @@ generell	-	-	-	0:14:57.503000	0:15:01.178000
 nicht	-	-	-	0:14:57.503000	0:15:01.178000
 ,	-	-	-	0:14:57.503000	0:15:01.178000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:57.503000" end="0:15:01.178000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:14:57.503000" end="0:15:01.178000" age_lower="1" age_upper="999">
 (und	-	-	-	0:14:57.503000	0:15:01.178000
 sonst)	-	-	-	0:14:57.503000	0:15:01.178000
 /.	-	-	-	0:14:57.503000	0:15:01.178000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:01.178000" end="0:15:02.103000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:01.178000" end="0:15:02.103000" age_lower="18" age_upper="35">
 dass	-	-	-	0:15:01.178000	0:15:02.103000
 die	-	-	-	0:15:01.178000	0:15:02.103000
 so	-	-	-	0:15:01.178000	0:15:02.103000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:02.103000" end="0:15:02.709000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:02.103000" end="0:15:02.709000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:02.103000	0:15:02.709000
 .	-	-	-	0:15:02.103000	0:15:02.709000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:02.709000" end="0:15:05.718000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:02.709000" end="0:15:05.718000" age_lower="18" age_upper="35">
 voll	-	-	-	0:15:02.709000	0:15:05.718000
 <pause duration="0,5s"/>
 so	-	-	-	0:15:02.709000	0:15:05.718000
@@ -4119,7 +4119,7 @@ Deutsch	-	-	-	0:15:02.709000	0:15:05.718000
 sprechen	-	-	-	0:15:02.709000	0:15:05.718000
 .	-	-	-	0:15:02.709000	0:15:05.718000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:05.718000" end="0:15:07.469000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:05.718000" end="0:15:07.469000" age_lower="1" age_upper="999">
 okay	-	-	-	0:15:05.718000	0:15:07.469000
 ,	-	-	-	0:15:05.718000	0:15:07.469000
 okay	-	-	-	0:15:05.718000	0:15:07.469000
@@ -4127,25 +4127,25 @@ okay	-	-	-	0:15:05.718000	0:15:07.469000
 also	-	-	-	0:15:05.718000	0:15:07.469000
 eher	-	-	-	0:15:05.718000	0:15:07.469000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:07.469000" end="0:15:08.612000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:07.469000" end="0:15:08.612000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:15:07.469000	0:15:08.612000
 nein	-	-	-	0:15:07.469000	0:15:08.612000
 ,	-	-	-	0:15:07.469000	0:15:08.612000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:07.469000" end="0:15:08.612000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:07.469000" end="0:15:08.612000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:15:07.469000	0:15:08.612000
 ,	-	-	-	0:15:07.469000	0:15:08.612000
 oder	-	-	-	0:15:07.469000	0:15:08.612000
 ?	-	-	-	0:15:07.469000	0:15:08.612000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:08.612000" end="0:15:09.551000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:08.612000" end="0:15:09.551000" age_lower="18" age_upper="35">
 glaube	-	-	-	0:15:08.612000	0:15:09.551000
 ich	-	-	-	0:15:08.612000	0:15:09.551000
 nicht	-	-	-	0:15:08.612000	0:15:09.551000
 so	-	-	-	0:15:08.612000	0:15:09.551000
 .	-	-	-	0:15:08.612000	0:15:09.551000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:08.612000" end="0:15:13.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:08.612000" end="0:15:13.996000" age_lower="1" age_upper="999">
 oder	-	-	-	0:15:08.612000	0:15:09.551000
 überhaupt	-	-	-	0:15:08.612000	0:15:09.551000
 die	-	-	-	0:15:08.612000	0:15:09.551000
@@ -4165,7 +4165,7 @@ Sie	-	-	-	0:15:09.551000	0:15:13.996000
 oder	-	-	-	0:15:09.551000	0:15:13.996000
 /?	-	-	-	0:15:09.551000	0:15:13.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:13.996000" end="0:15:16.084000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:13.996000" end="0:15:16.084000" age_lower="18" age_upper="35">
 Dialektdeutsch	-	-	-	0:15:13.996000	0:15:16.084000
 ,	-	-	-	0:15:13.996000	0:15:16.084000
 ja	-	-	-	0:15:13.996000	0:15:16.084000
@@ -4174,11 +4174,11 @@ auch	-	-	-	0:15:13.996000	0:15:16.084000
 so	-	-	-	0:15:13.996000	0:15:16.084000
 /,	-	-	-	0:15:13.996000	0:15:16.084000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:16.084000" end="0:15:16.427000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:16.084000" end="0:15:16.427000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:16.084000	0:15:16.427000
 .	-	-	-	0:15:16.084000	0:15:16.427000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:16.427000" end="0:15:19.621000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:16.427000" end="0:15:19.621000" age_lower="18" age_upper="35">
 manche	-	-	-	0:15:16.427000	0:15:18.121000
 Wörter	-	-	-	0:15:16.427000	0:15:18.121000
 trotzdem	-	-	-	0:15:16.427000	0:15:18.121000
@@ -4191,13 +4191,13 @@ ich	-	-	-	0:15:18.121000	0:15:19.621000
 glaube	-	-	-	0:15:18.121000	0:15:19.621000
 /,	-	-	-	0:15:18.121000	0:15:19.621000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:18.121000" end="0:15:19.621000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:18.121000" end="0:15:19.621000" age_lower="1" age_upper="999">
 okay	-	-	-	0:15:18.121000	0:15:19.621000
 ,	-	-	-	0:15:18.121000	0:15:19.621000
 okay	-	-	-	0:15:18.121000	0:15:19.621000
 .	-	-	-	0:15:18.121000	0:15:19.621000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:19.621000" end="0:15:25.675000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:19.621000" end="0:15:25.675000" age_lower="18" age_upper="35">
 ich	-	-	-	0:15:19.621000	0:15:21.651000
 /,	-	-	-	0:15:19.621000	0:15:21.651000
 also	-	-	-	0:15:19.621000	0:15:21.651000
@@ -4224,13 +4224,13 @@ abzulegen	-	-	-	0:15:23.409000	0:15:25.090000
 .	-	-	-	0:15:23.409000	0:15:25.090000
 also	-	-	-	0:15:25.090000	0:15:25.675000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:25.090000" end="0:15:26.169000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:25.090000" end="0:15:26.169000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:25.090000	0:15:25.675000
 .	-	-	-	0:15:25.090000	0:15:25.675000
 mhm	-	-	-	0:15:25.675000	0:15:26.169000
 .	-	-	-	0:15:25.675000	0:15:26.169000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:26.169000" end="0:15:28.281000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:26.169000" end="0:15:28.281000" age_lower="18" age_upper="35">
 die	-	-	-	0:15:26.169000	0:15:27.366000
 Ausdrucksweise	-	-	-	0:15:26.169000	0:15:27.366000
 ,	-	-	-	0:15:26.169000	0:15:27.366000
@@ -4240,7 +4240,7 @@ sich	-	-	-	0:15:27.366000	0:15:28.281000
 ausdrückt	-	-	-	0:15:27.366000	0:15:28.281000
 .	-	-	-	0:15:27.366000	0:15:28.281000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:27.366000" end="0:15:32.581000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:27.366000" end="0:15:32.581000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:27.366000	0:15:28.281000
 .	-	-	-	0:15:27.366000	0:15:28.281000
 mhm	-	-	-	0:15:28.281000	0:15:30.236000
@@ -4259,10 +4259,10 @@ gut	-	-	-	0:15:30.236000	0:15:31.451000
 ähm	-	-	-	0:15:31.451000	0:15:32.581000
 /.	-	-	-	0:15:31.451000	0:15:32.581000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:32.581000" end="0:15:33.630000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:32.581000" end="0:15:33.630000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:32.581000" end="0:15:39.400000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:32.581000" end="0:15:39.400000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 gut	-	-	-	0:15:33.630000	0:15:35.742000
 t/	-	-	-	0:15:33.630000	0:15:35.742000
@@ -4280,10 +4280,10 @@ geschafft	-	-	-	0:15:35.742000	0:15:38.193000
 ähm	-	-	-	0:15:38.193000	0:15:39.400000
 /.	-	-	-	0:15:38.193000	0:15:39.400000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:39.400000" end="0:15:40.675000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:39.400000" end="0:15:40.675000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:39.400000" end="0:15:51.969000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:39.400000" end="0:15:51.969000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 wie	-	-	-	0:15:40.675000	0:15:43.315000
 würden	-	-	-	0:15:40.675000	0:15:43.315000
@@ -4313,33 +4313,33 @@ das	-	-	-	0:15:49.612000	0:15:51.969000
 nennen	-	-	-	0:15:49.612000	0:15:51.969000
 ?	-	-	-	0:15:49.612000	0:15:51.969000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:51.969000" end="0:15:53.551000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:51.969000" end="0:15:53.551000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:51.969000" end="0:15:53.551000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:51.969000" end="0:15:53.551000" age_lower="1" age_upper="999">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:53.551000" end="0:15:54.027000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:53.551000" end="0:15:54.027000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:15:53.551000	0:15:54.027000
 /.	-	-	-	0:15:53.551000	0:15:54.027000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:54.027000" end="0:15:54.966000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:54.027000" end="0:15:54.966000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:54.966000" end="0:15:56.148000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:54.966000" end="0:15:56.148000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:54.966000" end="0:15:56.875000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:54.966000" end="0:15:56.875000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 sozusagen	-	-	-	0:15:56.148000	0:15:56.875000
 /.	-	-	-	0:15:56.148000	0:15:56.875000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:56.875000" end="0:15:58.542000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:56.875000" end="0:15:58.542000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:56.875000" end="0:15:58.542000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:15:56.875000" end="0:15:58.542000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:58.542000" end="0:16:01.433000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:15:58.542000" end="0:16:01.433000" age_lower="18" age_upper="35">
 nen/	-	-	-	0:15:58.542000	0:16:01.433000
 ja	-	-	-	0:15:58.542000	0:16:01.433000
 ,	-	-	-	0:15:58.542000	0:16:01.433000
@@ -4352,25 +4352,25 @@ und	-	-	-	0:15:58.542000	0:16:01.433000
 Dialekt	-	-	-	0:15:58.542000	0:16:01.433000
 .	-	-	-	0:15:58.542000	0:16:01.433000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:01.433000" end="0:16:03.584000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:01.433000" end="0:16:03.584000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:01.433000	0:16:02.112000
 .	-	-	-	0:16:01.433000	0:16:02.112000
 <pause duration="0,6s"/>
 gut	-	-	-	0:16:02.112000	0:16:03.584000
 .	-	-	-	0:16:02.112000	0:16:03.584000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:03.584000" end="0:16:07.645000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:03.584000" end="0:16:07.645000" age_lower="18" age_upper="35">
 <pause duration="4,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:03.584000" end="0:16:08.615000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:03.584000" end="0:16:08.615000" age_lower="1" age_upper="999">
 <pause duration="4,0s"/>
 mhm	-	-	-	0:16:07.645000	0:16:08.615000
 .	-	-	-	0:16:07.645000	0:16:08.615000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:08.615000" end="0:16:10.515000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:08.615000" end="0:16:10.515000" age_lower="18" age_upper="35">
 <pause duration="1,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:08.615000" end="0:16:24.272000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:08.615000" end="0:16:24.272000" age_lower="1" age_upper="999">
 <pause duration="1,9s"/>
 gut	-	-	-	0:16:10.515000	0:16:14.051000
 ähm	-	-	-	0:16:10.515000	0:16:14.051000
@@ -4397,10 +4397,10 @@ Dialekt	-	-	-	0:16:17.112000	0:16:24.272000
 hin	-	-	-	0:16:17.112000	0:16:24.272000
 .	-	-	-	0:16:17.112000	0:16:24.272000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:24.272000" end="0:16:27.548000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:24.272000" end="0:16:27.548000" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:24.272000" end="0:16:32.248000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:24.272000" end="0:16:32.248000" age_lower="1" age_upper="999">
 <pause duration="3,2s"/>
 und	-	-	-	0:16:27.548000	0:16:32.248000
 hier	-	-	-	0:16:27.548000	0:16:32.248000
@@ -4412,10 +4412,10 @@ der	-	-	-	0:16:27.548000	0:16:32.248000
 ORF-Nachrichtensprecher	-	-	-	0:16:27.548000	0:16:32.248000
 .	-	-	-	0:16:27.548000	0:16:32.248000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:32.248000" end="0:16:32.812000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:32.248000" end="0:16:32.812000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:32.248000" end="0:16:43.578000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:32.248000" end="0:16:43.578000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:16:32.812000	0:16:37.524000
 wenn	-	-	-	0:16:32.812000	0:16:37.524000
@@ -4452,10 +4452,10 @@ Sie	-	-	-	0:16:42.696000	0:16:43.578000
 meinen	-	-	-	0:16:42.696000	0:16:43.578000
 /.	-	-	-	0:16:42.696000	0:16:43.578000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:43.578000" end="0:16:44.227000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:43.578000" end="0:16:44.227000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:43.578000" end="0:16:46.127000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:43.578000" end="0:16:46.127000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 aha	-	-	-	0:16:44.230000	0:16:44.890000
 ,	-	-	-	0:16:44.230000	0:16:44.890000
@@ -4464,27 +4464,27 @@ gut	-	-	-	0:16:44.890000	0:16:46.127000
 mhm	-	-	-	0:16:44.890000	0:16:46.127000
 .	-	-	-	0:16:44.890000	0:16:46.127000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:46.127000" end="0:16:46.757000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:46.127000" end="0:16:46.757000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:46.127000" end="0:16:47.487000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:46.127000" end="0:16:47.487000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 wunderbar	-	-	-	0:16:46.757000	0:16:47.487000
 .	-	-	-	0:16:46.757000	0:16:47.487000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:47.487000" end="0:16:48.806000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:47.487000" end="0:16:48.806000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:47.487000" end="0:16:50.521000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:47.487000" end="0:16:50.521000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 gut	-	-	-	0:16:48.806000	0:16:50.521000
 ähm	-	-	-	0:16:48.806000	0:16:50.521000
 /.	-	-	-	0:16:48.806000	0:16:50.521000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:50.521000" end="0:16:51.696000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:50.521000" end="0:16:51.696000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:50.521000" end="0:16:54.318000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:50.521000" end="0:16:54.318000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 sodala	-	-	-	0:16:51.696000	0:16:53.103000
 .	-	-	-	0:16:51.696000	0:16:53.103000
@@ -4494,26 +4494,26 @@ wir	-	-	-	0:16:53.103000	0:16:54.318000
 schon	-	-	-	0:16:53.103000	0:16:54.318000
 .	-	-	-	0:16:53.103000	0:16:54.318000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:54.318000" end="0:16:56" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:54.318000" end="0:16:56" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:54.318000" end="0:16:56.884000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:54.318000" end="0:16:56.884000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 ähm	-	-	-	0:16:56	0:16:56.884000
 /.	-	-	-	0:16:56	0:16:56.884000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:56.884000" end="0:16:58.251000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:56.884000" end="0:16:58.251000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:56.884000" end="0:16:59.075000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:56.884000" end="0:16:59.075000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 genau	-	-	-	0:16:58.251000	0:16:59.075000
 .	-	-	-	0:16:58.251000	0:16:59.075000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:59.075000" end="0:16:59.642000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:16:59.075000" end="0:16:59.642000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:59.075000" end="0:17:07.521000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:16:59.075000" end="0:17:07.521000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 wenn	-	-	-	0:16:59.642000	0:17:03.439000
 Sie	-	-	-	0:16:59.642000	0:17:03.439000
@@ -4542,11 +4542,11 @@ wahrscheinlich	-	-	-	0:17:04.606000	0:17:07.521000
 dann	-	-	-	0:17:04.606000	0:17:07.521000
 eher	-	-	-	0:17:04.606000	0:17:07.521000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:07.521000" end="0:17:08.527000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:07.521000" end="0:17:08.527000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:07.521000	0:17:08.527000
 .	-	-	-	0:17:07.521000	0:17:08.527000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:07.521000" end="0:17:09.587000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:07.521000" end="0:17:09.587000" age_lower="1" age_upper="999">
 das	-	-	-	0:17:07.521000	0:17:08.527000
 hier	-	-	-	0:17:07.521000	0:17:08.527000
 ,	-	-	-	0:17:07.521000	0:17:08.527000
@@ -4556,10 +4556,10 @@ oder	-	-	-	0:17:07.521000	0:17:08.527000
 ähm	-	-	-	0:17:08.527000	0:17:09.587000
 /.	-	-	-	0:17:08.527000	0:17:09.587000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:09.587000" end="0:17:10.121000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:09.587000" end="0:17:10.121000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:09.587000" end="0:17:21.612000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:09.587000" end="0:17:21.612000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 von	-	-	-	0:17:10.121000	0:17:13.781000
 der	-	-	-	0:17:10.121000	0:17:13.781000
@@ -4596,10 +4596,10 @@ Dialekt	-	-	-	0:17:13.781000	0:17:21.612000
 sprechen	-	-	-	0:17:13.781000	0:17:21.612000
 ?	-	-	-	0:17:13.781000	0:17:21.612000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:21.612000" end="0:17:23.603000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:21.612000" end="0:17:23.603000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:21.612000" end="0:17:27.700000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:21.612000" end="0:17:27.700000" age_lower="1" age_upper="999">
 <pause duration="2,0s"/>
 also	-	-	-	0:17:23.603000	0:17:25.184000
 sie	-	-	-	0:17:23.603000	0:17:25.184000
@@ -4619,9 +4619,9 @@ ankreuzen	-	-	-	0:17:25.184000	0:17:27.700000
 aber	-	-	-	0:17:25.184000	0:17:27.700000
 /.	-	-	-	0:17:25.184000	0:17:27.700000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:27.700000" end="0:17:30.221000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:27.700000" end="0:17:30.221000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:27.700000" end="0:17:30.221000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:27.700000" end="0:17:30.221000" age_lower="1" age_upper="999">
 so	-	-	-	0:17:27.700000	0:17:30.221000
 ,	-	-	-	0:17:27.700000	0:17:30.221000
 okay	-	-	-	0:17:27.700000	0:17:30.221000
@@ -4631,16 +4631,16 @@ gut	-	-	-	0:17:27.700000	0:17:30.221000
 passt	-	-	-	0:17:27.700000	0:17:30.221000
 .	-	-	-	0:17:27.700000	0:17:30.221000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:30.221000" end="0:17:32.206000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:30.221000" end="0:17:32.206000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:30.221000" end="0:17:34.039000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:30.221000" end="0:17:34.039000" age_lower="1" age_upper="999">
 gut	-	-	-	0:17:32.206000	0:17:34.039000
 ähm	-	-	-	0:17:32.206000	0:17:34.039000
 /.	-	-	-	0:17:32.206000	0:17:34.039000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:34.039000" end="0:17:39.575000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:34.039000" end="0:17:39.575000" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:34.039000	0:17:38.966000
 ,	-	-	-	0:17:34.039000	0:17:38.966000
 weil	-	-	-	0:17:34.039000	0:17:38.966000
@@ -4657,10 +4657,10 @@ dass	-	-	-	0:17:34.039000	0:17:38.966000
 /,	-	-	-	0:17:34.039000	0:17:38.966000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:38.966000" end="0:17:39.575000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:38.966000" end="0:17:39.575000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:39.575000" end="0:17:44.093000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:39.575000" end="0:17:44.093000" age_lower="18" age_upper="35">
 also	-	-	-	0:17:39.575000	0:17:42.678000
 ich	-	-	-	0:17:39.575000	0:17:42.678000
 rede	-	-	-	0:17:39.575000	0:17:42.678000
@@ -4678,11 +4678,11 @@ Dialekt"	-	-	-	0:17:39.575000	0:17:42.678000
 so	-	-	-	0:17:42.678000	0:17:44.093000
 /.	-	-	-	0:17:42.678000	0:17:44.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:42.678000" end="0:17:44.093000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:42.678000" end="0:17:44.093000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:17:42.678000	0:17:44.093000
 .	-	-	-	0:17:42.678000	0:17:44.093000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:44.093000" end="0:17:47.475000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:44.093000" end="0:17:47.475000" age_lower="18" age_upper="35">
 d/	-	-	-	0:17:44.093000	0:17:45.890000
 da	-	-	-	0:17:44.093000	0:17:45.890000
 muss	-	-	-	0:17:44.093000	0:17:45.890000
@@ -4699,7 +4699,7 @@ reden	-	-	-	0:17:45.890000	0:17:47.475000
 soll	-	-	-	0:17:45.890000	0:17:47.475000
 .	-	-	-	0:17:45.890000	0:17:47.475000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:47.475000" end="0:17:50.606000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:47.475000" end="0:17:50.606000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:47.475000	0:17:50.606000
 ,	-	-	-	0:17:47.475000	0:17:50.606000
 okay	-	-	-	0:17:47.475000	0:17:50.606000
@@ -4718,11 +4718,11 @@ manchmal	-	-	-	0:17:47.475000	0:17:50.606000
 irgendwie	-	-	-	0:17:47.475000	0:17:50.606000
 so	-	-	-	0:17:47.475000	0:17:50.606000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:50.606000" end="0:17:51.318000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:50.606000" end="0:17:51.318000" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:50.606000	0:17:51.318000
 .	-	-	-	0:17:50.606000	0:17:51.318000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:50.606000" end="0:17:52.633000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:50.606000" end="0:17:52.633000" age_lower="1" age_upper="999">
 auffällt	-	-	-	0:17:50.606000	0:17:51.318000
 ,	-	-	-	0:17:50.606000	0:17:51.318000
 ja	-	-	-	0:17:51.318000	0:17:52.633000
@@ -4732,10 +4732,10 @@ mhm	-	-	-	0:17:51.318000	0:17:52.633000
 mhm	-	-	-	0:17:51.318000	0:17:52.633000
 .	-	-	-	0:17:51.318000	0:17:52.633000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:52.633000" end="0:17:53.600000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:17:52.633000" end="0:17:53.600000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:52.633000" end="0:18:01.527000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:17:52.633000" end="0:18:01.527000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 gut	-	-	-	0:17:53.600000	0:17:57.351000
 ,	-	-	-	0:17:53.600000	0:17:57.351000
@@ -4765,11 +4765,11 @@ sagen	-	-	-	0:17:57.351000	0:18:01.527000
 ,	-	-	-	0:17:57.351000	0:18:01.527000
 sprechen	-	-	-	0:17:57.351000	0:18:01.527000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:01.527000" end="0:18:02.196000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:01.527000" end="0:18:02.196000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:01.527000	0:18:02.196000
 .	-	-	-	0:18:01.527000	0:18:02.196000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:01.527000" end="0:18:05.509000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:01.527000" end="0:18:05.509000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:18:01.527000	0:18:02.196000
 das	-	-	-	0:18:01.527000	0:18:02.196000
 .	-	-	-	0:18:01.527000	0:18:02.196000
@@ -4782,7 +4782,7 @@ irgendwie	-	-	-	0:18:02.196000	0:18:05.509000
 ?	-	-	-	0:18:02.196000	0:18:05.509000
 ich	-	-	-	0:18:02.196000	0:18:05.509000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:05.509000" end="0:18:07.048000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:05.509000" end="0:18:07.048000" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:05.509000	0:18:07.048000
 ,	-	-	-	0:18:05.509000	0:18:07.048000
 wenn	-	-	-	0:18:05.509000	0:18:07.048000
@@ -4792,16 +4792,16 @@ Freunden	-	-	-	0:18:05.509000	0:18:07.048000
 bin	-	-	-	0:18:05.509000	0:18:07.048000
 ,	-	-	-	0:18:05.509000	0:18:07.048000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:05.509000" end="0:18:07.048000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:05.509000" end="0:18:07.048000" age_lower="1" age_upper="999">
 weiß	-	-	-	0:18:05.509000	0:18:07.048000
 nicht	-	-	-	0:18:05.509000	0:18:07.048000
 /.	-	-	-	0:18:05.509000	0:18:07.048000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:07.048000" end="0:18:07.633000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:07.048000" end="0:18:07.633000" age_lower="18" age_upper="35">
 aber	-	-	-	0:18:07.048000	0:18:07.633000
 /.	-	-	-	0:18:07.048000	0:18:07.633000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:07.048000" end="0:18:09.633000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:07.048000" end="0:18:09.633000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:07.048000	0:18:07.633000
 .	-	-	-	0:18:07.048000	0:18:07.633000
 eigentlich	-	-	-	0:18:07.633000	0:18:09.633000
@@ -4814,19 +4814,19 @@ mhm	-	-	-	0:18:07.633000	0:18:09.633000
 mhm	-	-	-	0:18:07.633000	0:18:09.633000
 .	-	-	-	0:18:07.633000	0:18:09.633000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:09.633000" end="0:18:10.690000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:09.633000" end="0:18:10.690000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:09.633000" end="0:18:11.854000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:09.633000" end="0:18:11.854000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 gut	-	-	-	0:18:10.690000	0:18:11.854000
 ähm	-	-	-	0:18:10.690000	0:18:11.854000
 /.	-	-	-	0:18:10.690000	0:18:11.854000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:11.854000" end="0:18:15.206000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:11.854000" end="0:18:15.206000" age_lower="18" age_upper="35">
 <pause duration="3,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:11.854000" end="0:18:22.384000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:11.854000" end="0:18:22.384000" age_lower="1" age_upper="999">
 <pause duration="3,4s"/>
 von	-	-	-	0:18:15.206000	0:18:19.993000
 den	-	-	-	0:18:15.206000	0:18:19.993000
@@ -4853,7 +4853,7 @@ gerade	-	-	-	0:18:19.993000	0:18:22.384000
 wenn	-	-	-	0:18:19.993000	0:18:22.384000
 so	-	-	-	0:18:19.993000	0:18:22.384000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:22.384000" end="0:18:25.124000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:22.384000" end="0:18:25.124000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:22.384000	0:18:25.124000
 ,	-	-	-	0:18:22.384000	0:18:25.124000
 genau	-	-	-	0:18:22.384000	0:18:25.124000
@@ -4861,7 +4861,7 @@ genau	-	-	-	0:18:22.384000	0:18:25.124000
 ja	-	-	-	0:18:22.384000	0:18:25.124000
 .	-	-	-	0:18:22.384000	0:18:25.124000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:22.384000" end="0:18:28.118000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:22.384000" end="0:18:28.118000" age_lower="1" age_upper="999">
 Gäste	-	-	-	0:18:22.384000	0:18:25.124000
 kommen	-	-	-	0:18:22.384000	0:18:25.124000
 oder	-	-	-	0:18:22.384000	0:18:25.124000
@@ -4881,7 +4881,7 @@ wo	-	-	-	0:18:25.124000	0:18:28.118000
 Sie	-	-	-	0:18:25.124000	0:18:28.118000
 sich	-	-	-	0:18:25.124000	0:18:28.118000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:28.118000" end="0:18:29.145000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:28.118000" end="0:18:29.145000" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:28.118000	0:18:29.145000
 ,	-	-	-	0:18:28.118000	0:18:29.145000
 zum	-	-	-	0:18:28.118000	0:18:29.145000
@@ -4890,12 +4890,12 @@ Beispiel	-	-	-	0:18:28.118000	0:18:29.145000
 wenn	-	-	-	0:18:28.118000	0:18:29.145000
 ich	-	-	-	0:18:28.118000	0:18:29.145000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:28.118000" end="0:18:29.145000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:28.118000" end="0:18:29.145000" age_lower="1" age_upper="999">
 besonders	-	-	-	0:18:28.118000	0:18:29.145000
 bemü/	-	-	-	0:18:28.118000	0:18:29.145000
 /?	-	-	-	0:18:28.118000	0:18:29.145000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:29.145000" end="0:18:32.615000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:29.145000" end="0:18:32.615000" age_lower="18" age_upper="35">
 zum	-	-	-	0:18:29.145000	0:18:31.145000
 Beispiel	-	-	-	0:18:29.145000	0:18:31.145000
 Vorstellungsgespräch	-	-	-	0:18:29.145000	0:18:31.145000
@@ -4910,13 +4910,13 @@ mich	-	-	-	0:18:31.145000	0:18:32.615000
 irgendwo	-	-	-	0:18:31.145000	0:18:32.615000
 ,	-	-	-	0:18:31.145000	0:18:32.615000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:31.145000" end="0:18:33.251000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:31.145000" end="0:18:33.251000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:31.145000	0:18:32.615000
 .	-	-	-	0:18:31.145000	0:18:32.615000
 mhm	-	-	-	0:18:32.615000	0:18:33.251000
 .	-	-	-	0:18:32.615000	0:18:33.251000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:33.251000" end="0:18:36.200000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:33.251000" end="0:18:36.200000" age_lower="18" age_upper="35">
 dann	-	-	-	0:18:33.251000	0:18:35.718000
 spreche	-	-	-	0:18:33.251000	0:18:35.718000
 ich	-	-	-	0:18:33.251000	0:18:35.718000
@@ -4926,12 +4926,12 @@ Deutsch	-	-	-	0:18:33.251000	0:18:35.718000
 .	-	-	-	0:18:33.251000	0:18:35.718000
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:35.718000" end="0:18:36.636000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:35.718000" end="0:18:36.636000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:18:36.200000	0:18:36.636000
 .	-	-	-	0:18:36.200000	0:18:36.636000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:36.636000" end="0:18:41.778000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:36.636000" end="0:18:41.778000" age_lower="18" age_upper="35">
 und	-	-	-	0:18:36.636000	0:18:41.133000
 sonst	-	-	-	0:18:36.636000	0:18:41.133000
 so	-	-	-	0:18:36.636000	0:18:41.133000
@@ -4950,14 +4950,14 @@ oder	-	-	-	0:18:36.636000	0:18:41.133000
 so	-	-	-	0:18:41.133000	0:18:41.778000
 ,	-	-	-	0:18:41.133000	0:18:41.778000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:41.133000" end="0:18:42.387000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:41.133000" end="0:18:42.387000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:18:41.133000	0:18:41.778000
 ja	-	-	-	0:18:41.133000	0:18:41.778000
 ,	-	-	-	0:18:41.133000	0:18:41.778000
 mhm	-	-	-	0:18:41.778000	0:18:42.387000
 .	-	-	-	0:18:41.778000	0:18:42.387000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:42.387000" end="0:18:45.033000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:42.387000" end="0:18:45.033000" age_lower="18" age_upper="35">
 die	-	-	-	0:18:42.387000	0:18:44.333000
 natürlich	-	-	-	0:18:42.387000	0:18:44.333000
 auf	-	-	-	0:18:42.387000	0:18:44.333000
@@ -4967,19 +4967,19 @@ Deutsch	-	-	-	0:18:42.387000	0:18:44.333000
 also	-	-	-	0:18:44.333000	0:18:45.033000
 /.	-	-	-	0:18:44.333000	0:18:45.033000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:45.033000" end="0:18:45.587000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:45.033000" end="0:18:45.587000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:45.033000	0:18:45.587000
 .	-	-	-	0:18:45.033000	0:18:45.587000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:45.587000" end="0:18:46.263000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:45.587000" end="0:18:46.263000" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:45.587000	0:18:46.263000
 .	-	-	-	0:18:45.587000	0:18:46.263000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:45.587000" end="0:18:46.263000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:45.587000" end="0:18:46.263000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:45.587000	0:18:46.263000
 .	-	-	-	0:18:45.587000	0:18:46.263000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:46.263000" end="0:18:47.687000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:46.263000" end="0:18:47.687000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:18:46.263000	0:18:47.687000
 ,	-	-	-	0:18:46.263000	0:18:47.687000
@@ -4987,22 +4987,22 @@ aber	-	-	-	0:18:46.263000	0:18:47.687000
 sonst	-	-	-	0:18:46.263000	0:18:47.687000
 /.	-	-	-	0:18:46.263000	0:18:47.687000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:47.687000" end="0:18:48.169000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:47.687000" end="0:18:48.169000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:18:47.687000	0:18:48.169000
 .	-	-	-	0:18:47.687000	0:18:48.169000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:48.169000" end="0:18:48.942000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:48.169000" end="0:18:48.942000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:48.169000" end="0:18:49.339000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:48.169000" end="0:18:49.339000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:18:48.942000	0:18:49.339000
 .	-	-	-	0:18:48.942000	0:18:49.339000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:49.339000" end="0:18:50.136000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:18:49.339000" end="0:18:50.136000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:49.339000" end="0:19:00.712000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:18:49.339000" end="0:19:00.712000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 okay	-	-	-	0:18:50.136000	0:18:51.309000
 .	-	-	-	0:18:50.136000	0:18:51.309000
@@ -5034,17 +5034,17 @@ Lehrer	-	-	-	0:18:58.660000	0:19:00.712000
 auch	-	-	-	0:18:58.660000	0:19:00.712000
 ?	-	-	-	0:18:58.660000	0:19:00.712000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:00.712000" end="0:19:01.848000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:00.712000" end="0:19:01.848000" age_lower="18" age_upper="35">
 naja	-	-	-	0:19:00.712000	0:19:01.848000
 ,	-	-	-	0:19:00.712000	0:19:01.848000
 sch/	-	-	-	0:19:00.712000	0:19:01.848000
 /,	-	-	-	0:19:00.712000	0:19:01.848000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:00.712000" end="0:19:01.848000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:00.712000" end="0:19:01.848000" age_lower="1" age_upper="999">
 oder	-	-	-	0:19:00.712000	0:19:01.848000
 /?	-	-	-	0:19:00.712000	0:19:01.848000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:01.848000" end="0:19:05.384000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:01.848000" end="0:19:05.384000" age_lower="18" age_upper="35">
 besser	-	-	-	0:19:01.848000	0:19:02.918000
 wäre	-	-	-	0:19:01.848000	0:19:02.918000
 es	-	-	-	0:19:01.848000	0:19:02.918000
@@ -5060,19 +5060,19 @@ wichtig	-	-	-	0:19:02.918000	0:19:05.384000
 ist	-	-	-	0:19:02.918000	0:19:05.384000
 ,	-	-	-	0:19:02.918000	0:19:05.384000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:02.918000" end="0:19:05.384000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:02.918000" end="0:19:05.384000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:02.918000	0:19:05.384000
 ,	-	-	-	0:19:02.918000	0:19:05.384000
 mhm	-	-	-	0:19:02.918000	0:19:05.384000
 .	-	-	-	0:19:02.918000	0:19:05.384000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:05.384000" end="0:19:06.069000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:05.384000" end="0:19:06.069000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:05.384000" end="0:19:06.069000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:05.384000" end="0:19:06.069000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:06.069000" end="0:19:12.309000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:06.069000" end="0:19:12.309000" age_lower="18" age_upper="35">
 aber	-	-	-	0:19:06.069000	0:19:08.806000
 es	-	-	-	0:19:06.069000	0:19:08.806000
 gibt	-	-	-	0:19:06.069000	0:19:08.806000
@@ -5091,18 +5091,18 @@ Dialekt	-	-	-	0:19:08.806000	0:19:12.309000
 sprechen"	-	-	-	0:19:08.806000	0:19:12.309000
 .	-	-	-	0:19:08.806000	0:19:12.309000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:12.309000" end="0:19:13.127000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:12.309000" end="0:19:13.127000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:12.309000	0:19:13.127000
 .	-	-	-	0:19:12.309000	0:19:13.127000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:13.130000" end="0:19:13.778000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:13.130000" end="0:19:13.778000" age_lower="18" age_upper="35">
 und	-	-	-	0:19:13.130000	0:19:13.778000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:13.130000" end="0:19:13.778000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:13.130000" end="0:19:13.778000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:13.130000	0:19:13.778000
 .	-	-	-	0:19:13.130000	0:19:13.778000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:13.778000" end="0:19:18.445000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:13.778000" end="0:19:18.445000" age_lower="18" age_upper="35">
 bei	-	-	-	0:19:13.778000	0:19:15.772000
 denen	-	-	-	0:19:13.778000	0:19:15.772000
 ist	-	-	-	0:19:13.778000	0:19:15.772000
@@ -5122,19 +5122,19 @@ lernen	-	-	-	0:19:15.772000	0:19:17.366000
 ,	-	-	-	0:19:15.772000	0:19:17.366000
 aber	-	-	-	0:19:17.366000	0:19:18.445000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:17.366000" end="0:19:18.445000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:17.366000" end="0:19:18.445000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:17.366000	0:19:18.445000
 ,	-	-	-	0:19:17.366000	0:19:18.445000
 ja	-	-	-	0:19:17.366000	0:19:18.445000
 .	-	-	-	0:19:17.366000	0:19:18.445000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:18.445000" end="0:19:19.430000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:18.445000" end="0:19:19.430000" age_lower="18" age_upper="35">
 es	-	-	-	0:19:18.445000	0:19:19.430000
 wäre	-	-	-	0:19:18.445000	0:19:19.430000
 besser	-	-	-	0:19:18.445000	0:19:19.430000
 .	-	-	-	0:19:18.445000	0:19:19.430000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:19.430000" end="0:19:22.451000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:19.430000" end="0:19:22.451000" age_lower="1" age_upper="999">
 ja	-	-	-	0:19:19.430000	0:19:20.675000
 ,	-	-	-	0:19:19.430000	0:19:20.675000
 ja	-	-	-	0:19:19.430000	0:19:20.675000
@@ -5147,10 +5147,10 @@ okay	-	-	-	0:19:20.675000	0:19:22.451000
 mhm	-	-	-	0:19:20.675000	0:19:22.451000
 .	-	-	-	0:19:20.675000	0:19:22.451000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:22.451000" end="0:19:23.727000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:22.451000" end="0:19:23.727000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:22.451000" end="0:19:28.400000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:22.451000" end="0:19:28.400000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 ja	-	-	-	0:19:23.727000	0:19:25.445000
 ähm	-	-	-	0:19:23.727000	0:19:25.445000
@@ -5172,11 +5172,11 @@ was	-	-	-	0:19:27.463000	0:19:28.400000
 Sie	-	-	-	0:19:27.463000	0:19:28.400000
 sich	-	-	-	0:19:27.463000	0:19:28.400000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:28.400000" end="0:19:29.378000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:28.400000" end="0:19:29.378000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:19:28.400000	0:19:29.378000
 .	-	-	-	0:19:28.400000	0:19:29.378000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:28.400000" end="0:19:46.721000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:28.400000" end="0:19:46.721000" age_lower="1" age_upper="999">
 vorstellen	-	-	-	0:19:28.400000	0:19:29.378000
 wollen	-	-	-	0:19:28.400000	0:19:29.378000
 ,	-	-	-	0:19:28.400000	0:19:29.378000
@@ -5232,15 +5232,15 @@ einen	-	-	-	0:19:44.639000	0:19:46.721000
 Eindruck	-	-	-	0:19:44.639000	0:19:46.721000
 ?	-	-	-	0:19:44.639000	0:19:46.721000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:46.721000" end="0:19:47.672000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:46.721000" end="0:19:47.672000" age_lower="18" age_upper="35">
 höher	-	-	-	0:19:46.721000	0:19:47.672000
 .	-	-	-	0:19:46.721000	0:19:47.672000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:47.672000" end="0:19:48.348000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:47.672000" end="0:19:48.348000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:47.672000	0:19:48.348000
 .	-	-	-	0:19:47.672000	0:19:48.348000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:48.348000" end="0:19:51.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:48.348000" end="0:19:51.996000" age_lower="18" age_upper="35">
 es	-	-	-	0:19:48.348000	0:19:51.590000
 ste/	-	-	-	0:19:48.348000	0:19:51.590000
 /,	-	-	-	0:19:48.348000	0:19:51.590000
@@ -5264,20 +5264,20 @@ sind	-	-	-	0:19:48.348000	0:19:51.590000
 aber	-	-	-	0:19:51.590000	0:19:51.996000
 /.	-	-	-	0:19:51.590000	0:19:51.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:51.590000" end="0:19:52.863000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:51.590000" end="0:19:52.863000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:51.590000	0:19:51.996000
 .	-	-	-	0:19:51.590000	0:19:51.996000
 <pause duration="0,5s"/>
 mhm	-	-	-	0:19:51.996000	0:19:52.863000
 .	-	-	-	0:19:51.996000	0:19:52.863000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:52.863000" end="0:19:53.621000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:52.863000" end="0:19:53.621000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:52.863000" end="0:19:53.621000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:52.863000" end="0:19:53.621000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:53.621000" end="0:19:58.403000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:53.621000" end="0:19:58.403000" age_lower="18" age_upper="35">
 keine	-	-	-	0:19:53.621000	0:19:55.496000
 Ahnung	-	-	-	0:19:53.621000	0:19:55.496000
 ,	-	-	-	0:19:53.621000	0:19:55.496000
@@ -5295,11 +5295,11 @@ nicht	-	-	-	0:19:55.496000	0:19:57.657000
 ins	-	-	-	0:19:57.657000	0:19:58.403000
 /,	-	-	-	0:19:57.657000	0:19:58.403000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:57.657000" end="0:19:58.403000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:19:57.657000" end="0:19:58.403000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:19:57.657000	0:19:58.403000
 .	-	-	-	0:19:57.657000	0:19:58.403000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:58.403000" end="0:20:01.203000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:19:58.403000" end="0:20:01.203000" age_lower="18" age_upper="35">
 der	-	-	-	0:19:58.403000	0:20:00.066000
 gehört	-	-	-	0:19:58.403000	0:20:00.066000
 zuhause	-	-	-	0:19:58.403000	0:20:00.066000
@@ -5307,17 +5307,17 @@ zuhause	-	-	-	0:19:58.403000	0:20:00.066000
 aber	-	-	-	0:20:00.066000	0:20:01.203000
 nicht	-	-	-	0:20:00.066000	0:20:01.203000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:00.066000" end="0:20:01.203000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:00.066000" end="0:20:01.203000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:00.066000	0:20:01.203000
 .	-	-	-	0:20:00.066000	0:20:01.203000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:01.203000" end="0:20:02.321000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:01.203000" end="0:20:02.321000" age_lower="18" age_upper="35">
 nach	-	-	-	0:20:01.203000	0:20:02.321000
 außen	-	-	-	0:20:01.203000	0:20:02.321000
 hin	-	-	-	0:20:01.203000	0:20:02.321000
 .	-	-	-	0:20:01.203000	0:20:02.321000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:02.321000" end="0:20:09.060000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:02.321000" end="0:20:09.060000" age_lower="1" age_upper="999">
 ja	-	-	-	0:20:02.321000	0:20:03.648000
 ,	-	-	-	0:20:02.321000	0:20:03.648000
 ja	-	-	-	0:20:02.321000	0:20:03.648000
@@ -5342,12 +5342,12 @@ was	-	-	-	0:20:08.281000	0:20:09.060000
 wi/	-	-	-	0:20:08.281000	0:20:09.060000
 was	-	-	-	0:20:08.281000	0:20:09.060000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:09.060000" end="0:20:10.609000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:09.060000" end="0:20:10.609000" age_lower="18" age_upper="35">
 der	-	-	-	0:20:09.060000	0:20:10.609000
 sollte	-	-	-	0:20:09.060000	0:20:10.609000
 /,	-	-	-	0:20:09.060000	0:20:10.609000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:09.060000" end="0:20:10.609000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:09.060000" end="0:20:10.609000" age_lower="1" age_upper="999">
 hätten	-	-	-	0:20:09.060000	0:20:10.609000
 Sie	-	-	-	0:20:09.060000	0:20:10.609000
 da	-	-	-	0:20:09.060000	0:20:10.609000
@@ -5356,7 +5356,7 @@ einen	-	-	-	0:20:09.060000	0:20:10.609000
 Eindruck	-	-	-	0:20:09.060000	0:20:10.609000
 ?	-	-	-	0:20:09.060000	0:20:10.609000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:10.609000" end="0:20:13.512000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:10.609000" end="0:20:13.512000" age_lower="18" age_upper="35">
 der	-	-	-	0:20:10.609000	0:20:13.512000
 sollte	-	-	-	0:20:10.609000	0:20:13.512000
 besser	-	-	-	0:20:10.609000	0:20:13.512000
@@ -5365,18 +5365,18 @@ Deutsch	-	-	-	0:20:10.609000	0:20:13.512000
 sprechen	-	-	-	0:20:10.609000	0:20:13.512000
 .	-	-	-	0:20:10.609000	0:20:13.512000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:10.609000" end="0:20:13.512000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:10.609000" end="0:20:13.512000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:13.512000" end="0:20:14.342000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:13.512000" end="0:20:14.342000" age_lower="18" age_upper="35">
 na/	-	-	-	0:20:13.512000	0:20:14.342000
 d/	-	-	-	0:20:13.512000	0:20:14.342000
 d/	-	-	-	0:20:13.512000	0:20:14.342000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:13.512000" end="0:20:14.342000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:13.512000" end="0:20:14.342000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:13.512000	0:20:14.342000
 .	-	-	-	0:20:13.512000	0:20:14.342000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:14.342000" end="0:20:16.772000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:14.342000" end="0:20:16.772000" age_lower="18" age_upper="35">
 d/	-	-	-	0:20:14.342000	0:20:16.772000
 der	-	-	-	0:20:14.342000	0:20:16.772000
 sollte	-	-	-	0:20:14.342000	0:20:16.772000
@@ -5389,34 +5389,34 @@ das	-	-	-	0:20:14.342000	0:20:16.772000
 lernt	-	-	-	0:20:14.342000	0:20:16.772000
 .	-	-	-	0:20:14.342000	0:20:16.772000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:16.775000" end="0:20:17.836000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:16.775000" end="0:20:17.836000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:16.775000	0:20:17.836000
 ,	-	-	-	0:20:16.775000	0:20:17.836000
 okay	-	-	-	0:20:16.775000	0:20:17.836000
 .	-	-	-	0:20:16.775000	0:20:17.836000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:17.836000" end="0:20:18.715000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:17.836000" end="0:20:18.715000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:17.836000" end="0:20:20.021000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:17.836000" end="0:20:20.021000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 gut	-	-	-	0:20:18.715000	0:20:20.021000
 ,	-	-	-	0:20:18.715000	0:20:20.021000
 mhm	-	-	-	0:20:18.715000	0:20:20.021000
 .	-	-	-	0:20:18.715000	0:20:20.021000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:20.021000" end="0:20:22.021000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:20.021000" end="0:20:22.021000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:20.021000" end="0:20:22.754000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:20.021000" end="0:20:22.754000" age_lower="1" age_upper="999">
 <pause duration="2,0s"/>
 ähm	-	-	-	0:20:22.021000	0:20:22.754000
 /.	-	-	-	0:20:22.021000	0:20:22.754000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:22.754000" end="0:20:23.854000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:22.754000" end="0:20:23.854000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:22.754000" end="0:20:33.290000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:22.754000" end="0:20:33.290000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 wie	-	-	-	0:20:23.854000	0:20:25.645000
 würden	-	-	-	0:20:23.854000	0:20:25.645000
@@ -5449,17 +5449,17 @@ sprechen	-	-	-	0:20:29.739000	0:20:32.521000
 nein	-	-	-	0:20:32.521000	0:20:33.290000
 ?	-	-	-	0:20:32.521000	0:20:33.290000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:33.290000" end="0:20:34.033000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:33.290000" end="0:20:34.033000" age_lower="18" age_upper="35">
 nein	-	-	-	0:20:33.290000	0:20:34.033000
 .	-	-	-	0:20:33.290000	0:20:34.033000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:33.290000" end="0:20:34.457000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:33.290000" end="0:20:34.457000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:33.290000	0:20:34.033000
 .	-	-	-	0:20:33.290000	0:20:34.033000
 mhm	-	-	-	0:20:34.033000	0:20:34.457000
 .	-	-	-	0:20:34.033000	0:20:34.457000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:34.457000" end="0:20:39.093000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:34.457000" end="0:20:39.093000" age_lower="18" age_upper="35">
 also	-	-	-	0:20:34.457000	0:20:39.093000
 ich	-	-	-	0:20:34.457000	0:20:39.093000
 werde	-	-	-	0:20:34.457000	0:20:39.093000
@@ -5476,32 +5476,32 @@ Wienerin	-	-	-	0:20:34.457000	0:20:39.093000
 geschätzt	-	-	-	0:20:34.457000	0:20:39.093000
 .	-	-	-	0:20:34.457000	0:20:39.093000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:39.093000" end="0:20:39.733000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:39.093000" end="0:20:39.733000" age_lower="1" age_upper="999">
 aha	-	-	-	0:20:39.093000	0:20:39.733000
 ,	-	-	-	0:20:39.093000	0:20:39.733000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:39.733000" end="0:20:40.712000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:39.733000" end="0:20:40.712000" age_lower="18" age_upper="35">
 also	-	-	-	0:20:39.733000	0:20:40.712000
 /.	-	-	-	0:20:39.733000	0:20:40.712000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:39.733000" end="0:20:40.712000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:39.733000" end="0:20:40.712000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:39.733000	0:20:40.712000
 .	-	-	-	0:20:39.733000	0:20:40.712000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:40.712000" end="0:20:42.196000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:40.712000" end="0:20:42.196000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 obwohl	-	-	-	0:20:40.712000	0:20:42.196000
 ,	-	-	-	0:20:40.712000	0:20:42.196000
 naja	-	-	-	0:20:40.712000	0:20:42.196000
 ,	-	-	-	0:20:40.712000	0:20:42.196000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:40.712000" end="0:20:42.196000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:40.712000" end="0:20:42.196000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 was	-	-	-	0:20:40.712000	0:20:42.196000
 sag/	-	-	-	0:20:40.712000	0:20:42.196000
 /?	-	-	-	0:20:40.712000	0:20:42.196000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:42.196000" end="0:20:47.312000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:42.196000" end="0:20:47.312000" age_lower="18" age_upper="35">
 es	-	-	-	0:20:42.196000	0:20:43.396000
 gibt	-	-	-	0:20:42.196000	0:20:43.396000
 schon	-	-	-	0:20:42.196000	0:20:43.396000
@@ -5530,13 +5530,13 @@ kommen	-	-	-	0:20:46.021000	0:20:47.312000
 ,	-	-	-	0:20:46.021000	0:20:47.312000
 also	-	-	-	0:20:46.021000	0:20:47.312000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:46.021000" end="0:20:47.312000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:46.021000" end="0:20:47.312000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:46.021000	0:20:47.312000
 ,	-	-	-	0:20:46.021000	0:20:47.312000
 mhm	-	-	-	0:20:46.021000	0:20:47.312000
 .	-	-	-	0:20:46.021000	0:20:47.312000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:47.312000" end="0:20:53.063000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:47.312000" end="0:20:53.063000" age_lower="18" age_upper="35">
 von	-	-	-	0:20:47.312000	0:20:51.103000
 den	-	-	-	0:20:47.312000	0:20:51.103000
 o/	-	-	-	0:20:47.312000	0:20:51.103000
@@ -5558,11 +5558,11 @@ Kärnten	-	-	-	0:20:51.100000	0:20:53.063000
 und	-	-	-	0:20:51.100000	0:20:53.063000
 Tirol	-	-	-	0:20:51.100000	0:20:53.063000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:51.100000" end="0:20:53.063000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:51.100000" end="0:20:53.063000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:51.100000	0:20:53.063000
 .	-	-	-	0:20:51.100000	0:20:53.063000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:53.063000" end="0:20:54.321000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:20:53.063000" end="0:20:54.321000" age_lower="18" age_upper="35">
 weiß	-	-	-	0:20:53.063000	0:20:54.321000
 man	-	-	-	0:20:53.063000	0:20:54.321000
 es	-	-	-	0:20:53.063000	0:20:54.321000
@@ -5572,7 +5572,7 @@ schon	-	-	-	0:20:53.063000	0:20:54.321000
 dass	-	-	-	0:20:53.063000	0:20:54.321000
 /.	-	-	-	0:20:53.063000	0:20:54.321000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:53.063000" end="0:21:01.609000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:20:53.063000" end="0:21:01.609000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:53.063000	0:20:54.321000
 .	-	-	-	0:20:53.063000	0:20:54.321000
 ja	-	-	-	0:20:54.321000	0:20:55.230000
@@ -5605,7 +5605,7 @@ worden	-	-	-	0:20:59.696000	0:21:01.609000
 sind	-	-	-	0:20:59.696000	0:21:01.609000
 ,	-	-	-	0:20:59.696000	0:21:01.609000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:01.609000" end="0:21:03.506000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:01.609000" end="0:21:03.506000" age_lower="18" age_upper="35">
 nein	-	-	-	0:21:01.609000	0:21:03.506000
 ,	-	-	-	0:21:01.609000	0:21:03.506000
 die	-	-	-	0:21:01.609000	0:21:03.506000
@@ -5613,7 +5613,7 @@ Leute	-	-	-	0:21:01.609000	0:21:03.506000
 glauben	-	-	-	0:21:01.609000	0:21:03.506000
 ,	-	-	-	0:21:01.609000	0:21:03.506000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:01.609000" end="0:21:03.506000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:01.609000" end="0:21:03.506000" age_lower="1" age_upper="999">
 dass	-	-	-	0:21:01.609000	0:21:03.506000
 Sie	-	-	-	0:21:01.609000	0:21:03.506000
 jetzt	-	-	-	0:21:01.609000	0:21:03.506000
@@ -5622,7 +5622,7 @@ der	-	-	-	0:21:01.609000	0:21:03.506000
 Steiermark	-	-	-	0:21:01.609000	0:21:03.506000
 /?	-	-	-	0:21:01.609000	0:21:03.506000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:03.506000" end="0:21:06.042000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:03.506000" end="0:21:06.042000" age_lower="18" age_upper="35">
 dass	-	-	-	0:21:03.506000	0:21:04.515000
 ich	-	-	-	0:21:03.506000	0:21:04.515000
 Wienerin	-	-	-	0:21:03.506000	0:21:04.515000
@@ -5631,7 +5631,7 @@ bin	-	-	-	0:21:04.515000	0:21:06.042000
 ja	-	-	-	0:21:04.515000	0:21:06.042000
 .	-	-	-	0:21:04.515000	0:21:06.042000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:04.515000" end="0:21:12.875000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:04.515000" end="0:21:12.875000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:21:04.515000	0:21:06.042000
 ja	-	-	-	0:21:04.515000	0:21:06.042000
 ,	-	-	-	0:21:04.515000	0:21:06.042000
@@ -5662,7 +5662,7 @@ ja	-	-	-	0:21:10.866000	0:21:12.875000
 das	-	-	-	0:21:10.866000	0:21:12.875000
 ist	-	-	-	0:21:10.866000	0:21:12.875000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:12.875000" end="0:21:14.678000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:12.875000" end="0:21:14.678000" age_lower="18" age_upper="35">
 okay	-	-	-	0:21:12.875000	0:21:14.678000
 ,	-	-	-	0:21:12.875000	0:21:14.678000
 "kein"	-	-	-	0:21:12.875000	0:21:14.678000
@@ -5670,7 +5670,7 @@ okay	-	-	-	0:21:12.875000	0:21:14.678000
 ja	-	-	-	0:21:12.875000	0:21:14.678000
 .	-	-	-	0:21:12.875000	0:21:14.678000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:12.875000" end="0:21:20.263000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:12.875000" end="0:21:20.263000" age_lower="1" age_upper="999">
 schlecht	-	-	-	0:21:12.875000	0:21:14.678000
 zusammengeheftet	-	-	-	0:21:12.875000	0:21:14.678000
 ,	-	-	-	0:21:12.875000	0:21:14.678000
@@ -5695,13 +5695,13 @@ wahrscheinlich	-	-	-	0:21:18.103000	0:21:20.263000
 eher	-	-	-	0:21:18.103000	0:21:20.263000
 /.	-	-	-	0:21:18.103000	0:21:20.263000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:20.263000" end="0:21:21.260000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:20.263000" end="0:21:21.260000" age_lower="18" age_upper="35">
 eher	-	-	-	0:21:20.263000	0:21:21.260000
 nicht	-	-	-	0:21:20.263000	0:21:21.260000
 so	-	-	-	0:21:20.263000	0:21:21.260000
 .	-	-	-	0:21:20.263000	0:21:21.260000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:21.260000" end="0:21:22.409000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:21.260000" end="0:21:22.409000" age_lower="1" age_upper="999">
 eher	-	-	-	0:21:21.260000	0:21:22.409000
 nicht	-	-	-	0:21:21.260000	0:21:22.409000
 so	-	-	-	0:21:21.260000	0:21:22.409000
@@ -5709,7 +5709,7 @@ so	-	-	-	0:21:21.260000	0:21:22.409000
 genau	-	-	-	0:21:21.260000	0:21:22.409000
 .	-	-	-	0:21:21.260000	0:21:22.409000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:22.409000" end="0:21:24.293000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:22.409000" end="0:21:24.293000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:21:22.409000	0:21:24.293000
 ja	-	-	-	0:21:22.409000	0:21:24.293000
 ,	-	-	-	0:21:22.409000	0:21:24.293000
@@ -5717,16 +5717,16 @@ ja	-	-	-	0:21:22.409000	0:21:24.293000
 hier	-	-	-	0:21:22.409000	0:21:24.293000
 .	-	-	-	0:21:22.409000	0:21:24.293000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:22.409000" end="0:21:25.436000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:22.409000" end="0:21:25.436000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:24.293000	0:21:25.436000
 ,	-	-	-	0:21:24.293000	0:21:25.436000
 mhm	-	-	-	0:21:24.293000	0:21:25.436000
 .	-	-	-	0:21:24.293000	0:21:25.436000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:25.436000" end="0:21:26.239000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:25.436000" end="0:21:26.239000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:25.436000" end="0:21:28.136000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:25.436000" end="0:21:28.136000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 super	-	-	-	0:21:26.239000	0:21:26.927000
 .	-	-	-	0:21:26.239000	0:21:26.927000
@@ -5734,19 +5734,19 @@ super	-	-	-	0:21:26.239000	0:21:26.927000
 genau	-	-	-	0:21:26.927000	0:21:28.136000
 .	-	-	-	0:21:26.927000	0:21:28.136000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:28.136000" end="0:21:30.327000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:28.136000" end="0:21:30.327000" age_lower="18" age_upper="35">
 <pause duration="2,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:28.136000" end="0:21:32.530000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:28.136000" end="0:21:32.530000" age_lower="1" age_upper="999">
 <pause duration="2,1s"/>
 okay	-	-	-	0:21:30.327000	0:21:32.530000
 ähm	-	-	-	0:21:30.327000	0:21:32.530000
 /.	-	-	-	0:21:30.327000	0:21:32.530000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:32.530000" end="0:21:34.809000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:32.530000" end="0:21:34.809000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:32.530000" end="0:21:54.836000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:32.530000" end="0:21:54.836000" age_lower="1" age_upper="999">
 <pause duration="2,3s"/>
 ähm	-	-	-	0:21:34.815000	0:21:36.675000
 ja	-	-	-	0:21:34.815000	0:21:36.675000
@@ -5828,13 +5828,13 @@ eine	-	-	-	0:21:52.854000	0:21:54.836000
 Schwester	-	-	-	0:21:52.854000	0:21:54.836000
 ,	-	-	-	0:21:52.854000	0:21:54.836000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:54.836000" end="0:21:55.654000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:21:54.836000" end="0:21:55.654000" age_lower="18" age_upper="35">
 zwei	-	-	-	0:21:54.836000	0:21:55.654000
 ,	-	-	-	0:21:54.836000	0:21:55.654000
 ja	-	-	-	0:21:54.836000	0:21:55.654000
 .	-	-	-	0:21:54.836000	0:21:55.654000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:54.836000" end="0:22:04.521000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:21:54.836000" end="0:22:04.521000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:21:54.836000	0:21:55.654000
 ?	-	-	-	0:21:54.836000	0:21:55.654000
 oder	-	-	-	0:21:54.836000	0:21:55.654000
@@ -5872,7 +5872,7 @@ Eindruck	-	-	-	0:22:02.009000	0:22:04.521000
 oder	-	-	-	0:22:02.009000	0:22:04.521000
 /?	-	-	-	0:22:02.009000	0:22:04.521000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:04.521000" end="0:22:06.684000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:04.521000" end="0:22:06.684000" age_lower="18" age_upper="35">
 ich	-	-	-	0:22:04.521000	0:22:06.684000
 würde	-	-	-	0:22:04.521000	0:22:06.684000
 es	-	-	-	0:22:04.521000	0:22:06.684000
@@ -5883,9 +5883,9 @@ schlimm	-	-	-	0:22:04.521000	0:22:06.684000
 finden	-	-	-	0:22:04.521000	0:22:06.684000
 ,	-	-	-	0:22:04.521000	0:22:06.684000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:04.521000" end="0:22:06.684000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:04.521000" end="0:22:06.684000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:06.684000" end="0:22:08.430000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:06.684000" end="0:22:08.430000" age_lower="18" age_upper="35">
 ich	-	-	-	0:22:06.684000	0:22:07.809000
 würde	-	-	-	0:22:06.684000	0:22:07.809000
 es	-	-	-	0:22:06.684000	0:22:07.809000
@@ -5898,11 +5898,11 @@ wenn	-	-	-	0:22:07.809000	0:22:08.430000
 die	-	-	-	0:22:07.809000	0:22:08.430000
 ganze	-	-	-	0:22:07.809000	0:22:08.430000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:07.809000" end="0:22:08.430000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:07.809000" end="0:22:08.430000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:07.809000	0:22:08.430000
 .	-	-	-	0:22:07.809000	0:22:08.430000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:08.430000" end="0:22:12.033000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:08.430000" end="0:22:12.033000" age_lower="18" age_upper="35">
 Familie	-	-	-	0:22:08.430000	0:22:12.033000
 ähm	-	-	-	0:22:08.430000	0:22:12.033000
 <pause duration="0,9s"/>
@@ -5912,13 +5912,13 @@ sprechen	-	-	-	0:22:08.430000	0:22:12.033000
 würde	-	-	-	0:22:08.430000	0:22:12.033000
 .	-	-	-	0:22:08.430000	0:22:12.033000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:12.033000" end="0:22:13.145000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:12.033000" end="0:22:13.145000" age_lower="1" age_upper="999">
 okay	-	-	-	0:22:12.033000	0:22:13.145000
 ,	-	-	-	0:22:12.033000	0:22:13.145000
 okay	-	-	-	0:22:12.033000	0:22:13.145000
 .	-	-	-	0:22:12.033000	0:22:13.145000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:13.145000" end="0:22:14.396000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:13.145000" end="0:22:14.396000" age_lower="18" age_upper="35">
 ich	-	-	-	0:22:13.145000	0:22:14.396000
 würde	-	-	-	0:22:13.145000	0:22:14.396000
 es	-	-	-	0:22:13.145000	0:22:14.396000
@@ -5927,7 +5927,7 @@ schlimm	-	-	-	0:22:13.145000	0:22:14.396000
 finden	-	-	-	0:22:13.145000	0:22:14.396000
 .	-	-	-	0:22:13.145000	0:22:14.396000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:13.145000" end="0:22:15.812000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:13.145000" end="0:22:15.812000" age_lower="1" age_upper="999">
 (achso	-	-	-	0:22:13.145000	0:22:14.396000
 ,	-	-	-	0:22:13.145000	0:22:14.396000
 jetzt	-	-	-	0:22:13.145000	0:22:14.396000
@@ -5939,19 +5939,19 @@ gut	-	-	-	0:22:14.396000	0:22:15.812000
 mhm	-	-	-	0:22:14.396000	0:22:15.812000
 .	-	-	-	0:22:14.396000	0:22:15.812000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:15.812000" end="0:22:17.154000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:15.812000" end="0:22:17.154000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:15.812000" end="0:22:18.912000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:15.812000" end="0:22:18.912000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 gut	-	-	-	0:22:17.154000	0:22:18.912000
 ähm	-	-	-	0:22:17.154000	0:22:18.912000
 /.	-	-	-	0:22:17.154000	0:22:18.912000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:18.912000" end="0:22:22.148000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:18.912000" end="0:22:22.148000" age_lower="18" age_upper="35">
 <pause duration="3,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:18.912000" end="0:22:36.678000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:18.912000" end="0:22:36.678000" age_lower="1" age_upper="999">
 <pause duration="3,2s"/>
 glauben	-	-	-	0:22:22.148000	0:22:30.490000
 Sie	-	-	-	0:22:22.148000	0:22:30.490000
@@ -6002,11 +6002,11 @@ gesprochen	-	-	-	0:22:35.372000	0:22:36.678000
 haben	-	-	-	0:22:35.372000	0:22:36.678000
 ,	-	-	-	0:22:35.372000	0:22:36.678000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:36.678000" end="0:22:38.663000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:36.678000" end="0:22:38.663000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:22:36.678000	0:22:38.663000
 .	-	-	-	0:22:36.678000	0:22:38.663000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:36.678000" end="0:22:40.796000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:36.678000" end="0:22:40.796000" age_lower="1" age_upper="999">
 Dialekte	-	-	-	0:22:36.678000	0:22:38.663000
 verändern	-	-	-	0:22:36.678000	0:22:38.663000
 sich	-	-	-	0:22:36.678000	0:22:38.663000
@@ -6022,13 +6022,13 @@ auch	-	-	-	0:22:38.663000	0:22:40.796000
 verändert	-	-	-	0:22:38.663000	0:22:40.796000
 ?	-	-	-	0:22:38.663000	0:22:40.796000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:40.796000" end="0:22:42.175000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:40.796000" end="0:22:42.175000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:40.796000" end="0:22:42.175000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:40.796000" end="0:22:42.175000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:42.175000" end="0:22:52.936000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:42.175000" end="0:22:52.936000" age_lower="18" age_upper="35">
 ich	-	-	-	0:22:42.175000	0:22:47.493000
 glaube	-	-	-	0:22:42.175000	0:22:47.493000
 ,	-	-	-	0:22:42.175000	0:22:47.493000
@@ -6062,11 +6062,11 @@ mehr	-	-	-	0:22:47.493000	0:22:52.936000
 verwenden	-	-	-	0:22:47.493000	0:22:52.936000
 .	-	-	-	0:22:47.493000	0:22:52.936000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:52.936000" end="0:22:53.517000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:22:52.936000" end="0:22:53.517000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:22:52.936000	0:22:53.517000
 .	-	-	-	0:22:52.936000	0:22:53.517000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:53.518000" end="0:23:01.703000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:22:53.518000" end="0:23:01.703000" age_lower="18" age_upper="35">
 ich	-	-	-	0:22:53.518000	0:22:55.663000
 glaube	-	-	-	0:22:53.518000	0:22:55.663000
 ,	-	-	-	0:22:53.518000	0:22:55.663000
@@ -6105,21 +6105,21 @@ mehr	-	-	-	0:22:59.160000	0:23:00.978000
 kennt	-	-	-	0:23:00.978000	0:23:01.703000
 .	-	-	-	0:23:00.978000	0:23:01.703000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:00.978000" end="0:23:01.703000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:00.978000" end="0:23:01.703000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:00.978000	0:23:01.703000
 .	-	-	-	0:23:00.978000	0:23:01.703000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:01.703000" end="0:23:02.403000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:01.703000" end="0:23:02.403000" age_lower="18" age_upper="35">
 aber	-	-	-	0:23:01.703000	0:23:02.403000
 ich	-	-	-	0:23:01.703000	0:23:02.403000
 glaube	-	-	-	0:23:01.703000	0:23:02.403000
 ,	-	-	-	0:23:01.703000	0:23:02.403000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:01.703000" end="0:23:02.403000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:01.703000" end="0:23:02.403000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:01.703000	0:23:02.403000
 .	-	-	-	0:23:01.703000	0:23:02.403000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:02.403000" end="0:23:08.915000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:02.403000" end="0:23:08.915000" age_lower="18" age_upper="35">
 der	-	-	-	0:23:02.403000	0:23:05.427000
 Dialekt	-	-	-	0:23:02.403000	0:23:05.427000
 so	-	-	-	0:23:02.403000	0:23:05.427000
@@ -6140,14 +6140,14 @@ so	-	-	-	0:23:05.427000	0:23:08.272000
 /,	-	-	-	0:23:05.427000	0:23:08.272000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:08.272000" end="0:23:08.915000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:08.272000" end="0:23:08.915000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:08.915000" end="0:23:10.269000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:08.915000" end="0:23:10.269000" age_lower="18" age_upper="35">
 genau	-	-	-	0:23:08.915000	0:23:10.269000
 .	-	-	-	0:23:08.915000	0:23:10.269000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:08.915000" end="0:23:19.145000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:08.915000" end="0:23:19.145000" age_lower="1" age_upper="999">
 verschwinden	-	-	-	0:23:08.915000	0:23:10.269000
 oder	-	-	-	0:23:08.915000	0:23:10.269000
 so	-	-	-	0:23:08.915000	0:23:10.269000
@@ -6192,24 +6192,24 @@ was	-	-	-	0:23:16.878000	0:23:18.739000
 ähm	-	-	-	0:23:18.739000	0:23:19.145000
 /.	-	-	-	0:23:18.739000	0:23:19.145000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:19.145000" end="0:23:20.187000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:19.145000" end="0:23:20.187000" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:19.145000	0:23:20.187000
 ,	-	-	-	0:23:19.145000	0:23:20.187000
 bestimmt	-	-	-	0:23:19.145000	0:23:20.187000
 .	-	-	-	0:23:19.145000	0:23:20.187000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:19.145000" end="0:23:20.845000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:19.145000" end="0:23:20.845000" age_lower="1" age_upper="999">
 insgesamt	-	-	-	0:23:19.145000	0:23:20.187000
 /?	-	-	-	0:23:19.145000	0:23:20.187000
 ja	-	-	-	0:23:20.187000	0:23:20.845000
 .	-	-	-	0:23:20.187000	0:23:20.845000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:20.845000" end="0:23:22.115000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:20.845000" end="0:23:22.115000" age_lower="18" age_upper="35">
 irgendwann	-	-	-	0:23:20.845000	0:23:22.115000
 bestimmt	-	-	-	0:23:20.845000	0:23:22.115000
 .	-	-	-	0:23:20.845000	0:23:22.115000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:20.845000" end="0:23:30.084000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:20.845000" end="0:23:30.084000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:20.845000	0:23:22.115000
 .	-	-	-	0:23:20.845000	0:23:22.115000
 mhm	-	-	-	0:23:22.115000	0:23:22.609000
@@ -6242,13 +6242,13 @@ Sprache	-	-	-	0:23:27.693000	0:23:30.084000
 oder	-	-	-	0:23:27.693000	0:23:30.084000
 /?	-	-	-	0:23:27.693000	0:23:30.084000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:30.084000" end="0:23:31.636000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:30.084000" end="0:23:31.636000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:30.084000" end="0:23:31.636000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:30.084000" end="0:23:31.636000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:31.636000" end="0:23:35.187000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:31.636000" end="0:23:35.187000" age_lower="18" age_upper="35">
 ich	-	-	-	0:23:31.636000	0:23:34.339000
 glaube	-	-	-	0:23:31.636000	0:23:34.339000
 ,	-	-	-	0:23:31.636000	0:23:34.339000
@@ -6263,11 +6263,11 @@ darauf	-	-	-	0:23:34.339000	0:23:35.187000
 haben	-	-	-	0:23:34.339000	0:23:35.187000
 ,	-	-	-	0:23:34.339000	0:23:35.187000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:34.339000" end="0:23:35.187000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:34.339000" end="0:23:35.187000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:34.339000	0:23:35.187000
 .	-	-	-	0:23:34.339000	0:23:35.187000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:35.187000" end="0:23:36.630000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:35.187000" end="0:23:36.630000" age_lower="18" age_upper="35">
 dass	-	-	-	0:23:35.187000	0:23:36.630000
 sich	-	-	-	0:23:35.187000	0:23:36.630000
 der	-	-	-	0:23:35.187000	0:23:36.630000
@@ -6276,11 +6276,11 @@ das	-	-	-	0:23:35.187000	0:23:36.630000
 das	-	-	-	0:23:35.187000	0:23:36.630000
 /,	-	-	-	0:23:35.187000	0:23:36.630000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:35.187000" end="0:23:36.630000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:35.187000" end="0:23:36.630000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:35.187000	0:23:36.630000
 .	-	-	-	0:23:35.187000	0:23:36.630000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:36.630000" end="0:23:44.760000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:36.630000" end="0:23:44.760000" age_lower="18" age_upper="35">
 keine	-	-	-	0:23:36.630000	0:23:40.612000
 Ahnung	-	-	-	0:23:36.630000	0:23:40.612000
 ,	-	-	-	0:23:36.630000	0:23:40.612000
@@ -6306,11 +6306,11 @@ zum	-	-	-	0:23:43.809000	0:23:44.760000
 Beispiel	-	-	-	0:23:43.809000	0:23:44.760000
 ,	-	-	-	0:23:43.809000	0:23:44.760000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:43.809000" end="0:23:44.760000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:43.809000" end="0:23:44.760000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:43.809000	0:23:44.760000
 .	-	-	-	0:23:43.809000	0:23:44.760000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:44.760000" end="0:23:50.018000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:44.760000" end="0:23:50.018000" age_lower="18" age_upper="35">
 für	-	-	-	0:23:44.760000	0:23:48.118000
 Behinderungen	-	-	-	0:23:44.760000	0:23:48.118000
 sagt	-	-	-	0:23:44.760000	0:23:48.118000
@@ -6330,19 +6330,19 @@ dem	-	-	-	0:23:48.118000	0:23:50.018000
 Englischen	-	-	-	0:23:48.118000	0:23:50.018000
 .	-	-	-	0:23:48.118000	0:23:50.018000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:48.118000" end="0:23:50.621000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:48.118000" end="0:23:50.621000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:48.118000	0:23:50.018000
 .	-	-	-	0:23:48.118000	0:23:50.018000
 genau	-	-	-	0:23:50.018000	0:23:50.621000
 .	-	-	-	0:23:50.018000	0:23:50.621000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:50.621000" end="0:23:51.718000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:50.621000" end="0:23:51.718000" age_lower="18" age_upper="35">
 dann	-	-	-	0:23:50.621000	0:23:51.718000
 wird	-	-	-	0:23:50.621000	0:23:51.718000
 es	-	-	-	0:23:50.621000	0:23:51.718000
 wahrscheinlich	-	-	-	0:23:50.621000	0:23:51.718000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:50.621000" end="0:23:51.718000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:50.621000" end="0:23:51.718000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:50.621000	0:23:51.718000
 ,	-	-	-	0:23:50.621000	0:23:51.718000
 ja	-	-	-	0:23:50.621000	0:23:51.718000
@@ -6350,7 +6350,7 @@ ja	-	-	-	0:23:50.621000	0:23:51.718000
 ja	-	-	-	0:23:50.621000	0:23:51.718000
 .	-	-	-	0:23:50.621000	0:23:51.718000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:51.718000" end="0:23:55.578000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:51.718000" end="0:23:55.578000" age_lower="18" age_upper="35">
 irgendwann	-	-	-	0:23:51.718000	0:23:55.578000
 dieses	-	-	-	0:23:51.718000	0:23:55.578000
 Wort	-	-	-	0:23:51.718000	0:23:55.578000
@@ -6370,7 +6370,7 @@ mehr	-	-	-	0:23:51.718000	0:23:55.578000
 Handicap	-	-	-	0:23:51.718000	0:23:55.578000
 .	-	-	-	0:23:51.718000	0:23:55.578000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:55.578000" end="0:23:57.890000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:55.578000" end="0:23:57.890000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:55.578000	0:23:56.675000
 ,	-	-	-	0:23:55.578000	0:23:56.675000
 mhm	-	-	-	0:23:55.578000	0:23:56.675000
@@ -6383,11 +6383,11 @@ Sachen	-	-	-	0:23:56.675000	0:23:57.890000
 ja	-	-	-	0:23:56.675000	0:23:57.890000
 .	-	-	-	0:23:56.675000	0:23:57.890000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:57.890000" end="0:23:58.887000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:57.890000" end="0:23:58.887000" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:57.890000	0:23:58.887000
 .	-	-	-	0:23:57.890000	0:23:58.887000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:57.890000" end="0:23:59.627000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:57.890000" end="0:23:59.627000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:57.890000	0:23:58.887000
 ,	-	-	-	0:23:57.890000	0:23:58.887000
 mhm	-	-	-	0:23:57.890000	0:23:58.887000
@@ -6395,20 +6395,20 @@ mhm	-	-	-	0:23:57.890000	0:23:58.887000
 okay	-	-	-	0:23:58.887000	0:23:59.627000
 .	-	-	-	0:23:58.887000	0:23:59.627000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:59.627000" end="0:24:00.442000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:23:59.627000" end="0:24:00.442000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:59.627000" end="0:24:02.263000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:23:59.627000" end="0:24:02.263000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 gut	-	-	-	0:24:00.442000	0:24:01.278000
 .	-	-	-	0:24:00.442000	0:24:01.278000
 ähm	-	-	-	0:24:01.278000	0:24:02.263000
 /.	-	-	-	0:24:01.278000	0:24:02.263000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:02.263000" end="0:24:03.993000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:02.263000" end="0:24:03.993000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:02.263000" end="0:24:13.696000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:02.263000" end="0:24:13.696000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 das	-	-	-	0:24:03.993000	0:24:09.730000
 heißt	-	-	-	0:24:03.993000	0:24:09.730000
@@ -6433,14 +6433,14 @@ oder	-	-	-	0:24:09.730000	0:24:13.696000
 schlecht	-	-	-	0:24:09.730000	0:24:13.696000
 ?	-	-	-	0:24:09.730000	0:24:13.696000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:13.696000" end="0:24:14.645000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:13.696000" end="0:24:14.645000" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:24:13.696000	0:24:14.645000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:13.696000" end="0:24:14.645000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:13.696000" end="0:24:14.645000" age_lower="1" age_upper="999">
 oder	-	-	-	0:24:13.696000	0:24:14.645000
 /.	-	-	-	0:24:13.696000	0:24:14.645000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:14.645000" end="0:24:19.072000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:14.645000" end="0:24:19.072000" age_lower="18" age_upper="35">
 finde	-	-	-	0:24:14.645000	0:24:15.803000
 ich	-	-	-	0:24:14.645000	0:24:15.803000
 das	-	-	-	0:24:14.645000	0:24:15.803000
@@ -6465,17 +6465,17 @@ man	-	-	-	0:24:17.506000	0:24:19.072000
 die	-	-	-	0:24:17.506000	0:24:19.072000
 dann	-	-	-	0:24:17.506000	0:24:19.072000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:19.072000" end="0:24:19.530000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:19.072000" end="0:24:19.530000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:19.072000	0:24:19.530000
 .	-	-	-	0:24:19.072000	0:24:19.530000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:19.530000" end="0:24:20.354000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:19.530000" end="0:24:20.354000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:19.530000" end="0:24:20.354000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:19.530000" end="0:24:20.354000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:20.354000" end="0:24:24.651000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:20.354000" end="0:24:24.651000" age_lower="18" age_upper="35">
 v/	-	-	-	0:24:20.354000	0:24:24.118000
 weiß	-	-	-	0:24:20.354000	0:24:24.118000
 nicht	-	-	-	0:24:20.354000	0:24:24.118000
@@ -6489,18 +6489,18 @@ dazu	-	-	-	0:24:20.354000	0:24:24.118000
 holen	-	-	-	0:24:20.354000	0:24:24.118000
 ,	-	-	-	0:24:20.354000	0:24:24.118000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:24.118000" end="0:24:24.651000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:24.118000" end="0:24:24.651000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:24.118000	0:24:24.651000
 .	-	-	-	0:24:24.118000	0:24:24.651000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:24.651000" end="0:24:26.133000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:24.651000" end="0:24:26.133000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:24:24.651000	0:24:26.133000
 sie	-	-	-	0:24:24.651000	0:24:26.133000
 nicht	-	-	-	0:24:24.651000	0:24:26.133000
 muss	-	-	-	0:24:24.651000	0:24:26.133000
 ?	-	-	-	0:24:24.651000	0:24:26.133000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:24.651000" end="0:24:27.196000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:24.651000" end="0:24:27.196000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:24.651000	0:24:26.133000
 .	-	-	-	0:24:24.651000	0:24:26.133000
 ist	-	-	-	0:24:26.133000	0:24:27.196000
@@ -6508,11 +6508,11 @@ nicht	-	-	-	0:24:26.133000	0:24:27.196000
 notwendig	-	-	-	0:24:26.133000	0:24:27.196000
 ?	-	-	-	0:24:26.133000	0:24:27.196000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:27.196000" end="0:24:28.357000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:27.196000" end="0:24:28.357000" age_lower="18" age_upper="35">
 nein	-	-	-	0:24:27.196000	0:24:28.357000
 .	-	-	-	0:24:27.196000	0:24:28.357000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:27.196000" end="0:24:28.857000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:27.196000" end="0:24:28.857000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:27.196000	0:24:28.357000
 ,	-	-	-	0:24:27.196000	0:24:28.357000
 mhm	-	-	-	0:24:27.196000	0:24:28.357000
@@ -6520,10 +6520,10 @@ mhm	-	-	-	0:24:27.196000	0:24:28.357000
 mhm	-	-	-	0:24:28.357000	0:24:28.857000
 .	-	-	-	0:24:28.357000	0:24:28.857000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:28.857000" end="0:24:29.428000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:28.857000" end="0:24:29.428000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:28.857000" end="0:24:34.503000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:28.857000" end="0:24:34.503000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:24:29.427000	0:24:33.027000
 in	-	-	-	0:24:29.427000	0:24:33.027000
@@ -6548,21 +6548,21 @@ immer	-	-	-	0:24:33.027000	0:24:34.503000
 neue	-	-	-	0:24:33.027000	0:24:34.503000
 Wörter	-	-	-	0:24:33.027000	0:24:34.503000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:34.503000" end="0:24:35.648000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:34.503000" end="0:24:35.648000" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:34.503000	0:24:35.648000
 .	-	-	-	0:24:34.503000	0:24:35.648000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:34.503000" end="0:24:35.648000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:34.503000" end="0:24:35.648000" age_lower="1" age_upper="999">
 reinkommen	-	-	-	0:24:34.503000	0:24:35.648000
 ?	-	-	-	0:24:34.503000	0:24:35.648000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:35.648000" end="0:24:36.478000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:35.648000" end="0:24:36.478000" age_lower="18" age_upper="35">
 schon	-	-	-	0:24:35.648000	0:24:36.478000
 ,	-	-	-	0:24:35.648000	0:24:36.478000
 ja	-	-	-	0:24:35.648000	0:24:36.478000
 .	-	-	-	0:24:35.648000	0:24:36.478000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:35.648000" end="0:24:37.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:35.648000" end="0:24:37.100000" age_lower="1" age_upper="999">
 ja	-	-	-	0:24:35.648000	0:24:36.478000
 ,	-	-	-	0:24:35.648000	0:24:36.478000
 ja	-	-	-	0:24:35.648000	0:24:36.478000
@@ -6570,13 +6570,13 @@ ja	-	-	-	0:24:35.648000	0:24:36.478000
 mhm	-	-	-	0:24:36.478000	0:24:37.100000
 .	-	-	-	0:24:36.478000	0:24:37.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:37.100000" end="0:24:37.727000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:37.100000" end="0:24:37.727000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:37.100000" end="0:24:37.727000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:37.100000" end="0:24:37.727000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:37.727000" end="0:24:39.827000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:37.727000" end="0:24:39.827000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:24:37.727000	0:24:39.827000
 Stimme))	-	-	-	0:24:37.727000	0:24:39.827000
 ((ich	-	-	-	0:24:37.727000	0:24:39.827000
@@ -6586,28 +6586,28 @@ wieder	-	-	-	0:24:37.727000	0:24:39.827000
 weg	-	-	-	0:24:37.727000	0:24:39.827000
 .))	-	-	-	0:24:37.727000	0:24:39.827000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:37.727000" end="0:24:39.827000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:37.727000" end="0:24:39.827000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:37.727000	0:24:39.827000
 ,	-	-	-	0:24:37.727000	0:24:39.827000
 gut	-	-	-	0:24:37.727000	0:24:39.827000
 .	-	-	-	0:24:37.727000	0:24:39.827000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:39.827000" end="0:24:41.824000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:39.827000" end="0:24:41.824000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:39.827000" end="0:24:41.824000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:39.827000" end="0:24:41.824000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:41.824000" end="0:24:42.954000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:41.824000" end="0:24:42.954000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:41.824000" end="0:24:43.600000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:41.824000" end="0:24:43.600000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 passt	-	-	-	0:24:42.954000	0:24:43.600000
 .	-	-	-	0:24:42.954000	0:24:43.600000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:43.600000" end="0:24:44.475000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:24:43.600000" end="0:24:44.475000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:43.600000" end="0:25:00.084000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:24:43.600000" end="0:25:00.084000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 gibt	-	-	-	0:24:44.475000	0:24:48.321000
 es	-	-	-	0:24:44.475000	0:24:48.321000
@@ -6652,14 +6652,14 @@ diese	-	-	-	0:24:55.384000	0:25:00.084000
 zwei	-	-	-	0:24:55.384000	0:25:00.084000
 Möglichkeiten	-	-	-	0:24:55.384000	0:25:00.084000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:00.084000" end="0:25:02.054000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:00.084000" end="0:25:02.054000" age_lower="18" age_upper="35">
 nein	-	-	-	0:25:00.084000	0:25:02.054000
 ,	-	-	-	0:25:00.084000	0:25:02.054000
 glaube	-	-	-	0:25:00.084000	0:25:02.054000
 nicht	-	-	-	0:25:00.084000	0:25:02.054000
 .	-	-	-	0:25:00.084000	0:25:02.054000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:00.084000" end="0:25:05.430000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:00.084000" end="0:25:05.430000" age_lower="1" age_upper="999">
 im	-	-	-	0:25:00.084000	0:25:02.054000
 Wesentlichen	-	-	-	0:25:00.084000	0:25:02.054000
 ?	-	-	-	0:25:00.084000	0:25:02.054000
@@ -6681,10 +6681,10 @@ mhm	-	-	-	0:25:03.200000	0:25:04.251000
 ähm	-	-	-	0:25:04.251000	0:25:05.430000
 /.	-	-	-	0:25:04.251000	0:25:05.430000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:05.430000" end="0:25:06.390000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:05.430000" end="0:25:06.390000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:05.430000" end="0:25:13.515000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:05.430000" end="0:25:13.515000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 was	-	-	-	0:25:06.390000	0:25:10.336000
 würden	-	-	-	0:25:06.390000	0:25:10.336000
@@ -6710,10 +6710,10 @@ zu	-	-	-	0:25:10.336000	0:25:13.515000
 wechseln	-	-	-	0:25:10.336000	0:25:13.515000
 ?	-	-	-	0:25:10.336000	0:25:13.515000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:13.515000" end="0:25:14.766000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:13.515000" end="0:25:14.766000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:13.515000" end="0:25:16.648000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:13.515000" end="0:25:16.648000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 also	-	-	-	0:25:14.766000	0:25:16.648000
 machen	-	-	-	0:25:14.766000	0:25:16.648000
@@ -6722,32 +6722,32 @@ das	-	-	-	0:25:14.766000	0:25:16.648000
 sehr	-	-	-	0:25:14.766000	0:25:16.648000
 automatisch	-	-	-	0:25:14.766000	0:25:16.648000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:16.648000" end="0:25:17.657000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:16.648000" end="0:25:17.657000" age_lower="18" age_upper="35">
 automatisch	-	-	-	0:25:16.648000	0:25:17.657000
 .	-	-	-	0:25:16.648000	0:25:17.657000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:16.648000" end="0:25:18.269000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:16.648000" end="0:25:18.269000" age_lower="1" age_upper="999">
 jetzt	-	-	-	0:25:16.648000	0:25:17.657000
 von	-	-	-	0:25:16.648000	0:25:17.657000
 /?	-	-	-	0:25:16.648000	0:25:17.657000
 wechseln	-	-	-	0:25:17.657000	0:25:18.269000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:18.269000" end="0:25:19.315000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:18.269000" end="0:25:19.315000" age_lower="18" age_upper="35">
 aber	-	-	-	0:25:18.269000	0:25:19.315000
 manchmal	-	-	-	0:25:18.269000	0:25:19.315000
 halt	-	-	-	0:25:18.269000	0:25:19.315000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:18.269000" end="0:25:19.315000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:18.269000" end="0:25:19.315000" age_lower="1" age_upper="999">
 auf	-	-	-	0:25:18.269000	0:25:19.315000
 /?	-	-	-	0:25:18.269000	0:25:19.315000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:19.315000" end="0:25:20.072000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:19.315000" end="0:25:20.072000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:19.315000" end="0:25:20.072000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:19.315000" end="0:25:20.072000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:20.072000" end="0:25:29.736000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:20.072000" end="0:25:29.736000" age_lower="18" age_upper="35">
 springe	-	-	-	0:25:20.072000	0:25:23.669000
 ich	-	-	-	0:25:20.072000	0:25:23.669000
 sch/	-	-	-	0:25:20.072000	0:25:23.669000
@@ -6784,7 +6784,7 @@ andersrum	-	-	-	0:25:26.839000	0:25:29.321000
 auch	-	-	-	0:25:29.321000	0:25:29.736000
 .	-	-	-	0:25:29.321000	0:25:29.736000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:29.321000" end="0:25:32.078000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:29.321000" end="0:25:32.078000" age_lower="1" age_upper="999">
 auch	-	-	-	0:25:29.321000	0:25:29.736000
 .	-	-	-	0:25:29.321000	0:25:29.736000
 mhm	-	-	-	0:25:29.736000	0:25:30.751000
@@ -6796,7 +6796,7 @@ okay	-	-	-	0:25:30.751000	0:25:32.078000
 mhm	-	-	-	0:25:30.751000	0:25:32.078000
 .	-	-	-	0:25:30.751000	0:25:32.078000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:32.078000" end="0:25:33.266000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:32.078000" end="0:25:33.266000" age_lower="18" age_upper="35">
 ((zu	-	-	-	0:25:32.078000	0:25:33.266000
 dritter	-	-	-	0:25:32.078000	0:25:33.266000
 Stimme))	-	-	-	0:25:32.078000	0:25:33.266000
@@ -6805,27 +6805,27 @@ Tür	-	-	-	0:25:32.078000	0:25:33.266000
 zu	-	-	-	0:25:32.078000	0:25:33.266000
 .))	-	-	-	0:25:32.078000	0:25:33.266000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:32.078000" end="0:25:33.266000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:32.078000" end="0:25:33.266000" age_lower="1" age_upper="999">
 gu/	-	-	-	0:25:32.078000	0:25:33.266000
 /.	-	-	-	0:25:32.078000	0:25:33.266000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:33.266000" end="0:25:34.093000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:33.266000" end="0:25:34.093000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:33.266000" end="0:25:34.093000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:33.266000" end="0:25:34.093000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:34.093000" end="0:25:36.912000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:34.093000" end="0:25:36.912000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:34.093000" end="0:25:39.130000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:34.093000" end="0:25:39.130000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:25:36.912000	0:25:39.130000
 gut	-	-	-	0:25:36.912000	0:25:39.130000
 .	-	-	-	0:25:36.912000	0:25:39.130000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:39.130000" end="0:25:40.760000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:39.130000" end="0:25:40.760000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:39.130000" end="0:25:46.639000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:39.130000" end="0:25:46.639000" age_lower="1" age_upper="999">
 <pause duration="1,6s"/>
 ich	-	-	-	0:25:40.760000	0:25:42.515000
 glaube	-	-	-	0:25:40.760000	0:25:42.515000
@@ -6848,22 +6848,22 @@ Deutsch	-	-	-	0:25:42.515000	0:25:46.639000
 und	-	-	-	0:25:42.515000	0:25:46.639000
 Dialekt	-	-	-	0:25:42.515000	0:25:46.639000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:46.639000" end="0:25:47.730000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:46.639000" end="0:25:47.730000" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:46.639000	0:25:47.730000
 .	-	-	-	0:25:46.639000	0:25:47.730000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:46.639000" end="0:25:47.730000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:46.639000" end="0:25:47.730000" age_lower="1" age_upper="999">
 als	-	-	-	0:25:46.639000	0:25:47.730000
 nur	-	-	-	0:25:46.639000	0:25:47.730000
 Dialekt	-	-	-	0:25:46.639000	0:25:47.730000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:47.730000" end="0:25:49.533000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:47.730000" end="0:25:49.533000" age_lower="18" age_upper="35">
 genau	-	-	-	0:25:47.730000	0:25:49.533000
 ,	-	-	-	0:25:47.730000	0:25:49.533000
 ja	-	-	-	0:25:47.730000	0:25:49.533000
 .	-	-	-	0:25:47.730000	0:25:49.533000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:47.730000" end="0:25:51.687000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:47.730000" end="0:25:51.687000" age_lower="1" age_upper="999">
 sozusagen	-	-	-	0:25:47.730000	0:25:49.533000
 ,	-	-	-	0:25:47.730000	0:25:49.533000
 mhm	-	-	-	0:25:47.730000	0:25:49.533000
@@ -6876,13 +6876,13 @@ okay	-	-	-	0:25:49.533000	0:25:51.687000
 warum	-	-	-	0:25:49.533000	0:25:51.687000
 ?	-	-	-	0:25:49.533000	0:25:51.687000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:51.687000" end="0:25:54.081000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:51.687000" end="0:25:54.081000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:51.687000" end="0:25:54.081000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:51.687000" end="0:25:54.081000" age_lower="1" age_upper="999">
 <pause duration="2,3s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:54.081000" end="0:25:57.130000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:54.081000" end="0:25:57.130000" age_lower="18" age_upper="35">
 ich	-	-	-	0:25:54.081000	0:25:55.778000
 finde	-	-	-	0:25:54.081000	0:25:55.778000
 den	-	-	-	0:25:54.081000	0:25:55.778000
@@ -6890,10 +6890,10 @@ Dialekt	-	-	-	0:25:54.081000	0:25:55.778000
 /,	-	-	-	0:25:54.081000	0:25:55.778000
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:55.778000" end="0:25:57.130000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:25:55.778000" end="0:25:57.130000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:57.130000" end="0:26:01.621000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:25:57.130000" end="0:26:01.621000" age_lower="18" age_upper="35">
 also	-	-	-	0:25:57.130000	0:25:58.839000
 ich	-	-	-	0:25:57.130000	0:25:58.839000
 w/	-	-	-	0:25:57.130000	0:25:58.839000
@@ -6912,7 +6912,7 @@ nicht	-	-	-	0:26:00.451000	0:26:01.621000
 sein	-	-	-	0:26:00.451000	0:26:01.621000
 .	-	-	-	0:26:00.451000	0:26:01.621000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:00.451000" end="0:26:02.696000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:00.451000" end="0:26:02.696000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:00.451000	0:26:01.621000
 ,	-	-	-	0:26:00.451000	0:26:01.621000
 muss	-	-	-	0:26:00.451000	0:26:01.621000
@@ -6922,15 +6922,15 @@ sein	-	-	-	0:26:01.621000	0:26:02.696000
 okay	-	-	-	0:26:01.621000	0:26:02.696000
 .	-	-	-	0:26:01.621000	0:26:02.696000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:02.696000" end="0:26:03.209000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:02.696000" end="0:26:03.209000" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:02.696000	0:26:03.209000
 .	-	-	-	0:26:02.696000	0:26:03.209000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:03.209000" end="0:26:04.081000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:03.209000" end="0:26:04.081000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:26:03.209000	0:26:04.081000
 .	-	-	-	0:26:03.209000	0:26:04.081000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:04.081000" end="0:26:10.378000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:04.081000" end="0:26:10.378000" age_lower="18" age_upper="35">
 ich	-	-	-	0:26:04.081000	0:26:05.848000
 finde	-	-	-	0:26:04.081000	0:26:05.848000
 ihn	-	-	-	0:26:04.081000	0:26:05.848000
@@ -6955,11 +6955,11 @@ so	-	-	-	0:26:09.175000	0:26:10.378000
 vor	-	-	-	0:26:09.175000	0:26:10.378000
 ,	-	-	-	0:26:09.175000	0:26:10.378000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:09.175000" end="0:26:10.378000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:09.175000" end="0:26:10.378000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:09.175000	0:26:10.378000
 .	-	-	-	0:26:09.175000	0:26:10.378000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:10.378000" end="0:26:19.318000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:10.378000" end="0:26:19.318000" age_lower="18" age_upper="35">
 dass	-	-	-	0:26:10.378000	0:26:13.039000
 jemand	-	-	-	0:26:10.378000	0:26:13.039000
 /,	-	-	-	0:26:10.378000	0:26:13.039000
@@ -6989,11 +6989,11 @@ oder	-	-	-	0:26:18.206000	0:26:19.318000
 so	-	-	-	0:26:18.206000	0:26:19.318000
 .	-	-	-	0:26:18.206000	0:26:19.318000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:18.206000" end="0:26:19.318000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:18.206000" end="0:26:19.318000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:18.206000	0:26:19.318000
 .	-	-	-	0:26:18.206000	0:26:19.318000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:19.318000" end="0:26:21.475000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:19.318000" end="0:26:21.475000" age_lower="18" age_upper="35">
 jemand	-	-	-	0:26:19.318000	0:26:20.327000
 der	-	-	-	0:26:19.318000	0:26:20.327000
 so	-	-	-	0:26:19.318000	0:26:20.327000
@@ -7003,11 +7003,11 @@ ich	-	-	-	0:26:20.327000	0:26:21.475000
 weiß	-	-	-	0:26:20.327000	0:26:21.475000
 ,	-	-	-	0:26:20.327000	0:26:21.475000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:20.327000" end="0:26:21.475000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:20.327000" end="0:26:21.475000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:20.327000	0:26:21.475000
 .	-	-	-	0:26:20.327000	0:26:21.475000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:21.475000" end="0:26:29.996000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:21.475000" end="0:26:29.996000" age_lower="18" age_upper="35">
 ich	-	-	-	0:26:21.475000	0:26:24.900000
 habe	-	-	-	0:26:21.475000	0:26:24.900000
 selbst	-	-	-	0:26:21.475000	0:26:24.900000
@@ -7037,12 +7037,12 @@ Bergdorf	-	-	-	0:26:24.900000	0:26:29.251000
 ja	-	-	-	0:26:29.251000	0:26:29.996000
 ?	-	-	-	0:26:29.251000	0:26:29.996000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:29.251000" end="0:26:29.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:29.251000" end="0:26:29.996000" age_lower="1" age_upper="999">
 ach	-	-	-	0:26:29.251000	0:26:29.996000
 so	-	-	-	0:26:29.251000	0:26:29.996000
 .	-	-	-	0:26:29.251000	0:26:29.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:29.996000" end="0:26:31.118000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:29.996000" end="0:26:31.118000" age_lower="18" age_upper="35">
 nur	-	-	-	0:26:29.996000	0:26:31.118000
 weil	-	-	-	0:26:29.996000	0:26:31.118000
 ich	-	-	-	0:26:29.996000	0:26:31.118000
@@ -7050,18 +7050,18 @@ so	-	-	-	0:26:29.996000	0:26:31.118000
 spreche	-	-	-	0:26:29.996000	0:26:31.118000
 .	-	-	-	0:26:29.996000	0:26:31.118000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:29.996000" end="0:26:31.118000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:29.996000" end="0:26:31.118000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:29.996000	0:26:31.118000
 .	-	-	-	0:26:29.996000	0:26:31.118000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:31.118000" end="0:26:32.457000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:31.118000" end="0:26:32.457000" age_lower="18" age_upper="35">
 die	-	-	-	0:26:31.118000	0:26:32.457000
 sind	-	-	-	0:26:31.118000	0:26:32.457000
 irgendwie	-	-	-	0:26:31.118000	0:26:32.457000
 so	-	-	-	0:26:31.118000	0:26:32.457000
 /.	-	-	-	0:26:31.118000	0:26:32.457000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:31.118000" end="0:26:36.769000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:31.118000" end="0:26:36.769000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:31.118000	0:26:32.457000
 .	-	-	-	0:26:31.118000	0:26:32.457000
 ja	-	-	-	0:26:32.457000	0:26:35.496000
@@ -7086,18 +7086,18 @@ das	-	-	-	0:26:35.496000	0:26:36.769000
 dann	-	-	-	0:26:35.496000	0:26:36.769000
 ein	-	-	-	0:26:35.496000	0:26:36.769000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:36.769000" end="0:26:38.669000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:36.769000" end="0:26:38.669000" age_lower="18" age_upper="35">
 genau	-	-	-	0:26:36.769000	0:26:38.669000
 .	-	-	-	0:26:36.769000	0:26:38.669000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:36.769000" end="0:26:38.669000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:36.769000" end="0:26:38.669000" age_lower="1" age_upper="999">
 bisschen	-	-	-	0:26:36.769000	0:26:38.669000
 ab	-	-	-	0:26:36.769000	0:26:38.669000
 und	-	-	-	0:26:36.769000	0:26:38.669000
 will	-	-	-	0:26:36.769000	0:26:38.669000
 dann	-	-	-	0:26:36.769000	0:26:38.669000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:38.669000" end="0:26:41.239000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:38.669000" end="0:26:41.239000" age_lower="18" age_upper="35">
 genau	-	-	-	0:26:38.669000	0:26:41.239000
 ,	-	-	-	0:26:38.669000	0:26:41.239000
 irgendwie	-	-	-	0:26:38.669000	0:26:41.239000
@@ -7107,7 +7107,7 @@ genau	-	-	-	0:26:38.669000	0:26:41.239000
 genau	-	-	-	0:26:38.669000	0:26:41.239000
 .	-	-	-	0:26:38.669000	0:26:41.239000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:38.669000" end="0:26:43.239000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:38.669000" end="0:26:43.239000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:26:38.669000	0:26:41.239000
 mehr	-	-	-	0:26:38.669000	0:26:41.239000
 so	-	-	-	0:26:38.669000	0:26:41.239000
@@ -7120,18 +7120,18 @@ okay	-	-	-	0:26:41.239000	0:26:43.239000
 mhm	-	-	-	0:26:41.239000	0:26:43.239000
 .	-	-	-	0:26:41.239000	0:26:43.239000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:43.239000" end="0:26:44.324000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:43.239000" end="0:26:44.324000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:43.239000" end="0:26:45.096000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:43.239000" end="0:26:45.096000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:26:44.324000	0:26:45.096000
 /.	-	-	-	0:26:44.324000	0:26:45.096000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:45.096000" end="0:26:45.963000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:45.096000" end="0:26:45.963000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:45.096000" end="0:26:53.200000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:45.096000" end="0:26:53.200000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 in	-	-	-	0:26:45.963000	0:26:48.675000
 der	-	-	-	0:26:45.963000	0:26:48.675000
@@ -7165,11 +7165,11 @@ wie	-	-	-	0:26:50.575000	0:26:53.200000
 Sie	-	-	-	0:26:50.575000	0:26:53.200000
 da	-	-	-	0:26:50.575000	0:26:53.200000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:53.200000" end="0:26:54.012000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:53.200000" end="0:26:54.012000" age_lower="18" age_upper="35">
 nein	-	-	-	0:26:53.200000	0:26:54.012000
 .	-	-	-	0:26:53.200000	0:26:54.012000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:53.200000" end="0:26:54.678000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:26:53.200000" end="0:26:54.678000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:26:53.200000	0:26:54.012000
 ,	-	-	-	0:26:53.200000	0:26:54.012000
 oder	-	-	-	0:26:53.200000	0:26:54.012000
@@ -7179,7 +7179,7 @@ sehr	-	-	-	0:26:54.012000	0:26:54.678000
 ähnlich	-	-	-	0:26:54.012000	0:26:54.678000
 ?	-	-	-	0:26:54.012000	0:26:54.678000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:54.678000" end="0:27:05.969000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:26:54.678000" end="0:27:05.969000" age_lower="18" age_upper="35">
 halt	-	-	-	0:26:54.678000	0:26:55.387000
 /,	-	-	-	0:26:54.678000	0:26:55.387000
 <pause duration="0,5s"/>
@@ -7223,11 +7223,11 @@ neben	-	-	-	0:27:01.884000	0:27:05.969000
 ihr"	-	-	-	0:27:01.884000	0:27:05.969000
 .	-	-	-	0:27:01.884000	0:27:05.969000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:05.969000" end="0:27:06.663000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:05.969000" end="0:27:06.663000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:05.969000	0:27:06.663000
 .	-	-	-	0:27:05.969000	0:27:06.663000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:06.663000" end="0:27:13.072000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:06.663000" end="0:27:13.072000" age_lower="18" age_upper="35">
 so	-	-	-	0:27:06.663000	0:27:09.766000
 es	-	-	-	0:27:06.663000	0:27:09.766000
 fällt	-	-	-	0:27:06.663000	0:27:09.766000
@@ -7253,11 +7253,11 @@ Dialekt	-	-	-	0:27:09.766000	0:27:12.551000
 ,	-	-	-	0:27:09.766000	0:27:12.551000
 und	-	-	-	0:27:12.551000	0:27:13.072000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:12.551000" end="0:27:13.072000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:12.551000" end="0:27:13.072000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:12.551000	0:27:13.072000
 .	-	-	-	0:27:12.551000	0:27:13.072000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:13.072000" end="0:27:15.839000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:13.072000" end="0:27:15.839000" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:13.072000	0:27:15.839000
 ,	-	-	-	0:27:13.072000	0:27:15.839000
 sie	-	-	-	0:27:13.072000	0:27:15.839000
@@ -7274,7 +7274,7 @@ schämen	-	-	-	0:27:13.072000	0:27:15.839000
 gehen"	-	-	-	0:27:13.072000	0:27:15.839000
 .	-	-	-	0:27:13.072000	0:27:15.839000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:15.839000" end="0:27:19.784000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:15.839000" end="0:27:19.784000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:15.839000	0:27:16.421000
 .	-	-	-	0:27:15.839000	0:27:16.421000
 okay	-	-	-	0:27:16.421000	0:27:19.784000
@@ -7289,11 +7289,11 @@ als	-	-	-	0:27:16.421000	0:27:19.784000
 Vorbild	-	-	-	0:27:16.421000	0:27:19.784000
 ähm	-	-	-	0:27:16.421000	0:27:19.784000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:19.784000" end="0:27:21.393000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:19.784000" end="0:27:21.393000" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:19.784000	0:27:21.393000
 .	-	-	-	0:27:19.784000	0:27:21.393000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:19.784000" end="0:27:24.821000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:19.784000" end="0:27:24.821000" age_lower="1" age_upper="999">
 hingestellt	-	-	-	0:27:19.784000	0:27:21.393000
 oder	-	-	-	0:27:19.784000	0:27:21.393000
 so	-	-	-	0:27:19.784000	0:27:21.393000
@@ -7308,11 +7308,11 @@ haben	-	-	-	0:27:24.118000	0:27:24.821000
 Sie	-	-	-	0:27:24.118000	0:27:24.821000
 noch	-	-	-	0:27:24.118000	0:27:24.821000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:24.821000" end="0:27:26.139000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:24.821000" end="0:27:26.139000" age_lower="18" age_upper="35">
 nein	-	-	-	0:27:24.821000	0:27:26.139000
 .	-	-	-	0:27:24.821000	0:27:26.139000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:24.821000" end="0:27:27.406000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:24.821000" end="0:27:27.406000" age_lower="1" age_upper="999">
 Großeltern	-	-	-	0:27:24.821000	0:27:26.139000
 ?	-	-	-	0:27:24.821000	0:27:26.139000
 nein	-	-	-	0:27:26.139000	0:27:27.406000
@@ -7322,46 +7322,46 @@ okay	-	-	-	0:27:26.139000	0:27:27.406000
 mhm	-	-	-	0:27:26.139000	0:27:27.406000
 .	-	-	-	0:27:26.139000	0:27:27.406000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:27.406000" end="0:27:28.242000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:27.406000" end="0:27:28.242000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:27.406000" end="0:27:28.881000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:27.406000" end="0:27:28.881000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:27:28.242000	0:27:28.881000
 /.	-	-	-	0:27:28.242000	0:27:28.881000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:28.881000" end="0:27:30.163000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:28.881000" end="0:27:30.163000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:28.881000" end="0:27:31.551000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:28.881000" end="0:27:31.551000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 gut	-	-	-	0:27:30.163000	0:27:31.551000
 ähm	-	-	-	0:27:30.163000	0:27:31.551000
 /.	-	-	-	0:27:30.163000	0:27:31.551000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:31.551000" end="0:27:32.927000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:31.551000" end="0:27:32.927000" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:31.551000	0:27:32.927000
 ,	-	-	-	0:27:31.551000	0:27:32.927000
 ich	-	-	-	0:27:31.551000	0:27:32.927000
 habe	-	-	-	0:27:31.551000	0:27:32.927000
 einen	-	-	-	0:27:31.551000	0:27:32.927000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:31.551000" end="0:27:32.927000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:31.551000" end="0:27:32.927000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:27:31.551000	0:27:32.927000
 Sie	-	-	-	0:27:31.551000	0:27:32.927000
 an	-	-	-	0:27:31.551000	0:27:32.927000
 /.	-	-	-	0:27:31.551000	0:27:32.927000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:32.927000" end="0:27:34.500000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:32.927000" end="0:27:34.500000" age_lower="18" age_upper="35">
 einen	-	-	-	0:27:32.927000	0:27:34.500000
 Stiefopa	-	-	-	0:27:32.927000	0:27:34.500000
 .	-	-	-	0:27:32.927000	0:27:34.500000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:32.927000" end="0:27:34.500000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:32.927000" end="0:27:34.500000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:32.927000	0:27:34.500000
 .	-	-	-	0:27:32.927000	0:27:34.500000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:34.500000" end="0:27:36.042000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:34.500000" end="0:27:36.042000" age_lower="18" age_upper="35">
 also	-	-	-	0:27:34.500000	0:27:36.042000
 er	-	-	-	0:27:34.500000	0:27:36.042000
 ist	-	-	-	0:27:34.500000	0:27:36.042000
@@ -7373,24 +7373,24 @@ aber	-	-	-	0:27:34.500000	0:27:36.042000
 ja	-	-	-	0:27:34.500000	0:27:36.042000
 ,	-	-	-	0:27:34.500000	0:27:36.042000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:34.500000" end="0:27:36.490000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:34.500000" end="0:27:36.490000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:27:34.500000	0:27:36.042000
 .	-	-	-	0:27:34.500000	0:27:36.042000
 mhm	-	-	-	0:27:36.042000	0:27:36.490000
 .	-	-	-	0:27:36.042000	0:27:36.490000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:36.490000" end="0:27:37.624000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:36.490000" end="0:27:37.624000" age_lower="18" age_upper="35">
 er	-	-	-	0:27:36.490000	0:27:37.624000
 ist	-	-	-	0:27:36.490000	0:27:37.624000
 mein	-	-	-	0:27:36.490000	0:27:37.624000
 Opa	-	-	-	0:27:36.490000	0:27:37.624000
 .	-	-	-	0:27:36.490000	0:27:37.624000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:37.624000" end="0:27:38.145000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:37.624000" end="0:27:38.145000" age_lower="1" age_upper="999">
 okay	-	-	-	0:27:37.624000	0:27:38.145000
 .	-	-	-	0:27:37.624000	0:27:38.145000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:38.145000" end="0:27:41.624000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:38.145000" end="0:27:41.624000" age_lower="18" age_upper="35">
 also	-	-	-	0:27:38.145000	0:27:40.872000
 er	-	-	-	0:27:38.145000	0:27:40.872000
 war	-	-	-	0:27:38.145000	0:27:40.872000
@@ -7405,11 +7405,11 @@ lebt	-	-	-	0:27:40.872000	0:27:41.624000
 noch	-	-	-	0:27:40.872000	0:27:41.624000
 .	-	-	-	0:27:40.872000	0:27:41.624000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:40.872000" end="0:27:41.624000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:40.872000" end="0:27:41.624000" age_lower="1" age_upper="999">
 okay	-	-	-	0:27:40.872000	0:27:41.624000
 .	-	-	-	0:27:40.872000	0:27:41.624000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:41.624000" end="0:27:42.769000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:41.624000" end="0:27:42.769000" age_lower="18" age_upper="35">
 also	-	-	-	0:27:41.624000	0:27:42.769000
 das	-	-	-	0:27:41.624000	0:27:42.769000
 ist	-	-	-	0:27:41.624000	0:27:42.769000
@@ -7419,7 +7419,7 @@ Opa	-	-	-	0:27:41.624000	0:27:42.769000
 ja	-	-	-	0:27:41.624000	0:27:42.769000
 .	-	-	-	0:27:41.624000	0:27:42.769000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:41.624000" end="0:27:43.412000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:41.624000" end="0:27:43.412000" age_lower="1" age_upper="999">
 okay	-	-	-	0:27:41.624000	0:27:42.769000
 ,	-	-	-	0:27:41.624000	0:27:42.769000
 kann	-	-	-	0:27:42.769000	0:27:43.412000
@@ -7428,11 +7428,11 @@ so	-	-	-	0:27:42.769000	0:27:43.412000
 sagen	-	-	-	0:27:42.769000	0:27:43.412000
 ,	-	-	-	0:27:42.769000	0:27:43.412000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:43.412000" end="0:27:44.339000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:43.412000" end="0:27:44.339000" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:43.412000	0:27:44.339000
 .	-	-	-	0:27:43.412000	0:27:44.339000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:43.412000" end="0:27:46.057000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:43.412000" end="0:27:46.057000" age_lower="1" age_upper="999">
 das	-	-	-	0:27:43.412000	0:27:44.339000
 ist	-	-	-	0:27:43.412000	0:27:44.339000
 der	-	-	-	0:27:43.412000	0:27:44.339000
@@ -7445,7 +7445,7 @@ mit	-	-	-	0:27:44.339000	0:27:46.057000
 dem	-	-	-	0:27:44.339000	0:27:46.057000
 irgendwie	-	-	-	0:27:44.339000	0:27:46.057000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:46.057000" end="0:27:47.324000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:46.057000" end="0:27:47.324000" age_lower="18" age_upper="35">
 im	-	-	-	0:27:46.057000	0:27:47.324000
 Dialekt	-	-	-	0:27:46.057000	0:27:47.324000
 ,	-	-	-	0:27:46.057000	0:27:47.324000
@@ -7453,27 +7453,27 @@ im	-	-	-	0:27:46.057000	0:27:47.324000
 Dialekt	-	-	-	0:27:46.057000	0:27:47.324000
 ,	-	-	-	0:27:46.057000	0:27:47.324000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:46.057000" end="0:27:47.324000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:46.057000" end="0:27:47.324000" age_lower="1" age_upper="999">
 anders	-	-	-	0:27:46.057000	0:27:47.324000
 ?	-	-	-	0:27:46.057000	0:27:47.324000
 ähm	-	-	-	0:27:46.057000	0:27:47.324000
 ja	-	-	-	0:27:46.057000	0:27:47.324000
 .	-	-	-	0:27:46.057000	0:27:47.324000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:47.324000" end="0:27:48.300000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:47.324000" end="0:27:48.300000" age_lower="18" age_upper="35">
 im	-	-	-	0:27:47.324000	0:27:48.300000
 Dialekt	-	-	-	0:27:47.324000	0:27:48.300000
 .	-	-	-	0:27:47.324000	0:27:48.300000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:47.324000" end="0:27:48.300000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:47.324000" end="0:27:48.300000" age_lower="1" age_upper="999">
 okay	-	-	-	0:27:47.324000	0:27:48.300000
 .	-	-	-	0:27:47.324000	0:27:48.300000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:48.300000" end="0:27:48.927000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:48.300000" end="0:27:48.927000" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:48.300000	0:27:48.927000
 .	-	-	-	0:27:48.300000	0:27:48.927000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:48.300000" end="0:27:50.269000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:48.300000" end="0:27:50.269000" age_lower="1" age_upper="999">
 das	-	-	-	0:27:48.300000	0:27:48.927000
 heißt	-	-	-	0:27:48.300000	0:27:48.927000
 ,	-	-	-	0:27:48.300000	0:27:48.927000
@@ -7485,7 +7485,7 @@ von	-	-	-	0:27:48.927000	0:27:50.269000
 hier	-	-	-	0:27:48.927000	0:27:50.269000
 ?	-	-	-	0:27:48.927000	0:27:50.269000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:50.269000" end="0:27:52.457000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:50.269000" end="0:27:52.457000" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:50.269000	0:27:52.457000
 ,	-	-	-	0:27:50.269000	0:27:52.457000
 ja	-	-	-	0:27:50.269000	0:27:52.457000
@@ -7503,7 +7503,7 @@ hier	-	-	-	0:27:50.269000	0:27:52.457000
 ja	-	-	-	0:27:50.269000	0:27:52.457000
 .	-	-	-	0:27:50.269000	0:27:52.457000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:50.269000" end="0:27:53.169000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:50.269000" end="0:27:53.169000" age_lower="1" age_upper="999">
 oder	-	-	-	0:27:50.269000	0:27:52.457000
 /?	-	-	-	0:27:50.269000	0:27:52.457000
 ja	-	-	-	0:27:50.269000	0:27:52.457000
@@ -7519,10 +7519,10 @@ okay	-	-	-	0:27:50.269000	0:27:52.457000
 mhm	-	-	-	0:27:52.457000	0:27:53.169000
 .	-	-	-	0:27:52.457000	0:27:53.169000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:53.169000" end="0:27:53.987000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:27:53.169000" end="0:27:53.987000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:53.169000" end="0:28:00.821000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:27:53.169000" end="0:28:00.821000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:27:53.987000	0:27:55.045000
 /.	-	-	-	0:27:53.987000	0:27:55.045000
@@ -7543,23 +7543,23 @@ Ihre	-	-	-	0:27:58.800000	0:28:00.821000
 Eltern	-	-	-	0:27:58.800000	0:28:00.821000
 miteinander	-	-	-	0:27:58.800000	0:28:00.821000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:00.821000" end="0:28:02.003000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:00.821000" end="0:28:02.003000" age_lower="18" age_upper="35">
 immer	-	-	-	0:28:00.821000	0:28:02.003000
 im	-	-	-	0:28:00.821000	0:28:02.003000
 Dialekt	-	-	-	0:28:00.821000	0:28:02.003000
 .	-	-	-	0:28:00.821000	0:28:02.003000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:00.821000" end="0:28:02.003000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:00.821000" end="0:28:02.003000" age_lower="1" age_upper="999">
 gesprochen	-	-	-	0:28:00.821000	0:28:02.003000
 ?	-	-	-	0:28:00.821000	0:28:02.003000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:02.003000" end="0:28:03.587000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:02.003000" end="0:28:03.587000" age_lower="18" age_upper="35">
 immer	-	-	-	0:28:02.003000	0:28:03.587000
 ,	-	-	-	0:28:02.003000	0:28:03.587000
 immer	-	-	-	0:28:02.003000	0:28:03.587000
 .	-	-	-	0:28:02.003000	0:28:03.587000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:02.003000" end="0:28:03.587000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:02.003000" end="0:28:03.587000" age_lower="1" age_upper="999">
 immer	-	-	-	0:28:02.003000	0:28:03.587000
 im	-	-	-	0:28:02.003000	0:28:03.587000
 Dialekt	-	-	-	0:28:02.003000	0:28:03.587000
@@ -7567,7 +7567,7 @@ Dialekt	-	-	-	0:28:02.003000	0:28:03.587000
 mhm	-	-	-	0:28:02.003000	0:28:03.587000
 .	-	-	-	0:28:02.003000	0:28:03.587000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:03.587000" end="0:28:06.772000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:03.587000" end="0:28:06.772000" age_lower="18" age_upper="35">
 sie	-	-	-	0:28:03.587000	0:28:04.596000
 haben	-	-	-	0:28:03.587000	0:28:04.596000
 auch	-	-	-	0:28:03.587000	0:28:04.596000
@@ -7583,7 +7583,7 @@ nur	-	-	-	0:28:04.596000	0:28:06.772000
 mhm	-	-	-	0:28:04.596000	0:28:06.772000
 .	-	-	-	0:28:04.596000	0:28:06.772000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:04.596000" end="0:28:09.475000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:04.596000" end="0:28:09.475000" age_lower="1" age_upper="999">
 nur	-	-	-	0:28:04.596000	0:28:06.772000
 di/	-	-	-	0:28:04.596000	0:28:06.772000
 nur	-	-	-	0:28:04.596000	0:28:06.772000
@@ -7600,13 +7600,13 @@ oder	-	-	-	0:28:06.772000	0:28:09.475000
 hat	-	-	-	0:28:06.772000	0:28:09.475000
 einer	-	-	-	0:28:06.772000	0:28:09.475000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:09.475000" end="0:28:11.130000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:09.475000" end="0:28:11.130000" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:09.475000	0:28:11.130000
 ,	-	-	-	0:28:09.475000	0:28:11.130000
 gleich	-	-	-	0:28:09.475000	0:28:11.130000
 .	-	-	-	0:28:09.475000	0:28:11.130000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:09.475000" end="0:28:11.130000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:09.475000" end="0:28:11.130000" age_lower="1" age_upper="999">
 vielleicht	-	-	-	0:28:09.475000	0:28:11.130000
 ein	-	-	-	0:28:09.475000	0:28:11.130000
 bisschen	-	-	-	0:28:09.475000	0:28:11.130000
@@ -7616,24 +7616,24 @@ oder	-	-	-	0:28:09.475000	0:28:11.130000
 d/	-	-	-	0:28:09.475000	0:28:11.130000
 /?	-	-	-	0:28:09.475000	0:28:11.130000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:11.130000" end="0:28:11.942000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:11.130000" end="0:28:11.942000" age_lower="18" age_upper="35">
 gleich	-	-	-	0:28:11.130000	0:28:11.942000
 .	-	-	-	0:28:11.130000	0:28:11.942000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:11.130000" end="0:28:11.942000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:11.130000" end="0:28:11.942000" age_lower="1" age_upper="999">
 gleich	-	-	-	0:28:11.130000	0:28:11.942000
 eigentlich	-	-	-	0:28:11.130000	0:28:11.942000
 .	-	-	-	0:28:11.130000	0:28:11.942000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:11.942000" end="0:28:12.551000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:11.942000" end="0:28:12.551000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:28:11.942000	0:28:12.551000
 /.	-	-	-	0:28:11.942000	0:28:12.551000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:11.942000" end="0:28:12.551000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:11.942000" end="0:28:12.551000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:11.942000	0:28:12.551000
 .	-	-	-	0:28:11.942000	0:28:12.551000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:12.551000" end="0:28:17.672000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:12.551000" end="0:28:17.672000" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:28:12.551000	0:28:15.672000
 ist	-	-	-	0:28:12.551000	0:28:15.672000
 es	-	-	-	0:28:12.551000	0:28:15.672000
@@ -7654,13 +7654,13 @@ dieses	-	-	-	0:28:15.672000	0:28:17.672000
 Switchen	-	-	-	0:28:15.672000	0:28:17.672000
 .	-	-	-	0:28:15.672000	0:28:17.672000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:15.672000" end="0:28:18.375000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:15.672000" end="0:28:18.375000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:28:15.672000	0:28:17.672000
 .	-	-	-	0:28:15.672000	0:28:17.672000
 mhm	-	-	-	0:28:17.672000	0:28:18.375000
 .	-	-	-	0:28:17.672000	0:28:18.375000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:18.375000" end="0:28:22.924000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:18.375000" end="0:28:22.924000" age_lower="18" age_upper="35">
 mein	-	-	-	0:28:18.375000	0:28:21.875000
 Vater	-	-	-	0:28:18.375000	0:28:21.875000
 egal	-	-	-	0:28:18.375000	0:28:21.875000
@@ -7676,16 +7676,16 @@ im	-	-	-	0:28:18.375000	0:28:21.875000
 Dialekt	-	-	-	0:28:18.375000	0:28:21.875000
 .	-	-	-	0:28:18.375000	0:28:21.875000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:21.875000" end="0:28:22.924000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:21.875000" end="0:28:22.924000" age_lower="1" age_upper="999">
 okay	-	-	-	0:28:21.875000	0:28:22.924000
 ,	-	-	-	0:28:21.875000	0:28:22.924000
 okay	-	-	-	0:28:21.875000	0:28:22.924000
 .	-	-	-	0:28:21.875000	0:28:22.924000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:22.924000" end="0:28:23.784000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:22.924000" end="0:28:23.784000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:22.924000" end="0:28:26.054000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:22.924000" end="0:28:26.054000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:28:23.784000	0:28:26.054000
 ja	-	-	-	0:28:23.784000	0:28:26.054000
@@ -7696,13 +7696,13 @@ pendelt	-	-	-	0:28:23.784000	0:28:26.054000
 nach	-	-	-	0:28:23.784000	0:28:26.054000
 ORT	ORT	-	-	0:28:23.784000	0:28:26.054000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:26.054000" end="0:28:27.087000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:26.054000" end="0:28:27.087000" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:26.054000	0:28:27.087000
 ,	-	-	-	0:28:26.054000	0:28:27.087000
 genau	-	-	-	0:28:26.054000	0:28:27.087000
 .	-	-	-	0:28:26.054000	0:28:27.087000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:26.054000" end="0:28:29.136000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:26.054000" end="0:28:29.136000" age_lower="1" age_upper="999">
 sozusagen	-	-	-	0:28:26.054000	0:28:27.087000
 ?	-	-	-	0:28:26.054000	0:28:27.087000
 okay	-	-	-	0:28:27.087000	0:28:29.136000
@@ -7715,7 +7715,7 @@ vor	-	-	-	0:28:27.087000	0:28:29.136000
 Ort	-	-	-	0:28:27.087000	0:28:29.136000
 ?	-	-	-	0:28:27.087000	0:28:29.136000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:29.136000" end="0:28:31.224000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:29.136000" end="0:28:31.224000" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:29.136000	0:28:31.224000
 ,	-	-	-	0:28:29.136000	0:28:31.224000
 er	-	-	-	0:28:29.136000	0:28:31.224000
@@ -7725,13 +7725,13 @@ in	-	-	-	0:28:29.136000	0:28:31.224000
 ORT	ORT	-	-	0:28:29.136000	0:28:31.224000
 ,	-	-	-	0:28:29.136000	0:28:31.224000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:29.136000" end="0:28:31.224000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:29.136000" end="0:28:31.224000" age_lower="1" age_upper="999">
 oder	-	-	-	0:28:29.136000	0:28:31.224000
 /?	-	-	-	0:28:29.136000	0:28:31.224000
 nein	-	-	-	0:28:29.136000	0:28:31.224000
 ?	-	-	-	0:28:29.136000	0:28:31.224000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:31.224000" end="0:28:36.239000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:31.224000" end="0:28:36.239000" age_lower="18" age_upper="35">
 aber	-	-	-	0:28:31.224000	0:28:35.572000
 <pause duration="0,7s"/>
 halt	-	-	-	0:28:31.224000	0:28:35.572000
@@ -7754,16 +7754,16 @@ einmal	-	-	-	0:28:31.224000	0:28:35.572000
 dort	-	-	-	0:28:35.572000	0:28:36.239000
 .	-	-	-	0:28:35.572000	0:28:36.239000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:35.572000" end="0:28:36.239000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:35.572000" end="0:28:36.239000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:28:35.572000	0:28:36.239000
 ja	-	-	-	0:28:35.572000	0:28:36.239000
 .	-	-	-	0:28:35.572000	0:28:36.239000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:36.239000" end="0:28:38.606000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:36.239000" end="0:28:38.606000" age_lower="18" age_upper="35">
 genau	-	-	-	0:28:36.239000	0:28:38.606000
 .	-	-	-	0:28:36.239000	0:28:38.606000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:36.239000" end="0:28:38.606000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:36.239000" end="0:28:38.606000" age_lower="1" age_upper="999">
 gut	-	-	-	0:28:36.239000	0:28:38.606000
 ,	-	-	-	0:28:36.239000	0:28:38.606000
 dann	-	-	-	0:28:36.239000	0:28:38.606000
@@ -7776,11 +7776,11 @@ in	-	-	-	0:28:36.239000	0:28:38.606000
 der	-	-	-	0:28:36.239000	0:28:38.606000
 Gegend	-	-	-	0:28:36.239000	0:28:38.606000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:38.606000" end="0:28:39.912000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:38.606000" end="0:28:39.912000" age_lower="18" age_upper="35">
 genau	-	-	-	0:28:38.606000	0:28:39.912000
 .	-	-	-	0:28:38.606000	0:28:39.912000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:38.606000" end="0:28:45.269000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:38.606000" end="0:28:45.269000" age_lower="1" age_upper="999">
 sozusagen	-	-	-	0:28:38.606000	0:28:39.912000
 ,	-	-	-	0:28:38.606000	0:28:39.912000
 ja	-	-	-	0:28:38.606000	0:28:39.912000
@@ -7814,25 +7814,25 @@ den	-	-	-	0:28:39.912000	0:28:45.269000
 Leuten	-	-	-	0:28:39.912000	0:28:45.269000
 so	-	-	-	0:28:39.912000	0:28:45.269000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:45.269000" end="0:28:46.418000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:45.269000" end="0:28:46.418000" age_lower="18" age_upper="35">
 genau	-	-	-	0:28:45.269000	0:28:46.418000
 ,	-	-	-	0:28:45.269000	0:28:46.418000
 genau	-	-	-	0:28:45.269000	0:28:46.418000
 .	-	-	-	0:28:45.269000	0:28:46.418000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:45.269000" end="0:28:46.418000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:45.269000" end="0:28:46.418000" age_lower="1" age_upper="999">
 kommunizieren	-	-	-	0:28:45.269000	0:28:46.418000
 ,	-	-	-	0:28:45.269000	0:28:46.418000
 nicht	-	-	-	0:28:45.269000	0:28:46.418000
 ?	-	-	-	0:28:45.269000	0:28:46.418000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:46.418000" end="0:28:48.918000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:46.418000" end="0:28:48.918000" age_lower="18" age_upper="35">
 genau	-	-	-	0:28:46.418000	0:28:48.918000
 ,	-	-	-	0:28:46.418000	0:28:48.918000
 genau	-	-	-	0:28:46.418000	0:28:48.918000
 .	-	-	-	0:28:46.418000	0:28:48.918000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:46.418000" end="0:28:51.330000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:46.418000" end="0:28:51.330000" age_lower="1" age_upper="999">
 das	-	-	-	0:28:46.418000	0:28:48.918000
 das	-	-	-	0:28:46.418000	0:28:48.918000
 ist	-	-	-	0:28:46.418000	0:28:48.918000
@@ -7857,11 +7857,11 @@ klein	-	-	-	0:28:48.918000	0:28:51.330000
 waren	-	-	-	0:28:48.918000	0:28:51.330000
 ,	-	-	-	0:28:48.918000	0:28:51.330000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:51.330000" end="0:28:53.121000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:51.330000" end="0:28:53.121000" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:51.330000	0:28:53.121000
 .	-	-	-	0:28:51.330000	0:28:53.121000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:51.330000" end="0:28:54.109000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:51.330000" end="0:28:54.109000" age_lower="1" age_upper="999">
 war	-	-	-	0:28:51.330000	0:28:53.121000
 das	-	-	-	0:28:51.330000	0:28:53.121000
 jetzt	-	-	-	0:28:51.330000	0:28:53.121000
@@ -7876,19 +7876,19 @@ mhm	-	-	-	0:28:53.121000	0:28:54.109000
 mhm	-	-	-	0:28:53.121000	0:28:54.109000
 .	-	-	-	0:28:53.121000	0:28:54.109000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:54.109000" end="0:28:54.800000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:54.109000" end="0:28:54.800000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:54.109000" end="0:28:56.800000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:54.109000" end="0:28:56.800000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 okay	-	-	-	0:28:54.800000	0:28:56.800000
 ähm	-	-	-	0:28:54.800000	0:28:56.800000
 /.	-	-	-	0:28:54.800000	0:28:56.800000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:56.800000" end="0:28:57.345000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:28:56.800000" end="0:28:57.345000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:56.800000" end="0:29:01.051000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:28:56.800000" end="0:29:01.051000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 das	-	-	-	0:28:57.345000	0:28:58.436000
 heißt	-	-	-	0:28:57.345000	0:28:58.436000
@@ -7910,11 +7910,11 @@ Sie	-	-	-	0:29:00.015000	0:29:01.051000
 nur	-	-	-	0:29:00.015000	0:29:01.051000
 Dialekt	-	-	-	0:29:00.015000	0:29:01.051000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:01.051000" end="0:29:01.781000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:01.051000" end="0:29:01.781000" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:01.051000	0:29:01.781000
 .	-	-	-	0:29:01.051000	0:29:01.781000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:01.051000" end="0:29:08.854000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:01.051000" end="0:29:08.854000" age_lower="1" age_upper="999">
 gesprochen	-	-	-	0:29:01.051000	0:29:01.781000
 ?	-	-	-	0:29:01.051000	0:29:01.781000
 ja	-	-	-	0:29:01.781000	0:29:03.415000
@@ -7943,21 +7943,21 @@ der	-	-	-	0:29:04.945000	0:29:08.854000
 Volksschule	-	-	-	0:29:04.945000	0:29:08.854000
 ?	-	-	-	0:29:04.945000	0:29:08.854000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:08.854000" end="0:29:11.969000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:08.854000" end="0:29:11.969000" age_lower="18" age_upper="35">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:08.854000" end="0:29:11.969000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:08.854000" end="0:29:11.969000" age_lower="1" age_upper="999">
 <pause duration="3,1s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:11.969000" end="0:29:12.542000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:11.969000" end="0:29:12.542000" age_lower="18" age_upper="35">
 (naha)	-	-	-	0:29:11.969000	0:29:12.542000
 .	-	-	-	0:29:11.969000	0:29:12.542000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:12.542000" end="0:29:12.803000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:12.542000" end="0:29:12.803000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:29:12.542000	0:29:12.803000
 ?	-	-	-	0:29:12.542000	0:29:12.803000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:12.803000" end="0:29:18.984000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:12.803000" end="0:29:18.984000" age_lower="18" age_upper="35">
 also	-	-	-	0:29:12.803000	0:29:14.309000
 ich	-	-	-	0:29:12.803000	0:29:14.309000
 kenne	-	-	-	0:29:12.803000	0:29:14.309000
@@ -7982,17 +7982,17 @@ ich	-	-	-	0:29:17.527000	0:29:18.984000
 nie	-	-	-	0:29:17.527000	0:29:18.984000
 .	-	-	-	0:29:17.527000	0:29:18.984000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:17.527000" end="0:29:19.615000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:17.527000" end="0:29:19.615000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:17.527000	0:29:18.984000
 .	-	-	-	0:29:17.527000	0:29:18.984000
 okay	-	-	-	0:29:18.984000	0:29:19.615000
 .	-	-	-	0:29:18.984000	0:29:19.615000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:19.615000" end="0:29:20.384000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:19.615000" end="0:29:20.384000" age_lower="18" age_upper="35">
 so	-	-	-	0:29:19.615000	0:29:20.384000
 /.	-	-	-	0:29:19.615000	0:29:20.384000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:19.615000" end="0:29:21.966000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:19.615000" end="0:29:21.966000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:19.615000	0:29:20.384000
 .	-	-	-	0:29:19.615000	0:29:20.384000
 mhm	-	-	-	0:29:20.384000	0:29:21.966000
@@ -8001,29 +8001,29 @@ mhm	-	-	-	0:29:20.384000	0:29:21.966000
 ja	-	-	-	0:29:20.384000	0:29:21.966000
 .	-	-	-	0:29:20.384000	0:29:21.966000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:21.966000" end="0:29:22.690000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:21.966000" end="0:29:22.690000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:21.966000" end="0:29:22.690000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:21.966000" end="0:29:22.690000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:22.690000" end="0:29:23.775000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:22.690000" end="0:29:23.775000" age_lower="18" age_upper="35">
 das	-	-	-	0:29:22.690000	0:29:23.775000
 war	-	-	-	0:29:22.690000	0:29:23.775000
 immer	-	-	-	0:29:22.690000	0:29:23.775000
 /.	-	-	-	0:29:22.690000	0:29:23.775000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:22.690000" end="0:29:23.775000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:22.690000" end="0:29:23.775000" age_lower="1" age_upper="999">
 echt	-	-	-	0:29:22.690000	0:29:23.775000
 ?	-	-	-	0:29:22.690000	0:29:23.775000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:23.775000" end="0:29:25.048000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:23.775000" end="0:29:25.048000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:23.775000" end="0:29:25.048000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:23.775000" end="0:29:25.048000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:25.048000" end="0:29:31.751000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:25.048000" end="0:29:31.751000" age_lower="18" age_upper="35">
 keine	-	-	-	0:29:25.048000	0:29:27.278000
 a/	-	-	-	0:29:25.048000	0:29:27.278000
 /,	-	-	-	0:29:25.048000	0:29:27.278000
@@ -8054,11 +8054,11 @@ Deutsch	-	-	-	0:29:27.278000	0:29:31.751000
 gibt	-	-	-	0:29:27.278000	0:29:31.751000
 .	-	-	-	0:29:27.278000	0:29:31.751000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:31.751000" end="0:29:32.145000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:31.751000" end="0:29:32.145000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:29:31.751000	0:29:32.145000
 .	-	-	-	0:29:31.751000	0:29:32.145000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:32.145000" end="0:29:35.100000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:32.145000" end="0:29:35.100000" age_lower="18" age_upper="35">
 das	-	-	-	0:29:32.145000	0:29:33.218000
 wusste	-	-	-	0:29:32.145000	0:29:33.218000
 ich	-	-	-	0:29:32.145000	0:29:33.218000
@@ -8076,12 +8076,12 @@ vorgelesen	-	-	-	0:29:33.218000	0:29:35.100000
 haben	-	-	-	0:29:33.218000	0:29:35.100000
 ,	-	-	-	0:29:33.218000	0:29:35.100000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:35.100000" end="0:29:35.572000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:35.100000" end="0:29:35.572000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:29:35.100000	0:29:35.572000
 ja	-	-	-	0:29:35.100000	0:29:35.572000
 .	-	-	-	0:29:35.100000	0:29:35.572000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:35.572000" end="0:29:38.045000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:35.572000" end="0:29:38.045000" age_lower="18" age_upper="35">
 die	-	-	-	0:29:35.572000	0:29:37.033000
 haben	-	-	-	0:29:35.572000	0:29:37.033000
 mir	-	-	-	0:29:35.572000	0:29:37.033000
@@ -8091,13 +8091,13 @@ Deutsch	-	-	-	0:29:35.572000	0:29:37.033000
 vorgelesen	-	-	-	0:29:37.033000	0:29:38.045000
 ,	-	-	-	0:29:37.033000	0:29:38.045000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:37.033000" end="0:29:38.524000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:37.033000" end="0:29:38.524000" age_lower="1" age_upper="999">
 ja	-	-	-	0:29:37.033000	0:29:38.045000
 .	-	-	-	0:29:37.033000	0:29:38.045000
 mhm	-	-	-	0:29:38.045000	0:29:38.524000
 .	-	-	-	0:29:38.045000	0:29:38.524000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:38.524000" end="0:29:43.893000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:38.524000" end="0:29:43.893000" age_lower="18" age_upper="35">
 von	-	-	-	0:29:38.524000	0:29:39.751000
 dem	-	-	-	0:29:38.524000	0:29:39.751000
 her	-	-	-	0:29:38.524000	0:29:39.751000
@@ -8121,7 +8121,7 @@ anders	-	-	-	0:29:39.751000	0:29:43.893000
 sprechen	-	-	-	0:29:39.751000	0:29:43.893000
 .	-	-	-	0:29:39.751000	0:29:43.893000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:43.893000" end="0:29:45.978000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:43.893000" end="0:29:45.978000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:29:43.893000	0:29:44.469000
 ja	-	-	-	0:29:43.893000	0:29:44.469000
 .	-	-	-	0:29:43.893000	0:29:44.469000
@@ -8132,10 +8132,10 @@ mhm	-	-	-	0:29:44.469000	0:29:45.978000
 mhm	-	-	-	0:29:44.469000	0:29:45.978000
 .	-	-	-	0:29:44.469000	0:29:45.978000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:45.978000" end="0:29:46.572000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:45.978000" end="0:29:46.572000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:45.978000" end="0:29:48.054000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:45.978000" end="0:29:48.054000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 das	-	-	-	0:29:46.572000	0:29:48.054000
 heißt	-	-	-	0:29:46.572000	0:29:48.054000
@@ -8147,11 +8147,11 @@ es	-	-	-	0:29:46.572000	0:29:48.054000
 jetzt	-	-	-	0:29:46.572000	0:29:48.054000
 keine	-	-	-	0:29:46.572000	0:29:48.054000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:48.054000" end="0:29:49.172000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:48.054000" end="0:29:49.172000" age_lower="18" age_upper="35">
 nein	-	-	-	0:29:48.054000	0:29:49.172000
 ,	-	-	-	0:29:48.054000	0:29:49.172000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:48.054000" end="0:29:50.124000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:48.054000" end="0:29:50.124000" age_lower="1" age_upper="999">
 große	-	-	-	0:29:48.054000	0:29:49.172000
 Umstellung	-	-	-	0:29:48.054000	0:29:49.172000
 oder	-	-	-	0:29:49.172000	0:29:50.124000
@@ -8159,12 +8159,12 @@ so	-	-	-	0:29:49.172000	0:29:50.124000
 irgendwie	-	-	-	0:29:49.172000	0:29:50.124000
 ?	-	-	-	0:29:49.172000	0:29:50.124000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:50.124000" end="0:29:50.848000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:29:50.124000" end="0:29:50.848000" age_lower="18" age_upper="35">
 überhaupt	-	-	-	0:29:50.124000	0:29:50.848000
 nicht	-	-	-	0:29:50.124000	0:29:50.848000
 .	-	-	-	0:29:50.124000	0:29:50.848000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:50.124000" end="0:30:04.087000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:29:50.124000" end="0:30:04.087000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:29:50.124000	0:29:50.848000
 /.	-	-	-	0:29:50.124000	0:29:50.848000
 Ihre	-	-	-	0:29:50.848000	0:29:58.969000
@@ -8208,7 +8208,7 @@ so	-	-	-	0:30:01.075000	0:30:04.087000
 oder	-	-	-	0:30:01.075000	0:30:04.087000
 /?	-	-	-	0:30:01.075000	0:30:04.087000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:04.087000" end="0:30:07.036000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:04.087000" end="0:30:07.036000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:30:04.087000	0:30:06.115000
 ,	-	-	-	0:30:04.087000	0:30:06.115000
@@ -8221,18 +8221,18 @@ Dialekt	-	-	-	0:30:04.087000	0:30:06.115000
 nein	-	-	-	0:30:06.115000	0:30:07.036000
 ,	-	-	-	0:30:06.115000	0:30:07.036000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:06.115000" end="0:30:07.036000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:06.115000" end="0:30:07.036000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:06.115000	0:30:07.036000
 .	-	-	-	0:30:06.115000	0:30:07.036000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:07.036000" end="0:30:08.400000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:07.036000" end="0:30:08.400000" age_lower="18" age_upper="35">
 eher	-	-	-	0:30:07.036000	0:30:07.796000
 mehr	-	-	-	0:30:07.036000	0:30:07.796000
 im	-	-	-	0:30:07.036000	0:30:07.796000
 Deutsch	-	-	-	0:30:07.796000	0:30:08.400000
 .	-	-	-	0:30:07.796000	0:30:08.400000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:07.796000" end="0:30:09.812000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:07.796000" end="0:30:09.812000" age_lower="1" age_upper="999">
 okay	-	-	-	0:30:07.796000	0:30:08.400000
 .	-	-	-	0:30:07.796000	0:30:08.400000
 mhm	-	-	-	0:30:08.400000	0:30:09.309000
@@ -8242,12 +8242,12 @@ mhm	-	-	-	0:30:08.400000	0:30:09.309000
 ja	-	-	-	0:30:09.309000	0:30:09.812000
 .	-	-	-	0:30:09.309000	0:30:09.812000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:09.812000" end="0:30:11.357000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:09.812000" end="0:30:11.357000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:30:09.812000	0:30:10.403000
 .	-	-	-	0:30:09.812000	0:30:10.403000
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:10.403000" end="0:30:14.803000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:10.403000" end="0:30:14.803000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 und	-	-	-	0:30:11.357000	0:30:12.694000
 ähm	-	-	-	0:30:11.357000	0:30:12.694000
@@ -8265,14 +8265,14 @@ in	-	-	-	0:30:12.693000	0:30:14.803000
 der	-	-	-	0:30:12.693000	0:30:14.803000
 Hauptschule	-	-	-	0:30:12.693000	0:30:14.803000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:14.803000" end="0:30:15.930000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:14.803000" end="0:30:15.930000" age_lower="18" age_upper="35">
 Hauptschule	-	-	-	0:30:14.803000	0:30:15.930000
 au/	-	-	-	0:30:14.803000	0:30:15.930000
 /,	-	-	-	0:30:14.803000	0:30:15.930000
 ja	-	-	-	0:30:14.803000	0:30:15.930000
 .	-	-	-	0:30:14.803000	0:30:15.930000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:14.803000" end="0:30:19.118000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:14.803000" end="0:30:19.118000" age_lower="1" age_upper="999">
 auch	-	-	-	0:30:14.803000	0:30:15.930000
 in	-	-	-	0:30:14.803000	0:30:15.930000
 [Passail]O	-	-	-	0:30:14.803000	0:30:15.930000
@@ -8291,7 +8291,7 @@ oder	-	-	-	0:30:15.930000	0:30:19.118000
 so	-	-	-	0:30:15.930000	0:30:19.118000
 ?	-	-	-	0:30:15.930000	0:30:19.118000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:19.118000" end="0:30:20.848000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:19.118000" end="0:30:20.848000" age_lower="18" age_upper="35">
 nein	-	-	-	0:30:19.118000	0:30:20.848000
 ,	-	-	-	0:30:19.118000	0:30:20.848000
 auch	-	-	-	0:30:19.118000	0:30:20.848000
@@ -8300,7 +8300,7 @@ nicht	-	-	-	0:30:19.118000	0:30:20.848000
 nein	-	-	-	0:30:19.118000	0:30:20.848000
 .	-	-	-	0:30:19.118000	0:30:20.848000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:19.118000" end="0:30:20.848000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:19.118000" end="0:30:20.848000" age_lower="1" age_upper="999">
 auch	-	-	-	0:30:19.118000	0:30:20.848000
 nicht	-	-	-	0:30:19.118000	0:30:20.848000
 wirklich	-	-	-	0:30:19.118000	0:30:20.848000
@@ -8308,10 +8308,10 @@ wirklich	-	-	-	0:30:19.118000	0:30:20.848000
 mhm	-	-	-	0:30:19.118000	0:30:20.848000
 .	-	-	-	0:30:19.118000	0:30:20.848000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:20.848000" end="0:30:21.393000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:20.848000" end="0:30:21.393000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:20.848000" end="0:30:25.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:20.848000" end="0:30:25.100000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:30:21.393000	0:30:23.990000
 ähm	-	-	-	0:30:21.393000	0:30:23.990000
@@ -8329,11 +8329,11 @@ Sie	-	-	-	0:30:23.990000	0:30:25.100000
 ja	-	-	-	0:30:23.990000	0:30:25.100000
 weiter	-	-	-	0:30:23.990000	0:30:25.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:25.100000" end="0:30:26.648000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:25.100000" end="0:30:26.648000" age_lower="18" age_upper="35">
 genau	-	-	-	0:30:25.100000	0:30:26.648000
 .	-	-	-	0:30:25.100000	0:30:26.648000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:25.100000" end="0:30:29.203000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:25.100000" end="0:30:29.203000" age_lower="1" age_upper="999">
 gependelt	-	-	-	0:30:25.100000	0:30:26.648000
 sozusagen	-	-	-	0:30:25.100000	0:30:26.648000
 .	-	-	-	0:30:25.100000	0:30:26.648000
@@ -8346,45 +8346,45 @@ zuerst	-	-	-	0:30:27.584000	0:30:29.203000
 ähm	-	-	-	0:30:27.584000	0:30:29.203000
 /.	-	-	-	0:30:27.584000	0:30:29.203000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:29.203000" end="0:30:30.175000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:29.203000" end="0:30:30.175000" age_lower="18" age_upper="35">
 nach	-	-	-	0:30:29.203000	0:30:30.175000
 ORT	ORT	-	-	0:30:29.203000	0:30:30.175000
 .	-	-	-	0:30:29.203000	0:30:30.175000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:29.203000" end="0:30:30.800000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:29.203000" end="0:30:30.800000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:30:29.203000	0:30:30.175000
 /.	-	-	-	0:30:29.203000	0:30:30.175000
 genau	-	-	-	0:30:30.175000	0:30:30.800000
 .	-	-	-	0:30:30.175000	0:30:30.800000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:30.800000" end="0:30:31.359000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:30.800000" end="0:30:31.359000" age_lower="18" age_upper="35">
 genau	-	-	-	0:30:30.800000	0:30:31.359000
 .	-	-	-	0:30:30.800000	0:30:31.359000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:31.360000" end="0:30:32.666000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:31.360000" end="0:30:32.666000" age_lower="1" age_upper="999">
 wie	-	-	-	0:30:31.360000	0:30:32.666000
 weit	-	-	-	0:30:31.360000	0:30:32.666000
 ist	-	-	-	0:30:31.360000	0:30:32.666000
 das	-	-	-	0:30:31.360000	0:30:32.666000
 ungefähr	-	-	-	0:30:31.360000	0:30:32.666000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:32.669000" end="0:30:33.424000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:32.669000" end="0:30:33.424000" age_lower="18" age_upper="35">
 eine	-	-	-	0:30:32.669000	0:30:33.424000
 Stunde	-	-	-	0:30:32.669000	0:30:33.424000
 .	-	-	-	0:30:32.669000	0:30:33.424000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:32.669000" end="0:30:33.996000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:32.669000" end="0:30:33.996000" age_lower="1" age_upper="999">
 entfernt	-	-	-	0:30:32.669000	0:30:33.424000
 ?	-	-	-	0:30:32.669000	0:30:33.424000
 eine	-	-	-	0:30:33.424000	0:30:33.996000
 Stunde	-	-	-	0:30:33.424000	0:30:33.996000
 ,	-	-	-	0:30:33.424000	0:30:33.996000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:33.996000" end="0:30:34.700000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:33.996000" end="0:30:34.700000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:30:33.996000	0:30:34.700000
 .	-	-	-	0:30:33.996000	0:30:34.700000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:33.996000" end="0:30:38.006000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:33.996000" end="0:30:38.006000" age_lower="1" age_upper="999">
 okay	-	-	-	0:30:33.996000	0:30:34.700000
 .	-	-	-	0:30:33.996000	0:30:34.700000
 mhm	-	-	-	0:30:34.700000	0:30:35.375000
@@ -8400,18 +8400,18 @@ Lehrern	-	-	-	0:30:35.375000	0:30:38.006000
 her	-	-	-	0:30:35.375000	0:30:38.006000
 ?	-	-	-	0:30:35.375000	0:30:38.006000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:38.006000" end="0:30:39.024000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:38.006000" end="0:30:39.024000" age_lower="18" age_upper="35">
 auch	-	-	-	0:30:38.006000	0:30:39.024000
 .	-	-	-	0:30:38.006000	0:30:39.024000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:38.006000" end="0:30:39.024000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:38.006000" end="0:30:39.024000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:30:38.006000	0:30:39.024000
 haben	-	-	-	0:30:38.006000	0:30:39.024000
 die	-	-	-	0:30:38.006000	0:30:39.024000
 da	-	-	-	0:30:38.006000	0:30:39.024000
 /?	-	-	-	0:30:38.006000	0:30:39.024000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:39.024000" end="0:30:42.451000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:39.024000" end="0:30:42.451000" age_lower="18" age_upper="35">
 wir	-	-	-	0:30:39.024000	0:30:41.633000
 haben	-	-	-	0:30:39.024000	0:30:41.633000
 immer	-	-	-	0:30:39.024000	0:30:41.633000
@@ -8424,13 +8424,13 @@ im	-	-	-	0:30:39.024000	0:30:41.633000
 Deutschunterricht	-	-	-	0:30:39.024000	0:30:41.633000
 .	-	-	-	0:30:39.024000	0:30:41.633000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:41.633000" end="0:30:42.451000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:41.633000" end="0:30:42.451000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:41.633000	0:30:42.451000
 .	-	-	-	0:30:41.633000	0:30:42.451000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:42.451000" end="0:30:44.681000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:42.451000" end="0:30:44.681000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:42.451000" end="0:30:44.681000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:42.451000" end="0:30:44.681000" age_lower="1" age_upper="999">
 okay	-	-	-	0:30:42.451000	0:30:44.681000
 ,	-	-	-	0:30:42.451000	0:30:44.681000
 ja	-	-	-	0:30:42.451000	0:30:44.681000
@@ -8438,13 +8438,13 @@ ja	-	-	-	0:30:42.451000	0:30:44.681000
 ja	-	-	-	0:30:42.451000	0:30:44.681000
 .	-	-	-	0:30:42.451000	0:30:44.681000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:44.681000" end="0:30:45.566000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:44.681000" end="0:30:45.566000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:44.681000" end="0:30:45.566000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:44.681000" end="0:30:45.566000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:45.566000" end="0:30:46.833000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:45.566000" end="0:30:46.833000" age_lower="18" age_upper="35">
 aber	-	-	-	0:30:45.566000	0:30:46.833000
 das	-	-	-	0:30:45.566000	0:30:46.833000
 war	-	-	-	0:30:45.566000	0:30:46.833000
@@ -8452,11 +8452,11 @@ war	-	-	-	0:30:45.566000	0:30:46.833000
 so	-	-	-	0:30:45.566000	0:30:46.833000
 ,	-	-	-	0:30:45.566000	0:30:46.833000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:45.566000" end="0:30:46.833000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:45.566000" end="0:30:46.833000" age_lower="1" age_upper="999">
 und	-	-	-	0:30:45.566000	0:30:46.833000
 /.	-	-	-	0:30:45.566000	0:30:46.833000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:46.833000" end="0:30:48.412000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:46.833000" end="0:30:48.412000" age_lower="18" age_upper="35">
 d/	-	-	-	0:30:46.833000	0:30:48.412000
 d/	-	-	-	0:30:46.833000	0:30:48.412000
 das	-	-	-	0:30:46.833000	0:30:48.412000
@@ -8468,7 +8468,7 @@ Hauptschule	-	-	-	0:30:46.833000	0:30:48.412000
 so	-	-	-	0:30:46.833000	0:30:48.412000
 .	-	-	-	0:30:46.833000	0:30:48.412000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:48.412000" end="0:30:49.845000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:48.412000" end="0:30:49.845000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:30:48.412000	0:30:49.845000
 ,	-	-	-	0:30:48.412000	0:30:49.845000
 ja	-	-	-	0:30:48.412000	0:30:49.845000
@@ -8476,10 +8476,10 @@ ja	-	-	-	0:30:48.412000	0:30:49.845000
 ja	-	-	-	0:30:48.412000	0:30:49.845000
 .	-	-	-	0:30:48.412000	0:30:49.845000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:49.845000" end="0:30:50.727000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:49.845000" end="0:30:50.727000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:49.845000" end="0:30:56.700000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:49.845000" end="0:30:56.700000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 und	-	-	-	0:30:50.727000	0:30:51.254000
 /.	-	-	-	0:30:50.727000	0:30:51.254000
@@ -8497,7 +8497,7 @@ nicht	-	-	-	0:30:55.460000	0:30:56.700000
 wirklich	-	-	-	0:30:55.460000	0:30:56.700000
 ?	-	-	-	0:30:55.460000	0:30:56.700000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:56.700000" end="0:30:58.121000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:56.700000" end="0:30:58.121000" age_lower="18" age_upper="35">
 also	-	-	-	0:30:56.700000	0:30:58.121000
 bei	-	-	-	0:30:56.700000	0:30:58.121000
 mir	-	-	-	0:30:56.700000	0:30:58.121000
@@ -8505,14 +8505,14 @@ nicht	-	-	-	0:30:56.700000	0:30:58.121000
 ,	-	-	-	0:30:56.700000	0:30:58.121000
 aber	-	-	-	0:30:56.700000	0:30:58.121000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:56.700000" end="0:30:58.121000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:30:56.700000" end="0:30:58.121000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:30:56.700000	0:30:58.121000
 wirkl/	-	-	-	0:30:56.700000	0:30:58.121000
 /,	-	-	-	0:30:56.700000	0:30:58.121000
 mhm	-	-	-	0:30:56.700000	0:30:58.121000
 .	-	-	-	0:30:56.700000	0:30:58.121000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:58.121000" end="0:31:09.830000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:30:58.121000" end="0:31:09.830000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 so	-	-	-	0:30:58.121000	0:31:02.336000
 Klassenkameraden	-	-	-	0:30:58.121000	0:31:02.336000
@@ -8553,11 +8553,11 @@ Deutsch	-	-	-	0:31:08.751000	0:31:09.830000
 spricht	-	-	-	0:31:08.751000	0:31:09.830000
 .	-	-	-	0:31:08.751000	0:31:09.830000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:09.830000" end="0:31:10.396000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:09.830000" end="0:31:10.396000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:09.830000	0:31:10.396000
 .	-	-	-	0:31:09.830000	0:31:10.396000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:10.396000" end="0:31:14.448000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:10.396000" end="0:31:14.448000" age_lower="18" age_upper="35">
 jetzt	-	-	-	0:31:10.396000	0:31:12.930000
 in	-	-	-	0:31:10.396000	0:31:12.930000
 der	-	-	-	0:31:10.396000	0:31:12.930000
@@ -8573,17 +8573,17 @@ man	-	-	-	0:31:12.930000	0:31:14.448000
 Dialekt	-	-	-	0:31:12.930000	0:31:14.448000
 oder	-	-	-	0:31:12.930000	0:31:14.448000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:14.448000" end="0:31:15.030000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:14.448000" end="0:31:15.030000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:14.448000	0:31:15.030000
 .	-	-	-	0:31:14.448000	0:31:15.030000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:15.030000" end="0:31:16.736000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:15.030000" end="0:31:16.736000" age_lower="18" age_upper="35">
 anders	-	-	-	0:31:15.030000	0:31:15.657000
 ähm	-	-	-	0:31:15.657000	0:31:16.736000
 spricht	-	-	-	0:31:15.657000	0:31:16.736000
 .	-	-	-	0:31:15.657000	0:31:16.736000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:15.657000" end="0:31:18.224000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:15.657000" end="0:31:18.224000" age_lower="1" age_upper="999">
 okay	-	-	-	0:31:15.657000	0:31:16.736000
 .	-	-	-	0:31:15.657000	0:31:16.736000
 interessant	-	-	-	0:31:16.736000	0:31:18.224000
@@ -8591,10 +8591,10 @@ interessant	-	-	-	0:31:16.736000	0:31:18.224000
 okay	-	-	-	0:31:16.736000	0:31:18.224000
 .	-	-	-	0:31:16.736000	0:31:18.224000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:18.224000" end="0:31:18.818000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:18.224000" end="0:31:18.818000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:18.224000" end="0:31:24.366000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:18.224000" end="0:31:24.366000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 ja	-	-	-	0:31:18.818000	0:31:23.512000
 gut	-	-	-	0:31:18.818000	0:31:23.512000
@@ -8612,34 +8612,34 @@ deshalb	-	-	-	0:31:18.818000	0:31:23.512000
 okay	-	-	-	0:31:23.512000	0:31:24.366000
 .	-	-	-	0:31:23.512000	0:31:24.366000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:24.366000" end="0:31:24.848000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:24.366000" end="0:31:24.848000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:24.366000" end="0:31:25.412000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:24.366000" end="0:31:25.412000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:31:24.848000	0:31:25.412000
 .	-	-	-	0:31:24.848000	0:31:25.412000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:25.412000" end="0:31:26.145000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:25.412000" end="0:31:26.145000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:25.412000" end="0:31:27.336000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:25.412000" end="0:31:27.336000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 gut	-	-	-	0:31:26.145000	0:31:27.336000
 .	-	-	-	0:31:26.145000	0:31:27.336000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:27.336000" end="0:31:28.696000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:27.336000" end="0:31:28.696000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:27.336000" end="0:31:29.269000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:27.336000" end="0:31:29.269000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 ähm	-	-	-	0:31:28.696000	0:31:29.269000
 /.	-	-	-	0:31:28.696000	0:31:29.269000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:29.269000" end="0:31:30.106000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:29.269000" end="0:31:30.106000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:29.269000" end="0:31:37.712000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:29.269000" end="0:31:37.712000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 würden	-	-	-	0:31:30.106000	0:31:34.018000
 Sie	-	-	-	0:31:30.106000	0:31:34.018000
@@ -8667,7 +8667,7 @@ also	-	-	-	0:31:36.936000	0:31:37.712000
 finden	-	-	-	0:31:36.936000	0:31:37.712000
 Sie	-	-	-	0:31:36.936000	0:31:37.712000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:37.712000" end="0:31:39.154000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:37.712000" end="0:31:39.154000" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:37.712000	0:31:39.154000
 ,	-	-	-	0:31:37.712000	0:31:39.154000
 schon	-	-	-	0:31:37.712000	0:31:39.154000
@@ -8675,7 +8675,7 @@ schon	-	-	-	0:31:37.712000	0:31:39.154000
 ja	-	-	-	0:31:37.712000	0:31:39.154000
 .	-	-	-	0:31:37.712000	0:31:39.154000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:37.712000" end="0:31:40.184000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:37.712000" end="0:31:40.184000" age_lower="1" age_upper="999">
 das	-	-	-	0:31:37.712000	0:31:39.154000
 okay	-	-	-	0:31:37.712000	0:31:39.154000
 so	-	-	-	0:31:37.712000	0:31:39.154000
@@ -8687,18 +8687,18 @@ ja	-	-	-	0:31:39.154000	0:31:40.184000
 mhm	-	-	-	0:31:39.154000	0:31:40.184000
 .	-	-	-	0:31:39.154000	0:31:40.184000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:40.184000" end="0:31:41.233000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:40.184000" end="0:31:41.233000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:40.184000" end="0:31:41.896000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:40.184000" end="0:31:41.896000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 ähm	-	-	-	0:31:41.233000	0:31:41.896000
 /.	-	-	-	0:31:41.233000	0:31:41.896000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:41.896000" end="0:31:43.309000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:41.896000" end="0:31:43.309000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:41.896000" end="0:31:47.642000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:41.896000" end="0:31:47.642000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 gut	-	-	-	0:31:43.309000	0:31:44.072000
 .	-	-	-	0:31:43.309000	0:31:44.072000
@@ -8716,11 +8716,11 @@ ein	-	-	-	0:31:45.490000	0:31:47.642000
 paar	-	-	-	0:31:45.490000	0:31:47.642000
 Sommerjobs	-	-	-	0:31:45.490000	0:31:47.642000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:47.642000" end="0:31:48.806000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:47.642000" end="0:31:48.806000" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:47.642000	0:31:48.806000
 .	-	-	-	0:31:47.642000	0:31:48.806000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:47.642000" end="0:31:53.260000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:47.642000" end="0:31:53.260000" age_lower="1" age_upper="999">
 gemacht	-	-	-	0:31:47.642000	0:31:48.806000
 ähm	-	-	-	0:31:47.642000	0:31:48.806000
 /.	-	-	-	0:31:47.642000	0:31:48.806000
@@ -8739,37 +8739,37 @@ Sie	-	-	-	0:31:52.415000	0:31:53.260000
 sich	-	-	-	0:31:52.415000	0:31:53.260000
 da	-	-	-	0:31:52.415000	0:31:53.260000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:53.260000" end="0:31:54.572000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:53.260000" end="0:31:54.572000" age_lower="18" age_upper="35">
 naja	-	-	-	0:31:53.260000	0:31:54.572000
 ähm	-	-	-	0:31:53.260000	0:31:54.572000
 /.	-	-	-	0:31:53.260000	0:31:54.572000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:53.260000" end="0:31:54.572000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:53.260000" end="0:31:54.572000" age_lower="1" age_upper="999">
 irgendwie	-	-	-	0:31:53.260000	0:31:54.572000
 umgestellt	-	-	-	0:31:53.260000	0:31:54.572000
 ?	-	-	-	0:31:53.260000	0:31:54.572000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:54.572000" end="0:31:56.272000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:54.572000" end="0:31:56.272000" age_lower="18" age_upper="35">
 in	-	-	-	0:31:54.572000	0:31:56.272000
 der	-	-	-	0:31:54.572000	0:31:56.272000
 SONSTIGE	SONSTIGE	-	-	0:31:54.572000	0:31:56.272000
 in	-	-	-	0:31:54.572000	0:31:56.272000
 [Passail]O	-	-	-	0:31:54.572000	0:31:56.272000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:54.572000" end="0:31:56.272000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:54.572000" end="0:31:56.272000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:54.572000	0:31:56.272000
 .	-	-	-	0:31:54.572000	0:31:56.272000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:56.272000" end="0:31:57.663000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:56.272000" end="0:31:57.663000" age_lower="18" age_upper="35">
 dann	-	-	-	0:31:56.272000	0:31:57.663000
 Dialekt	-	-	-	0:31:56.272000	0:31:57.663000
 .	-	-	-	0:31:56.272000	0:31:57.663000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:57.663000" end="0:31:58.418000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:31:57.663000" end="0:31:58.418000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:31:57.663000	0:31:58.418000
 .	-	-	-	0:31:57.663000	0:31:58.418000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:58.418000" end="0:32:02.800000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:31:58.418000" end="0:32:02.800000" age_lower="18" age_upper="35">
 und	-	-	-	0:31:58.418000	0:32:02.100000
 bei	-	-	-	0:31:58.418000	0:32:02.100000
 SONSTIGE	SONSTIGE	-	-	0:31:58.418000	0:32:02.100000
@@ -8782,7 +8782,7 @@ also	-	-	-	0:32:02.100000	0:32:02.800000
 Deutsch	-	-	-	0:32:02.100000	0:32:02.800000
 .	-	-	-	0:32:02.100000	0:32:02.800000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:02.100000" end="0:32:03.748000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:02.100000" end="0:32:03.748000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:32:02.100000	0:32:02.800000
 .	-	-	-	0:32:02.100000	0:32:02.800000
 wo	-	-	-	0:32:02.800000	0:32:03.748000
@@ -8790,23 +8790,23 @@ war	-	-	-	0:32:02.800000	0:32:03.748000
 das	-	-	-	0:32:02.800000	0:32:03.748000
 ,	-	-	-	0:32:02.800000	0:32:03.748000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:03.748000" end="0:32:05.048000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:03.748000" end="0:32:05.048000" age_lower="18" age_upper="35">
 in	-	-	-	0:32:03.748000	0:32:05.048000
 ORT	ORT	-	-	0:32:03.748000	0:32:05.048000
 .	-	-	-	0:32:03.748000	0:32:05.048000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:03.748000" end="0:32:05.048000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:03.748000" end="0:32:05.048000" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:32:03.748000	0:32:05.048000
 ?	-	-	-	0:32:03.748000	0:32:05.048000
 in	-	-	-	0:32:03.748000	0:32:05.048000
 ORT	ORT	-	-	0:32:03.748000	0:32:05.048000
 .	-	-	-	0:32:03.748000	0:32:05.048000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:05.048000" end="0:32:05.890000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:05.048000" end="0:32:05.890000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:32:05.048000	0:32:05.890000
 .	-	-	-	0:32:05.048000	0:32:05.890000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:05.048000" end="0:32:07.715000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:05.048000" end="0:32:07.715000" age_lower="1" age_upper="999">
 okay	-	-	-	0:32:05.048000	0:32:05.890000
 ,	-	-	-	0:32:05.048000	0:32:05.890000
 ja	-	-	-	0:32:05.048000	0:32:05.890000
@@ -8820,34 +8820,34 @@ ja	-	-	-	0:32:05.890000	0:32:07.715000
 ja	-	-	-	0:32:05.890000	0:32:07.715000
 .	-	-	-	0:32:05.890000	0:32:07.715000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:07.715000" end="0:32:08.330000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:07.715000" end="0:32:08.330000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:07.715000" end="0:32:09.239000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:07.715000" end="0:32:09.239000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:32:08.330000	0:32:09.239000
 .	-	-	-	0:32:08.330000	0:32:09.239000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:09.239000" end="0:32:09.809000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:09.239000" end="0:32:09.809000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:09.239000" end="0:32:10.945000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:09.239000" end="0:32:10.945000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 gut	-	-	-	0:32:09.809000	0:32:10.945000
 .	-	-	-	0:32:09.809000	0:32:10.945000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:10.945000" end="0:32:11.466000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:10.945000" end="0:32:11.466000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:10.945000" end="0:32:12.412000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:10.945000" end="0:32:12.412000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:32:11.466000	0:32:12.412000
 /.	-	-	-	0:32:11.466000	0:32:12.412000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:12.412000" end="0:32:13.290000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:12.412000" end="0:32:13.290000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:12.412000" end="0:32:19.821000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:12.412000" end="0:32:19.821000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:32:13.290000	0:32:16.224000
 ,	-	-	-	0:32:13.290000	0:32:16.224000
@@ -8877,11 +8877,11 @@ Schule	-	-	-	0:32:16.224000	0:32:19.821000
 anders	-	-	-	0:32:16.224000	0:32:19.821000
 sprechen	-	-	-	0:32:16.224000	0:32:19.821000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:19.821000" end="0:32:20.909000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:19.821000" end="0:32:20.909000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:19.821000	0:32:20.909000
 .	-	-	-	0:32:19.821000	0:32:20.909000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:19.821000" end="0:32:22.169000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:19.821000" end="0:32:22.169000" age_lower="1" age_upper="999">
 als	-	-	-	0:32:19.821000	0:32:20.909000
 privat	-	-	-	0:32:19.821000	0:32:20.909000
 .	-	-	-	0:32:19.821000	0:32:20.909000
@@ -8891,22 +8891,22 @@ man	-	-	-	0:32:20.909000	0:32:22.169000
 so	-	-	-	0:32:20.909000	0:32:22.169000
 doch	-	-	-	0:32:20.909000	0:32:22.169000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:22.169000" end="0:32:22.863000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:22.169000" end="0:32:22.863000" age_lower="18" age_upper="35">
 genau	-	-	-	0:32:22.169000	0:32:22.863000
 .	-	-	-	0:32:22.169000	0:32:22.863000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:22.169000" end="0:32:22.863000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:22.169000" end="0:32:22.863000" age_lower="1" age_upper="999">
 so	-	-	-	0:32:22.169000	0:32:22.863000
 sagen	-	-	-	0:32:22.169000	0:32:22.863000
 .	-	-	-	0:32:22.169000	0:32:22.863000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:22.863000" end="0:32:24.793000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:22.863000" end="0:32:24.793000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:22.863000	0:32:24.793000
 ,	-	-	-	0:32:22.863000	0:32:24.793000
 genau	-	-	-	0:32:22.863000	0:32:24.793000
 .	-	-	-	0:32:22.863000	0:32:24.793000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:22.863000" end="0:32:27.081000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:22.863000" end="0:32:27.081000" age_lower="1" age_upper="999">
 das	-	-	-	0:32:22.863000	0:32:24.793000
 zieht	-	-	-	0:32:22.863000	0:32:24.793000
 sich	-	-	-	0:32:22.863000	0:32:24.793000
@@ -8921,18 +8921,18 @@ mhm	-	-	-	0:32:24.793000	0:32:27.081000
 gut	-	-	-	0:32:24.793000	0:32:27.081000
 .	-	-	-	0:32:24.793000	0:32:27.081000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:27.081000" end="0:32:27.884000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:27.081000" end="0:32:27.884000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:27.081000" end="0:32:28.700000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:27.081000" end="0:32:28.700000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:32:27.884000	0:32:28.700000
 /.	-	-	-	0:32:27.884000	0:32:28.700000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:28.700000" end="0:32:29.290000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:28.700000" end="0:32:29.290000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:28.700000" end="0:32:35.445000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:28.700000" end="0:32:35.445000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 das	-	-	-	0:32:29.290000	0:32:35.445000
 heißt	-	-	-	0:32:29.290000	0:32:35.445000
@@ -8950,11 +8950,11 @@ mit	-	-	-	0:32:29.290000	0:32:35.445000
 den	-	-	-	0:32:29.290000	0:32:35.445000
 Lehrern	-	-	-	0:32:29.290000	0:32:35.445000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:35.445000" end="0:32:35.857000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:35.445000" end="0:32:35.857000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:35.445000	0:32:35.857000
 .	-	-	-	0:32:35.445000	0:32:35.857000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:35.445000" end="0:32:36.630000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:35.445000" end="0:32:36.630000" age_lower="1" age_upper="999">
 auch	-	-	-	0:32:35.445000	0:32:35.857000
 ?	-	-	-	0:32:35.445000	0:32:35.857000
 da	-	-	-	0:32:35.857000	0:32:36.630000
@@ -8963,7 +8963,7 @@ es	-	-	-	0:32:35.857000	0:32:36.630000
 jetzt	-	-	-	0:32:35.857000	0:32:36.630000
 auch	-	-	-	0:32:35.857000	0:32:36.630000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:36.630000" end="0:32:38.533000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:36.630000" end="0:32:38.533000" age_lower="18" age_upper="35">
 nein	-	-	-	0:32:36.630000	0:32:38.533000
 ,	-	-	-	0:32:36.630000	0:32:38.533000
 überhaupt	-	-	-	0:32:36.630000	0:32:38.533000
@@ -8973,7 +8973,7 @@ Unterschiede	-	-	-	0:32:36.630000	0:32:38.533000
 nein	-	-	-	0:32:36.630000	0:32:38.533000
 .	-	-	-	0:32:36.630000	0:32:38.533000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:36.630000" end="0:32:40.927000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:36.630000" end="0:32:40.927000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:32:36.630000	0:32:38.533000
 wirklich	-	-	-	0:32:36.630000	0:32:38.533000
 große	-	-	-	0:32:36.630000	0:32:38.533000
@@ -8988,11 +8988,11 @@ aus	-	-	-	0:32:38.533000	0:32:40.927000
 mit	-	-	-	0:32:38.533000	0:32:40.927000
 Ihnen	-	-	-	0:32:38.533000	0:32:40.927000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:40.927000" end="0:32:41.775000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:40.927000" end="0:32:41.775000" age_lower="18" age_upper="35">
 nein	-	-	-	0:32:40.927000	0:32:41.775000
 .	-	-	-	0:32:40.927000	0:32:41.775000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:40.927000" end="0:32:45.715000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:40.927000" end="0:32:45.715000" age_lower="1" age_upper="999">
 in	-	-	-	0:32:40.927000	0:32:41.775000
 der	-	-	-	0:32:40.927000	0:32:41.775000
 Schule	-	-	-	0:32:40.927000	0:32:41.775000
@@ -9011,10 +9011,10 @@ gut	-	-	-	0:32:43.793000	0:32:45.715000
 mhm	-	-	-	0:32:43.793000	0:32:45.715000
 .	-	-	-	0:32:43.793000	0:32:45.715000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:45.715000" end="0:32:46.433000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:45.715000" end="0:32:46.433000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:45.715000" end="0:32:50.572000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:45.715000" end="0:32:50.572000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 gut	-	-	-	0:32:46.433000	0:32:47.333000
 .	-	-	-	0:32:46.433000	0:32:47.333000
@@ -9031,12 +9031,12 @@ mit	-	-	-	0:32:47.333000	0:32:50.572000
 mir	-	-	-	0:32:47.333000	0:32:50.572000
 ?	-	-	-	0:32:47.333000	0:32:50.572000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:50.572000" end="0:32:51.972000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:50.572000" end="0:32:51.972000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:50.572000" end="0:32:51.972000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:50.572000" end="0:32:51.972000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:51.972000" end="0:32:54.321000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:51.972000" end="0:32:54.321000" age_lower="18" age_upper="35">
 so	-	-	-	0:32:51.972000	0:32:54.321000
 ,	-	-	-	0:32:51.972000	0:32:54.321000
 wie	-	-	-	0:32:51.972000	0:32:54.321000
@@ -9048,7 +9048,7 @@ Schule	-	-	-	0:32:51.972000	0:32:54.321000
 spreche	-	-	-	0:32:51.972000	0:32:54.321000
 .	-	-	-	0:32:51.972000	0:32:54.321000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:54.321000" end="0:32:58.154000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:54.321000" end="0:32:58.154000" age_lower="1" age_upper="999">
 okay	-	-	-	0:32:54.321000	0:32:55.566000
 ,	-	-	-	0:32:54.321000	0:32:55.566000
 okay	-	-	-	0:32:54.321000	0:32:55.566000
@@ -9066,13 +9066,13 @@ mit	-	-	-	0:32:55.566000	0:32:58.154000
 Ihnen	-	-	-	0:32:55.566000	0:32:58.154000
 ?	-	-	-	0:32:55.566000	0:32:58.154000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:58.154000" end="0:32:59.650000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:58.154000" end="0:32:59.650000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:58.154000" end="0:32:59.650000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:32:58.154000" end="0:32:59.650000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:59.651000" end="0:33:02.036000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:32:59.651000" end="0:33:02.036000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:59.651000	0:33:02.036000
 ,	-	-	-	0:32:59.651000	0:33:02.036000
 auch	-	-	-	0:32:59.651000	0:33:02.036000
@@ -9081,7 +9081,7 @@ so	-	-	-	0:32:59.651000	0:33:02.036000
 Deutsch	-	-	-	0:32:59.651000	0:33:02.036000
 .	-	-	-	0:32:59.651000	0:33:02.036000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:02.036000" end="0:33:04.393000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:02.036000" end="0:33:04.393000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:02.036000	0:33:02.721000
 .	-	-	-	0:33:02.036000	0:33:02.721000
 okay	-	-	-	0:33:02.721000	0:33:04.393000
@@ -9089,9 +9089,9 @@ okay	-	-	-	0:33:02.721000	0:33:04.393000
 passt	-	-	-	0:33:02.721000	0:33:04.393000
 .	-	-	-	0:33:02.721000	0:33:04.393000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:04.403000" end="0:33:05.972000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:04.403000" end="0:33:05.972000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:04.403000" end="0:33:05.972000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:04.403000" end="0:33:05.972000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:04.403000	0:33:05.972000
 ,	-	-	-	0:33:04.403000	0:33:05.972000
 das	-	-	-	0:33:04.403000	0:33:05.972000
@@ -9101,21 +9101,21 @@ die	-	-	-	0:33:04.403000	0:33:05.972000
 Idee	-	-	-	0:33:04.403000	0:33:05.972000
 .	-	-	-	0:33:04.403000	0:33:05.972000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:05.972000" end="0:33:07.487000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:05.972000" end="0:33:07.487000" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:05.972000	0:33:07.487000
 .	-	-	-	0:33:05.972000	0:33:07.487000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:05.972000" end="0:33:10.333000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:05.972000" end="0:33:10.333000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:07.487000	0:33:10.333000
 ,	-	-	-	0:33:07.487000	0:33:10.333000
 gut	-	-	-	0:33:07.487000	0:33:10.333000
 ähm	-	-	-	0:33:07.487000	0:33:10.333000
 /.	-	-	-	0:33:07.487000	0:33:10.333000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:10.333000" end="0:33:12.100000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:10.333000" end="0:33:12.100000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:10.333000" end="0:33:15.545000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:10.333000" end="0:33:15.545000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 würden	-	-	-	0:33:12.100000	0:33:13.087000
 Sie	-	-	-	0:33:12.100000	0:33:13.087000
@@ -9132,11 +9132,11 @@ Veränderungen	-	-	-	0:33:13.087000	0:33:15.545000
 der	-	-	-	0:33:13.087000	0:33:15.545000
 deutschen	-	-	-	0:33:13.087000	0:33:15.545000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:15.545000" end="0:33:16.806000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:15.545000" end="0:33:16.806000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:33:15.545000	0:33:16.806000
 .	-	-	-	0:33:15.545000	0:33:16.806000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:15.545000" end="0:33:23.348000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:15.545000" end="0:33:23.348000" age_lower="1" age_upper="999">
 Sprache	-	-	-	0:33:15.545000	0:33:16.806000
 geredet	-	-	-	0:33:15.545000	0:33:16.806000
 .	-	-	-	0:33:15.545000	0:33:16.806000
@@ -9162,11 +9162,11 @@ Sprachen	-	-	-	0:33:17.581000	0:33:23.348000
 und	-	-	-	0:33:17.581000	0:33:23.348000
 den	-	-	-	0:33:17.581000	0:33:23.348000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:23.348000" end="0:33:25.039000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:23.348000" end="0:33:25.039000" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:23.348000	0:33:25.039000
 .	-	-	-	0:33:23.348000	0:33:25.039000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:23.348000" end="0:33:27.148000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:23.348000" end="0:33:27.148000" age_lower="1" age_upper="999">
 Einfluss	-	-	-	0:33:23.348000	0:33:25.039000
 von	-	-	-	0:33:23.348000	0:33:25.039000
 anderen	-	-	-	0:33:23.348000	0:33:25.039000
@@ -9183,11 +9183,11 @@ schon	-	-	-	0:33:26.106000	0:33:27.148000
 ein	-	-	-	0:33:26.106000	0:33:27.148000
 Beispiel	-	-	-	0:33:26.106000	0:33:27.148000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:27.148000" end="0:33:27.851000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:27.148000" end="0:33:27.851000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:33:27.148000	0:33:27.851000
 .	-	-	-	0:33:27.148000	0:33:27.851000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:27.148000" end="0:33:35.890000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:27.148000" end="0:33:35.890000" age_lower="1" age_upper="999">
 genannt	-	-	-	0:33:27.148000	0:33:27.851000
 ,	-	-	-	0:33:27.148000	0:33:27.851000
 so	-	-	-	0:33:27.148000	0:33:27.851000
@@ -9217,7 +9217,7 @@ wichtig	-	-	-	0:33:32.454000	0:33:35.890000
 irgendwie	-	-	-	0:33:32.454000	0:33:35.890000
 ?	-	-	-	0:33:32.454000	0:33:35.890000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:35.890000" end="0:33:40.463000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:35.890000" end="0:33:40.463000" age_lower="18" age_upper="35">
 nein	-	-	-	0:33:35.890000	0:33:38.342000
 ,	-	-	-	0:33:35.890000	0:33:38.342000
 was	-	-	-	0:33:35.890000	0:33:38.342000
@@ -9232,20 +9232,20 @@ wirklich	-	-	-	0:33:38.342000	0:33:40.463000
 Schimpfwörter	-	-	-	0:33:38.342000	0:33:40.463000
 .	-	-	-	0:33:38.342000	0:33:40.463000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:40.463000" end="0:33:41.127000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:40.463000" end="0:33:41.127000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:40.463000	0:33:41.127000
 .	-	-	-	0:33:40.463000	0:33:41.127000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:41.127000" end="0:33:43.063000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:41.127000" end="0:33:43.063000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ähm	-	-	-	0:33:41.127000	0:33:42.406000
 /.	-	-	-	0:33:41.127000	0:33:42.406000
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:42.406000" end="0:33:43.063000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:42.406000" end="0:33:43.063000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:43.063000" end="0:33:45.266000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:43.063000" end="0:33:45.266000" age_lower="18" age_upper="35">
 v/	-	-	-	0:33:43.063000	0:33:45.266000
 v/	-	-	-	0:33:43.063000	0:33:45.266000
 vor	-	-	-	0:33:43.063000	0:33:45.266000
@@ -9253,11 +9253,11 @@ allem	-	-	-	0:33:43.063000	0:33:45.266000
 die	-	-	-	0:33:43.063000	0:33:45.266000
 Jungen	-	-	-	0:33:43.063000	0:33:45.266000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:45.266000" end="0:33:45.784000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:45.266000" end="0:33:45.784000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:45.266000	0:33:45.784000
 .	-	-	-	0:33:45.266000	0:33:45.784000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:45.784000" end="0:33:49.018000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:45.784000" end="0:33:49.018000" age_lower="18" age_upper="35">
 verwenden	-	-	-	0:33:45.784000	0:33:49.018000
 Schimpfwörter	-	-	-	0:33:45.784000	0:33:49.018000
 aus	-	-	-	0:33:45.784000	0:33:49.018000
@@ -9266,11 +9266,11 @@ anderen	-	-	-	0:33:45.784000	0:33:49.018000
 Sprachen	-	-	-	0:33:45.784000	0:33:49.018000
 .	-	-	-	0:33:45.784000	0:33:49.018000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:49.018000" end="0:33:49.563000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:49.018000" end="0:33:49.563000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:49.018000	0:33:49.563000
 .	-	-	-	0:33:49.018000	0:33:49.563000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:49.563000" end="0:33:51.251000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:49.563000" end="0:33:51.251000" age_lower="18" age_upper="35">
 zum	-	-	-	0:33:49.563000	0:33:50.618000
 Beispiel	-	-	-	0:33:49.563000	0:33:50.618000
 Türkisch	-	-	-	0:33:49.563000	0:33:50.618000
@@ -9278,11 +9278,11 @@ Türkisch	-	-	-	0:33:49.563000	0:33:50.618000
 die	-	-	-	0:33:50.618000	0:33:51.251000
 türkischen	-	-	-	0:33:50.618000	0:33:51.251000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:50.618000" end="0:33:51.251000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:50.618000" end="0:33:51.251000" age_lower="1" age_upper="999">
 aha	-	-	-	0:33:50.618000	0:33:51.251000
 .	-	-	-	0:33:50.618000	0:33:51.251000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:51.251000" end="0:33:55.533000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:51.251000" end="0:33:55.533000" age_lower="18" age_upper="35">
 Schimpfwörter	-	-	-	0:33:51.251000	0:33:55.533000
 werden	-	-	-	0:33:51.251000	0:33:55.533000
 bei	-	-	-	0:33:51.251000	0:33:55.533000
@@ -9295,11 +9295,11 @@ in	-	-	-	0:33:51.251000	0:33:55.533000
 also	-	-	-	0:33:51.251000	0:33:55.533000
 /.	-	-	-	0:33:51.251000	0:33:55.533000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:55.533000" end="0:33:56.081000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:55.533000" end="0:33:56.081000" age_lower="1" age_upper="999">
 aha	-	-	-	0:33:55.533000	0:33:56.081000
 .	-	-	-	0:33:55.533000	0:33:56.081000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:56.081000" end="0:33:57.696000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:56.081000" end="0:33:57.696000" age_lower="18" age_upper="35">
 und	-	-	-	0:33:56.081000	0:33:57.696000
 die	-	-	-	0:33:56.081000	0:33:57.696000
 fangen	-	-	-	0:33:56.081000	0:33:57.696000
@@ -9307,7 +9307,7 @@ dann	-	-	-	0:33:56.081000	0:33:57.696000
 an	-	-	-	0:33:56.081000	0:33:57.696000
 /,	-	-	-	0:33:56.081000	0:33:57.696000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:56.081000" end="0:33:57.696000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:56.081000" end="0:33:57.696000" age_lower="1" age_upper="999">
 was	-	-	-	0:33:56.081000	0:33:57.696000
 gibt	-	-	-	0:33:56.081000	0:33:57.696000
 es	-	-	-	0:33:56.081000	0:33:57.696000
@@ -9316,7 +9316,7 @@ zum	-	-	-	0:33:56.081000	0:33:57.696000
 Beispiel	-	-	-	0:33:56.081000	0:33:57.696000
 ?	-	-	-	0:33:56.081000	0:33:57.696000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:57.696000" end="0:34:00.863000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:33:57.696000" end="0:34:00.863000" age_lower="18" age_upper="35">
 auch	-	-	-	0:33:57.696000	0:34:00.863000
 an	-	-	-	0:33:57.696000	0:34:00.863000
 ,	-	-	-	0:33:57.696000	0:34:00.863000
@@ -9327,11 +9327,11 @@ zu	-	-	-	0:33:57.696000	0:34:00.863000
 beschimpfen	-	-	-	0:33:57.696000	0:34:00.863000
 .	-	-	-	0:33:57.696000	0:34:00.863000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:57.696000" end="0:34:01.754000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:33:57.696000" end="0:34:01.754000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:00.863000	0:34:01.754000
 .	-	-	-	0:34:00.863000	0:34:01.754000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:01.754000" end="0:34:03.106000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:01.754000" end="0:34:03.106000" age_lower="18" age_upper="35">
 wo	-	-	-	0:34:01.754000	0:34:03.106000
 ich	-	-	-	0:34:01.754000	0:34:03.106000
 mir	-	-	-	0:34:01.754000	0:34:03.106000
@@ -9341,11 +9341,11 @@ so	-	-	-	0:34:01.754000	0:34:03.106000
 denke	-	-	-	0:34:01.754000	0:34:03.106000
 ,	-	-	-	0:34:01.754000	0:34:03.106000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:01.754000" end="0:34:03.106000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:01.754000" end="0:34:03.106000" age_lower="1" age_upper="999">
 aha	-	-	-	0:34:01.754000	0:34:03.106000
 .	-	-	-	0:34:01.754000	0:34:03.106000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:03.106000" end="0:34:06.924000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:03.106000" end="0:34:06.924000" age_lower="18" age_upper="35">
 du	-	-	-	0:34:03.106000	0:34:05.906000
 bist	-	-	-	0:34:03.106000	0:34:05.906000
 Österreicher	-	-	-	0:34:03.106000	0:34:05.906000
@@ -9362,11 +9362,11 @@ nein	-	-	-	0:34:05.906000	0:34:06.924000
 ,	-	-	-	0:34:05.906000	0:34:06.924000
 er	-	-	-	0:34:05.906000	0:34:06.924000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:05.906000" end="0:34:06.924000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:05.906000" end="0:34:06.924000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:05.906000	0:34:06.924000
 .	-	-	-	0:34:05.906000	0:34:06.924000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:06.924000" end="0:34:08.627000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:06.924000" end="0:34:08.627000" age_lower="18" age_upper="35">
 er	-	-	-	0:34:06.924000	0:34:07.924000
 geht	-	-	-	0:34:06.924000	0:34:07.924000
 auf	-	-	-	0:34:06.924000	0:34:07.924000
@@ -9374,11 +9374,11 @@ Türkisch	-	-	-	0:34:06.924000	0:34:07.924000
 los	-	-	-	0:34:07.924000	0:34:08.627000
 .	-	-	-	0:34:07.924000	0:34:08.627000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:07.924000" end="0:34:08.627000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:07.924000" end="0:34:08.627000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:07.924000	0:34:08.627000
 .	-	-	-	0:34:07.924000	0:34:08.627000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:08.627000" end="0:34:19.675000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:08.627000" end="0:34:19.675000" age_lower="18" age_upper="35">
 oder	-	-	-	0:34:08.627000	0:34:11.853000
 auch	-	-	-	0:34:08.627000	0:34:11.853000
 so	-	-	-	0:34:08.627000	0:34:11.853000
@@ -9417,11 +9417,11 @@ russische	-	-	-	0:34:14.100000	0:34:18.851000
 Art	-	-	-	0:34:18.851000	0:34:19.675000
 .	-	-	-	0:34:18.851000	0:34:19.675000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:18.851000" end="0:34:19.675000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:18.851000" end="0:34:19.675000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:34:18.851000	0:34:19.675000
 /.	-	-	-	0:34:18.851000	0:34:19.675000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:19.675000" end="0:34:21.339000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:19.675000" end="0:34:21.339000" age_lower="18" age_upper="35">
 wo	-	-	-	0:34:19.675000	0:34:21.339000
 ich	-	-	-	0:34:19.675000	0:34:21.339000
 mir	-	-	-	0:34:19.675000	0:34:21.339000
@@ -9431,18 +9431,18 @@ so	-	-	-	0:34:19.675000	0:34:21.339000
 denke	-	-	-	0:34:19.675000	0:34:21.339000
 ,	-	-	-	0:34:19.675000	0:34:21.339000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:19.675000" end="0:34:21.339000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:19.675000" end="0:34:21.339000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:19.675000	0:34:21.339000
 .	-	-	-	0:34:19.675000	0:34:21.339000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:21.339000" end="0:34:23.472000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:21.339000" end="0:34:23.472000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:21.339000	0:34:23.472000
 ,	-	-	-	0:34:21.339000	0:34:23.472000
 warum	-	-	-	0:34:21.339000	0:34:23.472000
 nicht	-	-	-	0:34:21.339000	0:34:23.472000
 ?	-	-	-	0:34:21.339000	0:34:23.472000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:21.339000" end="0:34:25.369000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:21.339000" end="0:34:25.369000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:34:21.339000	0:34:23.472000
 okay	-	-	-	0:34:21.339000	0:34:23.472000
 .	-	-	-	0:34:21.339000	0:34:23.472000
@@ -9455,15 +9455,15 @@ so	-	-	-	0:34:23.472000	0:34:25.369000
 Ausdrücke	-	-	-	0:34:23.472000	0:34:25.369000
 ?	-	-	-	0:34:23.472000	0:34:25.369000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:25.369000" end="0:34:26.447000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:25.369000" end="0:34:26.447000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:34:25.369000	0:34:26.447000
 /.	-	-	-	0:34:25.369000	0:34:26.447000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:25.369000" end="0:34:26.447000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:25.369000" end="0:34:26.447000" age_lower="1" age_upper="999">
 oder	-	-	-	0:34:25.369000	0:34:26.447000
 /.	-	-	-	0:34:25.369000	0:34:26.447000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:26.447000" end="0:34:27.533000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:26.447000" end="0:34:27.533000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:26.447000	0:34:27.533000
 ,	-	-	-	0:34:26.447000	0:34:27.533000
 schon	-	-	-	0:34:26.447000	0:34:27.533000
@@ -9471,7 +9471,7 @@ schon	-	-	-	0:34:26.447000	0:34:27.533000
 ja	-	-	-	0:34:26.447000	0:34:27.533000
 .	-	-	-	0:34:26.447000	0:34:27.533000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:26.447000" end="0:34:28.960000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:26.447000" end="0:34:28.960000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:34:26.447000	0:34:27.533000
 ja	-	-	-	0:34:26.447000	0:34:27.533000
 ?	-	-	-	0:34:26.447000	0:34:27.533000
@@ -9483,7 +9483,7 @@ zum	-	-	-	0:34:27.533000	0:34:28.960000
 Beispiel	-	-	-	0:34:27.533000	0:34:28.960000
 /?	-	-	-	0:34:27.533000	0:34:28.960000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:28.960000" end="0:34:31.475000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:28.960000" end="0:34:31.475000" age_lower="18" age_upper="35">
 zum	-	-	-	0:34:28.960000	0:34:31.475000
 Beispiel	-	-	-	0:34:28.960000	0:34:31.475000
 ,	-	-	-	0:34:28.960000	0:34:31.475000
@@ -9494,18 +9494,18 @@ sie	-	-	-	0:34:28.960000	0:34:31.475000
 "Brate"	-	-	-	0:34:28.960000	0:34:31.475000
 .	-	-	-	0:34:28.960000	0:34:31.475000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:31.475000" end="0:34:32.233000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:31.475000" end="0:34:32.233000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:31.475000	0:34:32.233000
 .	-	-	-	0:34:31.475000	0:34:32.233000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:32.233000" end="0:34:32.869000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:32.233000" end="0:34:32.869000" age_lower="18" age_upper="35">
 oder	-	-	-	0:34:32.233000	0:34:32.869000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:32.233000" end="0:34:32.869000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:32.233000" end="0:34:32.869000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:32.233000	0:34:32.869000
 .	-	-	-	0:34:32.233000	0:34:32.869000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:32.869000" end="0:34:37.754000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:32.869000" end="0:34:37.754000" age_lower="18" age_upper="35">
 wie	-	-	-	0:34:32.869000	0:34:36.042000
 die	-	-	-	0:34:32.869000	0:34:36.042000
 Türken	-	-	-	0:34:32.869000	0:34:36.042000
@@ -9520,11 +9520,11 @@ komische	-	-	-	0:34:36.042000	0:34:37.754000
 Schimpfwort	-	-	-	0:34:36.042000	0:34:37.754000
 .	-	-	-	0:34:36.042000	0:34:37.754000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:36.042000" end="0:34:37.754000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:36.042000" end="0:34:37.754000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:34:36.042000	0:34:37.754000
 .	-	-	-	0:34:36.042000	0:34:37.754000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:37.754000" end="0:34:40.592000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:37.754000" end="0:34:40.592000" age_lower="18" age_upper="35">
 also	-	-	-	0:34:37.754000	0:34:40.592000
 da	-	-	-	0:34:37.754000	0:34:40.592000
 wo	-	-	-	0:34:37.754000	0:34:40.592000
@@ -9534,7 +9534,7 @@ mir	-	-	-	0:34:37.754000	0:34:40.592000
 ja	-	-	-	0:34:37.754000	0:34:40.592000
 .	-	-	-	0:34:37.754000	0:34:40.592000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:40.596000" end="0:34:42.074000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:40.596000" end="0:34:42.074000" age_lower="1" age_upper="999">
 was	-	-	-	0:34:40.596000	0:34:42.074000
 heißt	-	-	-	0:34:40.596000	0:34:42.074000
 das	-	-	-	0:34:40.596000	0:34:42.074000
@@ -9542,17 +9542,17 @@ ungefähr	-	-	-	0:34:40.596000	0:34:42.074000
 so	-	-	-	0:34:40.596000	0:34:42.074000
 ?	-	-	-	0:34:40.596000	0:34:42.074000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:42.074000" end="0:34:43.429000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:42.074000" end="0:34:43.429000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:42.074000" end="0:34:43.429000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:42.074000" end="0:34:43.429000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:43.429000" end="0:34:45.918000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:43.429000" end="0:34:45.918000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:43.429000" end="0:34:45.918000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:43.429000" end="0:34:45.918000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:45.918000" end="0:34:48.844000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:45.918000" end="0:34:48.844000" age_lower="18" age_upper="35">
 es	-	-	-	0:34:45.918000	0:34:48.844000
 heißt	-	-	-	0:34:45.918000	0:34:48.844000
 <pause duration="0,7s"/>
@@ -9561,32 +9561,32 @@ deine	-	-	-	0:34:45.918000	0:34:48.844000
 Mutter"	-	-	-	0:34:45.918000	0:34:48.844000
 .	-	-	-	0:34:45.918000	0:34:48.844000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:48.844000" end="0:34:49.348000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:48.844000" end="0:34:49.348000" age_lower="1" age_upper="999">
 oh	-	-	-	0:34:48.844000	0:34:49.348000
 ,	-	-	-	0:34:48.844000	0:34:49.348000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:49.348000" end="0:34:50.324000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:49.348000" end="0:34:50.324000" age_lower="18" age_upper="35">
 genau	-	-	-	0:34:49.348000	0:34:50.324000
 .	-	-	-	0:34:49.348000	0:34:50.324000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:49.348000" end="0:34:51.230000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:49.348000" end="0:34:51.230000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:49.348000	0:34:50.324000
 .	-	-	-	0:34:49.348000	0:34:50.324000
 gut	-	-	-	0:34:50.324000	0:34:51.230000
 .	-	-	-	0:34:50.324000	0:34:51.230000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:51.230000" end="0:34:53.384000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:51.230000" end="0:34:53.384000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:51.230000" end="0:34:53.384000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:51.230000" end="0:34:53.384000" age_lower="1" age_upper="999">
 alles	-	-	-	0:34:51.230000	0:34:53.384000
 klar	-	-	-	0:34:51.230000	0:34:53.384000
 .	-	-	-	0:34:51.230000	0:34:53.384000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:53.384000" end="0:34:53.889000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:53.384000" end="0:34:53.889000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:53.384000	0:34:53.889000
 .	-	-	-	0:34:53.384000	0:34:53.889000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:53.889000" end="0:34:55.706000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:53.889000" end="0:34:55.706000" age_lower="1" age_upper="999">
 ach	-	-	-	0:34:53.889000	0:34:55.706000
 so	-	-	-	0:34:53.889000	0:34:55.706000
 ,	-	-	-	0:34:53.889000	0:34:55.706000
@@ -9596,7 +9596,7 @@ setzt	-	-	-	0:34:53.889000	0:34:55.706000
 sich	-	-	-	0:34:53.889000	0:34:55.706000
 sozusagen	-	-	-	0:34:53.889000	0:34:55.706000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:55.706000" end="0:34:58.966000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:34:55.706000" end="0:34:58.966000" age_lower="18" age_upper="35">
 genau	-	-	-	0:34:55.706000	0:34:58.966000
 ,	-	-	-	0:34:55.706000	0:34:58.966000
 genau	-	-	-	0:34:55.706000	0:34:58.966000
@@ -9610,7 +9610,7 @@ durch	-	-	-	0:34:55.706000	0:34:58.966000
 ja	-	-	-	0:34:55.706000	0:34:58.966000
 .	-	-	-	0:34:55.706000	0:34:58.966000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:55.706000" end="0:35:05.369000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:34:55.706000" end="0:35:05.369000" age_lower="1" age_upper="999">
 auch	-	-	-	0:34:55.706000	0:34:58.966000
 durch	-	-	-	0:34:55.706000	0:34:58.966000
 ,	-	-	-	0:34:55.706000	0:34:58.966000
@@ -9639,13 +9639,13 @@ Türkisch	-	-	-	0:35:02.612000	0:35:05.369000
 und	-	-	-	0:35:02.612000	0:35:05.369000
 Russisch	-	-	-	0:35:02.612000	0:35:05.369000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:05.369000" end="0:35:06.487000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:05.369000" end="0:35:06.487000" age_lower="18" age_upper="35">
 genau	-	-	-	0:35:05.369000	0:35:06.487000
 ,	-	-	-	0:35:05.369000	0:35:06.487000
 genau	-	-	-	0:35:05.369000	0:35:06.487000
 .	-	-	-	0:35:05.369000	0:35:06.487000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:05.369000" end="0:35:09.648000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:05.369000" end="0:35:09.648000" age_lower="1" age_upper="999">
 würden	-	-	-	0:35:05.369000	0:35:06.487000
 Ihnen	-	-	-	0:35:05.369000	0:35:06.487000
 da	-	-	-	0:35:05.369000	0:35:06.487000
@@ -9668,7 +9668,7 @@ wirken	-	-	-	0:35:06.487000	0:35:09.648000
 oder	-	-	-	0:35:06.487000	0:35:09.648000
 /?	-	-	-	0:35:06.487000	0:35:09.648000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:09.648000" end="0:35:13.203000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:09.648000" end="0:35:13.203000" age_lower="18" age_upper="35">
 "them"	-	-	-	0:35:09.648000	0:35:12.730000
 ,	-	-	-	0:35:09.648000	0:35:12.730000
 also	-	-	-	0:35:09.648000	0:35:12.730000
@@ -9682,7 +9682,7 @@ extrem	-	-	-	0:35:09.648000	0:35:12.730000
 durch	-	-	-	0:35:12.730000	0:35:13.203000
 .	-	-	-	0:35:12.730000	0:35:13.203000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:12.730000" end="0:35:14.530000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:12.730000" end="0:35:14.530000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:12.730000	0:35:13.203000
 .	-	-	-	0:35:12.730000	0:35:13.203000
 mhm	-	-	-	0:35:13.203000	0:35:14.530000
@@ -9692,14 +9692,14 @@ ja	-	-	-	0:35:13.203000	0:35:14.530000
 ja	-	-	-	0:35:13.203000	0:35:14.530000
 .	-	-	-	0:35:13.203000	0:35:14.530000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:14.530000" end="0:35:16.242000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:14.530000" end="0:35:16.242000" age_lower="18" age_upper="35">
 aber	-	-	-	0:35:14.530000	0:35:16.242000
 sonst	-	-	-	0:35:14.530000	0:35:16.242000
 ,	-	-	-	0:35:14.530000	0:35:16.242000
 nein	-	-	-	0:35:14.530000	0:35:16.242000
 .	-	-	-	0:35:14.530000	0:35:16.242000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:14.530000" end="0:35:20.760000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:14.530000" end="0:35:20.760000" age_lower="1" age_upper="999">
 okay	-	-	-	0:35:14.530000	0:35:16.242000
 ,	-	-	-	0:35:14.530000	0:35:16.242000
 ja	-	-	-	0:35:14.530000	0:35:16.242000
@@ -9724,9 +9724,9 @@ nicht	-	-	-	0:35:18.742000	0:35:20.760000
 gehört	-	-	-	0:35:18.742000	0:35:20.760000
 .	-	-	-	0:35:18.742000	0:35:20.760000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:20.760000" end="0:35:27.006000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:20.760000" end="0:35:27.006000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:20.760000" end="0:35:29.669000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:20.760000" end="0:35:29.669000" age_lower="1" age_upper="999">
 das	-	-	-	0:35:20.760000	0:35:27.006000
 ist	-	-	-	0:35:20.760000	0:35:27.006000
 ist	-	-	-	0:35:20.760000	0:35:27.006000
@@ -9755,11 +9755,11 @@ ein	-	-	-	0:35:27.006000	0:35:29.669000
 bisschen	-	-	-	0:35:27.006000	0:35:29.669000
 ältere	-	-	-	0:35:27.006000	0:35:29.669000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:29.669000" end="0:35:31.566000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:29.669000" end="0:35:31.566000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:35:29.669000	0:35:31.566000
 .	-	-	-	0:35:29.669000	0:35:31.566000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:29.669000" end="0:35:34.178000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:29.669000" end="0:35:34.178000" age_lower="1" age_upper="999">
 Informantinnen	-	-	-	0:35:29.669000	0:35:31.566000
 und	-	-	-	0:35:29.669000	0:35:31.566000
 Informanten	-	-	-	0:35:29.669000	0:35:31.566000
@@ -9774,7 +9774,7 @@ von	-	-	-	0:35:31.566000	0:35:34.178000
 der	-	-	-	0:35:31.566000	0:35:34.178000
 Schule	-	-	-	0:35:31.566000	0:35:34.178000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:34.178000" end="0:35:35.627000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:34.178000" end="0:35:35.627000" age_lower="18" age_upper="35">
 ich	-	-	-	0:35:34.178000	0:35:35.627000
 muss	-	-	-	0:35:34.178000	0:35:35.627000
 auch	-	-	-	0:35:34.178000	0:35:35.627000
@@ -9783,7 +9783,7 @@ sagen	-	-	-	0:35:34.178000	0:35:35.627000
 dass	-	-	-	0:35:34.178000	0:35:35.627000
 viele	-	-	-	0:35:34.178000	0:35:35.627000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:34.178000" end="0:35:35.627000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:34.178000" end="0:35:35.627000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:35:34.178000	0:35:35.627000
 mehr	-	-	-	0:35:34.178000	0:35:35.627000
 so	-	-	-	0:35:34.178000	0:35:35.627000
@@ -9792,7 +9792,7 @@ mit	-	-	-	0:35:34.178000	0:35:35.627000
 aber	-	-	-	0:35:34.178000	0:35:35.627000
 /.	-	-	-	0:35:34.178000	0:35:35.627000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:35.627000" end="0:35:39.281000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:35.627000" end="0:35:39.281000" age_lower="18" age_upper="35">
 in	-	-	-	0:35:35.627000	0:35:37.227000
 [Passail]O	-	-	-	0:35:35.627000	0:35:37.227000
 ,	-	-	-	0:35:35.627000	0:35:37.227000
@@ -9811,7 +9811,7 @@ wirklich	-	-	-	0:35:37.227000	0:35:39.281000
 rausgehen	-	-	-	0:35:37.227000	0:35:39.281000
 .	-	-	-	0:35:37.227000	0:35:39.281000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:37.227000" end="0:35:40.275000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:37.227000" end="0:35:40.275000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:37.227000	0:35:39.281000
 .	-	-	-	0:35:37.227000	0:35:39.281000
 mhm	-	-	-	0:35:39.281000	0:35:40.275000
@@ -9819,7 +9819,7 @@ mhm	-	-	-	0:35:39.281000	0:35:40.275000
 mhm	-	-	-	0:35:39.281000	0:35:40.275000
 .	-	-	-	0:35:39.281000	0:35:40.275000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:40.275000" end="0:35:42.754000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:40.275000" end="0:35:42.754000" age_lower="18" age_upper="35">
 und	-	-	-	0:35:40.275000	0:35:42.754000
 viele	-	-	-	0:35:40.275000	0:35:42.754000
 der	-	-	-	0:35:40.275000	0:35:42.754000
@@ -9829,11 +9829,11 @@ in	-	-	-	0:35:40.275000	0:35:42.754000
 [Passail]O	-	-	-	0:35:40.275000	0:35:42.754000
 ,	-	-	-	0:35:40.275000	0:35:42.754000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:40.275000" end="0:35:42.754000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:40.275000" end="0:35:42.754000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:40.275000	0:35:42.754000
 .	-	-	-	0:35:40.275000	0:35:42.754000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:42.754000" end="0:35:45.851000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:42.754000" end="0:35:45.851000" age_lower="18" age_upper="35">
 die	-	-	-	0:35:42.754000	0:35:44.400000
 sind	-	-	-	0:35:42.754000	0:35:44.400000
 auch	-	-	-	0:35:42.754000	0:35:44.400000
@@ -9847,7 +9847,7 @@ bleiben	-	-	-	0:35:44.400000	0:35:45.851000
 so	-	-	-	0:35:44.400000	0:35:45.851000
 .	-	-	-	0:35:44.400000	0:35:45.851000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:44.400000" end="0:35:47.006000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:44.400000" end="0:35:47.006000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:44.400000	0:35:45.851000
 .	-	-	-	0:35:44.400000	0:35:45.851000
 mhm	-	-	-	0:35:45.851000	0:35:46.569000
@@ -9855,14 +9855,14 @@ mhm	-	-	-	0:35:45.851000	0:35:46.569000
 ja	-	-	-	0:35:46.569000	0:35:47.006000
 .	-	-	-	0:35:46.569000	0:35:47.006000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:47.006000" end="0:35:48.239000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:47.006000" end="0:35:48.239000" age_lower="18" age_upper="35">
 das	-	-	-	0:35:47.006000	0:35:48.239000
 ist	-	-	-	0:35:47.006000	0:35:48.239000
 /,	-	-	-	0:35:47.006000	0:35:48.239000
 ja	-	-	-	0:35:47.006000	0:35:48.239000
 .	-	-	-	0:35:47.006000	0:35:48.239000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:47.006000" end="0:35:48.860000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:47.006000" end="0:35:48.860000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:47.006000	0:35:48.239000
 ,	-	-	-	0:35:47.006000	0:35:48.239000
 ja	-	-	-	0:35:47.006000	0:35:48.239000
@@ -9872,27 +9872,27 @@ ja	-	-	-	0:35:47.006000	0:35:48.239000
 mhm	-	-	-	0:35:48.239000	0:35:48.860000
 .	-	-	-	0:35:48.239000	0:35:48.860000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:48.860000" end="0:35:49.654000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:48.860000" end="0:35:49.654000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:48.860000" end="0:35:50.551000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:48.860000" end="0:35:50.551000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 okay	-	-	-	0:35:49.654000	0:35:50.551000
 .	-	-	-	0:35:49.654000	0:35:50.551000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:50.551000" end="0:35:51.275000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:50.551000" end="0:35:51.275000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:50.551000" end="0:35:52.445000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:50.551000" end="0:35:52.445000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 gut	-	-	-	0:35:51.275000	0:35:52.445000
 ähm	-	-	-	0:35:51.275000	0:35:52.445000
 /.	-	-	-	0:35:51.275000	0:35:52.445000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:52.445000" end="0:35:54.209000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:35:52.445000" end="0:35:54.209000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:52.445000" end="0:36:06.084000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:35:52.445000" end="0:36:06.084000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 würden	-	-	-	0:35:54.209000	0:36:06.084000
 Sie	-	-	-	0:35:54.209000	0:36:06.084000
@@ -9924,12 +9924,12 @@ Mischung	-	-	-	0:35:54.209000	0:36:06.084000
 oder	-	-	-	0:35:54.209000	0:36:06.084000
 /?	-	-	-	0:35:54.209000	0:36:06.084000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:06.084000" end="0:36:07.160000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:06.084000" end="0:36:07.160000" age_lower="18" age_upper="35">
 das	-	-	-	0:36:06.084000	0:36:07.160000
 Deutsche	-	-	-	0:36:06.084000	0:36:07.160000
 .	-	-	-	0:36:06.084000	0:36:07.160000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:06.084000" end="0:36:11.127000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:06.084000" end="0:36:11.127000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:36:06.084000	0:36:07.160000
 /.	-	-	-	0:36:06.084000	0:36:07.160000
 das	-	-	-	0:36:07.160000	0:36:08.121000
@@ -9951,20 +9951,20 @@ davon	-	-	-	0:36:08.121000	0:36:11.127000
 ja	-	-	-	0:36:08.121000	0:36:11.127000
 .	-	-	-	0:36:08.121000	0:36:11.127000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:11.127000" end="0:36:11.845000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:11.127000" end="0:36:11.845000" age_lower="18" age_upper="35">
 nein	-	-	-	0:36:11.127000	0:36:11.845000
 .	-	-	-	0:36:11.127000	0:36:11.845000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:11.127000" end="0:36:12.384000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:11.127000" end="0:36:12.384000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:11.127000	0:36:11.845000
 .	-	-	-	0:36:11.127000	0:36:11.845000
 mhm	-	-	-	0:36:11.845000	0:36:12.384000
 .	-	-	-	0:36:11.845000	0:36:12.384000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:12.384000" end="0:36:13.257000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:12.384000" end="0:36:13.257000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:12.384000" end="0:36:20.075000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:12.384000" end="0:36:20.075000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:36:13.257000	0:36:13.918000
 /.	-	-	-	0:36:13.257000	0:36:13.918000
@@ -9993,11 +9993,11 @@ Sprachen	-	-	-	0:36:17.606000	0:36:20.075000
 ,	-	-	-	0:36:17.606000	0:36:20.075000
 die	-	-	-	0:36:17.606000	0:36:20.075000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:20.075000" end="0:36:21.536000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:20.075000" end="0:36:21.536000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:20.075000	0:36:21.536000
 .	-	-	-	0:36:20.075000	0:36:21.536000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:20.075000" end="0:36:30.284000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:20.075000" end="0:36:30.284000" age_lower="1" age_upper="999">
 so	-	-	-	0:36:20.075000	0:36:21.536000
 Einflüsse	-	-	-	0:36:20.075000	0:36:21.536000
 hatten	-	-	-	0:36:20.075000	0:36:21.536000
@@ -10033,7 +10033,7 @@ in	-	-	-	0:36:23.472000	0:36:30.284000
 Österreich	-	-	-	0:36:23.472000	0:36:30.284000
 ?	-	-	-	0:36:23.472000	0:36:30.284000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:30.284000" end="0:36:40.433000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:30.284000" end="0:36:40.433000" age_lower="18" age_upper="35">
 ich	-	-	-	0:36:30.284000	0:36:34.639000
 glaube	-	-	-	0:36:30.284000	0:36:34.639000
 ,	-	-	-	0:36:30.284000	0:36:34.639000
@@ -10070,13 +10070,13 @@ ich	-	-	-	0:36:38.736000	0:36:40.433000
 ,	-	-	-	0:36:38.736000	0:36:40.433000
 is/	-	-	-	0:36:38.736000	0:36:40.433000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:38.736000" end="0:36:40.433000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:38.736000" end="0:36:40.433000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:38.736000	0:36:40.433000
 ,	-	-	-	0:36:38.736000	0:36:40.433000
 mhm	-	-	-	0:36:38.736000	0:36:40.433000
 .	-	-	-	0:36:38.736000	0:36:40.433000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:40.433000" end="0:36:41.884000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:40.433000" end="0:36:41.884000" age_lower="18" age_upper="35">
 hat	-	-	-	0:36:40.433000	0:36:41.884000
 ja	-	-	-	0:36:40.433000	0:36:41.884000
 einen	-	-	-	0:36:40.433000	0:36:41.884000
@@ -10086,7 +10086,7 @@ uns	-	-	-	0:36:40.433000	0:36:41.884000
 bekommen	-	-	-	0:36:40.433000	0:36:41.884000
 .	-	-	-	0:36:40.433000	0:36:41.884000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:41.884000" end="0:36:44.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:41.884000" end="0:36:44.100000" age_lower="1" age_upper="999">
 genau	-	-	-	0:36:41.884000	0:36:43.139000
 ,	-	-	-	0:36:41.884000	0:36:43.139000
 ja	-	-	-	0:36:41.884000	0:36:43.139000
@@ -10098,10 +10098,10 @@ mhm	-	-	-	0:36:43.139000	0:36:44.100000
 ja	-	-	-	0:36:43.139000	0:36:44.100000
 .	-	-	-	0:36:43.139000	0:36:44.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:44.100000" end="0:36:44.833000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:44.100000" end="0:36:44.833000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:44.100000" end="0:36:45.948000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:44.100000" end="0:36:45.948000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 von	-	-	-	0:36:44.833000	0:36:45.948000
 der	-	-	-	0:36:44.833000	0:36:45.948000
@@ -10110,11 +10110,11 @@ her	-	-	-	0:36:44.833000	0:36:45.948000
 noch	-	-	-	0:36:44.833000	0:36:45.948000
 ,	-	-	-	0:36:44.833000	0:36:45.948000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:45.948000" end="0:36:46.887000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:45.948000" end="0:36:46.887000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:36:45.948000	0:36:46.887000
 .	-	-	-	0:36:45.948000	0:36:46.887000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:45.948000" end="0:36:48" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:45.948000" end="0:36:48" age_lower="1" age_upper="999">
 genau	-	-	-	0:36:45.948000	0:36:46.887000
 ,	-	-	-	0:36:45.948000	0:36:46.887000
 ja	-	-	-	0:36:45.948000	0:36:46.887000
@@ -10127,10 +10127,10 @@ das	-	-	-	0:36:46.887000	0:36:48
 stimmt	-	-	-	0:36:46.887000	0:36:48
 .	-	-	-	0:36:46.887000	0:36:48
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:48" end="0:36:48.491000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:48" end="0:36:48.491000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:48" end="0:36:50.660000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:48" end="0:36:50.660000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 das	-	-	-	0:36:48.490000	0:36:50.660000
 heißt	-	-	-	0:36:48.490000	0:36:50.660000
@@ -10144,15 +10144,15 @@ auch	-	-	-	0:36:48.490000	0:36:50.660000
 sozusagen	-	-	-	0:36:48.490000	0:36:50.660000
 einen	-	-	-	0:36:48.490000	0:36:50.660000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:50.660000" end="0:36:51.500000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:50.660000" end="0:36:51.500000" age_lower="18" age_upper="35">
 genau	-	-	-	0:36:50.660000	0:36:51.500000
 .	-	-	-	0:36:50.660000	0:36:51.500000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:50.660000" end="0:36:51.500000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:50.660000" end="0:36:51.500000" age_lower="1" age_upper="999">
 Einfluss	-	-	-	0:36:50.660000	0:36:51.500000
 ?	-	-	-	0:36:50.660000	0:36:51.500000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:51.500000" end="0:36:54.875000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:51.500000" end="0:36:54.875000" age_lower="18" age_upper="35">
 und	-	-	-	0:36:51.500000	0:36:54.875000
 ich	-	-	-	0:36:51.500000	0:36:54.875000
 glaube	-	-	-	0:36:51.500000	0:36:54.875000
@@ -10164,11 +10164,11 @@ und	-	-	-	0:36:51.500000	0:36:54.875000
 so	-	-	-	0:36:51.500000	0:36:54.875000
 ,	-	-	-	0:36:51.500000	0:36:54.875000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:51.500000" end="0:36:54.875000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:36:51.500000" end="0:36:54.875000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:36:51.500000	0:36:54.875000
 .	-	-	-	0:36:51.500000	0:36:54.875000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:54.875000" end="0:37:03.621000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:36:54.875000" end="0:37:03.621000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:36:54.875000	0:37:00.296000
 ich	-	-	-	0:36:54.875000	0:37:00.296000
 glaube	-	-	-	0:36:54.875000	0:37:00.296000
@@ -10208,10 +10208,10 @@ so	-	-	-	0:37:00.300000	0:37:03.006000
 /?	-	-	-	0:37:00.300000	0:37:03.006000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:03.006000" end="0:37:03.621000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:03.006000" end="0:37:03.621000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:03.621000" end="0:37:06.257000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:03.621000" end="0:37:06.257000" age_lower="18" age_upper="35">
 weil	-	-	-	0:37:03.621000	0:37:06.257000
 doch	-	-	-	0:37:03.621000	0:37:06.257000
 manche	-	-	-	0:37:03.621000	0:37:06.257000
@@ -10221,7 +10221,7 @@ gleich	-	-	-	0:37:03.621000	0:37:06.257000
 sind	-	-	-	0:37:03.621000	0:37:06.257000
 .	-	-	-	0:37:03.621000	0:37:06.257000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:03.621000" end="0:37:07.233000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:03.621000" end="0:37:07.233000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:03.621000	0:37:06.257000
 .	-	-	-	0:37:03.621000	0:37:06.257000
 mhm	-	-	-	0:37:06.257000	0:37:07.233000
@@ -10229,12 +10229,12 @@ mhm	-	-	-	0:37:06.257000	0:37:07.233000
 mhm	-	-	-	0:37:06.257000	0:37:07.233000
 .	-	-	-	0:37:06.257000	0:37:07.233000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:07.233000" end="0:37:08.033000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:07.233000" end="0:37:08.033000" age_lower="18" age_upper="35">
 dass	-	-	-	0:37:07.233000	0:37:08.033000
 vielleicht	-	-	-	0:37:07.233000	0:37:08.033000
 /.	-	-	-	0:37:07.233000	0:37:08.033000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:07.233000" end="0:37:10.963000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:07.233000" end="0:37:10.963000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:07.233000	0:37:08.033000
 ,	-	-	-	0:37:07.233000	0:37:08.033000
 ja	-	-	-	0:37:08.033000	0:37:10.963000
@@ -10252,10 +10252,10 @@ ja	-	-	-	0:37:08.033000	0:37:10.963000
 mhm	-	-	-	0:37:08.033000	0:37:10.963000
 .	-	-	-	0:37:08.033000	0:37:10.963000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:10.963000" end="0:37:11.624000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:10.963000" end="0:37:11.624000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:10.963000" end="0:37:18.096000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:10.963000" end="0:37:18.096000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:37:11.624000	0:37:18.096000
 fallen	-	-	-	0:37:11.624000	0:37:18.096000
@@ -10277,11 +10277,11 @@ tschechischen	-	-	-	0:37:11.624000	0:37:18.096000
 Wörter	-	-	-	0:37:11.624000	0:37:18.096000
 im	-	-	-	0:37:11.624000	0:37:18.096000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:18.096000" end="0:37:19.290000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:18.096000" end="0:37:19.290000" age_lower="18" age_upper="35">
 mm	-	-	-	0:37:18.096000	0:37:19.290000
 .	-	-	-	0:37:18.096000	0:37:19.290000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:18.096000" end="0:37:20.924000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:18.096000" end="0:37:20.924000" age_lower="1" age_upper="999">
 Deutschen	-	-	-	0:37:18.096000	0:37:19.290000
 oder	-	-	-	0:37:18.096000	0:37:19.290000
 so	-	-	-	0:37:18.096000	0:37:19.290000
@@ -10294,10 +10294,10 @@ ja	-	-	-	0:37:19.290000	0:37:20.924000
 passt	-	-	-	0:37:19.290000	0:37:20.924000
 .	-	-	-	0:37:19.290000	0:37:20.924000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:20.924000" end="0:37:21.678000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:20.924000" end="0:37:21.678000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:20.924000" end="0:37:31.748000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:20.924000" end="0:37:31.748000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 gut	-	-	-	0:37:21.678000	0:37:24.275000
 ,	-	-	-	0:37:21.678000	0:37:24.275000
@@ -10335,10 +10335,10 @@ nicht	-	-	-	0:37:28.472000	0:37:31.748000
 so	-	-	-	0:37:28.472000	0:37:31.748000
 ?	-	-	-	0:37:28.472000	0:37:31.748000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:31.748000" end="0:37:32.472000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:31.748000" end="0:37:32.472000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:31.748000" end="0:37:37.252000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:31.748000" end="0:37:37.252000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 oder	-	-	-	0:37:32.472000	0:37:34.408000
 haben	-	-	-	0:37:32.472000	0:37:34.408000
@@ -10357,43 +10357,43 @@ Zeitung	-	-	-	0:37:34.408000	0:37:37.252000
 lesen	-	-	-	0:37:34.408000	0:37:37.252000
 ?	-	-	-	0:37:34.408000	0:37:37.252000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:37.252000" end="0:37:39.024000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:37.252000" end="0:37:39.024000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:37.252000" end="0:37:39.024000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:37.252000" end="0:37:39.024000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:39.024000" end="0:37:41.024000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:39.024000" end="0:37:41.024000" age_lower="18" age_upper="35">
 die	-	-	-	0:37:39.024000	0:37:39.724000
 "Kleine	-	-	-	0:37:39.024000	0:37:39.724000
 Zeitung"	-	-	-	0:37:39.724000	0:37:41.024000
 .	-	-	-	0:37:39.724000	0:37:41.024000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:39.724000" end="0:37:41.024000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:39.724000" end="0:37:41.024000" age_lower="1" age_upper="999">
 die	-	-	-	0:37:39.724000	0:37:41.024000
 "Kleine	-	-	-	0:37:39.724000	0:37:41.024000
 Zeitung"	-	-	-	0:37:39.724000	0:37:41.024000
 .	-	-	-	0:37:39.724000	0:37:41.024000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:41.024000" end="0:37:42.688000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:41.024000" end="0:37:42.688000" age_lower="18" age_upper="35">
 nicht	-	-	-	0:37:41.024000	0:37:42.688000
 immer	-	-	-	0:37:41.024000	0:37:42.688000
 ,	-	-	-	0:37:41.024000	0:37:42.688000
 aber	-	-	-	0:37:41.024000	0:37:42.688000
 /.	-	-	-	0:37:41.024000	0:37:42.688000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:41.024000" end="0:37:42.688000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:41.024000" end="0:37:42.688000" age_lower="1" age_upper="999">
 so	-	-	-	0:37:41.024000	0:37:42.688000
 /,	-	-	-	0:37:41.024000	0:37:42.688000
 nicht	-	-	-	0:37:41.024000	0:37:42.688000
 immer	-	-	-	0:37:41.024000	0:37:42.688000
 ,	-	-	-	0:37:41.024000	0:37:42.688000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:42.688000" end="0:37:44.860000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:42.688000" end="0:37:44.860000" age_lower="18" age_upper="35">
 genau	-	-	-	0:37:42.688000	0:37:44.860000
 .	-	-	-	0:37:42.688000	0:37:44.860000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:42.688000" end="0:37:48.400000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:42.688000" end="0:37:48.400000" age_lower="1" age_upper="999">
 ab	-	-	-	0:37:42.688000	0:37:44.860000
 und	-	-	-	0:37:42.688000	0:37:44.860000
 zu	-	-	-	0:37:42.688000	0:37:44.860000
@@ -10416,13 +10416,13 @@ die	-	-	-	0:37:44.860000	0:37:48.400000
 Nachrichten	-	-	-	0:37:44.860000	0:37:48.400000
 ?	-	-	-	0:37:44.860000	0:37:48.400000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:48.400000" end="0:37:50.112000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:48.400000" end="0:37:50.112000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:48.400000" end="0:37:50.112000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:48.400000" end="0:37:50.112000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:50.112000" end="0:37:53.208000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:50.112000" end="0:37:53.208000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:37:50.112000	0:37:51.600000
 /.	-	-	-	0:37:50.112000	0:37:51.600000
 eigentlich	-	-	-	0:37:51.600000	0:37:53.208000
@@ -10431,27 +10431,27 @@ meine	-	-	-	0:37:51.600000	0:37:53.208000
 Eltern	-	-	-	0:37:51.600000	0:37:53.208000
 .	-	-	-	0:37:51.600000	0:37:53.208000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:53.208000" end="0:37:54.108000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:53.208000" end="0:37:54.108000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:53.208000	0:37:54.108000
 ,	-	-	-	0:37:53.208000	0:37:54.108000
 ja	-	-	-	0:37:53.208000	0:37:54.108000
 .	-	-	-	0:37:53.208000	0:37:54.108000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:54.108000" end="0:37:55.032000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:54.108000" end="0:37:55.032000" age_lower="18" age_upper="35">
 oder	-	-	-	0:37:54.108000	0:37:55.032000
 Radio	-	-	-	0:37:54.108000	0:37:55.032000
 auch	-	-	-	0:37:54.108000	0:37:55.032000
 .	-	-	-	0:37:54.108000	0:37:55.032000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:55.032000" end="0:37:55.568000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:55.032000" end="0:37:55.568000" age_lower="1" age_upper="999">
 Radio	-	-	-	0:37:55.032000	0:37:55.568000
 ?	-	-	-	0:37:55.032000	0:37:55.568000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:55.568000" end="0:37:56.216000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:37:55.568000" end="0:37:56.216000" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:55.568000	0:37:56.216000
 .	-	-	-	0:37:55.568000	0:37:56.216000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:55.568000" end="0:38:02.960000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:37:55.568000" end="0:38:02.960000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:55.568000	0:37:56.216000
 .	-	-	-	0:37:55.568000	0:37:56.216000
 okay	-	-	-	0:37:56.216000	0:37:57.828000
@@ -10472,11 +10472,11 @@ eher	-	-	-	0:38:01.896000	0:38:02.960000
 weniger	-	-	-	0:38:01.896000	0:38:02.960000
 ?	-	-	-	0:38:01.896000	0:38:02.960000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:02.960000" end="0:38:03.488000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:02.960000" end="0:38:03.488000" age_lower="18" age_upper="35">
 nein	-	-	-	0:38:02.960000	0:38:03.488000
 .	-	-	-	0:38:02.960000	0:38:03.488000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:02.960000" end="0:38:04.220000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:02.960000" end="0:38:04.220000" age_lower="1" age_upper="999">
 okay	-	-	-	0:38:02.960000	0:38:03.488000
 .	-	-	-	0:38:02.960000	0:38:03.488000
 mhm	-	-	-	0:38:03.488000	0:38:04.220000
@@ -10484,7 +10484,7 @@ mhm	-	-	-	0:38:03.488000	0:38:04.220000
 mhm	-	-	-	0:38:03.488000	0:38:04.220000
 .	-	-	-	0:38:03.488000	0:38:04.220000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:04.220000" end="0:38:07.788000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:04.220000" end="0:38:07.788000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:38:04.220000	0:38:06.884000
 ich	-	-	-	0:38:04.220000	0:38:06.884000
 an	-	-	-	0:38:04.220000	0:38:06.884000
@@ -10501,7 +10501,7 @@ und	-	-	-	0:38:06.884000	0:38:07.788000
 sonst	-	-	-	0:38:06.884000	0:38:07.788000
 /.	-	-	-	0:38:06.884000	0:38:07.788000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:06.884000" end="0:38:13.256000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:06.884000" end="0:38:13.256000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:06.884000	0:38:07.788000
 .	-	-	-	0:38:06.884000	0:38:07.788000
 eher	-	-	-	0:38:07.788000	0:38:09.464000
@@ -10518,25 +10518,25 @@ irgendeine	-	-	-	0:38:10.488000	0:38:13.256000
 Lieblingsfernsehsendung	-	-	-	0:38:10.488000	0:38:13.256000
 ?	-	-	-	0:38:10.488000	0:38:13.256000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:13.256000" end="0:38:14.296000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:13.256000" end="0:38:14.296000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:13.256000" end="0:38:14.296000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:13.256000" end="0:38:14.296000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:14.296000" end="0:38:15.260000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:14.296000" end="0:38:15.260000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:38:14.296000	0:38:15.260000
 nein	-	-	-	0:38:14.296000	0:38:15.260000
 .	-	-	-	0:38:14.296000	0:38:15.260000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:15.260000" end="0:38:16.468000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:15.260000" end="0:38:16.468000" age_lower="1" age_upper="999">
 was	-	-	-	0:38:15.260000	0:38:16.468000
 schauen	-	-	-	0:38:15.260000	0:38:16.468000
 Sie	-	-	-	0:38:15.260000	0:38:16.468000
 gern	-	-	-	0:38:15.260000	0:38:16.468000
 ?	-	-	-	0:38:15.260000	0:38:16.468000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:16.468000" end="0:38:19.876000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:16.468000" end="0:38:19.876000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:38:16.468000	0:38:19.876000
 f/	-	-	-	0:38:16.468000	0:38:19.876000
 eine	-	-	-	0:38:16.468000	0:38:19.876000
@@ -10545,24 +10545,24 @@ amerikanische	-	-	-	0:38:16.468000	0:38:19.876000
 Serie	-	-	-	0:38:16.468000	0:38:19.876000
 .	-	-	-	0:38:16.468000	0:38:19.876000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:19.876000" end="0:38:21.112000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:19.876000" end="0:38:21.112000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:19.876000	0:38:21.112000
 ,	-	-	-	0:38:19.876000	0:38:21.112000
 wie	-	-	-	0:38:19.876000	0:38:21.112000
 heißt	-	-	-	0:38:19.876000	0:38:21.112000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:21.112000" end="0:38:21.896000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:21.112000" end="0:38:21.896000" age_lower="18" age_upper="35">
 "Nashville"	-	-	-	0:38:21.112000	0:38:21.896000
 .	-	-	-	0:38:21.112000	0:38:21.896000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:21.112000" end="0:38:21.896000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:21.112000" end="0:38:21.896000" age_lower="1" age_upper="999">
 die	-	-	-	0:38:21.112000	0:38:21.896000
 ?	-	-	-	0:38:21.112000	0:38:21.896000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:21.896000" end="0:38:22.584000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:21.896000" end="0:38:22.584000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:21.896000" end="0:38:26.908000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:21.896000" end="0:38:26.908000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 ähm	-	-	-	0:38:22.584000	0:38:25.596000
 ja	-	-	-	0:38:22.584000	0:38:25.596000
@@ -10590,11 +10590,11 @@ ist	-	-	-	0:38:25.596000	0:38:26.908000
 sozusagen	-	-	-	0:38:25.596000	0:38:26.908000
 /,	-	-	-	0:38:25.596000	0:38:26.908000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:26.908000" end="0:38:27.608000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:26.908000" end="0:38:27.608000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:38:26.908000	0:38:27.608000
 .	-	-	-	0:38:26.908000	0:38:27.608000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:26.908000" end="0:38:28.456000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:26.908000" end="0:38:28.456000" age_lower="1" age_upper="999">
 das	-	-	-	0:38:26.908000	0:38:27.608000
 schauen	-	-	-	0:38:26.908000	0:38:27.608000
 Sie	-	-	-	0:38:26.908000	0:38:27.608000
@@ -10605,10 +10605,10 @@ mhm	-	-	-	0:38:27.608000	0:38:28.456000
 mhm	-	-	-	0:38:27.608000	0:38:28.456000
 .	-	-	-	0:38:27.608000	0:38:28.456000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:28.456000" end="0:38:29.048000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:28.456000" end="0:38:29.048000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:28.456000" end="0:38:31.008000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:28.456000" end="0:38:31.008000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 was	-	-	-	0:38:29.048000	0:38:31.008000
 haben	-	-	-	0:38:29.048000	0:38:31.008000
@@ -10618,11 +10618,11 @@ für	-	-	-	0:38:29.048000	0:38:31.008000
 Hobbys	-	-	-	0:38:29.048000	0:38:31.008000
 ?	-	-	-	0:38:29.048000	0:38:31.008000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:31.008000" end="0:38:31.912000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:31.008000" end="0:38:31.912000" age_lower="18" age_upper="35">
 ((dritte	-	-	-	0:38:31.008000	0:38:31.912000
 Stimme))	-	-	-	0:38:31.008000	0:38:31.912000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:31.912000" end="0:38:32.992000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:31.912000" end="0:38:32.992000" age_lower="1" age_upper="999">
 ((zu	-	-	-	0:38:31.912000	0:38:32.992000
 dritter	-	-	-	0:38:31.912000	0:38:32.992000
 Stimme))	-	-	-	0:38:31.912000	0:38:32.992000
@@ -10631,19 +10631,19 @@ ja	-	-	-	0:38:31.912000	0:38:32.992000
 bitte	-	-	-	0:38:31.912000	0:38:32.992000
 .	-	-	-	0:38:31.912000	0:38:32.992000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:32.992000" end="0:38:37.548000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:32.992000" end="0:38:37.548000" age_lower="18" age_upper="35">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:32.992000" end="0:38:37.548000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:32.992000" end="0:38:37.548000" age_lower="1" age_upper="999">
 <pause duration="4,5s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:37.548000" end="0:38:39.236000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:37.548000" end="0:38:39.236000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:38:37.548000	0:38:39.236000
 /.	-	-	-	0:38:37.548000	0:38:39.236000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:37.548000" end="0:38:39.236000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:37.548000" end="0:38:39.236000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:39.236000" end="0:38:41.380000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:39.236000" end="0:38:41.380000" age_lower="18" age_upper="35">
 Lesen	-	-	-	0:38:39.236000	0:38:40.248000
 ,	-	-	-	0:38:39.236000	0:38:40.248000
 Tanzen	-	-	-	0:38:40.248000	0:38:41.380000
@@ -10651,22 +10651,22 @@ Tanzen	-	-	-	0:38:40.248000	0:38:41.380000
 Singen	-	-	-	0:38:40.248000	0:38:41.380000
 ,	-	-	-	0:38:40.248000	0:38:41.380000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:40.248000" end="0:38:41.908000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:40.248000" end="0:38:41.908000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:40.248000	0:38:41.380000
 .	-	-	-	0:38:40.248000	0:38:41.380000
 ähm	-	-	-	0:38:41.380000	0:38:41.908000
 /.	-	-	-	0:38:41.380000	0:38:41.908000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:41.908000" end="0:38:42.976000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:41.908000" end="0:38:42.976000" age_lower="18" age_upper="35">
 Musik	-	-	-	0:38:41.908000	0:38:42.976000
 spielen	-	-	-	0:38:41.908000	0:38:42.976000
 ,	-	-	-	0:38:41.908000	0:38:42.976000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:42.976000" end="0:38:43.592000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:42.976000" end="0:38:43.592000" age_lower="1" age_upper="999">
 schön	-	-	-	0:38:42.976000	0:38:43.592000
 .	-	-	-	0:38:42.976000	0:38:43.592000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:43.592000" end="0:38:47.056000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:43.592000" end="0:38:47.056000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:38:43.592000	0:38:46.060000
 Yoga	-	-	-	0:38:43.592000	0:38:46.060000
@@ -10676,16 +10676,16 @@ Kochen	-	-	-	0:38:43.592000	0:38:46.060000
 Backen	-	-	-	0:38:43.592000	0:38:46.060000
 ,	-	-	-	0:38:43.592000	0:38:46.060000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:46.060000" end="0:38:48.100000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:46.060000" end="0:38:48.100000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:38:46.060000	0:38:47.056000
 vielseitig	-	-	-	0:38:47.056000	0:38:48.100000
 .	-	-	-	0:38:47.056000	0:38:48.100000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:48.112000" end="0:38:48.904000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:38:48.112000" end="0:38:48.904000" age_lower="18" age_upper="35">
 Laufen	-	-	-	0:38:48.112000	0:38:48.904000
 .	-	-	-	0:38:48.112000	0:38:48.904000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:48.112000" end="0:39:00.352000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:38:48.112000" end="0:39:00.352000" age_lower="1" age_upper="999">
 super	-	-	-	0:38:48.904000	0:38:52.400000
 ,	-	-	-	0:38:48.904000	0:38:52.400000
 schön	-	-	-	0:38:48.904000	0:38:52.400000
@@ -10721,13 +10721,13 @@ einer	-	-	-	0:38:56.032000	0:39:00.352000
 Tanzschule	-	-	-	0:38:56.032000	0:39:00.352000
 oder	-	-	-	0:38:56.032000	0:39:00.352000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:00.352000" end="0:39:01.768000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:00.352000" end="0:39:01.768000" age_lower="18" age_upper="35">
 war	-	-	-	0:39:00.352000	0:39:01.768000
 ich	-	-	-	0:39:00.352000	0:39:01.768000
 mal	-	-	-	0:39:00.352000	0:39:01.768000
 .	-	-	-	0:39:00.352000	0:39:01.768000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:00.352000" end="0:39:05.544000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:00.352000" end="0:39:05.544000" age_lower="1" age_upper="999">
 Tanzgruppe	-	-	-	0:39:00.352000	0:39:01.768000
 oder	-	-	-	0:39:00.352000	0:39:01.768000
 so	-	-	-	0:39:00.352000	0:39:01.768000
@@ -10748,12 +10748,12 @@ in	-	-	-	0:39:03.920000	0:39:05.544000
 ORT	ORT	-	-	0:39:03.920000	0:39:05.544000
 oder	-	-	-	0:39:03.920000	0:39:05.544000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:05.544000" end="0:39:06.456000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:05.544000" end="0:39:06.456000" age_lower="18" age_upper="35">
 in	-	-	-	0:39:05.544000	0:39:06.456000
 ORT	ORT	-	-	0:39:05.544000	0:39:06.456000
 .	-	-	-	0:39:05.544000	0:39:06.456000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:05.544000" end="0:39:07.876000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:05.544000" end="0:39:07.876000" age_lower="1" age_upper="999">
 war	-	-	-	0:39:05.544000	0:39:06.456000
 das	-	-	-	0:39:05.544000	0:39:06.456000
 /?	-	-	-	0:39:05.544000	0:39:06.456000
@@ -10764,10 +10764,10 @@ okay	-	-	-	0:39:06.456000	0:39:07.876000
 mhm	-	-	-	0:39:06.456000	0:39:07.876000
 .	-	-	-	0:39:06.456000	0:39:07.876000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:07.876000" end="0:39:08.458000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:07.876000" end="0:39:08.458000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:07.876000" end="0:39:09.968000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:07.876000" end="0:39:09.968000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:39:08.460000	0:39:09.968000
 sonst	-	-	-	0:39:08.460000	0:39:09.968000
@@ -10776,7 +10776,7 @@ anderen	-	-	-	0:39:08.460000	0:39:09.968000
 Aktivitäten	-	-	-	0:39:08.460000	0:39:09.968000
 ?	-	-	-	0:39:08.460000	0:39:09.968000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:09.968000" end="0:39:11.240000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:09.968000" end="0:39:11.240000" age_lower="18" age_upper="35">
 mm	-	-	-	0:39:09.968000	0:39:11.240000
 ,	-	-	-	0:39:09.968000	0:39:11.240000
 alle	-	-	-	0:39:09.968000	0:39:11.240000
@@ -10784,7 +10784,7 @@ zu	-	-	-	0:39:09.968000	0:39:11.240000
 n/	-	-	-	0:39:09.968000	0:39:11.240000
 /,	-	-	-	0:39:09.968000	0:39:11.240000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:09.968000" end="0:39:11.240000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:09.968000" end="0:39:11.240000" age_lower="1" age_upper="999">
 ist	-	-	-	0:39:09.968000	0:39:11.240000
 das	-	-	-	0:39:09.968000	0:39:11.240000
 eher	-	-	-	0:39:09.968000	0:39:11.240000
@@ -10792,21 +10792,21 @@ vor	-	-	-	0:39:09.968000	0:39:11.240000
 Ort	-	-	-	0:39:09.968000	0:39:11.240000
 ?	-	-	-	0:39:09.968000	0:39:11.240000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:11.240000" end="0:39:12.768000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:11.240000" end="0:39:12.768000" age_lower="18" age_upper="35">
 alle	-	-	-	0:39:11.240000	0:39:12.768000
 zuhause	-	-	-	0:39:11.240000	0:39:12.768000
 .	-	-	-	0:39:11.240000	0:39:12.768000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:11.240000" end="0:39:12.768000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:11.240000" end="0:39:12.768000" age_lower="1" age_upper="999">
 eher	-	-	-	0:39:11.240000	0:39:12.768000
 zuhause	-	-	-	0:39:11.240000	0:39:12.768000
 ,	-	-	-	0:39:11.240000	0:39:12.768000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:12.768000" end="0:39:13.308000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:12.768000" end="0:39:13.308000" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:12.768000	0:39:13.308000
 .	-	-	-	0:39:12.768000	0:39:13.308000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:12.768000" end="0:39:14.392000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:12.768000" end="0:39:14.392000" age_lower="1" age_upper="999">
 hier	-	-	-	0:39:12.768000	0:39:13.308000
 .	-	-	-	0:39:12.768000	0:39:13.308000
 mhm	-	-	-	0:39:13.308000	0:39:14.392000
@@ -10814,10 +10814,10 @@ mhm	-	-	-	0:39:13.308000	0:39:14.392000
 mhm	-	-	-	0:39:13.308000	0:39:14.392000
 .	-	-	-	0:39:13.308000	0:39:14.392000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:14.392000" end="0:39:15.004000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:14.392000" end="0:39:15.004000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:14.392000" end="0:39:20.900000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:14.392000" end="0:39:20.900000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:39:15.004000	0:39:15.832000
 .	-	-	-	0:39:15.004000	0:39:15.832000
@@ -10841,13 +10841,13 @@ von	-	-	-	0:39:17.024000	0:39:20.900000
 außerhalb	-	-	-	0:39:17.024000	0:39:20.900000
 ,	-	-	-	0:39:17.024000	0:39:20.900000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:20.900000" end="0:39:22.044000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:20.900000" end="0:39:22.044000" age_lower="18" age_upper="35">
 genau	-	-	-	0:39:20.900000	0:39:22.044000
 ,	-	-	-	0:39:20.900000	0:39:22.044000
 ja	-	-	-	0:39:20.900000	0:39:22.044000
 .	-	-	-	0:39:20.900000	0:39:22.044000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:20.900000" end="0:39:23.304000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:20.900000" end="0:39:23.304000" age_lower="1" age_upper="999">
 also	-	-	-	0:39:20.900000	0:39:22.044000
 nicht	-	-	-	0:39:20.900000	0:39:22.044000
 so	-	-	-	0:39:20.900000	0:39:22.044000
@@ -10856,22 +10856,22 @@ eher	-	-	-	0:39:22.044000	0:39:23.304000
 von	-	-	-	0:39:22.044000	0:39:23.304000
 [Passail]O	-	-	-	0:39:22.044000	0:39:23.304000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:23.304000" end="0:39:24.360000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:23.304000" end="0:39:24.360000" age_lower="18" age_upper="35">
 nein	-	-	-	0:39:23.304000	0:39:24.360000
 ,	-	-	-	0:39:23.304000	0:39:24.360000
 gar	-	-	-	0:39:23.304000	0:39:24.360000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:23.304000" end="0:39:24.360000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:23.304000" end="0:39:24.360000" age_lower="1" age_upper="999">
 selber	-	-	-	0:39:23.304000	0:39:24.360000
 ?	-	-	-	0:39:23.304000	0:39:24.360000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:24.360000" end="0:39:25.724000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:24.360000" end="0:39:25.724000" age_lower="18" age_upper="35">
 g/	-	-	-	0:39:24.360000	0:39:25.724000
 gar	-	-	-	0:39:24.360000	0:39:25.724000
 niemand	-	-	-	0:39:24.360000	0:39:25.724000
 .	-	-	-	0:39:24.360000	0:39:25.724000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:24.360000" end="0:39:25.724000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:24.360000" end="0:39:25.724000" age_lower="1" age_upper="999">
 also	-	-	-	0:39:24.360000	0:39:25.724000
 oder	-	-	-	0:39:24.360000	0:39:25.724000
 gar	-	-	-	0:39:24.360000	0:39:25.724000
@@ -10879,11 +10879,11 @@ nicht	-	-	-	0:39:24.360000	0:39:25.724000
 so	-	-	-	0:39:24.360000	0:39:25.724000
 .	-	-	-	0:39:24.360000	0:39:25.724000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:25.724000" end="0:39:26.480000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:25.724000" end="0:39:26.480000" age_lower="18" age_upper="35">
 mm	-	-	-	0:39:25.724000	0:39:26.480000
 .	-	-	-	0:39:25.724000	0:39:26.480000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:25.724000" end="0:39:36.824000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:25.724000" end="0:39:36.824000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:25.724000	0:39:26.480000
 .	-	-	-	0:39:25.724000	0:39:26.480000
 mhm	-	-	-	0:39:26.480000	0:39:27.216000
@@ -10917,11 +10917,11 @@ mit	-	-	-	0:39:35.900000	0:39:36.824000
 der	-	-	-	0:39:35.900000	0:39:36.824000
 Familie	-	-	-	0:39:35.900000	0:39:36.824000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:36.824000" end="0:39:37.436000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:36.824000" end="0:39:37.436000" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:36.824000	0:39:37.436000
 .	-	-	-	0:39:36.824000	0:39:37.436000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:36.824000" end="0:39:39.312000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:36.824000" end="0:39:39.312000" age_lower="1" age_upper="999">
 bisher	-	-	-	0:39:36.824000	0:39:37.436000
 .	-	-	-	0:39:36.824000	0:39:37.436000
 und	-	-	-	0:39:37.436000	0:39:39.312000
@@ -10933,7 +10933,7 @@ so	-	-	-	0:39:37.436000	0:39:39.312000
 hin	-	-	-	0:39:37.436000	0:39:39.312000
 ?	-	-	-	0:39:37.436000	0:39:39.312000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:39.312000" end="0:39:41.752000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:39.312000" end="0:39:41.752000" age_lower="18" age_upper="35">
 wir	-	-	-	0:39:39.312000	0:39:40.788000
 waren	-	-	-	0:39:39.312000	0:39:40.788000
 in	-	-	-	0:39:39.312000	0:39:40.788000
@@ -10942,21 +10942,21 @@ Italien	-	-	-	0:39:39.312000	0:39:40.788000
 Stockholm	-	-	-	0:39:40.788000	0:39:41.752000
 ,	-	-	-	0:39:40.788000	0:39:41.752000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:40.788000" end="0:39:41.752000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:40.788000" end="0:39:41.752000" age_lower="1" age_upper="999">
 schön	-	-	-	0:39:40.788000	0:39:41.752000
 .	-	-	-	0:39:40.788000	0:39:41.752000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:41.752000" end="0:39:43.676000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:41.752000" end="0:39:43.676000" age_lower="18" age_upper="35">
 London	-	-	-	0:39:41.752000	0:39:42.708000
 ,	-	-	-	0:39:41.752000	0:39:42.708000
 Ungarn	-	-	-	0:39:42.708000	0:39:43.676000
 .	-	-	-	0:39:42.708000	0:39:43.676000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:42.708000" end="0:39:43.676000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:42.708000" end="0:39:43.676000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:42.708000	0:39:43.676000
 .	-	-	-	0:39:42.708000	0:39:43.676000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:43.676000" end="0:39:46.060000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:43.676000" end="0:39:46.060000" age_lower="18" age_upper="35">
 ich	-	-	-	0:39:43.676000	0:39:46.060000
 war	-	-	-	0:39:43.676000	0:39:46.060000
 schon	-	-	-	0:39:43.676000	0:39:46.060000
@@ -10967,24 +10967,24 @@ in	-	-	-	0:39:43.676000	0:39:46.060000
 Deutschland	-	-	-	0:39:43.676000	0:39:46.060000
 .	-	-	-	0:39:43.676000	0:39:46.060000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:46.060000" end="0:39:46.708000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:46.060000" end="0:39:46.708000" age_lower="1" age_upper="999">
 schön	-	-	-	0:39:46.060000	0:39:46.708000
 .	-	-	-	0:39:46.060000	0:39:46.708000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:46.708000" end="0:39:47.636000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:46.708000" end="0:39:47.636000" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:46.708000	0:39:47.636000
 .	-	-	-	0:39:46.708000	0:39:47.636000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:46.708000" end="0:39:48.284000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:46.708000" end="0:39:48.284000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:39:46.708000	0:39:47.636000
 .	-	-	-	0:39:46.708000	0:39:47.636000
 mhm	-	-	-	0:39:47.636000	0:39:48.284000
 .	-	-	-	0:39:47.636000	0:39:48.284000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:48.284000" end="0:39:48.916000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:48.284000" end="0:39:48.916000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:48.284000" end="0:39:49.892000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:48.284000" end="0:39:49.892000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:39:48.916000	0:39:49.892000
 das	-	-	-	0:39:48.916000	0:39:49.892000
@@ -10992,13 +10992,13 @@ macht	-	-	-	0:39:48.916000	0:39:49.892000
 Spaß	-	-	-	0:39:48.916000	0:39:49.892000
 ?	-	-	-	0:39:48.916000	0:39:49.892000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:49.892000" end="0:39:50.832000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:49.892000" end="0:39:50.832000" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:49.892000	0:39:50.832000
 ,	-	-	-	0:39:49.892000	0:39:50.832000
 extrem	-	-	-	0:39:49.892000	0:39:50.832000
 .	-	-	-	0:39:49.892000	0:39:50.832000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:49.892000" end="0:39:57.416000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:49.892000" end="0:39:57.416000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:49.892000	0:39:50.832000
 .	-	-	-	0:39:49.892000	0:39:50.832000
 ja	-	-	-	0:39:50.832000	0:39:54.140000
@@ -11019,30 +11019,30 @@ in	-	-	-	0:39:55.524000	0:39:57.416000
 [Passail]O	-	-	-	0:39:55.524000	0:39:57.416000
 ?	-	-	-	0:39:55.524000	0:39:57.416000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:57.416000" end="0:39:58.340000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:57.416000" end="0:39:58.340000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:57.416000" end="0:39:58.340000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:57.416000" end="0:39:58.340000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:58.340000" end="0:39:59.624000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:58.340000" end="0:39:59.624000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:58.340000" end="0:39:59.624000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:58.340000" end="0:39:59.624000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:39:58.340000	0:39:59.624000
 so	-	-	-	0:39:58.340000	0:39:59.624000
 ?	-	-	-	0:39:58.340000	0:39:59.624000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:59.624000" end="0:40:00.168000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:39:59.624000" end="0:40:00.168000" age_lower="18" age_upper="35">
 nein	-	-	-	0:39:59.624000	0:40:00.168000
 .	-	-	-	0:39:59.624000	0:40:00.168000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:59.624000" end="0:40:00.168000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:39:59.624000" end="0:40:00.168000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:39:59.624000	0:40:00.168000
 .	-	-	-	0:39:59.624000	0:40:00.168000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:00.168000" end="0:40:02.344000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:00.168000" end="0:40:02.344000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:00.168000" end="0:40:06.276000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:00.168000" end="0:40:06.276000" age_lower="1" age_upper="999">
 okay	-	-	-	0:40:00.168000	0:40:02.344000
 .	-	-	-	0:40:00.168000	0:40:02.344000
 gut	-	-	-	0:40:02.344000	0:40:03.560000
@@ -11057,7 +11057,7 @@ so	-	-	-	0:40:03.560000	0:40:06.276000
 gut	-	-	-	0:40:03.560000	0:40:06.276000
 ?	-	-	-	0:40:03.560000	0:40:06.276000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:06.276000" end="0:40:10.948000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:06.276000" end="0:40:10.948000" age_lower="18" age_upper="35">
 ich	-	-	-	0:40:06.276000	0:40:09.912000
 sage	-	-	-	0:40:06.276000	0:40:09.912000
 immer	-	-	-	0:40:06.276000	0:40:09.912000
@@ -11073,7 +11073,7 @@ unser	-	-	-	0:40:06.276000	0:40:09.912000
 Haus	-	-	-	0:40:06.276000	0:40:09.912000
 .	-	-	-	0:40:06.276000	0:40:09.912000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:09.912000" end="0:40:12.792000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:09.912000" end="0:40:12.792000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:09.912000	0:40:10.948000
 ,	-	-	-	0:40:09.912000	0:40:10.948000
 ja	-	-	-	0:40:09.912000	0:40:10.948000
@@ -11089,21 +11089,21 @@ schön	-	-	-	0:40:10.948000	0:40:12.792000
 ja	-	-	-	0:40:10.948000	0:40:12.792000
 .	-	-	-	0:40:10.948000	0:40:12.792000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:12.792000" end="0:40:13.856000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:12.792000" end="0:40:13.856000" age_lower="18" age_upper="35">
 danke	-	-	-	0:40:12.792000	0:40:13.856000
 /,	-	-	-	0:40:12.792000	0:40:13.856000
 nein	-	-	-	0:40:12.792000	0:40:13.856000
 .	-	-	-	0:40:12.792000	0:40:13.856000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:12.792000" end="0:40:13.856000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:12.792000" end="0:40:13.856000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:13.856000" end="0:40:14.664000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:13.856000" end="0:40:14.664000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:13.856000" end="0:40:14.664000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:13.856000" end="0:40:14.664000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:14.664000" end="0:40:20.964000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:14.664000" end="0:40:20.964000" age_lower="18" age_upper="35">
 wa/	-	-	-	0:40:14.664000	0:40:16.416000
 mir	-	-	-	0:40:14.664000	0:40:16.416000
 gefällt	-	-	-	0:40:14.664000	0:40:16.416000
@@ -11125,13 +11125,13 @@ viel	-	-	-	0:40:19.020000	0:40:20.964000
 lieber	-	-	-	0:40:19.020000	0:40:20.964000
 .	-	-	-	0:40:19.020000	0:40:20.964000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:19.020000" end="0:40:20.964000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:19.020000" end="0:40:20.964000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:19.020000	0:40:20.964000
 ,	-	-	-	0:40:19.020000	0:40:20.964000
 okay	-	-	-	0:40:19.020000	0:40:20.964000
 .	-	-	-	0:40:19.020000	0:40:20.964000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:20.964000" end="0:40:25.956000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:20.964000" end="0:40:25.956000" age_lower="18" age_upper="35">
 also	-	-	-	0:40:20.964000	0:40:22.076000
 ich	-	-	-	0:40:20.964000	0:40:22.076000
 würde	-	-	-	0:40:20.964000	0:40:22.076000
@@ -11154,11 +11154,11 @@ ich	-	-	-	0:40:23.004000	0:40:25.540000
 .	-	-	-	0:40:23.004000	0:40:25.540000
 ich	-	-	-	0:40:25.540000	0:40:25.956000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:25.540000" end="0:40:25.956000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:25.540000" end="0:40:25.956000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:25.540000	0:40:25.956000
 .	-	-	-	0:40:25.540000	0:40:25.956000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:25.956000" end="0:40:29.280000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:25.956000" end="0:40:29.280000" age_lower="18" age_upper="35">
 mag	-	-	-	0:40:25.956000	0:40:27.456000
 die	-	-	-	0:40:25.956000	0:40:27.456000
 Leute	-	-	-	0:40:25.956000	0:40:27.456000
@@ -11172,7 +11172,7 @@ Dialekt	-	-	-	0:40:27.456000	0:40:29.280000
 nicht	-	-	-	0:40:27.456000	0:40:29.280000
 .	-	-	-	0:40:27.456000	0:40:29.280000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:27.456000" end="0:40:30.556000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:27.456000" end="0:40:30.556000" age_lower="1" age_upper="999">
 okay	-	-	-	0:40:27.456000	0:40:29.280000
 .	-	-	-	0:40:27.456000	0:40:29.280000
 okay	-	-	-	0:40:29.280000	0:40:30.556000
@@ -11180,18 +11180,18 @@ okay	-	-	-	0:40:29.280000	0:40:30.556000
 mhm	-	-	-	0:40:29.280000	0:40:30.556000
 .	-	-	-	0:40:29.280000	0:40:30.556000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:30.556000" end="0:40:31.108000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:30.556000" end="0:40:31.108000" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:30.556000	0:40:31.108000
 .	-	-	-	0:40:30.556000	0:40:31.108000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:31.108000" end="0:40:31.572000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:31.108000" end="0:40:31.572000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:31.108000	0:40:31.572000
 .	-	-	-	0:40:31.108000	0:40:31.572000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:31.572000" end="0:40:32.204000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:31.572000" end="0:40:32.204000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:31.572000" end="0:40:36.240000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:31.572000" end="0:40:36.240000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 das	-	-	-	0:40:32.204000	0:40:36.240000
 heißt	-	-	-	0:40:32.204000	0:40:36.240000
@@ -11207,22 +11207,22 @@ gut	-	-	-	0:40:32.204000	0:40:36.240000
 vorstellen	-	-	-	0:40:32.204000	0:40:36.240000
 ,	-	-	-	0:40:32.204000	0:40:36.240000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:36.240000" end="0:40:37.844000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:36.240000" end="0:40:37.844000" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:36.240000	0:40:37.844000
 ,	-	-	-	0:40:36.240000	0:40:37.844000
 ja	-	-	-	0:40:36.240000	0:40:37.844000
 .	-	-	-	0:40:36.240000	0:40:37.844000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:36.240000" end="0:40:37.844000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:36.240000" end="0:40:37.844000" age_lower="1" age_upper="999">
 mal	-	-	-	0:40:36.240000	0:40:37.844000
 wegzuziehen	-	-	-	0:40:36.240000	0:40:37.844000
 von	-	-	-	0:40:36.240000	0:40:37.844000
 hier	-	-	-	0:40:36.240000	0:40:37.844000
 ?	-	-	-	0:40:36.240000	0:40:37.844000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:37.844000" end="0:40:38.824000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:37.844000" end="0:40:38.824000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:37.844000" end="0:40:44.092000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:37.844000" end="0:40:44.092000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:37.844000	0:40:38.824000
 .	-	-	-	0:40:37.844000	0:40:38.824000
 wa/	-	-	-	0:40:38.824000	0:40:41.728000
@@ -11246,15 +11246,15 @@ der	-	-	-	0:40:41.728000	0:40:44.092000
 Matura	-	-	-	0:40:41.728000	0:40:44.092000
 machen	-	-	-	0:40:41.728000	0:40:44.092000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:44.092000" end="0:40:44.920000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:44.092000" end="0:40:44.920000" age_lower="18" age_upper="35">
 nein	-	-	-	0:40:44.092000	0:40:44.920000
 ,	-	-	-	0:40:44.092000	0:40:44.920000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:44.092000" end="0:40:44.920000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:44.092000" end="0:40:44.920000" age_lower="1" age_upper="999">
 möchten	-	-	-	0:40:44.092000	0:40:44.920000
 ?	-	-	-	0:40:44.092000	0:40:44.920000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:44.920000" end="0:40:46.592000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:44.920000" end="0:40:46.592000" age_lower="18" age_upper="35">
 also	-	-	-	0:40:44.920000	0:40:46.592000
 nach	-	-	-	0:40:44.920000	0:40:46.592000
 der	-	-	-	0:40:44.920000	0:40:46.592000
@@ -11264,27 +11264,27 @@ ich	-	-	-	0:40:44.920000	0:40:46.592000
 studieren	-	-	-	0:40:44.920000	0:40:46.592000
 ,	-	-	-	0:40:44.920000	0:40:46.592000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:46.592000" end="0:40:46.948000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:46.592000" end="0:40:46.948000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:46.592000	0:40:46.948000
 .	-	-	-	0:40:46.592000	0:40:46.948000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:46.948000" end="0:40:47.756000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:46.948000" end="0:40:47.756000" age_lower="18" age_upper="35">
 eh	-	-	-	0:40:46.948000	0:40:47.756000
 in	-	-	-	0:40:46.948000	0:40:47.756000
 ORT	ORT	-	-	0:40:46.948000	0:40:47.756000
 ,	-	-	-	0:40:46.948000	0:40:47.756000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:47.756000" end="0:40:48.132000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:47.756000" end="0:40:48.132000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:40:47.756000	0:40:48.132000
 .	-	-	-	0:40:47.756000	0:40:48.132000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:48.132000" end="0:40:48.772000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:48.132000" end="0:40:48.772000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:48.132000" end="0:40:48.772000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:48.132000" end="0:40:48.772000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:48.772000" end="0:40:52.248000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:48.772000" end="0:40:52.248000" age_lower="18" age_upper="35">
 und	-	-	-	0:40:48.772000	0:40:49.824000
 dann	-	-	-	0:40:48.772000	0:40:49.824000
 weg	-	-	-	0:40:48.772000	0:40:49.824000
@@ -11298,7 +11298,7 @@ anderes	-	-	-	0:40:49.824000	0:40:52.248000
 Land	-	-	-	0:40:49.824000	0:40:52.248000
 .	-	-	-	0:40:49.824000	0:40:52.248000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:49.824000" end="0:40:56.592000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:49.824000" end="0:40:56.592000" age_lower="1" age_upper="999">
 okay	-	-	-	0:40:49.824000	0:40:52.248000
 .	-	-	-	0:40:49.824000	0:40:52.248000
 okay	-	-	-	0:40:52.248000	0:40:52.768000
@@ -11319,7 +11319,7 @@ ein	-	-	-	0:40:54.488000	0:40:56.592000
 Land	-	-	-	0:40:54.488000	0:40:56.592000
 ähm	-	-	-	0:40:54.488000	0:40:56.592000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:56.592000" end="0:40:58.432000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:56.592000" end="0:40:58.432000" age_lower="18" age_upper="35">
 ich	-	-	-	0:40:56.592000	0:40:58.432000
 möchte	-	-	-	0:40:56.592000	0:40:58.432000
 gerne	-	-	-	0:40:56.592000	0:40:58.432000
@@ -11327,7 +11327,7 @@ nach	-	-	-	0:40:56.592000	0:40:58.432000
 England	-	-	-	0:40:56.592000	0:40:58.432000
 .	-	-	-	0:40:56.592000	0:40:58.432000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:56.592000" end="0:40:59.016000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:56.592000" end="0:40:59.016000" age_lower="1" age_upper="999">
 irgendwie	-	-	-	0:40:56.592000	0:40:58.432000
 in	-	-	-	0:40:56.592000	0:40:58.432000
 der	-	-	-	0:40:56.592000	0:40:58.432000
@@ -11335,11 +11335,11 @@ der	-	-	-	0:40:56.592000	0:40:58.432000
 England	-	-	-	0:40:58.432000	0:40:59.016000
 ,	-	-	-	0:40:58.432000	0:40:59.016000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:59.016000" end="0:40:59.648000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:40:59.016000" end="0:40:59.648000" age_lower="18" age_upper="35">
 ja	-	-	-	0:40:59.016000	0:40:59.648000
 .	-	-	-	0:40:59.016000	0:40:59.648000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:59.016000" end="0:41:01.036000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:40:59.016000" end="0:41:01.036000" age_lower="1" age_upper="999">
 super	-	-	-	0:40:59.016000	0:40:59.648000
 .	-	-	-	0:40:59.016000	0:40:59.648000
 okay	-	-	-	0:40:59.648000	0:41:01.036000
@@ -11349,21 +11349,21 @@ ja	-	-	-	0:40:59.648000	0:41:01.036000
 ja	-	-	-	0:40:59.648000	0:41:01.036000
 .	-	-	-	0:40:59.648000	0:41:01.036000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:01.036000" end="0:41:02.036000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:01.036000" end="0:41:02.036000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:01.036000	0:41:02.036000
 .	-	-	-	0:41:01.036000	0:41:02.036000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:01.036000" end="0:41:04.672000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:01.036000" end="0:41:04.672000" age_lower="1" age_upper="999">
 okay	-	-	-	0:41:02.036000	0:41:04.672000
 ,	-	-	-	0:41:02.036000	0:41:04.672000
 gut	-	-	-	0:41:02.036000	0:41:04.672000
 ähm	-	-	-	0:41:02.036000	0:41:04.672000
 /.	-	-	-	0:41:02.036000	0:41:04.672000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:04.672000" end="0:41:06.452000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:04.672000" end="0:41:06.452000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:04.672000" end="0:41:13.652000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:04.672000" end="0:41:13.652000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 das	-	-	-	0:41:06.452000	0:41:09.376000
 heißt	-	-	-	0:41:06.452000	0:41:09.376000
@@ -11400,44 +11400,44 @@ ja	-	-	-	0:41:12.788000	0:41:13.652000
 da	-	-	-	0:41:12.788000	0:41:13.652000
 so	-	-	-	0:41:12.788000	0:41:13.652000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:13.652000" end="0:41:14.420000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:13.652000" end="0:41:14.420000" age_lower="18" age_upper="35">
 ich	-	-	-	0:41:13.652000	0:41:14.420000
 war	-	-	-	0:41:13.652000	0:41:14.420000
 .	-	-	-	0:41:13.652000	0:41:14.420000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:13.652000" end="0:41:14.420000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:13.652000" end="0:41:14.420000" age_lower="1" age_upper="999">
 diverse	-	-	-	0:41:13.652000	0:41:14.420000
 /.	-	-	-	0:41:13.652000	0:41:14.420000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:14.420000" end="0:41:16.264000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:14.420000" end="0:41:16.264000" age_lower="18" age_upper="35">
 ich	-	-	-	0:41:14.420000	0:41:16.264000
 war	-	-	-	0:41:14.420000	0:41:16.264000
 im	-	-	-	0:41:14.420000	0:41:16.264000
 Musikverein	-	-	-	0:41:14.420000	0:41:16.264000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:14.420000" end="0:41:16.264000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:14.420000" end="0:41:16.264000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:14.420000	0:41:16.264000
 .	-	-	-	0:41:14.420000	0:41:16.264000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:16.264000" end="0:41:17.848000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:16.264000" end="0:41:17.848000" age_lower="18" age_upper="35">
 in	-	-	-	0:41:16.264000	0:41:17.848000
 ORT	ORT	-	-	0:41:16.264000	0:41:17.848000
 und	-	-	-	0:41:16.264000	0:41:17.848000
 ORT	ORT	-	-	0:41:16.264000	0:41:17.848000
 .	-	-	-	0:41:16.264000	0:41:17.848000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:16.264000" end="0:41:18.376000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:16.264000" end="0:41:18.376000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:16.264000	0:41:17.848000
 .	-	-	-	0:41:16.264000	0:41:17.848000
 mhm	-	-	-	0:41:17.848000	0:41:18.376000
 .	-	-	-	0:41:17.848000	0:41:18.376000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:18.376000" end="0:41:19.732000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:18.376000" end="0:41:19.732000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:41:18.376000	0:41:19.732000
 /.	-	-	-	0:41:18.376000	0:41:19.732000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:19.732000" end="0:41:20.792000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:19.732000" end="0:41:20.792000" age_lower="1" age_upper="999">
 haben	-	-	-	0:41:19.732000	0:41:20.792000
 Sie	-	-	-	0:41:19.732000	0:41:20.792000
 da	-	-	-	0:41:19.732000	0:41:20.792000
@@ -11445,11 +11445,11 @@ ein	-	-	-	0:41:19.732000	0:41:20.792000
 Instrument	-	-	-	0:41:19.732000	0:41:20.792000
 ?	-	-	-	0:41:19.732000	0:41:20.792000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:20.792000" end="0:41:21.404000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:20.792000" end="0:41:21.404000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:20.792000	0:41:21.404000
 .	-	-	-	0:41:20.792000	0:41:21.404000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:20.792000" end="0:41:23.224000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:20.792000" end="0:41:23.224000" age_lower="1" age_upper="999">
 oder	-	-	-	0:41:20.792000	0:41:21.404000
 oder	-	-	-	0:41:20.792000	0:41:21.404000
 spielen	-	-	-	0:41:21.404000	0:41:23.224000
@@ -11462,7 +11462,7 @@ Instrument	-	-	-	0:41:21.404000	0:41:23.224000
 oder	-	-	-	0:41:21.404000	0:41:23.224000
 /?	-	-	-	0:41:21.404000	0:41:23.224000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:23.224000" end="0:41:25.096000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:23.224000" end="0:41:25.096000" age_lower="18" age_upper="35">
 nein	-	-	-	0:41:23.224000	0:41:25.096000
 ,	-	-	-	0:41:23.224000	0:41:25.096000
 also	-	-	-	0:41:23.224000	0:41:25.096000
@@ -11470,7 +11470,7 @@ ich	-	-	-	0:41:23.224000	0:41:25.096000
 habe	-	-	-	0:41:23.224000	0:41:25.096000
 /,	-	-	-	0:41:23.224000	0:41:25.096000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:23.224000" end="0:41:25.096000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:23.224000" end="0:41:25.096000" age_lower="1" age_upper="999">
 haben	-	-	-	0:41:23.224000	0:41:25.096000
 Sie	-	-	-	0:41:23.224000	0:41:25.096000
 da	-	-	-	0:41:23.224000	0:41:25.096000
@@ -11478,7 +11478,7 @@ da	-	-	-	0:41:23.224000	0:41:25.096000
 nein	-	-	-	0:41:23.224000	0:41:25.096000
 ?	-	-	-	0:41:23.224000	0:41:25.096000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:25.096000" end="0:41:27.728000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:25.096000" end="0:41:27.728000" age_lower="18" age_upper="35">
 ich	-	-	-	0:41:25.096000	0:41:26.988000
 sch/	-	-	-	0:41:25.096000	0:41:26.988000
 /,	-	-	-	0:41:25.096000	0:41:26.988000
@@ -11496,11 +11496,11 @@ nicht	-	-	-	0:41:26.988000	0:41:27.728000
 mehr	-	-	-	0:41:26.988000	0:41:27.728000
 ,	-	-	-	0:41:26.988000	0:41:27.728000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:26.988000" end="0:41:27.728000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:26.988000" end="0:41:27.728000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:26.988000	0:41:27.728000
 .	-	-	-	0:41:26.988000	0:41:27.728000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:27.728000" end="0:41:29.588000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:27.728000" end="0:41:29.588000" age_lower="18" age_upper="35">
 aber	-	-	-	0:41:27.728000	0:41:29.588000
 ich	-	-	-	0:41:27.728000	0:41:29.588000
 fange	-	-	-	0:41:27.728000	0:41:29.588000
@@ -11513,7 +11513,7 @@ an	-	-	-	0:41:27.728000	0:41:29.588000
 und	-	-	-	0:41:27.728000	0:41:29.588000
 /.	-	-	-	0:41:27.728000	0:41:29.588000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:29.588000" end="0:41:30.892000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:29.588000" end="0:41:30.892000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:29.588000	0:41:30.096000
 .	-	-	-	0:41:29.588000	0:41:30.096000
 was	-	-	-	0:41:30.096000	0:41:30.892000
@@ -11521,11 +11521,11 @@ haben	-	-	-	0:41:30.096000	0:41:30.892000
 Sie	-	-	-	0:41:30.096000	0:41:30.892000
 da	-	-	-	0:41:30.096000	0:41:30.892000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:30.892000" end="0:41:31.772000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:30.892000" end="0:41:31.772000" age_lower="18" age_upper="35">
 Trompete	-	-	-	0:41:30.892000	0:41:31.772000
 .	-	-	-	0:41:30.892000	0:41:31.772000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:30.892000" end="0:41:32.864000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:30.892000" end="0:41:32.864000" age_lower="1" age_upper="999">
 gespielt	-	-	-	0:41:30.892000	0:41:31.772000
 ?	-	-	-	0:41:30.892000	0:41:31.772000
 Trompete	-	-	-	0:41:31.772000	0:41:32.864000
@@ -11533,11 +11533,11 @@ Trompete	-	-	-	0:41:31.772000	0:41:32.864000
 okay	-	-	-	0:41:31.772000	0:41:32.864000
 .	-	-	-	0:41:31.772000	0:41:32.864000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:32.864000" end="0:41:35.220000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:32.864000" end="0:41:35.220000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:41:32.864000	0:41:35.220000
 .	-	-	-	0:41:32.864000	0:41:35.220000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:32.864000" end="0:41:35.220000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:32.864000" end="0:41:35.220000" age_lower="1" age_upper="999">
 also	-	-	-	0:41:32.864000	0:41:35.220000
 ist	-	-	-	0:41:32.864000	0:41:35.220000
 das	-	-	-	0:41:32.864000	0:41:35.220000
@@ -11547,13 +11547,13 @@ eine	-	-	-	0:41:32.864000	0:41:35.220000
 Musikgruppe	-	-	-	0:41:32.864000	0:41:35.220000
 ,	-	-	-	0:41:32.864000	0:41:35.220000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:35.220000" end="0:41:36.760000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:35.220000" end="0:41:36.760000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:35.220000	0:41:36.760000
 ,	-	-	-	0:41:35.220000	0:41:36.760000
 genau	-	-	-	0:41:35.220000	0:41:36.760000
 .	-	-	-	0:41:35.220000	0:41:36.760000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:35.220000" end="0:41:36.760000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:35.220000" end="0:41:36.760000" age_lower="1" age_upper="999">
 die	-	-	-	0:41:35.220000	0:41:36.760000
 dann	-	-	-	0:41:35.220000	0:41:36.760000
 auch	-	-	-	0:41:35.220000	0:41:36.760000
@@ -11562,19 +11562,19 @@ und	-	-	-	0:41:35.220000	0:41:36.760000
 so	-	-	-	0:41:35.220000	0:41:36.760000
 ?	-	-	-	0:41:35.220000	0:41:36.760000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:36.760000" end="0:41:37.852000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:36.760000" end="0:41:37.852000" age_lower="18" age_upper="35">
 genau	-	-	-	0:41:36.760000	0:41:37.852000
 ,	-	-	-	0:41:36.760000	0:41:37.852000
 da	-	-	-	0:41:36.760000	0:41:37.852000
 war	-	-	-	0:41:36.760000	0:41:37.852000
 ich	-	-	-	0:41:36.760000	0:41:37.852000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:36.760000" end="0:41:37.852000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:36.760000" end="0:41:37.852000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:41:36.760000	0:41:37.852000
 okay	-	-	-	0:41:36.760000	0:41:37.852000
 .	-	-	-	0:41:36.760000	0:41:37.852000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:37.852000" end="0:41:41.304000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:37.852000" end="0:41:41.304000" age_lower="18" age_upper="35">
 in	-	-	-	0:41:37.852000	0:41:39.456000
 in	-	-	-	0:41:37.852000	0:41:39.456000
 einigen	-	-	-	0:41:37.852000	0:41:39.456000
@@ -11590,23 +11590,23 @@ war	-	-	-	0:41:39.456000	0:41:41.304000
 ich	-	-	-	0:41:39.456000	0:41:41.304000
 .	-	-	-	0:41:39.456000	0:41:41.304000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:39.456000" end="0:41:41.936000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:39.456000" end="0:41:41.936000" age_lower="1" age_upper="999">
 okay	-	-	-	0:41:39.456000	0:41:41.304000
 .	-	-	-	0:41:39.456000	0:41:41.304000
 mhm	-	-	-	0:41:41.304000	0:41:41.936000
 .	-	-	-	0:41:41.304000	0:41:41.936000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:41.936000" end="0:41:42.528000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:41.936000" end="0:41:42.528000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:41.936000" end="0:41:42.528000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:41.936000" end="0:41:42.528000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:42.528000" end="0:41:43.008000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:42.528000" end="0:41:43.008000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:42.528000	0:41:43.008000
 .	-	-	-	0:41:42.528000	0:41:43.008000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:43.008000" end="0:41:47.496000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:43.008000" end="0:41:47.496000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:43.008000	0:41:43.560000
 .	-	-	-	0:41:43.008000	0:41:43.560000
 aber	-	-	-	0:41:43.560000	0:41:46.140000
@@ -11629,10 +11629,10 @@ okay	-	-	-	0:41:46.600000	0:41:47.496000
 ja	-	-	-	0:41:46.600000	0:41:47.496000
 .	-	-	-	0:41:46.600000	0:41:47.496000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:47.496000" end="0:41:48.116000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:47.496000" end="0:41:48.116000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:47.496000" end="0:41:53.712000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:47.496000" end="0:41:53.712000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 wahrscheinlich	-	-	-	0:41:48.116000	0:41:53.712000
 auch	-	-	-	0:41:48.116000	0:41:53.712000
@@ -11658,7 +11658,7 @@ und	-	-	-	0:41:48.116000	0:41:53.712000
 der	-	-	-	0:41:48.116000	0:41:53.712000
 vielen	-	-	-	0:41:48.116000	0:41:53.712000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:53.712000" end="0:41:55.904000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:53.712000" end="0:41:55.904000" age_lower="18" age_upper="35">
 nein	-	-	-	0:41:53.712000	0:41:55.904000
 ,	-	-	-	0:41:53.712000	0:41:55.904000
 das	-	-	-	0:41:53.712000	0:41:55.904000
@@ -11673,7 +11673,7 @@ war	-	-	-	0:41:53.712000	0:41:55.904000
 wirklich	-	-	-	0:41:53.712000	0:41:55.904000
 /,	-	-	-	0:41:53.712000	0:41:55.904000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:53.712000" end="0:41:55.904000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:53.712000" end="0:41:55.904000" age_lower="1" age_upper="999">
 Schule	-	-	-	0:41:53.712000	0:41:55.904000
 ist	-	-	-	0:41:53.712000	0:41:55.904000
 wahrscheinlich	-	-	-	0:41:53.712000	0:41:55.904000
@@ -11686,7 +11686,7 @@ das	-	-	-	0:41:53.712000	0:41:55.904000
 Problem	-	-	-	0:41:53.712000	0:41:55.904000
 ?	-	-	-	0:41:53.712000	0:41:55.904000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:55.904000" end="0:41:57.608000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:55.904000" end="0:41:57.608000" age_lower="18" age_upper="35">
 die	-	-	-	0:41:55.904000	0:41:57.608000
 Leute	-	-	-	0:41:55.904000	0:41:57.608000
 waren	-	-	-	0:41:55.904000	0:41:57.608000
@@ -11694,7 +11694,7 @@ das	-	-	-	0:41:55.904000	0:41:57.608000
 Problem	-	-	-	0:41:55.904000	0:41:57.608000
 .	-	-	-	0:41:55.904000	0:41:57.608000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:55.904000" end="0:41:59.608000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:55.904000" end="0:41:59.608000" age_lower="1" age_upper="999">
 okay	-	-	-	0:41:55.904000	0:41:57.608000
 .	-	-	-	0:41:55.904000	0:41:57.608000
 okay	-	-	-	0:41:57.608000	0:41:59.608000
@@ -11705,11 +11705,11 @@ die	-	-	-	0:41:57.608000	0:41:59.608000
 ja	-	-	-	0:41:57.608000	0:41:59.608000
 .	-	-	-	0:41:57.608000	0:41:59.608000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:59.608000" end="0:42:00.668000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:41:59.608000" end="0:42:00.668000" age_lower="18" age_upper="35">
 ja	-	-	-	0:41:59.608000	0:42:00.668000
 .	-	-	-	0:41:59.608000	0:42:00.668000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:59.608000" end="0:42:01.600000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:41:59.608000" end="0:42:01.600000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:41:59.608000	0:42:00.668000
 ähm	-	-	-	0:41:59.608000	0:42:00.668000
 /.	-	-	-	0:41:59.608000	0:42:00.668000
@@ -11720,7 +11720,7 @@ ja	-	-	-	0:42:00.668000	0:42:01.600000
 ja	-	-	-	0:42:00.668000	0:42:01.600000
 .	-	-	-	0:42:00.668000	0:42:01.600000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:01.600000" end="0:42:08.800000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:01.600000" end="0:42:08.800000" age_lower="18" age_upper="35">
 weil	-	-	-	0:42:01.600000	0:42:08.800000
 die	-	-	-	0:42:01.600000	0:42:08.800000
 Leute	-	-	-	0:42:01.600000	0:42:08.800000
@@ -11736,18 +11736,18 @@ ja	-	-	-	0:42:01.600000	0:42:08.800000
 ja	-	-	-	0:42:01.600000	0:42:08.800000
 .	-	-	-	0:42:01.600000	0:42:08.800000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:01.600000" end="0:42:08.800000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:01.600000" end="0:42:08.800000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:08.800000" end="0:42:10.332000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:08.800000" end="0:42:10.332000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:08.800000" end="0:42:10.332000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:08.800000" end="0:42:10.332000" age_lower="1" age_upper="999">
 okay	-	-	-	0:42:08.800000	0:42:10.332000
 .	-	-	-	0:42:08.800000	0:42:10.332000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:10.332000" end="0:42:11.676000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:10.332000" end="0:42:11.676000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:10.332000" end="0:42:14.256000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:10.332000" end="0:42:14.256000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 so	-	-	-	0:42:11.676000	0:42:14.256000
 w/	-	-	-	0:42:11.676000	0:42:14.256000
@@ -11758,7 +11758,7 @@ engstirnig	-	-	-	0:42:11.676000	0:42:14.256000
 oder	-	-	-	0:42:11.676000	0:42:14.256000
 /,	-	-	-	0:42:11.676000	0:42:14.256000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:14.256000" end="0:42:15.760000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:14.256000" end="0:42:15.760000" age_lower="18" age_upper="35">
 genau	-	-	-	0:42:14.256000	0:42:15.760000
 ,	-	-	-	0:42:14.256000	0:42:15.760000
 die	-	-	-	0:42:14.256000	0:42:15.760000
@@ -11766,7 +11766,7 @@ denken	-	-	-	0:42:14.256000	0:42:15.760000
 halt	-	-	-	0:42:14.256000	0:42:15.760000
 /.	-	-	-	0:42:14.256000	0:42:15.760000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:14.256000" end="0:42:15.760000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:14.256000" end="0:42:15.760000" age_lower="1" age_upper="999">
 würden	-	-	-	0:42:14.256000	0:42:15.760000
 Sie	-	-	-	0:42:14.256000	0:42:15.760000
 sagen	-	-	-	0:42:14.256000	0:42:15.760000
@@ -11774,7 +11774,7 @@ sagen	-	-	-	0:42:14.256000	0:42:15.760000
 okay	-	-	-	0:42:14.256000	0:42:15.760000
 .	-	-	-	0:42:14.256000	0:42:15.760000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:15.760000" end="0:42:18.508000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:15.760000" end="0:42:18.508000" age_lower="18" age_upper="35">
 manchmal	-	-	-	0:42:15.760000	0:42:18.508000
 kommt	-	-	-	0:42:15.760000	0:42:18.508000
 mir	-	-	-	0:42:15.760000	0:42:18.508000
@@ -11788,11 +11788,11 @@ nicht	-	-	-	0:42:15.760000	0:42:18.508000
 raus	-	-	-	0:42:15.760000	0:42:18.508000
 .	-	-	-	0:42:15.760000	0:42:18.508000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:18.508000" end="0:42:18.976000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:18.508000" end="0:42:18.976000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:42:18.508000	0:42:18.976000
 .	-	-	-	0:42:18.508000	0:42:18.976000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:18.976000" end="0:42:26.004000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:18.976000" end="0:42:26.004000" age_lower="18" age_upper="35">
 die	-	-	-	0:42:18.976000	0:42:21.516000
 sind	-	-	-	0:42:18.976000	0:42:21.516000
 so	-	-	-	0:42:18.976000	0:42:21.516000
@@ -11808,7 +11808,7 @@ negativ	-	-	-	0:42:21.516000	0:42:25.212000
 und	-	-	-	0:42:25.212000	0:42:26.004000
 /.	-	-	-	0:42:25.212000	0:42:26.004000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:25.212000" end="0:42:27.192000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:25.212000" end="0:42:27.192000" age_lower="1" age_upper="999">
 okay	-	-	-	0:42:25.212000	0:42:26.004000
 .	-	-	-	0:42:25.212000	0:42:26.004000
 ja	-	-	-	0:42:26.004000	0:42:27.192000
@@ -11816,7 +11816,7 @@ ja	-	-	-	0:42:26.004000	0:42:27.192000
 ja	-	-	-	0:42:26.004000	0:42:27.192000
 .	-	-	-	0:42:26.004000	0:42:27.192000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:27.192000" end="0:42:28.852000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:27.192000" end="0:42:28.852000" age_lower="18" age_upper="35">
 wird/	-	-	-	0:42:27.192000	0:42:28.852000
 und	-	-	-	0:42:27.192000	0:42:28.852000
 das	-	-	-	0:42:27.192000	0:42:28.852000
@@ -11824,11 +11824,11 @@ das	-	-	-	0:42:27.192000	0:42:28.852000
 was	-	-	-	0:42:27.192000	0:42:28.852000
 /.	-	-	-	0:42:27.192000	0:42:28.852000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:27.192000" end="0:42:28.852000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:27.192000" end="0:42:28.852000" age_lower="1" age_upper="999">
 ja	-	-	-	0:42:27.192000	0:42:28.852000
 .	-	-	-	0:42:27.192000	0:42:28.852000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:28.852000" end="0:42:38.172000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:28.852000" end="0:42:38.172000" age_lower="18" age_upper="35">
 ich	-	-	-	0:42:28.852000	0:42:31.756000
 ich	-	-	-	0:42:28.852000	0:42:31.756000
 glaube	-	-	-	0:42:28.852000	0:42:31.756000
@@ -11869,7 +11869,7 @@ er	-	-	-	0:42:35.644000	0:42:37.564000
 /.	-	-	-	0:42:35.644000	0:42:37.564000
 <pause duration="0,6s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:37.564000" end="0:42:41.796000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:37.564000" end="0:42:41.796000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:42:38.172000	0:42:40.276000
 ja	-	-	-	0:42:38.172000	0:42:40.276000
@@ -11886,13 +11886,13 @@ das	-	-	-	0:42:40.276000	0:42:41.796000
 die	-	-	-	0:42:40.276000	0:42:41.796000
 Jungen	-	-	-	0:42:40.276000	0:42:41.796000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:41.796000" end="0:42:43.152000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:41.796000" end="0:42:43.152000" age_lower="18" age_upper="35">
 genau	-	-	-	0:42:41.796000	0:42:43.152000
 ,	-	-	-	0:42:41.796000	0:42:43.152000
 genau	-	-	-	0:42:41.796000	0:42:43.152000
 .	-	-	-	0:42:41.796000	0:42:43.152000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:41.796000" end="0:42:48.564000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:41.796000" end="0:42:48.564000" age_lower="1" age_upper="999">
 teilweise	-	-	-	0:42:41.796000	0:42:43.152000
 auch	-	-	-	0:42:41.796000	0:42:43.152000
 ,	-	-	-	0:42:41.796000	0:42:43.152000
@@ -11923,10 +11923,10 @@ schwierig	-	-	-	0:42:45.704000	0:42:48.564000
 okay	-	-	-	0:42:45.704000	0:42:48.564000
 .	-	-	-	0:42:45.704000	0:42:48.564000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:48.564000" end="0:42:49.344000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:42:48.564000" end="0:42:49.344000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:48.564000" end="0:43:00.232000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:42:48.564000" end="0:43:00.232000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 gut	-	-	-	0:42:49.344000	0:42:54.840000
 ,	-	-	-	0:42:49.344000	0:42:54.840000
@@ -11967,11 +11967,11 @@ noch	-	-	-	0:42:57.072000	0:43:00.232000
 irgendwas	-	-	-	0:42:57.072000	0:43:00.232000
 anmerken	-	-	-	0:42:57.072000	0:43:00.232000
 </u>
-<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:43:00.232000" end="0:43:02.344000" persName="Informant 0368" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="18" age_upper="35">
+<u who="spk_484" sex="female" age="jung (18-35) +matura" name="Informant 0368" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:43:00.232000" end="0:43:02.344000" age_lower="18" age_upper="35">
 ja	-	-	-	0:43:00.232000	0:43:02.344000
 .	-	-	-	0:43:00.232000	0:43:02.344000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:00.232000" end="0:43:06.668000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:43:00.232000" end="0:43:06.668000" age_lower="1" age_upper="999">
 oder	-	-	-	0:43:00.232000	0:43:02.344000
 haben	-	-	-	0:43:00.232000	0:43:02.344000
 wir	-	-	-	0:43:00.232000	0:43:02.344000

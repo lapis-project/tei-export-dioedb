@@ -1,6 +1,6 @@
 <doc id="transcript_683" name="0037_ALLE_jungII_f_INT" erhebung="Interview_PP0308" erhebungsart="Interview">
 <file id="683.xml" title="Transcript: Transcript_683">
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:07.794000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:07.794000" age_lower="1" age_upper="999">
 läuft	-	-	-	0:00:00	0:00:02.413000
 das	-	-	-	0:00:00	0:00:02.413000
 Aufnahmegerät	-	-	-	0:00:00	0:00:02.413000
@@ -27,14 +27,14 @@ Frau	-	-	-	0:00:05.367000	0:00:07.794000
 NAME	NAME	-	-	0:00:05.367000	0:00:07.794000
 ?	-	-	-	0:00:05.367000	0:00:07.794000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:07.794000" end="0:00:09.999000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:07.794000" end="0:00:09.999000" age_lower="18" age_upper="35">
 der	-	-	-	0:00:07.794000	0:00:09.999000
 ZAHL	ZAHL	-	-	0:00:07.794000	0:00:09.999000
 Zwölfte	-	-	-	0:00:07.794000	0:00:09.999000
 ZAHL	ZAHL	-	-	0:00:07.794000	0:00:09.999000
 .	-	-	-	0:00:07.794000	0:00:09.999000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:09.999000" end="0:00:13.850000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:09.999000" end="0:00:13.850000" age_lower="1" age_upper="999">
 Dankeschön	-	-	-	0:00:09.999000	0:00:11.002000
 .	-	-	-	0:00:09.999000	0:00:11.002000
 <pause duration="1,7s"/>
@@ -42,11 +42,11 @@ also	-	-	-	0:00:12.671000	0:00:13.850000
 bald	-	-	-	0:00:12.671000	0:00:13.850000
 Geburtstag	-	-	-	0:00:12.671000	0:00:13.850000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:13.850000" end="0:00:14.362000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:13.850000" end="0:00:14.362000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:00:13.850000	0:00:14.362000
 .	-	-	-	0:00:13.850000	0:00:14.362000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:13.850000" end="0:00:15.808000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:13.850000" end="0:00:15.808000" age_lower="1" age_upper="999">
 quasi	-	-	-	0:00:13.850000	0:00:14.362000
 ?	-	-	-	0:00:13.850000	0:00:14.362000
 und	-	-	-	0:00:14.362000	0:00:15.808000
@@ -54,19 +54,19 @@ Ihr	-	-	-	0:00:14.362000	0:00:15.808000
 Geburtsort	-	-	-	0:00:14.362000	0:00:15.808000
 ?	-	-	-	0:00:14.362000	0:00:15.808000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:15.808000" end="0:00:16.347000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:15.808000" end="0:00:16.347000" age_lower="18" age_upper="35">
 ORT	ORT	-	-	0:00:15.808000	0:00:16.347000
 .	-	-	-	0:00:15.808000	0:00:16.347000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:16.347000" end="0:00:17.763000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:16.347000" end="0:00:17.763000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:00:16.347000	0:00:17.169000
 ,	-	-	-	0:00:16.347000	0:00:17.169000
 okay	-	-	-	0:00:17.169000	0:00:17.763000
 .	-	-	-	0:00:17.169000	0:00:17.763000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:17.763000" end="0:00:18.160000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:17.763000" end="0:00:18.160000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:18.160000" end="0:00:21.043000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:18.160000" end="0:00:21.043000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:00:18.160000	0:00:21.043000
 und	-	-	-	0:00:18.160000	0:00:21.043000
 in	-	-	-	0:00:18.160000	0:00:21.043000
@@ -82,12 +82,12 @@ dann	-	-	-	0:00:18.160000	0:00:21.043000
 aufgewachsen	-	-	-	0:00:18.160000	0:00:21.043000
 ?	-	-	-	0:00:18.160000	0:00:21.043000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:21.043000" end="0:00:21.946000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:21.043000" end="0:00:21.946000" age_lower="18" age_upper="35">
 in	-	-	-	0:00:21.043000	0:00:21.946000
 Allentsteig	-	-	-	0:00:21.043000	0:00:21.946000
 .	-	-	-	0:00:21.043000	0:00:21.946000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:21.946000" end="0:00:27.521000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:21.946000" end="0:00:27.521000" age_lower="1" age_upper="999">
 (in)	-	-	-	0:00:21.946000	0:00:23.260000
 Allentsteig	-	-	-	0:00:21.946000	0:00:23.260000
 (okay)	-	-	-	0:00:21.946000	0:00:23.260000
@@ -108,7 +108,7 @@ gewohnt	-	-	-	0:00:25.748000	0:00:27.521000
 haben	-	-	-	0:00:25.748000	0:00:27.521000
 ?	-	-	-	0:00:25.748000	0:00:27.521000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:27.521000" end="0:00:29.968000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:27.521000" end="0:00:29.968000" age_lower="18" age_upper="35">
 hm	-	-	-	0:00:27.521000	0:00:28.889000
 ja	-	-	-	0:00:27.521000	0:00:28.889000
 in	-	-	-	0:00:27.521000	0:00:28.889000
@@ -120,7 +120,7 @@ in	-	-	-	0:00:28.889000	0:00:29.968000
 ORT	ORT	-	-	0:00:28.889000	0:00:29.968000
 .	-	-	-	0:00:28.889000	0:00:29.968000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:29.968000" end="0:00:31.900000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:29.968000" end="0:00:31.900000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:00:29.968000	0:00:31.900000
 würden	-	-	-	0:00:29.968000	0:00:31.900000
 Sie	-	-	-	0:00:29.968000	0:00:31.900000
@@ -129,11 +129,11 @@ so	-	-	-	0:00:29.968000	0:00:31.900000
 chronologisch	-	-	-	0:00:29.968000	0:00:31.900000
 mal	-	-	-	0:00:29.968000	0:00:31.900000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:31.900000" end="0:00:32.764000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:31.900000" end="0:00:32.764000" age_lower="18" age_upper="35">
 okay	-	-	-	0:00:31.900000	0:00:32.764000
 .	-	-	-	0:00:31.900000	0:00:32.764000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:31.900000" end="0:00:33.723000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:31.900000" end="0:00:33.723000" age_lower="1" age_upper="999">
 aufarbeiten	-	-	-	0:00:31.900000	0:00:32.764000
 für	-	-	-	0:00:31.900000	0:00:32.764000
 mich	-	-	-	0:00:31.900000	0:00:32.764000
@@ -145,7 +145,7 @@ wann	-	-	-	0:00:32.764000	0:00:33.723000
 wo	-	-	-	0:00:32.764000	0:00:33.723000
 ?	-	-	-	0:00:32.764000	0:00:33.723000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:33.723000" end="0:00:44.026000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:33.723000" end="0:00:44.026000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:33.723000	0:00:37.545000
 ja	-	-	-	0:00:33.723000	0:00:37.545000
 von	-	-	-	0:00:33.723000	0:00:37.545000
@@ -177,7 +177,7 @@ ORT	ORT	-	-	0:00:41.335000	0:00:43.667000
 ja	-	-	-	0:00:43.667000	0:00:44.026000
 .	-	-	-	0:00:43.667000	0:00:44.026000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:44.026000" end="0:00:48.251000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:44.026000" end="0:00:48.251000" age_lower="1" age_upper="999">
 (okay)	-	-	-	0:00:44.026000	0:00:44.386000
 .	-	-	-	0:00:44.026000	0:00:44.386000
 ähm	-	-	-	0:00:44.386000	0:00:46.878000
@@ -200,7 +200,7 @@ Schule	-	-	-	0:00:46.878000	0:00:48.251000
 gegangen	-	-	-	0:00:46.878000	0:00:48.251000
 ?	-	-	-	0:00:46.878000	0:00:48.251000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:48.251000" end="0:00:51.360000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:48.251000" end="0:00:51.360000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:00:48.251000	0:00:51.360000
 nein	-	-	-	0:00:48.251000	0:00:51.360000
 zwei	-	-	-	0:00:48.251000	0:00:51.360000
@@ -216,7 +216,7 @@ einer	-	-	-	0:00:48.251000	0:00:51.360000
 WG	-	-	-	0:00:48.251000	0:00:51.360000
 .	-	-	-	0:00:48.251000	0:00:51.360000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:51.360000" end="0:00:55.429000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:51.360000" end="0:00:55.429000" age_lower="1" age_upper="999">
 okay	-	-	-	0:00:51.360000	0:00:52.057000
 ,	-	-	-	0:00:51.360000	0:00:52.057000
 gut	-	-	-	0:00:52.057000	0:00:52.355000
@@ -233,11 +233,11 @@ nach	-	-	-	0:00:52.355000	0:00:55.429000
 Allentsteig	-	-	-	0:00:52.355000	0:00:55.429000
 auch	-	-	-	0:00:52.355000	0:00:55.429000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:55.429000" end="0:00:56.141000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:55.429000" end="0:00:56.141000" age_lower="18" age_upper="35">
 ja	-	-	-	0:00:55.429000	0:00:56.141000
 .	-	-	-	0:00:55.429000	0:00:56.141000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:55.429000" end="0:00:57.291000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:55.429000" end="0:00:57.291000" age_lower="1" age_upper="999">
 zurück	-	-	-	0:00:55.429000	0:00:56.141000
 gekommen	-	-	-	0:00:55.429000	0:00:56.141000
 ?	-	-	-	0:00:55.429000	0:00:56.141000
@@ -245,11 +245,11 @@ also	-	-	-	0:00:56.141000	0:00:57.291000
 sehr	-	-	-	0:00:56.141000	0:00:57.291000
 regelmäßig	-	-	-	0:00:56.141000	0:00:57.291000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:57.291000" end="0:00:58.061000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:00:57.291000" end="0:00:58.061000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:00:57.291000	0:00:58.061000
 .	-	-	-	0:00:57.291000	0:00:58.061000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:57.291000" end="0:01:01.345000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:00:57.291000" end="0:01:01.345000" age_lower="1" age_upper="999">
 wahrscheinlich	-	-	-	0:00:57.291000	0:00:58.061000
 ?	-	-	-	0:00:57.291000	0:00:58.061000
 <pause duration="1,0s"/>
@@ -265,10 +265,10 @@ oft	-	-	-	0:01:00.141000	0:01:00.573000
 <pause duration="0,5s"/>
 also	-	-	-	0:01:00.573000	0:01:01.345000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:01.345000" end="0:01:01.984000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:01.345000" end="0:01:01.984000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:01.345000	0:01:01.984000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:01.345000" end="0:01:03.390000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:01.345000" end="0:01:03.390000" age_lower="1" age_upper="999">
 ob	-	-	-	0:01:01.345000	0:01:01.984000
 wöchentlich	-	-	-	0:01:01.345000	0:01:01.984000
 oder	-	-	-	0:01:01.984000	0:01:02.514000
@@ -278,18 +278,18 @@ einmal	-	-	-	0:01:02.514000	0:01:03.390000
 im	-	-	-	0:01:02.514000	0:01:03.390000
 Monat	-	-	-	0:01:02.514000	0:01:03.390000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:03.390000" end="0:01:04.419000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:03.390000" end="0:01:04.419000" age_lower="18" age_upper="35">
 ah	-	-	-	0:01:03.390000	0:01:04.419000
 so	-	-	-	0:01:03.390000	0:01:04.419000
 ,	-	-	-	0:01:03.390000	0:01:04.419000
 nein	-	-	-	0:01:03.390000	0:01:04.419000
 ,	-	-	-	0:01:03.390000	0:01:04.419000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:03.390000" end="0:01:04.419000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:03.390000" end="0:01:04.419000" age_lower="1" age_upper="999">
 oder	-	-	-	0:01:03.390000	0:01:04.419000
 ?	-	-	-	0:01:03.390000	0:01:04.419000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:04.419000" end="0:01:06.538000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:04.419000" end="0:01:06.538000" age_lower="18" age_upper="35">
 puh	-	-	-	0:01:04.419000	0:01:05.985000
 zweimal	-	-	-	0:01:04.419000	0:01:05.985000
 in	-	-	-	0:01:04.419000	0:01:05.985000
@@ -300,7 +300,7 @@ eigentlich	-	-	-	0:01:05.985000	0:01:06.538000
 ja	-	-	-	0:01:05.985000	0:01:06.538000
 .	-	-	-	0:01:05.985000	0:01:06.538000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:05.985000" end="0:01:14.151000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:05.985000" end="0:01:14.151000" age_lower="1" age_upper="999">
 ah	-	-	-	0:01:05.985000	0:01:06.538000
 okay	-	-	-	0:01:05.985000	0:01:06.538000
 ,	-	-	-	0:01:05.985000	0:01:06.538000
@@ -334,7 +334,7 @@ wo	-	-	-	0:01:11.950000	0:01:14.151000
 anders	-	-	-	0:01:11.950000	0:01:14.151000
 ?	-	-	-	0:01:11.950000	0:01:14.151000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:14.151000" end="0:01:14.981000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:14.151000" end="0:01:14.981000" age_lower="18" age_upper="35">
 nein	-	-	-	0:01:14.151000	0:01:14.981000
 ,	-	-	-	0:01:14.151000	0:01:14.981000
 (ich	-	-	-	0:01:14.151000	0:01:14.981000
@@ -342,7 +342,7 @@ war	-	-	-	0:01:14.151000	0:01:14.981000
 in)	-	-	-	0:01:14.151000	0:01:14.981000
 /.	-	-	-	0:01:14.151000	0:01:14.981000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:14.151000" end="0:01:17.126000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:14.151000" end="0:01:17.126000" age_lower="1" age_upper="999">
 also	-	-	-	0:01:14.151000	0:01:14.981000
 also	-	-	-	0:01:14.151000	0:01:14.981000
 auch	-	-	-	0:01:14.151000	0:01:14.981000
@@ -355,11 +355,11 @@ quasi	-	-	-	0:01:14.981000	0:01:17.126000
 gewohnt	-	-	-	0:01:14.981000	0:01:17.126000
 ?	-	-	-	0:01:14.981000	0:01:17.126000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:17.126000" end="0:01:18.295000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:17.126000" end="0:01:18.295000" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:17.126000	0:01:17.449000
 .	-	-	-	0:01:17.126000	0:01:17.449000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:17.449000" end="0:01:21.898000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:17.449000" end="0:01:21.898000" age_lower="1" age_upper="999">
 und	-	-	-	0:01:17.449000	0:01:18.295000
 wie	-	-	-	0:01:17.449000	0:01:18.295000
 sch/	-	-	-	0:01:17.449000	0:01:18.295000
@@ -388,12 +388,12 @@ oft	-	-	-	0:01:20.993000	0:01:21.898000
 nachhause	-	-	-	0:01:20.993000	0:01:21.898000
 ?	-	-	-	0:01:20.993000	0:01:21.898000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:21.898000" end="0:01:23.076000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:21.898000" end="0:01:23.076000" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:21.898000	0:01:23.076000
 (auch)	-	-	-	0:01:21.898000	0:01:23.076000
 .	-	-	-	0:01:21.898000	0:01:23.076000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:23.076000" end="0:01:24.551000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:23.076000" end="0:01:24.551000" age_lower="1" age_upper="999">
 ja	-	-	-	0:01:23.076000	0:01:23.435000
 .	-	-	-	0:01:23.076000	0:01:23.435000
 wie	-	-	-	0:01:23.435000	0:01:24.551000
@@ -401,14 +401,14 @@ oft	-	-	-	0:01:23.435000	0:01:24.551000
 so	-	-	-	0:01:23.435000	0:01:24.551000
 ungefähr	-	-	-	0:01:23.435000	0:01:24.551000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:24.551000" end="0:01:24.986000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:24.551000" end="0:01:24.986000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:01:24.551000	0:01:24.986000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:24.551000" end="0:01:24.986000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:24.551000" end="0:01:24.986000" age_lower="1" age_upper="999">
 (quasi)	-	-	-	0:01:24.551000	0:01:24.986000
 ?	-	-	-	0:01:24.551000	0:01:24.986000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:24.986000" end="0:01:26.723000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:24.986000" end="0:01:26.723000" age_lower="18" age_upper="35">
 ja	-	-	-	0:01:24.986000	0:01:26.723000
 eigentlich	-	-	-	0:01:24.986000	0:01:26.723000
 auch	-	-	-	0:01:24.986000	0:01:26.723000
@@ -419,7 +419,7 @@ Woche	Woche	-	-	0:01:24.986000	0:01:26.723000
 fast	-	-	-	0:01:24.986000	0:01:26.723000
 .	-	-	-	0:01:24.986000	0:01:26.723000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:26.723000" end="0:01:31.996000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:26.723000" end="0:01:31.996000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:26.723000	0:01:27.603000
 .	-	-	-	0:01:26.723000	0:01:27.603000
 <pause duration="1,7s"/>
@@ -435,7 +435,7 @@ Ihre	-	-	-	0:01:30.333000	0:01:31.996000
 Eltern	-	-	-	0:01:30.333000	0:01:31.996000
 ?	-	-	-	0:01:30.333000	0:01:31.996000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:31.996000" end="0:01:36.716000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:31.996000" end="0:01:36.716000" age_lower="18" age_upper="35">
 hm	-	-	-	0:01:31.996000	0:01:35.100000
 also	-	-	-	0:01:31.996000	0:01:35.100000
 meine	-	-	-	0:01:31.996000	0:01:35.100000
@@ -452,11 +452,11 @@ der	-	-	-	0:01:35.100000	0:01:36.716000
 Ort	-	-	-	0:01:35.100000	0:01:36.716000
 .	-	-	-	0:01:35.100000	0:01:36.716000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:36.716000" end="0:01:37.104000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:36.716000" end="0:01:37.104000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:36.716000	0:01:37.104000
 .	-	-	-	0:01:36.716000	0:01:37.104000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:37.104000" end="0:01:39.053000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:37.104000" end="0:01:39.053000" age_lower="18" age_upper="35">
 und	-	-	-	0:01:37.104000	0:01:39.053000
 mein	-	-	-	0:01:37.104000	0:01:39.053000
 Papa	-	-	-	0:01:37.104000	0:01:39.053000
@@ -465,14 +465,14 @@ aus	-	-	-	0:01:37.104000	0:01:39.053000
 ORT	ORT	-	-	0:01:37.104000	0:01:39.053000
 .	-	-	-	0:01:37.104000	0:01:39.053000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:39.053000" end="0:01:40.545000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:39.053000" end="0:01:40.545000" age_lower="1" age_upper="999">
 wo	-	-	-	0:01:39.053000	0:01:40.545000
 ist	-	-	-	0:01:39.053000	0:01:40.545000
 das	-	-	-	0:01:39.053000	0:01:40.545000
 ungefähr	-	-	-	0:01:39.053000	0:01:40.545000
 ?	-	-	-	0:01:39.053000	0:01:40.545000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:40.545000" end="0:01:43.938000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:40.545000" end="0:01:43.938000" age_lower="18" age_upper="35">
 also	-	-	-	0:01:40.545000	0:01:41.634000
 ORT	ORT	-	-	0:01:40.545000	0:01:41.634000
 /.	-	-	-	0:01:40.545000	0:01:41.634000
@@ -483,11 +483,11 @@ ORT	ORT	-	-	0:01:41.634000	0:01:43.134000
 dazu	-	-	-	0:01:41.634000	0:01:43.134000
 ,	-	-	-	0:01:41.634000	0:01:43.134000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:43.134000" end="0:01:43.938000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:43.134000" end="0:01:43.938000" age_lower="1" age_upper="999">
 ja	-	-	-	0:01:43.134000	0:01:43.938000
 .	-	-	-	0:01:43.134000	0:01:43.938000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:43.938000" end="0:01:49.547000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:43.938000" end="0:01:49.547000" age_lower="18" age_upper="35">
 das	-	-	-	0:01:43.938000	0:01:45.598000
 ist	-	-	-	0:01:43.938000	0:01:45.598000
 in	-	-	-	0:01:43.938000	0:01:45.598000
@@ -509,7 +509,7 @@ bei	-	-	-	0:01:47.186000	0:01:49.547000
 ORT	ORT	-	-	0:01:47.186000	0:01:49.547000
 .	-	-	-	0:01:47.186000	0:01:49.547000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:49.547000" end="0:01:50.708000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:49.547000" end="0:01:50.708000" age_lower="1" age_upper="999">
 okay	-	-	-	0:01:49.547000	0:01:50.708000
 ,	-	-	-	0:01:49.547000	0:01:50.708000
 also	-	-	-	0:01:49.547000	0:01:50.708000
@@ -517,17 +517,17 @@ trotzdem	-	-	-	0:01:49.547000	0:01:50.708000
 in	-	-	-	0:01:49.547000	0:01:50.708000
 der	-	-	-	0:01:49.547000	0:01:50.708000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:50.708000" end="0:01:51.954000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:50.708000" end="0:01:51.954000" age_lower="18" age_upper="35">
 so	-	-	-	0:01:50.708000	0:01:51.954000
 /.	-	-	-	0:01:50.708000	0:01:51.954000
 ja	-	-	-	0:01:50.708000	0:01:51.954000
 eh	-	-	-	0:01:50.708000	0:01:51.954000
 ,	-	-	-	0:01:50.708000	0:01:51.954000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:50.708000" end="0:01:51.954000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:50.708000" end="0:01:51.954000" age_lower="1" age_upper="999">
 Region	-	-	-	0:01:50.708000	0:01:51.954000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:51.954000" end="0:01:54.169000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:51.954000" end="0:01:54.169000" age_lower="18" age_upper="35">
 alles	-	-	-	0:01:51.954000	0:01:54.169000
 z/	-	-	-	0:01:51.954000	0:01:54.169000
 ORT	ORT	-	-	0:01:51.954000	0:01:54.169000
@@ -537,7 +537,7 @@ auch	-	-	-	0:01:51.954000	0:01:54.169000
 ja	-	-	-	0:01:51.954000	0:01:54.169000
 .	-	-	-	0:01:51.954000	0:01:54.169000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:51.954000" end="0:01:58.496000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:01:51.954000" end="0:01:58.496000" age_lower="1" age_upper="999">
 also	-	-	-	0:01:51.954000	0:01:54.169000
 beides	-	-	-	0:01:51.954000	0:01:54.169000
 waldvier/	-	-	-	0:01:51.954000	0:01:54.169000
@@ -565,7 +565,7 @@ beruflich	-	-	-	0:01:57.100000	0:01:58.496000
 machen	-	-	-	0:01:57.100000	0:01:58.496000
 ?	-	-	-	0:01:57.100000	0:01:58.496000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:58.496000" end="0:02:01.304000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:01:58.496000" end="0:02:01.304000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:01:58.496000	0:01:58.689000
 ,	-	-	-	0:01:58.496000	0:01:58.689000
 also	-	-	-	0:01:58.689000	0:02:00.202000
@@ -579,13 +579,13 @@ in	-	-	-	0:02:00.202000	0:02:01.304000
 ORT	ORT	-	-	0:02:00.202000	0:02:01.304000
 ,	-	-	-	0:02:00.202000	0:02:01.304000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:01.304000" end="0:02:01.929000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:01.304000" end="0:02:01.929000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:02:01.304000	0:02:01.929000
 ,	-	-	-	0:02:01.304000	0:02:01.929000
 ja	-	-	-	0:02:01.304000	0:02:01.929000
 .	-	-	-	0:02:01.304000	0:02:01.929000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:01.929000" end="0:02:04.671000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:01.929000" end="0:02:04.671000" age_lower="18" age_upper="35">
 und	-	-	-	0:02:01.929000	0:02:04.671000
 meine	-	-	-	0:02:01.929000	0:02:04.671000
 Mama	-	-	-	0:02:01.929000	0:02:04.671000
@@ -598,7 +598,7 @@ in	-	-	-	0:02:01.929000	0:02:04.671000
 ORT	ORT	-	-	0:02:01.929000	0:02:04.671000
 .	-	-	-	0:02:01.929000	0:02:04.671000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:04.671000" end="0:02:08.080000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:04.671000" end="0:02:08.080000" age_lower="1" age_upper="999">
 okay	-	-	-	0:02:04.671000	0:02:05.797000
 .	-	-	-	0:02:04.671000	0:02:05.797000
 <pause duration="1,0s"/>
@@ -608,11 +608,11 @@ verheiratet	-	-	-	0:02:06.776000	0:02:07.738000
 oder	-	-	-	0:02:07.738000	0:02:08.080000
 leben	-	-	-	0:02:07.738000	0:02:08.080000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:08.080000" end="0:02:09.102000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:08.080000" end="0:02:09.102000" age_lower="18" age_upper="35">
 nein	-	-	-	0:02:08.080000	0:02:09.102000
 .	-	-	-	0:02:08.080000	0:02:09.102000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:08.080000" end="0:02:15.649000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:08.080000" end="0:02:15.649000" age_lower="1" age_upper="999">
 in	-	-	-	0:02:08.080000	0:02:09.102000
 einer	-	-	-	0:02:08.080000	0:02:09.102000
 Partnerschaft	-	-	-	0:02:08.080000	0:02:09.102000
@@ -638,11 +638,11 @@ auch	-	-	-	0:02:14.432000	0:02:15.649000
 nicht	-	-	-	0:02:14.432000	0:02:15.649000
 ,	-	-	-	0:02:14.432000	0:02:15.649000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:15.649000" end="0:02:16.768000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:15.649000" end="0:02:16.768000" age_lower="18" age_upper="35">
 nein	-	-	-	0:02:15.649000	0:02:16.768000
 .	-	-	-	0:02:15.649000	0:02:16.768000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:15.649000" end="0:02:23.598000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:15.649000" end="0:02:23.598000" age_lower="1" age_upper="999">
 nehme	-	-	-	0:02:15.649000	0:02:16.768000
 ich	-	-	-	0:02:15.649000	0:02:16.768000
 dann	-	-	-	0:02:15.649000	0:02:16.768000
@@ -685,14 +685,14 @@ das	-	-	-	0:02:22.996000	0:02:23.598000
 für	-	-	-	0:02:22.996000	0:02:23.598000
 eine	-	-	-	0:02:22.996000	0:02:23.598000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:23.598000" end="0:02:23.952000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:23.598000" end="0:02:23.952000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:23.598000	0:02:23.952000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:23.598000" end="0:02:23.952000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:23.598000" end="0:02:23.952000" age_lower="1" age_upper="999">
 Schule	-	-	-	0:02:23.598000	0:02:23.952000
 ?	-	-	-	0:02:23.598000	0:02:23.952000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:23.952000" end="0:02:27.366000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:23.952000" end="0:02:27.366000" age_lower="18" age_upper="35">
 das	-	-	-	0:02:23.952000	0:02:27.366000
 war	-	-	-	0:02:23.952000	0:02:27.366000
 die	-	-	-	0:02:23.952000	0:02:27.366000
@@ -701,7 +701,7 @@ für	-	-	-	0:02:23.952000	0:02:27.366000
 SONSTIGE	SONSTIGE	-	-	0:02:23.952000	0:02:27.366000
 .	-	-	-	0:02:23.952000	0:02:27.366000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:27.366000" end="0:02:31.921000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:27.366000" end="0:02:31.921000" age_lower="1" age_upper="999">
 okay	-	-	-	0:02:27.366000	0:02:28.107000
 .	-	-	-	0:02:27.366000	0:02:28.107000
 <pause duration="1,0s"/>
@@ -721,7 +721,7 @@ so	-	-	-	0:02:30.725000	0:02:31.921000
 geht	-	-	-	0:02:30.725000	0:02:31.921000
 ?	-	-	-	0:02:30.725000	0:02:31.921000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:31.921000" end="0:02:44.494000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:31.921000" end="0:02:44.494000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:31.921000	0:02:33.749000
 <pause duration="0,8s"/>
 also	-	-	-	0:02:33.749000	0:02:35.809000
@@ -760,7 +760,7 @@ so	-	-	-	0:02:43.673000	0:02:44.494000
 Sachen	-	-	-	0:02:43.673000	0:02:44.494000
 .	-	-	-	0:02:43.673000	0:02:44.494000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:44.494000" end="0:02:48.228000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:44.494000" end="0:02:48.228000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 (okay)	-	-	-	0:02:44.494000	0:02:45.925000
 <pause duration="0,5s"/>
@@ -777,35 +777,35 @@ oder	-	-	-	0:02:47.871000	0:02:48.228000
 haben	-	-	-	0:02:47.871000	0:02:48.228000
 Sie	-	-	-	0:02:47.871000	0:02:48.228000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:48.228000" end="0:02:48.635000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:48.228000" end="0:02:48.635000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:02:48.228000	0:02:48.635000
 .	-	-	-	0:02:48.228000	0:02:48.635000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:48.228000" end="0:02:48.870000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:48.228000" end="0:02:48.870000" age_lower="1" age_upper="999">
 danach	-	-	-	0:02:48.228000	0:02:48.635000
 noch	-	-	-	0:02:48.228000	0:02:48.635000
 eine	-	-	-	0:02:48.635000	0:02:48.870000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:48.870000" end="0:02:49.242000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:48.870000" end="0:02:49.242000" age_lower="18" age_upper="35">
 nein	-	-	-	0:02:48.870000	0:02:49.242000
 ,	-	-	-	0:02:48.870000	0:02:49.242000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:48.870000" end="0:02:49.242000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:48.870000" end="0:02:49.242000" age_lower="1" age_upper="999">
 Ausbildung	-	-	-	0:02:48.870000	0:02:49.242000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:49.242000" end="0:02:49.555000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:49.242000" end="0:02:49.555000" age_lower="18" age_upper="35">
 habe	-	-	-	0:02:49.242000	0:02:49.555000
 ich	-	-	-	0:02:49.242000	0:02:49.555000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:49.242000" end="0:02:49.555000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:49.242000" end="0:02:49.555000" age_lower="1" age_upper="999">
 gemacht	-	-	-	0:02:49.242000	0:02:49.555000
 ?	-	-	-	0:02:49.242000	0:02:49.555000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:49.555000" end="0:02:49.894000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:49.555000" end="0:02:49.894000" age_lower="18" age_upper="35">
 nicht	-	-	-	0:02:49.555000	0:02:49.894000
 .	-	-	-	0:02:49.555000	0:02:49.894000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:49.555000" end="0:02:52.886000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:49.555000" end="0:02:52.886000" age_lower="1" age_upper="999">
 okay	-	-	-	0:02:49.555000	0:02:49.894000
 .	-	-	-	0:02:49.555000	0:02:49.894000
 und	-	-	-	0:02:49.894000	0:02:52.886000
@@ -820,11 +820,11 @@ zum	-	-	-	0:02:49.894000	0:02:52.886000
 Arbeiten	-	-	-	0:02:49.894000	0:02:52.886000
 ?	-	-	-	0:02:49.894000	0:02:52.886000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:52.886000" end="0:02:53.321000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:52.886000" end="0:02:53.321000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:02:52.886000	0:02:53.321000
 .	-	-	-	0:02:52.886000	0:02:53.321000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:53.321000" end="0:02:55.538000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:53.321000" end="0:02:55.538000" age_lower="1" age_upper="999">
 können	-	-	-	0:02:53.321000	0:02:55.538000
 Sie	-	-	-	0:02:53.321000	0:02:55.538000
 mir	-	-	-	0:02:53.321000	0:02:55.538000
@@ -835,15 +835,15 @@ Tätigkeit	-	-	-	0:02:53.321000	0:02:55.538000
 da	-	-	-	0:02:53.321000	0:02:55.538000
 in	-	-	-	0:02:53.321000	0:02:55.538000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:55.538000" end="0:02:56.220000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:55.538000" end="0:02:56.220000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:02:55.538000	0:02:56.220000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:55.538000" end="0:02:56.220000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:02:55.538000" end="0:02:56.220000" age_lower="1" age_upper="999">
 Wien	-	-	-	0:02:55.538000	0:02:56.220000
 erzählen	-	-	-	0:02:55.538000	0:02:56.220000
 ?	-	-	-	0:02:55.538000	0:02:56.220000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:56.220000" end="0:03:05.097000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:02:56.220000" end="0:03:05.097000" age_lower="18" age_upper="35">
 ja	-	-	-	0:02:56.220000	0:02:58.872000
 ich	-	-	-	0:02:56.220000	0:02:58.872000
 arbeite	-	-	-	0:02:56.220000	0:02:58.872000
@@ -870,11 +870,11 @@ da	-	-	-	0:03:03.114000	0:03:05.097000
 fünfundvierzig	-	-	-	0:03:03.114000	0:03:05.097000
 Stunden	-	-	-	0:03:03.114000	0:03:05.097000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:05.097000" end="0:03:05.548000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:05.097000" end="0:03:05.548000" age_lower="1" age_upper="999">
 okay	-	-	-	0:03:05.097000	0:03:05.548000
 .	-	-	-	0:03:05.097000	0:03:05.548000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:05.548000" end="0:03:07.240000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:05.548000" end="0:03:07.240000" age_lower="18" age_upper="35">
 und	-	-	-	0:03:05.548000	0:03:07.240000
 habe	-	-	-	0:03:05.548000	0:03:07.240000
 viel	-	-	-	0:03:05.548000	0:03:07.240000
@@ -883,7 +883,7 @@ zur	-	-	-	0:03:05.548000	0:03:07.240000
 Zeit	-	-	-	0:03:05.548000	0:03:07.240000
 .	-	-	-	0:03:05.548000	0:03:07.240000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:07.240000" end="0:03:09.405000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:07.240000" end="0:03:09.405000" age_lower="1" age_upper="999">
 (okay)	-	-	-	0:03:07.240000	0:03:07.923000
 wie	-	-	-	0:03:07.923000	0:03:09.405000
 wie	-	-	-	0:03:07.923000	0:03:09.405000
@@ -894,10 +894,10 @@ Arbeitsalltag	-	-	-	0:03:07.923000	0:03:09.405000
 aus	-	-	-	0:03:07.923000	0:03:09.405000
 ?	-	-	-	0:03:07.923000	0:03:09.405000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:09.405000" end="0:03:10.042000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:09.405000" end="0:03:10.042000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:03:09.405000	0:03:10.042000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:09.405000" end="0:03:10.631000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:09.405000" end="0:03:10.631000" age_lower="1" age_upper="999">
 also	-	-	-	0:03:09.405000	0:03:10.042000
 wie	-	-	-	0:03:09.405000	0:03:10.042000
 kann	-	-	-	0:03:09.405000	0:03:10.042000
@@ -907,7 +907,7 @@ das	-	-	-	0:03:10.042000	0:03:10.631000
 vorstellen	-	-	-	0:03:10.042000	0:03:10.631000
 ?	-	-	-	0:03:10.042000	0:03:10.631000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:10.631000" end="0:03:25.002000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:10.631000" end="0:03:25.002000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 also	-	-	-	0:03:10.631000	0:03:13.694000
 ich	-	-	-	0:03:10.631000	0:03:13.694000
@@ -955,11 +955,11 @@ die	-	-	-	0:03:22.962000	0:03:24.400000
 Aufgabe	-	-	-	0:03:22.962000	0:03:24.400000
 an	-	-	-	0:03:22.962000	0:03:24.400000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:24.400000" end="0:03:25.002000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:24.400000" end="0:03:25.002000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:24.400000	0:03:25.002000
 .	-	-	-	0:03:24.400000	0:03:25.002000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:25.002000" end="0:03:31.152000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:25.002000" end="0:03:31.152000" age_lower="18" age_upper="35">
 mache	-	-	-	0:03:25.002000	0:03:26.385000
 ich	-	-	-	0:03:25.002000	0:03:26.385000
 Abendessen	-	-	-	0:03:25.002000	0:03:26.385000
@@ -989,7 +989,7 @@ ihnen	-	-	-	0:03:29.083000	0:03:30.630000
 (ja)	-	-	-	0:03:30.630000	0:03:31.152000
 .	-	-	-	0:03:30.630000	0:03:31.152000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:31.152000" end="0:03:34.120000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:31.152000" end="0:03:34.120000" age_lower="1" age_upper="999">
 (ähm)	-	-	-	0:03:31.152000	0:03:32.704000
 vielleicht	-	-	-	0:03:31.152000	0:03:32.704000
 haben	-	-	-	0:03:31.152000	0:03:32.704000
@@ -1010,21 +1010,21 @@ sind	-	-	-	0:03:33.386000	0:03:34.120000
 die	-	-	-	0:03:33.386000	0:03:34.120000
 ,	-	-	-	0:03:33.386000	0:03:34.120000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:34.120000" end="0:03:34.534000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:34.120000" end="0:03:34.534000" age_lower="18" age_upper="35">
 also	-	-	-	0:03:34.120000	0:03:34.534000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:34.120000" end="0:03:34.534000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:34.120000" end="0:03:34.534000" age_lower="1" age_upper="999">
 die	-	-	-	0:03:34.120000	0:03:34.534000
 Kinder	-	-	-	0:03:34.120000	0:03:34.534000
 ?	-	-	-	0:03:34.120000	0:03:34.534000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:34.534000" end="0:03:35.111000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:34.534000" end="0:03:35.111000" age_lower="18" age_upper="35">
 von	-	-	-	0:03:34.534000	0:03:35.111000
 /.	-	-	-	0:03:34.534000	0:03:35.111000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:34.534000" end="0:03:35.111000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:34.534000" end="0:03:35.111000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:35.111000" end="0:03:39.096000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:35.111000" end="0:03:39.096000" age_lower="18" age_upper="35">
 also	-	-	-	0:03:35.111000	0:03:36.785000
 ähm	-	-	-	0:03:35.111000	0:03:36.785000
 der	-	-	-	0:03:35.111000	0:03:36.785000
@@ -1042,7 +1042,7 @@ fünfzehn	-	-	-	0:03:37.748000	0:03:38.852000
 ja	-	-	-	0:03:38.852000	0:03:39.096000
 .	-	-	-	0:03:38.852000	0:03:39.096000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:39.096000" end="0:03:45.472000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:39.096000" end="0:03:45.472000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:03:39.096000	0:03:40.067000
 .	-	-	-	0:03:39.096000	0:03:40.067000
@@ -1068,11 +1068,11 @@ viel	-	-	-	0:03:43.472000	0:03:45.472000
 sprechen	-	-	-	0:03:43.472000	0:03:45.472000
 .	-	-	-	0:03:43.472000	0:03:45.472000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:45.472000" end="0:03:46.248000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:45.472000" end="0:03:46.248000" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:45.472000	0:03:46.248000
 .	-	-	-	0:03:45.472000	0:03:46.248000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:46.248000" end="0:03:48.903000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:46.248000" end="0:03:48.903000" age_lower="1" age_upper="999">
 oder	-	-	-	0:03:46.248000	0:03:48.381000
 es	-	-	-	0:03:46.248000	0:03:48.381000
 wird	-	-	-	0:03:46.248000	0:03:48.381000
@@ -1085,11 +1085,11 @@ mit	-	-	-	0:03:48.381000	0:03:48.903000
 anderen	-	-	-	0:03:48.381000	0:03:48.903000
 zu	-	-	-	0:03:48.381000	0:03:48.903000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:48.903000" end="0:03:49.727000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:48.903000" end="0:03:49.727000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:03:48.903000	0:03:49.727000
 .	-	-	-	0:03:48.903000	0:03:49.727000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:48.903000" end="0:03:51.049000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:48.903000" end="0:03:51.049000" age_lower="1" age_upper="999">
 kommunizieren	-	-	-	0:03:48.903000	0:03:49.727000
 ,	-	-	-	0:03:48.903000	0:03:49.727000
 also	-	-	-	0:03:48.903000	0:03:49.727000
@@ -1101,11 +1101,11 @@ Kindern	-	-	-	0:03:49.727000	0:03:51.049000
 sogar	-	-	-	0:03:49.727000	0:03:51.049000
 .	-	-	-	0:03:49.727000	0:03:51.049000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:51.049000" end="0:03:51.559000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:03:51.049000" end="0:03:51.559000" age_lower="18" age_upper="35">
 ja	-	-	-	0:03:51.049000	0:03:51.559000
 .	-	-	-	0:03:51.049000	0:03:51.559000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:51.559000" end="0:04:01.825000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:03:51.559000" end="0:04:01.825000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:51.559000	0:03:51.751000
 ,	-	-	-	0:03:51.559000	0:03:51.751000
 ähm	-	-	-	0:03:51.751000	0:03:52.682000
@@ -1152,18 +1152,18 @@ Leuten	-	-	-	0:03:57.714000	0:04:01.680000
 unterschiedlich	-	-	-	0:03:57.714000	0:04:01.680000
 oder	-	-	-	0:04:01.680000	0:04:01.825000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:01.825000" end="0:04:02.115000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:01.825000" end="0:04:02.115000" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:01.825000	0:04:02.115000
 .	-	-	-	0:04:01.825000	0:04:02.115000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:01.825000" end="0:04:02.749000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:01.825000" end="0:04:02.749000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:04:01.825000	0:04:02.115000
 Sie	-	-	-	0:04:02.115000	0:04:02.749000
 immer	-	-	-	0:04:02.115000	0:04:02.749000
 gleich	-	-	-	0:04:02.115000	0:04:02.749000
 ?	-	-	-	0:04:02.115000	0:04:02.749000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:02.749000" end="0:04:16.237000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:02.749000" end="0:04:16.237000" age_lower="18" age_upper="35">
 nein	-	-	-	0:04:02.749000	0:04:03.535000
 ich	-	-	-	0:04:02.749000	0:04:03.535000
 rede	-	-	-	0:04:02.749000	0:04:03.535000
@@ -1220,7 +1220,7 @@ Mundart	-	-	-	0:04:13.243000	0:04:15.970000
 ja	-	-	-	0:04:15.970000	0:04:16.237000
 .	-	-	-	0:04:15.970000	0:04:16.237000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:16.237000" end="0:04:23.969000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:16.237000" end="0:04:23.969000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:16.237000	0:04:16.714000
 .	-	-	-	0:04:16.237000	0:04:16.714000
 und	-	-	-	0:04:16.714000	0:04:18.440000
@@ -1258,18 +1258,18 @@ wahrscheinlich	-	-	-	0:04:20.567000	0:04:23.349000
 also	-	-	-	0:04:23.349000	0:04:23.969000
 versuchen	-	-	-	0:04:23.349000	0:04:23.969000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:23.969000" end="0:04:24.568000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:23.969000" end="0:04:24.568000" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:23.969000	0:04:24.568000
 wir	-	-	-	0:04:23.969000	0:04:24.568000
 lachen	-	-	-	0:04:23.969000	0:04:24.568000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:23.969000" end="0:04:24.568000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:23.969000" end="0:04:24.568000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:04:23.969000	0:04:24.568000
 das	-	-	-	0:04:23.969000	0:04:24.568000
 ander/	-	-	-	0:04:23.969000	0:04:24.568000
 /?	-	-	-	0:04:23.969000	0:04:24.568000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:24.568000" end="0:04:26.479000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:24.568000" end="0:04:26.479000" age_lower="18" age_upper="35">
 halt	-	-	-	0:04:24.568000	0:04:24.989000
 immer	-	-	-	0:04:24.568000	0:04:24.989000
 ,	-	-	-	0:04:24.568000	0:04:24.989000
@@ -1281,15 +1281,15 @@ versteht	-	-	-	0:04:24.989000	0:04:26.025000
 ,	-	-	-	0:04:24.989000	0:04:26.025000
 also	-	-	-	0:04:26.025000	0:04:26.479000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:26.025000" end="0:04:26.479000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:26.025000" end="0:04:26.479000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:26.025000	0:04:26.479000
 .	-	-	-	0:04:26.025000	0:04:26.479000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:26.479000" end="0:04:27.044000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:26.479000" end="0:04:27.044000" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:26.479000	0:04:27.044000
 .	-	-	-	0:04:26.479000	0:04:27.044000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:27.044000" end="0:04:28.252000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:27.044000" end="0:04:28.252000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:27.044000	0:04:28.252000
 mit	-	-	-	0:04:27.044000	0:04:28.252000
 den	-	-	-	0:04:27.044000	0:04:28.252000
@@ -1297,11 +1297,11 @@ anderen	-	-	-	0:04:27.044000	0:04:28.252000
 Kindern	-	-	-	0:04:27.044000	0:04:28.252000
 ?	-	-	-	0:04:27.044000	0:04:28.252000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:28.252000" end="0:04:29.615000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:28.252000" end="0:04:29.615000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 hm	-	-	-	0:04:28.252000	0:04:29.615000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:28.252000" end="0:04:31.046000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:28.252000" end="0:04:31.046000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 das	-	-	-	0:04:28.252000	0:04:29.615000
 werden	-	-	-	0:04:28.252000	0:04:29.615000
@@ -1311,21 +1311,21 @@ nicht	-	-	-	0:04:29.615000	0:04:31.046000
 ähm	-	-	-	0:04:29.615000	0:04:31.046000
 Waldviertlerkinder	-	-	-	0:04:29.615000	0:04:31.046000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:31.046000" end="0:04:31.679000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:31.046000" end="0:04:31.679000" age_lower="18" age_upper="35">
 nein	-	-	-	0:04:31.046000	0:04:31.679000
 .	-	-	-	0:04:31.046000	0:04:31.679000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:31.046000" end="0:04:31.679000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:31.046000" end="0:04:31.679000" age_lower="1" age_upper="999">
 sein	-	-	-	0:04:31.046000	0:04:31.679000
 wahrscheinlich	-	-	-	0:04:31.046000	0:04:31.679000
 ,	-	-	-	0:04:31.046000	0:04:31.679000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:31.679000" end="0:04:32.568000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:31.679000" end="0:04:32.568000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:31.679000" end="0:04:32.568000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:31.679000" end="0:04:32.568000" age_lower="1" age_upper="999">
 (also)	-	-	-	0:04:31.679000	0:04:32.568000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:32.568000" end="0:04:35.974000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:32.568000" end="0:04:35.974000" age_lower="18" age_upper="35">
 nein	-	-	-	0:04:32.568000	0:04:34.204000
 ,	-	-	-	0:04:32.568000	0:04:34.204000
 also	-	-	-	0:04:32.568000	0:04:34.204000
@@ -1343,11 +1343,11 @@ lustig	-	-	-	0:04:34.204000	0:04:35.462000
 dann	-	-	-	0:04:35.462000	0:04:35.974000
 ,	-	-	-	0:04:35.462000	0:04:35.974000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:35.462000" end="0:04:35.974000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:35.462000" end="0:04:35.974000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:35.462000	0:04:35.974000
 .	-	-	-	0:04:35.462000	0:04:35.974000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:35.974000" end="0:04:42.650000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:35.974000" end="0:04:42.650000" age_lower="18" age_upper="35">
 also	-	-	-	0:04:35.974000	0:04:37.721000
 z/	-	-	-	0:04:35.974000	0:04:37.721000
 wenn	-	-	-	0:04:35.974000	0:04:37.721000
@@ -1374,11 +1374,11 @@ so	-	-	-	0:04:40.420000	0:04:40.909000
 "Jausenbox"	-	-	-	0:04:40.909000	0:04:42.650000
 ,	-	-	-	0:04:40.909000	0:04:42.650000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:40.909000" end="0:04:42.650000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:40.909000" end="0:04:42.650000" age_lower="1" age_upper="999">
 (okay)	-	-	-	0:04:40.909000	0:04:42.650000
 .	-	-	-	0:04:40.909000	0:04:42.650000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:42.650000" end="0:04:44.653000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:42.650000" end="0:04:44.653000" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:42.650000	0:04:44.653000
 dann	-	-	-	0:04:42.650000	0:04:44.653000
 <pause duration="0,5s"/>
@@ -1388,7 +1388,7 @@ es	-	-	-	0:04:42.650000	0:04:44.653000
 eh	-	-	-	0:04:42.650000	0:04:44.653000
 .	-	-	-	0:04:42.650000	0:04:44.653000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:44.653000" end="0:04:50.190000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:44.653000" end="0:04:50.190000" age_lower="1" age_upper="999">
 okay	-	-	-	0:04:44.653000	0:04:45.385000
 .	-	-	-	0:04:44.653000	0:04:45.385000
 ähm	-	-	-	0:04:45.385000	0:04:46.927000
@@ -1411,17 +1411,17 @@ miteinander	-	-	-	0:04:46.927000	0:04:50.190000
 sprechen	-	-	-	0:04:46.927000	0:04:50.190000
 ?	-	-	-	0:04:46.927000	0:04:50.190000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:50.190000" end="0:04:51.813000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:50.190000" end="0:04:51.813000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 ja	-	-	-	0:04:50.190000	0:04:51.813000
 Mundart	-	-	-	0:04:50.190000	0:04:51.813000
 .	-	-	-	0:04:50.190000	0:04:51.813000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:51.813000" end="0:04:52.402000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:51.813000" end="0:04:52.402000" age_lower="1" age_upper="999">
 Mundart	-	-	-	0:04:51.813000	0:04:52.402000
 ?	-	-	-	0:04:51.813000	0:04:52.402000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:52.402000" end="0:04:54.169000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:52.402000" end="0:04:54.169000" age_lower="18" age_upper="35">
 ja	-	-	-	0:04:52.402000	0:04:52.827000
 oder	-	-	-	0:04:52.827000	0:04:53.468000
 dia/	-	-	-	0:04:52.827000	0:04:53.468000
@@ -1431,12 +1431,12 @@ ja	-	-	-	0:04:53.468000	0:04:54.169000
 Mundart	-	-	-	0:04:53.468000	0:04:54.169000
 .	-	-	-	0:04:53.468000	0:04:54.169000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:54.169000" end="0:04:55.081000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:54.169000" end="0:04:55.081000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 oder	-	-	-	0:04:54.169000	0:04:55.081000
 ?	-	-	-	0:04:54.169000	0:04:55.081000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:55.081000" end="0:04:56.927000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:55.081000" end="0:04:56.927000" age_lower="18" age_upper="35">
 nein	-	-	-	0:04:55.081000	0:04:55.512000
 ,	-	-	-	0:04:55.081000	0:04:55.512000
 dial/	-	-	-	0:04:55.512000	0:04:55.859000
@@ -1447,21 +1447,21 @@ ich	-	-	-	0:04:56.308000	0:04:56.927000
 sage	-	-	-	0:04:56.308000	0:04:56.927000
 ,	-	-	-	0:04:56.308000	0:04:56.927000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:56.308000" end="0:04:56.927000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:56.308000" end="0:04:56.927000" age_lower="1" age_upper="999">
 Dialekt	-	-	-	0:04:56.308000	0:04:56.927000
 (nicht)	-	-	-	0:04:56.308000	0:04:56.927000
 ?	-	-	-	0:04:56.308000	0:04:56.927000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:56.927000" end="0:04:57.341000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:56.927000" end="0:04:57.341000" age_lower="18" age_upper="35">
 "ja	-	-	-	0:04:56.927000	0:04:57.341000
 wir	-	-	-	0:04:56.927000	0:04:57.341000
 reden	-	-	-	0:04:56.927000	0:04:57.341000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:56.927000" end="0:04:57.341000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:04:56.927000" end="0:04:57.341000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:56.927000	0:04:57.341000
 .	-	-	-	0:04:56.927000	0:04:57.341000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:57.341000" end="0:05:01.048000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:04:57.341000" end="0:05:01.048000" age_lower="18" age_upper="35">
 Dialekt	-	-	-	0:04:57.341000	0:04:58.058000
 daheim"	-	-	-	0:04:57.341000	0:04:58.058000
 ,	-	-	-	0:04:57.341000	0:04:58.058000
@@ -1475,7 +1475,7 @@ also	-	-	-	0:04:59.931000	0:05:00.273000
 so	-	-	-	0:05:00.273000	0:05:01.048000
 .	-	-	-	0:05:00.273000	0:05:01.048000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:00.273000" end="0:05:03.578000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:00.273000" end="0:05:03.578000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:00.273000	0:05:01.048000
 ,	-	-	-	0:05:00.273000	0:05:01.048000
 ähm	-	-	-	0:05:01.048000	0:05:01.741000
@@ -1491,13 +1491,13 @@ einen	-	-	-	0:05:02.499000	0:05:03.578000
 Unterschied	-	-	-	0:05:02.499000	0:05:03.578000
 ?	-	-	-	0:05:02.499000	0:05:03.578000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:03.578000" end="0:05:04.667000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:03.578000" end="0:05:04.667000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 hm	-	-	-	0:05:03.578000	0:05:04.667000
 ja	-	-	-	0:05:03.578000	0:05:04.667000
 .	-	-	-	0:05:03.578000	0:05:04.667000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:03.578000" end="0:05:05.117000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:03.578000" end="0:05:05.117000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 zwischen	-	-	-	0:05:03.578000	0:05:04.667000
 Mundart	-	-	-	0:05:03.578000	0:05:04.667000
@@ -1505,7 +1505,7 @@ und	-	-	-	0:05:04.667000	0:05:05.117000
 Dialekt	-	-	-	0:05:04.667000	0:05:05.117000
 ?	-	-	-	0:05:04.667000	0:05:05.117000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:05.117000" end="0:05:12.218000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:05.117000" end="0:05:12.218000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:05:05.117000	0:05:06.435000
 ,	-	-	-	0:05:05.117000	0:05:06.435000
@@ -1548,11 +1548,11 @@ zuhause"	-	-	-	0:05:10.622000	0:05:12.218000
 ((standardnahe	-	-	-	0:05:10.622000	0:05:12.218000
 Aussprache))	-	-	-	0:05:10.622000	0:05:12.218000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:12.218000" end="0:05:12.943000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:12.218000" end="0:05:12.943000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:12.218000	0:05:12.943000
 .	-	-	-	0:05:12.218000	0:05:12.943000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:12.943000" end="0:05:16.862000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:12.943000" end="0:05:16.862000" age_lower="18" age_upper="35">
 aber	-	-	-	0:05:12.943000	0:05:14.632000
 wenn	-	-	-	0:05:12.943000	0:05:14.632000
 ich	-	-	-	0:05:12.943000	0:05:14.632000
@@ -1582,7 +1582,7 @@ Mundart"	-	-	-	0:05:15.848000	0:05:16.862000
 ((dialektale	-	-	-	0:05:15.848000	0:05:16.862000
 Aussprache))	-	-	-	0:05:15.848000	0:05:16.862000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:16.862000" end="0:05:21.555000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:16.862000" end="0:05:21.555000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 alles	-	-	-	0:05:17.955000	0:05:18.430000
 klar	-	-	-	0:05:17.955000	0:05:18.430000
@@ -1600,11 +1600,11 @@ zwischen	-	-	-	0:05:18.430000	0:05:21.555000
 Mundart	-	-	-	0:05:18.430000	0:05:21.555000
 und	-	-	-	0:05:18.430000	0:05:21.555000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:21.555000" end="0:05:22.170000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:21.555000" end="0:05:22.170000" age_lower="18" age_upper="35">
 (ah	-	-	-	0:05:21.555000	0:05:22.170000
 so)	-	-	-	0:05:21.555000	0:05:22.170000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:21.555000" end="0:05:24.358000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:21.555000" end="0:05:24.358000" age_lower="1" age_upper="999">
 Dialekt	-	-	-	0:05:21.555000	0:05:22.170000
 (sehen)	-	-	-	0:05:21.555000	0:05:22.170000
 ,	-	-	-	0:05:21.555000	0:05:22.170000
@@ -1620,10 +1620,10 @@ das	-	-	-	0:05:23.552000	0:05:24.358000
 verwenden	-	-	-	0:05:23.552000	0:05:24.358000
 ,	-	-	-	0:05:23.552000	0:05:24.358000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:24.358000" end="0:05:25.618000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:24.358000" end="0:05:25.618000" age_lower="18" age_upper="35">
 puh	-	-	-	0:05:24.358000	0:05:25.618000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:24.358000" end="0:05:28.436000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:24.358000" end="0:05:28.436000" age_lower="1" age_upper="999">
 das	-	-	-	0:05:24.358000	0:05:25.618000
 eine	-	-	-	0:05:24.358000	0:05:25.618000
 Wort	-	-	-	0:05:24.358000	0:05:25.618000
@@ -1645,7 +1645,7 @@ Wort	-	-	-	0:05:27.279000	0:05:28.436000
 "Mundart"	-	-	-	0:05:27.279000	0:05:28.436000
 ?	-	-	-	0:05:27.279000	0:05:28.436000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:28.436000" end="0:05:30.776000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:28.436000" end="0:05:30.776000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 das	-	-	-	0:05:28.436000	0:05:30.356000
 weiß	-	-	-	0:05:28.436000	0:05:30.356000
@@ -1657,11 +1657,11 @@ nicht	-	-	-	0:05:28.436000	0:05:30.356000
 das	-	-	-	0:05:30.356000	0:05:30.776000
 /.	-	-	-	0:05:30.356000	0:05:30.776000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:30.356000" end="0:05:30.776000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:30.356000" end="0:05:30.776000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:30.356000	0:05:30.776000
 .	-	-	-	0:05:30.356000	0:05:30.776000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:30.776000" end="0:05:35.070000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:30.776000" end="0:05:35.070000" age_lower="18" age_upper="35">
 weil	-	-	-	0:05:30.776000	0:05:31.770000
 ich	-	-	-	0:05:30.776000	0:05:31.770000
 das	-	-	-	0:05:30.776000	0:05:31.770000
@@ -1685,7 +1685,7 @@ halt	-	-	-	0:05:32.929000	0:05:35.070000
 gibt	-	-	-	0:05:32.929000	0:05:35.070000
 .	-	-	-	0:05:32.929000	0:05:35.070000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:35.070000" end="0:05:36.992000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:35.070000" end="0:05:36.992000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 okay	-	-	-	0:05:35.070000	0:05:35.801000
 ,	-	-	-	0:05:35.070000	0:05:35.801000
@@ -1698,7 +1698,7 @@ das	-	-	-	0:05:35.801000	0:05:36.992000
 gleich	-	-	-	0:05:35.801000	0:05:36.992000
 ,	-	-	-	0:05:35.801000	0:05:36.992000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:36.992000" end="0:05:38.140000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:36.992000" end="0:05:38.140000" age_lower="18" age_upper="35">
 ah	-	-	-	0:05:36.992000	0:05:38.140000
 so	-	-	-	0:05:36.992000	0:05:38.140000
 ja	-	-	-	0:05:36.992000	0:05:38.140000
@@ -1708,28 +1708,28 @@ ist	-	-	-	0:05:36.992000	0:05:38.140000
 für	-	-	-	0:05:36.992000	0:05:38.140000
 mich	-	-	-	0:05:36.992000	0:05:38.140000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:36.992000" end="0:05:38.140000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:36.992000" end="0:05:38.140000" age_lower="1" age_upper="999">
 Mundart	-	-	-	0:05:36.992000	0:05:38.140000
 ist	-	-	-	0:05:36.992000	0:05:38.140000
 gleich	-	-	-	0:05:36.992000	0:05:38.140000
 Dialekt	-	-	-	0:05:36.992000	0:05:38.140000
 ?	-	-	-	0:05:36.992000	0:05:38.140000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:38.140000" end="0:05:38.839000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:38.140000" end="0:05:38.839000" age_lower="18" age_upper="35">
 gleich	-	-	-	0:05:38.140000	0:05:38.534000
 ,	-	-	-	0:05:38.140000	0:05:38.534000
 ja	-	-	-	0:05:38.534000	0:05:38.839000
 ,	-	-	-	0:05:38.534000	0:05:38.839000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:38.534000" end="0:05:38.839000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:38.534000" end="0:05:38.839000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:38.534000	0:05:38.839000
 .	-	-	-	0:05:38.534000	0:05:38.839000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:38.839000" end="0:05:39.201000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:38.839000" end="0:05:39.201000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:05:38.839000	0:05:39.201000
 .	-	-	-	0:05:38.839000	0:05:39.201000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:39.201000" end="0:05:41.629000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:39.201000" end="0:05:41.629000" age_lower="1" age_upper="999">
 worauf	-	-	-	0:05:39.201000	0:05:40.766000
 einigen	-	-	-	0:05:39.201000	0:05:40.766000
 wir	-	-	-	0:05:39.201000	0:05:40.766000
@@ -1742,14 +1742,14 @@ oder	-	-	-	0:05:40.766000	0:05:41.629000
 "Dialekt"	-	-	-	0:05:40.766000	0:05:41.629000
 ?	-	-	-	0:05:40.766000	0:05:41.629000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:41.629000" end="0:05:42.888000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:41.629000" end="0:05:42.888000" age_lower="18" age_upper="35">
 na	-	-	-	0:05:41.629000	0:05:42.888000
 nehmen	-	-	-	0:05:41.629000	0:05:42.888000
 wir	-	-	-	0:05:41.629000	0:05:42.888000
 "Mundart"	-	-	-	0:05:41.629000	0:05:42.888000
 .	-	-	-	0:05:41.629000	0:05:42.888000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:42.888000" end="0:05:54.841000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:05:42.888000" end="0:05:54.841000" age_lower="1" age_upper="999">
 okay	-	-	-	0:05:42.888000	0:05:43.412000
 .	-	-	-	0:05:42.888000	0:05:43.412000
 <pause duration="3,8s"/>
@@ -1777,7 +1777,7 @@ etwas	-	-	-	0:05:53.919000	0:05:54.841000
 anderes	-	-	-	0:05:53.919000	0:05:54.841000
 ?	-	-	-	0:05:53.919000	0:05:54.841000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:54.841000" end="0:06:09.459000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:05:54.841000" end="0:06:09.459000" age_lower="18" age_upper="35">
 hm	-	-	-	0:05:54.841000	0:05:55.637000
 nein	-	-	-	0:05:55.637000	0:05:56.448000
 es	-	-	-	0:05:55.637000	0:05:56.448000
@@ -1833,7 +1833,7 @@ in	-	-	-	0:06:06.782000	0:06:09.033000
 Zwettl	-	-	-	0:06:09.033000	0:06:09.459000
 .	-	-	-	0:06:09.033000	0:06:09.459000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:09.033000" end="0:06:10.570000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:09.033000" end="0:06:10.570000" age_lower="1" age_upper="999">
 aber	-	-	-	0:06:09.033000	0:06:09.459000
 es	-	-	-	0:06:09.033000	0:06:09.459000
 ist	-	-	-	0:06:09.033000	0:06:09.459000
@@ -1843,7 +1843,7 @@ beides	-	-	-	0:06:09.459000	0:06:10.570000
 Mundart	-	-	-	0:06:09.459000	0:06:10.570000
 dann	-	-	-	0:06:09.459000	0:06:10.570000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:10.570000" end="0:06:11.749000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:10.570000" end="0:06:11.749000" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:10.570000	0:06:11.749000
 das	-	-	-	0:06:10.570000	0:06:11.749000
 schon	-	-	-	0:06:10.570000	0:06:11.749000
@@ -1852,14 +1852,14 @@ aber	-	-	-	0:06:10.570000	0:06:11.749000
 nur	-	-	-	0:06:10.570000	0:06:11.749000
 halt	-	-	-	0:06:10.570000	0:06:11.749000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:10.570000" end="0:06:11.749000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:10.570000" end="0:06:11.749000" age_lower="1" age_upper="999">
 oder	-	-	-	0:06:10.570000	0:06:11.749000
 oder	-	-	-	0:06:10.570000	0:06:11.749000
 alles	-	-	-	0:06:10.570000	0:06:11.749000
 (mun/)	-	-	-	0:06:10.570000	0:06:11.749000
 /?	-	-	-	0:06:10.570000	0:06:11.749000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:11.749000" end="0:06:13.078000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:11.749000" end="0:06:13.078000" age_lower="18" age_upper="35">
 ein	-	-	-	0:06:11.749000	0:06:12.499000
 jeder	-	-	-	0:06:11.749000	0:06:12.499000
 redet	-	-	-	0:06:11.749000	0:06:12.499000
@@ -1870,7 +1870,7 @@ anders	-	-	-	0:06:12.499000	0:06:13.078000
 ja	-	-	-	0:06:12.499000	0:06:13.078000
 .	-	-	-	0:06:12.499000	0:06:13.078000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:12.499000" end="0:06:16.647000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:12.499000" end="0:06:16.647000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:12.499000	0:06:13.078000
 .	-	-	-	0:06:12.499000	0:06:13.078000
 <pause duration="0,8s"/>
@@ -1885,7 +1885,7 @@ Allentsteiger	-	-	-	0:06:14.200000	0:06:16.647000
 Mundart	-	-	-	0:06:14.200000	0:06:16.647000
 ?	-	-	-	0:06:14.200000	0:06:16.647000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:16.647000" end="0:06:19.101000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:16.647000" end="0:06:19.101000" age_lower="18" age_upper="35">
 (ja)	-	-	-	0:06:16.647000	0:06:17.750000
 ich	-	-	-	0:06:16.647000	0:06:17.750000
 meine	-	-	-	0:06:16.647000	0:06:17.750000
@@ -1900,7 +1900,7 @@ kann	-	-	-	0:06:17.750000	0:06:19.101000
 ja	-	-	-	0:06:17.750000	0:06:19.101000
 .	-	-	-	0:06:17.750000	0:06:19.101000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:19.101000" end="0:06:24.465000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:19.101000" end="0:06:24.465000" age_lower="1" age_upper="999">
 dann	-	-	-	0:06:19.101000	0:06:20.103000
 bitte	-	-	-	0:06:19.101000	0:06:20.103000
 ich	-	-	-	0:06:19.101000	0:06:20.103000
@@ -1923,15 +1923,15 @@ Mundart	-	-	-	0:06:22.336000	0:06:24.465000
 von	-	-	-	0:06:22.336000	0:06:24.465000
 Allentsteig	-	-	-	0:06:22.336000	0:06:24.465000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:24.465000" end="0:06:25.007000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:24.465000" end="0:06:25.007000" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:24.465000	0:06:25.007000
 ,	-	-	-	0:06:24.465000	0:06:25.007000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:24.465000" end="0:06:25.007000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:24.465000" end="0:06:25.007000" age_lower="1" age_upper="999">
 beherrschen	-	-	-	0:06:24.465000	0:06:25.007000
 .	-	-	-	0:06:24.465000	0:06:25.007000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:25.007000" end="0:06:28.115000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:25.007000" end="0:06:28.115000" age_lower="18" age_upper="35">
 die	-	-	-	0:06:25.007000	0:06:25.656000
 kann	-	-	-	0:06:25.007000	0:06:25.656000
 ich	-	-	-	0:06:25.007000	0:06:25.656000
@@ -1940,17 +1940,17 @@ ja	-	-	-	0:06:25.656000	0:06:25.926000
 .	-	-	-	0:06:25.656000	0:06:25.926000
 <pause duration="2,2s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:25.926000" end="0:06:28.115000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:25.926000" end="0:06:28.115000" age_lower="1" age_upper="999">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:28.115000" end="0:06:28.897000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:28.115000" end="0:06:28.897000" age_lower="18" age_upper="35">
 muss	-	-	-	0:06:28.115000	0:06:28.897000
 ich	-	-	-	0:06:28.115000	0:06:28.897000
 jetzt	-	-	-	0:06:28.115000	0:06:28.897000
 umblättern	-	-	-	0:06:28.115000	0:06:28.897000
 ?	-	-	-	0:06:28.115000	0:06:28.897000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:28.897000" end="0:06:31.831000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:28.897000" end="0:06:31.831000" age_lower="1" age_upper="999">
 nein	-	-	-	0:06:28.897000	0:06:29.839000
 Sie	-	-	-	0:06:28.897000	0:06:29.839000
 zeigen	-	-	-	0:06:28.897000	0:06:29.839000
@@ -1965,11 +1965,11 @@ haben	-	-	-	0:06:30.331000	0:06:31.831000
 angekreuzt	-	-	-	0:06:30.331000	0:06:31.831000
 "vollständig"	-	-	-	0:06:30.331000	0:06:31.831000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:31.831000" end="0:06:32.316000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:31.831000" end="0:06:32.316000" age_lower="18" age_upper="35">
 ja	-	-	-	0:06:31.831000	0:06:32.316000
 .	-	-	-	0:06:31.831000	0:06:32.316000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:31.831000" end="0:06:34.532000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:31.831000" end="0:06:34.532000" age_lower="1" age_upper="999">
 quasi	-	-	-	0:06:31.831000	0:06:32.316000
 ,	-	-	-	0:06:31.831000	0:06:32.316000
 das	-	-	-	0:06:32.316000	0:06:32.606000
@@ -1985,7 +1985,7 @@ es	-	-	-	0:06:33.146000	0:06:34.532000
 keine	-	-	-	0:06:33.146000	0:06:34.532000
 ,	-	-	-	0:06:33.146000	0:06:34.532000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:34.532000" end="0:06:35.707000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:34.532000" end="0:06:35.707000" age_lower="18" age_upper="35">
 nein	-	-	-	0:06:34.532000	0:06:35.707000
 ,	-	-	-	0:06:34.532000	0:06:35.707000
 da	-	-	-	0:06:34.532000	0:06:35.707000
@@ -1993,14 +1993,14 @@ gibt	-	-	-	0:06:34.532000	0:06:35.707000
 es	-	-	-	0:06:34.532000	0:06:35.707000
 /.	-	-	-	0:06:34.532000	0:06:35.707000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:34.532000" end="0:06:35.707000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:34.532000" end="0:06:35.707000" age_lower="1" age_upper="999">
 die	-	-	-	0:06:34.532000	0:06:35.707000
 das	-	-	-	0:06:34.532000	0:06:35.707000
 besser	-	-	-	0:06:34.532000	0:06:35.707000
 können	-	-	-	0:06:34.532000	0:06:35.707000
 ?	-	-	-	0:06:34.532000	0:06:35.707000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:35.707000" end="0:06:37.384000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:35.707000" end="0:06:37.384000" age_lower="18" age_upper="35">
 naja	-	-	-	0:06:35.707000	0:06:37.384000
 ,	-	-	-	0:06:35.707000	0:06:37.384000
 ich	-	-	-	0:06:35.707000	0:06:37.384000
@@ -2008,7 +2008,7 @@ ich	-	-	-	0:06:35.707000	0:06:37.384000
 nicht	-	-	-	0:06:35.707000	0:06:37.384000
 .	-	-	-	0:06:35.707000	0:06:37.384000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:35.707000" end="0:06:40.331000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:35.707000" end="0:06:40.331000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 gut	-	-	-	0:06:37.384000	0:06:38.955000
 ,	-	-	-	0:06:37.384000	0:06:38.955000
@@ -2021,14 +2021,14 @@ umgeblättert	-	-	-	0:06:38.955000	0:06:40.331000
 oder	-	-	-	0:06:38.955000	0:06:40.331000
 ?	-	-	-	0:06:38.955000	0:06:40.331000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:40.331000" end="0:06:41.554000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:40.331000" end="0:06:41.554000" age_lower="18" age_upper="35">
 (ähm)	-	-	-	0:06:40.331000	0:06:41.123000
 jetzt	-	-	-	0:06:40.331000	0:06:41.123000
 ,	-	-	-	0:06:40.331000	0:06:41.123000
 ja	-	-	-	0:06:41.123000	0:06:41.554000
 .	-	-	-	0:06:41.123000	0:06:41.554000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:41.123000" end="0:06:44.515000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:41.123000" end="0:06:44.515000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:41.123000	0:06:41.554000
 ,	-	-	-	0:06:41.123000	0:06:41.554000
 ähm	-	-	-	0:06:41.554000	0:06:43.020000
@@ -2051,17 +2051,17 @@ müssen	-	-	-	0:06:43.628000	0:06:44.515000
 Sie	-	-	-	0:06:43.628000	0:06:44.515000
 ,	-	-	-	0:06:43.628000	0:06:44.515000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:44.515000" end="0:06:44.966000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:44.515000" end="0:06:44.966000" age_lower="18" age_upper="35">
 okay	-	-	-	0:06:44.515000	0:06:44.966000
 .	-	-	-	0:06:44.515000	0:06:44.966000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:44.515000" end="0:06:44.966000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:44.515000" end="0:06:44.966000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:44.515000	0:06:44.966000
 ,	-	-	-	0:06:44.515000	0:06:44.966000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:44.966000" end="0:06:45.988000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:44.966000" end="0:06:45.988000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:44.966000" end="0:06:51.026000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:44.966000" end="0:06:51.026000" age_lower="1" age_upper="999">
 dann	-	-	-	0:06:45.988000	0:06:48.138000
 tragen	-	-	-	0:06:45.988000	0:06:48.138000
 Sie	-	-	-	0:06:45.988000	0:06:48.138000
@@ -2085,7 +2085,7 @@ verstehen	-	-	-	0:06:48.138000	0:06:51.026000
 können	-	-	-	0:06:48.138000	0:06:51.026000
 .	-	-	-	0:06:48.138000	0:06:51.026000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:51.026000" end="0:06:52.707000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:51.026000" end="0:06:52.707000" age_lower="18" age_upper="35">
 (na)	-	-	-	0:06:51.026000	0:06:52.114000
 verstehen	-	-	-	0:06:51.026000	0:06:52.114000
 kann	-	-	-	0:06:51.026000	0:06:52.114000
@@ -2096,30 +2096,30 @@ auch	-	-	-	0:06:51.026000	0:06:52.114000
 ja	-	-	-	0:06:52.114000	0:06:52.707000
 .	-	-	-	0:06:52.114000	0:06:52.707000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:52.114000" end="0:06:52.707000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:52.114000" end="0:06:52.707000" age_lower="1" age_upper="999">
 okay	-	-	-	0:06:52.114000	0:06:52.707000
 .	-	-	-	0:06:52.114000	0:06:52.707000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:52.707000" end="0:06:54.308000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:52.707000" end="0:06:54.308000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:52.707000" end="0:06:54.894000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:52.707000" end="0:06:54.894000" age_lower="1" age_upper="999">
 <pause duration="1,6s"/>
 okay	-	-	-	0:06:54.308000	0:06:54.894000
 .	-	-	-	0:06:54.308000	0:06:54.894000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:54.894000" end="0:06:57.519000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:54.894000" end="0:06:57.519000" age_lower="18" age_upper="35">
 <pause duration="2,6s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:54.894000" end="0:06:57.714000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:54.894000" end="0:06:57.714000" age_lower="1" age_upper="999">
 <pause duration="2,6s"/>
 gut	-	-	-	0:06:57.519000	0:06:57.714000
 ,	-	-	-	0:06:57.519000	0:06:57.714000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:57.714000" end="0:06:58.024000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:06:57.714000" end="0:06:58.024000" age_lower="18" age_upper="35">
 (mhm)	-	-	-	0:06:57.714000	0:06:58.024000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:57.714000" end="0:07:03.669000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:06:57.714000" end="0:07:03.669000" age_lower="1" age_upper="999">
 das	-	-	-	0:06:57.714000	0:06:58.024000
 heißt	-	-	-	0:06:57.714000	0:06:58.024000
 ,	-	-	-	0:06:57.714000	0:06:58.024000
@@ -2145,22 +2145,22 @@ Beispiel	-	-	-	0:06:58.024000	0:07:03.669000
 in	-	-	-	0:06:58.024000	0:07:03.669000
 Allen/	-	-	-	0:06:58.024000	0:07:03.669000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:03.669000" end="0:07:04.131000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:03.669000" end="0:07:04.131000" age_lower="18" age_upper="35">
 nein	-	-	-	0:07:03.669000	0:07:04.131000
 ,	-	-	-	0:07:03.669000	0:07:04.131000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:03.669000" end="0:07:04.131000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:03.669000" end="0:07:04.131000" age_lower="1" age_upper="999">
 Allentsteig	-	-	-	0:07:03.669000	0:07:04.131000
 ?	-	-	-	0:07:03.669000	0:07:04.131000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:04.131000" end="0:07:04.995000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:04.131000" end="0:07:04.995000" age_lower="18" age_upper="35">
 gar	-	-	-	0:07:04.131000	0:07:04.516000
 nicht	-	-	-	0:07:04.131000	0:07:04.516000
 ,	-	-	-	0:07:04.131000	0:07:04.516000
 mm	-	-	-	0:07:04.516000	0:07:04.995000
 .	-	-	-	0:07:04.516000	0:07:04.995000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:04.516000" end="0:07:12.768000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:04.516000" end="0:07:12.768000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:04.516000	0:07:04.995000
 .	-	-	-	0:07:04.516000	0:07:04.995000
 <pause duration="1,1s"/>
@@ -2177,25 +2177,25 @@ sich	-	-	-	0:07:09.556000	0:07:12.768000
 und	-	-	-	0:07:09.556000	0:07:12.768000
 jetzt	-	-	-	0:07:09.556000	0:07:12.768000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:12.768000" end="0:07:13.563000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:12.768000" end="0:07:13.563000" age_lower="18" age_upper="35">
 hm	-	-	-	0:07:12.768000	0:07:13.563000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:12.768000" end="0:07:15.008000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:12.768000" end="0:07:15.008000" age_lower="1" age_upper="999">
 wirklich	-	-	-	0:07:12.768000	0:07:13.563000
 eine(n)	-	-	-	0:07:12.768000	0:07:13.563000
 einem	-	-	-	0:07:12.768000	0:07:13.563000
 alteingesessenen	-	-	-	0:07:13.563000	0:07:15.008000
 Allentsteiger	-	-	-	0:07:13.563000	0:07:15.008000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:15.008000" end="0:07:15.538000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:15.008000" end="0:07:15.538000" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:15.008000	0:07:15.538000
 ,	-	-	-	0:07:15.008000	0:07:15.538000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:15.008000" end="0:07:15.538000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:15.008000" end="0:07:15.538000" age_lower="1" age_upper="999">
 vielleicht	-	-	-	0:07:15.008000	0:07:15.538000
 ?	-	-	-	0:07:15.008000	0:07:15.538000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:15.538000" end="0:07:33.576000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:15.538000" end="0:07:33.576000" age_lower="18" age_upper="35">
 also	-	-	-	0:07:15.538000	0:07:17.654000
 <pause duration="0,8s"/>
 die	-	-	-	0:07:15.538000	0:07:17.654000
@@ -2266,7 +2266,7 @@ darauf	-	-	-	0:07:32.290000	0:07:33.576000
 an	-	-	-	0:07:32.290000	0:07:33.576000
 .	-	-	-	0:07:32.290000	0:07:33.576000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:33.576000" end="0:07:35.358000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:33.576000" end="0:07:35.358000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:33.576000	0:07:33.919000
 ,	-	-	-	0:07:33.576000	0:07:33.919000
 aber	-	-	-	0:07:33.919000	0:07:35.358000
@@ -2279,22 +2279,22 @@ gleiche	-	-	-	0:07:33.919000	0:07:35.358000
 dann	-	-	-	0:07:33.919000	0:07:35.358000
 ,	-	-	-	0:07:33.919000	0:07:35.358000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:35.358000" end="0:07:35.955000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:35.358000" end="0:07:35.955000" age_lower="18" age_upper="35">
 im	-	-	-	0:07:35.358000	0:07:35.955000
 Grunde	-	-	-	0:07:35.358000	0:07:35.955000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:35.358000" end="0:07:35.955000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:35.358000" end="0:07:35.955000" age_lower="1" age_upper="999">
 also	-	-	-	0:07:35.358000	0:07:35.955000
 das	-	-	-	0:07:35.358000	0:07:35.955000
 /?	-	-	-	0:07:35.358000	0:07:35.955000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:35.955000" end="0:07:36.492000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:35.955000" end="0:07:36.492000" age_lower="18" age_upper="35">
 schon	-	-	-	0:07:35.955000	0:07:36.492000
 ,	-	-	-	0:07:35.955000	0:07:36.492000
 ja	-	-	-	0:07:35.955000	0:07:36.492000
 .	-	-	-	0:07:35.955000	0:07:36.492000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:35.955000" end="0:07:40.777000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:35.955000" end="0:07:40.777000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:35.955000	0:07:36.492000
 .	-	-	-	0:07:35.955000	0:07:36.492000
 <pause duration="1,4s"/>
@@ -2314,12 +2314,12 @@ nicht	-	-	-	0:07:38.282000	0:07:40.777000
 mehr	-	-	-	0:07:38.282000	0:07:40.777000
 ,	-	-	-	0:07:38.282000	0:07:40.777000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:40.777000" end="0:07:41.917000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:40.777000" end="0:07:41.917000" age_lower="18" age_upper="35">
 ja	-	-	-	0:07:40.777000	0:07:41.471000
 also	-	-	-	0:07:41.471000	0:07:41.917000
 /.	-	-	-	0:07:41.471000	0:07:41.917000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:41.471000" end="0:07:42.875000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:41.471000" end="0:07:42.875000" age_lower="1" age_upper="999">
 fällt	-	-	-	0:07:41.471000	0:07:41.917000
 Ihnen	-	-	-	0:07:41.471000	0:07:41.917000
 ein	-	-	-	0:07:41.917000	0:07:42.875000
@@ -2329,7 +2329,7 @@ ein	-	-	-	0:07:41.917000	0:07:42.875000
 irgendeines	-	-	-	0:07:41.917000	0:07:42.875000
 ?	-	-	-	0:07:41.917000	0:07:42.875000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:42.875000" end="0:07:49.537000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:42.875000" end="0:07:49.537000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 na	-	-	-	0:07:42.875000	0:07:47.281000
 also	-	-	-	0:07:42.875000	0:07:47.281000
@@ -2352,22 +2352,22 @@ schon	-	-	-	0:07:47.281000	0:07:49.075000
 ,	-	-	-	0:07:47.281000	0:07:49.075000
 also	-	-	-	0:07:49.075000	0:07:49.537000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:49.075000" end="0:07:49.774000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:49.075000" end="0:07:49.774000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:49.075000	0:07:49.537000
 ,	-	-	-	0:07:49.075000	0:07:49.537000
 okay	-	-	-	0:07:49.537000	0:07:49.774000
 ,	-	-	-	0:07:49.537000	0:07:49.774000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:49.774000" end="0:07:50.284000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:49.774000" end="0:07:50.284000" age_lower="18" age_upper="35">
 ich	-	-	-	0:07:49.774000	0:07:50.284000
 verwende	-	-	-	0:07:49.774000	0:07:50.284000
 es	-	-	-	0:07:49.774000	0:07:50.284000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:49.774000" end="0:07:50.284000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:49.774000" end="0:07:50.284000" age_lower="1" age_upper="999">
 okay	-	-	-	0:07:49.774000	0:07:50.284000
 .	-	-	-	0:07:49.774000	0:07:50.284000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:50.284000" end="0:07:51.590000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:50.284000" end="0:07:51.590000" age_lower="18" age_upper="35">
 halt	-	-	-	0:07:50.284000	0:07:50.567000
 nicht	-	-	-	0:07:50.284000	0:07:50.567000
 ,	-	-	-	0:07:50.284000	0:07:50.567000
@@ -2381,7 +2381,7 @@ schon	-	-	-	0:07:50.567000	0:07:51.390000
 ja	-	-	-	0:07:51.390000	0:07:51.590000
 .	-	-	-	0:07:51.390000	0:07:51.590000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:51.590000" end="0:07:55.965000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:07:51.590000" end="0:07:55.965000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:51.590000	0:07:52.011000
 .	-	-	-	0:07:51.590000	0:07:52.011000
 <pause duration="0,7s"/>
@@ -2406,7 +2406,7 @@ so	-	-	-	0:07:55.332000	0:07:55.965000
 ist	-	-	-	0:07:55.332000	0:07:55.965000
 ?	-	-	-	0:07:55.332000	0:07:55.965000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:55.965000" end="0:08:13.169000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:07:55.965000" end="0:08:13.169000" age_lower="18" age_upper="35">
 hm	-	-	-	0:07:55.965000	0:07:56.872000
 puh	-	-	-	0:07:55.965000	0:07:56.872000
 ja	-	-	-	0:07:56.872000	0:07:58.564000
@@ -2467,16 +2467,16 @@ also	-	-	-	0:08:11.984000	0:08:12.899000
 einfach	-	-	-	0:08:12.899000	0:08:13.169000
 /.	-	-	-	0:08:12.899000	0:08:13.169000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:12.899000" end="0:08:13.800000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:12.899000" end="0:08:13.800000" age_lower="1" age_upper="999">
 darüber	-	-	-	0:08:12.899000	0:08:13.169000
 sprechen	-	-	-	0:08:13.169000	0:08:13.800000
 wir	-	-	-	0:08:13.169000	0:08:13.800000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:13.800000" end="0:08:14.181000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:13.800000" end="0:08:14.181000" age_lower="18" age_upper="35">
 okay	-	-	-	0:08:13.800000	0:08:14.181000
 .	-	-	-	0:08:13.800000	0:08:14.181000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:13.800000" end="0:08:19.707000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:13.800000" end="0:08:19.707000" age_lower="1" age_upper="999">
 dann	-	-	-	0:08:13.800000	0:08:14.181000
 noch	-	-	-	0:08:13.800000	0:08:14.181000
 im	-	-	-	0:08:14.181000	0:08:14.917000
@@ -2509,18 +2509,18 @@ gerne	-	-	-	0:08:18.226000	0:08:19.707000
 Mundart	-	-	-	0:08:18.226000	0:08:19.707000
 ?	-	-	-	0:08:18.226000	0:08:19.707000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:19.707000" end="0:08:21.037000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:19.707000" end="0:08:21.037000" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:19.707000	0:08:21.037000
 .	-	-	-	0:08:19.707000	0:08:21.037000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:19.707000" end="0:08:21.037000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:19.707000" end="0:08:21.037000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:19.707000	0:08:21.037000
 .	-	-	-	0:08:19.707000	0:08:21.037000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:21.037000" end="0:08:24.590000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:21.037000" end="0:08:24.590000" age_lower="18" age_upper="35">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:21.037000" end="0:08:32.857000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:21.037000" end="0:08:32.857000" age_lower="1" age_upper="999">
 <pause duration="3,6s"/>
 so	-	-	-	0:08:24.590000	0:08:24.998000
 .	-	-	-	0:08:24.590000	0:08:24.998000
@@ -2557,7 +2557,7 @@ Mundart	-	-	-	0:08:31.413000	0:08:32.857000
 spreche	-	-	-	0:08:31.413000	0:08:32.857000
 ?	-	-	-	0:08:31.413000	0:08:32.857000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:32.857000" end="0:08:34.582000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:32.857000" end="0:08:34.582000" age_lower="18" age_upper="35">
 immer	-	-	-	0:08:32.857000	0:08:33.582000
 ,	-	-	-	0:08:32.857000	0:08:33.582000
 also	-	-	-	0:08:33.582000	0:08:34.582000
@@ -2566,11 +2566,11 @@ ist	-	-	-	0:08:33.582000	0:08:34.582000
 untypisch	-	-	-	0:08:33.582000	0:08:34.582000
 ,	-	-	-	0:08:33.582000	0:08:34.582000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:33.582000" end="0:08:34.582000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:33.582000" end="0:08:34.582000" age_lower="1" age_upper="999">
 immer	-	-	-	0:08:33.582000	0:08:34.582000
 .	-	-	-	0:08:33.582000	0:08:34.582000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:34.582000" end="0:08:35.597000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:34.582000" end="0:08:35.597000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:08:34.582000	0:08:35.159000
 ich	-	-	-	0:08:34.582000	0:08:35.159000
 es	-	-	-	0:08:34.582000	0:08:35.159000
@@ -2580,7 +2580,7 @@ tue	-	-	-	0:08:35.159000	0:08:35.597000
 ja	-	-	-	0:08:35.159000	0:08:35.597000
 .	-	-	-	0:08:35.159000	0:08:35.597000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:35.159000" end="0:08:38.034000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:35.159000" end="0:08:38.034000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:35.159000	0:08:35.597000
 ,	-	-	-	0:08:35.159000	0:08:35.597000
 das	-	-	-	0:08:35.597000	0:08:35.980000
@@ -2596,7 +2596,7 @@ Normalzustand	-	-	-	0:08:35.980000	0:08:37.340000
 quasi	-	-	-	0:08:37.340000	0:08:38.034000
 Mundart	-	-	-	0:08:37.340000	0:08:38.034000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:38.034000" end="0:08:39.376000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:38.034000" end="0:08:39.376000" age_lower="18" age_upper="35">
 ja	-	-	-	0:08:38.034000	0:08:38.433000
 ,	-	-	-	0:08:38.034000	0:08:38.433000
 auf	-	-	-	0:08:38.433000	0:08:39.376000
@@ -2604,7 +2604,7 @@ jeden	-	-	-	0:08:38.433000	0:08:39.376000
 Fall	-	-	-	0:08:38.433000	0:08:39.376000
 .	-	-	-	0:08:38.433000	0:08:39.376000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:38.433000" end="0:08:47.387000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:38.433000" end="0:08:47.387000" age_lower="1" age_upper="999">
 zu	-	-	-	0:08:38.433000	0:08:39.376000
 sprechen	-	-	-	0:08:38.433000	0:08:39.376000
 ?	-	-	-	0:08:38.433000	0:08:39.376000
@@ -2642,7 +2642,7 @@ oder	-	-	-	0:08:46.360000	0:08:47.387000
 doch	-	-	-	0:08:46.360000	0:08:47.387000
 ?	-	-	-	0:08:46.360000	0:08:47.387000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:47.387000" end="0:08:50.801000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:47.387000" end="0:08:50.801000" age_lower="18" age_upper="35">
 hm	-	-	-	0:08:47.387000	0:08:48.331000
 ja	-	-	-	0:08:48.331000	0:08:50.220000
 bei	-	-	-	0:08:48.331000	0:08:50.220000
@@ -2658,7 +2658,7 @@ nicht	-	-	-	0:08:48.331000	0:08:50.220000
 aber	-	-	-	0:08:50.220000	0:08:50.801000
 /.	-	-	-	0:08:50.220000	0:08:50.801000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:50.220000" end="0:08:56.165000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:50.220000" end="0:08:56.165000" age_lower="1" age_upper="999">
 okay	-	-	-	0:08:50.220000	0:08:50.801000
 ,	-	-	-	0:08:50.220000	0:08:50.801000
 gut	-	-	-	0:08:50.801000	0:08:52.245000
@@ -2682,11 +2682,11 @@ Woche	-	-	-	0:08:53.962000	0:08:56.165000
 vorstellen	-	-	-	0:08:53.962000	0:08:56.165000
 ,	-	-	-	0:08:53.962000	0:08:56.165000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:56.165000" end="0:08:56.961000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:56.165000" end="0:08:56.961000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:08:56.165000	0:08:56.961000
 .	-	-	-	0:08:56.165000	0:08:56.961000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:56.165000" end="0:08:58.521000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:56.165000" end="0:08:58.521000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:08:56.165000	0:08:56.961000
 da	-	-	-	0:08:56.165000	0:08:56.961000
 da	-	-	-	0:08:56.961000	0:08:58.521000
@@ -2699,11 +2699,11 @@ Skala	-	-	-	0:08:56.961000	0:08:58.521000
 Nummer	-	-	-	0:08:56.961000	0:08:58.521000
 drei	-	-	-	0:08:56.961000	0:08:58.521000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:58.521000" end="0:08:59.346000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:08:58.521000" end="0:08:59.346000" age_lower="18" age_upper="35">
 okay	-	-	-	0:08:58.521000	0:08:59.346000
 .	-	-	-	0:08:58.521000	0:08:59.346000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:58.521000" end="0:09:02.579000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:08:58.521000" end="0:09:02.579000" age_lower="1" age_upper="999">
 umblättern	-	-	-	0:08:58.521000	0:08:59.346000
 ,	-	-	-	0:08:58.521000	0:08:59.346000
 <pause duration="1,0s"/>
@@ -2715,10 +2715,10 @@ Sie	-	-	-	0:09:00.353000	0:09:02.579000
 dann	-	-	-	0:09:00.353000	0:09:02.579000
 Mundart	-	-	-	0:09:00.353000	0:09:02.579000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:02.579000" end="0:09:03.356000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:02.579000" end="0:09:03.356000" age_lower="18" age_upper="35">
 immer	-	-	-	0:09:02.579000	0:09:03.356000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:02.579000" end="0:09:05.150000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:02.579000" end="0:09:05.150000" age_lower="1" age_upper="999">
 von	-	-	-	0:09:02.579000	0:09:03.356000
 de/	-	-	-	0:09:03.356000	0:09:03.687000
 /.	-	-	-	0:09:03.356000	0:09:03.687000
@@ -2730,13 +2730,13 @@ quasi	-	-	-	0:09:03.687000	0:09:04.949000
 ,	-	-	-	0:09:03.687000	0:09:04.949000
 ja	-	-	-	0:09:04.949000	0:09:05.150000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:05.150000" end="0:09:05.831000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:05.150000" end="0:09:05.831000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:05.150000	0:09:05.831000
 ,	-	-	-	0:09:05.150000	0:09:05.831000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:05.150000" end="0:09:05.831000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:05.150000" end="0:09:05.831000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:05.831000" end="0:09:07.736000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:05.831000" end="0:09:07.736000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 nein	-	-	-	0:09:05.831000	0:09:07.449000
 eigentlich	-	-	-	0:09:05.831000	0:09:07.449000
@@ -2745,11 +2745,11 @@ immer	-	-	-	0:09:05.831000	0:09:07.449000
 ja	-	-	-	0:09:07.449000	0:09:07.736000
 ,	-	-	-	0:09:07.449000	0:09:07.736000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:07.736000" end="0:09:08.027000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:07.736000" end="0:09:08.027000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:07.736000	0:09:08.027000
 .	-	-	-	0:09:07.736000	0:09:08.027000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:08.027000" end="0:09:12.623000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:08.027000" end="0:09:12.623000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 außer	-	-	-	0:09:09.340000	0:09:10.490000
 irgendwer	-	-	-	0:09:09.340000	0:09:10.490000
@@ -2772,7 +2772,7 @@ fertig	-	-	-	0:09:11.691000	0:09:12.233000
 ja	-	-	-	0:09:12.233000	0:09:12.623000
 .	-	-	-	0:09:12.233000	0:09:12.623000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:12.233000" end="0:09:22.056000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:12.233000" end="0:09:22.056000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:12.233000	0:09:12.623000
 .	-	-	-	0:09:12.233000	0:09:12.623000
 <pause duration="2,8s"/>
@@ -2805,11 +2805,11 @@ doch	-	-	-	0:09:21.582000	0:09:21.885000
 Sie	-	-	-	0:09:21.885000	0:09:22.056000
 haben	-	-	-	0:09:21.885000	0:09:22.056000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:22.056000" end="0:09:23.105000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:22.056000" end="0:09:23.105000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:22.056000	0:09:23.105000
 .	-	-	-	0:09:22.056000	0:09:23.105000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:22.056000" end="0:09:25.105000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:22.056000" end="0:09:25.105000" age_lower="1" age_upper="999">
 gesagt	-	-	-	0:09:22.056000	0:09:23.105000
 ,	-	-	-	0:09:22.056000	0:09:23.105000
 die	-	-	-	0:09:22.056000	0:09:23.105000
@@ -2828,19 +2828,19 @@ nicht	-	-	-	0:09:23.105000	0:09:25.105000
 tun	-	-	-	0:09:23.105000	0:09:25.105000
 ,	-	-	-	0:09:23.105000	0:09:25.105000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:25.105000" end="0:09:25.627000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:25.105000" end="0:09:25.627000" age_lower="18" age_upper="35">
 also	-	-	-	0:09:25.105000	0:09:25.627000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:25.105000" end="0:09:25.627000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:25.105000" end="0:09:25.627000" age_lower="1" age_upper="999">
 nein	-	-	-	0:09:25.105000	0:09:25.627000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:25.627000" end="0:09:26.138000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:25.627000" end="0:09:26.138000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:25.627000	0:09:26.138000
 also	-	-	-	0:09:25.627000	0:09:26.138000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:25.627000" end="0:09:26.138000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:25.627000" end="0:09:26.138000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:26.138000" end="0:09:27.815000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:26.138000" end="0:09:27.815000" age_lower="18" age_upper="35">
 täte	-	-	??	0:09:26.138000	0:09:27.428000
 ich	-	-	-	0:09:26.138000	0:09:27.428000
 jetzt	-	-	-	0:09:26.138000	0:09:27.428000
@@ -2851,22 +2851,22 @@ tun	-	-	??	0:09:26.138000	0:09:27.428000
 sagen	-	-	-	0:09:27.428000	0:09:27.815000
 wir	-	-	-	0:09:27.428000	0:09:27.815000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:27.428000" end="0:09:27.815000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:27.428000" end="0:09:27.815000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:27.428000	0:09:27.815000
 .	-	-	-	0:09:27.428000	0:09:27.815000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:27.815000" end="0:09:28.255000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:27.815000" end="0:09:28.255000" age_lower="18" age_upper="35">
 so	-	-	-	0:09:27.815000	0:09:28.255000
 .	-	-	-	0:09:27.815000	0:09:28.255000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:28.255000" end="0:09:30.189000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:28.255000" end="0:09:30.189000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 ähm	-	-	-	0:09:28.255000	0:09:30.189000
 warum	-	-	-	0:09:28.255000	0:09:30.189000
 nicht	-	-	-	0:09:28.255000	0:09:30.189000
 ?	-	-	-	0:09:28.255000	0:09:30.189000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:30.189000" end="0:09:33.276000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:30.189000" end="0:09:33.276000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:09:30.189000	0:09:33.276000
 weil	-	-	-	0:09:30.189000	0:09:33.276000
@@ -2879,58 +2879,58 @@ Note	-	-	-	0:09:30.189000	0:09:33.276000
 kriegt	-	-	-	0:09:30.189000	0:09:33.276000
 .	-	-	-	0:09:30.189000	0:09:33.276000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:33.276000" end="0:09:34.266000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:33.276000" end="0:09:34.266000" age_lower="1" age_upper="999">
 da/	-	-	-	0:09:33.276000	0:09:34.266000
 tatsächlich	-	-	-	0:09:33.276000	0:09:34.266000
 ?	-	-	-	0:09:33.276000	0:09:34.266000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:34.266000" end="0:09:34.662000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:34.266000" end="0:09:34.662000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:09:34.266000	0:09:34.662000
 .	-	-	-	0:09:34.266000	0:09:34.662000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:34.662000" end="0:09:35.245000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:34.662000" end="0:09:35.245000" age_lower="1" age_upper="999">
 wieso	-	-	-	0:09:34.662000	0:09:35.245000
 das	-	-	-	0:09:34.662000	0:09:35.245000
 ?	-	-	-	0:09:34.662000	0:09:35.245000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:35.245000" end="0:09:36.687000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:35.245000" end="0:09:36.687000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:35.245000	0:09:36.687000
 weil	-	-	-	0:09:35.245000	0:09:36.687000
 das	-	-	-	0:09:35.245000	0:09:36.687000
 nicht	-	-	-	0:09:35.245000	0:09:36.687000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:36.687000" end="0:09:37.344000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:36.687000" end="0:09:37.344000" age_lower="1" age_upper="999">
 also	-	-	-	0:09:36.687000	0:09:37.344000
 ist	-	-	-	0:09:36.687000	0:09:37.344000
 das	-	-	-	0:09:36.687000	0:09:37.344000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:37.344000" end="0:09:38.277000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:37.344000" end="0:09:38.277000" age_lower="18" age_upper="35">
 Standard	-	-	-	0:09:37.344000	0:09:38.277000
 ist	-	-	-	0:09:37.344000	0:09:38.277000
 .	-	-	-	0:09:37.344000	0:09:38.277000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:37.344000" end="0:09:38.277000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:37.344000" end="0:09:38.277000" age_lower="1" age_upper="999">
 e/	-	-	-	0:09:37.344000	0:09:38.277000
 tatsächlich	-	-	-	0:09:37.344000	0:09:38.277000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:38.277000" end="0:09:38.731000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:38.277000" end="0:09:38.731000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:38.277000	0:09:38.509000
 ,	-	-	-	0:09:38.277000	0:09:38.509000
 es	-	-	-	0:09:38.509000	0:09:38.731000
 ist	-	-	-	0:09:38.509000	0:09:38.731000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:38.509000" end="0:09:38.731000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:38.509000" end="0:09:38.731000" age_lower="1" age_upper="999">
 so	-	-	-	0:09:38.509000	0:09:38.731000
 ?	-	-	-	0:09:38.509000	0:09:38.731000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:38.731000" end="0:09:39.914000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:38.731000" end="0:09:39.914000" age_lower="18" age_upper="35">
 tatsächlich	-	-	-	0:09:38.731000	0:09:39.490000
 so	-	-	-	0:09:38.731000	0:09:39.490000
 ,	-	-	-	0:09:38.731000	0:09:39.490000
 ja	-	-	-	0:09:39.492000	0:09:39.914000
 .	-	-	-	0:09:39.492000	0:09:39.914000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:39.492000" end="0:09:40.952000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:39.492000" end="0:09:40.952000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:39.492000	0:09:39.914000
 .	-	-	-	0:09:39.492000	0:09:39.914000
 in	-	-	-	0:09:39.914000	0:09:40.952000
@@ -2940,14 +2940,14 @@ war	-	-	-	0:09:39.914000	0:09:40.952000
 das	-	-	-	0:09:39.914000	0:09:40.952000
 ?	-	-	-	0:09:39.914000	0:09:40.952000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:40.952000" end="0:09:42.952000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:40.952000" end="0:09:42.952000" age_lower="18" age_upper="35">
 ja	-	-	-	0:09:40.952000	0:09:41.321000
 in	-	-	-	0:09:40.952000	0:09:41.321000
 ORT	ORT	-	-	0:09:41.321000	0:09:42.952000
 ORT	ORT	-	-	0:09:41.321000	0:09:42.952000
 (Schule)	-	-	-	0:09:41.321000	0:09:42.952000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:41.321000" end="0:09:47.503000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:41.321000" end="0:09:47.503000" age_lower="1" age_upper="999">
 in	-	-	-	0:09:41.321000	0:09:42.952000
 ORT	ORT	-	-	0:09:41.321000	0:09:42.952000
 ORT	ORT	-	-	0:09:41.321000	0:09:42.952000
@@ -2975,17 +2975,17 @@ nur	-	-	-	0:09:47.167000	0:09:47.503000
 bei	-	-	-	0:09:47.167000	0:09:47.503000
 der	-	-	-	0:09:47.167000	0:09:47.503000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:47.503000" end="0:09:48.172000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:47.503000" end="0:09:48.172000" age_lower="18" age_upper="35">
 oh	-	-	-	0:09:47.503000	0:09:48.172000
 ja	-	-	-	0:09:47.503000	0:09:48.172000
 ,	-	-	-	0:09:47.503000	0:09:48.172000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:47.503000" end="0:09:48.172000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:47.503000" end="0:09:48.172000" age_lower="1" age_upper="999">
 Matura	-	-	-	0:09:47.503000	0:09:48.172000
 nicht	-	-	-	0:09:47.503000	0:09:48.172000
 ?	-	-	-	0:09:47.503000	0:09:48.172000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:48.172000" end="0:09:52.804000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:48.172000" end="0:09:52.804000" age_lower="18" age_upper="35">
 nein	-	-	-	0:09:48.172000	0:09:49.535000
 ich	-	-	-	0:09:48.172000	0:09:49.535000
 habe	-	-	-	0:09:48.172000	0:09:49.535000
@@ -3005,20 +3005,20 @@ also	-	-	-	0:09:51.192000	0:09:52.804000
 ja	-	-	-	0:09:51.192000	0:09:52.804000
 .	-	-	-	0:09:51.192000	0:09:52.804000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:52.804000" end="0:09:53.852000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:52.804000" end="0:09:53.852000" age_lower="1" age_upper="999">
 den	-	-	-	0:09:52.804000	0:09:53.852000
 Lehrern	-	-	-	0:09:52.804000	0:09:53.852000
 selber	-	-	-	0:09:52.804000	0:09:53.852000
 nicht	-	-	-	0:09:52.804000	0:09:53.852000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:53.852000" end="0:09:54.756000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:53.852000" end="0:09:54.756000" age_lower="18" age_upper="35">
 nein	-	-	-	0:09:53.852000	0:09:54.756000
 ,	-	-	-	0:09:53.852000	0:09:54.756000
 nie	-	-	-	0:09:53.852000	0:09:54.756000
 gepasst	-	-	-	0:09:53.852000	0:09:54.756000
 .	-	-	-	0:09:53.852000	0:09:54.756000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:53.852000" end="0:09:55.928000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:53.852000" end="0:09:55.928000" age_lower="1" age_upper="999">
 gepasst	-	-	-	0:09:53.852000	0:09:54.756000
 oder	-	-	-	0:09:53.852000	0:09:54.756000
 oder/	-	-	-	0:09:53.852000	0:09:54.756000
@@ -3029,7 +3029,7 @@ den	-	-	-	0:09:54.756000	0:09:55.928000
 Schülern	-	-	-	0:09:54.756000	0:09:55.928000
 ?	-	-	-	0:09:54.756000	0:09:55.928000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:55.928000" end="0:09:59.687000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:09:55.928000" end="0:09:59.687000" age_lower="18" age_upper="35">
 nein	-	-	-	0:09:55.928000	0:09:57.481000
 unter	-	-	-	0:09:55.928000	0:09:57.481000
 die	-	-	-	0:09:55.928000	0:09:57.481000
@@ -3050,7 +3050,7 @@ wurscht	-	-	-	0:09:57.481000	0:09:59.355000
 ja	-	-	-	0:09:59.355000	0:09:59.687000
 .	-	-	-	0:09:59.355000	0:09:59.687000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:59.687000" end="0:10:06.629000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:09:59.687000" end="0:10:06.629000" age_lower="1" age_upper="999">
 okay	-	-	-	0:09:59.687000	0:10:00.369000
 .	-	-	-	0:09:59.687000	0:10:00.369000
 <pause duration="2,2s"/>
@@ -3067,34 +3067,34 @@ eher	-	-	-	0:10:03.069000	0:10:06.629000
 nicht	-	-	-	0:10:03.069000	0:10:06.629000
 Mundart	-	-	-	0:10:03.069000	0:10:06.629000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:06.629000" end="0:10:07.238000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:06.629000" end="0:10:07.238000" age_lower="18" age_upper="35">
 also	-	-	-	0:10:06.629000	0:10:07.238000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:06.629000" end="0:10:07.315000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:06.629000" end="0:10:07.315000" age_lower="1" age_upper="999">
 gesprochen	-	-	-	0:10:06.629000	0:10:07.238000
 ,	-	-	-	0:10:06.629000	0:10:07.238000
 wenn	-	-	-	0:10:07.238000	0:10:07.315000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:07.315000" end="0:10:07.886000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:07.315000" end="0:10:07.886000" age_lower="18" age_upper="35">
 oi/	-	-	-	0:10:07.315000	0:10:07.886000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:07.315000" end="0:10:08.376000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:07.315000" end="0:10:08.376000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:10:07.315000	0:10:07.886000
 mit	-	-	-	0:10:07.315000	0:10:07.886000
 Lehrern	-	-	-	0:10:07.315000	0:10:07.886000
 zum	-	-	-	0:10:07.886000	0:10:08.376000
 Beispiel	-	-	-	0:10:07.886000	0:10:08.376000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:08.376000" end="0:10:09.319000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:08.376000" end="0:10:09.319000" age_lower="18" age_upper="35">
 dann	-	-	-	0:10:08.376000	0:10:09.319000
 eigentlich	-	-	-	0:10:08.376000	0:10:09.319000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:08.376000" end="0:10:09.319000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:08.376000" end="0:10:09.319000" age_lower="1" age_upper="999">
 kommuniziert	-	-	-	0:10:08.376000	0:10:09.319000
 haben	-	-	-	0:10:08.376000	0:10:09.319000
 ?	-	-	-	0:10:08.376000	0:10:09.319000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:09.319000" end="0:10:13.695000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:09.319000" end="0:10:13.695000" age_lower="18" age_upper="35">
 schon	-	-	-	0:10:09.319000	0:10:09.615000
 /.	-	-	-	0:10:09.319000	0:10:09.615000
 oh	-	-	-	0:10:09.615000	0:10:10.365000
@@ -3121,7 +3121,7 @@ halt	-	-	-	0:10:12.365000	0:10:13.695000
 zusammengerissen	-	-	-	0:10:12.365000	0:10:13.695000
 .	-	-	-	0:10:12.365000	0:10:13.695000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:13.695000" end="0:10:17.452000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:13.695000" end="0:10:17.452000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:13.695000	0:10:14.370000
 ,	-	-	-	0:10:13.695000	0:10:14.370000
 gut	-	-	-	0:10:14.370000	0:10:15.097000
@@ -3140,7 +3140,7 @@ mit	-	-	-	0:10:16.487000	0:10:17.452000
 dem	-	-	-	0:10:16.487000	0:10:17.452000
 Lehrer	-	-	-	0:10:16.487000	0:10:17.452000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:17.452000" end="0:10:18.853000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:17.452000" end="0:10:18.853000" age_lower="18" age_upper="35">
 da	-	-	-	0:10:17.452000	0:10:18.853000
 habe	-	-	-	0:10:17.452000	0:10:18.853000
 ich	-	-	-	0:10:17.452000	0:10:18.853000
@@ -3149,16 +3149,16 @@ Mundart	-	-	-	0:10:17.452000	0:10:18.853000
 geredet	-	-	-	0:10:17.452000	0:10:18.853000
 ,	-	-	-	0:10:17.452000	0:10:18.853000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:17.452000" end="0:10:18.853000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:17.452000" end="0:10:18.853000" age_lower="1" age_upper="999">
 gesprochen	-	-	-	0:10:17.452000	0:10:18.853000
 haben	-	-	-	0:10:17.452000	0:10:18.853000
 ?	-	-	-	0:10:17.452000	0:10:18.853000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:18.853000" end="0:10:19.212000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:18.853000" end="0:10:19.212000" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:18.853000	0:10:19.212000
 .	-	-	-	0:10:18.853000	0:10:19.212000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:18.853000" end="0:10:21.326000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:18.853000" end="0:10:21.326000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:18.853000	0:10:19.212000
 ,	-	-	-	0:10:18.853000	0:10:19.212000
 gut	-	-	-	0:10:19.212000	0:10:19.718000
@@ -3170,7 +3170,7 @@ im	-	-	-	0:10:19.718000	0:10:21.326000
 Deutschunterricht	-	-	-	0:10:19.718000	0:10:21.326000
 ?	-	-	-	0:10:19.718000	0:10:21.326000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:21.326000" end="0:10:23.334000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:21.326000" end="0:10:23.334000" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:21.326000	0:10:22.751000
 da	-	-	-	0:10:21.326000	0:10:22.751000
 habe	-	-	-	0:10:21.326000	0:10:22.751000
@@ -3182,7 +3182,7 @@ geredet	-	-	-	0:10:21.326000	0:10:22.751000
 ja	-	-	-	0:10:22.751000	0:10:23.334000
 .	-	-	-	0:10:22.751000	0:10:23.334000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:22.751000" end="0:10:31.250000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:22.751000" end="0:10:31.250000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:22.751000	0:10:23.334000
 .	-	-	-	0:10:22.751000	0:10:23.334000
 <pause duration="1,0s"/>
@@ -3217,27 +3217,27 @@ Sie	-	-	-	0:10:30.771000	0:10:31.250000
 werden	-	-	-	0:10:30.771000	0:10:31.250000
 es	-	-	-	0:10:30.771000	0:10:31.250000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:31.250000" end="0:10:32.106000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:31.250000" end="0:10:32.106000" age_lower="18" age_upper="35">
 lustig	-	-	-	0:10:31.250000	0:10:32.106000
 ,	-	-	-	0:10:31.250000	0:10:32.106000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:31.250000" end="0:10:32.106000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:31.250000" end="0:10:32.106000" age_lower="1" age_upper="999">
 vielleicht	-	-	-	0:10:31.250000	0:10:32.106000
 ja	-	-	-	0:10:31.250000	0:10:32.106000
 schon	-	-	-	0:10:31.250000	0:10:32.106000
 einmal	-	-	-	0:10:31.250000	0:10:32.106000
 /.	-	-	-	0:10:31.250000	0:10:32.106000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:32.106000" end="0:10:32.894000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:32.106000" end="0:10:32.894000" age_lower="18" age_upper="35">
 also	-	-	-	0:10:32.106000	0:10:32.634000
 es	-	-	-	0:10:32.634000	0:10:32.894000
 ist	-	-	-	0:10:32.634000	0:10:32.894000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:32.634000" end="0:10:32.894000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:32.634000" end="0:10:32.894000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:32.634000	0:10:32.894000
 .	-	-	-	0:10:32.634000	0:10:32.894000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:32.894000" end="0:10:40.294000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:32.894000" end="0:10:40.294000" age_lower="18" age_upper="35">
 (eher)	-	-	-	0:10:32.894000	0:10:34.801000
 <pause duration="0,6s"/>
 interessant	-	-	-	0:10:32.894000	0:10:34.801000
@@ -3262,7 +3262,7 @@ immer	-	-	-	0:10:38.690000	0:10:40.294000
 fragen	-	-	-	0:10:38.690000	0:10:40.294000
 .	-	-	-	0:10:38.690000	0:10:40.294000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:40.294000" end="0:10:44.174000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:40.294000" end="0:10:44.174000" age_lower="1" age_upper="999">
 (mhm)	-	-	-	0:10:40.294000	0:10:41.230000
 <pause duration="0,6s"/>
 aber	-	-	-	0:10:41.230000	0:10:42.394000
@@ -3278,24 +3278,24 @@ mit	-	-	-	0:10:42.394000	0:10:44.174000
 Spaß	-	-	-	0:10:42.394000	0:10:44.174000
 assoziiert	-	-	-	0:10:42.394000	0:10:44.174000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:44.174000" end="0:10:44.538000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:44.174000" end="0:10:44.538000" age_lower="18" age_upper="35">
 ja	-	-	-	0:10:44.174000	0:10:44.538000
 ,	-	-	-	0:10:44.174000	0:10:44.538000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:44.174000" end="0:10:44.538000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:44.174000" end="0:10:44.538000" age_lower="1" age_upper="999">
 oder	-	-	-	0:10:44.174000	0:10:44.538000
 /?	-	-	-	0:10:44.174000	0:10:44.538000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:44.538000" end="0:10:45.316000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:44.538000" end="0:10:45.316000" age_lower="18" age_upper="35">
 irgendwie	-	-	-	0:10:44.538000	0:10:45.316000
 schon	-	-	-	0:10:44.538000	0:10:45.316000
 ,	-	-	-	0:10:44.538000	0:10:45.316000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:44.538000" end="0:10:45.316000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:44.538000" end="0:10:45.316000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:44.538000	0:10:45.316000
 .	-	-	-	0:10:44.538000	0:10:45.316000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:45.316000" end="0:10:57.199000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:10:45.316000" end="0:10:57.199000" age_lower="18" age_upper="35">
 also	-	-	-	0:10:45.316000	0:10:47.619000
 aber	-	-	-	0:10:45.316000	0:10:47.619000
 auch	-	-	-	0:10:45.316000	0:10:47.619000
@@ -3344,7 +3344,7 @@ gesehen	-	-	-	0:10:56.164000	0:10:57.199000
 ja	-	-	-	0:10:56.164000	0:10:57.199000
 .	-	-	-	0:10:56.164000	0:10:57.199000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:56.164000" end="0:11:02.517000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:10:56.164000" end="0:11:02.517000" age_lower="1" age_upper="999">
 okay	-	-	-	0:10:56.164000	0:10:57.199000
 ,	-	-	-	0:10:56.164000	0:10:57.199000
 also	-	-	-	0:10:56.164000	0:10:57.199000
@@ -3376,15 +3376,15 @@ Ihrem	-	-	-	0:10:59.923000	0:11:02.517000
 Ihrer	-	-	-	0:10:59.923000	0:11:02.517000
 Mundart	-	-	-	0:10:59.923000	0:11:02.517000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:02.517000" end="0:11:03.005000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:02.517000" end="0:11:03.005000" age_lower="18" age_upper="35">
 so	-	-	-	0:11:02.517000	0:11:03.005000
 /.	-	-	-	0:11:02.517000	0:11:03.005000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:02.517000" end="0:11:03.005000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:02.517000" end="0:11:03.005000" age_lower="1" age_upper="999">
 quasi	-	-	-	0:11:02.517000	0:11:03.005000
 ?	-	-	-	0:11:02.517000	0:11:03.005000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:03.005000" end="0:11:06.599000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:03.005000" end="0:11:06.599000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	-	-	-	0:11:03.978000	0:11:04.357000
 ,	-	-	-	0:11:03.978000	0:11:04.357000
@@ -3398,29 +3398,29 @@ oder	-	-	-	0:11:05.669000	0:11:06.599000
 so	-	-	-	0:11:05.669000	0:11:06.599000
 ,	-	-	-	0:11:05.669000	0:11:06.599000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:05.669000" end="0:11:06.599000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:05.669000" end="0:11:06.599000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:05.669000	0:11:06.599000
 ja	-	-	-	0:11:05.669000	0:11:06.599000
 ,	-	-	-	0:11:05.669000	0:11:06.599000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:06.599000" end="0:11:06.981000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:06.599000" end="0:11:06.981000" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:06.599000	0:11:06.981000
 .	-	-	-	0:11:06.599000	0:11:06.981000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:06.599000" end="0:11:07.871000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:06.599000" end="0:11:07.871000" age_lower="1" age_upper="999">
 aber	-	-	-	0:11:06.599000	0:11:06.981000
 sonst	-	-	-	0:11:06.981000	0:11:07.871000
 im	-	-	-	0:11:06.981000	0:11:07.871000
 Alltag	-	-	-	0:11:06.981000	0:11:07.871000
 ?	-	-	-	0:11:06.981000	0:11:07.871000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:07.871000" end="0:11:08.815000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:07.871000" end="0:11:08.815000" age_lower="18" age_upper="35">
 nein	-	-	-	0:11:07.871000	0:11:08.815000
 gar	-	-	-	0:11:07.871000	0:11:08.815000
 nicht	-	-	-	0:11:07.871000	0:11:08.815000
 .	-	-	-	0:11:07.871000	0:11:08.815000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:08.815000" end="0:11:12.410000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:08.815000" end="0:11:12.410000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:08.815000	0:11:09.181000
 .	-	-	-	0:11:08.815000	0:11:09.181000
 <pause duration="1,6s"/>
@@ -3432,11 +3432,11 @@ jetzt	-	-	-	0:11:10.791000	0:11:12.410000
 anschauen	-	-	-	0:11:10.791000	0:11:12.410000
 ,	-	-	-	0:11:10.791000	0:11:12.410000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:12.410000" end="0:11:13.333000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:12.410000" end="0:11:13.333000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:11:12.410000	0:11:13.333000
 .	-	-	-	0:11:12.410000	0:11:13.333000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:12.410000" end="0:11:18.462000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:12.410000" end="0:11:18.462000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:11:12.410000	0:11:13.333000
 haben	-	-	-	0:11:13.333000	0:11:14.323000
 Sie	-	-	-	0:11:13.333000	0:11:14.323000
@@ -3462,7 +3462,7 @@ Anderes	-	-	-	0:11:17.066000	0:11:18.462000
 sprechen	-	-	-	0:11:17.066000	0:11:18.462000
 ?	-	-	-	0:11:17.066000	0:11:18.462000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:18.462000" end="0:11:23.220000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:18.462000" end="0:11:23.220000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 puh	-	-	-	0:11:18.462000	0:11:19.440000
 <pause duration="1,3s"/>
@@ -3478,11 +3478,11 @@ Ausreißer	-	-	-	0:11:20.734000	0:11:22.734000
 ,	-	-	-	0:11:20.734000	0:11:22.734000
 also	-	-	-	0:11:22.734000	0:11:23.220000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:23.220000" end="0:11:23.673000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:23.220000" end="0:11:23.673000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:11:23.220000	0:11:23.673000
 .	-	-	-	0:11:23.220000	0:11:23.673000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:23.673000" end="0:11:28.396000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:23.673000" end="0:11:28.396000" age_lower="18" age_upper="35">
 ich	-	-	-	0:11:23.673000	0:11:24.560000
 glaube	-	-	-	0:11:23.673000	0:11:24.560000
 schon	-	-	-	0:11:23.673000	0:11:24.560000
@@ -3497,17 +3497,17 @@ halt	-	-	-	0:11:27.046000	0:11:27.499000
 <pause duration="0,7s"/>
 zwei	-	-	-	0:11:27.499000	0:11:28.396000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:27.499000" end="0:11:28.396000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:27.499000" end="0:11:28.396000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 al/	-	-	-	0:11:27.499000	0:11:28.396000
 /?	-	-	-	0:11:27.499000	0:11:28.396000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:28.396000" end="0:11:29.255000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:28.396000" end="0:11:29.255000" age_lower="18" age_upper="35">
 Prozent	-	-	-	0:11:28.396000	0:11:29.255000
 weniger	-	-	-	0:11:28.396000	0:11:29.255000
 .	-	-	-	0:11:28.396000	0:11:29.255000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:29.255000" end="0:11:32.990000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:29.255000" end="0:11:32.990000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:11:29.255000	0:11:30.169000
 ,	-	-	-	0:11:29.255000	0:11:30.169000
@@ -3523,7 +3523,7 @@ keine	-	-	-	0:11:30.169000	0:11:32.990000
 Personengruppen	-	-	-	0:11:30.169000	0:11:32.990000
 ,	-	-	-	0:11:30.169000	0:11:32.990000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:32.990000" end="0:11:33.735000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:32.990000" end="0:11:33.735000" age_lower="18" age_upper="35">
 ah	-	-	-	0:11:32.990000	0:11:33.735000
 so	-	-	-	0:11:32.990000	0:11:33.735000
 ,	-	-	-	0:11:32.990000	0:11:33.735000
@@ -3532,7 +3532,7 @@ nein	-	-	-	0:11:32.990000	0:11:33.735000
 da	-	-	-	0:11:32.990000	0:11:33.735000
 /.	-	-	-	0:11:32.990000	0:11:33.735000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:32.990000" end="0:11:36.039000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:32.990000" end="0:11:36.039000" age_lower="1" age_upper="999">
 wo	-	-	-	0:11:32.990000	0:11:33.735000
 man	-	-	-	0:11:32.990000	0:11:33.735000
 sagen	-	-	-	0:11:32.990000	0:11:33.735000
@@ -3547,18 +3547,18 @@ oder	-	-	-	0:11:35.162000	0:11:36.039000
 oder	-	-	-	0:11:35.162000	0:11:36.039000
 oder	-	-	-	0:11:35.162000	0:11:36.039000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:36.039000" end="0:11:36.834000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:36.039000" end="0:11:36.834000" age_lower="18" age_upper="35">
 ah	-	-	-	0:11:36.039000	0:11:36.834000
 so	-	-	-	0:11:36.039000	0:11:36.834000
 nein	-	-	-	0:11:36.039000	0:11:36.834000
 ,	-	-	-	0:11:36.039000	0:11:36.834000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:36.039000" end="0:11:36.834000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:36.039000" end="0:11:36.834000" age_lower="1" age_upper="999">
 sonst	-	-	-	0:11:36.039000	0:11:36.834000
 (irgendwas)	-	-	-	0:11:36.039000	0:11:36.834000
 ?	-	-	-	0:11:36.039000	0:11:36.834000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:36.834000" end="0:11:38.920000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:36.834000" end="0:11:38.920000" age_lower="18" age_upper="35">
 (so	-	-	-	0:11:36.834000	0:11:37.414000
 ist	-	-	-	0:11:36.834000	0:11:37.414000
 es)	-	-	-	0:11:36.834000	0:11:37.414000
@@ -3568,7 +3568,7 @@ alle	-	-	-	0:11:37.414000	0:11:38.920000
 eigentlich	-	-	-	0:11:37.414000	0:11:38.920000
 .	-	-	-	0:11:37.414000	0:11:38.920000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:37.414000" end="0:11:44.362000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:37.414000" end="0:11:44.362000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 okay	-	-	-	0:11:37.414000	0:11:38.920000
 .	-	-	-	0:11:37.414000	0:11:38.920000
@@ -3592,14 +3592,14 @@ ein	-	-	-	0:11:43.020000	0:11:44.362000
 paar	-	-	-	0:11:43.020000	0:11:44.362000
 Generationen	-	-	-	0:11:43.020000	0:11:44.362000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:44.362000" end="0:11:44.893000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:44.362000" end="0:11:44.893000" age_lower="18" age_upper="35">
 hm	-	-	-	0:11:44.362000	0:11:44.893000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:44.362000" end="0:11:44.893000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:44.362000" end="0:11:44.893000" age_lower="1" age_upper="999">
 aussehen	-	-	-	0:11:44.362000	0:11:44.893000
 ?	-	-	-	0:11:44.362000	0:11:44.893000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:44.893000" end="0:11:58.940000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:11:44.893000" end="0:11:58.940000" age_lower="18" age_upper="35">
 ja	-	-	-	0:11:44.893000	0:11:45.533000
 ich	-	-	-	0:11:44.893000	0:11:45.533000
 glaube	-	-	-	0:11:44.893000	0:11:45.533000
@@ -3660,7 +3660,7 @@ annehmen	-	-	-	0:11:56.388000	0:11:58.430000
 also	-	-	-	0:11:58.430000	0:11:58.940000
 /.	-	-	-	0:11:58.430000	0:11:58.940000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:58.430000" end="0:12:01.003000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:11:58.430000" end="0:12:01.003000" age_lower="1" age_upper="999">
 okay	-	-	-	0:11:58.430000	0:11:58.940000
 .	-	-	-	0:11:58.430000	0:11:58.940000
 <pause duration="0,5s"/>
@@ -3674,7 +3674,7 @@ Leute	-	-	-	0:11:58.940000	0:12:01.003000
 das	-	-	-	0:11:58.940000	0:12:01.003000
 ?	-	-	-	0:11:58.940000	0:12:01.003000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:01.003000" end="0:12:02.998000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:01.003000" end="0:12:02.998000" age_lower="18" age_upper="35">
 das	-	-	-	0:12:01.003000	0:12:02.998000
 weiß	-	-	-	0:12:01.003000	0:12:02.998000
 ich	-	-	-	0:12:01.003000	0:12:02.998000
@@ -3683,9 +3683,9 @@ selber	-	-	-	0:12:01.003000	0:12:02.998000
 nicht	-	-	-	0:12:01.003000	0:12:02.998000
 .	-	-	-	0:12:01.003000	0:12:02.998000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:01.003000" end="0:12:02.998000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:01.003000" end="0:12:02.998000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:02.998000" end="0:12:04.552000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:02.998000" end="0:12:04.552000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 frage	-	-	-	0:12:02.998000	0:12:04.136000
 ich	-	-	-	0:12:02.998000	0:12:04.136000
@@ -3695,7 +3695,7 @@ immer	-	-	-	0:12:02.998000	0:12:04.136000
 warum	-	-	-	0:12:04.136000	0:12:04.552000
 .	-	-	-	0:12:04.136000	0:12:04.552000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:04.552000" end="0:12:05.562000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:04.552000" end="0:12:05.562000" age_lower="1" age_upper="999">
 würden	-	-	-	0:12:04.552000	0:12:05.562000
 Sie	-	-	-	0:12:04.552000	0:12:05.562000
 das	-	-	-	0:12:04.552000	0:12:05.562000
@@ -3703,11 +3703,11 @@ selber	-	-	-	0:12:04.552000	0:12:05.562000
 tun	-	-	-	0:12:04.552000	0:12:05.562000
 ?	-	-	-	0:12:04.552000	0:12:05.562000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:05.562000" end="0:12:06.122000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:05.562000" end="0:12:06.122000" age_lower="18" age_upper="35">
 nein	-	-	-	0:12:05.562000	0:12:06.122000
 .	-	-	-	0:12:05.562000	0:12:06.122000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:06.122000" end="0:12:11.741000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:06.122000" end="0:12:11.741000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 und	-	-	-	0:12:07.880000	0:12:08.831000
 ähm	-	-	-	0:12:07.880000	0:12:08.831000
@@ -3730,21 +3730,21 @@ ist	-	-	-	0:12:09.946000	0:12:11.371000
 oder	-	-	-	0:12:11.371000	0:12:11.741000
 dass	-	-	-	0:12:11.371000	0:12:11.741000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:11.741000" end="0:12:12.322000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:11.741000" end="0:12:12.322000" age_lower="18" age_upper="35">
 nein	-	-	-	0:12:11.741000	0:12:12.322000
 o/	-	-	-	0:12:11.741000	0:12:12.322000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:11.741000" end="0:12:12.322000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:11.741000" end="0:12:12.322000" age_lower="1" age_upper="999">
 das	-	-	-	0:12:11.741000	0:12:12.322000
 überall	-	-	-	0:12:11.741000	0:12:12.322000
 der	-	-	-	0:12:11.741000	0:12:12.322000
 /?	-	-	-	0:12:11.741000	0:12:12.322000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:12.322000" end="0:12:12.804000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:12.322000" end="0:12:12.804000" age_lower="18" age_upper="35">
 überall	-	-	-	0:12:12.322000	0:12:12.804000
 .	-	-	-	0:12:12.322000	0:12:12.804000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:12.804000" end="0:12:18.401000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:12.804000" end="0:12:18.401000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:12.804000	0:12:13.116000
 .	-	-	-	0:12:12.804000	0:12:13.116000
 <pause duration="1,7s"/>
@@ -3764,7 +3764,7 @@ darüber	-	-	-	0:12:16.609000	0:12:18.401000
 hinaus	-	-	-	0:12:16.609000	0:12:18.401000
 ?	-	-	-	0:12:16.609000	0:12:18.401000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:18.401000" end="0:12:19.838000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:18.401000" end="0:12:19.838000" age_lower="18" age_upper="35">
 darüber	-	-	-	0:12:18.401000	0:12:19.271000
 hinaus	-	-	-	0:12:18.401000	0:12:19.271000
 ,	-	-	-	0:12:18.401000	0:12:19.271000
@@ -3774,7 +3774,7 @@ ich	-	-	-	0:12:19.271000	0:12:19.838000
 ja	-	-	-	0:12:19.271000	0:12:19.838000
 .	-	-	-	0:12:19.271000	0:12:19.838000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:19.271000" end="0:12:23.989000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:19.271000" end="0:12:23.989000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:19.271000	0:12:19.838000
 .	-	-	-	0:12:19.271000	0:12:19.838000
 <pause duration="0,5s"/>
@@ -3797,22 +3797,22 @@ für	-	-	-	0:12:23.252000	0:12:23.989000
 Ihre	-	-	-	0:12:23.252000	0:12:23.989000
 Mundart	-	-	-	0:12:23.252000	0:12:23.989000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:23.989000" end="0:12:25.055000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:23.989000" end="0:12:25.055000" age_lower="18" age_upper="35">
 nein	-	-	-	0:12:23.989000	0:12:25.055000
 das	-	-	-	0:12:23.989000	0:12:25.055000
 nicht	-	-	-	0:12:23.989000	0:12:25.055000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:23.989000" end="0:12:25.055000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:23.989000" end="0:12:25.055000" age_lower="1" age_upper="999">
 jetzt	-	-	-	0:12:23.989000	0:12:25.055000
 im	-	-	-	0:12:23.989000	0:12:25.055000
 Speziellen	-	-	-	0:12:23.989000	0:12:25.055000
 ?	-	-	-	0:12:23.989000	0:12:25.055000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:25.055000" end="0:12:25.770000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:25.055000" end="0:12:25.770000" age_lower="18" age_upper="35">
 leider	-	-	-	0:12:25.055000	0:12:25.770000
 .	-	-	-	0:12:25.055000	0:12:25.770000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:25.770000" end="0:12:33.591000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:25.770000" end="0:12:33.591000" age_lower="1" age_upper="999">
 okay	-	-	-	0:12:25.770000	0:12:26.265000
 .	-	-	-	0:12:25.770000	0:12:26.265000
 <pause duration="1,7s"/>
@@ -3830,32 +3830,32 @@ Fernsehen	-	-	-	0:12:27.966000	0:12:33.591000
 denken	-	-	-	0:12:27.966000	0:12:33.591000
 ,	-	-	-	0:12:27.966000	0:12:33.591000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:33.591000" end="0:12:34.168000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:33.591000" end="0:12:34.168000" age_lower="18" age_upper="35">
 okay	-	-	-	0:12:33.591000	0:12:34.168000
 .	-	-	-	0:12:33.591000	0:12:34.168000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:34.168000" end="0:12:34.976000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:34.168000" end="0:12:34.976000" age_lower="1" age_upper="999">
 an	-	-	-	0:12:34.168000	0:12:34.976000
 irgendeinen	-	-	-	0:12:34.168000	0:12:34.976000
 ,	-	-	-	0:12:34.168000	0:12:34.976000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:34.976000" end="0:12:35.367000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:34.976000" end="0:12:35.367000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:12:34.976000	0:12:35.367000
 .	-	-	-	0:12:34.976000	0:12:35.367000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:35.367000" end="0:12:36.168000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:35.367000" end="0:12:36.168000" age_lower="1" age_upper="999">
 was	-	-	-	0:12:35.367000	0:12:36.168000
 spricht	-	-	-	0:12:35.367000	0:12:36.168000
 der	-	-	-	0:12:35.367000	0:12:36.168000
 ?	-	-	-	0:12:35.367000	0:12:36.168000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:36.168000" end="0:12:37.486000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:36.168000" end="0:12:37.486000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 ja	-	-	-	0:12:36.168000	0:12:37.486000
 Hochdeutsch	-	-	-	0:12:36.168000	0:12:37.486000
 .	-	-	-	0:12:36.168000	0:12:37.486000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:37.486000" end="0:12:40.980000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:37.486000" end="0:12:40.980000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 Sie	-	-	-	0:12:37.486000	0:12:38.915000
 würden	-	-	-	0:12:37.486000	0:12:38.915000
@@ -3872,11 +3872,11 @@ einfach	-	-	-	0:12:38.915000	0:12:40.980000
 so	-	-	-	0:12:38.915000	0:12:40.980000
 au/	-	-	-	0:12:38.915000	0:12:40.980000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:40.980000" end="0:12:41.316000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:40.980000" end="0:12:41.316000" age_lower="18" age_upper="35">
 ja	-	-	-	0:12:40.980000	0:12:41.316000
 .	-	-	-	0:12:40.980000	0:12:41.316000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:40.980000" end="0:12:44.795000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:40.980000" end="0:12:44.795000" age_lower="1" age_upper="999">
 ein	-	-	-	0:12:40.980000	0:12:41.316000
 und	-	-	-	0:12:40.980000	0:12:41.316000
 einigen	-	-	-	0:12:41.316000	0:12:42.980000
@@ -3894,18 +3894,18 @@ noch	-	-	-	0:12:42.980000	0:12:44.795000
 vorkommen	-	-	-	0:12:42.980000	0:12:44.795000
 ,	-	-	-	0:12:42.980000	0:12:44.795000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:44.795000" end="0:12:45.273000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:44.795000" end="0:12:45.273000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:12:44.795000	0:12:45.273000
 ,	-	-	-	0:12:44.795000	0:12:45.273000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:44.795000" end="0:12:45.273000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:44.795000" end="0:12:45.273000" age_lower="1" age_upper="999">
 deswegen	-	-	-	0:12:44.795000	0:12:45.273000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:45.273000" end="0:12:45.811000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:45.273000" end="0:12:45.811000" age_lower="18" age_upper="35">
 okay	-	-	-	0:12:45.273000	0:12:45.811000
 .	-	-	-	0:12:45.273000	0:12:45.811000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:45.811000" end="0:12:55.803000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:45.811000" end="0:12:55.803000" age_lower="1" age_upper="999">
 frage	-	-	-	0:12:45.811000	0:12:46.654000
 ich	-	-	-	0:12:45.811000	0:12:46.654000
 gleich	-	-	-	0:12:45.811000	0:12:46.654000
@@ -3943,18 +3943,18 @@ noch	-	-	-	0:12:54.901000	0:12:55.803000
 macht	-	-	-	0:12:54.901000	0:12:55.803000
 ?	-	-	-	0:12:54.901000	0:12:55.803000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:55.803000" end="0:12:57.040000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:55.803000" end="0:12:57.040000" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:12:55.803000	0:12:56.637000
 reden	-	-	-	0:12:55.803000	0:12:56.637000
 oder	-	-	-	0:12:56.637000	0:12:57.040000
 was	-	-	-	0:12:56.637000	0:12:57.040000
 ?	-	-	-	0:12:56.637000	0:12:57.040000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:56.637000" end="0:12:57.040000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:12:56.637000" end="0:12:57.040000" age_lower="1" age_upper="999">
 ja	-	-	-	0:12:56.637000	0:12:57.040000
 .	-	-	-	0:12:56.637000	0:12:57.040000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:57.040000" end="0:13:00.063000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:12:57.040000" end="0:13:00.063000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:12:57.040000	0:13:00.063000
 eh	-	-	-	0:12:57.040000	0:13:00.063000
@@ -3963,39 +3963,39 @@ jeder	-	-	-	0:12:57.040000	0:13:00.063000
 eigentlich	-	-	-	0:12:57.040000	0:13:00.063000
 ,	-	-	-	0:12:57.040000	0:13:00.063000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:00.063000" end="0:13:00.873000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:00.063000" end="0:13:00.873000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:00.063000	0:13:00.873000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:00.873000" end="0:13:01.460000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:00.873000" end="0:13:01.460000" age_lower="18" age_upper="35">
 also	-	-	-	0:13:00.873000	0:13:01.460000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:00.873000" end="0:13:01.460000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:00.873000" end="0:13:01.460000" age_lower="1" age_upper="999">
 und	-	-	-	0:13:00.873000	0:13:01.460000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:01.460000" end="0:13:03.103000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:01.460000" end="0:13:03.103000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 im	-	-	-	0:13:01.460000	0:13:03.103000
 Fernesehen	-	-	-	0:13:01.460000	0:13:03.103000
 ,	-	-	-	0:13:01.460000	0:13:03.103000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:01.460000" end="0:13:03.236000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:01.460000" end="0:13:03.236000" age_lower="1" age_upper="999">
 wann	-	-	-	0:13:01.460000	0:13:03.103000
 ?	-	-	-	0:13:01.460000	0:13:03.103000
 ja	-	-	-	0:13:03.103000	0:13:03.236000
 ,	-	-	-	0:13:03.103000	0:13:03.236000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:03.236000" end="0:13:04.573000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:03.236000" end="0:13:04.573000" age_lower="18" age_upper="35">
 eh	-	-	-	0:13:03.236000	0:13:03.695000
 bei	-	-	-	0:13:03.236000	0:13:03.695000
 die	-	-	-	0:13:03.236000	0:13:03.695000
 Nachrichten	-	-	-	0:13:03.695000	0:13:04.573000
 ,	-	-	-	0:13:03.695000	0:13:04.573000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:03.695000" end="0:13:04.573000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:03.695000" end="0:13:04.573000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:03.695000	0:13:04.573000
 .	-	-	-	0:13:03.695000	0:13:04.573000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:04.573000" end="0:13:07.871000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:04.573000" end="0:13:07.871000" age_lower="18" age_upper="35">
 aber	-	-	-	0:13:04.573000	0:13:07.871000
 auch	-	-	-	0:13:04.573000	0:13:07.871000
 so	-	-	-	0:13:04.573000	0:13:07.871000
@@ -4011,7 +4011,7 @@ Hochdeutsch	-	-	-	0:13:04.573000	0:13:07.871000
 eigentlich	-	-	-	0:13:04.573000	0:13:07.871000
 .	-	-	-	0:13:04.573000	0:13:07.871000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:07.871000" end="0:13:09.386000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:07.871000" end="0:13:09.386000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:07.871000	0:13:08.169000
 ,	-	-	-	0:13:07.871000	0:13:08.169000
 das	-	-	-	0:13:08.169000	0:13:08.498000
@@ -4021,18 +4021,18 @@ Medienbereich	-	-	-	0:13:08.498000	0:13:09.386000
 auf	-	-	-	0:13:08.498000	0:13:09.386000
 jeden	-	-	-	0:13:08.498000	0:13:09.386000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:09.386000" end="0:13:09.840000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:09.386000" end="0:13:09.840000" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:09.386000	0:13:09.840000
 ,	-	-	-	0:13:09.386000	0:13:09.840000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:09.386000" end="0:13:09.840000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:09.386000" end="0:13:09.840000" age_lower="1" age_upper="999">
 Fall	-	-	-	0:13:09.386000	0:13:09.840000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:09.840000" end="0:13:10.271000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:09.840000" end="0:13:10.271000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:13:09.840000	0:13:10.271000
 .	-	-	-	0:13:09.840000	0:13:10.271000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:09.840000" end="0:13:11.454000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:09.840000" end="0:13:11.454000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:13:09.840000	0:13:10.271000
 sehr	-	-	-	0:13:10.271000	0:13:11.009000
 stark	-	-	-	0:13:10.271000	0:13:11.009000
@@ -4040,7 +4040,7 @@ stark	-	-	-	0:13:10.271000	0:13:11.009000
 okay	-	-	-	0:13:11.009000	0:13:11.454000
 .	-	-	-	0:13:11.009000	0:13:11.454000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:11.454000" end="0:13:14.373000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:11.454000" end="0:13:14.373000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 na	-	-	-	0:13:11.454000	0:13:14.010000
 in	-	-	-	0:13:11.454000	0:13:14.010000
@@ -4052,18 +4052,18 @@ auch	-	-	-	0:13:11.454000	0:13:14.010000
 Hochdeutsch	-	-	-	0:13:11.454000	0:13:14.010000
 drinnen	-	-	-	0:13:14.010000	0:13:14.373000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:14.010000" end="0:13:14.373000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:14.010000" end="0:13:14.373000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:14.010000	0:13:14.373000
 ,	-	-	-	0:13:14.010000	0:13:14.373000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:14.373000" end="0:13:15.517000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:14.373000" end="0:13:15.517000" age_lower="18" age_upper="35">
 also	-	-	-	0:13:14.373000	0:13:14.829000
 von	-	-	-	0:13:14.373000	0:13:14.829000
 dem	-	-	-	0:13:14.829000	0:13:15.517000
 her	-	-	-	0:13:14.829000	0:13:15.517000
 .	-	-	-	0:13:14.829000	0:13:15.517000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:14.829000" end="0:13:16.741000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:14.829000" end="0:13:16.741000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:14.829000	0:13:15.517000
 ,	-	-	-	0:13:14.829000	0:13:15.517000
 wir	-	-	-	0:13:15.517000	0:13:16.741000
@@ -4075,14 +4075,14 @@ eher	-	-	-	0:13:15.517000	0:13:16.741000
 an	-	-	-	0:13:15.517000	0:13:16.741000
 die	-	-	-	0:13:15.517000	0:13:16.741000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:16.741000" end="0:13:18.222000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:16.741000" end="0:13:18.222000" age_lower="18" age_upper="35">
 ah	-	-	-	0:13:16.741000	0:13:18.222000
 so	-	-	-	0:13:16.741000	0:13:18.222000
 ,	-	-	-	0:13:16.741000	0:13:18.222000
 okay	-	-	-	0:13:16.741000	0:13:18.222000
 .	-	-	-	0:13:16.741000	0:13:18.222000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:16.741000" end="0:13:23.539000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:16.741000" end="0:13:23.539000" age_lower="1" age_upper="999">
 gesprochene	-	-	-	0:13:16.741000	0:13:18.222000
 ähm	-	-	-	0:13:16.741000	0:13:18.222000
 Sprache	-	-	-	0:13:16.741000	0:13:18.222000
@@ -4108,13 +4108,13 @@ für	-	-	-	0:13:20.272000	0:13:23.539000
 passend	-	-	-	0:13:20.272000	0:13:23.539000
 ,	-	-	-	0:13:20.272000	0:13:23.539000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:23.539000" end="0:13:24.677000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:23.539000" end="0:13:24.677000" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:23.539000	0:13:24.677000
 finde	-	-	-	0:13:23.539000	0:13:24.677000
 ich	-	-	-	0:13:23.539000	0:13:24.677000
 eigentlich	-	-	-	0:13:23.539000	0:13:24.677000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:23.539000" end="0:13:24.677000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:23.539000" end="0:13:24.677000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:13:23.539000	0:13:24.677000
 das	-	-	-	0:13:23.539000	0:13:24.677000
 so	-	-	-	0:13:23.539000	0:13:24.677000
@@ -4122,19 +4122,19 @@ gemacht	-	-	-	0:13:23.539000	0:13:24.677000
 wird	-	-	-	0:13:23.539000	0:13:24.677000
 ?	-	-	-	0:13:23.539000	0:13:24.677000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:24.677000" end="0:13:25.166000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:24.677000" end="0:13:25.166000" age_lower="18" age_upper="35">
 schon	-	-	-	0:13:24.677000	0:13:24.893000
 ,	-	-	-	0:13:24.677000	0:13:24.893000
 ja	-	-	-	0:13:24.893000	0:13:25.166000
 .	-	-	-	0:13:24.893000	0:13:25.166000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:24.893000" end="0:13:25.539000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:24.893000" end="0:13:25.539000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:24.893000	0:13:25.166000
 ,	-	-	-	0:13:24.893000	0:13:25.166000
 warum	-	-	-	0:13:25.166000	0:13:25.539000
 ?	-	-	-	0:13:25.166000	0:13:25.539000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:25.539000" end="0:13:42.964000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:25.539000" end="0:13:42.964000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 hm	-	-	-	0:13:26.986000	0:13:29.433000
 das	-	-	-	0:13:26.986000	0:13:29.433000
@@ -4190,7 +4190,7 @@ Probleme	-	-	-	0:13:38.918000	0:13:42.529000
 ja	-	-	-	0:13:42.529000	0:13:42.964000
 .	-	-	-	0:13:42.529000	0:13:42.964000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:42.529000" end="0:13:48.050000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:42.529000" end="0:13:48.050000" age_lower="1" age_upper="999">
 okay	-	-	-	0:13:42.529000	0:13:42.964000
 ,	-	-	-	0:13:42.529000	0:13:42.964000
 das	-	-	-	0:13:42.964000	0:13:43.250000
@@ -4222,11 +4222,11 @@ spricht	-	-	-	0:13:45.910000	0:13:47.249000
 eher	-	-	-	0:13:47.249000	0:13:48.050000
 Hochdeutsch	-	-	-	0:13:47.249000	0:13:48.050000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:48.050000" end="0:13:48.500000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:48.050000" end="0:13:48.500000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:13:48.050000	0:13:48.500000
 .	-	-	-	0:13:48.050000	0:13:48.500000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:48.500000" end="0:13:53.549000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:48.500000" end="0:13:53.549000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:13:48.500000	0:13:48.953000
 ,	-	-	-	0:13:48.500000	0:13:48.953000
 würden	-	-	-	0:13:48.953000	0:13:49.901000
@@ -4253,14 +4253,14 @@ besser	-	-	-	0:13:52.536000	0:13:53.549000
 versteht	-	-	-	0:13:52.536000	0:13:53.549000
 ?	-	-	-	0:13:52.536000	0:13:53.549000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:53.549000" end="0:13:54.886000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:53.549000" end="0:13:54.886000" age_lower="18" age_upper="35">
 ja	-	-	-	0:13:53.549000	0:13:54.159000
 ,	-	-	-	0:13:53.549000	0:13:54.159000
 ja	-	-	-	0:13:54.159000	0:13:54.520000
 schon	-	-	-	0:13:54.520000	0:13:54.886000
 .	-	-	-	0:13:54.520000	0:13:54.886000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:54.520000" end="0:13:56.495000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:54.520000" end="0:13:56.495000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:13:54.520000	0:13:54.886000
 .	-	-	-	0:13:54.520000	0:13:54.886000
 und	-	-	-	0:13:54.886000	0:13:56.495000
@@ -4272,11 +4272,11 @@ gewöhnt	-	-	-	0:13:54.886000	0:13:56.495000
 sind	-	-	-	0:13:54.886000	0:13:56.495000
 ?	-	-	-	0:13:54.886000	0:13:56.495000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:56.495000" end="0:13:57.077000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:13:56.495000" end="0:13:57.077000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:13:56.495000	0:13:57.077000
 .	-	-	-	0:13:56.495000	0:13:57.077000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:56.495000" end="0:14:06.187000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:13:56.495000" end="0:14:06.187000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 gut	-	-	-	0:13:57.077000	0:13:58.016000
 .	-	-	-	0:13:57.077000	0:13:58.016000
@@ -4308,7 +4308,7 @@ auch	-	-	-	0:14:04.555000	0:14:06.187000
 angebracht	-	-	-	0:14:04.555000	0:14:06.187000
 ?	-	-	-	0:14:04.555000	0:14:06.187000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:06.187000" end="0:14:08.476000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:06.187000" end="0:14:08.476000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:14:06.187000	0:14:08.476000
 ,	-	-	-	0:14:06.187000	0:14:08.476000
@@ -4317,16 +4317,16 @@ ich	-	-	-	0:14:06.187000	0:14:08.476000
 nicht	-	-	-	0:14:06.187000	0:14:08.476000
 .	-	-	-	0:14:06.187000	0:14:08.476000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:06.187000" end="0:14:09.571000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:06.187000" end="0:14:09.571000" age_lower="1" age_upper="999">
 gar	-	-	-	0:14:08.476000	0:14:09.571000
 nicht	-	-	-	0:14:08.476000	0:14:09.571000
 ?	-	-	-	0:14:08.476000	0:14:09.571000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:09.571000" end="0:14:09.972000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:09.571000" end="0:14:09.972000" age_lower="18" age_upper="35">
 nein	-	-	-	0:14:09.571000	0:14:09.972000
 .	-	-	-	0:14:09.571000	0:14:09.972000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:09.972000" end="0:14:13.906000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:09.972000" end="0:14:13.906000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:09.972000	0:14:10.798000
 .	-	-	-	0:14:09.972000	0:14:10.798000
 <pause duration="1,0s"/>
@@ -4341,12 +4341,12 @@ Skala	-	-	-	0:14:11.824000	0:14:13.906000
 vier	-	-	-	0:14:11.824000	0:14:13.906000
 um	-	-	-	0:14:11.824000	0:14:13.906000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:13.906000" end="0:14:16.978000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:13.906000" end="0:14:16.978000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:14:13.906000	0:14:14.623000
 .	-	-	-	0:14:13.906000	0:14:14.623000
 <pause duration="2,4s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:14.623000" end="0:14:20.671000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:14.623000" end="0:14:20.671000" age_lower="1" age_upper="999">
 <pause duration="2,4s"/>
 ähm	-	-	-	0:14:16.978000	0:14:18.694000
 und	-	-	-	0:14:16.978000	0:14:18.694000
@@ -4363,15 +4363,15 @@ Hochdeutsch	-	-	-	0:14:18.694000	0:14:20.671000
 beherrschen	-	-	-	0:14:18.694000	0:14:20.671000
 .	-	-	-	0:14:18.694000	0:14:20.671000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:20.671000" end="0:14:23.242000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:20.671000" end="0:14:23.242000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 Hochdeu/	-	-	-	0:14:21.962000	0:14:23.242000
 /.	-	-	-	0:14:21.962000	0:14:23.242000
 puh	-	-	-	0:14:21.962000	0:14:23.242000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:23.242000" end="0:14:23.564000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:23.242000" end="0:14:23.564000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:23.564000" end="0:14:28.295000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:23.564000" end="0:14:28.295000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 ja	-	-	-	0:14:24.891000	0:14:25.564000
 ,	-	-	-	0:14:24.891000	0:14:25.564000
@@ -4384,13 +4384,13 @@ fast	-	-	-	0:14:25.564000	0:14:27.579000
 ,	-	-	-	0:14:25.564000	0:14:27.579000
 (also)	-	-	-	0:14:27.579000	0:14:28.295000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:28.295000" end="0:14:28.684000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:28.295000" end="0:14:28.684000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:28.295000	0:14:28.684000
 ,	-	-	-	0:14:28.295000	0:14:28.684000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:28.684000" end="0:14:29.341000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:28.684000" end="0:14:29.341000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:28.684000" end="0:14:29.976000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:28.684000" end="0:14:29.976000" age_lower="1" age_upper="999">
 also	-	-	-	0:14:28.684000	0:14:29.341000
 doch	-	-	-	0:14:28.684000	0:14:29.341000
 sehr	-	-	-	0:14:28.684000	0:14:29.341000
@@ -4400,11 +4400,11 @@ aber	-	-	-	0:14:29.341000	0:14:29.976000
 nicht	-	-	-	0:14:29.341000	0:14:29.976000
 ganz	-	-	-	0:14:29.341000	0:14:29.976000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:29.976000" end="0:14:31.146000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:29.976000" end="0:14:31.146000" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:29.976000	0:14:31.146000
 .	-	-	-	0:14:29.976000	0:14:31.146000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:29.976000" end="0:14:35.241000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:29.976000" end="0:14:35.241000" age_lower="1" age_upper="999">
 vollständig	-	-	-	0:14:29.976000	0:14:31.146000
 auf	-	-	-	0:14:29.976000	0:14:31.146000
 jeden	-	-	-	0:14:29.976000	0:14:31.146000
@@ -4430,11 +4430,11 @@ jetzt	-	-	-	0:14:34.426000	0:14:35.241000
 wirklich	-	-	-	0:14:34.426000	0:14:35.241000
 eine	-	-	-	0:14:34.426000	0:14:35.241000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:35.241000" end="0:14:36.884000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:35.241000" end="0:14:36.884000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:14:35.241000	0:14:36.884000
 .	-	-	-	0:14:35.241000	0:14:36.884000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:35.241000" end="0:14:38.022000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:35.241000" end="0:14:38.022000" age_lower="1" age_upper="999">
 Sprachausbildung	-	-	-	0:14:35.241000	0:14:36.884000
 hat	-	-	-	0:14:35.241000	0:14:36.884000
 ,	-	-	-	0:14:35.241000	0:14:36.884000
@@ -4448,7 +4448,7 @@ noch	-	-	-	0:14:37.169000	0:14:38.022000
 ein	-	-	-	0:14:37.169000	0:14:38.022000
 bisschen	-	-	-	0:14:37.169000	0:14:38.022000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:38.022000" end="0:14:40.069000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:38.022000" end="0:14:40.069000" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:38.022000	0:14:40.069000
 der	-	-	-	0:14:38.022000	0:14:40.069000
 der	-	-	-	0:14:38.022000	0:14:40.069000
@@ -4461,7 +4461,7 @@ ich	-	-	-	0:14:38.022000	0:14:40.069000
 ja	-	-	-	0:14:38.022000	0:14:40.069000
 .	-	-	-	0:14:38.022000	0:14:40.069000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:38.022000" end="0:14:43.695000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:38.022000" end="0:14:43.695000" age_lower="1" age_upper="999">
 besser	-	-	-	0:14:38.022000	0:14:40.069000
 als	-	-	-	0:14:38.022000	0:14:40.069000
 als	-	-	-	0:14:38.022000	0:14:40.069000
@@ -4486,15 +4486,15 @@ und	-	-	-	0:14:40.069000	0:14:43.695000
 einem	-	-	-	0:14:40.069000	0:14:43.695000
 einem	-	-	-	0:14:40.069000	0:14:43.695000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:43.695000" end="0:14:45.104000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:43.695000" end="0:14:45.104000" age_lower="18" age_upper="35">
 hm	-	-	-	0:14:43.695000	0:14:45.104000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:43.695000" end="0:14:45.104000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:43.695000" end="0:14:45.104000" age_lower="1" age_upper="999">
 Nachrichtensprecher	-	-	-	0:14:43.695000	0:14:45.104000
 noch	-	-	-	0:14:43.695000	0:14:45.104000
 ?	-	-	-	0:14:43.695000	0:14:45.104000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:45.104000" end="0:14:51.419000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:45.104000" end="0:14:51.419000" age_lower="18" age_upper="35">
 ja	-	-	-	0:14:45.104000	0:14:46.831000
 ich	-	-	-	0:14:45.104000	0:14:46.831000
 habe	-	-	-	0:14:45.104000	0:14:46.831000
@@ -4518,7 +4518,7 @@ kann	-	-	-	0:14:48.479000	0:14:50.479000
 aber	-	-	-	0:14:50.479000	0:14:51.419000
 /.	-	-	-	0:14:50.479000	0:14:51.419000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:50.479000" end="0:14:52.212000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:50.479000" end="0:14:52.212000" age_lower="1" age_upper="999">
 okay	-	-	-	0:14:50.479000	0:14:51.419000
 ,	-	-	-	0:14:50.479000	0:14:51.419000
 wie	-	-	-	0:14:50.479000	0:14:51.419000
@@ -4529,14 +4529,14 @@ ich	-	-	-	0:14:51.419000	0:14:52.212000
 mir	-	-	-	0:14:51.419000	0:14:52.212000
 das	-	-	-	0:14:51.419000	0:14:52.212000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:52.212000" end="0:14:53.047000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:52.212000" end="0:14:53.047000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:14:52.212000	0:14:53.047000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:52.212000" end="0:14:53.047000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:14:52.212000" end="0:14:53.047000" age_lower="1" age_upper="999">
 vorstellen	-	-	-	0:14:52.212000	0:14:53.047000
 ?	-	-	-	0:14:52.212000	0:14:53.047000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:53.047000" end="0:15:04.289000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:14:53.047000" end="0:15:04.289000" age_lower="18" age_upper="35">
 nein	-	-	-	0:14:53.047000	0:14:54.388000
 ,	-	-	-	0:14:53.047000	0:14:54.388000
 ich	-	-	-	0:14:53.047000	0:14:54.388000
@@ -4592,7 +4592,7 @@ wohl	-	-	-	0:15:00.944000	0:15:01.868000
 (u/)	-	-	-	0:15:03.320000	0:15:04.289000
 /.	-	-	-	0:15:03.320000	0:15:04.289000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:03.320000" end="0:15:07.458000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:03.320000" end="0:15:07.458000" age_lower="1" age_upper="999">
 meinen	-	-	-	0:15:03.320000	0:15:04.289000
 Sie	-	-	-	0:15:03.320000	0:15:04.289000
 dann	-	-	-	0:15:03.320000	0:15:04.289000
@@ -4615,7 +4615,7 @@ in	-	-	-	0:15:06.351000	0:15:07.458000
 der	-	-	-	0:15:06.351000	0:15:07.458000
 Mundart	-	-	-	0:15:06.351000	0:15:07.458000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:07.458000" end="0:15:08.978000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:07.458000" end="0:15:08.978000" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:07.458000	0:15:08.978000
 auf	-	-	-	0:15:07.458000	0:15:08.978000
 jeden	-	-	-	0:15:07.458000	0:15:08.978000
@@ -4624,7 +4624,7 @@ Fall	-	-	-	0:15:07.458000	0:15:08.978000
 ja	-	-	-	0:15:07.458000	0:15:08.978000
 .	-	-	-	0:15:07.458000	0:15:08.978000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:07.458000" end="0:15:12.149000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:07.458000" end="0:15:12.149000" age_lower="1" age_upper="999">
 dann	-	-	-	0:15:07.458000	0:15:08.978000
 gesagt	-	-	-	0:15:07.458000	0:15:08.978000
 /?	-	-	-	0:15:07.458000	0:15:08.978000
@@ -4644,7 +4644,7 @@ nicht	-	-	-	0:15:10.410000	0:15:12.149000
 so	-	-	-	0:15:10.410000	0:15:12.149000
 ?	-	-	-	0:15:10.410000	0:15:12.149000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:12.149000" end="0:15:14.542000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:12.149000" end="0:15:14.542000" age_lower="18" age_upper="35">
 nein	-	-	-	0:15:12.149000	0:15:13.392000
 während	-	-	-	0:15:12.149000	0:15:13.392000
 dessen	-	-	-	0:15:12.149000	0:15:13.392000
@@ -4659,10 +4659,10 @@ vorher	-	-	-	0:15:14.046000	0:15:14.542000
 ,	-	-	-	0:15:14.046000	0:15:14.542000
 okay	-	-	-	0:15:14.046000	0:15:14.542000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:14.046000" end="0:15:14.542000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:14.046000" end="0:15:14.542000" age_lower="1" age_upper="999">
 (ja)	-	-	-	0:15:14.046000	0:15:14.542000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:14.542000" end="0:15:18.816000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:14.542000" end="0:15:18.816000" age_lower="18" age_upper="35">
 das	-	-	-	0:15:14.542000	0:15:15.218000
 das	-	-	-	0:15:14.542000	0:15:15.218000
 (he/)	-	-	-	0:15:14.542000	0:15:15.218000
@@ -4681,11 +4681,11 @@ Wörter	-	-	-	0:15:16.507000	0:15:18.286000
 finden	-	-	-	0:15:18.286000	0:15:18.816000
 ,	-	-	-	0:15:18.286000	0:15:18.816000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:18.286000" end="0:15:18.816000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:18.286000" end="0:15:18.816000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:18.286000	0:15:18.816000
 .	-	-	-	0:15:18.286000	0:15:18.816000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:18.816000" end="0:15:26.177000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:18.816000" end="0:15:26.177000" age_lower="18" age_upper="35">
 die	-	-	-	0:15:18.816000	0:15:21.192000
 jetzt	-	-	-	0:15:18.816000	0:15:21.192000
 genau	-	-	-	0:15:18.816000	0:15:21.192000
@@ -4719,15 +4719,15 @@ Hochdeutsch	-	-	-	0:15:25.010000	0:15:26.177000
 kann	-	-	-	0:15:25.010000	0:15:26.177000
 ,	-	-	-	0:15:25.010000	0:15:26.177000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:26.177000" end="0:15:26.588000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:26.177000" end="0:15:26.588000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:15:26.177000	0:15:26.588000
 ,	-	-	-	0:15:26.177000	0:15:26.588000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:26.588000" end="0:15:27.189000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:26.588000" end="0:15:27.189000" age_lower="18" age_upper="35">
 ja	-	-	-	0:15:26.588000	0:15:27.189000
 .	-	-	-	0:15:26.588000	0:15:27.189000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:26.588000" end="0:15:36.014000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:26.588000" end="0:15:36.014000" age_lower="1" age_upper="999">
 okay	-	-	-	0:15:26.588000	0:15:27.189000
 .	-	-	-	0:15:26.588000	0:15:27.189000
 <pause duration="1,4s"/>
@@ -4761,7 +4761,7 @@ Nachrichtensprechern	-	-	-	0:15:33.194000	0:15:36.014000
 hört	-	-	-	0:15:33.194000	0:15:36.014000
 ?	-	-	-	0:15:33.194000	0:15:36.014000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:36.014000" end="0:15:37.696000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:36.014000" end="0:15:37.696000" age_lower="18" age_upper="35">
 eine	-	-	-	0:15:36.014000	0:15:37.014000
 reinere	-	-	-	0:15:36.014000	0:15:37.014000
 Form	-	-	-	0:15:36.014000	0:15:37.014000
@@ -4769,11 +4769,11 @@ von	-	-	-	0:15:36.014000	0:15:37.014000
 Hochdeutsch	-	-	-	0:15:37.014000	0:15:37.696000
 ?	-	-	-	0:15:37.014000	0:15:37.696000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:37.014000" end="0:15:37.696000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:37.014000" end="0:15:37.696000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:37.014000	0:15:37.696000
 .	-	-	-	0:15:37.014000	0:15:37.696000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:37.696000" end="0:15:45.009000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:37.696000" end="0:15:45.009000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 puh	-	-	-	0:15:37.696000	0:15:39.618000
 <pause duration="1,0s"/>
@@ -4787,7 +4787,7 @@ Nachrichtensprecher	-	-	-	0:15:40.405000	0:15:42.224000
 <pause duration="2,3s"/>
 hm	-	-	-	0:15:44.568000	0:15:45.009000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:45.009000" end="0:15:47.468000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:45.009000" end="0:15:47.468000" age_lower="1" age_upper="999">
 also	-	-	-	0:15:45.009000	0:15:45.668000
 gibt	-	-	-	0:15:45.009000	0:15:45.668000
 es	-	-	-	0:15:45.009000	0:15:45.668000
@@ -4801,12 +4801,12 @@ drüber	-	-	-	0:15:45.668000	0:15:47.468000
 ansetzen	-	-	-	0:15:45.668000	0:15:47.468000
 würden	-	-	-	0:15:45.668000	0:15:47.468000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:47.468000" end="0:15:48.540000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:47.468000" end="0:15:48.540000" age_lower="18" age_upper="35">
 ah	-	-	-	0:15:47.468000	0:15:47.961000
 s/	-	-	-	0:15:47.468000	0:15:47.961000
 puh	-	-	-	0:15:47.961000	0:15:48.540000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:47.961000" end="0:15:50.540000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:15:47.961000" end="0:15:50.540000" age_lower="1" age_upper="999">
 irgendwie	-	-	-	0:15:47.961000	0:15:48.540000
 als	-	-	-	0:15:48.540000	0:15:50.540000
 dieses	-	-	-	0:15:48.540000	0:15:50.540000
@@ -4817,7 +4817,7 @@ ZIB	-	-	-	0:15:48.540000	0:15:50.540000
 Zwei	-	-	-	0:15:48.540000	0:15:50.540000
 ?	-	-	-	0:15:48.540000	0:15:50.540000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:50.540000" end="0:16:04.142000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:15:50.540000" end="0:16:04.142000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 hm	-	-	-	0:15:51.854000	0:15:52.183000
 <pause duration="0,8s"/>
@@ -4845,17 +4845,17 @@ da	-	-	-	0:16:02.887000	0:16:04.142000
 sicher	-	-	-	0:16:02.887000	0:16:04.142000
 .	-	-	-	0:16:02.887000	0:16:04.142000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:04.142000" end="0:16:07.358000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:04.142000" end="0:16:07.358000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 ja	-	-	-	0:16:05.155000	0:16:05.448000
 ,	-	-	-	0:16:05.155000	0:16:05.448000
 also	-	-	-	0:16:05.448000	0:16:05.973000
 <pause duration="1,4s"/>
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:07.358000" end="0:16:07.828000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:07.358000" end="0:16:07.828000" age_lower="18" age_upper="35">
 (hm)	-	-	-	0:16:07.358000	0:16:07.828000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:07.358000" end="0:16:08.923000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:07.358000" end="0:16:08.923000" age_lower="1" age_upper="999">
 erzählen	-	-	-	0:16:07.358000	0:16:07.828000
 Sie	-	-	-	0:16:07.358000	0:16:07.828000
 mir	-	-	-	0:16:07.358000	0:16:07.828000
@@ -4866,7 +4866,7 @@ sich	-	-	-	0:16:07.828000	0:16:08.923000
 denken	-	-	-	0:16:07.828000	0:16:08.923000
 .	-	-	-	0:16:07.828000	0:16:08.923000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:08.923000" end="0:16:26.016000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:08.923000" end="0:16:26.016000" age_lower="18" age_upper="35">
 <pause duration="1,5s"/>
 na	-	-	-	0:16:10.451000	0:16:13
 oft	-	-	-	0:16:10.451000	0:16:13
@@ -4911,11 +4911,11 @@ zusammenkommen	-	-	-	0:16:22.821000	0:16:26.016000
 auch	-	-	-	0:16:22.821000	0:16:26.016000
 ,	-	-	-	0:16:22.821000	0:16:26.016000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:26.016000" end="0:16:26.515000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:26.016000" end="0:16:26.515000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:16:26.016000	0:16:26.515000
 .	-	-	-	0:16:26.016000	0:16:26.515000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:26.515000" end="0:16:30.134000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:26.515000" end="0:16:30.134000" age_lower="18" age_upper="35">
 dann	-	-	-	0:16:26.515000	0:16:27.810000
 redet	-	-	-	0:16:26.515000	0:16:27.810000
 der	-	-	-	0:16:26.515000	0:16:27.810000
@@ -4933,7 +4933,7 @@ versteht	-	-	-	0:16:27.810000	0:16:29.019000
 ja	-	-	-	0:16:29.019000	0:16:30.134000
 .	-	-	-	0:16:29.019000	0:16:30.134000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:29.019000" end="0:16:31.341000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:29.019000" end="0:16:31.341000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 haben	-	-	-	0:16:29.019000	0:16:30.134000
 Sie	-	-	-	0:16:29.019000	0:16:30.134000
@@ -4946,7 +4946,7 @@ ist	-	-	-	0:16:30.926000	0:16:31.341000
 das	-	-	-	0:16:30.926000	0:16:31.341000
 für	-	-	-	0:16:30.926000	0:16:31.341000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:31.341000" end="0:16:32.729000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:31.341000" end="0:16:32.729000" age_lower="18" age_upper="35">
 ah	-	-	-	0:16:31.341000	0:16:32.729000
 so	-	-	-	0:16:31.341000	0:16:32.729000
 ,	-	-	-	0:16:31.341000	0:16:32.729000
@@ -4957,7 +4957,7 @@ auch	-	-	-	0:16:31.341000	0:16:32.729000
 Hochdeutsch	-	-	-	0:16:31.341000	0:16:32.729000
 .	-	-	-	0:16:31.341000	0:16:32.729000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:31.341000" end="0:16:38.883000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:31.341000" end="0:16:38.883000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:16:31.341000	0:16:32.729000
 trotzdem	-	-	-	0:16:31.341000	0:16:32.729000
 Hochdeutsch	-	-	-	0:16:31.341000	0:16:32.729000
@@ -4980,14 +4980,14 @@ Symposiumsdeutsch	-	-	-	0:16:36.179000	0:16:38.883000
 und	-	-	-	0:16:36.179000	0:16:38.883000
 und	-	-	-	0:16:36.179000	0:16:38.883000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:38.883000" end="0:16:40.241000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:38.883000" end="0:16:40.241000" age_lower="18" age_upper="35">
 hm	-	-	-	0:16:38.883000	0:16:40.241000
 na	-	-	-	0:16:38.883000	0:16:40.241000
 die	-	-	-	0:16:38.883000	0:16:40.241000
 Leute	-	-	-	0:16:38.883000	0:16:40.241000
 vom	-	-	-	0:16:38.883000	0:16:40.241000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:38.883000" end="0:16:40.241000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:38.883000" end="0:16:40.241000" age_lower="1" age_upper="999">
 dem	-	-	-	0:16:38.883000	0:16:40.241000
 Hochdeutschen	-	-	-	0:16:38.883000	0:16:40.241000
 aus	-	-	-	0:16:38.883000	0:16:40.241000
@@ -4995,7 +4995,7 @@ dem	-	-	-	0:16:38.883000	0:16:40.241000
 Fernsehen	-	-	-	0:16:38.883000	0:16:40.241000
 ?	-	-	-	0:16:38.883000	0:16:40.241000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:40.241000" end="0:16:53.972000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:40.241000" end="0:16:53.972000" age_lower="18" age_upper="35">
 Zib	-	-	-	0:16:40.241000	0:16:41.269000
 oder	-	-	-	0:16:40.241000	0:16:41.269000
 was	-	-	-	0:16:40.241000	0:16:41.269000
@@ -5046,15 +5046,15 @@ Hochdeutsch	-	-	-	0:16:51.445000	0:16:53.972000
 drinnen	-	-	-	0:16:51.445000	0:16:53.972000
 ,	-	-	-	0:16:51.445000	0:16:53.972000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:53.972000" end="0:16:54.338000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:53.972000" end="0:16:54.338000" age_lower="1" age_upper="999">
 okay	-	-	-	0:16:53.972000	0:16:54.338000
 .	-	-	-	0:16:53.972000	0:16:54.338000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:54.338000" end="0:16:54.664000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:54.338000" end="0:16:54.664000" age_lower="18" age_upper="35">
 also	-	-	-	0:16:54.338000	0:16:54.664000
 /.	-	-	-	0:16:54.338000	0:16:54.664000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:54.664000" end="0:16:57.167000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:54.664000" end="0:16:57.167000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 und	-	-	-	0:16:55.671000	0:16:57.167000
 das	-	-	-	0:16:55.671000	0:16:57.167000
@@ -5064,7 +5064,7 @@ eben	-	-	-	0:16:55.671000	0:16:57.167000
 beim	-	-	-	0:16:55.671000	0:16:57.167000
 Symposium	-	-	-	0:16:55.671000	0:16:57.167000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:57.167000" end="0:16:58.500000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:16:57.167000" end="0:16:58.500000" age_lower="18" age_upper="35">
 zum	-	-	-	0:16:57.167000	0:16:58.500000
 Beispiel	-	-	-	0:16:57.167000	0:16:58.500000
 nicht	-	-	-	0:16:57.167000	0:16:58.500000
@@ -5072,7 +5072,7 @@ nicht	-	-	-	0:16:57.167000	0:16:58.500000
 nein	-	-	-	0:16:57.167000	0:16:58.500000
 .	-	-	-	0:16:57.167000	0:16:58.500000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:57.167000" end="0:17:01.015000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:16:57.167000" end="0:17:01.015000" age_lower="1" age_upper="999">
 weniger	-	-	-	0:16:57.167000	0:16:58.500000
 ,	-	-	-	0:16:57.167000	0:16:58.500000
 würden	-	-	-	0:16:57.167000	0:16:58.500000
@@ -5090,11 +5090,11 @@ trotzdem	-	-	-	0:16:58.981000	0:17:01.015000
 Hochdeutsch	-	-	-	0:16:58.981000	0:17:01.015000
 ,	-	-	-	0:16:58.981000	0:17:01.015000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:01.015000" end="0:17:01.338000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:01.015000" end="0:17:01.338000" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:01.015000	0:17:01.338000
 .	-	-	-	0:17:01.015000	0:17:01.338000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:01.015000" end="0:17:02.694000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:01.015000" end="0:17:02.694000" age_lower="1" age_upper="999">
 wir	-	-	-	0:17:01.015000	0:17:01.338000
 nennen	-	-	-	0:17:01.015000	0:17:01.338000
 es	-	-	-	0:17:01.338000	0:17:02.694000
@@ -5102,16 +5102,16 @@ einfach	-	-	-	0:17:01.338000	0:17:02.694000
 reineres	-	-	-	0:17:01.338000	0:17:02.694000
 Hoch/	-	-	-	0:17:01.338000	0:17:02.694000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:02.694000" end="0:17:03.386000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:02.694000" end="0:17:03.386000" age_lower="18" age_upper="35">
 reineres	-	-	-	0:17:02.694000	0:17:03.386000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:02.694000" end="0:17:03.386000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:02.694000" end="0:17:03.386000" age_lower="1" age_upper="999">
 /deutsch	-	-	-	0:17:02.694000	0:17:03.386000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:03.386000" end="0:17:04.531000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:03.386000" end="0:17:04.531000" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:17:03.386000	0:17:04.531000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:03.386000" end="0:17:08.573000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:03.386000" end="0:17:08.573000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:17:03.386000	0:17:04.531000
 egal	-	-	-	0:17:03.386000	0:17:04.531000
 ,	-	-	-	0:17:03.386000	0:17:04.531000
@@ -5128,11 +5128,11 @@ Nummer	-	-	-	0:17:06.713000	0:17:08.573000
 fünf	-	-	-	0:17:06.713000	0:17:08.573000
 um	-	-	-	0:17:06.713000	0:17:08.573000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:08.573000" end="0:17:09.211000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:08.573000" end="0:17:09.211000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:08.573000	0:17:09.211000
 .	-	-	-	0:17:08.573000	0:17:09.211000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:08.573000" end="0:17:10.009000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:08.573000" end="0:17:10.009000" age_lower="1" age_upper="999">
 und	-	-	-	0:17:08.573000	0:17:09.211000
 denken	-	-	-	0:17:08.573000	0:17:09.211000
 an	-	-	-	0:17:08.573000	0:17:09.211000
@@ -5140,11 +5140,11 @@ so	-	-	-	0:17:08.573000	0:17:09.211000
 ein	-	-	-	0:17:09.211000	0:17:10.009000
 Symposium	-	-	-	0:17:09.211000	0:17:10.009000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:10.009000" end="0:17:10.419000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:10.009000" end="0:17:10.419000" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:10.009000	0:17:10.419000
 .	-	-	-	0:17:10.009000	0:17:10.419000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:10.009000" end="0:17:16.733000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:10.009000" end="0:17:16.733000" age_lower="1" age_upper="999">
 und	-	-	-	0:17:10.009000	0:17:10.419000
 und	-	-	-	0:17:10.419000	0:17:11.194000
 an	-	-	-	0:17:10.419000	0:17:11.194000
@@ -5179,7 +5179,7 @@ verwenden	-	-	-	0:17:15.950000	0:17:16.733000
 es	-	-	-	0:17:15.950000	0:17:16.733000
 nicht	-	-	-	0:17:15.950000	0:17:16.733000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:16.733000" end="0:17:17.451000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:16.733000" end="0:17:17.451000" age_lower="18" age_upper="35">
 ah	-	-	-	0:17:16.733000	0:17:17.451000
 so	-	-	-	0:17:16.733000	0:17:17.451000
 ,	-	-	-	0:17:16.733000	0:17:17.451000
@@ -5188,18 +5188,18 @@ nein	-	-	-	0:17:16.733000	0:17:17.451000
 ich	-	-	-	0:17:16.733000	0:17:17.451000
 f/	-	-	-	0:17:16.733000	0:17:17.451000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:16.733000" end="0:17:17.451000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:16.733000" end="0:17:17.451000" age_lower="1" age_upper="999">
 sehr	-	-	-	0:17:16.733000	0:17:17.451000
 oft	-	-	-	0:17:16.733000	0:17:17.451000
 .	-	-	-	0:17:16.733000	0:17:17.451000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:17.451000" end="0:17:19.381000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:17.451000" end="0:17:19.381000" age_lower="18" age_upper="35">
 verwende	-	-	-	0:17:17.451000	0:17:18.242000
 es	-	-	-	0:17:17.451000	0:17:18.242000
 nicht	-	-	-	0:17:17.451000	0:17:18.242000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:19.381000" end="0:17:21.589000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:19.381000" end="0:17:21.589000" age_lower="1" age_upper="999">
 aber	-	-	-	0:17:19.381000	0:17:20.055000
 einfach	-	-	-	0:17:19.381000	0:17:20.055000
 ,	-	-	-	0:17:19.381000	0:17:20.055000
@@ -5212,7 +5212,7 @@ einschätzen	-	-	-	0:17:20.055000	0:17:21.589000
 würden	-	-	-	0:17:20.055000	0:17:21.589000
 ?	-	-	-	0:17:20.055000	0:17:21.589000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:21.589000" end="0:17:24.999000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:21.589000" end="0:17:24.999000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 ja	-	-	-	0:17:22.569000	0:17:23.752000
 wenn	-	-	-	0:17:22.569000	0:17:23.752000
@@ -5229,20 +5229,20 @@ eh	-	-	-	0:17:23.752000	0:17:24.999000
 auch	-	-	-	0:17:23.752000	0:17:24.999000
 ,	-	-	-	0:17:23.752000	0:17:24.999000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:23.752000" end="0:17:24.999000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:23.752000" end="0:17:24.999000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:24.999000" end="0:17:26.046000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:24.999000" end="0:17:26.046000" age_lower="18" age_upper="35">
 also	-	-	-	0:17:24.999000	0:17:25.239000
 .	-	-	-	0:17:25.239000	0:17:26.046000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:25.239000" end="0:17:26.046000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:25.239000" end="0:17:26.046000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:25.239000	0:17:26.046000
 .	-	-	-	0:17:25.239000	0:17:26.046000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:26.046000" end="0:17:28.277000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:26.046000" end="0:17:28.277000" age_lower="18" age_upper="35">
 <pause duration="2,2s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:26.046000" end="0:17:34.013000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:26.046000" end="0:17:34.013000" age_lower="1" age_upper="999">
 <pause duration="2,2s"/>
 ähm	-	-	-	0:17:28.277000	0:17:30.461000
 gibt	-	-	-	0:17:28.277000	0:17:30.461000
@@ -5271,12 +5271,12 @@ das	-	-	-	0:17:32.190000	0:17:34.013000
 geht	-	-	-	0:17:32.190000	0:17:34.013000
 nicht	-	-	-	0:17:32.190000	0:17:34.013000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:34.013000" end="0:17:34.675000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:34.013000" end="0:17:34.675000" age_lower="18" age_upper="35">
 ah	-	-	-	0:17:34.013000	0:17:34.675000
 so	-	-	-	0:17:34.013000	0:17:34.675000
 ,	-	-	-	0:17:34.013000	0:17:34.675000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:34.013000" end="0:17:35.334000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:34.013000" end="0:17:35.334000" age_lower="1" age_upper="999">
 mehr	-	-	-	0:17:34.013000	0:17:34.675000
 ,	-	-	-	0:17:34.013000	0:17:34.675000
 wenn	-	-	-	0:17:34.013000	0:17:34.675000
@@ -5287,19 +5287,19 @@ an	-	-	-	0:17:34.675000	0:17:35.334000
 an	-	-	-	0:17:34.675000	0:17:35.334000
 reines	-	-	-	0:17:34.675000	0:17:35.334000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:35.334000" end="0:17:36.659000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:35.334000" end="0:17:36.659000" age_lower="18" age_upper="35">
 nein	-	-	-	0:17:35.334000	0:17:36.659000
 ,	-	-	-	0:17:35.334000	0:17:36.659000
 weil	-	-	-	0:17:35.334000	0:17:36.659000
 Hochdeutsch	-	-	-	0:17:35.334000	0:17:36.659000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:35.334000" end="0:17:36.659000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:35.334000" end="0:17:36.659000" age_lower="1" age_upper="999">
 Hochdeutsch	-	-	-	0:17:35.334000	0:17:36.659000
 (denken)	-	-	-	0:17:35.334000	0:17:36.659000
 (oder)	-	-	-	0:17:35.334000	0:17:36.659000
 /?	-	-	-	0:17:35.334000	0:17:36.659000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:36.659000" end="0:17:39.292000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:36.659000" end="0:17:39.292000" age_lower="18" age_upper="35">
 ist	-	-	-	0:17:36.659000	0:17:37.879000
 eigentlich	-	-	-	0:17:36.659000	0:17:37.879000
 eh	-	-	-	0:17:36.659000	0:17:37.879000
@@ -5313,7 +5313,7 @@ es	-	-	-	0:17:37.879000	0:17:39.292000
 Grenzen	-	-	-	0:17:37.879000	0:17:39.292000
 ,	-	-	-	0:17:37.879000	0:17:39.292000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:37.879000" end="0:17:39.292000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:37.879000" end="0:17:39.292000" age_lower="1" age_upper="999">
 okay	-	-	-	0:17:37.879000	0:17:39.292000
 ,	-	-	-	0:17:37.879000	0:17:39.292000
 also	-	-	-	0:17:37.879000	0:17:39.292000
@@ -5321,11 +5321,11 @@ das	-	-	-	0:17:37.879000	0:17:39.292000
 bleibt	-	-	-	0:17:37.879000	0:17:39.292000
 dann	-	-	-	0:17:37.879000	0:17:39.292000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:39.292000" end="0:17:39.648000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:39.292000" end="0:17:39.648000" age_lower="18" age_upper="35">
 ja	-	-	-	0:17:39.292000	0:17:39.648000
 .	-	-	-	0:17:39.292000	0:17:39.648000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:39.292000" end="0:17:40.717000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:39.292000" end="0:17:40.717000" age_lower="1" age_upper="999">
 das	-	-	-	0:17:39.292000	0:17:39.648000
 bleibt	-	-	-	0:17:39.292000	0:17:39.648000
 dann	-	-	-	0:17:39.648000	0:17:40.717000
@@ -5333,11 +5333,11 @@ trotzdem	-	-	-	0:17:39.648000	0:17:40.717000
 Hochdeutsch	-	-	-	0:17:39.648000	0:17:40.717000
 ?	-	-	-	0:17:39.648000	0:17:40.717000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:40.717000" end="0:17:41.201000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:40.717000" end="0:17:41.201000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:17:40.717000	0:17:41.201000
 .	-	-	-	0:17:40.717000	0:17:41.201000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:41.201000" end="0:17:59.041000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:41.201000" end="0:17:59.041000" age_lower="1" age_upper="999">
 gut	-	-	-	0:17:41.201000	0:17:41.880000
 .	-	-	-	0:17:41.201000	0:17:41.880000
 <pause duration="2,1s"/>
@@ -5378,7 +5378,7 @@ das	-	-	-	0:17:56.402000	0:17:59.041000
 beim	-	-	-	0:17:56.402000	0:17:59.041000
 beim	-	-	-	0:17:56.402000	0:17:59.041000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:59.041000" end="0:18:00.403000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:17:59.041000" end="0:18:00.403000" age_lower="18" age_upper="35">
 ah	-	-	-	0:17:59.041000	0:18:00.403000
 so	-	-	-	0:17:59.041000	0:18:00.403000
 ,	-	-	-	0:17:59.041000	0:18:00.403000
@@ -5386,7 +5386,7 @@ ja	-	-	-	0:17:59.041000	0:18:00.403000
 eigentlich	-	-	-	0:17:59.041000	0:18:00.403000
 /.	-	-	-	0:17:59.041000	0:18:00.403000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:59.041000" end="0:18:01.891000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:17:59.041000" end="0:18:01.891000" age_lower="1" age_upper="999">
 Symposium	-	-	-	0:17:59.041000	0:18:00.403000
 ,	-	-	-	0:17:59.041000	0:18:00.403000
 nur	-	-	-	0:17:59.041000	0:18:00.403000
@@ -5400,35 +5400,35 @@ so	-	-	-	0:18:00.403000	0:18:01.637000
 gut	-	-	-	0:18:00.403000	0:18:01.637000
 oder	-	-	-	0:18:01.637000	0:18:01.891000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:01.891000" end="0:18:02.404000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:01.891000" end="0:18:02.404000" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:01.891000	0:18:02.404000
 ,	-	-	-	0:18:01.891000	0:18:02.404000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:01.891000" end="0:18:02.730000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:01.891000" end="0:18:02.730000" age_lower="1" age_upper="999">
 ist	-	-	-	0:18:01.891000	0:18:02.404000
 sind	-	-	-	0:18:01.891000	0:18:02.404000
 das	-	-	-	0:18:01.891000	0:18:02.404000
 zwei	-	-	-	0:18:01.891000	0:18:02.404000
 verschiedene	-	-	-	0:18:02.404000	0:18:02.730000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:02.730000" end="0:18:03.385000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:02.730000" end="0:18:03.385000" age_lower="18" age_upper="35">
 nein	-	-	-	0:18:02.730000	0:18:03.385000
 ,	-	-	-	0:18:02.730000	0:18:03.385000
 es	-	-	-	0:18:02.730000	0:18:03.385000
 sind	-	-	-	0:18:02.730000	0:18:03.385000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:02.730000" end="0:18:03.385000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:02.730000" end="0:18:03.385000" age_lower="1" age_upper="999">
 Sprachformen	-	-	-	0:18:02.730000	0:18:03.385000
 ?	-	-	-	0:18:02.730000	0:18:03.385000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:03.385000" end="0:18:04.431000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:03.385000" end="0:18:04.431000" age_lower="18" age_upper="35">
 nicht	-	-	-	0:18:03.385000	0:18:03.978000
 zwei	-	-	-	0:18:03.385000	0:18:03.978000
 verschiedene	-	-	-	0:18:03.385000	0:18:03.978000
 Sprachen	-	-	-	0:18:03.978000	0:18:04.431000
 .	-	-	-	0:18:03.978000	0:18:04.431000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:03.978000" end="0:18:07.705000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:03.978000" end="0:18:07.705000" age_lower="1" age_upper="999">
 okay	-	-	-	0:18:03.978000	0:18:04.431000
 ,	-	-	-	0:18:03.978000	0:18:04.431000
 das	-	-	-	0:18:04.431000	0:18:04.624000
@@ -5445,11 +5445,11 @@ theoretisches	-	-	-	0:18:04.624000	0:18:07.705000
 Hochdeutsch	-	-	-	0:18:04.624000	0:18:07.705000
 ,	-	-	-	0:18:04.624000	0:18:07.705000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:07.705000" end="0:18:08.143000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:07.705000" end="0:18:08.143000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:07.705000	0:18:08.143000
 .	-	-	-	0:18:07.705000	0:18:08.143000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:07.705000" end="0:18:10.685000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:07.705000" end="0:18:10.685000" age_lower="1" age_upper="999">
 das	-	-	-	0:18:07.705000	0:18:08.143000
 manche	-	-	-	0:18:08.143000	0:18:09.949000
 sehr	-	-	-	0:18:08.143000	0:18:09.949000
@@ -5460,11 +5460,11 @@ andere	-	-	-	0:18:09.949000	0:18:10.685000
 nur	-	-	-	0:18:09.949000	0:18:10.685000
 gut	-	-	-	0:18:09.949000	0:18:10.685000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:10.685000" end="0:18:10.992000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:10.685000" end="0:18:10.992000" age_lower="18" age_upper="35">
 ja	-	-	-	0:18:10.685000	0:18:10.992000
 .	-	-	-	0:18:10.685000	0:18:10.992000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:10.992000" end="0:18:12.179000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:10.992000" end="0:18:12.179000" age_lower="1" age_upper="999">
 und	-	-	-	0:18:10.992000	0:18:11.691000
 Sie	-	-	-	0:18:10.992000	0:18:11.691000
 ein	-	-	-	0:18:10.992000	0:18:11.691000
@@ -5473,9 +5473,9 @@ auch	-	-	-	0:18:11.691000	0:18:12.179000
 gut	-	-	-	0:18:11.691000	0:18:12.179000
 ,	-	-	-	0:18:11.691000	0:18:12.179000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:12.179000" end="0:18:12.646000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:12.179000" end="0:18:12.646000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:12.179000" end="0:18:13.523000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:12.179000" end="0:18:13.523000" age_lower="1" age_upper="999">
 aber	-	-	-	0:18:12.179000	0:18:12.646000
 nicht	-	-	-	0:18:12.179000	0:18:12.646000
 so	-	-	-	0:18:12.646000	0:18:12.991000
@@ -5485,11 +5485,11 @@ so	-	-	-	0:18:12.991000	0:18:13.523000
 weiter	-	-	-	0:18:12.991000	0:18:13.523000
 und	-	-	-	0:18:12.991000	0:18:13.523000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:13.523000" end="0:18:14.179000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:13.523000" end="0:18:14.179000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:13.523000	0:18:14.179000
 .	-	-	-	0:18:13.523000	0:18:14.179000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:13.523000" end="0:18:15.263000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:13.523000" end="0:18:15.263000" age_lower="1" age_upper="999">
 so	-	-	-	0:18:13.523000	0:18:14.179000
 fort	-	-	-	0:18:13.523000	0:18:14.179000
 ,	-	-	-	0:18:13.523000	0:18:14.179000
@@ -5500,11 +5500,11 @@ so	-	-	-	0:18:14.179000	0:18:15.263000
 festhalten	-	-	-	0:18:14.179000	0:18:15.263000
 ?	-	-	-	0:18:14.179000	0:18:15.263000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:15.263000" end="0:18:15.499000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:15.263000" end="0:18:15.499000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:15.263000	0:18:15.499000
 .	-	-	-	0:18:15.263000	0:18:15.499000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:15.263000" end="0:18:28.449000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:15.263000" end="0:18:28.449000" age_lower="1" age_upper="999">
 gut	-	-	-	0:18:15.263000	0:18:15.499000
 ,	-	-	-	0:18:15.263000	0:18:15.499000
 okay	-	-	-	0:18:15.499000	0:18:15.761000
@@ -5547,21 +5547,21 @@ anderen	-	-	-	0:18:26.920000	0:18:28.449000
 Begriff	-	-	-	0:18:26.920000	0:18:28.449000
 ?	-	-	-	0:18:26.920000	0:18:28.449000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:28.449000" end="0:18:29.533000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:28.449000" end="0:18:29.533000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:18:28.449000	0:18:29.533000
 ich	-	-	-	0:18:28.449000	0:18:29.533000
 rede	-	-	-	0:18:28.449000	0:18:29.533000
 ?	-	-	-	0:18:28.449000	0:18:29.533000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:29.533000" end="0:18:29.625000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:29.533000" end="0:18:29.625000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:29.533000	0:18:29.625000
 .	-	-	-	0:18:29.533000	0:18:29.625000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:29.625000" end="0:18:30.128000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:29.625000" end="0:18:30.128000" age_lower="18" age_upper="35">
 normal	-	-	-	0:18:29.625000	0:18:30.128000
 ?	-	-	-	0:18:29.625000	0:18:30.128000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:29.625000" end="0:18:31.092000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:29.625000" end="0:18:31.092000" age_lower="1" age_upper="999">
 also	-	-	-	0:18:29.625000	0:18:30.128000
 das	-	-	-	0:18:30.128000	0:18:30.449000
 ho/	-	-	-	0:18:30.128000	0:18:30.449000
@@ -5570,7 +5570,7 @@ wenn	-	-	-	0:18:30.449000	0:18:31.092000
 Sie	-	-	-	0:18:30.449000	0:18:31.092000
 Hochdeutsch	-	-	-	0:18:30.449000	0:18:31.092000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:31.092000" end="0:18:32.700000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:31.092000" end="0:18:32.700000" age_lower="18" age_upper="35">
 ah	-	-	-	0:18:31.092000	0:18:32.700000
 so	-	-	-	0:18:31.092000	0:18:32.700000
 ja	-	-	-	0:18:31.092000	0:18:32.700000
@@ -5584,7 +5584,7 @@ Hochdeutsch	-	-	-	0:18:31.092000	0:18:32.700000
 ja	-	-	-	0:18:31.092000	0:18:32.700000
 .	-	-	-	0:18:31.092000	0:18:32.700000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:31.092000" end="0:18:39.036000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:31.092000" end="0:18:39.036000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:18:31.092000	0:18:32.700000
 /?	-	-	-	0:18:31.092000	0:18:32.700000
 okay	-	-	-	0:18:31.092000	0:18:32.700000
@@ -5614,7 +5614,7 @@ sieben	-	-	-	0:18:36.717000	0:18:39.036000
 um	-	-	-	0:18:36.717000	0:18:39.036000
 .	-	-	-	0:18:36.717000	0:18:39.036000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:39.036000" end="0:18:40.812000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:39.036000" end="0:18:40.812000" age_lower="18" age_upper="35">
 sieben	-	-	-	0:18:39.036000	0:18:39.583000
 ?	-	-	-	0:18:39.036000	0:18:39.583000
 aber	-	-	-	0:18:39.583000	0:18:40.531000
@@ -5625,7 +5625,7 @@ nicht	-	-	-	0:18:39.583000	0:18:40.531000
 ausgefüllt	-	-	-	0:18:40.531000	0:18:40.812000
 .	-	-	-	0:18:40.531000	0:18:40.812000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:40.531000" end="0:18:41.339000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:40.531000" end="0:18:41.339000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:40.531000	0:18:40.812000
 ,	-	-	-	0:18:40.531000	0:18:40.812000
 das	-	-	-	0:18:40.531000	0:18:40.812000
@@ -5633,12 +5633,12 @@ macht	-	-	-	0:18:40.812000	0:18:41.339000
 nichts	-	-	-	0:18:40.812000	0:18:41.339000
 .	-	-	-	0:18:40.812000	0:18:41.339000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:41.339000" end="0:18:43.825000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:41.339000" end="0:18:43.825000" age_lower="18" age_upper="35">
 okay	-	-	-	0:18:41.339000	0:18:41.762000
 .	-	-	-	0:18:41.339000	0:18:41.762000
 <pause duration="2,1s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:41.762000" end="0:18:46.734000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:41.762000" end="0:18:46.734000" age_lower="1" age_upper="999">
 <pause duration="2,1s"/>
 da	-	-	-	0:18:43.825000	0:18:44.904000
 haben	-	-	-	0:18:43.825000	0:18:44.904000
@@ -5653,11 +5653,11 @@ nicht	-	-	-	0:18:44.904000	0:18:46.734000
 <pause duration="0,8s"/>
 ausgefüllt	-	-	-	0:18:44.904000	0:18:46.734000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:46.734000" end="0:18:47.197000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:46.734000" end="0:18:47.197000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:46.734000	0:18:47.197000
 .	-	-	-	0:18:46.734000	0:18:47.197000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:46.734000" end="0:18:50.288000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:46.734000" end="0:18:50.288000" age_lower="1" age_upper="999">
 sind	-	-	-	0:18:46.734000	0:18:47.197000
 ,	-	-	-	0:18:46.734000	0:18:47.197000
 bitte	-	-	-	0:18:47.197000	0:18:47.637000
@@ -5674,12 +5674,12 @@ jetzt	-	-	-	0:18:47.637000	0:18:50.288000
 "Mundart"	-	-	-	0:18:47.637000	0:18:50.288000
 hinschreiben	-	-	-	0:18:47.637000	0:18:50.288000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:50.288000" end="0:18:55.247000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:18:50.288000" end="0:18:55.247000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:18:50.288000	0:18:50.967000
 .	-	-	-	0:18:50.288000	0:18:50.967000
 <pause duration="4,3s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:50.967000" end="0:19:00.413000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:18:50.967000" end="0:19:00.413000" age_lower="1" age_upper="999">
 <pause duration="4,3s"/>
 und	-	-	-	0:18:55.247000	0:18:57.331000
 beim	-	-	-	0:18:55.247000	0:18:57.331000
@@ -5702,18 +5702,18 @@ wirklich	-	-	-	0:18:59.141000	0:19:00.413000
 perfekt	-	-	-	0:18:59.141000	0:19:00.413000
 ist	-	-	-	0:18:59.141000	0:19:00.413000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:00.413000" end="0:19:00.975000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:00.413000" end="0:19:00.975000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:19:00.413000	0:19:00.975000
 .	-	-	-	0:19:00.413000	0:19:00.975000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:00.413000" end="0:19:00.975000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:00.413000" end="0:19:00.975000" age_lower="1" age_upper="999">
 quasi	-	-	-	0:19:00.413000	0:19:00.975000
 ,	-	-	-	0:19:00.413000	0:19:00.975000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:00.975000" end="0:19:05.638000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:00.975000" end="0:19:05.638000" age_lower="18" age_upper="35">
 <pause duration="4,7s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:00.975000" end="0:19:07.638000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:00.975000" end="0:19:07.638000" age_lower="1" age_upper="999">
 <pause duration="4,7s"/>
 und	-	-	-	0:19:05.638000	0:19:07.638000
 wenn	-	-	-	0:19:05.638000	0:19:07.638000
@@ -5723,12 +5723,12 @@ Hochdeutsch	-	-	-	0:19:05.638000	0:19:07.638000
 sprechen	-	-	-	0:19:05.638000	0:19:07.638000
 ,	-	-	-	0:19:05.638000	0:19:07.638000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:07.638000" end="0:19:08.595000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:07.638000" end="0:19:08.595000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:19:07.638000	0:19:08.595000
 .	-	-	-	0:19:07.638000	0:19:08.595000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:08.595000" end="0:19:12.848000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:08.595000" end="0:19:12.848000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 wo	-	-	-	0:19:09.612000	0:19:11.565000
 bewegt	-	-	-	0:19:09.612000	0:19:11.565000
@@ -5746,9 +5746,9 @@ haben	-	-	-	0:19:11.565000	0:19:12.848000
 gesagt	-	-	-	0:19:11.565000	0:19:12.848000
 ,	-	-	-	0:19:11.565000	0:19:12.848000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:12.848000" end="0:19:13.103000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:12.848000" end="0:19:13.103000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:12.848000" end="0:19:19.430000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:12.848000" end="0:19:19.430000" age_lower="1" age_upper="999">
 es	-	-	-	0:19:12.848000	0:19:13.103000
 ist	-	-	-	0:19:12.848000	0:19:13.103000
 irgendwie	-	-	-	0:19:13.103000	0:19:13.484000
@@ -5780,14 +5780,14 @@ selbst	-	-	-	0:19:17.430000	0:19:19.430000
 sehen	-	-	-	0:19:17.430000	0:19:19.430000
 ?	-	-	-	0:19:17.430000	0:19:19.430000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:19.430000" end="0:19:21.108000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:19.430000" end="0:19:21.108000" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:19.430000	0:19:20.198000
 ,	-	-	-	0:19:19.430000	0:19:20.198000
 ganz	-	-	-	0:19:20.198000	0:19:21.108000
 mittig	-	-	-	0:19:20.198000	0:19:21.108000
 .	-	-	-	0:19:20.198000	0:19:21.108000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:21.108000" end="0:19:27.475000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:21.108000" end="0:19:27.475000" age_lower="1" age_upper="999">
 okay	-	-	-	0:19:21.108000	0:19:21.629000
 ,	-	-	-	0:19:21.108000	0:19:21.629000
 <pause duration="0,7s"/>
@@ -5814,9 +5814,9 @@ Arbeit	-	-	-	0:19:26.363000	0:19:27.475000
 manchmal	-	-	-	0:19:26.363000	0:19:27.475000
 ,	-	-	-	0:19:26.363000	0:19:27.475000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:27.475000" end="0:19:28.604000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:27.475000" end="0:19:28.604000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:27.475000" end="0:19:28.790000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:27.475000" end="0:19:28.790000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:19:27.475000	0:19:28.604000
 es	-	-	-	0:19:27.475000	0:19:28.604000
 ums	-	-	-	0:19:27.475000	0:19:28.604000
@@ -5825,11 +5825,11 @@ geht	-	-	-	0:19:27.475000	0:19:28.604000
 ,	-	-	-	0:19:27.475000	0:19:28.604000
 ähm	-	-	-	0:19:28.604000	0:19:28.790000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:28.790000" end="0:19:29.234000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:28.790000" end="0:19:29.234000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:19:28.790000	0:19:29.234000
 .	-	-	-	0:19:28.790000	0:19:29.234000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:28.790000" end="0:19:30" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:28.790000" end="0:19:30" age_lower="1" age_upper="999">
 blättern	-	-	-	0:19:28.790000	0:19:29.234000
 Sie	-	-	-	0:19:28.790000	0:19:29.234000
 mal	-	-	-	0:19:28.790000	0:19:29.234000
@@ -5838,17 +5838,17 @@ zur	-	-	-	0:19:29.234000	0:19:30
 Skala	-	-	-	0:19:29.234000	0:19:30
 Nummer	-	-	-	0:19:29.234000	0:19:30
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:30" end="0:19:30.604000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:30" end="0:19:30.604000" age_lower="18" age_upper="35">
 ja	-	-	-	0:19:30	0:19:30.604000
 .	-	-	-	0:19:30	0:19:30.604000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:30" end="0:19:31.884000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:30" end="0:19:31.884000" age_lower="1" age_upper="999">
 acht	-	-	-	0:19:30	0:19:30.604000
 ähm	-	-	-	0:19:30.604000	0:19:31.884000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:31.884000" end="0:19:32.780000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:31.884000" end="0:19:32.780000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:31.884000" end="0:19:34.941000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:31.884000" end="0:19:34.941000" age_lower="1" age_upper="999">
 und	-	-	-	0:19:31.884000	0:19:32.780000
 tragen	-	-	-	0:19:31.884000	0:19:32.780000
 einfach	-	-	-	0:19:31.884000	0:19:32.780000
@@ -5865,7 +5865,7 @@ der	-	-	-	0:19:32.780000	0:19:34.941000
 Woche	-	-	-	0:19:32.780000	0:19:34.941000
 .	-	-	-	0:19:32.780000	0:19:34.941000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:34.941000" end="0:19:38.286000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:34.941000" end="0:19:38.286000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 in	-	-	-	0:19:36.068000	0:19:36.682000
 der	-	-	-	0:19:36.068000	0:19:36.682000
@@ -5878,16 +5878,16 @@ nie	-	-	-	0:19:36.682000	0:19:37.899000
 ,	-	-	-	0:19:36.682000	0:19:37.899000
 also	-	-	-	0:19:37.899000	0:19:38.286000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:37.899000" end="0:19:38.286000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:37.899000" end="0:19:38.286000" age_lower="1" age_upper="999">
 okay	-	-	-	0:19:37.899000	0:19:38.286000
 .	-	-	-	0:19:37.899000	0:19:38.286000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:38.286000" end="0:19:39.186000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:38.286000" end="0:19:39.186000" age_lower="18" age_upper="35">
 das	-	-	-	0:19:38.286000	0:19:39.186000
 vorletztes	-	-	-	0:19:38.286000	0:19:39.186000
 .	-	-	-	0:19:38.286000	0:19:39.186000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:39.186000" end="0:19:52.467000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:39.186000" end="0:19:52.467000" age_lower="1" age_upper="999">
 okay	-	-	-	0:19:39.186000	0:19:39.786000
 .	-	-	-	0:19:39.186000	0:19:39.786000
 <pause duration="2,4s"/>
@@ -5940,7 +5940,7 @@ Deutsch	-	-	-	0:19:50.523000	0:19:52.467000
 spricht	-	-	-	0:19:50.523000	0:19:52.467000
 .	-	-	-	0:19:50.523000	0:19:52.467000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:52.467000" end="0:19:57.178000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:52.467000" end="0:19:57.178000" age_lower="18" age_upper="35">
 also	-	-	-	0:19:52.467000	0:19:54.580000
 auch	-	-	-	0:19:52.467000	0:19:54.580000
 so	-	-	-	0:19:52.467000	0:19:54.580000
@@ -5957,12 +5957,12 @@ Hochdeutsch	-	-	-	0:19:54.580000	0:19:56.116000
 <pause duration="0,7s"/>
 und	-	-	-	0:19:56.116000	0:19:57.178000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:56.116000" end="0:19:57.178000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:19:56.116000" end="0:19:57.178000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 mhm	-	-	-	0:19:56.116000	0:19:57.178000
 .	-	-	-	0:19:56.116000	0:19:57.178000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:57.178000" end="0:20:01.343000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:19:57.178000" end="0:20:01.343000" age_lower="18" age_upper="35">
 wenn	-	-	-	0:19:57.178000	0:19:58.864000
 ich	-	-	-	0:19:57.178000	0:19:58.864000
 da	-	-	-	0:19:57.178000	0:19:58.864000
@@ -5986,15 +5986,15 @@ auch	-	-	-	0:19:59.795000	0:20:01.343000
 übersetzen	-	-	-	0:19:59.795000	0:20:01.343000
 ,	-	-	-	0:19:59.795000	0:20:01.343000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:01.343000" end="0:20:02.015000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:01.343000" end="0:20:02.015000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:01.343000	0:20:02.015000
 ,	-	-	-	0:20:01.343000	0:20:02.015000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:02.015000" end="0:20:02.601000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:02.015000" end="0:20:02.601000" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:02.015000	0:20:02.601000
 .	-	-	-	0:20:02.015000	0:20:02.601000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:02.015000" end="0:20:08.338000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:02.015000" end="0:20:08.338000" age_lower="1" age_upper="999">
 aber	-	-	-	0:20:02.015000	0:20:02.601000
 Sie	-	-	-	0:20:02.601000	0:20:03.001000
 würden	-	-	-	0:20:02.601000	0:20:03.001000
@@ -6026,15 +6026,15 @@ reden	-	-	-	0:20:07.003000	0:20:08.338000
 Sie	-	-	-	0:20:07.003000	0:20:08.338000
 schon	-	-	-	0:20:07.003000	0:20:08.338000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:08.338000" end="0:20:09.088000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:08.338000" end="0:20:09.088000" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:08.338000	0:20:09.088000
 (eh)	-	-	-	0:20:08.338000	0:20:09.088000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:08.338000" end="0:20:09.088000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:08.338000" end="0:20:09.088000" age_lower="1" age_upper="999">
 Mundart	-	-	-	0:20:08.338000	0:20:09.088000
 ?	-	-	-	0:20:08.338000	0:20:09.088000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:09.088000" end="0:20:10.568000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:09.088000" end="0:20:10.568000" age_lower="18" age_upper="35">
 immer	-	-	-	0:20:09.088000	0:20:09.793000
 ,	-	-	-	0:20:09.088000	0:20:09.793000
 ja	-	-	-	0:20:09.088000	0:20:09.793000
@@ -6042,7 +6042,7 @@ ja	-	-	-	0:20:09.088000	0:20:09.793000
 mhm	-	-	-	0:20:09.793000	0:20:10.568000
 .	-	-	-	0:20:09.793000	0:20:10.568000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:09.793000" end="0:20:21.335000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:09.793000" end="0:20:21.335000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:09.793000	0:20:10.568000
 .	-	-	-	0:20:09.793000	0:20:10.568000
 <pause duration="1,9s"/>
@@ -6064,14 +6064,14 @@ zum	-	-	-	0:20:18.013000	0:20:21.335000
 Beispiel	-	-	-	0:20:18.013000	0:20:21.335000
 ?	-	-	-	0:20:18.013000	0:20:21.335000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:21.335000" end="0:20:22.522000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:21.335000" end="0:20:22.522000" age_lower="18" age_upper="35">
 auch	-	-	-	0:20:21.335000	0:20:22.255000
 Mundart	-	-	-	0:20:21.335000	0:20:22.255000
 ,	-	-	-	0:20:21.335000	0:20:22.255000
 ja	-	-	-	0:20:22.255000	0:20:22.522000
 .	-	-	-	0:20:22.255000	0:20:22.522000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:22.255000" end="0:20:29.470000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:22.255000" end="0:20:29.470000" age_lower="1" age_upper="999">
 auch	-	-	-	0:20:22.255000	0:20:22.522000
 Mundart	-	-	-	0:20:22.522000	0:20:22.902000
 ,	-	-	-	0:20:22.522000	0:20:22.902000
@@ -6095,7 +6095,7 @@ sondern	-	-	-	0:20:28.762000	0:20:29.470000
 Hochdeutsch	-	-	-	0:20:28.762000	0:20:29.470000
 ?	-	-	-	0:20:28.762000	0:20:29.470000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:29.470000" end="0:20:40.458000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:29.470000" end="0:20:40.458000" age_lower="18" age_upper="35">
 <pause duration="1,6s"/>
 ja	-	-	-	0:20:31.081000	0:20:33.232000
 auch	-	-	-	0:20:31.081000	0:20:33.232000
@@ -6133,7 +6133,7 @@ Hochdeutsch	-	-	-	0:20:39.616000	0:20:40.458000
 reden	-	-	-	0:20:39.616000	0:20:40.458000
 .	-	-	-	0:20:39.616000	0:20:40.458000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:40.458000" end="0:20:43.130000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:40.458000" end="0:20:43.130000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:40.458000	0:20:40.716000
 ,	-	-	-	0:20:40.458000	0:20:40.716000
 also	-	-	-	0:20:40.716000	0:20:43.130000
@@ -6145,11 +6145,11 @@ Negatives	-	-	-	0:20:40.716000	0:20:43.130000
 oder	-	-	-	0:20:40.716000	0:20:43.130000
 oder	-	-	-	0:20:40.716000	0:20:43.130000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:43.130000" end="0:20:44.014000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:43.130000" end="0:20:44.014000" age_lower="18" age_upper="35">
 nein	-	-	-	0:20:43.130000	0:20:44.014000
 .	-	-	-	0:20:43.130000	0:20:44.014000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:43.130000" end="0:20:44.797000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:43.130000" end="0:20:44.797000" age_lower="1" age_upper="999">
 Positives	-	-	-	0:20:43.130000	0:20:44.014000
 sogar	-	-	-	0:20:43.130000	0:20:44.014000
 ,	-	-	-	0:20:43.130000	0:20:44.014000
@@ -6161,11 +6161,11 @@ ja	-	-	-	0:20:44.014000	0:20:44.797000
 sein	-	-	-	0:20:44.014000	0:20:44.797000
 ,	-	-	-	0:20:44.014000	0:20:44.797000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:44.797000" end="0:20:45.291000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:44.797000" end="0:20:45.291000" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:44.797000	0:20:45.291000
 /.	-	-	-	0:20:44.797000	0:20:45.291000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:44.797000" end="0:20:47.281000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:44.797000" end="0:20:47.281000" age_lower="1" age_upper="999">
 also	-	-	-	0:20:44.797000	0:20:45.291000
 wie	-	-	-	0:20:44.797000	0:20:45.291000
 wirken	-	-	-	0:20:44.797000	0:20:45.291000
@@ -6179,7 +6179,7 @@ Hochdeutsch	-	-	-	0:20:45.985000	0:20:47.281000
 sprechen	-	-	-	0:20:45.985000	0:20:47.281000
 ?	-	-	-	0:20:45.985000	0:20:47.281000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:47.281000" end="0:20:49.758000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:47.281000" end="0:20:49.758000" age_lower="18" age_upper="35">
 ja	-	-	-	0:20:47.281000	0:20:48.482000
 wie	-	-	-	0:20:47.281000	0:20:48.482000
 wenn	-	-	-	0:20:47.281000	0:20:48.482000
@@ -6195,20 +6195,20 @@ meine	-	-	-	0:20:48.482000	0:20:49.231000
 (ich	-	-	-	0:20:49.231000	0:20:49.758000
 b/)	-	-	-	0:20:49.231000	0:20:49.758000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:49.758000" end="0:20:50.729000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:49.758000" end="0:20:50.729000" age_lower="1" age_upper="999">
 okay	-	-	-	0:20:49.758000	0:20:50.729000
 .	-	-	-	0:20:49.758000	0:20:50.729000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:50.729000" end="0:20:51.600000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:50.729000" end="0:20:51.600000" age_lower="18" age_upper="35">
 aber	-	-	-	0:20:50.729000	0:20:51.600000
 jetzt	-	-	-	0:20:50.729000	0:20:51.600000
 nicht	-	-	-	0:20:50.729000	0:20:51.600000
 so	-	-	-	0:20:50.729000	0:20:51.600000
 ,	-	-	-	0:20:50.729000	0:20:51.600000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:50.729000" end="0:20:51.600000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:50.729000" end="0:20:51.600000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:51.600000" end="0:20:56.442000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:20:51.600000" end="0:20:56.442000" age_lower="18" age_upper="35">
 (weil)	-	-	-	0:20:51.600000	0:20:52.835000
 wenn	-	-	-	0:20:51.600000	0:20:52.835000
 wer	-	-	-	0:20:51.600000	0:20:52.835000
@@ -6237,7 +6237,7 @@ keine	-	-	-	0:20:54.534000	0:20:56.442000
 Unterscheidung	-	-	-	0:20:54.534000	0:20:56.442000
 .	-	-	-	0:20:54.534000	0:20:56.442000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:56.442000" end="0:21:03.473000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:20:56.442000" end="0:21:03.473000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:20:56.442000	0:20:57.219000
 ,	-	-	-	0:20:56.442000	0:20:57.219000
 <pause duration="0,6s"/>
@@ -6257,10 +6257,10 @@ gescheit	-	-	-	0:21:00.895000	0:21:03.473000
 klingt	-	-	-	0:21:00.895000	0:21:03.473000
 ,	-	-	-	0:21:00.895000	0:21:03.473000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:03.473000" end="0:21:04.434000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:03.473000" end="0:21:04.434000" age_lower="18" age_upper="35">
 hm	-	-	-	0:21:03.473000	0:21:04.434000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:03.473000" end="0:21:06.752000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:03.473000" end="0:21:06.752000" age_lower="1" age_upper="999">
 also	-	-	-	0:21:03.473000	0:21:04.434000
 so	-	-	-	0:21:03.473000	0:21:04.434000
 nach	-	-	-	0:21:03.473000	0:21:04.434000
@@ -6271,18 +6271,18 @@ vielleicht	-	-	-	0:21:04.994000	0:21:06.240000
 oder	-	-	-	0:21:06.240000	0:21:06.752000
 oder	-	-	-	0:21:06.240000	0:21:06.752000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:06.752000" end="0:21:07.759000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:06.752000" end="0:21:07.759000" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:06.752000	0:21:07.759000
 könnte	-	-	-	0:21:06.752000	0:21:07.759000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:06.752000" end="0:21:07.759000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:06.752000" end="0:21:07.759000" age_lower="1" age_upper="999">
 irgendwas	-	-	-	0:21:06.752000	0:21:07.759000
 in	-	-	-	0:21:06.752000	0:21:07.759000
 die	-	-	-	0:21:06.752000	0:21:07.759000
 Richtung	-	-	-	0:21:06.752000	0:21:07.759000
 ?	-	-	-	0:21:06.752000	0:21:07.759000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:07.759000" end="0:21:09.583000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:07.759000" end="0:21:09.583000" age_lower="18" age_upper="35">
 man	-	-	-	0:21:07.759000	0:21:08.349000
 sagen	-	-	-	0:21:07.759000	0:21:08.349000
 ,	-	-	-	0:21:07.759000	0:21:08.349000
@@ -6292,7 +6292,7 @@ man	-	-	-	0:21:08.349000	0:21:09.583000
 nicht	-	-	-	0:21:08.349000	0:21:09.583000
 .	-	-	-	0:21:08.349000	0:21:09.583000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:09.583000" end="0:21:21.011000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:09.583000" end="0:21:21.011000" age_lower="1" age_upper="999">
 okay	-	-	-	0:21:09.583000	0:21:10.028000
 .	-	-	-	0:21:09.583000	0:21:10.028000
 <pause duration="1,1s"/>
@@ -6332,7 +6332,7 @@ zum	-	-	-	0:21:19.326000	0:21:21.011000
 Beispiel	-	-	-	0:21:19.326000	0:21:21.011000
 ?	-	-	-	0:21:19.326000	0:21:21.011000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:21.011000" end="0:21:23.093000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:21.011000" end="0:21:23.093000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ähm	-	-	-	0:21:21.011000	0:21:22.828000
 wo	-	-	-	0:21:21.011000	0:21:22.828000
@@ -6345,11 +6345,11 @@ geht	-	-	-	0:21:21.011000	0:21:22.828000
 dass	-	-	-	0:21:22.828000	0:21:23.093000
 man	-	-	-	0:21:22.828000	0:21:23.093000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:22.828000" end="0:21:23.093000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:22.828000" end="0:21:23.093000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:22.828000	0:21:23.093000
 .	-	-	-	0:21:22.828000	0:21:23.093000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:23.093000" end="0:21:41.116000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:23.093000" end="0:21:41.116000" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:21:23.093000	0:21:23.783000
 redet	-	-	-	0:21:23.093000	0:21:23.783000
 ?	-	-	-	0:21:23.093000	0:21:23.783000
@@ -6400,7 +6400,7 @@ könnte	-	-	-	0:21:38.154000	0:21:40.554000
 angebracht	-	-	-	0:21:38.154000	0:21:40.554000
 sein	-	-	-	0:21:38.154000	0:21:40.554000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:40.554000" end="0:21:44.523000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:40.554000" end="0:21:44.523000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:40.554000	0:21:41.116000
 aber	-	-	-	0:21:40.554000	0:21:41.116000
 jetzt	-	-	-	0:21:40.554000	0:21:41.116000
@@ -6425,18 +6425,18 @@ mit	-	-	-	0:21:42.835000	0:21:44.523000
 dem	-	-	-	0:21:42.835000	0:21:44.523000
 ,	-	-	-	0:21:42.835000	0:21:44.523000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:44.523000" end="0:21:44.875000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:44.523000" end="0:21:44.875000" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:44.523000	0:21:44.875000
 .	-	-	-	0:21:44.523000	0:21:44.875000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:44.523000" end="0:21:45.761000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:44.523000" end="0:21:45.761000" age_lower="1" age_upper="999">
 wie	-	-	-	0:21:44.523000	0:21:44.875000
 würde	-	-	-	0:21:44.875000	0:21:45.761000
 der	-	-	-	0:21:44.875000	0:21:45.761000
 reagieren	-	-	-	0:21:44.875000	0:21:45.761000
 ?	-	-	-	0:21:44.875000	0:21:45.761000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:45.761000" end="0:21:51.312000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:45.761000" end="0:21:51.312000" age_lower="18" age_upper="35">
 ja	-	-	-	0:21:45.761000	0:21:46.997000
 irritiert	-	-	-	0:21:45.761000	0:21:46.997000
 ,	-	-	-	0:21:45.761000	0:21:46.997000
@@ -6458,7 +6458,7 @@ eigentlich	-	-	-	0:21:48.997000	0:21:51.085000
 ja	-	-	-	0:21:51.085000	0:21:51.312000
 .	-	-	-	0:21:51.085000	0:21:51.312000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:51.312000" end="0:21:55.406000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:51.312000" end="0:21:55.406000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:21:51.312000	0:21:51.591000
 .	-	-	-	0:21:51.312000	0:21:51.591000
 <pause duration="1,0s"/>
@@ -6477,11 +6477,11 @@ geht	-	-	-	0:21:54.079000	0:21:55.406000
 nicht	-	-	-	0:21:54.079000	0:21:55.406000
 ?	-	-	-	0:21:54.079000	0:21:55.406000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:55.406000" end="0:21:55.849000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:55.406000" end="0:21:55.849000" age_lower="18" age_upper="35">
 nein	-	-	-	0:21:55.406000	0:21:55.849000
 .	-	-	-	0:21:55.406000	0:21:55.849000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:55.849000" end="0:21:57.849000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:55.849000" end="0:21:57.849000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 wie	-	-	-	0:21:55.849000	0:21:57.849000
 schaut	-	-	-	0:21:55.849000	0:21:57.849000
@@ -6492,13 +6492,13 @@ Freundeskreis	-	-	-	0:21:55.849000	0:21:57.849000
 aus	-	-	-	0:21:55.849000	0:21:57.849000
 ?	-	-	-	0:21:55.849000	0:21:57.849000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:57.849000" end="0:21:59.351000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:21:57.849000" end="0:21:59.351000" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:21:57.849000	0:21:58.956000
 auch	-	-	-	0:21:57.849000	0:21:58.956000
 nicht	-	-	-	0:21:57.849000	0:21:58.956000
 .	-	-	-	0:21:57.849000	0:21:58.956000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:58.956000" end="0:22:04.302000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:21:58.956000" end="0:22:04.302000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:58.956000	0:21:59.351000
 .	-	-	-	0:21:58.956000	0:21:59.351000
 also	-	-	-	0:21:59.351000	0:22:01.431000
@@ -6521,7 +6521,7 @@ zu	-	-	-	0:22:02.449000	0:22:04.302000
 sprechen	-	-	-	0:22:02.449000	0:22:04.302000
 /?	-	-	-	0:22:02.449000	0:22:04.302000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:04.302000" end="0:22:06.071000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:04.302000" end="0:22:06.071000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:04.302000	0:22:05.771000
 die	-	-	-	0:22:04.302000	0:22:05.771000
 täte	-	-	??	0:22:04.302000	0:22:05.771000
@@ -6533,7 +6533,7 @@ anschauen	-	-	??	0:22:04.302000	0:22:05.771000
 aber	-	-	-	0:22:05.771000	0:22:06.071000
 /.	-	-	-	0:22:05.771000	0:22:06.071000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:06.071000" end="0:22:08.452000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:06.071000" end="0:22:08.452000" age_lower="1" age_upper="999">
 okay	-	-	-	0:22:06.071000	0:22:06.452000
 .	-	-	-	0:22:06.071000	0:22:06.452000
 <pause duration="0,6s"/>
@@ -6547,12 +6547,12 @@ fremd	-	-	-	0:22:07.460000	0:22:08.452000
 klingen	-	-	-	0:22:07.460000	0:22:08.452000
 ?	-	-	-	0:22:07.460000	0:22:08.452000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:08.452000" end="0:22:09.369000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:08.452000" end="0:22:09.369000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:08.452000	0:22:09.065000
 voll	-	-	-	0:22:09.065000	0:22:09.369000
 .	-	-	-	0:22:09.065000	0:22:09.369000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:09.065000" end="0:22:11.132000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:09.065000" end="0:22:11.132000" age_lower="1" age_upper="999">
 das	-	-	-	0:22:09.065000	0:22:09.369000
 heißt	-	-	-	0:22:09.065000	0:22:09.369000
 ,	-	-	-	0:22:09.065000	0:22:09.369000
@@ -6565,14 +6565,14 @@ irgendwie	-	-	-	0:22:09.369000	0:22:11.132000
 was	-	-	-	0:22:09.369000	0:22:11.132000
 Distanziertes	-	-	-	0:22:09.369000	0:22:11.132000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:11.132000" end="0:22:12.253000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:11.132000" end="0:22:12.253000" age_lower="18" age_upper="35">
 hm	-	-	-	0:22:11.132000	0:22:12.253000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:11.132000" end="0:22:12.253000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:11.132000" end="0:22:12.253000" age_lower="1" age_upper="999">
 eher	-	-	-	0:22:11.132000	0:22:12.253000
 ?	-	-	-	0:22:11.132000	0:22:12.253000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:12.253000" end="0:22:14.145000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:12.253000" end="0:22:14.145000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 nein	-	-	-	0:22:12.253000	0:22:14.145000
 also	-	-	-	0:22:12.253000	0:22:14.145000
@@ -6580,7 +6580,7 @@ ich	-	-	-	0:22:12.253000	0:22:14.145000
 kenne	-	-	-	0:22:12.253000	0:22:14.145000
 /.	-	-	-	0:22:12.253000	0:22:14.145000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:14.145000" end="0:22:16.173000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:14.145000" end="0:22:16.173000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 oder	-	-	-	0:22:14.145000	0:22:15.219000
 nur	-	-	-	0:22:14.145000	0:22:15.219000
@@ -6592,7 +6592,7 @@ es	-	-	-	0:22:15.219000	0:22:16.173000
 sonst	-	-	-	0:22:15.219000	0:22:16.173000
 nichts	-	-	-	0:22:15.219000	0:22:16.173000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:16.173000" end="0:22:17.007000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:16.173000" end="0:22:17.007000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:16.173000	0:22:17.007000
 ,	-	-	-	0:22:16.173000	0:22:17.007000
 ja	-	-	-	0:22:16.173000	0:22:17.007000
@@ -6600,18 +6600,18 @@ genau	-	-	-	0:22:16.173000	0:22:17.007000
 so	-	-	-	0:22:16.173000	0:22:17.007000
 ,	-	-	-	0:22:16.173000	0:22:17.007000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:16.173000" end="0:22:17.007000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:16.173000" end="0:22:17.007000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:22:16.173000	0:22:17.007000
 machen	-	-	-	0:22:16.173000	0:22:17.007000
 ?	-	-	-	0:22:16.173000	0:22:17.007000
 okay	-	-	-	0:22:16.173000	0:22:17.007000
 .	-	-	-	0:22:16.173000	0:22:17.007000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:17.007000" end="0:22:17.347000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:17.007000" end="0:22:17.347000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:17.007000	0:22:17.347000
 .	-	-	-	0:22:17.007000	0:22:17.347000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:17.347000" end="0:22:26.324000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:17.347000" end="0:22:26.324000" age_lower="1" age_upper="999">
 <pause duration="1,9s"/>
 alles	-	-	-	0:22:19.243000	0:22:19.960000
 klar	-	-	-	0:22:19.243000	0:22:19.960000
@@ -6638,34 +6638,34 @@ näher	-	-	-	0:22:24.344000	0:22:26.324000
 oder	-	-	-	0:22:24.344000	0:22:26.324000
 intimer	-	-	-	0:22:24.344000	0:22:26.324000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:26.324000" end="0:22:27.124000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:26.324000" end="0:22:27.124000" age_lower="18" age_upper="35">
 hm	-	-	-	0:22:26.324000	0:22:27.124000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:26.324000" end="0:22:27.124000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:26.324000" end="0:22:27.124000" age_lower="1" age_upper="999">
 oder	-	-	-	0:22:26.324000	0:22:27.124000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:27.124000" end="0:22:27.464000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:27.124000" end="0:22:27.464000" age_lower="18" age_upper="35">
 nein	-	-	-	0:22:27.124000	0:22:27.464000
 ,	-	-	-	0:22:27.124000	0:22:27.464000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:27.464000" end="0:22:27.604000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:27.464000" end="0:22:27.604000" age_lower="1" age_upper="999">
 (haben)	-	-	-	0:22:27.464000	0:22:27.604000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:27.604000" end="0:22:27.756000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:27.604000" end="0:22:27.756000" age_lower="18" age_upper="35">
 täte	-	-	??	0:22:27.604000	0:22:27.756000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:27.604000" end="0:22:27.756000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:27.604000" end="0:22:27.756000" age_lower="1" age_upper="999">
 (Sie)	-	-	-	0:22:27.604000	0:22:27.756000
 /?	-	-	-	0:22:27.604000	0:22:27.756000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:27.756000" end="0:22:28.300000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:27.756000" end="0:22:28.300000" age_lower="18" age_upper="35">
 ich	-	-	-	0:22:27.756000	0:22:28.300000
 auch	-	-	-	0:22:27.756000	0:22:28.300000
 nicht	-	-	-	0:22:27.756000	0:22:28.300000
 sagen	-	-	??	0:22:27.756000	0:22:28.300000
 .	-	-	-	0:22:27.756000	0:22:28.300000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:28.300000" end="0:22:39.557000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:28.300000" end="0:22:39.557000" age_lower="1" age_upper="999">
 okay	-	-	-	0:22:28.300000	0:22:28.510000
 .	-	-	-	0:22:28.300000	0:22:28.510000
 <pause duration="2,4s"/>
@@ -6697,11 +6697,11 @@ mit	-	-	-	0:22:38.630000	0:22:39.557000
 dem	-	-	-	0:22:38.630000	0:22:39.557000
 Opa	-	-	-	0:22:38.630000	0:22:39.557000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:39.557000" end="0:22:40.300000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:39.557000" end="0:22:40.300000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:22:39.557000	0:22:40.300000
 .	-	-	-	0:22:39.557000	0:22:40.300000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:39.557000" end="0:22:42.416000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:39.557000" end="0:22:42.416000" age_lower="1" age_upper="999">
 und	-	-	-	0:22:39.557000	0:22:40.300000
 auf	-	-	-	0:22:39.557000	0:22:40.300000
 einmal	-	-	-	0:22:40.300000	0:22:42.416000
@@ -6713,16 +6713,16 @@ der	-	-	-	0:22:40.300000	0:22:42.416000
 Opa	-	-	-	0:22:40.300000	0:22:42.416000
 Hochdeutsch	-	-	-	0:22:40.300000	0:22:42.416000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:42.416000" end="0:22:43.195000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:42.416000" end="0:22:43.195000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:42.416000	0:22:43.195000
 genauso	-	-	-	0:22:42.416000	0:22:43.195000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:42.416000" end="0:22:43.195000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:42.416000" end="0:22:43.195000" age_lower="1" age_upper="999">
 mit	-	-	-	0:22:42.416000	0:22:43.195000
 Ihnen	-	-	-	0:22:42.416000	0:22:43.195000
 ?	-	-	-	0:22:42.416000	0:22:43.195000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:43.195000" end="0:22:45.240000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:43.195000" end="0:22:45.240000" age_lower="18" age_upper="35">
 so	-	-	-	0:22:43.195000	0:22:44.932000
 <pause duration="0,6s"/>
 komisch	-	-	-	0:22:43.195000	0:22:44.932000
@@ -6730,7 +6730,7 @@ komisch	-	-	-	0:22:43.195000	0:22:44.932000
 ja	-	-	-	0:22:44.932000	0:22:45.240000
 .	-	-	-	0:22:44.932000	0:22:45.240000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:44.932000" end="0:22:46.263000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:44.932000" end="0:22:46.263000" age_lower="1" age_upper="999">
 würd/	-	-	-	0:22:44.932000	0:22:45.240000
 würde	-	-	-	0:22:45.240000	0:22:46.263000
 Sie	-	-	-	0:22:45.240000	0:22:46.263000
@@ -6738,24 +6738,24 @@ irritieren	-	-	-	0:22:45.240000	0:22:46.263000
 auf	-	-	-	0:22:45.240000	0:22:46.263000
 jeden	-	-	-	0:22:45.240000	0:22:46.263000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:46.263000" end="0:22:47.109000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:46.263000" end="0:22:47.109000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:46.263000	0:22:47.109000
 auf	-	-	-	0:22:46.263000	0:22:47.109000
 jeden	-	-	-	0:22:46.263000	0:22:47.109000
 Fall	-	-	-	0:22:46.263000	0:22:47.109000
 ,	-	-	-	0:22:46.263000	0:22:47.109000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:46.263000" end="0:22:47.109000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:46.263000" end="0:22:47.109000" age_lower="1" age_upper="999">
 Fall	-	-	-	0:22:46.263000	0:22:47.109000
 ?	-	-	-	0:22:46.263000	0:22:47.109000
 ja	-	-	-	0:22:46.263000	0:22:47.109000
 .	-	-	-	0:22:46.263000	0:22:47.109000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:47.109000" end="0:22:47.359000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:47.109000" end="0:22:47.359000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:47.109000	0:22:47.359000
 .	-	-	-	0:22:47.109000	0:22:47.359000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:47.359000" end="0:22:53.916000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:47.359000" end="0:22:53.916000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 und	-	-	-	0:22:47.359000	0:22:49.695000
 ähm	-	-	-	0:22:47.359000	0:22:49.695000
@@ -6782,11 +6782,11 @@ viele	-	-	-	0:22:52.412000	0:22:53.916000
 in	-	-	-	0:22:52.412000	0:22:53.916000
 Ihrem	-	-	-	0:22:52.412000	0:22:53.916000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:53.916000" end="0:22:54.386000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:53.916000" end="0:22:54.386000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:22:53.916000	0:22:54.386000
 .	-	-	-	0:22:53.916000	0:22:54.386000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:53.916000" end="0:22:57.209000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:53.916000" end="0:22:57.209000" age_lower="1" age_upper="999">
 Alter	-	-	-	0:22:53.916000	0:22:54.386000
 ,	-	-	-	0:22:53.916000	0:22:54.386000
 aber	-	-	-	0:22:54.386000	0:22:55.842000
@@ -6804,11 +6804,11 @@ nie	-	-	-	0:22:56.198000	0:22:57.209000
 gesehen	-	-	-	0:22:56.198000	0:22:57.209000
 haben	-	-	-	0:22:56.198000	0:22:57.209000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:57.209000" end="0:22:57.684000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:22:57.209000" end="0:22:57.684000" age_lower="18" age_upper="35">
 ja	-	-	-	0:22:57.209000	0:22:57.684000
 .	-	-	-	0:22:57.209000	0:22:57.684000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:57.684000" end="0:23:03.037000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:22:57.684000" end="0:23:03.037000" age_lower="1" age_upper="999">
 und	-	-	-	0:22:57.684000	0:23:00.473000
 (der)	-	-	-	0:22:57.684000	0:23:00.473000
 ist	-	-	-	0:22:57.684000	0:23:00.473000
@@ -6827,7 +6827,7 @@ da	-	-	-	0:23:01.832000	0:23:03.037000
 reagieren	-	-	-	0:23:01.832000	0:23:03.037000
 ?	-	-	-	0:23:01.832000	0:23:03.037000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:03.037000" end="0:23:07.851000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:03.037000" end="0:23:07.851000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ja	-	-	-	0:23:03.037000	0:23:04.399000
 ,	-	-	-	0:23:03.037000	0:23:04.399000
@@ -6846,11 +6846,11 @@ geht	-	-	-	0:23:05.630000	0:23:07.275000
 nein	-	-	-	0:23:07.275000	0:23:07.851000
 aber	-	-	-	0:23:07.275000	0:23:07.851000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:07.851000" end="0:23:08.370000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:07.851000" end="0:23:08.370000" age_lower="1" age_upper="999">
 okay	-	-	-	0:23:07.851000	0:23:08.370000
 .	-	-	-	0:23:07.851000	0:23:08.370000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:08.370000" end="0:23:15.470000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:08.370000" end="0:23:15.470000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:23:08.370000	0:23:10.288000
 ja	-	-	-	0:23:08.370000	0:23:10.288000
 von	-	-	-	0:23:08.370000	0:23:10.288000
@@ -6881,15 +6881,15 @@ wundern	-	-	??	0:23:14.075000	0:23:15.050000
 ,	-	-	-	0:23:14.075000	0:23:15.050000
 aber	-	-	-	0:23:15.050000	0:23:15.470000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:15.470000" end="0:23:16.064000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:15.470000" end="0:23:16.064000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:23:15.470000	0:23:15.824000
 ,	-	-	-	0:23:15.470000	0:23:15.824000
 aber	-	-	-	0:23:15.824000	0:23:16.064000
 Sie	-	-	-	0:23:15.824000	0:23:16.064000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:16.064000" end="0:23:17.182000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:16.064000" end="0:23:17.182000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:16.064000" end="0:23:17.907000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:16.064000" end="0:23:17.907000" age_lower="1" age_upper="999">
 würden	-	-	-	0:23:16.064000	0:23:17.182000
 auf	-	-	-	0:23:16.064000	0:23:17.182000
 jeden	-	-	-	0:23:16.064000	0:23:17.182000
@@ -6900,14 +6900,14 @@ wenn	-	-	-	0:23:17.182000	0:23:17.907000
 das	-	-	-	0:23:17.182000	0:23:17.907000
 passieren	-	-	-	0:23:17.182000	0:23:17.907000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:17.907000" end="0:23:19.473000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:17.907000" end="0:23:19.473000" age_lower="18" age_upper="35">
 eigen/	-	-	-	0:23:17.907000	0:23:19.473000
 ja	-	-	-	0:23:17.907000	0:23:19.473000
 vielleicht	-	-	-	0:23:17.907000	0:23:19.473000
 schon	-	-	-	0:23:17.907000	0:23:19.473000
 .	-	-	-	0:23:17.907000	0:23:19.473000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:17.907000" end="0:23:20" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:17.907000" end="0:23:20" age_lower="1" age_upper="999">
 würde	-	-	-	0:23:17.907000	0:23:19.473000
 ,	-	-	-	0:23:17.907000	0:23:19.473000
 weil	-	-	-	0:23:17.907000	0:23:19.473000
@@ -6918,11 +6918,11 @@ sein	-	-	-	0:23:17.907000	0:23:19.473000
 kann	-	-	-	0:23:19.473000	0:23:20
 ?	-	-	-	0:23:19.473000	0:23:20
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:20" end="0:23:20.995000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:20" end="0:23:20.995000" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:20	0:23:20.995000
 .	-	-	-	0:23:20	0:23:20.995000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:20" end="0:23:22.683000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:20" end="0:23:22.683000" age_lower="1" age_upper="999">
 oder	-	-	-	0:23:20.995000	0:23:21.460000
 doch	-	-	-	0:23:20.995000	0:23:21.460000
 ,	-	-	-	0:23:20.995000	0:23:21.460000
@@ -6935,11 +6935,11 @@ interessant	-	-	-	0:23:21.460000	0:23:22.397000
 warum	-	-	-	0:23:22.397000	0:23:22.683000
 ?	-	-	-	0:23:22.397000	0:23:22.683000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:22.683000" end="0:23:23.052000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:22.683000" end="0:23:23.052000" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:22.683000	0:23:23.052000
 .	-	-	-	0:23:22.683000	0:23:23.052000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:23.052000" end="0:23:31.590000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:23.052000" end="0:23:31.590000" age_lower="1" age_upper="999">
 okay	-	-	-	0:23:23.052000	0:23:23.880000
 .	-	-	-	0:23:23.052000	0:23:23.880000
 <pause duration="3,4s"/>
@@ -6967,7 +6967,7 @@ Hochdeutsch	-	-	-	0:23:30.294000	0:23:31.590000
 sprechen	-	-	-	0:23:30.294000	0:23:31.590000
 ?	-	-	-	0:23:30.294000	0:23:31.590000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:31.590000" end="0:23:35.286000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:31.590000" end="0:23:35.286000" age_lower="18" age_upper="35">
 hm	-	-	-	0:23:31.590000	0:23:32.717000
 puh	-	-	-	0:23:32.717000	0:23:33.832000
 d/	-	-	-	0:23:32.717000	0:23:33.832000
@@ -6978,11 +6978,11 @@ nicht	-	-	-	0:23:33.832000	0:23:34.717000
 ,	-	-	-	0:23:33.832000	0:23:34.717000
 wenn	-	-	-	0:23:34.717000	0:23:35.286000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:34.717000" end="0:23:35.286000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:34.717000" end="0:23:35.286000" age_lower="1" age_upper="999">
 okay	-	-	-	0:23:34.717000	0:23:35.286000
 .	-	-	-	0:23:34.717000	0:23:35.286000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:35.286000" end="0:23:40.618000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:35.286000" end="0:23:40.618000" age_lower="18" age_upper="35">
 ich	-	-	-	0:23:35.286000	0:23:36.313000
 Hochdeutsch	-	-	-	0:23:35.286000	0:23:36.313000
 reden	-	-	??	0:23:35.286000	0:23:36.313000
@@ -7008,7 +7008,7 @@ nicht	-	-	-	0:23:39.814000	0:23:40.312000
 sagen	-	-	-	0:23:40.312000	0:23:40.618000
 .	-	-	-	0:23:40.312000	0:23:40.618000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:40.312000" end="0:23:44.430000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:40.312000" end="0:23:44.430000" age_lower="1" age_upper="999">
 (mhm)	-	-	-	0:23:40.312000	0:23:40.618000
 also	-	-	-	0:23:40.618000	0:23:41.490000
 würden	-	-	-	0:23:40.618000	0:23:41.490000
@@ -7026,7 +7026,7 @@ frage	-	-	-	0:23:43.054000	0:23:44.430000
 ich	-	-	-	0:23:43.054000	0:23:44.430000
 mal)	-	-	-	0:23:43.054000	0:23:44.430000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:44.430000" end="0:23:46.076000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:44.430000" end="0:23:46.076000" age_lower="18" age_upper="35">
 ja	-	-	-	0:23:44.430000	0:23:45.477000
 ich	-	-	-	0:23:44.430000	0:23:45.477000
 meine	-	-	-	0:23:44.430000	0:23:45.477000
@@ -7035,7 +7035,7 @@ schon	-	-	-	0:23:44.430000	0:23:45.477000
 ja	-	-	-	0:23:45.477000	0:23:46.076000
 .	-	-	-	0:23:45.477000	0:23:46.076000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:45.477000" end="0:23:53.166000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:45.477000" end="0:23:53.166000" age_lower="1" age_upper="999">
 ja	-	-	-	0:23:45.477000	0:23:46.076000
 .	-	-	-	0:23:45.477000	0:23:46.076000
 <pause duration="1,0s"/>
@@ -7063,9 +7063,9 @@ wo	-	-	-	0:23:52.417000	0:23:53.166000
 Sie	-	-	-	0:23:52.417000	0:23:53.166000
 Sie	-	-	-	0:23:52.417000	0:23:53.166000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:53.166000" end="0:23:53.623000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:53.166000" end="0:23:53.623000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:53.166000" end="0:23:57.814000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:23:53.166000" end="0:23:57.814000" age_lower="1" age_upper="999">
 Ihren	-	-	-	0:23:53.166000	0:23:53.623000
 eigenen	-	-	-	0:23:53.166000	0:23:53.623000
 regionalen	-	-	-	0:23:53.623000	0:23:57.814000
@@ -7082,7 +7082,7 @@ einordnen	-	-	-	0:23:53.623000	0:23:57.814000
 könnten	-	-	-	0:23:53.623000	0:23:57.814000
 .	-	-	-	0:23:53.623000	0:23:57.814000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:57.814000" end="0:24:00.256000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:23:57.814000" end="0:24:00.256000" age_lower="18" age_upper="35">
 <pause duration="1,4s"/>
 wenn	-	-	-	0:23:59.219000	0:24:00.256000
 ich	-	-	-	0:23:59.219000	0:24:00.256000
@@ -7091,17 +7091,17 @@ Hochdeutsch	-	-	-	0:23:59.219000	0:24:00.256000
 rede	-	-	-	0:23:59.219000	0:24:00.256000
 ?	-	-	-	0:23:59.219000	0:24:00.256000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:00.256000" end="0:24:00.544000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:00.256000" end="0:24:00.544000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:24:00.256000	0:24:00.544000
 .	-	-	-	0:24:00.256000	0:24:00.544000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:00.544000" end="0:24:04.116000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:00.544000" end="0:24:04.116000" age_lower="18" age_upper="35">
 (wau/)	-	-	-	0:24:00.544000	0:24:02.342000
 puh	-	-	-	0:24:00.544000	0:24:02.342000
 <pause duration="1,4s"/>
 ähm	-	-	-	0:24:03.775000	0:24:04.116000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:03.775000" end="0:24:10.616000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:03.775000" end="0:24:10.616000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:24:03.775000	0:24:04.116000
 sind	-	-	-	0:24:04.116000	0:24:04.870000
 da	-	-	-	0:24:04.116000	0:24:04.870000
@@ -7143,15 +7143,15 @@ dem	-	-	-	0:24:09.153000	0:24:10.616000
 Waldviertel"	-	-	-	0:24:09.153000	0:24:10.616000
 oder	-	-	-	0:24:09.153000	0:24:10.616000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:10.616000" end="0:24:10.899000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:10.616000" end="0:24:10.899000" age_lower="18" age_upper="35">
 nein	-	-	-	0:24:10.616000	0:24:10.899000
 ,	-	-	-	0:24:10.616000	0:24:10.899000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:10.616000" end="0:24:10.899000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:10.616000" end="0:24:10.899000" age_lower="1" age_upper="999">
 so	-	-	-	0:24:10.616000	0:24:10.899000
 ?	-	-	-	0:24:10.616000	0:24:10.899000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:10.899000" end="0:24:11.799000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:10.899000" end="0:24:11.799000" age_lower="18" age_upper="35">
 weil	-	-	-	0:24:10.899000	0:24:11.799000
 ich	-	-	-	0:24:10.899000	0:24:11.799000
 nie	-	-	-	0:24:10.899000	0:24:11.799000
@@ -7159,16 +7159,16 @@ Hochdeutsch	-	-	-	0:24:10.899000	0:24:11.799000
 rede	-	-	-	0:24:10.899000	0:24:11.799000
 .	-	-	-	0:24:10.899000	0:24:11.799000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:11.799000" end="0:24:12.457000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:11.799000" end="0:24:12.457000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:11.799000	0:24:12.457000
 .	-	-	-	0:24:11.799000	0:24:12.457000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:12.457000" end="0:24:13.521000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:12.457000" end="0:24:13.521000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 ja	-	-	-	0:24:12.457000	0:24:13.521000
 .	-	-	-	0:24:12.457000	0:24:13.521000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:13.521000" end="0:24:16.448000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:13.521000" end="0:24:16.448000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 nehmen	-	-	-	0:24:14.605000	0:24:15.102000
 wir	-	-	-	0:24:14.605000	0:24:15.102000
@@ -7182,11 +7182,11 @@ einmal	-	-	-	0:24:15.102000	0:24:16.448000
 öfter	-	-	-	0:24:15.102000	0:24:16.448000
 tun	-	-	-	0:24:15.102000	0:24:16.448000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:16.448000" end="0:24:16.819000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:16.448000" end="0:24:16.819000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:16.448000	0:24:16.819000
 .	-	-	-	0:24:16.448000	0:24:16.819000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:16.448000" end="0:24:18.412000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:16.448000" end="0:24:18.412000" age_lower="1" age_upper="999">
 oder	-	-	-	0:24:16.448000	0:24:16.819000
 hin	-	-	-	0:24:16.448000	0:24:16.819000
 und	-	-	-	0:24:16.819000	0:24:17.377000
@@ -7201,7 +7201,7 @@ das	-	-	-	0:24:17.741000	0:24:18.412000
 hört	-	-	-	0:24:17.741000	0:24:18.412000
 ?	-	-	-	0:24:17.741000	0:24:18.412000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:18.412000" end="0:24:19.622000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:18.412000" end="0:24:19.622000" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:18.412000	0:24:19.390000
 ich	-	-	-	0:24:18.412000	0:24:19.390000
 meine	-	-	-	0:24:18.412000	0:24:19.390000
@@ -7210,44 +7210,44 @@ schon	-	-	-	0:24:18.412000	0:24:19.390000
 ja	-	-	-	0:24:19.390000	0:24:19.622000
 .	-	-	-	0:24:19.390000	0:24:19.622000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:19.622000" end="0:24:19.932000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:19.622000" end="0:24:19.932000" age_lower="1" age_upper="999">
 ja	-	-	-	0:24:19.622000	0:24:19.932000
 .	-	-	-	0:24:19.622000	0:24:19.932000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:19.932000" end="0:24:21.108000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:19.932000" end="0:24:21.108000" age_lower="18" age_upper="35">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:19.932000" end="0:24:21.964000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:19.932000" end="0:24:21.964000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 dann	-	-	-	0:24:21.108000	0:24:21.964000
 je	-	-	-	0:24:21.108000	0:24:21.964000
 nach	-	-	-	0:24:21.108000	0:24:21.964000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:21.964000" end="0:24:22.732000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:21.964000" end="0:24:22.732000" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:21.964000	0:24:22.732000
 nehmen	-	-	-	0:24:21.964000	0:24:22.732000
 wir	-	-	-	0:24:21.964000	0:24:22.732000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:21.964000" end="0:24:22.732000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:21.964000" end="0:24:22.732000" age_lower="1" age_upper="999">
 Gefühl	-	-	-	0:24:21.964000	0:24:22.732000
 einfach	-	-	-	0:24:21.964000	0:24:22.732000
 .	-	-	-	0:24:21.964000	0:24:22.732000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:22.732000" end="0:24:23.894000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:22.732000" end="0:24:23.894000" age_lower="18" age_upper="35">
 wieder	-	-	-	0:24:22.732000	0:24:23.479000
 Mitte	-	-	-	0:24:22.732000	0:24:23.479000
 ,	-	-	-	0:24:22.732000	0:24:23.479000
 ja	-	-	-	0:24:23.479000	0:24:23.894000
 .	-	-	-	0:24:23.479000	0:24:23.894000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:23.479000" end="0:24:23.894000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:23.479000" end="0:24:23.894000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:23.479000	0:24:23.894000
 .	-	-	-	0:24:23.479000	0:24:23.894000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:23.894000" end="0:24:27.623000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:23.894000" end="0:24:27.623000" age_lower="18" age_upper="35">
 <pause duration="3,7s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:23.894000" end="0:24:33.661000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:23.894000" end="0:24:33.661000" age_lower="1" age_upper="999">
 <pause duration="3,7s"/>
 und	-	-	-	0:24:27.623000	0:24:29.015000
 angenommen	-	-	-	0:24:27.623000	0:24:29.015000
@@ -7270,11 +7270,11 @@ werden	-	-	-	0:24:30.817000	0:24:33.213000
 aus	-	-	-	0:24:33.213000	0:24:33.661000
 dem	-	-	-	0:24:33.213000	0:24:33.661000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:33.661000" end="0:24:34.144000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:33.661000" end="0:24:34.144000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:33.661000	0:24:34.144000
 .	-	-	-	0:24:33.661000	0:24:34.144000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:33.661000" end="0:24:36.904000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:33.661000" end="0:24:36.904000" age_lower="1" age_upper="999">
 Waldviertel	-	-	-	0:24:33.661000	0:24:34.144000
 kommen	-	-	-	0:24:34.144000	0:24:34.590000
 ,	-	-	-	0:24:34.144000	0:24:34.590000
@@ -7287,30 +7287,30 @@ finden	-	-	-	0:24:34.590000	0:24:36.471000
 oder	-	-	-	0:24:36.471000	0:24:36.904000
 oder	-	-	-	0:24:36.471000	0:24:36.904000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:36.904000" end="0:24:37.655000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:36.904000" end="0:24:37.655000" age_lower="18" age_upper="35">
 ja	-	-	-	0:24:36.904000	0:24:37.655000
 täte	-	-	-	0:24:36.904000	0:24:37.655000
 ich	-	-	-	0:24:36.904000	0:24:37.655000
 eigentlich	-	-	-	0:24:36.904000	0:24:37.655000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:36.904000" end="0:24:37.655000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:36.904000" end="0:24:37.655000" age_lower="1" age_upper="999">
 eher	-	-	-	0:24:36.904000	0:24:37.655000
 unangenehm	-	-	-	0:24:36.904000	0:24:37.655000
 ?	-	-	-	0:24:36.904000	0:24:37.655000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:37.655000" end="0:24:38.294000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:37.655000" end="0:24:38.294000" age_lower="18" age_upper="35">
 schon	-	-	-	0:24:37.655000	0:24:37.867000
 /.	-	-	-	0:24:37.655000	0:24:37.867000
 ja	-	-	-	0:24:37.867000	0:24:38.294000
 .	-	-	-	0:24:37.867000	0:24:38.294000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:38.294000" end="0:24:39.024000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:38.294000" end="0:24:39.024000" age_lower="1" age_upper="999">
 okay	-	-	-	0:24:38.294000	0:24:38.699000
 ,	-	-	-	0:24:38.294000	0:24:38.699000
 warum	-	-	-	0:24:38.699000	0:24:39.024000
 ?	-	-	-	0:24:38.699000	0:24:39.024000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:39.024000" end="0:24:48.994000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:39.024000" end="0:24:48.994000" age_lower="18" age_upper="35">
 <pause duration="1,7s"/>
 na	-	-	-	0:24:40.725000	0:24:42.534000
 weil	-	-	-	0:24:40.725000	0:24:42.534000
@@ -7354,7 +7354,7 @@ Zugehörigkeit	-	-	-	0:24:46.994000	0:24:48.994000
 hat	-	-	-	0:24:46.994000	0:24:48.994000
 .	-	-	-	0:24:46.994000	0:24:48.994000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:48.994000" end="0:24:53.213000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:48.994000" end="0:24:53.213000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:24:48.994000	0:24:50.053000
 ,	-	-	-	0:24:48.994000	0:24:50.053000
@@ -7373,13 +7373,13 @@ ist	-	-	-	0:24:52.024000	0:24:53.213000
 eher	-	-	-	0:24:52.024000	0:24:53.213000
 identitäts/	-	-	-	0:24:52.024000	0:24:53.213000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:53.213000" end="0:24:54.145000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:53.213000" end="0:24:54.145000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:53.213000	0:24:53.759000
 ,	-	-	-	0:24:53.213000	0:24:53.759000
 ja	-	-	-	0:24:53.759000	0:24:54.145000
 .	-	-	-	0:24:53.759000	0:24:54.145000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:53.759000" end="0:24:59.973000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:24:53.759000" end="0:24:59.973000" age_lower="1" age_upper="999">
 /stiftend	-	-	-	0:24:53.759000	0:24:54.145000
 sogar	-	-	-	0:24:54.145000	0:24:54.486000
 ?	-	-	-	0:24:54.145000	0:24:54.486000
@@ -7398,11 +7398,11 @@ Hochdeutsch	-	-	-	0:24:57.259000	0:24:59.973000
 denken	-	-	-	0:24:57.259000	0:24:59.973000
 ,	-	-	-	0:24:57.259000	0:24:59.973000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:59.973000" end="0:25:00.366000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:24:59.973000" end="0:25:00.366000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:24:59.973000	0:25:00.366000
 .	-	-	-	0:24:59.973000	0:25:00.366000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:00.366000" end="0:25:12.157000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:00.366000" end="0:25:12.157000" age_lower="1" age_upper="999">
 von	-	-	-	0:25:00.366000	0:25:01.784000
 dem	-	-	-	0:25:00.366000	0:25:01.784000
 wir	-	-	-	0:25:00.366000	0:25:01.784000
@@ -7454,10 +7454,10 @@ gut	-	-	-	0:25:09.092000	0:25:12.157000
 ist	-	-	-	0:25:09.092000	0:25:12.157000
 ,	-	-	-	0:25:09.092000	0:25:12.157000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:12.157000" end="0:25:12.965000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:12.157000" end="0:25:12.965000" age_lower="18" age_upper="35">
 (ja)	-	-	-	0:25:12.157000	0:25:12.965000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:12.157000" end="0:25:19.277000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:12.157000" end="0:25:19.277000" age_lower="1" age_upper="999">
 wie	-	-	-	0:25:12.157000	0:25:12.965000
 Sie	-	-	-	0:25:12.157000	0:25:12.965000
 wie	-	-	-	0:25:12.157000	0:25:12.965000
@@ -7483,14 +7483,14 @@ unterworfen	-	-	-	0:25:14.480000	0:25:19.277000
 ist	-	-	-	0:25:14.480000	0:25:19.277000
 ?	-	-	-	0:25:14.480000	0:25:19.277000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:19.277000" end="0:25:20.080000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:19.277000" end="0:25:20.080000" age_lower="18" age_upper="35">
 hm	-	-	-	0:25:19.277000	0:25:19.846000
 ja	-	-	-	0:25:19.846000	0:25:20.080000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:19.846000" end="0:25:20.080000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:19.846000" end="0:25:20.080000" age_lower="1" age_upper="999">
 (?/)	-	-	-	0:25:19.846000	0:25:20.080000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:20.080000" end="0:25:25.128000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:20.080000" end="0:25:25.128000" age_lower="18" age_upper="35">
 also	-	-	-	0:25:20.080000	0:25:20.885000
 ich	-	-	-	0:25:20.080000	0:25:20.885000
 meine	-	-	-	0:25:20.080000	0:25:20.885000
@@ -7510,7 +7510,7 @@ das	-	-	-	0:25:23.755000	0:25:25.128000
 zunimmt	-	-	-	0:25:23.755000	0:25:25.128000
 .	-	-	-	0:25:23.755000	0:25:25.128000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:25.128000" end="0:25:27.883000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:25.128000" end="0:25:27.883000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:25:25.128000	0:25:25.690000
 .	-	-	-	0:25:25.128000	0:25:25.690000
 und	-	-	-	0:25:25.690000	0:25:27.883000
@@ -7526,18 +7526,18 @@ selber	-	-	-	0:25:25.690000	0:25:27.883000
 aus	-	-	-	0:25:25.690000	0:25:27.883000
 ,	-	-	-	0:25:25.690000	0:25:27.883000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:27.883000" end="0:25:28.581000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:27.883000" end="0:25:28.581000" age_lower="18" age_upper="35">
 hm	-	-	-	0:25:27.883000	0:25:28.279000
 puh	-	-	-	0:25:28.279000	0:25:28.581000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:28.279000" end="0:25:29.238000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:28.279000" end="0:25:29.238000" age_lower="1" age_upper="999">
 wie	-	-	-	0:25:28.279000	0:25:28.581000
 das	-	-	-	0:25:28.279000	0:25:28.581000
 dann	-	-	-	0:25:28.581000	0:25:29.238000
 aussieht	-	-	-	0:25:28.581000	0:25:29.238000
 ?	-	-	-	0:25:28.581000	0:25:29.238000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:29.238000" end="0:25:41.198000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:29.238000" end="0:25:41.198000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 hm	-	-	-	0:25:29.238000	0:25:30.262000
 nein	-	-	-	0:25:30.262000	0:25:31.162000
@@ -7584,7 +7584,7 @@ aber	-	-	-	0:25:39.129000	0:25:41.198000
 ja	-	-	-	0:25:39.129000	0:25:41.198000
 .	-	-	-	0:25:39.129000	0:25:41.198000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:41.198000" end="0:25:44.508000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:41.198000" end="0:25:44.508000" age_lower="1" age_upper="999">
 okay	-	-	-	0:25:41.198000	0:25:41.626000
 ,	-	-	-	0:25:41.198000	0:25:41.626000
 also	-	-	-	0:25:41.626000	0:25:42.740000
@@ -7600,11 +7600,11 @@ oder	-	-	-	0:25:42.740000	0:25:44.508000
 so	-	-	-	0:25:42.740000	0:25:44.508000
 werden	-	-	-	0:25:42.740000	0:25:44.508000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:44.508000" end="0:25:45.106000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:44.508000" end="0:25:45.106000" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:44.508000	0:25:45.106000
 .	-	-	-	0:25:44.508000	0:25:45.106000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:44.508000" end="0:25:47.512000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:44.508000" end="0:25:47.512000" age_lower="1" age_upper="999">
 mehr	-	-	-	0:25:44.508000	0:25:45.106000
 vielleicht	-	-	-	0:25:44.508000	0:25:45.106000
 (oder)	-	-	-	0:25:45.106000	0:25:47.512000
@@ -7615,11 +7615,11 @@ wird	-	-	-	0:25:45.106000	0:25:47.512000
 allgemein	-	-	-	0:25:45.106000	0:25:47.512000
 größer	-	-	-	0:25:45.106000	0:25:47.512000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:47.512000" end="0:25:48.007000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:47.512000" end="0:25:48.007000" age_lower="18" age_upper="35">
 ja	-	-	-	0:25:47.512000	0:25:48.007000
 .	-	-	-	0:25:47.512000	0:25:48.007000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:47.512000" end="0:25:49.166000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:47.512000" end="0:25:49.166000" age_lower="1" age_upper="999">
 durch	-	-	-	0:25:47.512000	0:25:48.007000
 durch	-	-	-	0:25:47.512000	0:25:48.007000
 andere	-	-	-	0:25:48.007000	0:25:49.166000
@@ -7629,7 +7629,7 @@ vor	-	-	-	0:25:48.007000	0:25:49.166000
 allem	-	-	-	0:25:48.007000	0:25:49.166000
 ?	-	-	-	0:25:48.007000	0:25:49.166000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:49.166000" end="0:25:53.890000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:49.166000" end="0:25:53.890000" age_lower="18" age_upper="35">
 und	-	-	-	0:25:49.166000	0:25:51.409000
 dass	-	-	-	0:25:49.166000	0:25:51.409000
 vielleicht	-	-	-	0:25:49.166000	0:25:51.409000
@@ -7650,18 +7650,18 @@ nicht	-	-	-	0:25:51.409000	0:25:53.890000
 mehr	-	-	-	0:25:51.409000	0:25:53.890000
 gibt	-	-	-	0:25:51.409000	0:25:53.890000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:53.890000" end="0:25:54.155000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:53.890000" end="0:25:54.155000" age_lower="1" age_upper="999">
 ja	-	-	-	0:25:53.890000	0:25:54.155000
 ,	-	-	-	0:25:53.890000	0:25:54.155000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:54.155000" end="0:25:54.938000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:54.155000" end="0:25:54.938000" age_lower="18" age_upper="35">
 oder	-	-	-	0:25:54.155000	0:25:54.563000
 so	-	-	-	0:25:54.155000	0:25:54.563000
 ,	-	-	-	0:25:54.155000	0:25:54.563000
 ja	-	-	-	0:25:54.563000	0:25:54.938000
 .	-	-	-	0:25:54.563000	0:25:54.938000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:54.563000" end="0:25:58.449000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:25:54.563000" end="0:25:58.449000" age_lower="1" age_upper="999">
 okay	-	-	-	0:25:54.563000	0:25:54.938000
 .	-	-	-	0:25:54.563000	0:25:54.938000
 also	-	-	-	0:25:54.938000	0:25:58.449000
@@ -7677,7 +7677,7 @@ Wortschatz	-	-	-	0:25:54.938000	0:25:58.449000
 festmachen	-	-	-	0:25:54.938000	0:25:58.449000
 ?	-	-	-	0:25:54.938000	0:25:58.449000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:58.449000" end="0:26:03.414000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:25:58.449000" end="0:26:03.414000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 mhm	-	-	-	0:25:59.795000	0:26:00.420000
 und	-	-	-	0:26:00.420000	0:26:03.414000
@@ -7690,11 +7690,11 @@ so	-	-	-	0:26:00.420000	0:26:03.414000
 auch	-	-	-	0:26:00.420000	0:26:03.414000
 ,	-	-	-	0:26:00.420000	0:26:03.414000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:03.414000" end="0:26:04.240000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:03.414000" end="0:26:04.240000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:03.414000	0:26:04.240000
 .	-	-	-	0:26:03.414000	0:26:04.240000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:04.240000" end="0:26:10.141000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:04.240000" end="0:26:10.141000" age_lower="18" age_upper="35">
 weil	-	-	-	0:26:04.240000	0:26:06.065000
 <pause duration="0,5s"/>
 den	-	-	-	0:26:04.240000	0:26:06.065000
@@ -7721,7 +7721,7 @@ dem	-	-	-	0:26:09.284000	0:26:10.141000
 her	-	-	-	0:26:09.284000	0:26:10.141000
 /.	-	-	-	0:26:09.284000	0:26:10.141000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:10.141000" end="0:26:12.308000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:10.141000" end="0:26:12.308000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:10.141000	0:26:10.817000
 ,	-	-	-	0:26:10.141000	0:26:10.817000
 also	-	-	-	0:26:10.817000	0:26:12.308000
@@ -7733,7 +7733,7 @@ in	-	-	-	0:26:10.817000	0:26:12.308000
 der	-	-	-	0:26:10.817000	0:26:12.308000
 Grammatik	-	-	-	0:26:10.817000	0:26:12.308000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:12.308000" end="0:26:13.780000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:12.308000" end="0:26:13.780000" age_lower="18" age_upper="35">
 ja	-	-	-	0:26:12.308000	0:26:13.780000
 ,	-	-	-	0:26:12.308000	0:26:13.780000
 vielleicht	-	-	-	0:26:12.308000	0:26:13.780000
@@ -7742,7 +7742,7 @@ ja	-	-	-	0:26:12.308000	0:26:13.780000
 mhm	-	-	-	0:26:12.308000	0:26:13.780000
 .	-	-	-	0:26:12.308000	0:26:13.780000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:12.308000" end="0:26:19.935000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:12.308000" end="0:26:19.935000" age_lower="1" age_upper="999">
 wird	-	-	-	0:26:12.308000	0:26:13.780000
 sich	-	-	-	0:26:12.308000	0:26:13.780000
 (ver/)	-	-	-	0:26:12.308000	0:26:13.780000
@@ -7771,18 +7771,18 @@ Hochdeutsch	-	-	-	0:26:17.532000	0:26:19.532000
 sprechen	-	-	-	0:26:17.532000	0:26:19.532000
 oder	-	-	-	0:26:19.532000	0:26:19.935000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:19.935000" end="0:26:20.798000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:19.935000" end="0:26:20.798000" age_lower="18" age_upper="35">
 nein	-	-	-	0:26:19.935000	0:26:20.798000
 einfach	-	-	-	0:26:19.935000	0:26:20.798000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:19.935000" end="0:26:20.798000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:19.935000" end="0:26:20.798000" age_lower="1" age_upper="999">
 hat	-	-	-	0:26:19.935000	0:26:20.798000
 das	-	-	-	0:26:19.935000	0:26:20.798000
 andere	-	-	-	0:26:19.935000	0:26:20.798000
 Gründe	-	-	-	0:26:19.935000	0:26:20.798000
 ?	-	-	-	0:26:19.935000	0:26:20.798000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:20.798000" end="0:26:26.295000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:20.798000" end="0:26:26.295000" age_lower="18" age_upper="35">
 puh	-	-	-	0:26:20.798000	0:26:22.366000
 die	-	-	-	0:26:20.798000	0:26:22.366000
 Jugend	-	-	-	0:26:20.798000	0:26:22.366000
@@ -7800,7 +7800,7 @@ Länder	-	-	-	0:26:23.558000	0:26:26.295000
 auch	-	-	-	0:26:23.558000	0:26:26.295000
 .	-	-	-	0:26:23.558000	0:26:26.295000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:26.295000" end="0:26:37.532000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:26.295000" end="0:26:37.532000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 okay	-	-	-	0:26:27.243000	0:26:27.732000
 .	-	-	-	0:26:27.243000	0:26:27.732000
@@ -7834,14 +7834,14 @@ das	-	-	-	0:26:36.972000	0:26:37.532000
 ist	-	-	-	0:26:36.972000	0:26:37.532000
 halt	-	-	-	0:26:36.972000	0:26:37.532000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:37.532000" end="0:26:38.726000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:37.532000" end="0:26:38.726000" age_lower="18" age_upper="35">
 *ist*	-	-	-	0:26:37.532000	0:26:38.726000
 halt	-	-	-	0:26:37.532000	0:26:38.726000
 so	-	-	-	0:26:37.532000	0:26:38.726000
 ,	-	-	-	0:26:37.532000	0:26:38.726000
 also	-	-	-	0:26:37.532000	0:26:38.726000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:37.532000" end="0:26:38.726000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:37.532000" end="0:26:38.726000" age_lower="1" age_upper="999">
 (so)	-	-	-	0:26:37.532000	0:26:38.726000
 so	-	-	-	0:26:37.532000	0:26:38.726000
 also	-	-	-	0:26:37.532000	0:26:38.726000
@@ -7849,7 +7849,7 @@ also	-	-	-	0:26:37.532000	0:26:38.726000
 ja	-	-	-	0:26:37.532000	0:26:38.726000
 .	-	-	-	0:26:37.532000	0:26:38.726000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:38.726000" end="0:26:40.009000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:38.726000" end="0:26:40.009000" age_lower="18" age_upper="35">
 alles	-	-	-	0:26:38.726000	0:26:39.738000
 verändert	-	-	-	0:26:38.726000	0:26:39.738000
 sich	-	-	-	0:26:38.726000	0:26:39.738000
@@ -7857,17 +7857,17 @@ sich	-	-	-	0:26:38.726000	0:26:39.738000
 mit	-	-	-	0:26:39.738000	0:26:40.009000
 der	-	-	-	0:26:39.738000	0:26:40.009000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:39.738000" end="0:26:40.009000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:39.738000" end="0:26:40.009000" age_lower="1" age_upper="999">
 okay	-	-	-	0:26:39.738000	0:26:40.009000
 .	-	-	-	0:26:39.738000	0:26:40.009000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:40.009000" end="0:26:40.490000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:40.009000" end="0:26:40.490000" age_lower="18" age_upper="35">
 Zeit	-	-	-	0:26:40.009000	0:26:40.314000
 ,	-	-	-	0:26:40.009000	0:26:40.314000
 ja	-	-	-	0:26:40.314000	0:26:40.490000
 .	-	-	-	0:26:40.314000	0:26:40.490000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:40.490000" end="0:26:49.299000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:40.490000" end="0:26:49.299000" age_lower="1" age_upper="999">
 wunderbar	-	-	-	0:26:40.490000	0:26:41.530000
 .	-	-	-	0:26:40.490000	0:26:41.530000
 <pause duration="1,2s"/>
@@ -7888,7 +7888,7 @@ nicht	-	-	-	0:26:46.417000	0:26:49.299000
 negativ	-	-	-	0:26:46.417000	0:26:49.299000
 ?	-	-	-	0:26:46.417000	0:26:49.299000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:49.299000" end="0:26:51.706000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:49.299000" end="0:26:51.706000" age_lower="18" age_upper="35">
 <pause duration="0,7s"/>
 nein	-	-	-	0:26:49.299000	0:26:50.417000
 ,	-	-	-	0:26:49.299000	0:26:50.417000
@@ -7898,7 +7898,7 @@ auch	-	-	-	0:26:50.417000	0:26:51.706000
 nicht	-	-	-	0:26:50.417000	0:26:51.706000
 .	-	-	-	0:26:50.417000	0:26:51.706000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:51.706000" end="0:26:57.481000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:51.706000" end="0:26:57.481000" age_lower="1" age_upper="999">
 <pause duration="3,2s"/>
 es	-	-	-	0:26:54.900000	0:26:55.918000
 wird	-	-	-	0:26:54.900000	0:26:55.918000
@@ -7914,11 +7914,11 @@ Hochdeutsch	-	-	-	0:26:55.918000	0:26:57.481000
 sein	-	-	-	0:26:55.918000	0:26:57.481000
 ?	-	-	-	0:26:55.918000	0:26:57.481000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:57.481000" end="0:26:58.476000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:26:57.481000" end="0:26:58.476000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:26:57.481000	0:26:58.476000
 .	-	-	-	0:26:57.481000	0:26:58.476000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:57.481000" end="0:27:00.046000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:26:57.481000" end="0:27:00.046000" age_lower="1" age_upper="999">
 oder	-	-	-	0:26:57.481000	0:26:58.476000
 glauben	-	-	-	0:26:57.481000	0:26:58.476000
 Sie	-	-	-	0:26:57.481000	0:26:58.476000
@@ -7929,17 +7929,17 @@ auch	-	-	-	0:26:58.476000	0:27:00.046000
 irgendwie	-	-	-	0:26:58.476000	0:27:00.046000
 dann	-	-	-	0:26:58.476000	0:27:00.046000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:00.046000" end="0:27:01.024000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:00.046000" end="0:27:01.024000" age_lower="18" age_upper="35">
 nein	-	-	-	0:27:00.046000	0:27:01.024000
 ,	-	-	-	0:27:00.046000	0:27:01.024000
 das	-	-	-	0:27:00.046000	0:27:01.024000
 ist	-	-	-	0:27:00.046000	0:27:01.024000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:00.046000" end="0:27:01.024000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:00.046000" end="0:27:01.024000" age_lower="1" age_upper="999">
 ander/	-	-	-	0:27:00.046000	0:27:01.024000
 /?	-	-	-	0:27:00.046000	0:27:01.024000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:01.024000" end="0:27:02.348000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:01.024000" end="0:27:02.348000" age_lower="18" age_upper="35">
 glaube	-	-	-	0:27:01.024000	0:27:02.083000
 ich	-	-	-	0:27:01.024000	0:27:02.083000
 dann	-	-	-	0:27:01.024000	0:27:02.083000
@@ -7949,7 +7949,7 @@ wurscht	-	-	-	0:27:01.024000	0:27:02.083000
 ja	-	-	-	0:27:02.083000	0:27:02.348000
 .	-	-	-	0:27:02.083000	0:27:02.348000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:02.348000" end="0:27:10.909000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:02.348000" end="0:27:10.909000" age_lower="1" age_upper="999">
 okay	-	-	-	0:27:02.348000	0:27:02.861000
 .	-	-	-	0:27:02.348000	0:27:02.861000
 <pause duration="2,1s"/>
@@ -7982,11 +7982,11 @@ gibt	-	-	-	0:27:08.814000	0:27:10.318000
 also	-	-	-	0:27:10.318000	0:27:10.909000
 Mundart	-	-	-	0:27:10.318000	0:27:10.909000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:10.909000" end="0:27:11.181000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:10.909000" end="0:27:11.181000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:27:10.909000	0:27:11.181000
 .	-	-	-	0:27:10.909000	0:27:11.181000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:11.181000" end="0:27:19.744000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:11.181000" end="0:27:19.744000" age_lower="1" age_upper="999">
 haben	-	-	-	0:27:11.181000	0:27:11.854000
 wir	-	-	-	0:27:11.181000	0:27:11.854000
 uns	-	-	-	0:27:11.181000	0:27:11.854000
@@ -8027,24 +8027,24 @@ achtundneunzig	-	-	-	0:27:18.655000	0:27:19.744000
 Prozent	-	-	-	0:27:18.655000	0:27:19.744000
 sisch/	-	-	-	0:27:18.655000	0:27:19.744000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:19.744000" end="0:27:20.325000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:19.744000" end="0:27:20.325000" age_lower="18" age_upper="35">
 ah	-	-	-	0:27:19.744000	0:27:20.325000
 so	-	-	-	0:27:19.744000	0:27:20.325000
 ja	-	-	-	0:27:19.744000	0:27:20.325000
 .	-	-	-	0:27:19.744000	0:27:20.325000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:19.744000" end="0:27:21.577000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:19.744000" end="0:27:21.577000" age_lower="1" age_upper="999">
 reden	-	-	-	0:27:19.744000	0:27:20.325000
 sicher	-	-	-	0:27:19.744000	0:27:20.325000
 irgendwie	-	-	-	0:27:20.325000	0:27:21.577000
 dauernd	-	-	-	0:27:20.325000	0:27:21.577000
 Mundart	-	-	-	0:27:20.325000	0:27:21.577000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:21.577000" end="0:27:22.034000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:21.577000" end="0:27:22.034000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:27:21.577000	0:27:22.034000
 .	-	-	-	0:27:21.577000	0:27:22.034000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:21.577000" end="0:27:33.291000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:21.577000" end="0:27:33.291000" age_lower="1" age_upper="999">
 irgendwie	-	-	-	0:27:21.577000	0:27:22.034000
 ,	-	-	-	0:27:21.577000	0:27:22.034000
 egal	-	-	-	0:27:22.034000	0:27:22.997000
@@ -8099,7 +8099,7 @@ bislang	-	-	-	0:27:31.575000	0:27:33.291000
 vergessen"	-	-	-	0:27:31.575000	0:27:33.291000
 ?	-	-	-	0:27:31.575000	0:27:33.291000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:33.291000" end="0:27:37.356000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:33.291000" end="0:27:37.356000" age_lower="18" age_upper="35">
 puh	-	-	-	0:27:33.291000	0:27:33.869000
 <pause duration="1,8s"/>
 nein	-	-	-	0:27:35.689000	0:27:36.274000
@@ -8111,7 +8111,7 @@ nicht	-	-	-	0:27:36.274000	0:27:37.026000
 nein	-	-	-	0:27:37.026000	0:27:37.356000
 .	-	-	-	0:27:37.026000	0:27:37.356000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:37.356000" end="0:27:55.912000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:37.356000" end="0:27:55.912000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 okay	-	-	-	0:27:38.378000	0:27:38.766000
 .	-	-	-	0:27:38.378000	0:27:38.766000
@@ -8159,7 +8159,7 @@ viel	-	-	-	0:27:55.014000	0:27:55.912000
 lieber	-	-	-	0:27:55.014000	0:27:55.912000
 Mundart	-	-	-	0:27:55.014000	0:27:55.912000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:55.912000" end="0:27:57.607000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:55.912000" end="0:27:57.607000" age_lower="18" age_upper="35">
 ja	-	-	-	0:27:55.912000	0:27:57.607000
 ,	-	-	-	0:27:55.912000	0:27:57.607000
 täte	-	-	??	0:27:55.912000	0:27:57.607000
@@ -8170,21 +8170,21 @@ sagen	-	-	??	0:27:55.912000	0:27:57.607000
 ja	-	-	-	0:27:55.912000	0:27:57.607000
 .	-	-	-	0:27:55.912000	0:27:57.607000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:55.912000" end="0:27:57.607000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:55.912000" end="0:27:57.607000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:27:55.912000	0:27:57.607000
 als	-	-	-	0:27:55.912000	0:27:57.607000
 Hochdeutsch	-	-	-	0:27:55.912000	0:27:57.607000
 ?	-	-	-	0:27:55.912000	0:27:57.607000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:57.607000" end="0:27:59.607000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:27:57.607000" end="0:27:59.607000" age_lower="18" age_upper="35">
 <pause duration="2,0s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:57.607000" end="0:28:00.043000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:27:57.607000" end="0:28:00.043000" age_lower="1" age_upper="999">
 <pause duration="2,0s"/>
 warum	-	-	-	0:27:59.607000	0:28:00.043000
 ?	-	-	-	0:27:59.607000	0:28:00.043000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:00.043000" end="0:28:04.616000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:00.043000" end="0:28:04.616000" age_lower="18" age_upper="35">
 <pause duration="1,0s"/>
 hm	-	-	-	0:28:01.043000	0:28:03.041000
 wegen	-	-	-	0:28:01.043000	0:28:03.041000
@@ -8201,11 +8201,11 @@ nein	-	-	-	0:28:04.186000	0:28:04.616000
 ,	-	-	-	0:28:04.186000	0:28:04.616000
 aber	-	-	-	0:28:04.186000	0:28:04.616000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:04.186000" end="0:28:04.616000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:04.186000" end="0:28:04.616000" age_lower="1" age_upper="999">
 okay	-	-	-	0:28:04.186000	0:28:04.616000
 .	-	-	-	0:28:04.186000	0:28:04.616000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:04.616000" end="0:28:18.010000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:04.616000" end="0:28:18.010000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ich	-	-	-	0:28:04.616000	0:28:06.642000
 fühle	-	-	-	0:28:04.616000	0:28:06.642000
@@ -8263,7 +8263,7 @@ nicht	-	-	-	0:28:17.397000	0:28:18.010000
 wohl	-	-	-	0:28:17.397000	0:28:18.010000
 .	-	-	-	0:28:17.397000	0:28:18.010000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:18.010000" end="0:28:21.947000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:18.010000" end="0:28:21.947000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 das	-	-	-	0:28:18.978000	0:28:19.250000
 heißt	-	-	-	0:28:18.978000	0:28:19.250000
@@ -8283,30 +8283,30 @@ Fremdsprache	-	-	-	0:28:19.250000	0:28:21.947000
 dann	-	-	-	0:28:19.250000	0:28:21.947000
 ?	-	-	-	0:28:19.250000	0:28:21.947000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:21.947000" end="0:28:23.525000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:21.947000" end="0:28:23.525000" age_lower="18" age_upper="35">
 na/	-	-	-	0:28:21.947000	0:28:23.525000
 nein	-	-	-	0:28:21.947000	0:28:23.525000
 das	-	-	-	0:28:21.947000	0:28:23.525000
 jetzt	-	-	-	0:28:21.947000	0:28:23.525000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:21.947000" end="0:28:23.525000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:21.947000" end="0:28:23.525000" age_lower="1" age_upper="999">
 (n/)	-	-	-	0:28:21.947000	0:28:23.525000
 (ho/)	-	-	-	0:28:21.947000	0:28:23.525000
 oder	-	-	-	0:28:21.947000	0:28:23.525000
 oder	-	-	-	0:28:21.947000	0:28:23.525000
 /?	-	-	-	0:28:21.947000	0:28:23.525000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:23.525000" end="0:28:24.520000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:23.525000" end="0:28:24.520000" age_lower="18" age_upper="35">
 auch	-	-	-	0:28:23.525000	0:28:23.940000
 nicht	-	-	-	0:28:23.525000	0:28:23.940000
 ,	-	-	-	0:28:23.525000	0:28:23.940000
 aber	-	-	-	0:28:23.940000	0:28:24.520000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:23.940000" end="0:28:24.520000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:23.940000" end="0:28:24.520000" age_lower="1" age_upper="999">
 okay	-	-	-	0:28:23.940000	0:28:24.520000
 .	-	-	-	0:28:23.940000	0:28:24.520000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:24.520000" end="0:28:26.520000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:24.520000" end="0:28:26.520000" age_lower="18" age_upper="35">
 unw/	-	-	-	0:28:24.520000	0:28:25.304000
 nein	-	-	-	0:28:25.304000	0:28:26.276000
 ungut	-	-	-	0:28:25.304000	0:28:26.276000
@@ -8315,7 +8315,7 @@ einfach	-	-	-	0:28:25.304000	0:28:26.276000
 ja	-	-	-	0:28:26.276000	0:28:26.520000
 .	-	-	-	0:28:26.276000	0:28:26.520000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:26.520000" end="0:28:31.275000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:26.520000" end="0:28:31.275000" age_lower="1" age_upper="999">
 <pause duration="1,9s"/>
 ähm	-	-	-	0:28:28.423000	0:28:29.678000
 wenn	-	-	-	0:28:28.423000	0:28:29.678000
@@ -8333,11 +8333,11 @@ Sie	-	-	-	0:28:30.487000	0:28:31.275000
 Mundart	-	-	-	0:28:30.487000	0:28:31.275000
 ,	-	-	-	0:28:30.487000	0:28:31.275000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:31.275000" end="0:28:31.640000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:31.275000" end="0:28:31.640000" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:31.275000	0:28:31.640000
 .	-	-	-	0:28:31.275000	0:28:31.640000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:31.275000" end="0:28:33.953000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:31.275000" end="0:28:33.953000" age_lower="1" age_upper="999">
 machen	-	-	-	0:28:31.275000	0:28:31.640000
 Sie	-	-	-	0:28:31.640000	0:28:32.384000
 da	-	-	-	0:28:31.640000	0:28:32.384000
@@ -8353,35 +8353,35 @@ Vater	-	-	-	0:28:32.384000	0:28:33.953000
 Mundart	-	-	-	0:28:32.384000	0:28:33.953000
 ,	-	-	-	0:28:32.384000	0:28:33.953000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:33.953000" end="0:28:34.544000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:33.953000" end="0:28:34.544000" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:33.953000	0:28:34.544000
 .	-	-	-	0:28:33.953000	0:28:34.544000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:33.953000" end="0:28:35.090000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:33.953000" end="0:28:35.090000" age_lower="1" age_upper="999">
 mit	-	-	-	0:28:33.953000	0:28:34.544000
 Ihrer	-	-	-	0:28:34.544000	0:28:35.090000
 Mutter	-	-	-	0:28:34.544000	0:28:35.090000
 ,	-	-	-	0:28:34.544000	0:28:35.090000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:35.090000" end="0:28:35.468000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:35.090000" end="0:28:35.468000" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:35.090000	0:28:35.468000
 .	-	-	-	0:28:35.090000	0:28:35.468000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:35.090000" end="0:28:35.816000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:35.090000" end="0:28:35.816000" age_lower="1" age_upper="999">
 mit	-	-	-	0:28:35.090000	0:28:35.468000
 Ihren	-	-	-	0:28:35.090000	0:28:35.468000
 Geschw/	-	-	-	0:28:35.468000	0:28:35.701000
 /?	-	-	-	0:28:35.468000	0:28:35.701000
 ich	-	-	-	0:28:35.701000	0:28:35.816000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:35.816000" end="0:28:36.731000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:35.816000" end="0:28:36.731000" age_lower="18" age_upper="35">
 mit	-	-	-	0:28:35.816000	0:28:36.731000
 alle	-	-	-	0:28:35.816000	0:28:36.731000
 ,	-	-	-	0:28:35.816000	0:28:36.731000
 ja	-	-	-	0:28:35.816000	0:28:36.731000
 .	-	-	-	0:28:35.816000	0:28:36.731000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:35.816000" end="0:28:36.731000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:35.816000" end="0:28:36.731000" age_lower="1" age_upper="999">
 weiß	-	-	-	0:28:35.816000	0:28:36.731000
 nicht	-	-	-	0:28:35.816000	0:28:36.731000
 ,	-	-	-	0:28:35.816000	0:28:36.731000
@@ -8390,11 +8390,11 @@ Sie	-	-	-	0:28:35.816000	0:28:36.731000
 Geschwister	-	-	-	0:28:35.816000	0:28:36.731000
 ?	-	-	-	0:28:35.816000	0:28:36.731000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:36.731000" end="0:28:38.833000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:36.731000" end="0:28:38.833000" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:36.731000	0:28:38.833000
 .	-	-	-	0:28:36.731000	0:28:38.833000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:36.731000" end="0:28:41.052000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:36.731000" end="0:28:41.052000" age_lower="1" age_upper="999">
 und	-	-	-	0:28:38.833000	0:28:41.052000
 Sie	-	-	-	0:28:38.833000	0:28:41.052000
 machen	-	-	-	0:28:38.833000	0:28:41.052000
@@ -8404,12 +8404,12 @@ keinen	-	-	-	0:28:38.833000	0:28:41.052000
 Unterschied	-	-	-	0:28:38.833000	0:28:41.052000
 ?	-	-	-	0:28:38.833000	0:28:41.052000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:41.052000" end="0:28:41.912000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:41.052000" end="0:28:41.912000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 nein	-	-	-	0:28:41.052000	0:28:41.912000
 .	-	-	-	0:28:41.052000	0:28:41.912000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:41.912000" end="0:28:47.199000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:41.912000" end="0:28:47.199000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:28:41.912000	0:28:43.139000
 Sie	-	-	-	0:28:41.912000	0:28:43.139000
 jetzt	-	-	-	0:28:41.912000	0:28:43.139000
@@ -8433,11 +8433,11 @@ mit	-	-	-	0:28:44.067000	0:28:47.199000
 einheimischen	-	-	-	0:28:44.067000	0:28:47.199000
 Kindern	-	-	-	0:28:44.067000	0:28:47.199000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:47.199000" end="0:28:47.598000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:47.199000" end="0:28:47.598000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:28:47.199000	0:28:47.598000
 .	-	-	-	0:28:47.199000	0:28:47.598000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:47.199000" end="0:28:48.562000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:47.199000" end="0:28:48.562000" age_lower="1" age_upper="999">
 Kontakt	-	-	-	0:28:47.199000	0:28:47.598000
 haben	-	-	-	0:28:47.598000	0:28:47.844000
 ,	-	-	-	0:28:47.598000	0:28:47.844000
@@ -8447,19 +8447,19 @@ Sie	-	-	-	0:28:47.844000	0:28:48.562000
 mit	-	-	-	0:28:47.844000	0:28:48.562000
 denen	-	-	-	0:28:47.844000	0:28:48.562000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:48.562000" end="0:28:48.941000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:48.562000" end="0:28:48.941000" age_lower="18" age_upper="35">
 ja	-	-	-	0:28:48.562000	0:28:48.941000
 auch	-	-	-	0:28:48.562000	0:28:48.941000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:48.562000" end="0:28:48.941000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:48.562000" end="0:28:48.941000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:28:48.562000	0:28:48.941000
 ?	-	-	-	0:28:48.562000	0:28:48.941000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:48.941000" end="0:28:49.475000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:48.941000" end="0:28:49.475000" age_lower="18" age_upper="35">
 Mundart	-	-	-	0:28:48.941000	0:28:49.475000
 .	-	-	-	0:28:48.941000	0:28:49.475000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:49.475000" end="0:28:58.739000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:49.475000" end="0:28:58.739000" age_lower="1" age_upper="999">
 okay	-	-	-	0:28:49.475000	0:28:49.767000
 .	-	-	-	0:28:49.475000	0:28:49.767000
 <pause duration="1,3s"/>
@@ -8488,7 +8488,7 @@ als	-	-	-	0:28:54.720000	0:28:58.739000
 Mundart	-	-	-	0:28:54.720000	0:28:58.739000
 ?	-	-	-	0:28:54.720000	0:28:58.739000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:58.739000" end="0:29:00.593000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:28:58.739000" end="0:29:00.593000" age_lower="18" age_upper="35">
 nein	-	-	-	0:28:58.739000	0:28:59.929000
 haben	-	-	-	0:28:58.739000	0:28:59.929000
 sie	-	-	-	0:28:58.739000	0:28:59.929000
@@ -8497,7 +8497,7 @@ nicht	-	-	-	0:28:58.739000	0:28:59.929000
 eigentlich	-	-	-	0:28:59.929000	0:29:00.593000
 .	-	-	-	0:28:59.929000	0:29:00.593000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:59.929000" end="0:29:04.095000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:28:59.929000" end="0:29:04.095000" age_lower="1" age_upper="999">
 okay	-	-	-	0:28:59.929000	0:29:00.593000
 .	-	-	-	0:28:59.929000	0:29:00.593000
 <pause duration="2,3s"/>
@@ -8507,7 +8507,7 @@ Eltern	-	-	-	0:29:02.865000	0:29:04.095000
 untereinander	-	-	-	0:29:02.865000	0:29:04.095000
 ?	-	-	-	0:29:02.865000	0:29:04.095000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:04.095000" end="0:29:05.620000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:04.095000" end="0:29:05.620000" age_lower="18" age_upper="35">
 nein	-	-	-	0:29:04.095000	0:29:05.620000
 ,	-	-	-	0:29:04.095000	0:29:05.620000
 reden	-	-	-	0:29:04.095000	0:29:05.620000
@@ -8517,7 +8517,7 @@ Mundart	-	-	-	0:29:04.095000	0:29:05.620000
 ja	-	-	-	0:29:04.095000	0:29:05.620000
 .	-	-	-	0:29:04.095000	0:29:05.620000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:05.620000" end="0:29:15.293000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:05.620000" end="0:29:15.293000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 gut	-	-	-	0:29:06.914000	0:29:07.620000
 .	-	-	-	0:29:06.914000	0:29:07.620000
@@ -8544,7 +8544,7 @@ gelegt	-	-	-	0:29:13.965000	0:29:15.293000
 haben	-	-	-	0:29:13.965000	0:29:15.293000
 ?	-	-	-	0:29:13.965000	0:29:15.293000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:15.293000" end="0:29:16.326000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:15.293000" end="0:29:16.326000" age_lower="18" age_upper="35">
 nein	-	-	-	0:29:15.293000	0:29:16.101000
 ,	-	-	-	0:29:15.293000	0:29:16.101000
 haben	-	-	-	0:29:15.293000	0:29:16.101000
@@ -8553,19 +8553,19 @@ auch	-	-	-	0:29:15.293000	0:29:16.101000
 nicht	-	-	-	0:29:16.101000	0:29:16.326000
 ,	-	-	-	0:29:16.101000	0:29:16.326000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:16.101000" end="0:29:16.569000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:16.101000" end="0:29:16.569000" age_lower="1" age_upper="999">
 oder	-	-	-	0:29:16.101000	0:29:16.326000
 war	-	-	-	0:29:16.326000	0:29:16.569000
 das	-	-	-	0:29:16.326000	0:29:16.569000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:16.569000" end="0:29:16.953000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:16.569000" end="0:29:16.953000" age_lower="18" age_upper="35">
 das	-	-	-	0:29:16.569000	0:29:16.953000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:16.569000" end="0:29:16.953000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:16.569000" end="0:29:16.953000" age_lower="1" age_upper="999">
 einfach	-	-	-	0:29:16.569000	0:29:16.953000
 /?	-	-	-	0:29:16.569000	0:29:16.953000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:16.953000" end="0:29:18.194000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:16.953000" end="0:29:18.194000" age_lower="18" age_upper="35">
 war/	-	-	-	0:29:16.953000	0:29:17.170000
 /.	-	-	-	0:29:16.953000	0:29:17.170000
 das	-	-	-	0:29:17.170000	0:29:18.194000
@@ -8574,7 +8574,7 @@ einfach	-	-	-	0:29:17.170000	0:29:18.194000
 so	-	-	-	0:29:17.170000	0:29:18.194000
 .	-	-	-	0:29:17.170000	0:29:18.194000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:18.194000" end="0:29:25.919000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:18.194000" end="0:29:25.919000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 <pause duration="2,6s"/>
 gut	-	-	-	0:29:22.275000	0:29:22.732000
@@ -8590,11 +8590,11 @@ die	-	-	-	0:29:22.732000	0:29:25.919000
 Schule	-	-	-	0:29:22.732000	0:29:25.919000
 gekommen	-	-	-	0:29:22.732000	0:29:25.919000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:25.919000" end="0:29:26.328000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:25.919000" end="0:29:26.328000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:29:25.919000	0:29:26.328000
 .	-	-	-	0:29:25.919000	0:29:26.328000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:26.328000" end="0:29:30.183000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:26.328000" end="0:29:30.183000" age_lower="1" age_upper="999">
 und	-	-	-	0:29:26.328000	0:29:30.183000
 sind	-	-	-	0:29:26.328000	0:29:30.183000
 dann	-	-	-	0:29:26.328000	0:29:30.183000
@@ -8608,10 +8608,10 @@ Kontakt	-	-	-	0:29:26.328000	0:29:30.183000
 gewesen	-	-	-	0:29:26.328000	0:29:30.183000
 ,	-	-	-	0:29:26.328000	0:29:30.183000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:30.183000" end="0:29:30.594000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:30.183000" end="0:29:30.594000" age_lower="18" age_upper="35">
 hm	-	-	-	0:29:30.183000	0:29:30.594000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:30.183000" end="0:29:35.953000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:30.183000" end="0:29:35.953000" age_lower="1" age_upper="999">
 egal	-	-	-	0:29:30.183000	0:29:30.594000
 ,	-	-	-	0:29:30.183000	0:29:30.594000
 ob	-	-	-	0:29:30.183000	0:29:30.594000
@@ -8635,7 +8635,7 @@ gesprochen	-	-	-	0:29:33.696000	0:29:35.953000
 worden	-	-	-	0:29:33.696000	0:29:35.953000
 ?	-	-	-	0:29:33.696000	0:29:35.953000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:35.953000" end="0:29:37.401000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:35.953000" end="0:29:37.401000" age_lower="18" age_upper="35">
 na	-	-	-	0:29:35.953000	0:29:36.819000
 auch	-	-	-	0:29:35.953000	0:29:36.819000
 Mundart	-	-	-	0:29:35.953000	0:29:36.819000
@@ -8643,7 +8643,7 @@ Mundart	-	-	-	0:29:35.953000	0:29:36.819000
 ja	-	-	-	0:29:36.819000	0:29:37.401000
 .	-	-	-	0:29:36.819000	0:29:37.401000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:36.819000" end="0:29:41.947000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:36.819000" end="0:29:41.947000" age_lower="1" age_upper="999">
 okay	-	-	-	0:29:36.819000	0:29:37.401000
 .	-	-	-	0:29:36.819000	0:29:37.401000
 <pause duration="0,8s"/>
@@ -8663,29 +8663,29 @@ der	-	-	-	0:29:39.375000	0:29:41.947000
 Schriftsprache	-	-	-	0:29:39.375000	0:29:41.947000
 zum	-	-	-	0:29:39.375000	0:29:41.947000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:41.947000" end="0:29:42.300000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:41.947000" end="0:29:42.300000" age_lower="18" age_upper="35">
 hm	-	-	-	0:29:41.947000	0:29:42.300000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:41.947000" end="0:29:42.574000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:41.947000" end="0:29:42.574000" age_lower="1" age_upper="999">
 Beispiel	-	-	-	0:29:41.947000	0:29:42.300000
 für	-	-	-	0:29:42.300000	0:29:42.574000
 Sie	-	-	-	0:29:42.300000	0:29:42.574000
 ,	-	-	-	0:29:42.300000	0:29:42.574000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:42.574000" end="0:29:43.209000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:42.574000" end="0:29:43.209000" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:42.574000	0:29:43.209000
 mit	-	-	-	0:29:42.574000	0:29:43.209000
 dem	-	-	-	0:29:42.574000	0:29:43.209000
 habe	-	-	-	0:29:42.574000	0:29:43.209000
 ich	-	-	-	0:29:42.574000	0:29:43.209000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:42.574000" end="0:29:43.209000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:42.574000" end="0:29:43.209000" age_lower="1" age_upper="999">
 war	-	-	-	0:29:42.574000	0:29:43.209000
 das	-	-	-	0:29:42.574000	0:29:43.209000
 irgendwie	-	-	-	0:29:42.574000	0:29:43.209000
 /?	-	-	-	0:29:42.574000	0:29:43.209000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:43.209000" end="0:29:50.959000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:43.209000" end="0:29:50.959000" age_lower="18" age_upper="35">
 überhaupt	-	-	-	0:29:43.209000	0:29:44.326000
 kein	-	-	-	0:29:43.209000	0:29:44.326000
 Problem	-	-	-	0:29:43.209000	0:29:44.326000
@@ -8719,17 +8719,17 @@ habe	-	-	-	0:29:50.181000	0:29:50.959000
 ich	-	-	-	0:29:50.181000	0:29:50.959000
 nie	-	-	-	0:29:50.181000	0:29:50.959000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:50.959000" end="0:29:51.447000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:50.959000" end="0:29:51.447000" age_lower="1" age_upper="999">
 okay	-	-	-	0:29:50.959000	0:29:51.447000
 .	-	-	-	0:29:50.959000	0:29:51.447000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:51.447000" end="0:29:52.525000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:51.447000" end="0:29:52.525000" age_lower="18" age_upper="35">
 irgendwie	-	-	-	0:29:51.447000	0:29:51.829000
 Probleme	-	-	-	0:29:51.829000	0:29:52.525000
 gehabt	-	-	-	0:29:51.829000	0:29:52.525000
 .	-	-	-	0:29:51.829000	0:29:52.525000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:51.829000" end="0:29:54.094000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:51.829000" end="0:29:54.094000" age_lower="1" age_upper="999">
 ist	-	-	-	0:29:51.829000	0:29:52.525000
 Ihnen	-	-	-	0:29:51.829000	0:29:52.525000
 viel	-	-	-	0:29:52.525000	0:29:54.094000
@@ -8739,7 +8739,7 @@ als	-	-	-	0:29:52.525000	0:29:54.094000
 Kind	-	-	-	0:29:52.525000	0:29:54.094000
 ?	-	-	-	0:29:52.525000	0:29:54.094000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:54.094000" end="0:29:56.775000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:54.094000" end="0:29:56.775000" age_lower="18" age_upper="35">
 hm	-	-	-	0:29:54.094000	0:29:55.138000
 das	-	-	-	0:29:54.094000	0:29:55.138000
 ist	-	-	-	0:29:54.094000	0:29:55.138000
@@ -8754,15 +8754,15 @@ finde	-	-	-	0:29:55.138000	0:29:56.775000
 schon	-	-	-	0:29:55.138000	0:29:56.775000
 ,	-	-	-	0:29:55.138000	0:29:56.775000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:56.775000" end="0:29:57.324000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:56.775000" end="0:29:57.324000" age_lower="1" age_upper="999">
 okay	-	-	-	0:29:56.775000	0:29:57.324000
 .	-	-	-	0:29:56.775000	0:29:57.324000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:57.324000" end="0:29:57.601000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:57.324000" end="0:29:57.601000" age_lower="18" age_upper="35">
 ja	-	-	-	0:29:57.324000	0:29:57.601000
 .	-	-	-	0:29:57.324000	0:29:57.601000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:57.324000" end="0:29:59.699000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:57.324000" end="0:29:59.699000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:29:57.324000	0:29:57.601000
 Sie	-	-	-	0:29:57.324000	0:29:57.601000
 ,	-	-	-	0:29:57.324000	0:29:57.601000
@@ -8778,24 +8778,24 @@ dass	-	-	-	0:29:59.214000	0:29:59.699000
 Sie	-	-	-	0:29:59.214000	0:29:59.699000
 damit	-	-	-	0:29:59.214000	0:29:59.699000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:59.699000" end="0:30:00.242000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:29:59.699000" end="0:30:00.242000" age_lower="18" age_upper="35">
 hm	-	-	-	0:29:59.699000	0:30:00.242000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:59.699000" end="0:30:00.489000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:29:59.699000" end="0:30:00.489000" age_lower="1" age_upper="999">
 kein	-	-	-	0:29:59.699000	0:30:00.242000
 Problem	-	-	-	0:29:59.699000	0:30:00.242000
 hatten	-	-	-	0:30:00.242000	0:30:00.489000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:00.489000" end="0:30:01.259000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:00.489000" end="0:30:01.259000" age_lower="18" age_upper="35">
 vielleicht	-	-	-	0:30:00.489000	0:30:01.259000
 ,	-	-	-	0:30:00.489000	0:30:01.259000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:00.489000" end="0:30:01.259000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:00.489000" end="0:30:01.259000" age_lower="1" age_upper="999">
 dann	-	-	-	0:30:00.489000	0:30:01.259000
 später	-	-	-	0:30:00.489000	0:30:01.259000
 ?	-	-	-	0:30:00.489000	0:30:01.259000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:01.259000" end="0:30:02.750000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:01.259000" end="0:30:02.750000" age_lower="18" age_upper="35">
 das	-	-	-	0:30:01.259000	0:30:02.531000
 ist	-	-	-	0:30:01.259000	0:30:02.531000
 eine	-	-	-	0:30:01.259000	0:30:02.531000
@@ -8806,7 +8806,7 @@ eigentlich	-	-	-	0:30:01.259000	0:30:02.531000
 ja	-	-	-	0:30:02.531000	0:30:02.750000
 .	-	-	-	0:30:02.531000	0:30:02.750000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:02.750000" end="0:30:07.730000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:02.750000" end="0:30:07.730000" age_lower="1" age_upper="999">
 (mhm)	-	-	-	0:30:02.750000	0:30:03.760000
 <pause duration="0,7s"/>
 das	-	-	-	0:30:03.760000	0:30:04.007000
@@ -8831,7 +8831,7 @@ geändert	-	-	-	0:30:04.593000	0:30:07.730000
 hat	-	-	-	0:30:04.593000	0:30:07.730000
 ?	-	-	-	0:30:04.593000	0:30:07.730000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:07.730000" end="0:30:09.730000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:07.730000" end="0:30:09.730000" age_lower="18" age_upper="35">
 nein	-	-	-	0:30:07.730000	0:30:08.132000
 ,	-	-	-	0:30:07.730000	0:30:08.132000
 <pause duration="1,0s"/>
@@ -8839,7 +8839,7 @@ gar	-	-	-	0:30:09.094000	0:30:09.730000
 nicht	-	-	-	0:30:09.094000	0:30:09.730000
 .	-	-	-	0:30:09.094000	0:30:09.730000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:09.730000" end="0:30:15.634000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:09.730000" end="0:30:15.634000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:30:09.730000	0:30:10.725000
 .	-	-	-	0:30:09.730000	0:30:10.725000
@@ -8860,7 +8860,7 @@ jetzt	-	-	-	0:30:14.603000	0:30:15.634000
 mal	-	-	-	0:30:14.603000	0:30:15.634000
 ?	-	-	-	0:30:14.603000	0:30:15.634000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:15.634000" end="0:30:17.491000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:15.634000" end="0:30:17.491000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 mhm	-	-	-	0:30:15.634000	0:30:17.491000
 ,	-	-	-	0:30:15.634000	0:30:17.491000
@@ -8871,14 +8871,14 @@ schon	-	-	-	0:30:15.634000	0:30:17.491000
 ja	-	-	-	0:30:15.634000	0:30:17.491000
 .	-	-	-	0:30:15.634000	0:30:17.491000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:17.491000" end="0:30:18.552000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:17.491000" end="0:30:18.552000" age_lower="1" age_upper="999">
 also	-	-	-	0:30:17.491000	0:30:18.552000
 unter	-	-	-	0:30:17.491000	0:30:18.552000
 den	-	-	-	0:30:17.491000	0:30:18.552000
 Kindern	-	-	-	0:30:17.491000	0:30:18.552000
 wahrscheinlich	-	-	-	0:30:17.491000	0:30:18.552000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:18.552000" end="0:30:20.177000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:18.552000" end="0:30:20.177000" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:18.552000	0:30:20.177000
 .	-	-	-	0:30:18.552000	0:30:20.177000
 nein	-	-	-	0:30:18.552000	0:30:20.177000
@@ -8888,7 +8888,7 @@ auch	-	-	-	0:30:18.552000	0:30:20.177000
 ja	-	-	-	0:30:18.552000	0:30:20.177000
 .	-	-	-	0:30:18.552000	0:30:20.177000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:18.552000" end="0:30:20.874000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:18.552000" end="0:30:20.874000" age_lower="1" age_upper="999">
 sowieso	-	-	-	0:30:18.552000	0:30:20.177000
 auch	-	-	-	0:30:18.552000	0:30:20.177000
 un/	-	-	-	0:30:18.552000	0:30:20.177000
@@ -8898,11 +8898,11 @@ Lehrer	-	-	-	0:30:20.177000	0:30:20.874000
 haben	-	-	-	0:30:20.177000	0:30:20.874000
 auch	-	-	-	0:30:20.177000	0:30:20.874000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:20.874000" end="0:30:21.588000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:20.874000" end="0:30:21.588000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:30:20.874000	0:30:21.588000
 .	-	-	-	0:30:20.874000	0:30:21.588000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:20.874000" end="0:30:30.310000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:20.874000" end="0:30:30.310000" age_lower="1" age_upper="999">
 Mundart	-	-	-	0:30:20.874000	0:30:21.588000
 gesprochen	-	-	-	0:30:20.874000	0:30:21.588000
 ,	-	-	-	0:30:20.874000	0:30:21.588000
@@ -8930,11 +8930,11 @@ dann	-	-	-	0:30:28.595000	0:30:30.310000
 ist	-	-	-	0:30:28.595000	0:30:30.310000
 irgendwie	-	-	-	0:30:28.595000	0:30:30.310000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:30.310000" end="0:30:30.638000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:30.310000" end="0:30:30.638000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:30:30.310000	0:30:30.638000
 .	-	-	-	0:30:30.310000	0:30:30.638000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:30.310000" end="0:30:32.471000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:30.310000" end="0:30:32.471000" age_lower="1" age_upper="999">
 anders	-	-	-	0:30:30.310000	0:30:30.638000
 gesprochen	-	-	-	0:30:30.638000	0:30:31.380000
 worden	-	-	-	0:30:30.638000	0:30:31.380000
@@ -8943,11 +8943,11 @@ teilweise	-	-	-	0:30:31.380000	0:30:32.471000
 zumindest	-	-	-	0:30:31.380000	0:30:32.471000
 ,	-	-	-	0:30:31.380000	0:30:32.471000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:32.471000" end="0:30:33.001000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:32.471000" end="0:30:33.001000" age_lower="18" age_upper="35">
 ja	-	-	-	0:30:32.471000	0:30:33.001000
 .	-	-	-	0:30:32.471000	0:30:33.001000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:33.001000" end="0:30:40.179000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:33.001000" end="0:30:40.179000" age_lower="1" age_upper="999">
 können	-	-	-	0:30:33.001000	0:30:34.162000
 Sie	-	-	-	0:30:33.001000	0:30:34.162000
 nochmal	-	-	-	0:30:33.001000	0:30:34.162000
@@ -8986,7 +8986,7 @@ warum	-	-	-	0:30:39.142000	0:30:40.179000
 wann	-	-	-	0:30:39.142000	0:30:40.179000
 ?	-	-	-	0:30:39.142000	0:30:40.179000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:40.179000" end="0:30:52.124000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:40.179000" end="0:30:52.124000" age_lower="18" age_upper="35">
 hm	-	-	-	0:30:40.179000	0:30:40.763000
 na	-	-	-	0:30:40.763000	0:30:43.267000
 ich	-	-	-	0:30:40.763000	0:30:43.267000
@@ -9028,9 +9028,9 @@ habe	-	-	-	0:30:51.454000	0:30:51.920000
 ich	-	-	-	0:30:51.454000	0:30:51.920000
 auch	-	-	-	0:30:51.920000	0:30:52.124000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:51.920000" end="0:30:52.124000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:30:51.920000" end="0:30:52.124000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:52.124000" end="0:31:01.504000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:30:52.124000" end="0:31:01.504000" age_lower="18" age_upper="35">
 Hochdeutsch	-	-	-	0:30:52.124000	0:30:52.931000
 geschrieben	-	-	-	0:30:52.124000	0:30:52.931000
 .	-	-	-	0:30:52.124000	0:30:52.931000
@@ -9070,7 +9070,7 @@ und	-	-	-	0:31:00.338000	0:31:01.504000
 fertig	-	-	-	0:31:00.338000	0:31:01.504000
 .	-	-	-	0:31:00.338000	0:31:01.504000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:00.338000" end="0:31:02.716000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:00.338000" end="0:31:02.716000" age_lower="1" age_upper="999">
 okay	-	-	-	0:31:00.338000	0:31:01.504000
 ,	-	-	-	0:31:00.338000	0:31:01.504000
 also	-	-	-	0:31:00.338000	0:31:01.504000
@@ -9082,20 +9082,20 @@ schon	-	-	-	0:31:01.504000	0:31:02.716000
 bewusst	-	-	-	0:31:01.504000	0:31:02.716000
 dagegen	-	-	-	0:31:01.504000	0:31:02.716000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:02.716000" end="0:31:03.223000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:02.716000" end="0:31:03.223000" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:31:02.716000	0:31:03.223000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:02.716000" end="0:31:03.223000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:02.716000" end="0:31:03.223000" age_lower="1" age_upper="999">
 gewehrt	-	-	-	0:31:02.716000	0:31:03.223000
 ?	-	-	-	0:31:02.716000	0:31:03.223000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:03.223000" end="0:31:03.976000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:03.223000" end="0:31:03.976000" age_lower="18" age_upper="35">
 schon	-	-	-	0:31:03.223000	0:31:03.486000
 ,	-	-	-	0:31:03.223000	0:31:03.486000
 ja	-	-	-	0:31:03.486000	0:31:03.976000
 .	-	-	-	0:31:03.486000	0:31:03.976000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:03.486000" end="0:31:10.658000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:03.486000" end="0:31:10.658000" age_lower="1" age_upper="999">
 okay	-	-	-	0:31:03.486000	0:31:03.976000
 .	-	-	-	0:31:03.486000	0:31:03.976000
 <pause duration="1,9s"/>
@@ -9119,10 +9119,10 @@ Sprachverhalten	-	-	-	0:31:05.925000	0:31:10.298000
 also	-	-	-	0:31:10.298000	0:31:10.658000
 Sie	-	-	-	0:31:10.298000	0:31:10.658000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:10.658000" end="0:31:11.138000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:10.658000" end="0:31:11.138000" age_lower="18" age_upper="35">
 hm	-	-	-	0:31:10.658000	0:31:11.138000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:10.658000" end="0:31:14.108000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:10.658000" end="0:31:14.108000" age_lower="1" age_upper="999">
 würden	-	-	-	0:31:10.658000	0:31:11.138000
 nicht	-	-	-	0:31:10.658000	0:31:11.138000
 sagen	-	-	-	0:31:10.658000	0:31:11.138000
@@ -9138,16 +9138,16 @@ ist	-	-	-	0:31:11.138000	0:31:14.108000
 in	-	-	-	0:31:11.138000	0:31:14.108000
 Ihre	-	-	-	0:31:11.138000	0:31:14.108000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:14.108000" end="0:31:14.996000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:14.108000" end="0:31:14.996000" age_lower="18" age_upper="35">
 nein	-	-	-	0:31:14.108000	0:31:14.996000
 ,	-	-	-	0:31:14.108000	0:31:14.996000
 vielleicht	-	-	-	0:31:14.108000	0:31:14.996000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:14.108000" end="0:31:14.996000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:14.108000" end="0:31:14.996000" age_lower="1" age_upper="999">
 Alltagssprache	-	-	-	0:31:14.108000	0:31:14.996000
 ?	-	-	-	0:31:14.108000	0:31:14.996000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:14.996000" end="0:31:21.656000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:14.996000" end="0:31:21.656000" age_lower="18" age_upper="35">
 ein	-	-	-	0:31:14.996000	0:31:16.324000
 paar	-	-	-	0:31:14.996000	0:31:16.324000
 Wörter	-	-	-	0:31:14.996000	0:31:16.324000
@@ -9170,12 +9170,12 @@ nicht	-	-	-	0:31:19.950000	0:31:20.722000
 oder	-	-	-	0:31:20.722000	0:31:21.656000
 eben	-	-	-	0:31:20.722000	0:31:21.656000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:20.722000" end="0:31:21.656000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:20.722000" end="0:31:21.656000" age_lower="1" age_upper="999">
 <pause duration="0,7s"/>
 okay	-	-	-	0:31:20.722000	0:31:21.656000
 .	-	-	-	0:31:20.722000	0:31:21.656000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:21.656000" end="0:31:23.935000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:21.656000" end="0:31:23.935000" age_lower="18" age_upper="35">
 von	-	-	-	0:31:21.656000	0:31:23.935000
 anderen	-	-	-	0:31:21.656000	0:31:23.935000
 Bezirken	-	-	-	0:31:21.656000	0:31:23.935000
@@ -9185,7 +9185,7 @@ Wörter	-	-	-	0:31:21.656000	0:31:23.935000
 angenommen	-	-	-	0:31:21.656000	0:31:23.935000
 .	-	-	-	0:31:21.656000	0:31:23.935000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:23.935000" end="0:31:30.001000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:23.935000" end="0:31:30.001000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 (okay)	-	-	-	0:31:25.213000	0:31:25.767000
 also	-	-	-	0:31:25.767000	0:31:26.331000
@@ -9210,7 +9210,7 @@ brauchte	-	-	-	0:31:28.773000	0:31:30.001000
 Bezeichnungen	-	-	-	0:31:28.773000	0:31:30.001000
 vielleicht	-	-	-	0:31:28.773000	0:31:30.001000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:30.001000" end="0:31:30.957000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:30.001000" end="0:31:30.957000" age_lower="18" age_upper="35">
 ah	-	-	-	0:31:30.001000	0:31:30.957000
 so	-	-	-	0:31:30.001000	0:31:30.957000
 ja	-	-	-	0:31:30.001000	0:31:30.957000
@@ -9218,7 +9218,7 @@ ja	-	-	-	0:31:30.001000	0:31:30.957000
 ja	-	-	-	0:31:30.001000	0:31:30.957000
 .	-	-	-	0:31:30.001000	0:31:30.957000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:30.001000" end="0:31:42.624000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:30.001000" end="0:31:42.624000" age_lower="1" age_upper="999">
 für	-	-	-	0:31:30.001000	0:31:30.957000
 für	-	-	-	0:31:30.001000	0:31:30.957000
 dafür	-	-	-	0:31:30.957000	0:31:31.553000
@@ -9269,11 +9269,11 @@ vielleicht	-	-	-	0:31:41.967000	0:31:42.624000
 mal	-	-	-	0:31:41.967000	0:31:42.624000
 mit	-	-	-	0:31:41.967000	0:31:42.624000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:42.624000" end="0:31:43.540000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:42.624000" end="0:31:43.540000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:31:42.624000	0:31:43.540000
 .	-	-	-	0:31:42.624000	0:31:43.540000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:42.624000" end="0:31:45.401000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:42.624000" end="0:31:45.401000" age_lower="1" age_upper="999">
 Vorgesetzten	-	-	-	0:31:42.624000	0:31:43.540000
 oder	-	-	-	0:31:42.624000	0:31:43.540000
 anderen	-	-	-	0:31:42.624000	0:31:43.540000
@@ -9288,19 +9288,19 @@ mit	-	-	-	0:31:44.496000	0:31:45.401000
 denen	-	-	-	0:31:44.496000	0:31:45.401000
 ?	-	-	-	0:31:44.496000	0:31:45.401000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:45.401000" end="0:31:45.969000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:45.401000" end="0:31:45.969000" age_lower="18" age_upper="35">
 auch	-	-	-	0:31:45.401000	0:31:45.969000
 Mundart	-	-	-	0:31:45.401000	0:31:45.969000
 .	-	-	-	0:31:45.401000	0:31:45.969000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:45.969000" end="0:31:46.195000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:45.969000" end="0:31:46.195000" age_lower="1" age_upper="999">
 auch	-	-	-	0:31:45.969000	0:31:46.195000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:46.195000" end="0:31:46.619000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:46.195000" end="0:31:46.619000" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:46.195000	0:31:46.619000
 .	-	-	-	0:31:46.195000	0:31:46.619000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:46.195000" end="0:31:51.416000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:46.195000" end="0:31:51.416000" age_lower="1" age_upper="999">
 Mundart	-	-	-	0:31:46.195000	0:31:46.619000
 ,	-	-	-	0:31:46.195000	0:31:46.619000
 gut	-	-	-	0:31:46.619000	0:31:47.104000
@@ -9317,11 +9317,11 @@ Chefin	-	-	-	0:31:49.613000	0:31:51.416000
 Chef	-	-	-	0:31:49.613000	0:31:51.416000
 ,	-	-	-	0:31:49.613000	0:31:51.416000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:51.416000" end="0:31:51.881000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:51.416000" end="0:31:51.881000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:31:51.416000	0:31:51.881000
 ,	-	-	-	0:31:51.416000	0:31:51.881000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:51.416000" end="0:31:52.590000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:51.416000" end="0:31:52.590000" age_lower="1" age_upper="999">
 ich	-	-	-	0:31:51.416000	0:31:51.881000
 weiß	-	-	-	0:31:51.416000	0:31:51.881000
 nicht	-	-	-	0:31:51.416000	0:31:51.881000
@@ -9330,11 +9330,11 @@ wie	-	-	-	0:31:51.881000	0:31:52.108000
 ja	-	-	-	0:31:52.108000	0:31:52.590000
 .	-	-	-	0:31:52.108000	0:31:52.590000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:52.590000" end="0:31:52.989000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:52.590000" end="0:31:52.989000" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:52.590000	0:31:52.989000
 .	-	-	-	0:31:52.590000	0:31:52.989000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:52.590000" end="0:31:54.989000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:52.590000" end="0:31:54.989000" age_lower="1" age_upper="999">
 würden	-	-	-	0:31:52.590000	0:31:52.989000
 Sie	-	-	-	0:31:52.989000	0:31:54.181000
 (teilweise)	-	-	-	0:31:52.989000	0:31:54.181000
@@ -9346,7 +9346,7 @@ ist	-	-	-	0:31:54.181000	0:31:54.989000
 auch	-	-	-	0:31:54.181000	0:31:54.989000
 /.	-	-	-	0:31:54.181000	0:31:54.989000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:54.989000" end="0:31:57.001000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:54.989000" end="0:31:57.001000" age_lower="18" age_upper="35">
 ja	-	-	-	0:31:54.989000	0:31:56.540000
 sie	-	-	-	0:31:54.989000	0:31:56.540000
 finden	-	-	-	0:31:54.989000	0:31:56.540000
@@ -9356,20 +9356,20 @@ lustig	-	-	-	0:31:54.989000	0:31:56.540000
 ja	-	-	-	0:31:56.540000	0:31:57.001000
 ,	-	-	-	0:31:56.540000	0:31:57.001000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:56.540000" end="0:31:57.001000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:56.540000" end="0:31:57.001000" age_lower="1" age_upper="999">
 s/	-	-	-	0:31:56.540000	0:31:57.001000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:57.001000" end="0:31:57.539000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:57.001000" end="0:31:57.539000" age_lower="18" age_upper="35">
 weil	-	-	-	0:31:57.001000	0:31:57.539000
 ich	-	-	-	0:31:57.001000	0:31:57.539000
 halt	-	-	-	0:31:57.001000	0:31:57.539000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:57.001000" end="0:31:57.539000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:31:57.001000" end="0:31:57.539000" age_lower="1" age_upper="999">
 sie	-	-	-	0:31:57.001000	0:31:57.539000
 finden	-	-	-	0:31:57.001000	0:31:57.539000
 /?	-	-	-	0:31:57.001000	0:31:57.539000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:57.539000" end="0:32:00.588000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:31:57.539000" end="0:32:00.588000" age_lower="18" age_upper="35">
 die	-	-	-	0:31:57.539000	0:31:58.588000
 einzige	-	-	-	0:31:57.539000	0:31:58.588000
 in	-	-	-	0:31:57.539000	0:31:58.588000
@@ -9388,7 +9388,7 @@ redet	-	-	-	0:31:59.222000	0:32:00.441000
 ja	-	-	-	0:32:00.441000	0:32:00.588000
 .	-	-	-	0:32:00.441000	0:32:00.588000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:00.588000" end="0:32:03.034000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:00.588000" end="0:32:03.034000" age_lower="1" age_upper="999">
 okay	-	-	-	0:32:00.588000	0:32:01.062000
 ,	-	-	-	0:32:00.588000	0:32:01.062000
 also	-	-	-	0:32:01.062000	0:32:03.034000
@@ -9400,11 +9400,11 @@ nicht	-	-	-	0:32:01.062000	0:32:03.034000
 Mundart	-	-	-	0:32:01.062000	0:32:03.034000
 ?	-	-	-	0:32:01.062000	0:32:03.034000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:03.034000" end="0:32:03.827000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:03.034000" end="0:32:03.827000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:03.034000	0:32:03.827000
 .	-	-	-	0:32:03.034000	0:32:03.827000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:03.034000" end="0:32:11.265000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:03.034000" end="0:32:11.265000" age_lower="1" age_upper="999">
 okay	-	-	-	0:32:03.034000	0:32:03.827000
 .	-	-	-	0:32:03.034000	0:32:03.827000
 <pause duration="1,2s"/>
@@ -9429,11 +9429,11 @@ privat	-	-	-	0:32:09.222000	0:32:11.265000
 sprechen	-	-	-	0:32:09.222000	0:32:11.265000
 ?	-	-	-	0:32:09.222000	0:32:11.265000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:11.265000" end="0:32:11.809000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:11.265000" end="0:32:11.809000" age_lower="18" age_upper="35">
 nein	-	-	-	0:32:11.265000	0:32:11.809000
 .	-	-	-	0:32:11.265000	0:32:11.809000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:11.809000" end="0:32:15.227000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:11.809000" end="0:32:15.227000" age_lower="1" age_upper="999">
 <pause duration="2,3s"/>
 wie	-	-	-	0:32:14.066000	0:32:15.227000
 sprechen	-	-	-	0:32:14.066000	0:32:15.227000
@@ -9444,7 +9444,7 @@ mit	-	-	-	0:32:14.066000	0:32:15.227000
 mir	-	-	-	0:32:14.066000	0:32:15.227000
 ?	-	-	-	0:32:14.066000	0:32:15.227000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:15.227000" end="0:32:17.986000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:15.227000" end="0:32:17.986000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ja	-	-	-	0:32:15.227000	0:32:17.986000
 Mundart	-	-	-	0:32:15.227000	0:32:17.986000
@@ -9456,7 +9456,7 @@ an))	-	-	-	0:32:15.227000	0:32:17.986000
 ja	-	-	-	0:32:15.227000	0:32:17.986000
 .	-	-	-	0:32:15.227000	0:32:17.986000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:15.227000" end="0:32:20.891000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:15.227000" end="0:32:20.891000" age_lower="1" age_upper="999">
 wie	-	-	-	0:32:17.986000	0:32:19.199000
 spreche	-	-	-	0:32:17.986000	0:32:19.199000
 ich	-	-	-	0:32:17.986000	0:32:19.199000
@@ -9465,7 +9465,7 @@ Ihnen	-	-	-	0:32:17.986000	0:32:19.199000
 ?	-	-	-	0:32:17.986000	0:32:19.199000
 <pause duration="1,7s"/>
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:20.891000" end="0:32:23.614000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:20.891000" end="0:32:23.614000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:20.891000	0:32:23.209000
 also	-	-	-	0:32:20.891000	0:32:23.209000
 schon	-	-	-	0:32:20.891000	0:32:23.209000
@@ -9474,24 +9474,24 @@ Hochdeutsch	-	-	-	0:32:20.891000	0:32:23.209000
 ja	-	-	-	0:32:23.209000	0:32:23.614000
 .	-	-	-	0:32:23.209000	0:32:23.614000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:23.614000" end="0:32:24.196000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:23.614000" end="0:32:24.196000" age_lower="1" age_upper="999">
 okay	-	-	-	0:32:23.614000	0:32:24.196000
 .	-	-	-	0:32:23.614000	0:32:24.196000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:24.196000" end="0:32:25.513000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:24.196000" end="0:32:25.513000" age_lower="18" age_upper="35">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:24.196000" end="0:32:25.513000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:24.196000" end="0:32:25.513000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:25.513000" end="0:32:26.312000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:25.513000" end="0:32:26.312000" age_lower="18" age_upper="35">
 gehobene	-	-	-	0:32:25.513000	0:32:26.312000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:25.513000" end="0:32:26.312000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:25.513000" end="0:32:26.312000" age_lower="1" age_upper="999">
 gut	-	-	-	0:32:25.513000	0:32:26.312000
 .	-	-	-	0:32:25.513000	0:32:26.312000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:26.312000" end="0:32:27.628000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:26.312000" end="0:32:27.628000" age_lower="18" age_upper="35">
 Sprache	-	-	-	0:32:26.312000	0:32:27.302000
 ein	-	-	-	0:32:26.312000	0:32:27.302000
 wenig	-	-	-	0:32:26.312000	0:32:27.302000
@@ -9499,7 +9499,7 @@ wenig	-	-	-	0:32:26.312000	0:32:27.302000
 ja	-	-	-	0:32:27.302000	0:32:27.628000
 .	-	-	-	0:32:27.302000	0:32:27.628000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:27.628000" end="0:32:37.622000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:27.628000" end="0:32:37.622000" age_lower="1" age_upper="999">
 okay	-	-	-	0:32:27.628000	0:32:28.207000
 .	-	-	-	0:32:27.628000	0:32:28.207000
 <pause duration="1,9s"/>
@@ -9540,10 +9540,10 @@ Sprachen	-	-	-	0:32:34.741000	0:32:37.350000
 oder	-	-	-	0:32:37.350000	0:32:37.622000
 durch	-	-	-	0:32:37.350000	0:32:37.622000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:37.622000" end="0:32:38.370000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:37.622000" end="0:32:38.370000" age_lower="18" age_upper="35">
 hm	-	-	-	0:32:37.622000	0:32:38.370000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:37.622000" end="0:32:39.744000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:37.622000" end="0:32:39.744000" age_lower="1" age_upper="999">
 den	-	-	-	0:32:37.622000	0:32:38.370000
 Einfluss	-	-	-	0:32:37.622000	0:32:38.370000
 von	-	-	-	0:32:38.370000	0:32:39.744000
@@ -9551,24 +9551,24 @@ anderen	-	-	-	0:32:38.370000	0:32:39.744000
 Sprachen	-	-	-	0:32:38.370000	0:32:39.744000
 ?	-	-	-	0:32:38.370000	0:32:39.744000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:39.744000" end="0:32:41.876000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:39.744000" end="0:32:41.876000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:39.744000	0:32:40.440000
 ,	-	-	-	0:32:39.744000	0:32:40.440000
 eigentlich	-	-	-	0:32:40.440000	0:32:41.018000
 schon	-	-	-	0:32:41.018000	0:32:41.876000
 .	-	-	-	0:32:41.018000	0:32:41.876000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:41.018000" end="0:32:42.140000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:41.018000" end="0:32:42.140000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:32:41.018000	0:32:41.876000
 haben	-	-	-	0:32:41.018000	0:32:41.876000
 Englisch	-	-	-	0:32:41.018000	0:32:41.876000
 schon	-	-	-	0:32:41.876000	0:32:42.140000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:42.140000" end="0:32:42.857000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:42.140000" end="0:32:42.857000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:32:42.140000	0:32:42.857000
 .	-	-	-	0:32:42.140000	0:32:42.857000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:42.140000" end="0:32:44.524000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:42.140000" end="0:32:44.524000" age_lower="1" age_upper="999">
 angesprochen	-	-	-	0:32:42.140000	0:32:42.857000
 ,	-	-	-	0:32:42.140000	0:32:42.857000
 viele	-	-	-	0:32:42.857000	0:32:44.524000
@@ -9578,11 +9578,11 @@ dem	-	-	-	0:32:42.857000	0:32:44.524000
 Englischen	-	-	-	0:32:42.857000	0:32:44.524000
 ,	-	-	-	0:32:42.857000	0:32:44.524000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:44.524000" end="0:32:45.398000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:44.524000" end="0:32:45.398000" age_lower="18" age_upper="35">
 ja	-	-	-	0:32:44.524000	0:32:45.398000
 .	-	-	-	0:32:44.524000	0:32:45.398000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:45.398000" end="0:32:48.691000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:32:45.398000" end="0:32:48.691000" age_lower="1" age_upper="999">
 fällt	-	-	-	0:32:45.398000	0:32:46.864000
 Ihnen	-	-	-	0:32:45.398000	0:32:46.864000
 noch	-	-	-	0:32:45.398000	0:32:46.864000
@@ -9597,7 +9597,7 @@ sein	-	-	-	0:32:46.864000	0:32:48.691000
 könnte	-	-	-	0:32:46.864000	0:32:48.691000
 ?	-	-	-	0:32:46.864000	0:32:48.691000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:48.691000" end="0:33:01.886000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:32:48.691000" end="0:33:01.886000" age_lower="18" age_upper="35">
 <pause duration="1,8s"/>
 nein	-	-	-	0:32:50.506000	0:32:53.422000
 also	-	-	-	0:32:50.506000	0:32:53.422000
@@ -9634,7 +9634,7 @@ andere	-	-	-	0:32:58.290000	0:33:01.552000
 nein	-	-	-	0:33:01.552000	0:33:01.886000
 .	-	-	-	0:33:01.552000	0:33:01.886000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:01.886000" end="0:33:04.954000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:01.886000" end="0:33:04.954000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:01.886000	0:33:02.273000
 ,	-	-	-	0:33:01.886000	0:33:02.273000
 also	-	-	-	0:33:02.273000	0:33:03.043000
@@ -9654,27 +9654,27 @@ mit	-	-	-	0:33:03.649000	0:33:04.954000
 dem	-	-	-	0:33:03.649000	0:33:04.954000
 Türkischen	-	-	-	0:33:03.649000	0:33:04.954000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:04.954000" end="0:33:05.357000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:04.954000" end="0:33:05.357000" age_lower="18" age_upper="35">
 ah	-	-	-	0:33:04.954000	0:33:05.357000
 so	-	-	-	0:33:04.954000	0:33:05.357000
 ,	-	-	-	0:33:04.954000	0:33:05.357000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:04.954000" end="0:33:06.524000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:04.954000" end="0:33:06.524000" age_lower="1" age_upper="999">
 etwa	-	-	-	0:33:04.954000	0:33:05.357000
 die	-	-	-	0:33:04.954000	0:33:05.357000
 deutsche	-	-	-	0:33:05.357000	0:33:06.524000
 Sprache	-	-	-	0:33:05.357000	0:33:06.524000
 anders	-	-	-	0:33:05.357000	0:33:06.524000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:06.524000" end="0:33:07.242000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:06.524000" end="0:33:07.242000" age_lower="18" age_upper="35">
 nein	-	-	-	0:33:06.524000	0:33:07.242000
 ,	-	-	-	0:33:06.524000	0:33:07.242000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:06.524000" end="0:33:07.242000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:06.524000" end="0:33:07.242000" age_lower="1" age_upper="999">
 wird	-	-	-	0:33:06.524000	0:33:07.242000
 ?	-	-	-	0:33:06.524000	0:33:07.242000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:07.242000" end="0:33:13.104000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:07.242000" end="0:33:13.104000" age_lower="18" age_upper="35">
 aber	-	-	-	0:33:07.242000	0:33:09.028000
 halt	-	-	-	0:33:07.242000	0:33:09.028000
 einfach	-	-	-	0:33:07.242000	0:33:09.028000
@@ -9699,9 +9699,9 @@ auch	-	-	-	0:33:11.494000	0:33:13.104000
 ja	-	-	-	0:33:11.494000	0:33:13.104000
 /.	-	-	-	0:33:11.494000	0:33:13.104000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:11.494000" end="0:33:13.104000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:11.494000" end="0:33:13.104000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:13.104000" end="0:33:17.436000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:13.104000" end="0:33:17.436000" age_lower="18" age_upper="35">
 also	-	-	-	0:33:13.104000	0:33:14.386000
 sie	-	-	-	0:33:13.104000	0:33:14.386000
 verändert	-	-	-	0:33:13.104000	0:33:14.386000
@@ -9723,7 +9723,7 @@ werden	-	-	-	0:33:15.153000	0:33:17.436000
 kann	-	-	-	0:33:15.153000	0:33:17.436000
 .	-	-	-	0:33:15.153000	0:33:17.436000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:17.436000" end="0:33:23.343000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:17.436000" end="0:33:23.343000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:17.436000	0:33:17.924000
 .	-	-	-	0:33:17.436000	0:33:17.924000
 <pause duration="1,2s"/>
@@ -9750,10 +9750,10 @@ verschwindet	-	-	-	0:33:20.985000	0:33:22.919000
 oder	-	-	-	0:33:22.919000	0:33:23.343000
 dass	-	-	-	0:33:22.919000	0:33:23.343000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:23.343000" end="0:33:23.965000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:23.343000" end="0:33:23.965000" age_lower="18" age_upper="35">
 hm	-	-	-	0:33:23.343000	0:33:23.965000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:23.343000" end="0:33:24.706000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:23.343000" end="0:33:24.706000" age_lower="1" age_upper="999">
 das	-	-	-	0:33:23.343000	0:33:23.965000
 dann	-	-	-	0:33:23.343000	0:33:23.965000
 normal	-	-	-	0:33:23.343000	0:33:23.965000
@@ -9761,7 +9761,7 @@ wird	-	-	-	0:33:23.965000	0:33:24.706000
 irgendwann	-	-	-	0:33:23.965000	0:33:24.706000
 ?	-	-	-	0:33:23.965000	0:33:24.706000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:24.706000" end="0:33:30.006000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:24.706000" end="0:33:30.006000" age_lower="18" age_upper="35">
 ich	-	-	-	0:33:24.706000	0:33:25.309000
 glaube	-	-	-	0:33:24.706000	0:33:25.309000
 ,	-	-	-	0:33:24.706000	0:33:25.309000
@@ -9782,11 +9782,11 @@ immer	-	-	-	0:33:26.623000	0:33:29.672000
 _oida_	-	-	-	0:33:26.623000	0:33:29.672000
 und	-	-	-	0:33:29.672000	0:33:30.006000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:29.672000" end="0:33:30.006000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:29.672000" end="0:33:30.006000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:33:29.672000	0:33:30.006000
 .	-	-	-	0:33:29.672000	0:33:30.006000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:30.006000" end="0:33:32.006000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:30.006000" end="0:33:32.006000" age_lower="18" age_upper="35">
 meine	-	-	-	0:33:30.006000	0:33:31.493000
 Mama	-	-	-	0:33:30.006000	0:33:31.493000
 sagt	-	-	-	0:33:30.006000	0:33:31.493000
@@ -9798,11 +9798,11 @@ also	-	-	-	0:33:31.493000	0:33:32.006000
 es	-	-	-	0:33:31.493000	0:33:32.006000
 /.	-	-	-	0:33:31.493000	0:33:32.006000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:32.006000" end="0:33:32.469000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:32.006000" end="0:33:32.469000" age_lower="1" age_upper="999">
 okay	-	-	-	0:33:32.006000	0:33:32.469000
 .	-	-	-	0:33:32.006000	0:33:32.469000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:32.469000" end="0:33:35.235000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:32.469000" end="0:33:35.235000" age_lower="18" age_upper="35">
 ja	-	-	-	0:33:32.469000	0:33:32.950000
 ,	-	-	-	0:33:32.469000	0:33:32.950000
 das	-	-	-	0:33:32.950000	0:33:35.235000
@@ -9815,7 +9815,7 @@ zum	-	-	-	0:33:32.950000	0:33:35.235000
 Beispiel	-	-	-	0:33:32.950000	0:33:35.235000
 .	-	-	-	0:33:32.950000	0:33:35.235000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:35.235000" end="0:33:38.508000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:35.235000" end="0:33:38.508000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 Sie	-	-	-	0:33:36.490000	0:33:36.908000
 haben	-	-	-	0:33:36.490000	0:33:36.908000
@@ -9829,11 +9829,11 @@ gesprochen	-	-	-	0:33:36.908000	0:33:38.508000
 oder	-	-	-	0:33:36.908000	0:33:38.508000
 Farsi	-	-	-	0:33:36.908000	0:33:38.508000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:38.508000" end="0:33:39.271000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:38.508000" end="0:33:39.271000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:33:38.508000	0:33:39.271000
 .	-	-	-	0:33:38.508000	0:33:39.271000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:38.508000" end="0:33:45.960000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:38.508000" end="0:33:45.960000" age_lower="1" age_upper="999">
 sogar	-	-	-	0:33:38.508000	0:33:39.271000
 oder	-	-	-	0:33:38.508000	0:33:39.271000
 so	-	-	-	0:33:38.508000	0:33:39.271000
@@ -9867,17 +9867,17 @@ ein	-	-	-	0:33:43.927000	0:33:45.498000
 was	-	-	-	0:33:45.498000	0:33:45.960000
 vielleicht	-	-	-	0:33:45.498000	0:33:45.960000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:45.960000" end="0:33:46.740000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:45.960000" end="0:33:46.740000" age_lower="18" age_upper="35">
 hm	-	-	-	0:33:45.960000	0:33:46.740000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:45.960000" end="0:33:46.891000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:45.960000" end="0:33:46.891000" age_lower="1" age_upper="999">
 noch	-	-	-	0:33:45.960000	0:33:46.740000
 irgendwie	-	-	-	0:33:45.960000	0:33:46.740000
 wichtiger	-	-	-	0:33:45.960000	0:33:46.740000
 ist	-	-	-	0:33:46.740000	0:33:46.891000
 ?	-	-	-	0:33:46.740000	0:33:46.891000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:46.891000" end="0:33:50.951000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:46.891000" end="0:33:50.951000" age_lower="18" age_upper="35">
 <pause duration="2,3s"/>
 also	-	-	-	0:33:49.160000	0:33:50.951000
 bei	-	-	-	0:33:49.160000	0:33:50.951000
@@ -9887,7 +9887,7 @@ oder	-	-	-	0:33:49.160000	0:33:50.951000
 wie	-	-	-	0:33:49.160000	0:33:50.951000
 ?	-	-	-	0:33:49.160000	0:33:50.951000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:50.951000" end="0:33:54.349000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:50.951000" end="0:33:54.349000" age_lower="1" age_upper="999">
 ja	-	-	-	0:33:50.951000	0:33:51.932000
 also	-	-	-	0:33:50.951000	0:33:51.932000
 ich	-	-	-	0:33:50.951000	0:33:51.932000
@@ -9905,13 +9905,13 @@ meistens	-	-	-	0:33:53.643000	0:33:54.349000
 auch	-	-	-	0:33:53.643000	0:33:54.349000
 ihre	-	-	-	0:33:53.643000	0:33:54.349000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:54.349000" end="0:33:55.147000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:33:54.349000" end="0:33:55.147000" age_lower="18" age_upper="35">
 ah	-	-	-	0:33:54.349000	0:33:55.147000
 so	-	-	-	0:33:54.349000	0:33:55.147000
 ja	-	-	-	0:33:54.349000	0:33:55.147000
 .	-	-	-	0:33:54.349000	0:33:55.147000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:54.349000" end="0:34:00.027000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:33:54.349000" end="0:34:00.027000" age_lower="1" age_upper="999">
 Sprache	-	-	-	0:33:54.349000	0:33:55.147000
 wichtig	-	-	-	0:33:54.349000	0:33:55.147000
 ,	-	-	-	0:33:54.349000	0:33:55.147000
@@ -9940,7 +9940,7 @@ in	-	-	-	0:33:58.546000	0:34:00.027000
 Wien	-	-	-	0:33:58.546000	0:34:00.027000
 ?	-	-	-	0:33:58.546000	0:34:00.027000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:00.027000" end="0:34:03.834000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:00.027000" end="0:34:03.834000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:00.027000	0:34:03.834000
 und	-	-	-	0:34:00.027000	0:34:03.834000
 eh	-	-	-	0:34:00.027000	0:34:03.834000
@@ -9955,15 +9955,15 @@ solche	-	-	-	0:34:00.027000	0:34:03.834000
 Sachen	-	-	-	0:34:00.027000	0:34:03.834000
 ,	-	-	-	0:34:00.027000	0:34:03.834000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:03.834000" end="0:34:04.327000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:03.834000" end="0:34:04.327000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:03.834000	0:34:04.327000
 .	-	-	-	0:34:03.834000	0:34:04.327000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:04.327000" end="0:34:04.683000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:04.327000" end="0:34:04.683000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:04.327000	0:34:04.683000
 .	-	-	-	0:34:04.327000	0:34:04.683000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:04.683000" end="0:34:12.601000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:04.683000" end="0:34:12.601000" age_lower="1" age_upper="999">
 <pause duration="1,4s"/>
 gut	-	-	-	0:34:06.108000	0:34:06.683000
 .	-	-	-	0:34:06.108000	0:34:06.683000
@@ -9981,7 +9981,7 @@ die	-	-	-	0:34:09.893000	0:34:12.601000
 Jugendsprache	-	-	-	0:34:09.893000	0:34:12.601000
 ?	-	-	-	0:34:09.893000	0:34:12.601000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:12.601000" end="0:34:16.109000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:12.601000" end="0:34:16.109000" age_lower="18" age_upper="35">
 das	-	-	-	0:34:12.601000	0:34:13.722000
 glaube	-	-	-	0:34:12.601000	0:34:13.722000
 ich	-	-	-	0:34:12.601000	0:34:13.722000
@@ -9996,7 +9996,7 @@ sich	-	-	-	0:34:14.109000	0:34:16.109000
 einfach	-	-	-	0:34:14.109000	0:34:16.109000
 .	-	-	-	0:34:14.109000	0:34:16.109000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:16.109000" end="0:34:27.996000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:16.109000" end="0:34:27.996000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 okay	-	-	-	0:34:16.109000	0:34:17.054000
 ,	-	-	-	0:34:16.109000	0:34:17.054000
@@ -10029,11 +10029,11 @@ der	-	-	-	0:34:25.563000	0:34:27.996000
 Monarchie	-	-	-	0:34:25.563000	0:34:27.996000
 ,	-	-	-	0:34:25.563000	0:34:27.996000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:27.996000" end="0:34:28.447000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:27.996000" end="0:34:28.447000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:34:27.996000	0:34:28.447000
 .	-	-	-	0:34:27.996000	0:34:28.447000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:28.447000" end="0:34:40.130000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:28.447000" end="0:34:40.130000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:34:28.447000	0:34:30.001000
 da	-	-	-	0:34:28.447000	0:34:30.001000
 war	-	-	-	0:34:28.447000	0:34:30.001000
@@ -10078,13 +10078,13 @@ glauben	-	-	-	0:34:38.801000	0:34:40.130000
 Sie	-	-	-	0:34:38.801000	0:34:40.130000
 ?	-	-	-	0:34:38.801000	0:34:40.130000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:40.130000" end="0:34:41.978000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:40.130000" end="0:34:41.978000" age_lower="18" age_upper="35">
 also	-	-	-	0:34:40.130000	0:34:41.081000
 in	-	-	-	0:34:40.130000	0:34:41.081000
 Österreich	-	-	-	0:34:41.081000	0:34:41.978000
 ?	-	-	-	0:34:41.081000	0:34:41.978000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:41.081000" end="0:34:43.713000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:41.081000" end="0:34:43.713000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:41.081000	0:34:41.978000
 ,	-	-	-	0:34:41.081000	0:34:41.978000
 also	-	-	-	0:34:41.978000	0:34:43.301000
@@ -10096,11 +10096,11 @@ denken	-	-	-	0:34:43.301000	0:34:43.713000
 Sie	-	-	-	0:34:43.301000	0:34:43.713000
 an	-	-	-	0:34:43.301000	0:34:43.713000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:43.713000" end="0:34:44.449000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:43.713000" end="0:34:44.449000" age_lower="18" age_upper="35">
 ja	-	-	-	0:34:43.713000	0:34:44.449000
 .	-	-	-	0:34:43.713000	0:34:44.449000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:43.713000" end="0:34:46.730000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:43.713000" end="0:34:46.730000" age_lower="1" age_upper="999">
 Österreich	-	-	-	0:34:43.713000	0:34:44.449000
 ,	-	-	-	0:34:43.713000	0:34:44.449000
 dann	-	-	-	0:34:43.713000	0:34:44.449000
@@ -10116,11 +10116,11 @@ viele	-	-	-	0:34:45.212000	0:34:46.730000
 viele	-	-	-	0:34:45.212000	0:34:46.730000
 Sprachen	-	-	-	0:34:45.212000	0:34:46.730000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:46.730000" end="0:34:47.103000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:46.730000" end="0:34:47.103000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:34:46.730000	0:34:47.103000
 .	-	-	-	0:34:46.730000	0:34:47.103000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:46.730000" end="0:34:56.183000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:34:46.730000" end="0:34:56.183000" age_lower="1" age_upper="999">
 irgendwie	-	-	-	0:34:46.730000	0:34:47.103000
 und	-	-	-	0:34:47.103000	0:34:49.324000
 in	-	-	-	0:34:47.103000	0:34:49.324000
@@ -10168,7 +10168,7 @@ auch	-	-	-	0:34:53.953000	0:34:56.183000
 hinterlassen	-	-	-	0:34:53.953000	0:34:56.183000
 ?	-	-	-	0:34:53.953000	0:34:56.183000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:56.183000" end="0:35:04.395000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:34:56.183000" end="0:35:04.395000" age_lower="18" age_upper="35">
 hm	-	-	-	0:34:56.183000	0:34:57.012000
 ja	-	-	-	0:34:57.012000	0:34:59.653000
 wichtig	-	-	-	0:34:57.012000	0:34:59.653000
@@ -10203,11 +10203,11 @@ geredet	-	-	-	0:35:02.760000	0:35:04.395000
 worden	-	-	-	0:35:02.760000	0:35:04.395000
 .	-	-	-	0:35:02.760000	0:35:04.395000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:04.395000" end="0:35:04.671000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:04.395000" end="0:35:04.671000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:04.395000	0:35:04.671000
 .	-	-	-	0:35:04.395000	0:35:04.671000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:04.671000" end="0:35:20.878000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:04.671000" end="0:35:20.878000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 ähm	-	-	-	0:35:04.671000	0:35:06.760000
 <pause duration="0,7s"/>
@@ -10269,14 +10269,14 @@ prinzipiell	-	-	-	0:35:18.755000	0:35:20.060000
 alle	-	-	-	0:35:18.755000	0:35:20.060000
 grenz/	-	-	-	0:35:20.060000	0:35:20.878000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:20.060000" end="0:35:20.878000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:20.060000" end="0:35:20.878000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:20.060000	0:35:20.878000
 .	-	-	-	0:35:20.060000	0:35:20.878000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:20.878000" end="0:35:22.774000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:20.878000" end="0:35:22.774000" age_lower="18" age_upper="35">
 <pause duration="0,9s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:20.878000" end="0:35:28.135000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:20.878000" end="0:35:28.135000" age_lower="1" age_upper="999">
 <pause duration="0,9s"/>
 fällt	-	-	-	0:35:20.878000	0:35:22.774000
 Ihnen	-	-	-	0:35:20.878000	0:35:22.774000
@@ -10303,10 +10303,10 @@ Spuren	-	-	-	0:35:25.372000	0:35:28.135000
 hinterlassen	-	-	-	0:35:25.372000	0:35:28.135000
 ?	-	-	-	0:35:25.372000	0:35:28.135000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:28.135000" end="0:35:29.065000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:28.135000" end="0:35:29.065000" age_lower="18" age_upper="35">
 hm	-	-	-	0:35:28.135000	0:35:29.065000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:29.065000" end="0:35:30.860000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:29.065000" end="0:35:30.860000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 im	-	-	-	0:35:29.065000	0:35:30.137000
 Deutschen	-	-	-	0:35:29.065000	0:35:30.137000
@@ -10314,33 +10314,33 @@ Deutschen	-	-	-	0:35:29.065000	0:35:30.137000
 jetzt	-	-	-	0:35:30.137000	0:35:30.860000
 nicht	-	-	-	0:35:30.137000	0:35:30.860000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:30.860000" end="0:35:31.478000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:30.860000" end="0:35:31.478000" age_lower="18" age_upper="35">
 ah	-	-	-	0:35:30.860000	0:35:31.478000
 so	-	-	-	0:35:30.860000	0:35:31.478000
 ,	-	-	-	0:35:30.860000	0:35:31.478000
 nein	-	-	-	0:35:30.860000	0:35:31.478000
 ,	-	-	-	0:35:30.860000	0:35:31.478000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:30.860000" end="0:35:31.478000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:30.860000" end="0:35:31.478000" age_lower="1" age_upper="999">
 also	-	-	-	0:35:30.860000	0:35:31.478000
 /.	-	-	-	0:35:30.860000	0:35:31.478000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:31.478000" end="0:35:32.170000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:31.478000" end="0:35:32.170000" age_lower="18" age_upper="35">
 nein	-	-	-	0:35:31.478000	0:35:32.170000
 ,	-	-	-	0:35:31.478000	0:35:32.170000
 das	-	-	-	0:35:31.478000	0:35:32.170000
 nicht	-	-	-	0:35:31.478000	0:35:32.170000
 ,	-	-	-	0:35:31.478000	0:35:32.170000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:32.170000" end="0:35:32.480000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:32.170000" end="0:35:32.480000" age_lower="1" age_upper="999">
 okay	-	-	-	0:35:32.170000	0:35:32.480000
 .	-	-	-	0:35:32.170000	0:35:32.480000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:32.480000" end="0:35:32.860000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:32.480000" end="0:35:32.860000" age_lower="18" age_upper="35">
 mm	-	-	-	0:35:32.480000	0:35:32.860000
 .	-	-	-	0:35:32.480000	0:35:32.860000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:32.860000" end="0:35:44.798000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:32.860000" end="0:35:44.798000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:35:32.860000	0:35:33.319000
 .	-	-	-	0:35:32.860000	0:35:33.319000
 <pause duration="3,1s"/>
@@ -10369,29 +10369,29 @@ neuesten	-	-	-	0:35:43.497000	0:35:44.798000
 Nachrichten	-	-	-	0:35:43.497000	0:35:44.798000
 ?	-	-	-	0:35:43.497000	0:35:44.798000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:44.798000" end="0:35:46.753000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:44.798000" end="0:35:46.753000" age_lower="18" age_upper="35">
 _ma_	-	-	-	0:35:44.798000	0:35:46.753000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:44.798000" end="0:35:46.753000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:44.798000" end="0:35:46.753000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:46.753000" end="0:35:48.142000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:46.753000" end="0:35:48.142000" age_lower="18" age_upper="35">
 gar	-	-	-	0:35:46.753000	0:35:47.660000
 nicht	-	-	-	0:35:46.753000	0:35:47.660000
 .	-	-	-	0:35:46.753000	0:35:47.660000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:47.660000" end="0:35:48.142000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:47.660000" end="0:35:48.142000" age_lower="1" age_upper="999">
 gar	-	-	-	0:35:47.660000	0:35:48.142000
 nicht	-	-	-	0:35:47.660000	0:35:48.142000
 ,	-	-	-	0:35:47.660000	0:35:48.142000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:48.142000" end="0:35:49.269000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:48.142000" end="0:35:49.269000" age_lower="18" age_upper="35">
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:48.142000" end="0:35:49.269000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:35:48.142000" end="0:35:49.269000" age_lower="1" age_upper="999">
 wieso	-	-	-	0:35:48.142000	0:35:49.269000
 nicht	-	-	-	0:35:48.142000	0:35:49.269000
 ?	-	-	-	0:35:48.142000	0:35:49.269000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:49.269000" end="0:36:02.966000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:35:49.269000" end="0:36:02.966000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 hm	-	-	-	0:35:49.269000	0:35:51.269000
 ich	-	-	-	0:35:49.269000	0:35:51.269000
@@ -10441,17 +10441,17 @@ irgendwie	-	-	-	0:36:00.711000	0:36:02.495000
 ,	-	-	-	0:36:00.711000	0:36:02.495000
 aber	-	-	-	0:36:02.495000	0:36:02.966000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:02.495000" end="0:36:02.966000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:02.495000" end="0:36:02.966000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:02.495000	0:36:02.966000
 .	-	-	-	0:36:02.495000	0:36:02.966000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:02.966000" end="0:36:03.687000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:02.966000" end="0:36:03.687000" age_lower="18" age_upper="35">
 ich	-	-	-	0:36:02.966000	0:36:03.687000
 *weiß*	-	-	-	0:36:02.966000	0:36:03.687000
 nicht	-	-	-	0:36:02.966000	0:36:03.687000
 .	-	-	-	0:36:02.966000	0:36:03.687000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:03.687000" end="0:36:05.520000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:03.687000" end="0:36:05.520000" age_lower="1" age_upper="999">
 wie	-	-	-	0:36:03.687000	0:36:05.011000
 sieht	-	-	-	0:36:03.687000	0:36:05.011000
 es	-	-	-	0:36:03.687000	0:36:05.011000
@@ -10463,16 +10463,16 @@ aus	-	-	-	0:36:03.687000	0:36:05.011000
 benutzen	-	-	-	0:36:05.011000	0:36:05.520000
 Sie	-	-	-	0:36:05.011000	0:36:05.520000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:05.520000" end="0:36:05.814000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:05.520000" end="0:36:05.814000" age_lower="18" age_upper="35">
 (also)	-	-	-	0:36:05.520000	0:36:05.814000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:05.520000" end="0:36:07.017000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:05.520000" end="0:36:07.017000" age_lower="1" age_upper="999">
 das	-	-	-	0:36:05.520000	0:36:05.814000
 zur	-	-	-	0:36:05.520000	0:36:05.814000
 Nachrichtenbeschaffung	-	-	-	0:36:05.814000	0:36:07.017000
 ?	-	-	-	0:36:05.814000	0:36:07.017000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:07.017000" end="0:36:09.017000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:07.017000" end="0:36:09.017000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:07.017000	0:36:07.468000
 ,	-	-	-	0:36:07.017000	0:36:07.468000
 na	-	-	-	0:36:07.468000	0:36:07.926000
@@ -10485,7 +10485,7 @@ schon	-	-	-	0:36:07.926000	0:36:08.454000
 ja	-	-	-	0:36:08.454000	0:36:09.017000
 .	-	-	-	0:36:08.454000	0:36:09.017000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:08.454000" end="0:36:11.576000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:08.454000" end="0:36:11.576000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:08.454000	0:36:09.017000
 .	-	-	-	0:36:08.454000	0:36:09.017000
 können	-	-	-	0:36:09.017000	0:36:09.846000
@@ -10501,10 +10501,10 @@ dann	-	-	-	0:36:09.846000	0:36:10.773000
 ?	-	-	-	0:36:09.846000	0:36:10.773000
 also	-	-	-	0:36:10.773000	0:36:11.576000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:11.576000" end="0:36:11.962000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:11.576000" end="0:36:11.962000" age_lower="18" age_upper="35">
 hm	-	-	-	0:36:11.576000	0:36:11.962000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:11.576000" end="0:36:16.668000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:11.576000" end="0:36:16.668000" age_lower="1" age_upper="999">
 gehen	-	-	-	0:36:11.576000	0:36:11.962000
 Sie	-	-	-	0:36:11.576000	0:36:11.962000
 da	-	-	-	0:36:11.962000	0:36:12.918000
@@ -10524,13 +10524,13 @@ andere	-	-	-	0:36:12.918000	0:36:16.668000
 Medien	-	-	-	0:36:12.918000	0:36:16.668000
 ,	-	-	-	0:36:12.918000	0:36:16.668000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:16.669000" end="0:36:17.551000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:16.669000" end="0:36:17.551000" age_lower="18" age_upper="35">
 na	-	-	-	0:36:16.669000	0:36:17.551000
 wenn	-	-	-	0:36:16.669000	0:36:17.551000
 mich	-	-	-	0:36:16.669000	0:36:17.551000
 was	-	-	-	0:36:16.669000	0:36:17.551000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:16.669000" end="0:36:17.889000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:16.669000" end="0:36:17.889000" age_lower="1" age_upper="999">
 wo	-	-	-	0:36:16.669000	0:36:17.551000
 Sie	-	-	-	0:36:16.669000	0:36:17.551000
 dann	-	-	-	0:36:16.669000	0:36:17.551000
@@ -10540,18 +10540,18 @@ okay	-	-	-	0:36:16.669000	0:36:17.551000
 das	-	-	-	0:36:16.669000	0:36:17.551000
 interessiert	-	-	-	0:36:17.551000	0:36:17.889000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:17.889000" end="0:36:18.621000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:17.889000" end="0:36:18.621000" age_lower="18" age_upper="35">
 interessiert	-	-	-	0:36:17.889000	0:36:18.621000
 ,	-	-	-	0:36:17.889000	0:36:18.621000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:17.889000" end="0:36:18.621000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:17.889000" end="0:36:18.621000" age_lower="1" age_upper="999">
 mich	-	-	-	0:36:17.889000	0:36:18.621000
 ,	-	-	-	0:36:17.889000	0:36:18.621000
 das	-	-	-	0:36:17.889000	0:36:18.621000
 kli/	-	-	-	0:36:17.889000	0:36:18.621000
 /?	-	-	-	0:36:17.889000	0:36:18.621000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:18.621000" end="0:36:23.865000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:18.621000" end="0:36:23.865000" age_lower="18" age_upper="35">
 dann	-	-	-	0:36:18.621000	0:36:19.494000
 drücke	-	-	-	0:36:18.621000	0:36:19.494000
 ich	-	-	-	0:36:18.621000	0:36:19.494000
@@ -10575,7 +10575,7 @@ durchlesen	-	-	-	0:36:20.668000	0:36:23.578000
 (ja)	-	-	-	0:36:23.578000	0:36:23.865000
 .	-	-	-	0:36:23.578000	0:36:23.865000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:23.578000" end="0:36:25.865000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:23.578000" end="0:36:25.865000" age_lower="1" age_upper="999">
 okay	-	-	-	0:36:23.578000	0:36:23.865000
 ,	-	-	-	0:36:23.578000	0:36:23.865000
 also	-	-	-	0:36:23.865000	0:36:24.831000
@@ -10594,13 +10594,13 @@ tun	-	-	-	0:36:24.831000	0:36:25.667000
 ,	-	-	-	0:36:24.831000	0:36:25.667000
 dass	-	-	-	0:36:25.667000	0:36:25.865000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:25.865000" end="0:36:26.861000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:25.865000" end="0:36:26.861000" age_lower="18" age_upper="35">
 nein	-	-	-	0:36:25.865000	0:36:26.861000
 ,	-	-	-	0:36:25.865000	0:36:26.861000
 nein	-	-	-	0:36:25.865000	0:36:26.861000
 .	-	-	-	0:36:25.865000	0:36:26.861000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:25.865000" end="0:36:28.387000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:25.865000" end="0:36:28.387000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:36:25.865000	0:36:26.861000
 sehen	-	-	-	0:36:25.865000	0:36:26.861000
 ,	-	-	-	0:36:25.865000	0:36:26.861000
@@ -10619,11 +10619,11 @@ im	-	-	-	0:36:27.207000	0:36:28.387000
 Internet	-	-	-	0:36:27.207000	0:36:28.387000
 ?	-	-	-	0:36:27.207000	0:36:28.387000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:28.387000" end="0:36:28.978000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:28.387000" end="0:36:28.978000" age_lower="18" age_upper="35">
 nein	-	-	-	0:36:28.387000	0:36:28.978000
 .	-	-	-	0:36:28.387000	0:36:28.978000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:28.387000" end="0:36:33.514000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:28.387000" end="0:36:33.514000" age_lower="1" age_upper="999">
 gut	-	-	-	0:36:28.387000	0:36:28.978000
 .	-	-	-	0:36:28.387000	0:36:28.978000
 <pause duration="2,5s"/>
@@ -10640,11 +10640,11 @@ eine	-	-	-	0:36:32.302000	0:36:33.514000
 Violine	-	-	-	0:36:32.302000	0:36:33.514000
 ,	-	-	-	0:36:32.302000	0:36:33.514000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:33.514000" end="0:36:34.015000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:33.514000" end="0:36:34.015000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:33.514000	0:36:34.015000
 .	-	-	-	0:36:33.514000	0:36:34.015000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:34.015000" end="0:36:36.015000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:34.015000" end="0:36:36.015000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 erzählen	-	-	-	0:36:34.015000	0:36:36.015000
 Sie	-	-	-	0:36:34.015000	0:36:36.015000
@@ -10655,13 +10655,13 @@ Ihrem	-	-	-	0:36:34.015000	0:36:36.015000
 Hobby	-	-	-	0:36:34.015000	0:36:36.015000
 .	-	-	-	0:36:34.015000	0:36:36.015000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:36.015000" end="0:36:37.715000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:36.015000" end="0:36:37.715000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:36.015000" end="0:36:37.715000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:36.015000" end="0:36:37.715000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:37.715000" end="0:36:53.938000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:37.715000" end="0:36:53.938000" age_lower="18" age_upper="35">
 ja	-	-	-	0:36:37.715000	0:36:38.583000
 also	-	-	-	0:36:37.715000	0:36:38.583000
 ((1,0s))´	-	-	-	0:36:38.583000	0:36:40.583000
@@ -10705,12 +10705,12 @@ ich	-	-	-	0:36:53.035000	0:36:53.938000
 bin	-	-	-	0:36:53.035000	0:36:53.938000
 ein	-	-	-	0:36:53.035000	0:36:53.938000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:53.035000" end="0:36:53.938000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:36:53.035000" end="0:36:53.938000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 al/	-	-	-	0:36:53.035000	0:36:53.938000
 /?	-	-	-	0:36:53.035000	0:36:53.938000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:53.938000" end="0:37:03.105000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:36:53.938000" end="0:37:03.105000" age_lower="18" age_upper="35">
 sehr	-	-	-	0:36:53.938000	0:36:55.139000
 musikalischer	-	-	-	0:36:53.938000	0:36:55.139000
 Mensch	-	-	-	0:36:53.938000	0:36:55.139000
@@ -10745,7 +10745,7 @@ in	-	-	-	0:37:02.321000	0:37:03.105000
 Allentsteig	-	-	-	0:37:02.321000	0:37:03.105000
 .	-	-	-	0:37:02.321000	0:37:03.105000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:02.321000" end="0:37:03.828000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:02.321000" end="0:37:03.828000" age_lower="1" age_upper="999">
 ah	-	-	-	0:37:02.321000	0:37:03.105000
 so	-	-	-	0:37:02.321000	0:37:03.105000
 ,	-	-	-	0:37:02.321000	0:37:03.105000
@@ -10755,15 +10755,15 @@ Allentsteig	-	-	-	0:37:03.105000	0:37:03.828000
 okay	-	-	-	0:37:03.105000	0:37:03.828000
 .	-	-	-	0:37:03.105000	0:37:03.828000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:03.828000" end="0:37:05.049000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:03.828000" end="0:37:05.049000" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:03.828000	0:37:05.049000
 ,	-	-	-	0:37:03.828000	0:37:05.049000
 Entschuldigung	-	-	-	0:37:03.828000	0:37:05.049000
 .	-	-	-	0:37:03.828000	0:37:05.049000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:03.828000" end="0:37:05.049000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:03.828000" end="0:37:05.049000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:05.049000" end="0:37:11.367000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:05.049000" end="0:37:11.367000" age_lower="18" age_upper="35">
 <pause duration="1,1s"/>
 ähm	-	-	-	0:37:06.104000	0:37:07.425000
 ja	-	-	-	0:37:06.104000	0:37:07.425000
@@ -10778,7 +10778,7 @@ ja	-	-	-	0:37:10.814000	0:37:10.942000
 fortgehen	-	-	-	0:37:10.942000	0:37:11.367000
 .	-	-	-	0:37:10.942000	0:37:11.367000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:10.942000" end="0:37:15.503000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:10.942000" end="0:37:15.503000" age_lower="1" age_upper="999">
 würden	-	-	-	0:37:10.942000	0:37:11.367000
 Sie	-	-	-	0:37:10.942000	0:37:11.367000
 sagen	-	-	-	0:37:11.367000	0:37:11.578000
@@ -10796,7 +10796,7 @@ Ihre	-	-	-	0:37:13.983000	0:37:15.503000
 Freizeitaktivitäten	-	-	-	0:37:13.983000	0:37:15.503000
 ?	-	-	-	0:37:13.983000	0:37:15.503000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:15.503000" end="0:37:24.753000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:15.503000" end="0:37:24.753000" age_lower="18" age_upper="35">
 ähm	-	-	-	0:37:15.503000	0:37:16.286000
 nein	-	-	-	0:37:16.286000	0:37:17.220000
 kommt	-	-	-	0:37:16.286000	0:37:17.220000
@@ -10841,11 +10841,11 @@ auch	-	-	-	0:37:24.128000	0:37:24.753000
 daheim	-	-	-	0:37:24.128000	0:37:24.753000
 ,	-	-	-	0:37:24.128000	0:37:24.753000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:24.128000" end="0:37:24.753000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:24.128000" end="0:37:24.753000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:37:24.128000	0:37:24.753000
 .	-	-	-	0:37:24.128000	0:37:24.753000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:24.753000" end="0:37:33.753000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:24.753000" end="0:37:33.753000" age_lower="18" age_upper="35">
 aber	-	-	-	0:37:24.753000	0:37:26.196000
 eigentlich	-	-	-	0:37:24.753000	0:37:26.196000
 ,	-	-	-	0:37:24.753000	0:37:26.196000
@@ -10888,7 +10888,7 @@ Freizeit	-	-	-	0:37:32.211000	0:37:33.329000
 eigentlich	-	-	-	0:37:33.329000	0:37:33.753000
 .	-	-	-	0:37:33.329000	0:37:33.753000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:33.329000" end="0:37:36.772000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:33.329000" end="0:37:36.772000" age_lower="1" age_upper="999">
 ja	-	-	-	0:37:33.329000	0:37:33.753000
 .	-	-	-	0:37:33.329000	0:37:33.753000
 <pause duration="0,9s"/>
@@ -10903,12 +10903,12 @@ und	-	-	-	0:37:33.753000	0:37:36.772000
 Bekannten	-	-	-	0:37:33.753000	0:37:36.772000
 ?	-	-	-	0:37:33.753000	0:37:36.772000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:36.772000" end="0:37:37.421000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:36.772000" end="0:37:37.421000" age_lower="18" age_upper="35">
 in	-	-	-	0:37:36.772000	0:37:37.421000
 Wien	-	-	-	0:37:36.772000	0:37:37.421000
 ?	-	-	-	0:37:36.772000	0:37:37.421000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:37.421000" end="0:37:38.940000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:37.421000" end="0:37:38.940000" age_lower="1" age_upper="999">
 beides	-	-	-	0:37:37.421000	0:37:38.084000
 ,	-	-	-	0:37:37.421000	0:37:38.084000
 in	-	-	-	0:37:38.084000	0:37:38.940000
@@ -10918,7 +10918,7 @@ in	-	-	-	0:37:38.084000	0:37:38.940000
 Allentsteig	-	-	-	0:37:38.084000	0:37:38.940000
 .	-	-	-	0:37:38.084000	0:37:38.940000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:38.940000" end="0:37:48.748000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:38.940000" end="0:37:48.748000" age_lower="18" age_upper="35">
 <pause duration="0,5s"/>
 hm	-	-	-	0:37:38.940000	0:37:40.689000
 ja	-	-	-	0:37:38.940000	0:37:40.689000
@@ -10955,7 +10955,7 @@ ja	-	-	-	0:37:45.501000	0:37:46.790000
 .	-	-	-	0:37:45.501000	0:37:46.790000
 <pause duration="2,0s"/>
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:46.790000" end="0:37:50.795000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:46.790000" end="0:37:50.795000" age_lower="1" age_upper="999">
 <pause duration="2,0s"/>
 da	-	-	-	0:37:48.748000	0:37:49.994000
 wird	-	-	-	0:37:48.748000	0:37:49.994000
@@ -10970,7 +10970,7 @@ in	-	-	-	0:37:49.994000	0:37:50.795000
 Wien	-	-	-	0:37:49.994000	0:37:50.795000
 oder	-	-	-	0:37:49.994000	0:37:50.795000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:50.795000" end="0:37:52.795000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:50.795000" end="0:37:52.795000" age_lower="18" age_upper="35">
 ja	-	-	-	0:37:50.795000	0:37:52.795000
 das	-	-	-	0:37:50.795000	0:37:52.795000
 ist	-	-	-	0:37:50.795000	0:37:52.795000
@@ -10979,7 +10979,7 @@ wurscht	-	-	-	0:37:50.795000	0:37:52.795000
 ja	-	-	-	0:37:50.795000	0:37:52.795000
 .	-	-	-	0:37:50.795000	0:37:52.795000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:50.795000" end="0:37:55.277000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:50.795000" end="0:37:55.277000" age_lower="1" age_upper="999">
 in	-	-	-	0:37:50.795000	0:37:52.795000
 Allentsteig	-	-	-	0:37:50.795000	0:37:52.795000
 ?	-	-	-	0:37:50.795000	0:37:52.795000
@@ -10992,7 +10992,7 @@ Sie	-	-	-	0:37:53.673000	0:37:55.277000
 viel	-	-	-	0:37:53.673000	0:37:55.277000
 ?	-	-	-	0:37:53.673000	0:37:55.277000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:55.277000" end="0:37:57.277000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:37:55.277000" end="0:37:57.277000" age_lower="18" age_upper="35">
 ((0,6s))	-	-	-	0:37:55.277000	0:37:57.277000
 hm	-	-	-	0:37:55.277000	0:37:57.277000
 nein	-	-	-	0:37:55.277000	0:37:57.277000
@@ -11000,7 +11000,7 @@ eigentlich	-	-	-	0:37:55.277000	0:37:57.277000
 nicht	-	-	-	0:37:55.277000	0:37:57.277000
 .	-	-	-	0:37:55.277000	0:37:57.277000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:57.277000" end="0:38:04.062000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:37:57.277000" end="0:38:04.062000" age_lower="1" age_upper="999">
 okay	-	-	-	0:37:57.277000	0:37:57.876000
 .	-	-	-	0:37:57.277000	0:37:57.876000
 <pause duration="2,9s"/>
@@ -11021,12 +11021,12 @@ man	-	-	-	0:38:03.139000	0:38:04.062000
 das	-	-	-	0:38:03.139000	0:38:04.062000
 so	-	-	-	0:38:03.139000	0:38:04.062000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:04.062000" end="0:38:05.261000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:04.062000" end="0:38:05.261000" age_lower="18" age_upper="35">
 hm	-	-	-	0:38:04.062000	0:38:04.721000
 ja	-	-	-	0:38:04.721000	0:38:05.261000
 .	-	-	-	0:38:04.721000	0:38:05.261000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:04.721000" end="0:38:10.374000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:04.721000" end="0:38:10.374000" age_lower="1" age_upper="999">
 sagen	-	-	-	0:38:04.721000	0:38:05.261000
 ?	-	-	-	0:38:04.721000	0:38:05.261000
 ich	-	-	-	0:38:05.261000	0:38:05.528000
@@ -11058,18 +11058,18 @@ Sie	-	-	-	0:38:09.739000	0:38:10.374000
 gerne	-	-	-	0:38:09.739000	0:38:10.374000
 nach	-	-	-	0:38:09.739000	0:38:10.374000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:10.374000" end="0:38:10.972000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:10.374000" end="0:38:10.972000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:10.374000	0:38:10.972000
 ,	-	-	-	0:38:10.374000	0:38:10.972000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:10.374000" end="0:38:10.972000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:10.374000" end="0:38:10.972000" age_lower="1" age_upper="999">
 Allentsteig	-	-	-	0:38:10.374000	0:38:10.972000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:10.972000" end="0:38:11.476000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:10.972000" end="0:38:11.476000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:38:10.972000	0:38:11.476000
 .	-	-	-	0:38:10.972000	0:38:11.476000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:10.972000" end="0:38:14.698000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:10.972000" end="0:38:14.698000" age_lower="1" age_upper="999">
 ähm	-	-	-	0:38:10.972000	0:38:11.476000
 zurück	-	-	-	0:38:10.972000	0:38:11.476000
 ,	-	-	-	0:38:10.972000	0:38:11.476000
@@ -11090,11 +11090,11 @@ in	-	-	-	0:38:13.918000	0:38:14.698000
 Allentsteig	-	-	-	0:38:13.918000	0:38:14.698000
 ?	-	-	-	0:38:13.918000	0:38:14.698000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:14.698000" end="0:38:15.128000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:14.698000" end="0:38:15.128000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:14.698000	0:38:15.128000
 .	-	-	-	0:38:14.698000	0:38:15.128000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:15.128000" end="0:38:21.652000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:15.128000" end="0:38:21.652000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 okay	-	-	-	0:38:15.128000	0:38:16.095000
 .	-	-	-	0:38:15.128000	0:38:16.095000
@@ -11121,18 +11121,18 @@ hin	-	-	-	0:38:20.041000	0:38:21.652000
 müssen	-	-	-	0:38:20.041000	0:38:21.652000
 ?	-	-	-	0:38:20.041000	0:38:21.652000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:21.652000" end="0:38:23.053000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:21.652000" end="0:38:23.053000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 in	-	-	-	0:38:21.652000	0:38:23.053000
 in	-	-	-	0:38:21.652000	0:38:23.053000
 Allentsteig	-	-	-	0:38:21.652000	0:38:23.053000
 ?	-	-	-	0:38:21.652000	0:38:23.053000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:23.053000" end="0:38:23.194000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:23.053000" end="0:38:23.194000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:23.053000	0:38:23.194000
 .	-	-	-	0:38:23.053000	0:38:23.194000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:23.194000" end="0:38:32.733000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:23.194000" end="0:38:32.733000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 hm	-	-	-	0:38:23.194000	0:38:25.095000
 <pause duration="0,5s"/>
@@ -11165,24 +11165,24 @@ helfen	-	-	-	0:38:30.331000	0:38:31.513000
 also	-	-	-	0:38:31.513000	0:38:32.733000
 /.	-	-	-	0:38:31.513000	0:38:32.733000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:32.733000" end="0:38:33.320000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:32.733000" end="0:38:33.320000" age_lower="1" age_upper="999">
 okay	-	-	-	0:38:32.733000	0:38:33.183000
 ,	-	-	-	0:38:32.733000	0:38:33.183000
 also	-	-	-	0:38:33.183000	0:38:33.320000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:33.320000" end="0:38:34.394000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:33.320000" end="0:38:34.394000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:33.320000	0:38:34.394000
 also	-	-	-	0:38:33.320000	0:38:34.394000
 eh	-	-	-	0:38:33.320000	0:38:34.394000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:33.320000" end="0:38:34.394000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:33.320000" end="0:38:34.394000" age_lower="1" age_upper="999">
 Sportverein	-	-	-	0:38:33.320000	0:38:34.394000
 auf	-	-	-	0:38:33.320000	0:38:34.394000
 jeden	-	-	-	0:38:33.320000	0:38:34.394000
 Fall	-	-	-	0:38:33.320000	0:38:34.394000
 ?	-	-	-	0:38:33.320000	0:38:34.394000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:34.394000" end="0:38:37.157000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:34.394000" end="0:38:37.157000" age_lower="18" age_upper="35">
 bei	-	-	-	0:38:34.394000	0:38:34.745000
 der	-	-	-	0:38:34.394000	0:38:34.745000
 /.	-	-	-	0:38:34.394000	0:38:34.745000
@@ -11200,11 +11200,11 @@ aufgehört	-	-	-	0:38:36	0:38:36.745000
 ,	-	-	-	0:38:36	0:38:36.745000
 aber	-	-	-	0:38:36.745000	0:38:37.157000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:36.745000" end="0:38:37.157000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:36.745000" end="0:38:37.157000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:38:36.745000	0:38:37.157000
 .	-	-	-	0:38:36.745000	0:38:37.157000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:37.157000" end="0:38:44.270000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:37.157000" end="0:38:44.270000" age_lower="18" age_upper="35">
 <pause duration="0,8s"/>
 aber	-	-	-	0:38:37.157000	0:38:38.378000
 /.	-	-	-	0:38:37.157000	0:38:38.378000
@@ -11233,22 +11233,22 @@ geworden	-	-	-	0:38:42.270000	0:38:44.270000
 ja	-	-	-	0:38:42.270000	0:38:44.270000
 .	-	-	-	0:38:42.270000	0:38:44.270000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:44.270000" end="0:38:44.922000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:44.270000" end="0:38:44.922000" age_lower="1" age_upper="999">
 okay	-	-	-	0:38:44.270000	0:38:44.922000
 .	-	-	-	0:38:44.270000	0:38:44.922000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:44.922000" end="0:38:45.309000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:44.922000" end="0:38:45.309000" age_lower="18" age_upper="35">
 mhm	-	-	-	0:38:44.922000	0:38:45.309000
 .	-	-	-	0:38:44.922000	0:38:45.309000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:45.309000" end="0:38:46.960000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:45.309000" end="0:38:46.960000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 also	-	-	-	0:38:45.309000	0:38:46.960000
 sehr	-	-	-	0:38:45.309000	0:38:46.960000
 viele	-	-	-	0:38:45.309000	0:38:46.960000
 Hobbys	-	-	-	0:38:45.309000	0:38:46.960000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:46.960000" end="0:38:49.632000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:46.960000" end="0:38:49.632000" age_lower="18" age_upper="35">
 ja	-	-	-	0:38:46.960000	0:38:49.632000
 eigentlich	-	-	-	0:38:46.960000	0:38:49.632000
 schon	-	-	-	0:38:46.960000	0:38:49.632000
@@ -11260,7 +11260,7 @@ gerade	-	-	-	0:38:46.960000	0:38:49.632000
 auf	-	-	-	0:38:46.960000	0:38:49.632000
 .	-	-	-	0:38:46.960000	0:38:49.632000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:46.960000" end="0:38:54.886000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:46.960000" end="0:38:54.886000" age_lower="1" age_upper="999">
 eigentlich	-	-	-	0:38:46.960000	0:38:49.632000
 .	-	-	-	0:38:46.960000	0:38:49.632000
 <pause duration="1,2s"/>
@@ -11279,36 +11279,36 @@ Allentsteig	-	-	-	0:38:53.517000	0:38:54.886000
 ganz	-	-	-	0:38:53.517000	0:38:54.886000
 wegzu/	-	-	-	0:38:53.517000	0:38:54.886000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:54.886000" end="0:38:55.439000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:54.886000" end="0:38:55.439000" age_lower="18" age_upper="35">
 nein	-	-	-	0:38:54.886000	0:38:55.439000
 ,	-	-	-	0:38:54.886000	0:38:55.439000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:54.886000" end="0:38:55.439000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:54.886000" end="0:38:55.439000" age_lower="1" age_upper="999">
 /ziehen	-	-	-	0:38:54.886000	0:38:55.439000
 ,	-	-	-	0:38:54.886000	0:38:55.439000
 also	-	-	-	0:38:54.886000	0:38:55.439000
 /?	-	-	-	0:38:54.886000	0:38:55.439000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:55.439000" end="0:38:56.190000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:55.439000" end="0:38:56.190000" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:38:55.439000	0:38:56.190000
 gar	-	-	-	0:38:55.439000	0:38:56.190000
 nicht	-	-	-	0:38:55.439000	0:38:56.190000
 .	-	-	-	0:38:55.439000	0:38:56.190000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:56.190000" end="0:38:56.599000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:56.190000" end="0:38:56.599000" age_lower="1" age_upper="999">
 nicht	-	-	-	0:38:56.190000	0:38:56.599000
 ?	-	-	-	0:38:56.190000	0:38:56.599000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:56.599000" end="0:38:57.018000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:56.599000" end="0:38:57.018000" age_lower="18" age_upper="35">
 mm	-	-	-	0:38:56.599000	0:38:57.018000
 .	-	-	-	0:38:56.599000	0:38:57.018000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:57.018000" end="0:38:57.991000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:38:57.018000" end="0:38:57.991000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 warum	-	-	-	0:38:57.018000	0:38:57.991000
 ?	-	-	-	0:38:57.018000	0:38:57.991000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:57.991000" end="0:39:09.687000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:38:57.991000" end="0:39:09.687000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 ich	-	-	-	0:38:57.991000	0:38:59.244000
 *weiß*	-	-	-	0:38:57.991000	0:38:59.244000
@@ -11365,12 +11365,12 @@ gar	-	-	-	0:39:07.762000	0:39:09.687000
 nicht	-	-	-	0:39:07.762000	0:39:09.687000
 hinaus	-	-	-	0:39:07.762000	0:39:09.687000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:09.687000" end="0:39:10.515000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:09.687000" end="0:39:10.515000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 okay	-	-	-	0:39:09.687000	0:39:10.515000
 .	-	-	-	0:39:09.687000	0:39:10.515000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:10.515000" end="0:39:15.884000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:10.515000" end="0:39:15.884000" age_lower="18" age_upper="35">
 <pause duration="0,6s"/>
 aber	-	-	-	0:39:10.515000	0:39:11.543000
 /.	-	-	-	0:39:10.515000	0:39:11.543000
@@ -11391,13 +11391,13 @@ da	-	-	-	0:39:14.726000	0:39:15.884000
 wegziehe	-	-	-	0:39:14.726000	0:39:15.884000
 ,	-	-	-	0:39:14.726000	0:39:15.884000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:14.726000" end="0:39:15.884000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:14.726000" end="0:39:15.884000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:15.884000" end="0:39:16.317000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:15.884000" end="0:39:16.317000" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:15.884000	0:39:16.317000
 .	-	-	-	0:39:15.884000	0:39:16.317000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:16.317000" end="0:39:19.895000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:16.317000" end="0:39:19.895000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 okay	-	-	-	0:39:16.317000	0:39:17.109000
 ,	-	-	-	0:39:16.317000	0:39:17.109000
@@ -11414,22 +11414,22 @@ zumindest	-	-	-	0:39:17.351000	0:39:19.895000
 teilweise	-	-	-	0:39:17.351000	0:39:19.895000
 in	-	-	-	0:39:17.351000	0:39:19.895000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:19.895000" end="0:39:20.532000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:19.895000" end="0:39:20.532000" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:19.895000	0:39:20.532000
 ,	-	-	-	0:39:19.895000	0:39:20.532000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:19.895000" end="0:39:20.532000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:19.895000" end="0:39:20.532000" age_lower="1" age_upper="999">
 Allentsteig	-	-	-	0:39:19.895000	0:39:20.532000
 ?	-	-	-	0:39:19.895000	0:39:20.532000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:20.532000" end="0:39:21.752000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:20.532000" end="0:39:21.752000" age_lower="18" age_upper="35">
 eigentlich	-	-	-	0:39:20.532000	0:39:21.044000
 schon	-	-	-	0:39:20.532000	0:39:21.044000
 ,	-	-	-	0:39:20.532000	0:39:21.044000
 ja	-	-	-	0:39:21.044000	0:39:21.752000
 .	-	-	-	0:39:21.044000	0:39:21.752000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:21.044000" end="0:39:24.170000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:21.044000" end="0:39:24.170000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:21.044000	0:39:21.752000
 .	-	-	-	0:39:21.044000	0:39:21.752000
 Sie	-	-	-	0:39:21.752000	0:39:22.794000
@@ -11446,14 +11446,14 @@ ziehen	-	-	-	0:39:22.794000	0:39:24.170000
 dauerhaft	-	-	-	0:39:22.794000	0:39:24.170000
 ?	-	-	-	0:39:22.794000	0:39:24.170000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:24.170000" end="0:39:25.580000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:24.170000" end="0:39:25.580000" age_lower="18" age_upper="35">
 dauerhaft	-	-	-	0:39:24.170000	0:39:25.274000
 nicht	-	-	-	0:39:24.170000	0:39:25.274000
 ,	-	-	-	0:39:24.170000	0:39:25.274000
 nein	-	-	-	0:39:25.274000	0:39:25.580000
 .	-	-	-	0:39:25.274000	0:39:25.580000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:25.580000" end="0:39:31.872000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:25.580000" end="0:39:31.872000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:25.580000	0:39:26.012000
 .	-	-	-	0:39:25.580000	0:39:26.012000
 <pause duration="2,6s"/>
@@ -11473,7 +11473,7 @@ nach	-	-	-	0:39:29.727000	0:39:31.872000
 Zwettl	-	-	-	0:39:29.727000	0:39:31.872000
 ?	-	-	-	0:39:29.727000	0:39:31.872000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:31.872000" end="0:39:33.341000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:31.872000" end="0:39:33.341000" age_lower="18" age_upper="35">
 nein	-	-	-	0:39:31.872000	0:39:32.792000
 ,	-	-	-	0:39:31.872000	0:39:32.792000
 das	-	-	-	0:39:31.872000	0:39:32.792000
@@ -11482,7 +11482,7 @@ schon	-	-	-	0:39:31.872000	0:39:32.792000
 ja	-	-	-	0:39:32.792000	0:39:33.341000
 .	-	-	-	0:39:32.792000	0:39:33.341000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:32.792000" end="0:39:35.407000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:32.792000" end="0:39:35.407000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:32.792000	0:39:33.341000
 .	-	-	-	0:39:32.792000	0:39:33.341000
 also	-	-	-	0:39:33.341000	0:39:35.407000
@@ -11495,12 +11495,12 @@ da	-	-	-	0:39:33.341000	0:39:35.407000
 flexibel	-	-	-	0:39:33.341000	0:39:35.407000
 ?	-	-	-	0:39:33.341000	0:39:35.407000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:35.407000" end="0:39:36.353000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:35.407000" end="0:39:36.353000" age_lower="18" age_upper="35">
 hm	-	-	-	0:39:35.407000	0:39:36.353000
 ja	-	-	-	0:39:35.407000	0:39:36.353000
 .	-	-	-	0:39:35.407000	0:39:36.353000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:36.353000" end="0:39:49.467000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:36.353000" end="0:39:49.467000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:36.353000	0:39:37.030000
 .	-	-	-	0:39:36.353000	0:39:37.030000
 <pause duration="0,6s"/>
@@ -11545,12 +11545,12 @@ jetzt	-	-	-	0:39:48.778000	0:39:49.467000
 noch	-	-	-	0:39:48.778000	0:39:49.467000
 die	-	-	-	0:39:48.778000	0:39:49.467000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:49.467000" end="0:39:50.090000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:49.467000" end="0:39:50.090000" age_lower="18" age_upper="35">
 ah	-	-	-	0:39:49.467000	0:39:50.090000
 so	-	-	-	0:39:49.467000	0:39:50.090000
 .	-	-	-	0:39:49.467000	0:39:50.090000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:49.467000" end="0:39:52.651000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:49.467000" end="0:39:52.651000" age_lower="1" age_upper="999">
 Gelegenheit	-	-	-	0:39:49.467000	0:39:50.090000
 dazu	-	-	-	0:39:49.467000	0:39:50.090000
 ,	-	-	-	0:39:49.467000	0:39:50.090000
@@ -11565,7 +11565,7 @@ jetzt	-	-	-	0:39:50.090000	0:39:52.651000
 fertig	-	-	-	0:39:50.090000	0:39:52.651000
 .	-	-	-	0:39:50.090000	0:39:52.651000
 </u>
-<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:52.651000" end="0:39:54.225000" persName="Informant 0037" residence="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" age_lower="18" age_upper="35">
+<u who="spk_70" sex="female" age="jung (18-35) +matura" name="Informant 0037" location="Allentsteig, Zwettl, Niederösterreich, 3804, Österreich" lat="48.6956583" lon="15.3295132" start="0:39:52.651000" end="0:39:54.225000" age_lower="18" age_upper="35">
 ja	-	-	-	0:39:52.651000	0:39:54.225000
 dann	-	-	-	0:39:52.651000	0:39:54.225000
 sind	-	-	-	0:39:52.651000	0:39:54.225000
@@ -11573,7 +11573,7 @@ wir	-	-	-	0:39:52.651000	0:39:54.225000
 fertig	-	-	-	0:39:52.651000	0:39:54.225000
 .	-	-	-	0:39:52.651000	0:39:54.225000
 </u>
-<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:52.651000" end="0:39:56.225000" persName="Informant EXP11" age_lower="" age_upper="999">
+<u who="spk_626" sex="male" age="UNK" name="Informant EXP11" location="UNK" lat="None" lon="None" start="0:39:52.651000" end="0:39:56.225000" age_lower="1" age_upper="999">
 ich	-	-	-	0:39:52.651000	0:39:54.225000
 werde	-	-	-	0:39:52.651000	0:39:54.225000
 da	-	-	-	0:39:52.651000	0:39:54.225000

@@ -1,6 +1,6 @@
 <doc id="transcript_747" name="0700_NECK_alt_f_INT_2" erhebung="Interview_2_PP0308" erhebungsart="Interview">
 <file id="747.xml" title="Transcript: Transcript_747">
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:03.697000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:00" end="0:00:03.697000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 ob	-	-	-	0:00:01.047000	0:00:01.871000
 das	-	-	-	0:00:01.047000	0:00:01.871000
@@ -14,9 +14,9 @@ das	-	-	-	0:00:01.871000	0:00:03.697000
 vorstellen	-	-	-	0:00:01.871000	0:00:03.697000
 .	-	-	-	0:00:01.871000	0:00:03.697000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:03.697000" end="0:00:04.905000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:03.697000" end="0:00:04.905000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:03.697000" end="0:00:12.894000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:03.697000" end="0:00:12.894000" age_lower="1" age_upper="999">
 gut	-	-	-	0:00:04.905000	0:00:05.479000
 .	-	-	-	0:00:04.905000	0:00:05.479000
 <pause duration="0,6s"/>
@@ -49,21 +49,21 @@ immer	-	-	-	0:00:12.091000	0:00:12.894000
 reden	-	-	-	0:00:12.091000	0:00:12.894000
 ,	-	-	-	0:00:12.091000	0:00:12.894000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:12.894000" end="0:00:14.110000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:12.894000" end="0:00:14.110000" age_lower="65" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:12.894000" end="0:00:14.110000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:12.894000" end="0:00:14.110000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:14.110000" end="0:00:14.552000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:14.110000" end="0:00:14.552000" age_lower="65" age_upper="999">
 naja	-	-	-	0:00:14.110000	0:00:14.552000
 ,	-	-	-	0:00:14.110000	0:00:14.552000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:14.110000" end="0:00:14.552000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:14.110000" end="0:00:14.552000" age_lower="1" age_upper="999">
 bitte	-	-	-	0:00:14.110000	0:00:14.552000
 .	-	-	-	0:00:14.110000	0:00:14.552000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:14.552000" end="0:00:17.533000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:14.552000" end="0:00:17.533000" age_lower="65" age_upper="999">
 (ich)	-	-	-	0:00:14.552000	0:00:17.533000
 <pause duration="0,6s"/>
 kann	-	-	-	0:00:14.552000	0:00:17.533000
@@ -73,13 +73,13 @@ gescheit	-	-	-	0:00:14.552000	0:00:17.533000
 Hochdeutsch	-	-	-	0:00:14.552000	0:00:17.533000
 .	-	-	-	0:00:14.552000	0:00:17.533000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:17.533000" end="0:00:17.841000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:17.533000" end="0:00:17.841000" age_lower="1" age_upper="999">
 (_ma_)	-	-	-	0:00:17.533000	0:00:17.841000
 ,	-	-	-	0:00:17.533000	0:00:17.841000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:17.841000" end="0:00:18.750000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:17.841000" end="0:00:18.750000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:17.841000" end="0:00:21.294000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:17.841000" end="0:00:21.294000" age_lower="1" age_upper="999">
 das	-	-	-	0:00:17.841000	0:00:18.750000
 macht	-	-	-	0:00:17.841000	0:00:18.750000
 nichts	-	-	-	0:00:18.750000	0:00:19.100000
@@ -109,12 +109,12 @@ sagt	-	-	-	0:00:20.639000	0:00:21.294000
 (normal	-	-	-	0:00:20.639000	0:00:21.294000
 SONSTIGE	SONSTIGE	-	-	0:00:20.639000	0:00:21.294000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:21.294000" end="0:00:22.874000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:21.294000" end="0:00:22.874000" age_lower="65" age_upper="999">
 ((klimpern	-	-	-	0:00:21.294000	0:00:22.874000
 auf	-	-	-	0:00:21.294000	0:00:22.874000
 Instrument))	-	-	-	0:00:21.294000	0:00:22.874000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:21.294000" end="0:00:40.660000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:21.294000" end="0:00:40.660000" age_lower="1" age_upper="999">
 genau	-	-	-	0:00:21.294000	0:00:22.874000
 ,	-	-	-	0:00:21.294000	0:00:22.874000
 ganz	-	-	-	0:00:21.294000	0:00:22.874000
@@ -177,16 +177,16 @@ da	-	-	-	0:00:38.819000	0:00:40.166000
 ?	-	-	-	0:00:38.819000	0:00:40.166000
 was	-	-	-	0:00:40.166000	0:00:40.660000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:40.660000" end="0:00:41.031000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:40.660000" end="0:00:41.031000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:40.660000" end="0:00:42.114000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:40.660000" end="0:00:42.114000" age_lower="1" age_upper="999">
 sagen	-	-	-	0:00:40.660000	0:00:41.031000
 die	-	-	-	0:00:41.031000	0:00:42.114000
 Leute	-	-	-	0:00:41.031000	0:00:42.114000
 zueinander	-	-	-	0:00:41.031000	0:00:42.114000
 ?	-	-	-	0:00:41.031000	0:00:42.114000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:42.114000" end="0:00:44.841000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:42.114000" end="0:00:44.841000" age_lower="65" age_upper="999">
 "habe	-	-	-	0:00:42.114000	0:00:44.059000
 die	-	-	-	0:00:42.114000	0:00:44.059000
 Ehre"	-	-	-	0:00:42.114000	0:00:44.059000
@@ -195,15 +195,15 @@ oder	-	-	-	0:00:42.114000	0:00:44.059000
 ,	-	-	-	0:00:42.114000	0:00:44.059000
 (hm)	-	-	-	0:00:44.059000	0:00:44.841000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:44.059000" end="0:00:44.841000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:44.059000" end="0:00:44.841000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:44.059000	0:00:44.841000
 ,	-	-	-	0:00:44.059000	0:00:44.841000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:44.841000" end="0:00:45.172000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:44.841000" end="0:00:45.172000" age_lower="65" age_upper="999">
 g/	-	-	-	0:00:44.841000	0:00:45.172000
 /.	-	-	-	0:00:44.841000	0:00:45.172000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:44.841000" end="0:00:46.178000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:44.841000" end="0:00:46.178000" age_lower="1" age_upper="999">
 auch	-	-	-	0:00:44.841000	0:00:45.172000
 wenn	-	-	-	0:00:44.841000	0:00:45.172000
 man	-	-	-	0:00:44.841000	0:00:45.172000
@@ -212,35 +212,35 @@ nicht	-	-	-	0:00:45.172000	0:00:46.178000
 kennt	-	-	-	0:00:45.172000	0:00:46.178000
 ?	-	-	-	0:00:45.172000	0:00:46.178000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:46.178000" end="0:00:48.238000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:46.178000" end="0:00:48.238000" age_lower="65" age_upper="999">
 ja	-	-	-	0:00:46.178000	0:00:46.688000
 ,	-	-	-	0:00:46.178000	0:00:46.688000
 "grüß	-	-	-	0:00:46.688000	0:00:47.501000
 dich"	-	-	-	0:00:46.688000	0:00:47.501000
 .	-	-	-	0:00:46.688000	0:00:47.501000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:47.501000" end="0:00:48.238000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:47.501000" end="0:00:48.238000" age_lower="1" age_upper="999">
 ja	-	-	-	0:00:47.501000	0:00:48.238000
 ,	-	-	-	0:00:47.501000	0:00:48.238000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:48.238000" end="0:00:48.662000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:48.238000" end="0:00:48.662000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:48.238000" end="0:00:48.662000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:48.238000" end="0:00:48.662000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:00:48.238000	0:00:48.662000
 .	-	-	-	0:00:48.238000	0:00:48.662000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:48.662000" end="0:00:49.487000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:48.662000" end="0:00:49.487000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:48.662000" end="0:00:49.487000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:48.662000" end="0:00:49.487000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:49.487000" end="0:00:52.016000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:49.487000" end="0:00:52.016000" age_lower="65" age_upper="999">
 es	-	-	-	0:00:49.487000	0:00:50.765000
 ist	-	-	-	0:00:49.487000	0:00:50.765000
 ein	-	-	-	0:00:49.487000	0:00:50.765000
 so	-	-	-	0:00:49.487000	0:00:50.765000
 .	-	-	-	0:00:49.487000	0:00:50.765000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:50.765000" end="0:00:59.940000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:50.765000" end="0:00:59.940000" age_lower="1" age_upper="999">
 ja	-	-	-	0:00:52.016000	0:00:52.515000
 .	-	-	-	0:00:52.016000	0:00:52.515000
 und	-	-	-	0:00:52.515000	0:00:55.154000
@@ -266,21 +266,21 @@ mit	-	-	-	0:00:59.132000	0:00:59.940000
 Freunden	-	-	-	0:00:59.132000	0:00:59.940000
 ?	-	-	-	0:00:59.132000	0:00:59.940000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:59.940000" end="0:01:00.502000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:00:59.940000" end="0:01:00.502000" age_lower="65" age_upper="999">
 das	-	-	-	0:00:59.940000	0:01:00.502000
 ist	-	-	-	0:00:59.940000	0:01:00.502000
 mit	-	-	-	0:00:59.940000	0:01:00.502000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:59.940000" end="0:01:00.502000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:00:59.940000" end="0:01:00.502000" age_lower="1" age_upper="999">
 immer	-	-	-	0:00:59.940000	0:01:00.502000
 .	-	-	-	0:00:59.940000	0:01:00.502000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:00.502000" end="0:01:01.214000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:00.502000" end="0:01:01.214000" age_lower="65" age_upper="999">
 alle	-	-	-	0:01:00.502000	0:01:01.214000
 gleich	-	-	-	0:01:00.502000	0:01:01.214000
 .	-	-	-	0:01:00.502000	0:01:01.214000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:01.214000" end="0:01:18.277000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:01.214000" end="0:01:18.277000" age_lower="1" age_upper="999">
 (mit)	-	-	-	0:01:01.214000	0:01:01.853000
 alle	-	-	-	0:01:01.214000	0:01:01.853000
 gleich	-	-	-	0:01:01.214000	0:01:01.853000
@@ -333,7 +333,7 @@ dadurch	-	-	-	0:01:16.396000	0:01:18.277000
 verändert	-	-	-	0:01:16.396000	0:01:18.277000
 ?	-	-	-	0:01:16.396000	0:01:18.277000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:18.277000" end="0:01:21.984000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:18.277000" end="0:01:21.984000" age_lower="65" age_upper="999">
 <pause duration="0,6s"/>
 ja	-	-	-	0:01:18.277000	0:01:19.833000
 sicher	-	-	-	0:01:18.277000	0:01:19.833000
@@ -346,21 +346,21 @@ mehr	-	-	-	0:01:19.833000	0:01:21.984000
 zusammengegangen	-	-	-	0:01:19.833000	0:01:21.984000
 .	-	-	-	0:01:19.833000	0:01:21.984000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:21.984000" end="0:01:23.919000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:21.984000" end="0:01:23.919000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:21.984000	0:01:22.650000
 .	-	-	-	0:01:21.984000	0:01:22.650000
 <pause duration="0,9s"/>
 und	-	-	-	0:01:22.650000	0:01:23.919000
 wie	-	-	-	0:01:22.650000	0:01:23.919000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:23.919000" end="0:01:24.402000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:23.919000" end="0:01:24.402000" age_lower="65" age_upper="999">
 (jetzt/)	-	-	-	0:01:23.919000	0:01:24.402000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:23.919000" end="0:01:24.402000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:23.919000" end="0:01:24.402000" age_lower="1" age_upper="999">
 man	-	-	-	0:01:23.919000	0:01:24.402000
 /.	-	-	-	0:01:23.919000	0:01:24.402000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:24.402000" end="0:01:28.430000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:24.402000" end="0:01:28.430000" age_lower="65" age_upper="999">
 jetzt	-	-	-	0:01:24.402000	0:01:26.310000
 macht	-	-	-	0:01:24.402000	0:01:26.310000
 man	-	-	-	0:01:24.402000	0:01:26.310000
@@ -377,7 +377,7 @@ hat	-	-	-	0:01:26.310000	0:01:28.430000
 nicht	-	-	-	0:01:26.310000	0:01:28.430000
 ?	-	-	-	0:01:26.310000	0:01:28.430000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:28.430000" end="0:01:33.199000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:28.430000" end="0:01:33.199000" age_lower="1" age_upper="999">
 ja	-	-	-	0:01:28.430000	0:01:29.033000
 .	-	-	-	0:01:28.430000	0:01:29.033000
 <pause duration="0,9s"/>
@@ -394,7 +394,7 @@ auch	-	-	-	0:01:31.774000	0:01:33.199000
 verändert	-	-	-	0:01:31.774000	0:01:33.199000
 ?	-	-	-	0:01:31.774000	0:01:33.199000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:33.199000" end="0:01:35.965000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:33.199000" end="0:01:35.965000" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 naja	-	-	-	0:01:33.199000	0:01:34.256000
 ,	-	-	-	0:01:33.199000	0:01:34.256000
@@ -406,11 +406,11 @@ fort	-	-	-	0:01:34.256000	0:01:35.965000
 sind	-	-	-	0:01:34.256000	0:01:35.965000
 ,	-	-	-	0:01:34.256000	0:01:35.965000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:35.965000" end="0:01:36.558000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:35.965000" end="0:01:36.558000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:01:35.965000	0:01:36.558000
 .	-	-	-	0:01:35.965000	0:01:36.558000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:36.558000" end="0:01:42.156000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:36.558000" end="0:01:42.156000" age_lower="65" age_upper="999">
 die	-	-	-	0:01:36.558000	0:01:38.456000
 reden	-	-	-	0:01:36.558000	0:01:38.456000
 schon	-	-	-	0:01:36.558000	0:01:38.456000
@@ -427,11 +427,11 @@ halt	-	-	-	0:01:38.456000	0:01:42.156000
 _gschert_	-	-	-	0:01:38.456000	0:01:42.156000
 .	-	-	-	0:01:38.456000	0:01:42.156000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:42.156000" end="0:01:42.654000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:42.156000" end="0:01:42.654000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:42.654000" end="0:01:44.588000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:42.654000" end="0:01:44.588000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:44.049000" end="0:01:51.755000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:44.049000" end="0:01:51.755000" age_lower="1" age_upper="999">
 und	-	-	-	0:01:44.049000	0:01:44.588000
 und	-	-	-	0:01:44.588000	0:01:46.581000
 wenn	-	-	-	0:01:44.588000	0:01:46.581000
@@ -454,16 +454,16 @@ die	-	-	-	0:01:49.794000	0:01:50.148000
 <pause duration="1,5s"/>
 die	-	-	-	0:01:51.625000	0:01:51.755000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:51.755000" end="0:01:52.495000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:51.755000" end="0:01:52.495000" age_lower="65" age_upper="999">
 naja	-	-	-	0:01:51.755000	0:01:52.495000
 ,	-	-	-	0:01:51.755000	0:01:52.495000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:51.755000" end="0:01:52.495000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:51.755000" end="0:01:52.495000" age_lower="1" age_upper="999">
 fort	-	-	-	0:01:51.755000	0:01:52.495000
 sind	-	-	-	0:01:51.755000	0:01:52.495000
 ?	-	-	-	0:01:51.755000	0:01:52.495000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:52.495000" end="0:01:57.767000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:01:52.495000" end="0:01:57.767000" age_lower="65" age_upper="999">
 <pause duration="1,6s"/>
 wie	-	-	-	0:01:54.143000	0:01:55.477000
 s/	-	-	-	0:01:54.143000	0:01:55.477000
@@ -479,7 +479,7 @@ reden	-	-	-	0:01:55.477000	0:01:57.767000
 die	-	-	-	0:01:55.477000	0:01:57.767000
 ?	-	-	-	0:01:55.477000	0:01:57.767000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:57.767000" end="0:02:00.519000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:01:57.767000" end="0:02:00.519000" age_lower="1" age_upper="999">
 wie	-	-	-	0:01:57.767000	0:01:58.331000
 s/	-	-	-	0:01:57.767000	0:01:58.331000
 wie	-	-	-	0:01:58.331000	0:02:00.141000
@@ -494,16 +494,16 @@ Person	-	-	-	0:02:00.141000	0:02:00.519000
 macht	-	-	-	0:02:00.141000	0:02:00.519000
 SONSTIGE	SONSTIGE	-	-	0:02:00.141000	0:02:00.519000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:00.519000" end="0:02:02.488000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:00.519000" end="0:02:02.488000" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:01.586000" end="0:02:02.488000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:01.586000" end="0:02:02.488000" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:02:01.586000	0:02:02.488000
 dritte	-	-	-	0:02:01.586000	0:02:02.488000
 Person	-	-	-	0:02:01.586000	0:02:02.488000
 SONSTIGE	SONSTIGE	-	-	0:02:01.586000	0:02:02.488000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:02.488000" end="0:02:05.497000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:02.488000" end="0:02:05.497000" age_lower="65" age_upper="999">
 ein	-	-	-	0:02:02.488000	0:02:04.971000
 bissel	-	-	-	0:02:02.488000	0:02:04.971000
 bissel	-	-	-	0:02:02.488000	0:02:04.971000
@@ -511,13 +511,13 @@ Wienerisch	-	-	-	0:02:02.488000	0:02:04.971000
 halt	-	-	-	0:02:02.488000	0:02:04.971000
 .	-	-	-	0:02:02.488000	0:02:04.971000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:04.971000" end="0:02:05.497000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:04.971000" end="0:02:05.497000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:04.971000	0:02:05.497000
 .	-	-	-	0:02:04.971000	0:02:05.497000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:05.497000" end="0:02:08.544000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:05.497000" end="0:02:08.544000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:05.497000" end="0:02:16.619000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:05.497000" end="0:02:16.619000" age_lower="1" age_upper="999">
 ja	-	-	-	0:02:08.544000	0:02:08.933000
 .	-	-	-	0:02:08.544000	0:02:08.933000
 <pause duration="0,6s"/>
@@ -534,11 +534,11 @@ auch	-	-	-	0:02:08.933000	0:02:16.619000
 <pause duration="0,6s"/>
 /.	-	-	-	0:02:08.933000	0:02:16.619000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:16.619000" end="0:02:17.456000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:16.619000" end="0:02:17.456000" age_lower="65" age_upper="999">
 zugesperrt	-	-	-	0:02:16.619000	0:02:17.456000
 .	-	-	-	0:02:16.619000	0:02:17.456000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:17.456000" end="0:02:25.775000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:17.456000" end="0:02:25.775000" age_lower="1" age_upper="999">
 zugesperrt	-	-	-	0:02:17.456000	0:02:18.671000
 <pause duration="1,0s"/>
 und	-	-	-	0:02:19.716000	0:02:20.966000
@@ -559,7 +559,7 @@ bissel	-	-	-	0:02:22.426000	0:02:25.775000
 verändert	-	-	-	0:02:22.426000	0:02:25.775000
 ?	-	-	-	0:02:22.426000	0:02:25.775000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:25.775000" end="0:02:27.414000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:25.775000" end="0:02:27.414000" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 nein	-	-	-	0:02:25.775000	0:02:27.414000
 ,	-	-	-	0:02:25.775000	0:02:27.414000
@@ -568,7 +568,7 @@ ich	-	-	-	0:02:25.775000	0:02:27.414000
 nicht	-	-	-	0:02:25.775000	0:02:27.414000
 .	-	-	-	0:02:25.775000	0:02:27.414000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:27.414000" end="0:02:39.016000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:27.414000" end="0:02:39.016000" age_lower="1" age_upper="999">
 nein	-	-	-	0:02:27.414000	0:02:28.696000
 ,	-	-	-	0:02:27.414000	0:02:28.696000
 nein	-	-	-	0:02:27.414000	0:02:28.696000
@@ -608,11 +608,11 @@ jemandem	-	-	-	0:02:36.352000	0:02:39.016000
 reden	-	-	-	0:02:36.352000	0:02:39.016000
 <pause duration="0,8s"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:39.016000" end="0:02:39.453000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:39.016000" end="0:02:39.453000" age_lower="65" age_upper="999">
 nein	-	-	-	0:02:39.016000	0:02:39.453000
 .	-	-	-	0:02:39.016000	0:02:39.453000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:39.016000" end="0:02:40.656000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:39.016000" end="0:02:40.656000" age_lower="1" age_upper="999">
 verändert	-	-	-	0:02:39.016000	0:02:39.453000
 oder	-	-	-	0:02:39.453000	0:02:40.656000
 ist	-	-	-	0:02:39.453000	0:02:40.656000
@@ -622,64 +622,64 @@ gleich	-	-	-	0:02:39.453000	0:02:40.656000
 geblieben	-	-	-	0:02:39.453000	0:02:40.656000
 ?	-	-	-	0:02:39.453000	0:02:40.656000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:40.656000" end="0:02:42.069000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:40.656000" end="0:02:42.069000" age_lower="65" age_upper="999">
 das	-	-	-	0:02:40.656000	0:02:42.069000
 ist	-	-	-	0:02:40.656000	0:02:42.069000
 gleich	-	-	-	0:02:40.656000	0:02:42.069000
 geblieben	-	-	-	0:02:40.656000	0:02:42.069000
 .	-	-	-	0:02:40.656000	0:02:42.069000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:42.069000" end="0:02:42.552000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:42.069000" end="0:02:42.552000" age_lower="1" age_upper="999">
 ja	-	-	-	0:02:42.069000	0:02:42.552000
 ,	-	-	-	0:02:42.069000	0:02:42.552000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:42.552000" end="0:02:43.474000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:42.552000" end="0:02:43.474000" age_lower="65" age_upper="999">
 haben	-	-	-	0:02:42.552000	0:02:43.474000
 wir	-	-	-	0:02:42.552000	0:02:43.474000
 nichts	-	-	-	0:02:42.552000	0:02:43.474000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:42.552000" end="0:02:43.474000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:42.552000" end="0:02:43.474000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:02:42.552000	0:02:43.474000
 .	-	-	-	0:02:42.552000	0:02:43.474000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:43.474000" end="0:02:44.952000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:43.474000" end="0:02:44.952000" age_lower="65" age_upper="999">
 verlernt	-	-	-	0:02:43.474000	0:02:44.069000
 .	-	-	-	0:02:43.474000	0:02:44.069000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:44.069000" end="0:02:44.952000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:44.069000" end="0:02:44.952000" age_lower="1" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:02:44.069000	0:02:44.952000
 .	-	-	-	0:02:44.069000	0:02:44.952000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:44.952000" end="0:02:45.607000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:44.952000" end="0:02:45.607000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:44.952000" end="0:02:45.607000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:44.952000" end="0:02:45.607000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:45.607000" end="0:02:46.350000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:45.607000" end="0:02:46.350000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:45.607000" end="0:02:46.509000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:45.607000" end="0:02:46.509000" age_lower="1" age_upper="999">
 auch	-	-	-	0:02:45.607000	0:02:46.350000
 nicht	-	-	-	0:02:45.607000	0:02:46.350000
 anders	-	-	-	0:02:45.607000	0:02:46.350000
 ?	-	-	-	0:02:45.607000	0:02:46.350000
 dass	-	-	-	0:02:46.350000	0:02:46.509000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:46.509000" end="0:02:46.984000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:46.509000" end="0:02:46.984000" age_lower="65" age_upper="999">
 nein	-	-	-	0:02:46.509000	0:02:46.984000
 .	-	-	-	0:02:46.509000	0:02:46.984000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:46.509000" end="0:02:48.423000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:46.509000" end="0:02:48.423000" age_lower="1" age_upper="999">
 man	-	-	-	0:02:46.509000	0:02:46.984000
 irgendwelche	-	-	-	0:02:46.509000	0:02:46.984000
 anderen	-	-	-	0:02:46.984000	0:02:48.423000
 Wörter	-	-	-	0:02:46.984000	0:02:48.423000
 verwendet	-	-	-	0:02:46.984000	0:02:48.423000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:48.423000" end="0:02:48.918000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:02:48.423000" end="0:02:48.918000" age_lower="65" age_upper="999">
 nein	-	-	-	0:02:48.423000	0:02:48.918000
 .	-	-	-	0:02:48.423000	0:02:48.918000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:48.423000" end="0:03:07" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:02:48.423000" end="0:03:07" age_lower="1" age_upper="999">
 oder	-	-	-	0:02:48.423000	0:02:48.918000
 /?	-	-	-	0:02:48.423000	0:02:48.918000
 nein	-	-	-	0:02:48.918000	0:02:49.492000
@@ -720,10 +720,10 @@ Leute	-	-	-	0:03:05.474000	0:03:07
 sprechen	-	-	-	0:03:05.474000	0:03:07
 ?	-	-	-	0:03:05.474000	0:03:07
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:07" end="0:03:11.202000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:07" end="0:03:11.202000" age_lower="65" age_upper="999">
 <pause duration="3,6s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:10.637000" end="0:03:15.951000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:10.637000" end="0:03:15.951000" age_lower="1" age_upper="999">
 ist	-	-	-	0:03:10.637000	0:03:11.202000
 da	-	-	-	0:03:10.637000	0:03:11.202000
 /?	-	-	-	0:03:10.637000	0:03:11.202000
@@ -743,7 +743,7 @@ bissel	-	-	-	0:03:13.864000	0:03:15.951000
 anders	-	-	-	0:03:13.864000	0:03:15.951000
 ?	-	-	-	0:03:13.864000	0:03:15.951000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:15.951000" end="0:03:20.538000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:15.951000" end="0:03:20.538000" age_lower="65" age_upper="999">
 naja	-	-	-	0:03:15.951000	0:03:16.397000
 ,	-	-	-	0:03:15.951000	0:03:16.397000
 wenn	-	-	-	0:03:16.397000	0:03:18.020000
@@ -761,11 +761,11 @@ Dialekt	-	-	-	0:03:18.020000	0:03:20.538000
 hinein	-	-	-	0:03:18.020000	0:03:20.538000
 ,	-	-	-	0:03:18.020000	0:03:20.538000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:20.538000" end="0:03:21.029000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:20.538000" end="0:03:21.029000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:20.538000	0:03:21.029000
 .	-	-	-	0:03:20.538000	0:03:21.029000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:21.029000" end="0:03:23.020000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:21.029000" end="0:03:23.020000" age_lower="65" age_upper="999">
 ja	-	-	-	0:03:21.029000	0:03:23.020000
 ,	-	-	-	0:03:21.029000	0:03:23.020000
 und	-	-	-	0:03:21.029000	0:03:23.020000
@@ -775,7 +775,7 @@ mir	-	-	-	0:03:21.029000	0:03:23.020000
 eigentlich	-	-	-	0:03:21.029000	0:03:23.020000
 .	-	-	-	0:03:21.029000	0:03:23.020000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:23.020000" end="0:03:40.573000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:23.020000" end="0:03:40.573000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:23.020000	0:03:23.439000
 .	-	-	-	0:03:23.020000	0:03:23.439000
 <pause duration="1,0s"/>
@@ -827,18 +827,18 @@ Nachrichten	-	-	-	0:03:38.769000	0:03:39.784000
 sind	-	-	-	0:03:39.784000	0:03:40.573000
 da	-	-	-	0:03:39.784000	0:03:40.573000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:40.573000" end="0:03:41.595000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:40.573000" end="0:03:41.595000" age_lower="65" age_upper="999">
 <pause duration="0,6s"/>
 naja	-	-	-	0:03:40.573000	0:03:41.595000
 ,	-	-	-	0:03:40.573000	0:03:41.595000
 die	-	-	-	0:03:40.573000	0:03:41.595000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:40.573000" end="0:03:41.595000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:40.573000" end="0:03:41.595000" age_lower="1" age_upper="999">
 <pause duration="0,6s"/>
 andere	-	-	-	0:03:40.573000	0:03:41.595000
 /?	-	-	-	0:03:40.573000	0:03:41.595000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:41.595000" end="0:03:52.343000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:41.595000" end="0:03:52.343000" age_lower="65" age_upper="999">
 Nachrichten	-	-	-	0:03:41.595000	0:03:42.446000
 ,	-	-	-	0:03:41.595000	0:03:42.446000
 die	-	-	-	0:03:42.446000	0:03:44.606000
@@ -877,11 +877,11 @@ nein	-	-	-	0:03:51.266000	0:03:52.343000
 allerhand	-	-	-	0:03:51.266000	0:03:52.343000
 .	-	-	-	0:03:51.266000	0:03:52.343000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:52.343000" end="0:03:52.793000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:52.343000" end="0:03:52.793000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:03:52.343000	0:03:52.793000
 .	-	-	-	0:03:52.343000	0:03:52.793000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:52.793000" end="0:03:59.822000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:03:52.793000" end="0:03:59.822000" age_lower="65" age_upper="999">
 da	-	-	-	0:03:52.793000	0:03:53.259000
 /.	-	-	-	0:03:52.793000	0:03:53.259000
 <pause duration="1,4s"/>
@@ -908,14 +908,14 @@ nicht	-	-	-	0:03:57.503000	0:03:59.822000
 an	-	-	-	0:03:57.503000	0:03:59.822000
 .	-	-	-	0:03:57.503000	0:03:59.822000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:59.822000" end="0:04:00.507000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:03:59.822000" end="0:04:00.507000" age_lower="1" age_upper="999">
 ja	-	-	-	0:03:59.822000	0:04:00.507000
 .	-	-	-	0:03:59.822000	0:04:00.507000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:00.507000" end="0:04:02.185000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:00.507000" end="0:04:02.185000" age_lower="65" age_upper="999">
 <pause duration="1,7s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:00.507000" end="0:04:04.969000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:00.507000" end="0:04:04.969000" age_lower="1" age_upper="999">
 <pause duration="1,7s"/>
 und	-	-	-	0:04:02.185000	0:04:04.969000
 Sie	-	-	-	0:04:02.185000	0:04:04.969000
@@ -925,42 +925,42 @@ aus	-	-	-	0:04:02.185000	0:04:04.969000
 ORT	ORT	-	-	0:04:02.185000	0:04:04.969000
 ?	-	-	-	0:04:02.185000	0:04:04.969000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:04.969000" end="0:04:06.036000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:04.969000" end="0:04:06.036000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:04.969000	0:04:05.328000
 ,	-	-	-	0:04:04.969000	0:04:05.328000
 <pause duration="0,5s"/>
 das	-	-	-	0:04:05.328000	0:04:06.036000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:05.328000" end="0:04:06.036000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:05.328000" end="0:04:06.036000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:05.328000	0:04:06.036000
 .	-	-	-	0:04:05.328000	0:04:06.036000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:06.036000" end="0:04:07.717000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:06.036000" end="0:04:07.717000" age_lower="65" age_upper="999">
 ist	-	-	-	0:04:06.036000	0:04:07.717000
 mein	-	-	-	0:04:06.036000	0:04:07.717000
 Geburtshaus	-	-	-	0:04:06.036000	0:04:07.717000
 da	-	-	-	0:04:06.036000	0:04:07.717000
 ,	-	-	-	0:04:06.036000	0:04:07.717000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:07.717000" end="0:04:08.241000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:07.717000" end="0:04:08.241000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:07.717000	0:04:08.241000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:08.241000" end="0:04:08.613000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:08.241000" end="0:04:08.613000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:08.241000	0:04:08.613000
 .	-	-	-	0:04:08.241000	0:04:08.613000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:08.241000" end="0:04:09.371000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:08.241000" end="0:04:09.371000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:08.241000	0:04:08.613000
 Ihre	-	-	-	0:04:08.241000	0:04:08.613000
 Familie	-	-	-	0:04:08.613000	0:04:09.371000
 auch	-	-	-	0:04:08.613000	0:04:09.371000
 ?	-	-	-	0:04:08.613000	0:04:09.371000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:09.371000" end="0:04:09.859000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:09.371000" end="0:04:09.859000" age_lower="65" age_upper="999">
 ja	-	-	-	0:04:09.371000	0:04:09.859000
 .	-	-	-	0:04:09.371000	0:04:09.859000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:09.859000" end="0:04:19.394000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:09.859000" end="0:04:19.394000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:09.859000	0:04:10.423000
 .	-	-	-	0:04:09.859000	0:04:10.423000
 <pause duration="0,8s"/>
@@ -990,28 +990,28 @@ oder	-	-	-	0:04:18.745000	0:04:19.394000
 eher	-	-	-	0:04:18.745000	0:04:19.394000
 auf	-	-	-	0:04:18.745000	0:04:19.394000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:19.394000" end="0:04:19.971000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:19.394000" end="0:04:19.971000" age_lower="65" age_upper="999">
 na	-	-	-	0:04:19.394000	0:04:19.971000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:19.394000" end="0:04:19.971000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:19.394000" end="0:04:19.971000" age_lower="1" age_upper="999">
 Hochdeutsch	-	-	-	0:04:19.394000	0:04:19.971000
 ?	-	-	-	0:04:19.394000	0:04:19.971000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:19.971000" end="0:04:22.261000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:19.971000" end="0:04:22.261000" age_lower="65" age_upper="999">
 sicher	-	-	-	0:04:19.971000	0:04:21.587000
 in	-	-	-	0:04:19.971000	0:04:21.587000
 Dialekt	-	-	-	0:04:19.971000	0:04:21.587000
 .	-	-	-	0:04:19.971000	0:04:21.587000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:21.587000" end="0:04:22.261000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:21.587000" end="0:04:22.261000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:21.587000	0:04:22.261000
 .	-	-	-	0:04:21.587000	0:04:22.261000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:22.261000" end="0:04:25.400000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:22.261000" end="0:04:25.400000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:22.261000" end="0:04:25.400000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:22.261000" end="0:04:25.400000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:25.400000" end="0:04:29.865000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:25.400000" end="0:04:29.865000" age_lower="65" age_upper="999">
 statt	-	-	-	0:04:25.400000	0:04:28.769000
 "Dialekt"	-	-	-	0:04:25.400000	0:04:28.769000
 habe	-	-	-	0:04:25.400000	0:04:28.769000
@@ -1021,16 +1021,16 @@ jetzt	-	-	-	0:04:25.400000	0:04:28.769000
 gesagt	-	-	-	0:04:25.400000	0:04:28.769000
 .	-	-	-	0:04:25.400000	0:04:28.769000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:28.769000" end="0:04:29.865000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:28.769000" end="0:04:29.865000" age_lower="1" age_upper="999">
 ah	-	-	-	0:04:28.769000	0:04:29.865000
 das	-	-	-	0:04:28.769000	0:04:29.865000
 macht	-	-	-	0:04:28.769000	0:04:29.865000
 nichts	-	-	-	0:04:28.769000	0:04:29.865000
 .	-	-	-	0:04:28.769000	0:04:29.865000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:29.865000" end="0:04:33.979000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:29.865000" end="0:04:33.979000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:29.865000" end="0:04:37.322000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:29.865000" end="0:04:37.322000" age_lower="1" age_upper="999">
 und	-	-	-	0:04:33.979000	0:04:36.014000
 <pause duration="0,7s"/>
 i/	-	-	-	0:04:33.979000	0:04:36.014000
@@ -1044,14 +1044,14 @@ sind	-	-	-	0:04:36.014000	0:04:37.322000
 Pensionistin	-	-	-	0:04:36.014000	0:04:37.322000
 ?	-	-	-	0:04:36.014000	0:04:37.322000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:37.322000" end="0:04:38.828000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:37.322000" end="0:04:38.828000" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 ja	-	-	-	0:04:37.322000	0:04:38.152000
 ,	-	-	-	0:04:37.322000	0:04:38.152000
 mhm	-	-	-	0:04:38.152000	0:04:38.828000
 .	-	-	-	0:04:38.152000	0:04:38.828000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:38.152000" end="0:04:41.029000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:38.152000" end="0:04:41.029000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:38.152000	0:04:38.828000
 und	-	-	-	0:04:38.828000	0:04:41.029000
 was	-	-	-	0:04:38.828000	0:04:41.029000
@@ -1061,10 +1061,10 @@ vorher	-	-	-	0:04:38.828000	0:04:41.029000
 gemacht	-	-	-	0:04:38.828000	0:04:41.029000
 ?	-	-	-	0:04:38.828000	0:04:41.029000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:41.029000" end="0:04:43.882000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:41.029000" end="0:04:43.882000" age_lower="65" age_upper="999">
 puh	-	-	-	0:04:41.029000	0:04:42.394000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:42.394000" end="0:04:43.882000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:42.394000" end="0:04:43.882000" age_lower="1" age_upper="999">
 wie	-	-	-	0:04:42.394000	0:04:43.882000
 Sie	-	-	-	0:04:42.394000	0:04:43.882000
 noch	-	-	-	0:04:42.394000	0:04:43.882000
@@ -1074,7 +1074,7 @@ Pension	-	-	-	0:04:42.394000	0:04:43.882000
 waren	-	-	-	0:04:42.394000	0:04:43.882000
 ?	-	-	-	0:04:42.394000	0:04:43.882000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:43.882000" end="0:04:46.786000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:43.882000" end="0:04:46.786000" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 mal	-	-	-	0:04:44.526000	0:04:46.236000
 in	-	-	-	0:04:44.526000	0:04:46.236000
@@ -1083,7 +1083,7 @@ Schule	-	-	-	0:04:44.526000	0:04:46.236000
 gegangen	-	-	-	0:04:44.526000	0:04:46.236000
 ,	-	-	-	0:04:44.526000	0:04:46.236000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:46.236000" end="0:04:47.792000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:46.236000" end="0:04:47.792000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:46.236000	0:04:46.786000
 ,	-	-	-	0:04:46.236000	0:04:46.786000
 <pause duration="0,6s"/>
@@ -1091,17 +1091,17 @@ auch	-	-	-	0:04:46.786000	0:04:47.792000
 da	-	-	-	0:04:46.786000	0:04:47.792000
 ?	-	-	-	0:04:46.786000	0:04:47.792000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:47.792000" end="0:04:49.991000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:47.792000" end="0:04:49.991000" age_lower="65" age_upper="999">
 auch	-	-	-	0:04:47.792000	0:04:49.472000
 in	-	-	-	0:04:47.792000	0:04:49.472000
 ORT	ORT	-	-	0:04:47.792000	0:04:49.472000
 ,	-	-	-	0:04:47.792000	0:04:49.472000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:49.472000" end="0:04:49.991000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:49.472000" end="0:04:49.991000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:49.472000	0:04:49.991000
 .	-	-	-	0:04:49.472000	0:04:49.991000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:49.991000" end="0:04:52.854000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:49.991000" end="0:04:52.854000" age_lower="65" age_upper="999">
 <pause duration="1,4s"/>
 in	-	-	-	0:04:51.362000	0:04:52.854000
 keine	-	-	-	0:04:51.362000	0:04:52.854000
@@ -1109,22 +1109,22 @@ Hauptschule	-	-	-	0:04:51.362000	0:04:52.854000
 nicht	-	-	-	0:04:51.362000	0:04:52.854000
 ,	-	-	-	0:04:51.362000	0:04:52.854000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:52.854000" end="0:04:53.362000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:52.854000" end="0:04:53.362000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:52.854000	0:04:53.362000
 .	-	-	-	0:04:52.854000	0:04:53.362000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:53.362000" end="0:04:55.045000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:53.362000" end="0:04:55.045000" age_lower="65" age_upper="999">
 weil	-	-	-	0:04:53.362000	0:04:55.045000
 die	-	-	-	0:04:53.362000	0:04:55.045000
 war	-	-	-	0:04:53.362000	0:04:55.045000
 in	-	-	-	0:04:53.362000	0:04:55.045000
 ORT	ORT	-	-	0:04:53.362000	0:04:55.045000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:55.045000" end="0:04:55.772000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:55.045000" end="0:04:55.772000" age_lower="1" age_upper="999">
 ja	-	-	-	0:04:55.045000	0:04:55.772000
 .	-	-	-	0:04:55.045000	0:04:55.772000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:55.772000" end="0:05:00.554000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:04:55.772000" end="0:05:00.554000" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 und	-	-	-	0:04:56.896000	0:04:59.905000
 die	-	-	-	0:04:56.896000	0:04:59.905000
@@ -1141,11 +1141,11 @@ weil	-	-	-	0:04:59.905000	0:05:00.554000
 sie	-	-	-	0:04:59.905000	0:05:00.554000
 mich	-	-	-	0:04:59.905000	0:05:00.554000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:59.905000" end="0:05:00.554000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:04:59.905000" end="0:05:00.554000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:04:59.905000	0:05:00.554000
 ,	-	-	-	0:04:59.905000	0:05:00.554000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:00.554000" end="0:05:02.060000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:00.554000" end="0:05:02.060000" age_lower="65" age_upper="999">
 in	-	-	-	0:05:00.554000	0:05:02.060000
 der	-	-	-	0:05:00.554000	0:05:02.060000
 Wirtschaft	-	-	-	0:05:00.554000	0:05:02.060000
@@ -1153,11 +1153,11 @@ gebraucht	-	-	-	0:05:00.554000	0:05:02.060000
 haben	-	-	-	0:05:00.554000	0:05:02.060000
 ,	-	-	-	0:05:00.554000	0:05:02.060000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:02.060000" end="0:05:02.449000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:02.060000" end="0:05:02.449000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:02.060000	0:05:02.449000
 .	-	-	-	0:05:02.060000	0:05:02.449000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:02.449000" end="0:05:05.286000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:02.449000" end="0:05:05.286000" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 jetzt	-	-	-	0:05:02.449000	0:05:05.286000
 bin	-	-	-	0:05:02.449000	0:05:05.286000
@@ -1168,7 +1168,7 @@ daheim	-	-	-	0:05:02.449000	0:05:05.286000
 gewesen	-	-	-	0:05:02.449000	0:05:05.286000
 .	-	-	-	0:05:02.449000	0:05:05.286000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:05.286000" end="0:05:07.829000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:05.286000" end="0:05:07.829000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:05.286000	0:05:05.856000
 <pause duration="0,6s"/>
 und	-	-	-	0:05:05.856000	0:05:07.829000
@@ -1178,12 +1178,12 @@ daheim	-	-	-	0:05:05.856000	0:05:07.829000
 gearbeitet	-	-	-	0:05:05.856000	0:05:07.829000
 ?	-	-	-	0:05:05.856000	0:05:07.829000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:07.829000" end="0:05:09.325000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:07.829000" end="0:05:09.325000" age_lower="65" age_upper="999">
 ja	-	-	-	0:05:07.829000	0:05:08.114000
 .	-	-	-	0:05:07.829000	0:05:08.114000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:08.114000" end="0:05:13.596000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:08.114000" end="0:05:13.596000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 SONSTIGE	SONSTIGE	-	-	0:05:09.325000	0:05:09.997000
 Person	-	-	-	0:05:09.325000	0:05:09.997000
@@ -1204,35 +1204,35 @@ SONSTIGE	SONSTIGE	-	-	0:05:11.644000	0:05:13.596000
 Person	-	-	-	0:05:11.644000	0:05:13.596000
 SONSTIGE	SONSTIGE	-	-	0:05:11.644000	0:05:13.596000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:13.596000" end="0:05:15.419000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:13.596000" end="0:05:15.419000" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 alles	-	-	-	0:05:13.596000	0:05:15.419000
 .	-	-	-	0:05:13.596000	0:05:15.419000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:13.596000" end="0:05:15.419000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:13.596000" end="0:05:15.419000" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:05:13.596000	0:05:15.419000
 Personen	-	-	-	0:05:13.596000	0:05:15.419000
 sprechen	-	-	-	0:05:13.596000	0:05:15.419000
 im	-	-	-	0:05:13.596000	0:05:15.419000
 SONSTIGE	SONSTIGE	-	-	0:05:13.596000	0:05:15.419000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:15.419000" end="0:05:18.258000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:15.419000" end="0:05:18.258000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:15.419000" end="0:05:18.258000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:15.419000" end="0:05:18.258000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:18.258000" end="0:05:19.360000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:18.258000" end="0:05:19.360000" age_lower="65" age_upper="999">
 Frucht	-	-	-	0:05:18.258000	0:05:19.360000
 gesät	-	-	-	0:05:18.258000	0:05:19.360000
 ,	-	-	-	0:05:18.258000	0:05:19.360000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:19.360000" end="0:05:20.141000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:19.360000" end="0:05:20.141000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:19.360000	0:05:20.141000
 .	-	-	-	0:05:19.360000	0:05:20.141000
 SONSTIGE	SONSTIGE	-	-	0:05:19.360000	0:05:20.141000
 Person	-	-	-	0:05:19.360000	0:05:20.141000
 SONSTIGE	SONSTIGE	-	-	0:05:19.360000	0:05:20.141000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:20.141000" end="0:05:27.778000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:20.141000" end="0:05:27.778000" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 geackert	-	-	-	0:05:20.141000	0:05:21.638000
 ,	-	-	-	0:05:20.141000	0:05:21.638000
@@ -1253,7 +1253,7 @@ Traktor	-	-	-	0:05:24.753000	0:05:26.568000
 .	-	-	-	0:05:24.753000	0:05:26.568000
 <pause duration="1,2s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:26.568000" end="0:05:28.780000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:26.568000" end="0:05:28.780000" age_lower="1" age_upper="999">
 <pause duration="1,2s"/>
 da	-	-	-	0:05:27.778000	0:05:28.780000
 war	-	-	-	0:05:27.778000	0:05:28.780000
@@ -1262,23 +1262,23 @@ zu	-	-	-	0:05:27.778000	0:05:28.780000
 tun	-	-	-	0:05:27.778000	0:05:28.780000
 ,	-	-	-	0:05:27.778000	0:05:28.780000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:28.780000" end="0:05:30.075000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:28.780000" end="0:05:30.075000" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:05:28.780000	0:05:30.075000
 ,	-	-	-	0:05:28.780000	0:05:30.075000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:28.780000" end="0:05:30.075000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:28.780000" end="0:05:30.075000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:05:28.780000	0:05:30.075000
 ,	-	-	-	0:05:28.780000	0:05:30.075000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:30.075000" end="0:05:30.785000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:30.075000" end="0:05:30.785000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:30.075000" end="0:05:30.785000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:30.075000" end="0:05:30.785000" age_lower="1" age_upper="999">
 ja	-	-	-	0:05:30.075000	0:05:30.785000
 .	-	-	-	0:05:30.075000	0:05:30.785000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:30.785000" end="0:05:38.103000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:30.785000" end="0:05:38.103000" age_lower="65" age_upper="999">
 <pause duration="1,0s"/>
 alles	-	-	-	0:05:31.822000	0:05:32.190000
 ,	-	-	-	0:05:31.822000	0:05:32.190000
@@ -1293,7 +1293,7 @@ gemäht	-	-	-	0:05:33.475000	0:05:35.346000
 .	-	-	-	0:05:33.475000	0:05:35.346000
 <pause duration="2,8s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:35.346000" end="0:05:40.412000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:35.346000" end="0:05:40.412000" age_lower="1" age_upper="999">
 <pause duration="2,8s"/>
 das	-	-	-	0:05:38.103000	0:05:40.412000
 machen	-	-	-	0:05:38.103000	0:05:40.412000
@@ -1305,69 +1305,69 @@ so	-	-	-	0:05:38.103000	0:05:40.412000
 viele	-	-	-	0:05:38.103000	0:05:40.412000
 .	-	-	-	0:05:38.103000	0:05:40.412000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:40.412000" end="0:05:41.686000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:40.412000" end="0:05:41.686000" age_lower="65" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:40.412000" end="0:05:41.686000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:40.412000" end="0:05:41.686000" age_lower="1" age_upper="999">
 <pause duration="1,3s"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:41.686000" end="0:05:42.301000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:41.686000" end="0:05:42.301000" age_lower="65" age_upper="999">
 naja	-	-	-	0:05:41.686000	0:05:42.301000
 ,	-	-	-	0:05:41.686000	0:05:42.301000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:41.686000" end="0:05:42.301000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:41.686000" end="0:05:42.301000" age_lower="1" age_upper="999">
 (oder	-	-	-	0:05:41.686000	0:05:42.301000
 ?)	-	-	-	0:05:41.686000	0:05:42.301000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:42.301000" end="0:05:43.102000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:42.301000" end="0:05:43.102000" age_lower="65" age_upper="999">
 es	-	-	-	0:05:42.301000	0:05:42.546000
 können	-	-	-	0:05:42.546000	0:05:43.102000
 auch	-	-	-	0:05:42.546000	0:05:43.102000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:42.546000" end="0:05:43.102000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:42.546000" end="0:05:43.102000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:43.102000" end="0:05:44.217000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:43.102000" end="0:05:44.217000" age_lower="65" age_upper="999">
 nicht	-	-	-	0:05:43.102000	0:05:43.850000
 viele	-	-	-	0:05:43.102000	0:05:43.850000
 .	-	-	-	0:05:43.102000	0:05:43.850000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:43.850000" end="0:05:44.217000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:43.850000" end="0:05:44.217000" age_lower="1" age_upper="999">
 nein	-	-	-	0:05:43.850000	0:05:44.217000
 ,	-	-	-	0:05:43.850000	0:05:44.217000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:44.217000" end="0:05:44.864000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:44.217000" end="0:05:44.864000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:44.864000" end="0:05:45.247000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:44.864000" end="0:05:45.247000" age_lower="1" age_upper="999">
 nein	-	-	-	0:05:44.864000	0:05:45.247000
 .	-	-	-	0:05:44.864000	0:05:45.247000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:45.247000" end="0:05:47.058000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:45.247000" end="0:05:47.058000" age_lower="65" age_upper="999">
 <pause duration="1,8s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:45.247000" end="0:05:47.871000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:45.247000" end="0:05:47.871000" age_lower="1" age_upper="999">
 <pause duration="1,8s"/>
 (_ma_)	-	-	-	0:05:47.058000	0:05:47.871000
 sehr	-	-	-	0:05:47.058000	0:05:47.871000
 gut	-	-	-	0:05:47.058000	0:05:47.871000
 .	-	-	-	0:05:47.058000	0:05:47.871000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:47.871000" end="0:05:49.234000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:47.871000" end="0:05:49.234000" age_lower="65" age_upper="999">
 <pause duration="0,8s"/>
 aber	-	-	-	0:05:47.871000	0:05:49.234000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:47.871000" end="0:05:49.234000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:47.871000" end="0:05:49.234000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 ja	-	-	-	0:05:47.871000	0:05:49.234000
 ,	-	-	-	0:05:47.871000	0:05:49.234000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:49.234000" end="0:05:50.031000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:49.234000" end="0:05:50.031000" age_lower="65" age_upper="999">
 eines	-	-	-	0:05:49.234000	0:05:50.031000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:49.234000" end="0:05:50.031000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:49.234000" end="0:05:50.031000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:05:49.234000	0:05:50.031000
 .	-	-	-	0:05:49.234000	0:05:50.031000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:50.031000" end="0:06:00.086000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:05:50.031000" end="0:06:00.086000" age_lower="65" age_upper="999">
 freut	-	-	-	0:05:50.031000	0:05:50.933000
 mich	-	-	-	0:05:50.031000	0:05:50.933000
 ,	-	-	-	0:05:50.031000	0:05:50.933000
@@ -1387,10 +1387,10 @@ gemacht	-	-	-	0:05:56.933000	0:05:58.589000
 ,	-	-	-	0:05:56.933000	0:05:58.589000
 <pause duration="1,5s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:58.589000" end="0:06:00.086000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:05:58.589000" end="0:06:00.086000" age_lower="1" age_upper="999">
 <pause duration="1,5s"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:00.086000" end="0:06:04.856000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:00.086000" end="0:06:04.856000" age_lower="65" age_upper="999">
 alle	-	-	-	0:06:00.086000	0:06:00.758000
 Jahre	-	-	-	0:06:00.086000	0:06:00.758000
 ,	-	-	-	0:06:00.086000	0:06:00.758000
@@ -1402,14 +1402,14 @@ haben	-	-	-	0:06:03.486000	0:06:04.856000
 halt	-	-	-	0:06:03.486000	0:06:04.856000
 mal	-	-	-	0:06:03.486000	0:06:04.856000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:03.486000" end="0:06:04.856000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:03.486000" end="0:06:04.856000" age_lower="1" age_upper="999">
 (w/)	-	-	-	0:06:03.486000	0:06:04.856000
 was	-	-	-	0:06:03.486000	0:06:04.856000
 ist	-	-	-	0:06:03.486000	0:06:04.856000
 das	-	-	-	0:06:03.486000	0:06:04.856000
 ?	-	-	-	0:06:03.486000	0:06:04.856000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:04.856000" end="0:06:18.925000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:04.856000" end="0:06:18.925000" age_lower="65" age_upper="999">
 haben	-	-	-	0:06:04.856000	0:06:06.381000
 sie	-	-	-	0:06:04.856000	0:06:06.381000
 halt	-	-	-	0:06:04.856000	0:06:06.381000
@@ -1458,11 +1458,11 @@ auch	-	-	-	0:06:17.871000	0:06:18.925000
 nicht	-	-	-	0:06:17.871000	0:06:18.925000
 ."	-	-	-	0:06:17.871000	0:06:18.925000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:18.925000" end="0:06:19.250000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:18.925000" end="0:06:19.250000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:18.925000	0:06:19.250000
 .	-	-	-	0:06:18.925000	0:06:19.250000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:19.250000" end="0:06:24.301000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:19.250000" end="0:06:24.301000" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 jetzt	-	-	-	0:06:19.250000	0:06:21.625000
 hat	-	-	-	0:06:19.250000	0:06:21.625000
@@ -1481,9 +1481,9 @@ wie	-	-	-	0:06:21.625000	0:06:24.301000
 ich	-	-	-	0:06:21.625000	0:06:24.301000
 ,	-	-	-	0:06:21.625000	0:06:24.301000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:21.625000" end="0:06:24.301000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:21.625000" end="0:06:24.301000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:24.301000" end="0:06:33.473000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:24.301000" end="0:06:33.473000" age_lower="65" age_upper="999">
 hat	-	-	-	0:06:25.212000	0:06:26.084000
 er	-	-	-	0:06:25.212000	0:06:26.084000
 gesagt	-	-	-	0:06:25.212000	0:06:26.084000
@@ -1509,11 +1509,11 @@ willst	-	-	-	0:06:32.275000	0:06:33.473000
 du	-	-	-	0:06:32.275000	0:06:33.473000
 ?"	-	-	-	0:06:32.275000	0:06:33.473000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:33.473000" end="0:06:33.927000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:33.473000" end="0:06:33.927000" age_lower="1" age_upper="999">
 ja	-	-	-	0:06:33.473000	0:06:33.927000
 .	-	-	-	0:06:33.473000	0:06:33.927000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:33.927000" end="0:06:41.603000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:33.927000" end="0:06:41.603000" age_lower="65" age_upper="999">
 <pause duration="0,6s"/>
 und	-	-	-	0:06:33.927000	0:06:35.674000
 dann	-	-	-	0:06:33.927000	0:06:35.674000
@@ -1535,11 +1535,11 @@ eine	-	-	-	0:06:38.972000	0:06:41.603000
 Wiese	-	-	-	0:06:38.972000	0:06:41.603000
 gehabt	-	-	-	0:06:38.972000	0:06:41.603000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:41.603000" end="0:06:41.978000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:41.603000" end="0:06:41.978000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:41.603000	0:06:41.978000
 .	-	-	-	0:06:41.603000	0:06:41.978000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:41.978000" end="0:06:57.636000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:41.978000" end="0:06:57.636000" age_lower="65" age_upper="999">
 <pause duration="0,9s"/>
 und	-	-	-	0:06:41.978000	0:06:43.479000
 <pause duration="1,2s"/>
@@ -1581,11 +1581,11 @@ Herr	-	-	-	0:06:56.246000	0:06:57.636000
 NAME	NAME	-	-	0:06:56.246000	0:06:57.636000
 ,	-	-	-	0:06:56.246000	0:06:57.636000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:57.636000" end="0:06:58.096000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:06:57.636000" end="0:06:58.096000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:06:57.636000	0:06:58.096000
 .	-	-	-	0:06:57.636000	0:06:58.096000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:58.096000" end="0:07:07.594000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:06:58.096000" end="0:07:07.594000" age_lower="65" age_upper="999">
 und	-	-	-	0:06:58.096000	0:06:59.273000
 sagt	-	-	-	0:06:58.096000	0:06:59.273000
 ,	-	-	-	0:06:58.096000	0:06:59.273000
@@ -1609,7 +1609,7 @@ wirklich	-	-	-	0:07:02.102000	0:07:03.771000
 mähen	-	-	-	0:07:02.102000	0:07:03.771000
 ."	-	-	-	0:07:02.102000	0:07:03.771000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:03.771000" end="0:07:09.452000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:03.771000" end="0:07:09.452000" age_lower="1" age_upper="999">
 hätte	-	-	-	0:07:07.594000	0:07:08.326000
 er	-	-	-	0:07:07.594000	0:07:08.326000
 geglaubt	-	-	-	0:07:07.594000	0:07:08.326000
@@ -1621,40 +1621,40 @@ nicht	-	-	-	0:07:08.326000	0:07:09.452000
 können	-	-	-	0:07:08.326000	0:07:09.452000
 ?	-	-	-	0:07:08.326000	0:07:09.452000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:09.452000" end="0:07:10.806000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:09.452000" end="0:07:10.806000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:09.452000	0:07:09.940000
 .	-	-	-	0:07:09.452000	0:07:09.940000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:09.940000" end="0:07:10.806000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:09.940000" end="0:07:10.806000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:10.806000" end="0:07:11.376000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:10.806000" end="0:07:11.376000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:10.806000" end="0:07:11.376000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:10.806000" end="0:07:11.376000" age_lower="1" age_upper="999">
 (oh)	-	-	-	0:07:10.806000	0:07:11.376000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:11.376000" end="0:07:12.806000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:11.376000" end="0:07:12.806000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:12.280000" end="0:07:12.806000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:12.280000" end="0:07:12.806000" age_lower="1" age_upper="999">
 nein	-	-	-	0:07:12.280000	0:07:12.806000
 .	-	-	-	0:07:12.280000	0:07:12.806000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:12.806000" end="0:07:14.838000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:12.806000" end="0:07:14.838000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:14.838000" end="0:07:15.292000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:14.838000" end="0:07:15.292000" age_lower="1" age_upper="999">
 (oh)	-	-	-	0:07:14.838000	0:07:15.292000
 .	-	-	-	0:07:14.838000	0:07:15.292000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:15.292000" end="0:07:16.114000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:15.292000" end="0:07:16.114000" age_lower="65" age_upper="999">
 jetzt	-	-	-	0:07:15.292000	0:07:15.524000
 habe	-	-	-	0:07:15.524000	0:07:16.114000
 ich	-	-	-	0:07:15.524000	0:07:16.114000
 dann	-	-	-	0:07:15.524000	0:07:16.114000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:15.524000" end="0:07:16.114000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:15.524000" end="0:07:16.114000" age_lower="1" age_upper="999">
 (das	-	-	-	0:07:15.524000	0:07:16.114000
 /.)	-	-	-	0:07:15.524000	0:07:16.114000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:16.114000" end="0:07:26.980000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:16.114000" end="0:07:26.980000" age_lower="65" age_upper="999">
 gesagt	-	-	-	0:07:16.114000	0:07:16.443000
 ,	-	-	-	0:07:16.114000	0:07:16.443000
 "naja	-	-	-	0:07:16.443000	0:07:16.916000
@@ -1690,22 +1690,22 @@ die	-	-	-	0:07:24.768000	0:07:26.182000
 (Sichelschere)	-	-	-	0:07:24.768000	0:07:26.182000
 ."	-	-	-	0:07:24.768000	0:07:26.182000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:26.182000" end="0:07:26.980000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:26.182000" end="0:07:26.980000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:26.980000" end="0:07:28.182000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:26.980000" end="0:07:28.182000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:28.182000" end="0:07:29.051000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:28.182000" end="0:07:29.051000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:29.051000" end="0:07:29.670000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:29.051000" end="0:07:29.670000" age_lower="65" age_upper="999">
 (dann)	-	-	-	0:07:29.051000	0:07:29.670000
 hat	-	-	-	0:07:29.051000	0:07:29.670000
 er	-	-	-	0:07:29.051000	0:07:29.670000
 gemeint	-	-	-	0:07:29.051000	0:07:29.670000
 ,	-	-	-	0:07:29.051000	0:07:29.670000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:29.051000" end="0:07:29.670000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:29.051000" end="0:07:29.670000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:29.670000" end="0:07:32.741000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:29.670000" end="0:07:32.741000" age_lower="65" age_upper="999">
 "nein	-	-	-	0:07:29.670000	0:07:30.305000
 ,	-	-	-	0:07:29.670000	0:07:30.305000
 nein	-	-	-	0:07:29.670000	0:07:30.305000
@@ -1722,15 +1722,15 @@ du	-	-	-	0:07:31.654000	0:07:32.741000
 sagst	-	-	-	0:07:31.654000	0:07:32.741000
 ."	-	-	-	0:07:31.654000	0:07:32.741000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:31.654000" end="0:07:32.741000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:31.654000" end="0:07:32.741000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:32.741000" end="0:07:34.570000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:32.741000" end="0:07:34.570000" age_lower="65" age_upper="999">
 und	-	-	-	0:07:34.017000	0:07:34.570000
 dann	-	-	-	0:07:34.017000	0:07:34.570000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:34.017000" end="0:07:34.570000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:34.017000" end="0:07:34.570000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:34.570000" end="0:07:45.141000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:34.570000" end="0:07:45.141000" age_lower="65" age_upper="999">
 habe	-	-	-	0:07:34.570000	0:07:37.049000
 ich	-	-	-	0:07:34.570000	0:07:37.049000
 es	-	-	-	0:07:34.570000	0:07:37.049000
@@ -1764,41 +1764,41 @@ wen	-	-	-	0:07:39.815000	0:07:43.699000
 entschuldigt	-	-	-	0:07:39.815000	0:07:43.699000
 ."	-	-	-	0:07:39.815000	0:07:43.699000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:43.699000" end="0:07:45.141000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:43.699000" end="0:07:45.141000" age_lower="1" age_upper="999">
 das	-	-	-	0:07:43.699000	0:07:45.141000
 heißt	-	-	-	0:07:43.699000	0:07:45.141000
 was	-	-	-	0:07:43.699000	0:07:45.141000
 ,	-	-	-	0:07:43.699000	0:07:45.141000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:45.141000" end="0:07:45.761000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:45.141000" end="0:07:45.761000" age_lower="65" age_upper="999">
 ja	-	-	-	0:07:45.141000	0:07:45.761000
 .	-	-	-	0:07:45.141000	0:07:45.761000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:45.141000" end="0:07:45.761000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:45.141000" end="0:07:45.761000" age_lower="1" age_upper="999">
 mhm	-	-	-	0:07:45.141000	0:07:45.761000
 .	-	-	-	0:07:45.141000	0:07:45.761000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:45.761000" end="0:07:46.409000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:45.761000" end="0:07:46.409000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:45.761000" end="0:07:46.409000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:45.761000" end="0:07:46.409000" age_lower="1" age_upper="999">
 (na)ja	-	-	-	0:07:45.761000	0:07:46.409000
 ,	-	-	-	0:07:45.761000	0:07:46.409000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:46.409000" end="0:07:46.892000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:46.409000" end="0:07:46.892000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:46.409000" end="0:07:46.892000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:46.409000" end="0:07:46.892000" age_lower="1" age_upper="999">
 ja	-	-	-	0:07:46.409000	0:07:46.892000
 ,	-	-	-	0:07:46.409000	0:07:46.892000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:46.892000" end="0:07:47.502000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:46.892000" end="0:07:47.502000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:47.502000" end="0:07:48.400000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:47.502000" end="0:07:48.400000" age_lower="1" age_upper="999">
 das	-	-	-	0:07:47.502000	0:07:48.400000
 glaube	-	-	-	0:07:47.502000	0:07:48.400000
 ich	-	-	-	0:07:47.502000	0:07:48.400000
 .	-	-	-	0:07:47.502000	0:07:48.400000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:48.400000" end="0:07:54.183000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:48.400000" end="0:07:54.183000" age_lower="65" age_upper="999">
 aber	-	-	-	0:07:48.400000	0:07:50.023000
 ich	-	-	-	0:07:48.400000	0:07:50.023000
 muss	-	-	-	0:07:48.400000	0:07:50.023000
@@ -1814,7 +1814,7 @@ noch	-	-	-	0:07:50.023000	0:07:52.055000
 stolz	-	-	-	0:07:50.023000	0:07:52.055000
 .	-	-	-	0:07:50.023000	0:07:52.055000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:53.829000" end="0:07:57.183000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:53.829000" end="0:07:57.183000" age_lower="1" age_upper="999">
 und	-	-	-	0:07:53.829000	0:07:54.183000
 das	-	-	-	0:07:54.183000	0:07:55.099000
 ist	-	-	-	0:07:54.183000	0:07:55.099000
@@ -1830,20 +1830,20 @@ gut	-	-	-	0:07:55.099000	0:07:56.409000
 naja	-	-	-	0:07:56.409000	0:07:57.183000
 ,	-	-	-	0:07:56.409000	0:07:57.183000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:57.183000" end="0:07:58.854000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:57.183000" end="0:07:58.854000" age_lower="65" age_upper="999">
 (na)ja	-	-	-	0:07:57.183000	0:07:57.977000
 ,	-	-	-	0:07:57.183000	0:07:57.977000
 so	-	-	-	0:07:57.977000	0:07:58.854000
 erlebst	-	-	-	0:07:57.977000	0:07:58.854000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:57.977000" end="0:07:58.854000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:57.977000" end="0:07:58.854000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:58.854000" end="0:07:59.977000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:07:58.854000" end="0:07:59.977000" age_lower="65" age_upper="999">
 halt	-	-	-	0:07:58.854000	0:07:59.977000
 allerhand	-	-	-	0:07:58.854000	0:07:59.977000
 .	-	-	-	0:07:58.854000	0:07:59.977000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:59.977000" end="0:08:03.364000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:07:59.977000" end="0:08:03.364000" age_lower="1" age_upper="999">
 <pause duration="0,8s"/>
 naja	-	-	-	0:07:59.977000	0:08:01.509000
 sicher	-	-	-	0:07:59.977000	0:08:01.509000
@@ -1855,28 +1855,28 @@ viel	-	-	-	0:08:01.509000	0:08:02.438000
 <pause duration="0,7s"/>
 viele	-	-	-	0:08:02.438000	0:08:03.364000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:03.364000" end="0:08:04.277000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:03.364000" end="0:08:04.277000" age_lower="65" age_upper="999">
 ja	-	-	-	0:08:03.364000	0:08:04.277000
 .	-	-	-	0:08:03.364000	0:08:04.277000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:03.364000" end="0:08:05.181000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:03.364000" end="0:08:05.181000" age_lower="1" age_upper="999">
 Situationen	-	-	-	0:08:03.364000	0:08:04.277000
 ,	-	-	-	0:08:03.364000	0:08:04.277000
 <pause duration="0,8s"/>
 wo	-	-	-	0:08:04.277000	0:08:05.181000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:05.181000" end="0:08:05.463000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:05.181000" end="0:08:05.463000" age_lower="65" age_upper="999">
 und	-	-	-	0:08:05.181000	0:08:05.463000
 /.	-	-	-	0:08:05.181000	0:08:05.463000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:05.181000" end="0:08:06.319000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:05.181000" end="0:08:06.319000" age_lower="1" age_upper="999">
 man	-	-	-	0:08:05.181000	0:08:05.463000
 gar	-	-	-	0:08:05.181000	0:08:05.463000
 nicht	-	-	-	0:08:05.463000	0:08:06.319000
 glaubt	-	-	-	0:08:05.463000	0:08:06.319000
 .	-	-	-	0:08:05.463000	0:08:06.319000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:06.319000" end="0:08:09.877000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:06.319000" end="0:08:09.877000" age_lower="65" age_upper="999">
 und	-	-	-	0:08:06.319000	0:08:09.162000
 weil	-	-	-	0:08:06.319000	0:08:09.162000
 ich	-	-	-	0:08:06.319000	0:08:09.162000
@@ -1892,10 +1892,10 @@ habe	-	-	-	0:08:09.442000	0:08:09.877000
 ich	-	-	-	0:08:09.442000	0:08:09.877000
 ja	-	-	-	0:08:09.442000	0:08:09.877000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:09.442000" end="0:08:09.877000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:09.442000" end="0:08:09.877000" age_lower="1" age_upper="999">
 (mhm)	-	-	-	0:08:09.442000	0:08:09.877000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:09.877000" end="0:08:12.576000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:09.877000" end="0:08:12.576000" age_lower="65" age_upper="999">
 früher	-	-	-	0:08:09.877000	0:08:12.576000
 alles	-	-	-	0:08:09.877000	0:08:12.576000
 daheim	-	-	-	0:08:09.877000	0:08:12.576000
@@ -1904,11 +1904,11 @@ gemacht	-	-	-	0:08:09.877000	0:08:12.576000
 nicht	-	-	-	0:08:09.877000	0:08:12.576000
 ?	-	-	-	0:08:09.877000	0:08:12.576000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:12.576000" end="0:08:12.903000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:12.576000" end="0:08:12.903000" age_lower="1" age_upper="999">
 ja	-	-	-	0:08:12.576000	0:08:12.903000
 .	-	-	-	0:08:12.576000	0:08:12.903000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:12.903000" end="0:08:16.416000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:12.903000" end="0:08:16.416000" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 dann	-	-	-	0:08:14	0:08:16.416000
 habe	-	-	-	0:08:14	0:08:16.416000
@@ -1918,11 +1918,11 @@ das	-	-	-	0:08:14	0:08:16.416000
 Ackern	-	-	-	0:08:14	0:08:16.416000
 gelernt	-	-	-	0:08:14	0:08:16.416000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:16.416000" end="0:08:16.938000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:08:16.416000" end="0:08:16.938000" age_lower="1" age_upper="999">
 (ja)	-	-	-	0:08:16.416000	0:08:16.938000
 .	-	-	-	0:08:16.416000	0:08:16.938000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:16.938000" end="0:09:02.639000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:08:16.938000" end="0:09:02.639000" age_lower="65" age_upper="999">
 <pause duration="2,1s"/>
 und	-	-	-	0:08:19.008000	0:08:22.457000
 <pause duration="1,0s"/>
@@ -2070,11 +2070,11 @@ auch	-	-	-	0:09:01.819000	0:09:02.639000
 nicht	-	-	-	0:09:01.819000	0:09:02.639000
 ."	-	-	-	0:09:01.819000	0:09:02.639000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:02.639000" end="0:09:03.097000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:02.639000" end="0:09:03.097000" age_lower="1" age_upper="999">
 aha	-	-	-	0:09:02.639000	0:09:03.097000
 .	-	-	-	0:09:02.639000	0:09:03.097000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:03.097000" end="0:09:04.940000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:03.097000" end="0:09:04.940000" age_lower="65" age_upper="999">
 "weil	-	-	-	0:09:03.097000	0:09:04.940000
 die	-	-	-	0:09:03.097000	0:09:04.940000
 gehen	-	-	-	0:09:03.097000	0:09:04.940000
@@ -2083,7 +2083,7 @@ mir	-	-	-	0:09:03.097000	0:09:04.940000
 allein	-	-	-	0:09:03.097000	0:09:04.940000
 ."	-	-	-	0:09:03.097000	0:09:04.940000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:04.940000" end="0:09:07.683000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:04.940000" end="0:09:07.683000" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:09:04.940000	0:09:06.206000
 im	-	-	-	0:09:04.940000	0:09:06.206000
 Hintergrund	-	-	-	0:09:04.940000	0:09:06.206000
@@ -2091,11 +2091,11 @@ von	-	-	-	0:09:04.940000	0:09:06.206000
 dritter	-	-	-	0:09:04.940000	0:09:06.206000
 SONSTIGE	SONSTIGE	-	-	0:09:04.940000	0:09:06.206000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:06.206000" end="0:09:07.683000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:06.206000" end="0:09:07.683000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:07.683000" end="0:09:11.987000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:07.683000" end="0:09:11.987000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:07.683000" end="0:09:26.579000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:07.683000" end="0:09:26.579000" age_lower="65" age_upper="999">
 na	-	-	-	0:09:07.683000	0:09:11.987000
 jetzt	-	-	-	0:09:07.683000	0:09:11.987000
 <pause duration="0,9s"/>
@@ -2141,7 +2141,7 @@ halt	-	-	-	0:09:23.777000	0:09:26.579000
 geackert	-	-	-	0:09:23.777000	0:09:26.579000
 .	-	-	-	0:09:23.777000	0:09:26.579000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:26.579000" end="0:09:28.226000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:26.579000" end="0:09:28.226000" age_lower="1" age_upper="999">
 und	-	-	-	0:09:26.579000	0:09:27.699000
 Sie	-	-	-	0:09:26.579000	0:09:27.699000
 haben	-	-	-	0:09:26.579000	0:09:27.699000
@@ -2150,7 +2150,7 @@ geackert	-	-	-	0:09:26.579000	0:09:27.699000
 ja	-	-	-	0:09:27.699000	0:09:28.226000
 .	-	-	-	0:09:27.699000	0:09:28.226000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:28.226000" end="0:09:37.233000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:28.226000" end="0:09:37.233000" age_lower="65" age_upper="999">
 <pause duration="0,5s"/>
 und	-	-	-	0:09:28.226000	0:09:29.691000
 dann	-	-	-	0:09:28.226000	0:09:29.691000
@@ -2186,11 +2186,11 @@ er	-	-	-	0:09:35.892000	0:09:37.233000
 hingegangen	-	-	-	0:09:35.892000	0:09:37.233000
 ist	-	-	-	0:09:35.892000	0:09:37.233000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:37.233000" end="0:09:37.549000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:37.233000" end="0:09:37.549000" age_lower="1" age_upper="999">
 ja	-	-	-	0:09:37.233000	0:09:37.549000
 .	-	-	-	0:09:37.233000	0:09:37.549000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:37.549000" end="0:09:48.332000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:37.549000" end="0:09:48.332000" age_lower="65" age_upper="999">
 <pause duration="0,7s"/>
 (dann)	-	-	-	0:09:37.549000	0:09:40.540000
 <pause duration="0,7s"/>
@@ -2224,11 +2224,11 @@ er	-	-	-	0:09:46.136000	0:09:48.332000
 gewiesen	-	-	-	0:09:46.136000	0:09:48.332000
 ,	-	-	-	0:09:46.136000	0:09:48.332000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:48.332000" end="0:09:48.845000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:48.332000" end="0:09:48.845000" age_lower="1" age_upper="999">
 aha	-	-	-	0:09:48.332000	0:09:48.845000
 .	-	-	-	0:09:48.332000	0:09:48.845000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:48.845000" end="0:09:53.757000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:48.845000" end="0:09:53.757000" age_lower="65" age_upper="999">
 <pause duration="1,6s"/>
 aber	-	-	-	0:09:50.444000	0:09:51.790000
 geredet	-	-	-	0:09:50.444000	0:09:51.790000
@@ -2243,14 +2243,14 @@ nichts	-	-	-	0:09:51.790000	0:09:53.757000
 geredet	-	-	-	0:09:51.790000	0:09:53.757000
 mit	-	-	-	0:09:51.790000	0:09:53.757000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:53.757000" end="0:09:54.212000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:53.757000" end="0:09:54.212000" age_lower="1" age_upper="999">
 <pause duration="schnauben"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:53.757000" end="0:09:54.212000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:53.757000" end="0:09:54.212000" age_lower="65" age_upper="999">
 mir	-	-	-	0:09:53.757000	0:09:54.212000
 .	-	-	-	0:09:53.757000	0:09:54.212000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:54.212000" end="0:09:56.483000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:54.212000" end="0:09:56.483000" age_lower="1" age_upper="999">
 (na	-	-	-	0:09:54.212000	0:09:56.483000
 servus)	-	-	-	0:09:54.212000	0:09:56.483000
 SONSTIGE	SONSTIGE	-	-	0:09:54.212000	0:09:56.483000
@@ -2259,27 +2259,27 @@ lacht	-	-	-	0:09:54.212000	0:09:56.483000
 im	-	-	-	0:09:54.212000	0:09:56.483000
 SONSTIGE	SONSTIGE	-	-	0:09:54.212000	0:09:56.483000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:54.212000" end="0:09:56.483000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:54.212000" end="0:09:56.483000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:56.483000" end="0:09:57.530000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:56.483000" end="0:09:57.530000" age_lower="1" age_upper="999">
 <pause duration="1,0s"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:56.483000" end="0:09:57.838000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:56.483000" end="0:09:57.838000" age_lower="65" age_upper="999">
 <pause duration="1,0s"/>
 ja	-	-	-	0:09:57.530000	0:09:57.838000
 ,	-	-	-	0:09:57.530000	0:09:57.838000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:57.838000" end="0:09:58.619000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:57.838000" end="0:09:58.619000" age_lower="1" age_upper="999">
 <pause duration="seufzen"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:57.838000" end="0:09:59.795000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:09:57.838000" end="0:09:59.795000" age_lower="65" age_upper="999">
 das	-	-	-	0:09:57.838000	0:09:58.619000
 sind	-	-	-	0:09:57.838000	0:09:58.619000
 so	-	-	-	0:09:57.838000	0:09:58.619000
 Erlebnisse	-	-	-	0:09:58.619000	0:09:59.795000
 .	-	-	-	0:09:58.619000	0:09:59.795000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:59.795000" end="0:10:02.122000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:09:59.795000" end="0:10:02.122000" age_lower="1" age_upper="999">
 das	-	-	-	0:09:59.795000	0:10:01.152000
 merkt	-	-	-	0:09:59.795000	0:10:01.152000
 man	-	-	-	0:09:59.795000	0:10:01.152000
@@ -2292,7 +2292,7 @@ glaube	-	-	-	0:10:01.152000	0:10:02.122000
 ich	-	-	-	0:10:01.152000	0:10:02.122000
 .	-	-	-	0:10:01.152000	0:10:02.122000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:02.122000" end="0:10:06.573000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:02.122000" end="0:10:06.573000" age_lower="65" age_upper="999">
 ja	-	-	-	0:10:02.122000	0:10:02.396000
 ,	-	-	-	0:10:02.122000	0:10:02.396000
 weil	-	-	-	0:10:02.396000	0:10:04.396000
@@ -2309,11 +2309,11 @@ Pflug	-	-	-	0:10:04.396000	0:10:06.573000
 vertrieben	-	-	-	0:10:04.396000	0:10:06.573000
 .	-	-	-	0:10:04.396000	0:10:06.573000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:06.573000" end="0:10:07.531000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:06.573000" end="0:10:07.531000" age_lower="1" age_upper="999">
 aha	-	-	-	0:10:06.573000	0:10:07.531000
 .	-	-	-	0:10:06.573000	0:10:07.531000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:07.531000" end="0:10:09.084000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:07.531000" end="0:10:09.084000" age_lower="65" age_upper="999">
 ja	-	-	-	0:10:07.531000	0:10:09.084000
 ,	-	-	-	0:10:07.531000	0:10:09.084000
 es	-	-	-	0:10:07.531000	0:10:09.084000
@@ -2322,13 +2322,13 @@ ein	-	-	-	0:10:07.531000	0:10:09.084000
 so	-	-	-	0:10:07.531000	0:10:09.084000
 .	-	-	-	0:10:07.531000	0:10:09.084000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:09.084000" end="0:10:10.163000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:09.084000" end="0:10:10.163000" age_lower="1" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:09.084000" end="0:10:10.163000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:09.084000" end="0:10:10.163000" age_lower="65" age_upper="999">
 <pause duration="1,1s"/>
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:10.163000" end="0:10:12.446000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:10.163000" end="0:10:12.446000" age_lower="1" age_upper="999">
 SONSTIGE	SONSTIGE	-	-	0:10:10.163000	0:10:11.394000
 Person	-	-	-	0:10:10.163000	0:10:11.394000
 spricht	-	-	-	0:10:10.163000	0:10:11.394000
@@ -2337,20 +2337,20 @@ im	-	-	-	0:10:10.163000	0:10:11.394000
 SONSTIGE	SONSTIGE	-	-	0:10:10.163000	0:10:11.394000
 (puh)	-	-	-	0:10:11.394000	0:10:12.446000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:11.394000" end="0:10:12.446000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:11.394000" end="0:10:12.446000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:12.446000" end="0:10:14.775000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:12.446000" end="0:10:14.775000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:12.446000" end="0:10:14.775000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:12.446000" end="0:10:14.775000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:14.775000" end="0:10:15.469000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:14.775000" end="0:10:15.469000" age_lower="1" age_upper="999">
 (oh)	-	-	-	0:10:14.775000	0:10:15.469000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:14.775000" end="0:10:15.469000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:14.775000" end="0:10:15.469000" age_lower="65" age_upper="999">
 ja	-	-	-	0:10:14.775000	0:10:15.469000
 .	-	-	-	0:10:14.775000	0:10:15.469000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:15.469000" end="0:10:18.213000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:15.469000" end="0:10:18.213000" age_lower="1" age_upper="999">
 na	-	-	-	0:10:15.469000	0:10:16.775000
 das	-	-	-	0:10:15.469000	0:10:16.775000
 das	-	-	-	0:10:15.469000	0:10:16.775000
@@ -2361,14 +2361,14 @@ sind	-	-	-	0:10:16.775000	0:10:17.744000
 die	-	-	-	0:10:17.744000	0:10:18.213000
 /.	-	-	-	0:10:17.744000	0:10:18.213000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:17.744000" end="0:10:19.696000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:17.744000" end="0:10:19.696000" age_lower="65" age_upper="999">
 d/	-	-	-	0:10:17.744000	0:10:18.213000
 das	-	-	-	0:10:18.213000	0:10:19.696000
 sind	-	-	-	0:10:18.213000	0:10:19.696000
 Erlebnisse	-	-	-	0:10:18.213000	0:10:19.696000
 .	-	-	-	0:10:18.213000	0:10:19.696000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:19.696000" end="0:10:21.285000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:19.696000" end="0:10:21.285000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:19.696000	0:10:21.285000
 ,	-	-	-	0:10:19.696000	0:10:21.285000
 das	-	-	-	0:10:19.696000	0:10:21.285000
@@ -2377,11 +2377,11 @@ man	-	-	-	0:10:19.696000	0:10:21.285000
 nicht	-	-	-	0:10:19.696000	0:10:21.285000
 .	-	-	-	0:10:19.696000	0:10:21.285000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:21.285000" end="0:10:21.861000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:21.285000" end="0:10:21.861000" age_lower="65" age_upper="999">
 nein	-	-	-	0:10:21.285000	0:10:21.861000
 .	-	-	-	0:10:21.285000	0:10:21.861000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:21.861000" end="0:10:30.003000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:21.861000" end="0:10:30.003000" age_lower="1" age_upper="999">
 ja	-	-	-	0:10:21.861000	0:10:22.490000
 .	-	-	-	0:10:21.861000	0:10:22.490000
 <pause duration="0,8s"/>
@@ -2404,11 +2404,11 @@ machen	-	-	-	0:10:29.452000	0:10:30.003000
 wir	-	-	-	0:10:29.452000	0:10:30.003000
 den	-	-	-	0:10:29.452000	0:10:30.003000
 </u>
-<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:29.452000" end="0:10:30.003000" persName="Informant 0700" residence="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" age_lower="65" age_upper="999">
+<u who="spk_815" sex="female" age="Alt (65+)" name="Informant 0700" location="Neckenmarkt, Bezirk Oberpullendorf, Burgenland, 7311, Österreich" lat="47.599776" lon="16.5483316" start="0:10:29.452000" end="0:10:30.003000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:10:29.452000	0:10:30.003000
 .	-	-	-	0:10:29.452000	0:10:30.003000
 </u>
-<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:30.003000" end="0:10:33.452000" persName="Informant EXP21" age_lower="" age_upper="999">
+<u who="spk_817" sex="female" age="UNK" name="Informant EXP21" location="UNK" lat="None" lon="None" start="0:10:30.003000" end="0:10:33.452000" age_lower="1" age_upper="999">
 einmal	-	-	-	0:10:30.003000	0:10:31.266000
 fertig	-	-	-	0:10:30.003000	0:10:31.266000
 .	-	-	-	0:10:30.003000	0:10:31.266000

@@ -1,12 +1,12 @@
 <doc id="transcript_496" name="0354_PASS_alt_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="496.xml" title="Transcript: Transcript_496">
-<u who="spk_457" sex="male" age="Alt (65+)" name="Informant 0354" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:29.753000" end="0:00:32.306000" persName="Informant 0354" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="65" age_upper="999">
+<u who="spk_457" sex="male" age="Alt (65+)" name="Informant 0354" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:29.753000" end="0:00:32.306000" age_lower="65" age_upper="999">
 einst	-	-	LautNach LautVor MG Nas Ons Ons- sPal sPal- sPal-t	0:00:29.753000	0:00:32.306000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:29.753000" end="0:00:32.306000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:00:29.753000" end="0:00:32.306000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:29.753000	0:00:32.306000
 </u>
-<u who="spk_457" sex="male" age="Alt (65+)" name="Informant 0354" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:29.753000" end="0:01:20.086000" persName="Informant 0354" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="65" age_upper="999">
+<u who="spk_457" sex="male" age="Alt (65+)" name="Informant 0354" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:00:29.753000" end="0:01:20.086000" age_lower="65" age_upper="999">
 stritten	-	-	-	0:00:29.753000	0:00:32.306000
 sich	-	-	-	0:00:29.753000	0:00:32.306000
 Nordwind	-	-	-	0:00:29.753000	0:00:32.306000
@@ -131,10 +131,10 @@ der	-	-	-	0:01:16.386000	0:01:20.086000
 Stärkere	-	-	-	0:01:16.386000	0:01:20.086000
 war	-	-	-	0:01:16.386000	0:01:20.086000
 </u>
-<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:20.086000" end="0:01:21.413000" persName="Informant EXP4" age_lower="" age_upper="999">
+<u who="spk_619" sex="female" age="UNK" name="Informant EXP4" location="UNK" lat="None" lon="None" start="0:01:20.086000" end="0:01:21.413000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:01:20.086000	0:01:21.413000
 </u>
-<u who="spk_457" sex="male" age="Alt (65+)" name="Informant 0354" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:20.086000" end="0:01:21.413000" persName="Informant 0354" residence="Passail, Weiz, Steiermark, 8162, Österreich" age_lower="65" age_upper="999">
+<u who="spk_457" sex="male" age="Alt (65+)" name="Informant 0354" location="Passail, Weiz, Steiermark, 8162, Österreich" lat="47.2819214" lon="15.515058" start="0:01:20.086000" end="0:01:21.413000" age_lower="65" age_upper="999">
 XXX	-	-	-	0:01:20.086000	0:01:21.413000
 </u>
 </file>

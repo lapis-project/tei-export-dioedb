@@ -1,12 +1,12 @@
 <doc id="transcript_486" name="0536_GAWE_jungII_m_LESN" erhebung="LesenNordwindSonne_PP03" erhebungsart="Vorlesen">
 <file id="486.xml" title="Transcript: Transcript_486">
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:13.840000" end="0:00:15.320000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:13.840000" end="0:00:15.320000" age_lower="18" age_upper="35">
 Nordwind	-	-	-	0:00:13.840000	0:00:15.320000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:13.840000" end="0:00:15.320000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:13.840000" end="0:00:15.320000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:13.840000	0:00:15.320000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:13.840000" end="0:00:59.980000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:13.840000" end="0:00:59.980000" age_lower="18" age_upper="35">
 und	-	-	-	0:00:13.840000	0:00:15.320000
 Sonne	-	-	-	0:00:13.840000	0:00:15.320000
 .	-	-	-	0:00:13.840000	0:00:15.320000
@@ -137,10 +137,10 @@ der	-	-	-	0:00:57.033000	0:00:59.980000
 Stärkere	-	-	LautNach LautVor MG Ons Ons+ P sPal sPal+ sPal-t	0:00:57.033000	0:00:59.980000
 war	-	-	-	0:00:57.033000	0:00:59.980000
 </u>
-<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:59.980000" end="0:01:01.673000" persName="Informant EXP5" age_lower="" age_upper="999">
+<u who="spk_620" sex="female" age="UNK" name="Informant EXP5" location="UNK" lat="None" lon="None" start="0:00:59.980000" end="0:01:01.673000" age_lower="1" age_upper="999">
 XXX	-	-	-	0:00:59.980000	0:01:01.673000
 </u>
-<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:59.980000" end="0:01:01.673000" persName="Informant 0536" residence="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" age_lower="18" age_upper="35">
+<u who="spk_253" sex="male" age="jung (18-35) +matura" name="Informant 0536" location="Gaweinstal, Bezirk Mistelbach, Niederösterreich, Österreich" lat="48.4779777" lon="16.5895025" start="0:00:59.980000" end="0:01:01.673000" age_lower="18" age_upper="35">
 XXX	-	-	-	0:00:59.980000	0:01:01.673000
 </u>
 </file>

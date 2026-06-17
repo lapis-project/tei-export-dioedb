@@ -1,10 +1,10 @@
 <doc id="transcript_603" name="4063_GERAS_alt_w_AI" erhebung="Interview_PP04" erhebungsart="Interview">
 <file id="603.xml" title="Transcript: Transcript_603">
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:00:00" end="0:11:06.939000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:00:00" end="0:11:06.939000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:00:00" end="0:11:06.939000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:00:00" end="0:11:06.939000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:06.939000" end="0:11:09.519000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:06.939000" end="0:11:09.519000" age_lower="1" age_upper="999">
 wohnen	-	-	-	0:11:06.939000	0:11:09.519000
 Sie	-	-	-	0:11:06.939000	0:11:09.519000
 eigentlich	-	-	-	0:11:06.939000	0:11:09.519000
@@ -13,44 +13,44 @@ hier	-	-	-	0:11:06.939000	0:11:09.519000
 in	-	-	-	0:11:06.939000	0:11:09.519000
 ORT	ORT	-	-	0:11:06.939000	0:11:09.519000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:09.519000" end="0:11:10.892000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:09.519000" end="0:11:10.892000" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:09.519000	0:11:09.952000
 bin	-	-	-	0:11:09.952000	0:11:10.726000
 sehr	-	-	-	0:11:09.952000	0:11:10.726000
 gern	-	-	-	0:11:09.952000	0:11:10.726000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:10.892000" end="0:11:11.646000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:10.892000" end="0:11:11.646000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:10.892000" end="0:11:11.646000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:10.892000" end="0:11:11.646000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:10.892000" end="0:11:11.646000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:10.892000" end="0:11:11.646000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:10.892000" end="0:11:11.646000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:10.892000" end="0:11:11.646000" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:10.892000	0:11:11.646000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" age_lower="1" age_upper="999">
 und	-	-	-	0:11:11.646000	0:11:13.472000
 was	-	-	-	0:11:11.646000	0:11:13.472000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:11.646000" end="0:11:12.146000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:11.646000" end="0:11:12.146000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" age_lower="1" age_upper="999">
 gefällt	-	-	-	0:11:11.646000	0:11:13.472000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:11.646000" end="0:11:12.146000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:11.646000" end="0:11:12.146000" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:11.646000	0:11:12.146000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" age_lower="1" age_upper="999">
 Ihnen	-	-	-	0:11:11.646000	0:11:13.472000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:11.646000" end="0:11:12.146000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:11.646000" end="0:11:12.146000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:11.646000" end="0:11:13.472000" age_lower="1" age_upper="999">
 da	-	-	-	0:11:11.646000	0:11:13.472000
 besonders	-	-	-	0:11:11.646000	0:11:13.472000
 gut	-	-	-	0:11:11.646000	0:11:13.472000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:13.472000" end="0:11:24.019000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:13.472000" end="0:11:24.019000" age_lower="65" age_upper="999">
 also	-	-	-	0:11:13.472000	0:11:17.439000
 es	-	-	-	0:11:13.472000	0:11:17.439000
 ist	-	-	-	0:11:13.472000	0:11:17.439000
@@ -78,9 +78,9 @@ Minuten	-	-	-	0:11:20.086000	0:11:24.019000
 im	-	-	-	0:11:20.086000	0:11:24.019000
 Zentrum	-	-	-	0:11:20.086000	0:11:24.019000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:23.892000" end="0:11:24.599000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:23.892000" end="0:11:24.599000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:24.599000" end="0:11:42.312000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:24.599000" end="0:11:42.312000" age_lower="65" age_upper="999">
 ja	-	-	-	0:11:24.599000	0:11:25.112000
 das	-	-	-	0:11:25.112000	0:11:26.612000
 ist	-	-	-	0:11:25.112000	0:11:26.612000
@@ -139,9 +139,9 @@ waren	-	-	-	0:11:40.072000	0:11:42.312000
 noch	-	-	-	0:11:40.072000	0:11:42.312000
 vernünftig	-	-	-	0:11:40.072000	0:11:42.312000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:42.312000" end="0:11:43.059000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:11:42.312000" end="0:11:43.059000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:42.312000" end="0:12:06.592000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:11:42.312000" end="0:12:06.592000" age_lower="65" age_upper="999">
 sagen	-	-	-	0:11:42.312000	0:11:43.379000
 man	-	-	-	0:11:42.312000	0:11:43.379000
 so	-	-	-	0:11:42.312000	0:11:43.379000
@@ -201,9 +201,9 @@ die	-	-	-	0:12:05.406000	0:12:06.592000
 Sonne	-	-	-	0:12:05.406000	0:12:06.592000
 setzen	-	-	-	0:12:05.406000	0:12:06.592000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:06.592000" end="0:12:07.166000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:06.592000" end="0:12:07.166000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:06.812000" end="0:12:10.692000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:06.812000" end="0:12:10.692000" age_lower="65" age_upper="999">
 das	-	-	-	0:12:06.812000	0:12:08.126000
 ist	-	-	-	0:12:06.812000	0:12:08.126000
 für	-	-	-	0:12:06.812000	0:12:08.126000
@@ -221,20 +221,20 @@ auf	-	-	-	0:12:09.706000	0:12:10.692000
 der	-	-	-	0:12:09.706000	0:12:10.692000
 terrasse,>	-	-	-	0:12:09.706000	0:12:10.692000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:10.059000" end="0:12:11.739000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:10.059000" end="0:12:11.739000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:10.692000" end="0:12:12.119000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:10.692000" end="0:12:12.119000" age_lower="65" age_upper="999">
 lieb	-	-	-	0:12:10.986000	0:12:11.739000
 ich	-	-	-	0:12:10.986000	0:12:11.739000
 halt	-	-	-	0:12:10.986000	0:12:11.739000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:12.119000" end="0:12:13.219000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:12.119000" end="0:12:13.219000" age_lower="1" age_upper="999">
 schön	-	-	-	0:12:12.119000	0:12:13.219000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:12.806000" end="0:12:13.219000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:12.806000" end="0:12:13.219000" age_lower="65" age_upper="999">
 ja	-	-	-	0:12:12.806000	0:12:13.219000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:13.219000" end="0:12:20.459000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:13.219000" end="0:12:20.459000" age_lower="1" age_upper="999">
 also	-	-	-	0:12:15.272000	0:12:17.059000
 würde	-	-	-	0:12:15.272000	0:12:17.059000
 es	-	-	-	0:12:15.272000	0:12:17.059000
@@ -249,7 +249,7 @@ das	-	-	-	0:12:18.172000	0:12:20.459000
 überhaupt	-	-	-	0:12:18.172000	0:12:20.459000
 vorstellen	-	-	-	0:12:18.172000	0:12:20.459000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:20.459000" end="0:12:31.319000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:20.459000" end="0:12:31.319000" age_lower="65" age_upper="999">
 nein	-	-	-	0:12:20.459000	0:12:25.852000
 ja	-	-	-	0:12:20.459000	0:12:25.852000
 kein	-	-	-	0:12:25.852000	0:12:27.612000
@@ -271,9 +271,9 @@ die	-	-	-	0:12:28.932000	0:12:31.319000
 Absicht	-	-	-	0:12:28.932000	0:12:31.319000
 wegzugehen	-	-	-	0:12:28.932000	0:12:31.319000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:31.239000" end="0:12:31.779000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:31.239000" end="0:12:31.779000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:31.319000" end="0:12:49.592000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:31.319000" end="0:12:49.592000" age_lower="65" age_upper="999">
 man	-	-	-	0:12:31.779000	0:12:33.172000
 hat	-	-	-	0:12:31.779000	0:12:33.172000
 jetzt	-	-	-	0:12:31.779000	0:12:33.172000
@@ -325,9 +325,9 @@ wer	-	-	-	0:12:48.319000	0:12:49.592000
 das	-	-	-	0:12:48.319000	0:12:49.592000
 ist	-	-	-	0:12:48.319000	0:12:49.592000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:49.592000" end="0:12:50.126000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:49.592000" end="0:12:50.126000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:49.592000" end="0:12:57.552000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:49.592000" end="0:12:57.552000" age_lower="65" age_upper="999">
 spricht	-	-	-	0:12:49.592000	0:12:51.406000
 sich	-	-	-	0:12:49.592000	0:12:51.406000
 anscheinend	-	-	-	0:12:49.592000	0:12:51.406000
@@ -354,9 +354,9 @@ ich	-	-	-	0:12:56.592000	0:12:57.552000
 gescheit	-	-	-	0:12:56.592000	0:12:57.552000
 kannte	-	-	-	0:12:56.592000	0:12:57.552000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:57.312000" end="0:12:57.812000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:12:57.312000" end="0:12:57.812000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:57.552000" end="0:13:16.566000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:12:57.552000" end="0:13:16.566000" age_lower="65" age_upper="999">
 ja	-	-	-	0:12:57.972000	0:13:00.159000
 man	-	-	-	0:12:57.972000	0:13:00.159000
 kennt	-	-	-	0:12:57.972000	0:13:00.159000
@@ -408,9 +408,9 @@ vom	-	-	-	0:13:14.899000	0:13:16.566000
 Ort	-	-	-	0:13:14.899000	0:13:16.566000
 kennen	-	-	-	0:13:14.899000	0:13:16.566000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:16.406000" end="0:13:16.786000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:16.406000" end="0:13:16.786000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:16.786000" end="0:13:23.352000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:16.786000" end="0:13:23.352000" age_lower="65" age_upper="999">
 obwohl	-	-	-	0:13:16.786000	0:13:18.426000
 ich	-	-	-	0:13:16.786000	0:13:18.426000
 gar	-	-	-	0:13:16.786000	0:13:18.426000
@@ -436,9 +436,9 @@ darf	-	-	-	0:13:21.972000	0:13:23.099000
 man	-	-	-	0:13:21.972000	0:13:23.099000
 immer	-	-	-	0:13:21.972000	0:13:23.099000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:23.352000" end="0:13:25.432000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:23.352000" end="0:13:25.432000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:23.352000" end="0:13:32.859000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:23.352000" end="0:13:32.859000" age_lower="65" age_upper="999">
 und	-	-	-	0:13:25.432000	0:13:26.259000
 wie	-	-	-	0:13:25.432000	0:13:26.259000
 gesagt	-	-	-	0:13:25.432000	0:13:26.259000
@@ -458,22 +458,22 @@ Pfarrer	-	-	-	0:13:29.026000	0:13:32.332000
 alle	-	-	-	0:13:29.026000	0:13:32.332000
 kennen	-	-	-	0:13:29.026000	0:13:32.332000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:32.859000" end="0:13:33.386000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:32.859000" end="0:13:33.386000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:33.212000" end="0:13:34.959000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:33.212000" end="0:13:34.959000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:13:33.212000	0:13:34.712000
 es	-	-	-	0:13:33.212000	0:13:34.712000
 ist	-	-	-	0:13:33.212000	0:13:34.712000
 ganz	-	-	-	0:13:33.212000	0:13:34.712000
 komisch;>	-	-	-	0:13:33.212000	0:13:34.712000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:34.959000" end="0:13:35.612000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:34.959000" end="0:13:35.612000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:13:34.959000	0:13:35.612000
 hm>	-	-	-	0:13:34.959000	0:13:35.612000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:35.612000" end="0:13:36.152000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:35.612000" end="0:13:36.152000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:36.152000" end="0:13:40.399000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:36.152000" end="0:13:40.399000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:13:36.152000	0:13:37.899000
 haben	-	-	-	0:13:36.152000	0:13:37.899000
 vorher	-	-	-	0:13:36.152000	0:13:37.899000
@@ -489,7 +489,7 @@ ihr	-	-	-	0:13:37.899000	0:13:40.399000
 Hobby	-	-	-	0:13:37.899000	0:13:40.399000
 bezeichnen	-	-	-	0:13:37.899000	0:13:40.399000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:40.399000" end="0:13:42.319000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:40.399000" end="0:13:42.319000" age_lower="65" age_upper="999">
 ja	-	-	-	0:13:40.399000	0:13:40.879000
 ist	-	-	-	0:13:40.879000	0:13:41.866000
 schon	-	-	-	0:13:40.879000	0:13:41.866000
@@ -497,9 +497,9 @@ ein	-	-	-	0:13:40.879000	0:13:41.866000
 Hobby	-	-	-	0:13:40.879000	0:13:41.866000
 ja	-	-	-	0:13:41.866000	0:13:42.319000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:42.319000" end="0:13:42.979000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:42.319000" end="0:13:42.979000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:42.566000" end="0:13:45.952000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:42.566000" end="0:13:45.952000" age_lower="65" age_upper="999">
 es	-	-	-	0:13:42.566000	0:13:43.906000
 ist	-	-	-	0:13:42.566000	0:13:43.906000
 natürlich	-	-	-	0:13:42.566000	0:13:43.906000
@@ -515,9 +515,9 @@ man	-	-	-	0:13:44.652000	0:13:45.952000
 das	-	-	-	0:13:44.652000	0:13:45.952000
 machen	-	-	-	0:13:44.652000	0:13:45.952000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:45.679000" end="0:13:46.272000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:45.679000" end="0:13:46.272000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:46.272000" end="0:13:55.399000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:46.272000" end="0:13:55.399000" age_lower="65" age_upper="999">
 aber	-	-	-	0:13:46.272000	0:13:47.879000
 ich	-	-	-	0:13:46.272000	0:13:47.879000
 meine	-	-	-	0:13:46.272000	0:13:47.879000
@@ -552,7 +552,7 @@ geht	-	-	-	0:13:54.006000	0:13:55.399000
 einfach	-	-	-	0:13:54.006000	0:13:55.399000
 nimmer	-	-	-	0:13:54.006000	0:13:55.399000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:55.399000" end="0:13:58.146000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:55.399000" end="0:13:58.146000" age_lower="1" age_upper="999">
 ja	-	-	-	0:13:55.399000	0:13:58.146000
 aber	-	-	-	0:13:55.399000	0:13:58.146000
 das	-	-	-	0:13:55.399000	0:13:58.146000
@@ -561,7 +561,7 @@ ja	-	-	-	0:13:55.399000	0:13:58.146000
 auch	-	-	-	0:13:55.399000	0:13:58.146000
 schwer	-	-	-	0:13:55.399000	0:13:58.146000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:56.299000" end="0:13:58.932000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:56.299000" end="0:13:58.932000" age_lower="65" age_upper="999">
 mein	-	-	-	0:13:56.299000	0:13:58.932000
 Mann	-	-	-	0:13:56.299000	0:13:58.932000
 war	-	-	-	0:13:56.299000	0:13:58.932000
@@ -572,9 +572,9 @@ bügeln	-	-	-	0:13:56.299000	0:13:58.932000
 und	-	-	-	0:13:56.299000	0:13:58.932000
 so	-	-	-	0:13:56.299000	0:13:58.932000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:58.932000" end="0:13:59.979000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:13:58.932000" end="0:13:59.979000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:58.932000" end="0:14:10.146000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:13:58.932000" end="0:14:10.146000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:13:58.932000	0:14:01.486000
 der	-	-	-	0:13:58.932000	0:14:01.486000
 hat	-	-	-	0:13:58.932000	0:14:01.486000
@@ -612,9 +612,9 @@ man	-	-	-	0:14:08.912000	0:14:10.146000
 nicht	-	-	-	0:14:08.912000	0:14:10.146000
 machen	-	-	-	0:14:08.912000	0:14:10.146000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:10.146000" end="0:14:11.179000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:10.146000" end="0:14:11.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:10.926000" end="0:14:18.419000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:10.926000" end="0:14:18.419000" age_lower="65" age_upper="999">
 ah	-	-	-	0:14:10.926000	0:14:12.159000
 und	-	-	-	0:14:10.926000	0:14:12.159000
 die	-	-	-	0:14:10.926000	0:14:12.159000
@@ -636,18 +636,18 @@ mir	-	-	-	0:14:16.112000	0:14:18.419000
 es	-	-	-	0:14:16.112000	0:14:18.419000
 söber	-	-	-	0:14:16.112000	0:14:18.419000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:17.352000" end="0:14:17.739000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:17.352000" end="0:14:17.739000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:14:17.352000	0:14:17.739000
 hm,>	-	-	-	0:14:17.352000	0:14:17.739000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:18.419000" end="0:14:18.706000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:18.419000" end="0:14:18.706000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:18.706000" end="0:14:21.579000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:18.706000" end="0:14:21.579000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:14:18.706000	0:14:21.579000
 ja	-	-	-	0:14:18.706000	0:14:21.579000
 wirklich,>	-	-	-	0:14:18.706000	0:14:21.579000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:19.306000" end="0:14:22.166000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:19.306000" end="0:14:22.166000" age_lower="65" age_upper="999">
 selbst	-	-	-	0:14:19.306000	0:14:20.286000
 ist	-	-	-	0:14:19.306000	0:14:20.286000
 die	-	-	-	0:14:19.306000	0:14:20.286000
@@ -655,7 +655,7 @@ Frau	-	-	-	0:14:19.306000	0:14:20.286000
 nein	-	-	-	0:14:21.579000	0:14:22.166000
 ja	-	-	-	0:14:21.579000	0:14:22.166000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:22.166000" end="0:14:26.612000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:22.166000" end="0:14:26.612000" age_lower="1" age_upper="999">
 und	-	-	-	0:14:22.899000	0:14:24.332000
 ausser	-	-	-	0:14:22.899000	0:14:24.332000
 den	-	-	-	0:14:22.899000	0:14:24.332000
@@ -667,10 +667,10 @@ auch	-	-	-	0:14:24.332000	0:14:26.612000
 an	-	-	-	0:14:24.332000	0:14:26.612000
 tanzclub	-	-	-	0:14:24.332000	0:14:26.612000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:26.439000" end="0:14:26.792000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:26.439000" end="0:14:26.792000" age_lower="65" age_upper="999">
 ja	-	-	-	0:14:26.439000	0:14:26.792000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:26.792000" end="0:14:29.572000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:26.792000" end="0:14:29.572000" age_lower="1" age_upper="999">
 ist	-	-	-	0:14:26.792000	0:14:29.572000
 das	-	-	-	0:14:26.792000	0:14:29.572000
 auch	-	-	-	0:14:26.792000	0:14:29.572000
@@ -679,7 +679,7 @@ Hobby	-	-	-	0:14:26.792000	0:14:29.572000
 dann	-	-	-	0:14:26.792000	0:14:29.572000
 quasi	-	-	-	0:14:26.792000	0:14:29.572000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:29.572000" end="0:14:40.712000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:29.572000" end="0:14:40.712000" age_lower="65" age_upper="999">
 ja	-	-	-	0:14:29.572000	0:14:29.819000
 ist	-	-	-	0:14:29.819000	0:14:31.706000
 ein	-	-	-	0:14:29.819000	0:14:31.706000
@@ -707,9 +707,9 @@ ORT	ORT	-	-	0:14:37.386000	0:14:40.712000
 drinnen	-	-	-	0:14:37.386000	0:14:40.712000
 getanzt	-	-	-	0:14:37.386000	0:14:40.712000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:37.539000" end="0:14:38.199000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:14:37.539000" end="0:14:38.199000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:40.712000" end="0:15:03.399000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:14:40.712000" end="0:15:03.399000" age_lower="65" age_upper="999">
 das	-	-	-	0:14:40.712000	0:14:42.406000
 da	-	-	-	0:14:40.712000	0:14:42.406000
 haben	-	-	-	0:14:40.712000	0:14:42.406000
@@ -779,9 +779,9 @@ das	-	-	-	0:15:01.452000	0:15:03.399000
 ist	-	-	-	0:15:01.452000	0:15:03.399000
 nett	-	-	-	0:15:01.452000	0:15:03.399000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:03.399000" end="0:15:04.332000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:03.399000" end="0:15:04.332000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:04.059000" end="0:15:11.285000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:04.059000" end="0:15:11.285000" age_lower="65" age_upper="999">
 und	-	-	-	0:15:04.059000	0:15:05.452000
 squaredance	-	-	-	0:15:04.059000	0:15:05.452000
 kein	-	-	-	0:15:04.059000	0:15:05.452000
@@ -809,7 +809,7 @@ unbedingt	-	-	-	0:15:08.679000	0:15:11.285000
 einen	-	-	-	0:15:08.679000	0:15:11.285000
 Partner	-	-	-	0:15:08.679000	0:15:11.285000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:08.979000" end="0:15:14.405000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:08.979000" end="0:15:14.405000" age_lower="1" age_upper="999">
 und	-	-	-	0:15:11.285000	0:15:14.405000
 sie	-	-	-	0:15:11.285000	0:15:14.405000
 bringen	-	-	-	0:15:11.285000	0:15:14.405000
@@ -820,7 +820,7 @@ Leuten	-	-	-	0:15:11.285000	0:15:14.405000
 bei	-	-	-	0:15:11.285000	0:15:14.405000
 oder	-	-	-	0:15:11.285000	0:15:14.405000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:14.405000" end="0:15:20.372000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:14.405000" end="0:15:20.372000" age_lower="65" age_upper="999">
 teilweise	-	-	-	0:15:14.405000	0:15:15.385000
 normal	-	-	-	0:15:15.779000	0:15:18.279000
 kommt	-	-	-	0:15:15.779000	0:15:18.279000
@@ -832,17 +832,17 @@ caller,>	-	-	-	0:15:15.779000	0:15:18.279000
 das	-	-	-	0:15:18.279000	0:15:20.372000
 unterrichtet	-	-	-	0:15:18.279000	0:15:20.372000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:18.552000" end="0:15:19.212000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:18.552000" end="0:15:19.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:20.372000" end="0:15:21.845000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:20.372000" end="0:15:21.845000" age_lower="65" age_upper="999">
 auch	-	-	-	0:15:20.372000	0:15:21.845000
 für	-	-	-	0:15:20.372000	0:15:21.845000
 uns	-	-	-	0:15:20.372000	0:15:21.845000
 singt	-	-	-	0:15:20.372000	0:15:21.845000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:21.845000" end="0:15:22.552000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:21.845000" end="0:15:22.552000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:22.552000" end="0:15:26.352000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:22.552000" end="0:15:26.352000" age_lower="65" age_upper="999">
 und	-	-	-	0:15:22.552000	0:15:24.452000
 die	-	-	-	0:15:22.552000	0:15:24.452000
 tanzschui	-	-	-	0:15:22.552000	0:15:24.452000
@@ -858,9 +858,9 @@ der	-	-	-	0:15:24.452000	0:15:26.352000
 quadrill	-	-	-	0:15:24.452000	0:15:26.352000
 ungefähr	-	-	-	0:15:24.452000	0:15:26.352000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:26.352000" end="0:15:27.052000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:26.352000" end="0:15:27.052000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:27.052000" end="0:15:30.619000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:27.052000" end="0:15:30.619000" age_lower="65" age_upper="999">
 nur	-	-	-	0:15:27.052000	0:15:30.619000
 tanzen	-	-	-	0:15:27.052000	0:15:30.619000
 wir	-	-	-	0:15:27.052000	0:15:30.619000
@@ -872,10 +872,10 @@ so	-	-	-	0:15:27.052000	0:15:30.619000
 einer	-	-	-	0:15:27.052000	0:15:30.619000
 Linie	-	-	-	0:15:27.052000	0:15:30.619000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:30.619000" end="0:15:31.692000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:30.619000" end="0:15:31.692000" age_lower="1" age_upper="999">
 ah	-	-	-	0:15:30.619000	0:15:31.692000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:31.092000" end="0:15:33.485000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:31.092000" end="0:15:33.485000" age_lower="65" age_upper="999">
 sondern	-	-	-	0:15:31.092000	0:15:33.485000
 wir	-	-	-	0:15:31.092000	0:15:33.485000
 tanzen	-	-	-	0:15:31.092000	0:15:33.485000
@@ -884,11 +884,11 @@ praktisch	-	-	-	0:15:31.092000	0:15:33.485000
 im	-	-	-	0:15:31.092000	0:15:33.485000
 quadrat	-	-	-	0:15:31.092000	0:15:33.485000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:33.485000" end="0:15:34.725000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:33.485000" end="0:15:34.725000" age_lower="1" age_upper="999">
 ah	-	-	-	0:15:33.485000	0:15:34.725000
 okay	-	-	-	0:15:33.485000	0:15:34.725000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:34.725000" end="0:15:40.352000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:34.725000" end="0:15:40.352000" age_lower="65" age_upper="999">
 aso	-	-	-	0:15:34.725000	0:15:37.719000
 s	-	-	-	0:15:34.725000	0:15:37.719000
 so	-	-	-	0:15:34.725000	0:15:37.719000
@@ -907,18 +907,18 @@ die	-	-	-	0:15:38.605000	0:15:40.352000
 Figuren	-	-	-	0:15:38.605000	0:15:40.352000
 an	-	-	-	0:15:38.605000	0:15:40.352000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:39.252000" end="0:15:39.705000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:39.252000" end="0:15:39.705000" age_lower="1" age_upper="999">
 ja	-	-	-	0:15:39.252000	0:15:39.705000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:40.352000" end="0:15:41.905000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:40.352000" end="0:15:41.905000" age_lower="65" age_upper="999">
 und	-	-	-	0:15:40.352000	0:15:41.905000
 es	-	-	-	0:15:40.352000	0:15:41.905000
 wird	-	-	-	0:15:40.352000	0:15:41.905000
 getanzt	-	-	-	0:15:40.352000	0:15:41.905000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:41.905000" end="0:15:42.459000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:41.905000" end="0:15:42.459000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:42.459000" end="0:15:50.059000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:42.459000" end="0:15:50.059000" age_lower="65" age_upper="999">
 nur	-	-	-	0:15:42.459000	0:15:44.805000
 tanzen	-	-	-	0:15:42.459000	0:15:44.805000
 wir	-	-	-	0:15:42.459000	0:15:44.805000
@@ -940,10 +940,10 @@ beim	-	-	-	0:15:46.219000	0:15:50.059000
 <<kichernd>	-	-	-	0:15:46.219000	0:15:50.059000
 opernball;>	-	-	-	0:15:46.219000	0:15:50.059000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:48.419000" end="0:15:52.059000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:48.419000" end="0:15:52.059000" age_lower="1" age_upper="999">
 wah	-	-	-	0:15:48.419000	0:15:48.959000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:50.059000" end="0:15:54.632000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:50.059000" end="0:15:54.632000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:15:50.059000	0:15:50.645000
 jo;>	-	-	-	0:15:50.059000	0:15:50.645000
 nicht	-	-	-	0:15:50.645000	0:15:51.739000
@@ -960,9 +960,9 @@ tanzen	-	-	-	0:15:52.059000	0:15:54.632000
 das	-	-	-	0:15:52.059000	0:15:54.632000
 zusammen	-	-	-	0:15:52.059000	0:15:54.632000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:52.399000" end="0:15:54.179000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:15:52.399000" end="0:15:54.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:54.632000" end="0:16:00.712000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:15:54.632000" end="0:16:00.712000" age_lower="65" age_upper="999">
 quadrat	-	-	-	0:15:54.632000	0:15:55.385000
 wie	-	-	-	0:15:55.385000	0:16:00.445000
 soll	-	-	-	0:15:55.385000	0:16:00.445000
@@ -977,9 +977,9 @@ einer	-	-	-	0:15:55.385000	0:16:00.445000
 langen	-	-	-	0:15:55.385000	0:16:00.445000
 Linie	-	-	-	0:15:55.385000	0:16:00.445000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:00.712000" end="0:16:01.352000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:00.712000" end="0:16:01.352000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:01.352000" end="0:16:08.179000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:01.352000" end="0:16:08.179000" age_lower="65" age_upper="999">
 aber	-	-	-	0:16:01.352000	0:16:03.739000
 die	-	-	-	0:16:01.352000	0:16:03.739000
 Figuren	-	-	-	0:16:01.352000	0:16:03.739000
@@ -998,22 +998,22 @@ wir	-	-	-	0:16:07.225000	0:16:08.179000
 das	-	-	-	0:16:07.225000	0:16:08.179000
 haben	-	-	-	0:16:07.225000	0:16:08.179000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:08.179000" end="0:16:09.099000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:08.179000" end="0:16:09.099000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:08.872000" end="0:16:10.865000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:08.872000" end="0:16:10.865000" age_lower="65" age_upper="999">
 das	-	-	-	0:16:08.872000	0:16:10.865000
 ist	-	-	-	0:16:08.872000	0:16:10.865000
 amerikanischer	-	-	-	0:16:08.872000	0:16:10.865000
 volkstanz	-	-	-	0:16:08.872000	0:16:10.865000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:10.425000" end="0:16:11.012000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:10.425000" end="0:16:11.012000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:10.425000	0:16:11.012000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:11.012000" end="0:16:11.572000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:11.012000" end="0:16:11.572000" age_lower="65" age_upper="999">
 ist	-	-	-	0:16:11.012000	0:16:11.572000
 das	-	-	-	0:16:11.012000	0:16:11.572000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:11.572000" end="0:16:16.332000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:11.572000" end="0:16:16.332000" age_lower="1" age_upper="999">
 und	-	-	-	0:16:11.572000	0:16:15.025000
 kann	-	-	-	0:16:11.572000	0:16:15.025000
 dann	-	-	-	0:16:11.572000	0:16:15.025000
@@ -1028,7 +1028,7 @@ da	-	-	-	0:16:15.025000	0:16:16.332000
 anfänger	-	-	-	0:16:15.025000	0:16:16.332000
 ist	-	-	-	0:16:15.025000	0:16:16.332000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:16.332000" end="0:16:18.872000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:16.332000" end="0:16:18.872000" age_lower="65" age_upper="999">
 nein	-	-	-	0:16:16.332000	0:16:16.992000
 ja	-	-	-	0:16:16.332000	0:16:16.992000
 mir	-	-	-	0:16:16.992000	0:16:18.472000
@@ -1037,10 +1037,10 @@ anfängerkurs	-	-	-	0:16:16.992000	0:16:18.472000
 haben	-	-	-	0:16:16.992000	0:16:18.472000
 es	-	-	-	0:16:18.472000	0:16:18.872000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:18.872000" end="0:16:19.972000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:18.872000" end="0:16:19.972000" age_lower="1" age_upper="999">
 aso	-	-	-	0:16:18.872000	0:16:19.412000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:19.412000" end="0:16:21.972000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:19.412000" end="0:16:21.972000" age_lower="65" age_upper="999">
 ja	-	-	-	0:16:19.412000	0:16:19.739000
 ist	-	-	-	0:16:19.739000	0:16:21.972000
 das	-	-	-	0:16:19.739000	0:16:21.972000
@@ -1049,10 +1049,10 @@ sind	-	-	-	0:16:19.739000	0:16:21.972000
 verschiedene	-	-	-	0:16:19.739000	0:16:21.972000
 Level	-	-	-	0:16:19.739000	0:16:21.972000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:21.972000" end="0:16:22.499000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:21.972000" end="0:16:22.499000" age_lower="1" age_upper="999">
 okay	-	-	-	0:16:21.972000	0:16:22.499000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:22.499000" end="0:16:26.065000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:22.499000" end="0:16:26.065000" age_lower="65" age_upper="999">
 anfängerkurs	-	-	-	0:16:22.499000	0:16:26.065000
 geht	-	-	-	0:16:22.499000	0:16:26.065000
 bis	-	-	-	0:16:22.499000	0:16:26.065000
@@ -1060,9 +1060,9 @@ ungefähr	-	-	-	0:16:22.499000	0:16:26.065000
 fünfzig	-	-	-	0:16:22.499000	0:16:26.065000
 Figuren	-	-	-	0:16:22.499000	0:16:26.065000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:26.065000" end="0:16:26.892000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:26.065000" end="0:16:26.892000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:26.892000" end="0:16:41.839000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:26.892000" end="0:16:41.839000" age_lower="65" age_upper="999">
 und	-	-	-	0:16:26.892000	0:16:29.492000
 dann	-	-	-	0:16:26.892000	0:16:29.492000
 gibt	-	-	-	0:16:26.892000	0:16:29.492000
@@ -1096,11 +1096,11 @@ gibt	-	-	-	0:16:40.599000	0:16:41.839000
 es	-	-	-	0:16:40.599000	0:16:41.839000
 challenge	-	-	-	0:16:40.599000	0:16:41.839000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:41.025000" end="0:16:41.839000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:41.025000" end="0:16:41.839000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:16:41.025000	0:16:41.839000
 wahnsinn;>	-	-	-	0:16:41.025000	0:16:41.839000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:41.839000" end="0:16:50.105000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:41.839000" end="0:16:50.105000" age_lower="65" age_upper="999">
 zweihundert	-	-	-	0:16:41.839000	0:16:43.519000
 Figuren	-	-	-	0:16:41.839000	0:16:43.519000
 dann	-	-	-	0:16:43.519000	0:16:46.319000
@@ -1121,11 +1121,11 @@ ich	-	-	-	0:16:46.319000	0:16:50.105000
 dreitausend	-	-	-	0:16:46.319000	0:16:50.105000
 Figuren	-	-	-	0:16:46.319000	0:16:50.105000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:46.685000" end="0:16:51.132000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:46.685000" end="0:16:51.132000" age_lower="1" age_upper="999">
 ein	-	-	-	0:16:50.105000	0:16:51.132000
 Wahnsinn	-	-	-	0:16:50.105000	0:16:51.132000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:51.132000" end="0:16:53.419000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:51.132000" end="0:16:53.419000" age_lower="65" age_upper="999">
 aber	-	-	-	0:16:51.132000	0:16:53.419000
 das	-	-	-	0:16:51.132000	0:16:53.419000
 ist	-	-	-	0:16:51.132000	0:16:53.419000
@@ -1135,11 +1135,11 @@ nicht	-	-	-	0:16:51.132000	0:16:53.419000
 <<kichernd>	-	-	-	0:16:51.132000	0:16:53.419000
 tanzen;>	-	-	-	0:16:51.132000	0:16:53.419000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:52.005000" end="0:16:52.519000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:52.005000" end="0:16:52.519000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:16:52.005000	0:16:52.519000
 ha,>	-	-	-	0:16:52.005000	0:16:52.519000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:53.419000" end="0:16:56.325000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:53.419000" end="0:16:56.325000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:16:53.419000	0:16:56.325000
 also	-	-	-	0:16:53.419000	0:16:56.325000
 das	-	-	-	0:16:53.419000	0:16:56.325000
@@ -1154,11 +1154,11 @@ der	-	-	-	0:16:53.419000	0:16:56.325000
 das	-	-	-	0:16:53.419000	0:16:56.325000
 kann	-	-	-	0:16:53.419000	0:16:56.325000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:53.679000" end="0:16:54.985000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:53.679000" end="0:16:54.985000" age_lower="1" age_upper="999">
 <<lachend>	-	-	-	0:16:53.679000	0:16:54.025000
 ja>	-	-	-	0:16:53.679000	0:16:54.025000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:56.325000" end="0:16:59.052000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:56.325000" end="0:16:59.052000" age_lower="65" age_upper="999">
 aber	-	-	-	0:16:56.325000	0:16:57.879000
 die	-	-	-	0:16:56.325000	0:16:57.879000
 Figuren	-	-	-	0:16:56.325000	0:16:57.879000
@@ -1169,13 +1169,13 @@ ja	-	-	-	0:16:57.879000	0:16:59.052000
 alle	-	-	-	0:16:57.879000	0:16:59.052000
 festgelegt	-	-	-	0:16:57.879000	0:16:59.052000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:58.992000" end="0:16:59.405000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:16:58.992000" end="0:16:59.405000" age_lower="1" age_upper="999">
 ja	-	-	-	0:16:58.992000	0:16:59.405000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:59.052000" end="0:17:00.005000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:16:59.052000" end="0:17:00.005000" age_lower="65" age_upper="999">
 aufgeschrieben	-	-	-	0:16:59.052000	0:17:00.005000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:00.005000" end="0:17:01.739000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:00.005000" end="0:17:01.739000" age_lower="1" age_upper="999">
 da	-	-	-	0:17:00.005000	0:17:01.739000
 braucht	-	-	-	0:17:00.005000	0:17:01.739000
 man	-	-	-	0:17:00.005000	0:17:01.739000
@@ -1184,17 +1184,17 @@ wahrscheinlich	-	-	-	0:17:00.005000	0:17:01.739000
 sehr	-	-	-	0:17:00.005000	0:17:01.739000
 lang	-	-	-	0:17:00.005000	0:17:01.739000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:00.272000" end="0:17:00.579000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:00.272000" end="0:17:00.579000" age_lower="65" age_upper="999">
 ja	-	-	-	0:17:00.272000	0:17:00.579000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:01.739000" end="0:17:03.979000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:01.739000" end="0:17:03.979000" age_lower="1" age_upper="999">
 die	-	-	-	0:17:01.739000	0:17:03.185000
 alle	-	-	-	0:17:01.739000	0:17:03.185000
 durchzutanzen	-	-	-	0:17:01.739000	0:17:03.185000
 <<kichernd>	-	-	-	0:17:03.185000	0:17:03.979000
 oder,>	-	-	-	0:17:03.185000	0:17:03.979000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:03.292000" end="0:17:04.559000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:03.292000" end="0:17:04.559000" age_lower="65" age_upper="999">
 ich	-	-	-	0:17:03.292000	0:17:04.559000
 weiß	-	-	-	0:17:03.292000	0:17:04.559000
 nicht	-	-	-	0:17:03.292000	0:17:04.559000
@@ -1203,24 +1203,24 @@ es	-	-	-	0:17:03.292000	0:17:04.559000
 wem	-	-	-	0:17:03.292000	0:17:04.559000
 gibt	-	-	-	0:17:03.292000	0:17:04.559000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:04.559000" end="0:17:05.105000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:04.559000" end="0:17:05.105000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:17:04.559000	0:17:05.105000
 ja,>	-	-	-	0:17:04.559000	0:17:05.105000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:04.744000" end="0:17:06.618000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:04.744000" end="0:17:06.618000" age_lower="65" age_upper="999">
 der	-	-	-	0:17:04.744000	0:17:05.652000
 das	-	-	-	0:17:04.744000	0:17:05.652000
 tanzt	-	-	-	0:17:04.744000	0:17:05.652000
 keine	-	-	-	0:17:05.652000	0:17:06.618000
 Ahnung	-	-	-	0:17:05.652000	0:17:06.618000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:06.618000" end="0:17:07.892000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:06.618000" end="0:17:07.892000" age_lower="1" age_upper="999">
 <<lachend>	-	-	-	0:17:06.618000	0:17:07.892000
 wahnsinn;>	-	-	-	0:17:06.618000	0:17:07.892000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:06.819000" end="0:17:07.505000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:06.819000" end="0:17:07.505000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:07.892000" end="0:17:13.618000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:07.892000" end="0:17:13.618000" age_lower="1" age_upper="999">
 wo	-	-	-	0:17:09.019000	0:17:11.212000
 üben	-	-	-	0:17:09.019000	0:17:11.212000
 sie	-	-	-	0:17:09.019000	0:17:11.212000
@@ -1238,7 +1238,7 @@ hier	-	-	-	0:17:11.212000	0:17:13.092000
 im	-	-	-	0:17:11.212000	0:17:13.092000
 Haus	-	-	-	0:17:11.212000	0:17:13.092000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:13.319000" end="0:17:24.964000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:13.319000" end="0:17:24.964000" age_lower="65" age_upper="999">
 ja	-	-	-	0:17:13.319000	0:17:13.618000
 haben	-	-	-	0:17:13.618000	0:17:18.484000
 also	-	-	-	0:17:13.618000	0:17:18.484000
@@ -1269,9 +1269,9 @@ wieder	-	-	-	0:17:23.232000	0:17:24.964000
 Leute	-	-	-	0:17:23.232000	0:17:24.964000
 kennen	-	-	-	0:17:23.232000	0:17:24.964000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:24.964000" end="0:17:25.499000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:24.964000" end="0:17:25.499000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:24.964000" end="0:17:46.145000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:24.964000" end="0:17:46.145000" age_lower="65" age_upper="999">
 die	-	-	-	0:17:24.964000	0:17:27.079000
 verschieden	-	-	-	0:17:24.964000	0:17:27.079000
 Wirten	-	-	-	0:17:24.964000	0:17:27.079000
@@ -1328,9 +1328,9 @@ uns	-	-	-	0:17:44.739000	0:17:46.145000
 das	-	-	-	0:17:44.739000	0:17:46.145000
 leisten	-	-	-	0:17:44.739000	0:17:46.145000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:46.145000" end="0:17:46.845000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:17:46.145000" end="0:17:46.845000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:46.845000" end="0:18:03.325000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:17:46.845000" end="0:18:03.325000" age_lower="65" age_upper="999">
 und	-	-	-	0:17:46.845000	0:17:49.732000
 zweimal	-	-	-	0:17:46.845000	0:17:49.732000
 in	-	-	-	0:17:46.845000	0:17:49.732000
@@ -1379,18 +1379,18 @@ ein	-	-	-	0:18:01.545000	0:18:03.325000
 das	-	-	-	0:18:01.545000	0:18:03.325000
 anschauen	-	-	-	0:18:01.545000	0:18:03.325000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:03.325000" end="0:18:04.119000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:03.325000" end="0:18:04.119000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:03.325000" end="0:18:05.345000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:03.325000" end="0:18:05.345000" age_lower="65" age_upper="999">
 ist	-	-	-	0:18:03.325000	0:18:04.812000
 dann	-	-	-	0:18:03.325000	0:18:04.812000
 unser	-	-	-	0:18:03.325000	0:18:04.812000
 tanzraum	-	-	-	0:18:03.325000	0:18:04.812000
 unten	-	-	-	0:18:04.812000	0:18:05.345000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:05.345000" end="0:18:05.832000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:05.345000" end="0:18:05.832000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:05.585000" end="0:18:16.652000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:05.585000" end="0:18:16.652000" age_lower="65" age_upper="999">
 da	-	-	-	0:18:05.585000	0:18:06.979000
 machen	-	-	-	0:18:05.585000	0:18:06.979000
 wir	-	-	-	0:18:05.585000	0:18:06.979000
@@ -1419,9 +1419,9 @@ einfach	-	-	-	0:18:14.152000	0:18:16.652000
 gelernt	-	-	-	0:18:14.152000	0:18:16.652000
 werden	-	-	-	0:18:14.152000	0:18:16.652000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:16.325000" end="0:18:17.132000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:16.325000" end="0:18:17.132000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:17.132000" end="0:18:19.992000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:17.132000" end="0:18:19.992000" age_lower="65" age_upper="999">
 das	-	-	-	0:18:17.132000	0:18:18.692000
 machen	-	-	-	0:18:17.132000	0:18:18.692000
 wir	-	-	-	0:18:17.132000	0:18:18.692000
@@ -1434,9 +1434,9 @@ sagen	-	-	-	0:18:18.692000	0:18:19.992000
 unser	-	-	-	0:18:18.692000	0:18:19.992000
 tanzkeller	-	-	-	0:18:18.692000	0:18:19.992000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:19.992000" end="0:18:21.032000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:19.992000" end="0:18:21.032000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:20.552000" end="0:18:22.125000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:20.552000" end="0:18:22.125000" age_lower="65" age_upper="999">
 aber	-	-	-	0:18:20.552000	0:18:22.125000
 es	-	-	-	0:18:20.552000	0:18:22.125000
 ist	-	-	-	0:18:20.552000	0:18:22.125000
@@ -1444,19 +1444,19 @@ ein	-	-	-	0:18:20.552000	0:18:22.125000
 nobler	-	-	-	0:18:20.552000	0:18:22.125000
 tanzkeller	-	-	-	0:18:20.552000	0:18:22.125000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:22.125000" end="0:18:24.299000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:22.125000" end="0:18:24.299000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:18:22.125000	0:18:22.792000
 schön;>	-	-	-	0:18:22.125000	0:18:22.792000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:22.792000" end="0:18:24.785000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:22.792000" end="0:18:24.785000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:18:22.792000	0:18:24.785000
 sehr	-	-	-	0:18:22.792000	0:18:24.785000
 viel	-	-	-	0:18:22.792000	0:18:24.785000
 göd	-	-	-	0:18:22.792000	0:18:24.785000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:24.625000" end="0:18:25.179000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:24.625000" end="0:18:25.179000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:24.785000" end="0:18:28.199000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:24.785000" end="0:18:28.199000" age_lower="65" age_upper="999">
 das	-	-	-	0:18:24.785000	0:18:25.819000
 ist	-	-	-	0:18:24.785000	0:18:25.819000
 mein	-	-	-	0:18:24.785000	0:18:25.819000
@@ -1468,10 +1468,10 @@ Keller	-	-	-	0:18:25.819000	0:18:28.199000
 sowieso	-	-	-	0:18:25.819000	0:18:28.199000
 renovieren	-	-	-	0:18:25.819000	0:18:28.199000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:28.072000" end="0:18:28.539000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:28.072000" end="0:18:28.539000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:28.072000	0:18:28.539000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:28.199000" end="0:18:32.132000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:28.199000" end="0:18:32.132000" age_lower="65" age_upper="999">
 haben	-	-	-	0:18:28.199000	0:18:29.505000
 man	-	-	-	0:18:28.199000	0:18:29.505000
 ihn	-	-	-	0:18:28.199000	0:18:29.505000
@@ -1487,20 +1487,20 @@ tanzen	-	-	-	0:18:29.505000	0:18:32.132000
 benützen	-	-	-	0:18:29.505000	0:18:32.132000
 kann	-	-	-	0:18:29.505000	0:18:32.132000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:31.972000" end="0:18:32.419000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:31.972000" end="0:18:32.419000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:32.132000" end="0:18:32.419000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:32.132000" end="0:18:32.419000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:32.419000" end="0:18:33.385000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:32.419000" end="0:18:33.385000" age_lower="1" age_upper="999">
 ja	-	-	-	0:18:32.419000	0:18:33.385000
 sicher	-	-	-	0:18:32.419000	0:18:33.385000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:33.245000" end="0:18:33.625000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:33.245000" end="0:18:33.625000" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:33.245000	0:18:33.625000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:33.625000" end="0:18:34.465000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:33.625000" end="0:18:34.465000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:33.925000" end="0:18:46.592000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:33.925000" end="0:18:46.592000" age_lower="65" age_upper="999">
 und	-	-	-	0:18:33.925000	0:18:36.012000
 manchmal	-	-	-	0:18:33.925000	0:18:36.012000
 wenn	-	-	-	0:18:33.925000	0:18:36.012000
@@ -1543,20 +1543,20 @@ es	-	-	-	0:18:45.185000	0:18:46.592000
 halt	-	-	-	0:18:45.185000	0:18:46.592000
 da	-	-	-	0:18:45.185000	0:18:46.592000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:46.592000" end="0:18:48.272000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:46.592000" end="0:18:48.272000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:18:46.592000	0:18:48.272000
 wahnsinn;>	-	-	-	0:18:46.592000	0:18:48.272000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:46.592000" end="0:18:49.532000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:46.592000" end="0:18:49.532000" age_lower="65" age_upper="999">
 ja	-	-	-	0:18:48.272000	0:18:48.725000
 es	-	-	-	0:18:48.725000	0:18:49.532000
 ist	-	-	-	0:18:48.725000	0:18:49.532000
 alles	-	-	-	0:18:48.725000	0:18:49.532000
 da	-	-	-	0:18:48.725000	0:18:49.532000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:49.392000" end="0:18:49.939000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:49.392000" end="0:18:49.939000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:49.532000" end="0:18:51.525000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:49.532000" end="0:18:51.525000" age_lower="65" age_upper="999">
 ist	-	-	-	0:18:49.532000	0:18:50.879000
 ein	-	-	-	0:18:49.532000	0:18:50.879000
 Bad	-	-	-	0:18:49.532000	0:18:50.879000
@@ -1565,13 +1565,13 @@ we	-	-	-	0:18:49.532000	0:18:50.879000
 ce	-	-	-	0:18:49.532000	0:18:50.879000
 da	-	-	-	0:18:50.879000	0:18:51.525000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:51.165000" end="0:18:51.765000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:51.165000" end="0:18:51.765000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:51.765000" end="0:18:54.299000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:18:51.765000" end="0:18:54.299000" age_lower="65" age_upper="999">
 und	-	-	-	0:18:51.765000	0:18:53.132000
 Platz	-	-	-	0:18:51.765000	0:18:53.132000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:53.579000" end="0:19:03.472000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:18:53.579000" end="0:19:03.472000" age_lower="1" age_upper="999">
 und	-	-	-	0:18:54.299000	0:18:59.699000
 mit	-	-	-	0:18:54.299000	0:18:59.699000
 wem	-	-	-	0:18:54.299000	0:18:59.699000
@@ -1585,7 +1585,7 @@ meistens	-	-	-	0:18:59.699000	0:19:03.472000
 Ihre	-	-	-	0:18:59.699000	0:19:03.472000
 Freizeit	-	-	-	0:18:59.699000	0:19:03.472000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:03.472000" end="0:19:07.512000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:03.472000" end="0:19:07.512000" age_lower="65" age_upper="999">
 na	-	-	-	0:19:03.472000	0:19:04.979000
 ja	-	-	-	0:19:03.472000	0:19:04.979000
 meiste	-	-	-	0:19:04.979000	0:19:07.512000
@@ -1596,9 +1596,9 @@ mit	-	-	-	0:19:04.979000	0:19:07.512000
 der	-	-	-	0:19:04.979000	0:19:07.512000
 tanzerei	-	-	-	0:19:04.979000	0:19:07.512000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:07.245000" end="0:19:07.979000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:07.245000" end="0:19:07.979000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:07.979000" end="0:19:19.199000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:07.979000" end="0:19:19.199000" age_lower="65" age_upper="999">
 du	-	-	-	0:19:07.979000	0:19:09.845000
 hast	-	-	-	0:19:07.979000	0:19:09.845000
 viel	-	-	-	0:19:07.979000	0:19:09.845000
@@ -1627,9 +1627,9 @@ zu	-	-	-	0:19:17.985000	0:19:19.199000
 uns	-	-	-	0:19:17.985000	0:19:19.199000
 kommen	-	-	-	0:19:17.985000	0:19:19.199000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:18.219000" end="0:19:18.639000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:18.219000" end="0:19:18.639000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:19.199000" end="0:19:37.345000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:19.199000" end="0:19:37.345000" age_lower="65" age_upper="999">
 das	-	-	-	0:19:19.199000	0:19:21.685000
 sind	-	-	-	0:19:19.199000	0:19:21.685000
 meistens	-	-	-	0:19:19.199000	0:19:21.685000
@@ -1680,9 +1680,9 @@ Quartier	-	-	-	0:19:36.025000	0:19:37.345000
 Sie	-	-	-	0:19:36.025000	0:19:37.345000
 ein	-	-	-	0:19:36.025000	0:19:37.345000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:37.172000" end="0:19:37.872000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:37.172000" end="0:19:37.872000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:37.872000" end="0:19:56.159000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:37.872000" end="0:19:56.159000" age_lower="65" age_upper="999">
 ich	-	-	-	0:19:37.872000	0:19:40.005000
 mache	-	-	-	0:19:37.872000	0:19:40.005000
 mit	-	-	-	0:19:37.872000	0:19:40.005000
@@ -1723,9 +1723,9 @@ das	-	-	-	0:19:54.779000	0:19:56.159000
 voll	-	-	-	0:19:54.779000	0:19:56.159000
 zahlen	-	-	-	0:19:54.779000	0:19:56.159000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:54.912000" end="0:19:55.505000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:54.912000" end="0:19:55.505000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:56.159000" end="0:19:57.719000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:56.159000" end="0:19:57.719000" age_lower="65" age_upper="999">
 kann	-	-	-	0:19:56.159000	0:19:57.719000
 man	-	-	-	0:19:56.159000	0:19:57.719000
 ja	-	-	-	0:19:56.159000	0:19:57.719000
@@ -1733,11 +1733,11 @@ fost	-	-	-	0:19:56.159000	0:19:57.719000
 nicht	-	-	-	0:19:56.159000	0:19:57.719000
 machen	-	-	-	0:19:56.159000	0:19:57.719000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:57.105000" end="0:19:58.192000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:19:57.105000" end="0:19:58.192000" age_lower="1" age_upper="999">
 ja	-	-	-	0:19:57.105000	0:19:58.192000
 sicher	-	-	-	0:19:57.105000	0:19:58.192000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:58.192000" end="0:20:05.359000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:19:58.192000" end="0:20:05.359000" age_lower="65" age_upper="999">
 also	-	-	-	0:19:58.192000	0:19:59.665000
 es	-	-	-	0:19:58.192000	0:19:59.665000
 ist	-	-	-	0:19:58.192000	0:19:59.665000
@@ -1756,9 +1756,9 @@ in	-	-	-	0:20:03.625000	0:20:05.359000
 der	-	-	-	0:20:03.625000	0:20:05.359000
 Woche	-	-	-	0:20:03.625000	0:20:05.359000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:05.359000" end="0:20:06.065000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:05.359000" end="0:20:06.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:06.065000" end="0:20:28.765000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:06.065000" end="0:20:28.765000" age_lower="65" age_upper="999">
 wobei	-	-	-	0:20:06.065000	0:20:07.565000
 jedes	-	-	-	0:20:06.065000	0:20:07.565000
 Mal	-	-	-	0:20:06.065000	0:20:07.565000
@@ -1813,9 +1813,9 @@ aiso>	-	-	-	0:20:25.019000	0:20:28.765000
 es	-	-	-	0:20:25.019000	0:20:28.765000
 fragt	-	-	-	0:20:25.019000	0:20:28.765000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:25.479000" end="0:20:27.159000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:25.479000" end="0:20:27.159000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:28.765000" end="0:20:45.679000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:28.765000" end="0:20:45.679000" age_lower="65" age_upper="999">
 und	-	-	-	0:20:28.765000	0:20:30.619000
 ich	-	-	-	0:20:28.765000	0:20:30.619000
 ich	-	-	-	0:20:28.765000	0:20:30.619000
@@ -1874,9 +1874,9 @@ es	-	-	-	0:20:44.605000	0:20:45.679000
 den	-	-	-	0:20:44.605000	0:20:45.679000
 haben	-	-	-	0:20:44.605000	0:20:45.679000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:45.679000" end="0:20:46.305000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:45.679000" end="0:20:46.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:46.305000" end="0:20:55.939000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:46.305000" end="0:20:55.939000" age_lower="65" age_upper="999">
 und	-	-	-	0:20:46.305000	0:20:48.112000
 wir	-	-	-	0:20:46.305000	0:20:48.112000
 haben	-	-	-	0:20:46.305000	0:20:48.112000
@@ -1903,18 +1903,18 @@ und	-	-	-	0:20:53.939000	0:20:55.939000
 quer	-	-	-	0:20:53.939000	0:20:55.939000
 tanzen	-	-	-	0:20:53.939000	0:20:55.939000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:55.939000" end="0:20:56.465000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:55.939000" end="0:20:56.465000" age_lower="1" age_upper="999">
 aha	-	-	-	0:20:55.939000	0:20:56.465000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:55.939000" end="0:20:57.232000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:55.939000" end="0:20:57.232000" age_lower="65" age_upper="999">
 gehen	-	-	-	0:20:55.939000	0:20:56.572000
 dahin	-	-	-	0:20:55.939000	0:20:56.572000
 gehen	-	-	-	0:20:56.572000	0:20:57.232000
 durthin	-	-	-	0:20:56.572000	0:20:57.232000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:57.085000" end="0:20:57.645000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:20:57.085000" end="0:20:57.645000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:57.232000" end="0:21:03.212000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:20:57.232000" end="0:21:03.212000" age_lower="65" age_upper="999">
 kommen	-	-	-	0:20:57.232000	0:20:58.245000
 zu	-	-	-	0:20:57.232000	0:20:58.245000
 uns	-	-	-	0:20:57.232000	0:20:58.245000
@@ -1930,9 +1930,9 @@ ein	-	-	-	0:20:58.245000	0:21:03.212000
 bisschen	-	-	-	0:20:58.245000	0:21:03.212000
 mit	-	-	-	0:20:58.245000	0:21:03.212000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:03.212000" end="0:21:03.745000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:03.212000" end="0:21:03.745000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:03.745000" end="0:21:06.925000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:03.745000" end="0:21:06.925000" age_lower="65" age_upper="999">
 ja	-	-	-	0:21:03.745000	0:21:03.939000
 dem	-	-	-	0:21:03.939000	0:21:05.112000
 dass	-	-	-	0:21:03.939000	0:21:05.112000
@@ -1947,9 +1947,9 @@ aussprache>	-	-	-	0:21:05.359000	0:21:06.925000
 caller>	-	-	-	0:21:05.359000	0:21:06.925000
 da	-	-	-	0:21:05.359000	0:21:06.925000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:06.925000" end="0:21:07.565000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:06.925000" end="0:21:07.565000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:06.925000" end="0:21:13.245000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:06.925000" end="0:21:13.245000" age_lower="65" age_upper="999">
 was	-	-	-	0:21:06.925000	0:21:07.565000
 ist	-	-	-	0:21:06.925000	0:21:07.565000
 Leid	-	-	-	0:21:07.565000	0:21:10.345000
@@ -1972,22 +1972,22 @@ wieder	-	-	-	0:21:10.345000	0:21:13.245000
 an	-	-	-	0:21:10.345000	0:21:13.245000
 kanader	-	-	-	0:21:10.345000	0:21:13.245000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:10.932000" end="0:21:11.752000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:10.932000" end="0:21:11.752000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:13.245000" end="0:21:16.332000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:13.245000" end="0:21:16.332000" age_lower="65" age_upper="999">
 Australier	-	-	-	0:21:13.245000	0:21:14.072000
 mit	-	-	-	0:21:14.072000	0:21:16.332000
 einen	-	-	-	0:21:14.072000	0:21:16.332000
 Schweden	-	-	-	0:21:14.072000	0:21:16.332000
 tanzen	-	-	-	0:21:14.072000	0:21:16.332000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:16.332000" end="0:21:18.865000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:16.332000" end="0:21:18.865000" age_lower="1" age_upper="999">
 das	-	-	-	0:21:16.332000	0:21:18.865000
 klingt	-	-	-	0:21:16.332000	0:21:18.865000
 ja	-	-	-	0:21:16.332000	0:21:18.865000
 spannend	-	-	-	0:21:16.332000	0:21:18.865000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:17.212000" end="0:21:42.985000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:17.212000" end="0:21:42.985000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:21:17.212000	0:21:17.965000
 manche>	-	-	-	0:21:17.212000	0:21:17.965000
 <<kichernd	-	-	-	0:21:17.212000	0:21:17.965000
@@ -2064,10 +2064,10 @@ drei	-	-	-	0:21:40.345000	0:21:42.985000
 Wochen	-	-	-	0:21:40.345000	0:21:42.985000
 do;>	-	-	-	0:21:40.345000	0:21:42.985000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:41.292000" end="0:21:41.792000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:41.292000" end="0:21:41.792000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:21:41.292000	0:21:41.792000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:42.985000" end="0:21:45.632000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:42.985000" end="0:21:45.632000" age_lower="65" age_upper="999">
 den	-	-	-	0:21:42.985000	0:21:44.139000
 ich	-	-	-	0:21:42.985000	0:21:44.139000
 auch	-	-	-	0:21:42.985000	0:21:44.139000
@@ -2079,7 +2079,7 @@ ist	-	-	-	0:21:44.352000	0:21:45.632000
 dann	-	-	-	0:21:44.352000	0:21:45.632000
 anstrengend	-	-	-	0:21:44.352000	0:21:45.632000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:45.632000" end="0:21:47.712000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:45.632000" end="0:21:47.712000" age_lower="1" age_upper="999">
 ja	-	-	-	0:21:45.632000	0:21:46.999000
 das	-	-	-	0:21:45.632000	0:21:46.999000
 glaube	-	-	-	0:21:45.632000	0:21:46.999000
@@ -2088,14 +2088,14 @@ gern	-	-	-	0:21:45.632000	0:21:46.999000
 <<lachend>	-	-	-	0:21:46.999000	0:21:47.712000
 wahnsinn;>	-	-	-	0:21:46.999000	0:21:47.712000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:47.445000" end="0:21:49.245000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:47.445000" end="0:21:49.245000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:21:47.445000	0:21:49.245000
 aber	-	-	-	0:21:47.445000	0:21:49.245000
 guat;>	-	-	-	0:21:47.445000	0:21:49.245000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:47.712000" end="0:21:48.559000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:47.712000" end="0:21:48.559000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:49.245000" end="0:21:56.172000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:49.245000" end="0:21:56.172000" age_lower="65" age_upper="999">
 hat	-	-	-	0:21:49.245000	0:21:51.265000
 es	-	-	-	0:21:49.245000	0:21:51.265000
 schon	-	-	-	0:21:49.245000	0:21:51.265000
@@ -2115,9 +2115,9 @@ kommt	-	-	-	0:21:52.239000	0:21:53.392000
 drei	-	-	-	0:21:52.239000	0:21:53.392000
 Wochen	-	-	-	0:21:52.239000	0:21:53.392000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:54.045000" end="0:21:56.172000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:54.045000" end="0:21:56.172000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:56.172000" end="0:21:57.792000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:21:56.172000" end="0:21:57.792000" age_lower="65" age_upper="999">
 das	-	-	-	0:21:56.172000	0:21:57.539000
 sind	-	-	-	0:21:56.172000	0:21:57.539000
 jetzt	-	-	-	0:21:56.172000	0:21:57.539000
@@ -2125,7 +2125,7 @@ halt	-	-	-	0:21:56.172000	0:21:57.539000
 meine	-	-	-	0:21:56.172000	0:21:57.539000
 Hobbys	-	-	-	0:21:56.172000	0:21:57.539000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:57.792000" end="0:22:04.305000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:21:57.792000" end="0:22:04.305000" age_lower="1" age_upper="999">
 und	-	-	-	0:21:57.792000	0:22:01.259000
 die	-	-	-	0:21:57.792000	0:22:01.259000
 mitgelieder	-	-	-	0:21:57.792000	0:22:01.259000
@@ -2135,10 +2135,10 @@ die	-	-	-	0:22:01.259000	0:22:04.305000
 vereinsmitglieder	-	-	-	0:22:01.259000	0:22:04.305000
 sozusagen	-	-	-	0:22:01.259000	0:22:04.305000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:03.639000" end="0:22:03.945000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:03.639000" end="0:22:03.945000" age_lower="65" age_upper="999">
 ja	-	-	-	0:22:03.639000	0:22:03.945000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:04.305000" end="0:22:06.952000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:04.305000" end="0:22:06.952000" age_lower="1" age_upper="999">
 ah	-	-	-	0:22:04.305000	0:22:06.952000
 die	-	-	-	0:22:04.305000	0:22:06.952000
 kommen	-	-	-	0:22:04.305000	0:22:06.952000
@@ -2148,7 +2148,7 @@ der	-	-	-	0:22:04.305000	0:22:06.952000
 Gegend	-	-	-	0:22:04.305000	0:22:06.952000
 oder	-	-	-	0:22:04.305000	0:22:06.952000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:06.952000" end="0:22:21.458000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:06.952000" end="0:22:21.458000" age_lower="65" age_upper="999">
 ja	-	-	-	0:22:06.952000	0:22:08.679000
 kommen	-	-	-	0:22:08.679000	0:22:13.405000
 also	-	-	-	0:22:08.679000	0:22:13.405000
@@ -2181,9 +2181,9 @@ zu	-	-	-	0:22:19.992000	0:22:21.458000
 ORT	ORT	-	-	0:22:19.992000	0:22:21.458000
 gehören	-	-	-	0:22:19.992000	0:22:21.458000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:21.025000" end="0:22:21.792000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:21.025000" end="0:22:21.792000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:21.792000" end="0:22:36.945000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:21.792000" end="0:22:36.945000" age_lower="65" age_upper="999">
 dann	-	-	-	0:22:21.792000	0:22:25.825000
 geht	-	-	-	0:22:21.792000	0:22:25.825000
 das	-	-	-	0:22:21.792000	0:22:25.825000
@@ -2210,9 +2210,9 @@ die	-	-	-	0:22:35.825000	0:22:36.945000
 Leute	-	-	-	0:22:35.825000	0:22:36.945000
 her	-	-	-	0:22:35.825000	0:22:36.945000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:35.992000" end="0:22:36.525000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:35.992000" end="0:22:36.525000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:36.945000" end="0:22:46.058000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:36.945000" end="0:22:46.058000" age_lower="65" age_upper="999">
 die	-	-	-	0:22:36.945000	0:22:38.132000
 haben	-	-	-	0:22:36.945000	0:22:38.132000
 alle	-	-	-	0:22:36.945000	0:22:38.132000
@@ -2241,9 +2241,9 @@ Parkplatz	-	-	-	0:22:43.285000	0:22:45.398000
 da	-	-	-	0:22:43.285000	0:22:45.398000
 haben	-	-	-	0:22:43.285000	0:22:45.398000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:45.738000" end="0:22:46.432000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:22:45.738000" end="0:22:46.432000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:46.432000" end="0:23:02.765000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:22:46.432000" end="0:23:02.765000" age_lower="65" age_upper="999">
 also	-	-	-	0:22:46.432000	0:22:48.978000
 niemand	-	-	-	0:22:46.432000	0:22:48.978000
 mag	-	-	-	0:22:46.432000	0:22:48.978000
@@ -2297,18 +2297,18 @@ Park	-	-	-	0:23:00.578000	0:23:02.765000
 and	-	-	-	0:23:00.578000	0:23:02.765000
 ride	-	-	-	0:23:00.578000	0:23:02.765000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:01.905000" end="0:23:02.325000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:01.905000" end="0:23:02.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:02.765000" end="0:23:04.325000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:02.765000" end="0:23:04.325000" age_lower="65" age_upper="999">
 gehe	-	-	-	0:23:02.765000	0:23:04.325000
 fahre	-	-	-	0:23:02.765000	0:23:04.325000
 mit	-	-	-	0:23:02.765000	0:23:04.325000
 der	-	-	-	0:23:02.765000	0:23:04.325000
 Ubahn	-	-	-	0:23:02.765000	0:23:04.325000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:03.598000" end="0:23:04.012000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:03.598000" end="0:23:04.012000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:04.325000" end="0:23:14.132000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:04.325000" end="0:23:14.132000" age_lower="65" age_upper="999">
 oder	-	-	-	0:23:04.325000	0:23:06.545000
 man	-	-	-	0:23:04.325000	0:23:06.545000
 kann	-	-	-	0:23:04.325000	0:23:06.545000
@@ -2345,23 +2345,23 @@ ich	-	-	-	0:23:12.838000	0:23:14.132000
 schon	-	-	-	0:23:12.838000	0:23:14.132000
 sehr	-	-	-	0:23:12.838000	0:23:14.132000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:14.132000" end="0:23:15.525000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:14.132000" end="0:23:15.525000" age_lower="1" age_upper="999">
 m	-	-	-	0:23:14.132000	0:23:14.785000
 ja	-	-	-	0:23:14.132000	0:23:14.785000
 das	-	-	-	0:23:14.785000	0:23:15.525000
 stimmt	-	-	-	0:23:14.785000	0:23:15.525000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:15.145000" end="0:23:15.525000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:15.145000" end="0:23:15.525000" age_lower="65" age_upper="999">
 ja	-	-	-	0:23:15.145000	0:23:15.525000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:15.525000" end="0:23:17.492000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:15.525000" end="0:23:17.492000" age_lower="1" age_upper="999">
 ist	-	-	-	0:23:15.525000	0:23:17.492000
 wirklich	-	-	-	0:23:15.525000	0:23:17.492000
 ein	-	-	-	0:23:15.525000	0:23:17.492000
 superanbindung	-	-	-	0:23:15.525000	0:23:17.492000
 hier	-	-	-	0:23:15.525000	0:23:17.492000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:16.472000" end="0:23:32.058000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:16.472000" end="0:23:32.058000" age_lower="65" age_upper="999">
 aso	-	-	-	0:23:16.472000	0:23:19.565000
 aso	-	-	-	0:23:16.472000	0:23:19.565000
 ich	-	-	-	0:23:16.472000	0:23:19.565000
@@ -2402,12 +2402,12 @@ ein	-	-	-	0:23:30.592000	0:23:32.058000
 dreiviertel	-	-	-	0:23:30.592000	0:23:32.058000
 Stunde	-	-	-	0:23:30.592000	0:23:32.058000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:31.865000" end="0:23:33.085000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:31.865000" end="0:23:33.085000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:32.412000" end="0:23:33.852000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:32.412000" end="0:23:33.852000" age_lower="65" age_upper="999">
 ja	-	-	-	0:23:32.412000	0:23:32.805000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:33.852000" end="0:23:40.305000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:33.852000" end="0:23:40.305000" age_lower="1" age_upper="999">
 und	-	-	-	0:23:33.852000	0:23:39.138000
 gibt	-	-	-	0:23:33.852000	0:23:39.138000
 es	-	-	-	0:23:33.852000	0:23:39.138000
@@ -2422,7 +2422,7 @@ dass	-	-	-	0:23:39.138000	0:23:40.305000
 Sie	-	-	-	0:23:39.138000	0:23:40.305000
 ärgert	-	-	-	0:23:39.138000	0:23:40.305000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:40.305000" end="0:23:51.578000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:40.305000" end="0:23:51.578000" age_lower="65" age_upper="999">
 ja	-	-	-	0:23:40.305000	0:23:46.898000
 eigentlich	-	-	-	0:23:46.898000	0:23:48.352000
 nicht	-	-	-	0:23:46.898000	0:23:48.352000
@@ -2435,9 +2435,9 @@ was	-	-	-	0:23:48.352000	0:23:51.578000
 man	-	-	-	0:23:48.352000	0:23:51.578000
 braucht	-	-	-	0:23:48.352000	0:23:51.578000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:51.578000" end="0:23:52.472000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:23:51.578000" end="0:23:52.472000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:52.118000" end="0:24:10.385000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:23:52.118000" end="0:24:10.385000" age_lower="65" age_upper="999">
 es	-	-	-	0:23:52.118000	0:23:53.818000
 ist	-	-	-	0:23:52.118000	0:23:53.818000
 gut	-	-	-	0:23:52.118000	0:23:53.818000
@@ -2470,9 +2470,9 @@ irgendwie	-	-	-	0:24:08.152000	0:24:10.385000
 so	-	-	-	0:24:08.152000	0:24:10.385000
 Zugereiste	-	-	-	0:24:08.152000	0:24:10.385000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:10.385000" end="0:24:10.992000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:10.385000" end="0:24:10.992000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:10.385000" end="0:24:30.105000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:10.385000" end="0:24:30.105000" age_lower="65" age_upper="999">
 also	-	-	-	0:24:10.785000	0:24:14.538000
 da	-	-	-	0:24:10.785000	0:24:14.538000
 in	-	-	-	0:24:10.785000	0:24:14.538000
@@ -2515,9 +2515,9 @@ den	-	-	-	0:24:28.212000	0:24:30.105000
 Kindern	-	-	-	0:24:28.212000	0:24:30.105000
 weitergeben	-	-	-	0:24:28.212000	0:24:30.105000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:30.105000" end="0:24:30.672000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:30.105000" end="0:24:30.672000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:30.478000" end="0:24:44.785000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:30.478000" end="0:24:44.785000" age_lower="65" age_upper="999">
 weil	-	-	-	0:24:30.478000	0:24:31.885000
 früher	-	-	-	0:24:30.478000	0:24:31.885000
 waren	-	-	-	0:24:30.478000	0:24:31.885000
@@ -2559,9 +2559,9 @@ das	-	-	-	0:24:42.005000	0:24:44.785000
 wieder	-	-	-	0:24:42.005000	0:24:44.785000
 zurückgegem	-	-	-	0:24:42.005000	0:24:44.785000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:44.052000" end="0:24:44.785000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:44.052000" end="0:24:44.785000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:44.785000" end="0:24:55.845000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:24:44.785000" end="0:24:55.845000" age_lower="65" age_upper="999">
 und	-	-	-	0:24:44.785000	0:24:47.405000
 jetzt	-	-	-	0:24:44.785000	0:24:47.405000
 sind	-	-	-	0:24:44.785000	0:24:47.405000
@@ -2594,7 +2594,7 @@ euch	-	-	-	0:24:54.578000	0:24:55.845000
 lauter	-	-	-	0:24:54.578000	0:24:55.845000
 ORT	ORT	-	-	0:24:54.578000	0:24:55.845000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:55.845000" end="0:25:01.698000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:24:55.845000" end="0:25:01.698000" age_lower="1" age_upper="999">
 und	-	-	-	0:24:56.532000	0:25:01.698000
 was	-	-	-	0:24:56.532000	0:25:01.698000
 würden	-	-	-	0:24:56.532000	0:25:01.698000
@@ -2607,15 +2607,15 @@ von	-	-	-	0:24:56.532000	0:25:01.698000
 hier	-	-	-	0:24:56.532000	0:25:01.698000
 wären	-	-	-	0:24:56.532000	0:25:01.698000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:01.698000" end="0:25:03.332000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:01.698000" end="0:25:03.332000" age_lower="65" age_upper="999">
 wenn	-	-	-	0:25:01.698000	0:25:03.332000
 ich	-	-	-	0:25:01.698000	0:25:03.332000
 Bürgermeister	-	-	-	0:25:01.698000	0:25:03.332000
 wäre	-	-	-	0:25:01.698000	0:25:03.332000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:02.218000" end="0:25:04.885000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:02.218000" end="0:25:04.885000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:04.598000" end="0:25:23.852000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:04.598000" end="0:25:23.852000" age_lower="65" age_upper="999">
 nein	-	-	-	0:25:05.718000	0:25:08.352000
 ja	-	-	-	0:25:05.718000	0:25:08.352000
 die	-	-	-	0:25:08.352000	0:25:09.985000
@@ -2664,9 +2664,9 @@ kein	-	-	-	0:25:22.118000	0:25:23.852000
 Zeit	-	-	-	0:25:22.118000	0:25:23.852000
 habe	-	-	-	0:25:22.118000	0:25:23.852000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:23.852000" end="0:25:26.212000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:23.852000" end="0:25:26.212000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:25.085000" end="0:25:43.425000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:25.085000" end="0:25:43.425000" age_lower="65" age_upper="999">
 ja	-	-	-	0:25:26.212000	0:25:27.998000
 es	-	-	-	0:25:27.998000	0:25:31.098000
 ist	-	-	-	0:25:27.998000	0:25:31.098000
@@ -2713,9 +2713,9 @@ als	-	-	-	0:25:39.898000	0:25:43.425000
 ein	-	-	-	0:25:39.898000	0:25:43.425000
 junger	-	-	-	0:25:39.898000	0:25:43.425000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:43.425000" end="0:25:44.178000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:43.425000" end="0:25:44.178000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:44.178000" end="0:25:57.198000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:44.178000" end="0:25:57.198000" age_lower="65" age_upper="999">
 aber	-	-	-	0:25:44.178000	0:25:46.178000
 da	-	-	-	0:25:44.178000	0:25:46.178000
 habe	-	-	-	0:25:44.178000	0:25:46.178000
@@ -2763,9 +2763,9 @@ alt	-	-	-	0:25:54.385000	0:25:57.005000
 für	-	-	-	0:25:54.385000	0:25:57.005000
 das	-	-	-	0:25:54.385000	0:25:57.005000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:57.198000" end="0:25:57.432000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:25:57.198000" end="0:25:57.432000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:57.432000" end="0:26:05.745000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:25:57.432000" end="0:26:05.745000" age_lower="65" age_upper="999">
 nein	-	-	-	0:25:57.432000	0:25:58.678000
 ja	-	-	-	0:25:57.432000	0:25:58.678000
 <<lachend>	-	-	-	0:25:58.678000	0:26:00.918000
@@ -2792,9 +2792,9 @@ Leute	-	-	-	0:26:01.872000	0:26:04.932000
 ich	-	-	-	0:26:04.932000	0:26:05.745000
 sagen	-	-	-	0:26:04.932000	0:26:05.745000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:05.745000" end="0:26:09.018000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:05.745000" end="0:26:09.018000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:09.018000" end="0:26:15.392000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:09.018000" end="0:26:15.392000" age_lower="65" age_upper="999">
 na	-	-	-	0:26:09.018000	0:26:09.525000
 gut	-	-	-	0:26:09.018000	0:26:09.525000
 Problem	-	-	-	0:26:10.745000	0:26:13.225000
@@ -2812,9 +2812,9 @@ buchhaltungsseite	-	-	-	0:26:13.225000	0:26:15.125000
 mehr	-	-	-	0:26:13.225000	0:26:15.125000
 nein	-	-	-	0:26:15.125000	0:26:15.392000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:15.392000" end="0:26:16.138000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:15.392000" end="0:26:16.138000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:16.138000" end="0:26:21.692000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:16.138000" end="0:26:21.692000" age_lower="65" age_upper="999">
 was	-	-	-	0:26:17.285000	0:26:20.132000
 sie	-	-	-	0:26:17.285000	0:26:20.132000
 da	-	-	-	0:26:17.285000	0:26:20.132000
@@ -2831,7 +2831,7 @@ sehe	-	-	-	0:26:20.132000	0:26:21.525000
 ich	-	-	-	0:26:20.132000	0:26:21.525000
 danem	-	-	-	0:26:20.132000	0:26:21.525000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:21.692000" end="0:26:23.912000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:21.692000" end="0:26:23.912000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:26:21.692000	0:26:23.912000
 Sie	-	-	-	0:26:21.692000	0:26:23.912000
 dann	-	-	-	0:26:21.692000	0:26:23.912000
@@ -2840,7 +2840,7 @@ schatzmeisterin	-	-	-	0:26:21.692000	0:26:23.912000
 von	-	-	-	0:26:21.692000	0:26:23.912000
 ORT	ORT	-	-	0:26:21.692000	0:26:23.912000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:23.005000" end="0:26:25.978000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:23.005000" end="0:26:25.978000" age_lower="65" age_upper="999">
 ja	-	-	-	0:26:23.005000	0:26:23.312000
 su>	-	-	-	0:26:23.312000	0:26:25.978000
 nein	-	-	-	0:26:23.312000	0:26:25.978000
@@ -2850,9 +2850,9 @@ sehe	-	-	-	0:26:23.312000	0:26:25.978000
 ja	-	-	-	0:26:23.312000	0:26:25.978000
 e	-	-	-	0:26:23.312000	0:26:25.978000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:23.912000" end="0:26:24.872000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:23.912000" end="0:26:24.872000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:25.978000" end="0:26:30.978000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:25.978000" end="0:26:30.978000" age_lower="65" age_upper="999">
 ist	-	-	-	0:26:25.978000	0:26:27.425000
 auch	-	-	-	0:26:25.978000	0:26:27.425000
 so	-	-	-	0:26:25.978000	0:26:27.425000
@@ -2869,9 +2869,9 @@ kassierin	-	-	-	0:26:28.185000	0:26:30.978000
 und	-	-	-	0:26:28.185000	0:26:30.978000
 so	-	-	-	0:26:28.185000	0:26:30.978000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:29.192000" end="0:26:29.892000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:29.192000" end="0:26:29.892000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:30.978000" end="0:26:55.572000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:30.978000" end="0:26:55.572000" age_lower="65" age_upper="999">
 ich	-	-	-	0:26:30.978000	0:26:32.878000
 versch	-	-	-	0:26:30.978000	0:26:32.878000
 ich	-	-	-	0:26:30.978000	0:26:32.878000
@@ -2933,9 +2933,9 @@ das	-	-	-	0:26:52.718000	0:26:55.572000
 nicht	-	-	-	0:26:52.718000	0:26:55.572000
 kaufmännisch	-	-	-	0:26:52.718000	0:26:55.572000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:55.572000" end="0:26:56.325000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:26:55.572000" end="0:26:56.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:56.325000" end="0:27:06.832000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:26:56.325000" end="0:27:06.832000" age_lower="65" age_upper="999">
 man	-	-	-	0:26:56.325000	0:27:00.472000
 muss	-	-	-	0:26:56.325000	0:27:00.472000
 es	-	-	-	0:26:56.325000	0:27:00.472000
@@ -2965,9 +2965,9 @@ den	-	-	-	0:27:03.778000	0:27:06.832000
 boch	-	-	-	0:27:03.778000	0:27:06.832000
 runter	-	-	-	0:27:03.778000	0:27:06.832000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:06.832000" end="0:27:07.845000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:06.832000" end="0:27:07.845000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:07.845000" end="0:27:17.798000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:07.845000" end="0:27:17.798000" age_lower="65" age_upper="999">
 aber	-	-	-	0:27:07.845000	0:27:08.825000
 bei	-	-	-	0:27:07.845000	0:27:08.825000
 uns	-	-	-	0:27:07.845000	0:27:08.825000
@@ -2988,11 +2988,11 @@ ich	-	-	-	0:27:16.478000	0:27:17.798000
 nicht	-	-	-	0:27:16.478000	0:27:17.798000
 sagen	-	-	-	0:27:16.478000	0:27:17.798000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:16.972000" end="0:27:17.305000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:16.972000" end="0:27:17.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:17.798000" end="0:27:18.025000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:17.798000" end="0:27:18.025000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:18.025000" end="0:27:24.398000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:18.025000" end="0:27:24.398000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:27:18.025000	0:27:18.958000
 kay;>	-	-	-	0:27:18.025000	0:27:18.958000
 ah	-	-	-	0:27:18.958000	0:27:22.172000
@@ -3012,10 +3012,10 @@ bisschen	-	-	-	0:27:22.172000	0:27:24.398000
 Sprache	-	-	-	0:27:22.172000	0:27:24.398000
 sprechen	-	-	-	0:27:22.172000	0:27:24.398000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:24.398000" end="0:27:24.792000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:24.398000" end="0:27:24.792000" age_lower="65" age_upper="999">
 ja	-	-	-	0:27:24.398000	0:27:24.792000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:24.792000" end="0:27:30.565000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:24.792000" end="0:27:30.565000" age_lower="1" age_upper="999">
 und	-	-	-	0:27:24.792000	0:27:27.672000
 da	-	-	-	0:27:24.792000	0:27:27.672000
 hätte	-	-	-	0:27:24.792000	0:27:27.672000
@@ -3032,7 +3032,7 @@ dem	-	-	-	0:27:27.672000	0:27:30.565000
 Begriff	-	-	-	0:27:27.672000	0:27:30.565000
 Dialekt	-	-	-	0:27:27.672000	0:27:30.565000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:30.565000" end="0:27:37.538000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:30.565000" end="0:27:37.538000" age_lower="65" age_upper="999">
 nein	-	-	-	0:27:30.565000	0:27:37.112000
 ja	-	-	-	0:27:30.565000	0:27:37.112000
 das	-	-	-	0:27:30.565000	0:27:37.112000
@@ -3040,9 +3040,9 @@ ist	-	-	-	0:27:30.565000	0:27:37.112000
 die	-	-	-	0:27:30.565000	0:27:37.112000
 Umgangssprache	-	-	-	0:27:30.565000	0:27:37.112000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:37.538000" end="0:27:37.965000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:37.538000" end="0:27:37.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:37.965000" end="0:27:54.292000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:37.965000" end="0:27:54.292000" age_lower="65" age_upper="999">
 also	-	-	-	0:27:37.965000	0:27:41.225000
 ich	-	-	-	0:27:37.965000	0:27:41.225000
 persönlich	-	-	-	0:27:37.965000	0:27:41.225000
@@ -3082,9 +3082,9 @@ Hochdeutsch	-	-	-	0:27:52.832000	0:27:54.292000
 zu	-	-	-	0:27:52.832000	0:27:54.292000
 reden,>	-	-	-	0:27:52.832000	0:27:54.292000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:54.292000" end="0:27:54.798000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:27:54.292000" end="0:27:54.798000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:54.438000" end="0:28:14.705000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:27:54.438000" end="0:28:14.705000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:27:54.438000	0:27:55.925000
 damit	-	-	-	0:27:54.438000	0:27:55.925000
 sie	-	-	-	0:27:54.438000	0:27:55.925000
@@ -3131,9 +3131,9 @@ Frau	-	-	-	0:28:11.412000	0:28:13.618000
 geht	-	-	-	0:28:13.618000	0:28:14.405000
 es	-	-	-	0:28:13.618000	0:28:14.405000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:14.705000" end="0:28:15.292000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:14.705000" end="0:28:15.292000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:15.145000" end="0:28:40.965000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:15.145000" end="0:28:40.965000" age_lower="65" age_upper="999">
 das	-	-	-	0:28:15.145000	0:28:16.752000
 ist	-	-	-	0:28:15.145000	0:28:16.752000
 das	-	-	-	0:28:15.145000	0:28:16.752000
@@ -3202,9 +3202,9 @@ etwas	-	-	-	0:28:37.938000	0:28:40.965000
 anders	-	-	-	0:28:37.938000	0:28:40.965000
 ist	-	-	-	0:28:37.938000	0:28:40.965000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:40.965000" end="0:28:41.692000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:40.965000" end="0:28:41.692000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:41.692000" end="0:28:49.498000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:41.692000" end="0:28:49.498000" age_lower="65" age_upper="999">
 aber	-	-	-	0:28:41.692000	0:28:44.845000
 es	-	-	-	0:28:41.692000	0:28:44.845000
 ist	-	-	-	0:28:41.692000	0:28:44.845000
@@ -3230,9 +3230,9 @@ wie	-	-	-	0:28:48.358000	0:28:49.498000
 ein	-	-	-	0:28:48.358000	0:28:49.498000
 Grenze	-	-	-	0:28:48.358000	0:28:49.498000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:49.498000" end="0:28:50.238000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:28:49.498000" end="0:28:50.238000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:50.238000" end="0:29:44.838000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:28:50.238000" end="0:29:44.838000" age_lower="65" age_upper="999">
 der	-	-	-	0:28:50.238000	0:28:51.792000
 <<lachend>	-	-	-	0:28:50.238000	0:28:51.792000
 ORT	ORT	-	-	0:28:50.238000	0:28:51.792000
@@ -3362,9 +3362,9 @@ guten	-	-	-	0:29:43.425000	0:29:44.838000
 Tag	-	-	-	0:29:43.425000	0:29:44.838000
 Fräulein	-	-	-	0:29:43.425000	0:29:44.838000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:44.838000" end="0:29:45.305000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:44.838000" end="0:29:45.305000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:44.838000" end="0:29:57.891000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:44.838000" end="0:29:57.891000" age_lower="65" age_upper="999">
 schauen	-	-	-	0:29:45.705000	0:29:47.231000
 Sie	-	-	-	0:29:45.705000	0:29:47.231000
 was	-	-	-	0:29:45.705000	0:29:47.231000
@@ -3391,9 +3391,9 @@ dort	-	-	-	0:29:51.231000	0:29:56.091000
 im	-	-	-	0:29:56.091000	0:29:57.891000
 ORT	ORT	-	-	0:29:56.091000	0:29:57.891000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:57.651000" end="0:29:58.225000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:29:57.651000" end="0:29:58.225000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:58.225000" end="0:30:00.871000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:29:58.225000" end="0:30:00.871000" age_lower="65" age_upper="999">
 aber	-	-	-	0:29:58.225000	0:30:00.871000
 das	-	-	-	0:29:58.225000	0:30:00.871000
 da	-	-	-	0:29:58.225000	0:30:00.871000
@@ -3404,9 +3404,9 @@ auch	-	-	-	0:29:58.225000	0:30:00.871000
 eigener	-	-	-	0:29:58.225000	0:30:00.871000
 Sound	-	-	-	0:29:58.225000	0:30:00.871000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:00.191000" end="0:30:00.658000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:00.191000" end="0:30:00.658000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:00.871000" end="0:30:03.298000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:00.871000" end="0:30:03.298000" age_lower="65" age_upper="999">
 ich	-	-	-	0:30:00.871000	0:30:03.298000
 habe	-	-	-	0:30:00.871000	0:30:03.298000
 auch	-	-	-	0:30:00.871000	0:30:03.298000
@@ -3415,9 +3415,9 @@ vom	-	-	-	0:30:00.871000	0:30:03.298000
 ORT	ORT	-	-	0:30:00.871000	0:30:03.298000
 ORT	ORT	-	-	0:30:00.871000	0:30:03.298000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:01.258000" end="0:30:01.738000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:01.258000" end="0:30:01.738000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:03.298000" end="0:30:15.791000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:03.298000" end="0:30:15.791000" age_lower="65" age_upper="999">
 das	-	-	-	0:30:03.298000	0:30:05.011000
 ist	-	-	-	0:30:03.298000	0:30:05.011000
 kein	-	-	-	0:30:03.298000	0:30:05.011000
@@ -3448,10 +3448,10 @@ anderer	-	-	-	0:30:14.678000	0:30:15.605000
 Sound	-	-	-	0:30:14.678000	0:30:15.605000
 ja	-	-	-	0:30:15.605000	0:30:15.791000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:15.791000" end="0:30:17.811000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:15.791000" end="0:30:17.811000" age_lower="1" age_upper="999">
 Wahnsinn	-	-	-	0:30:15.791000	0:30:16.451000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:16.451000" end="0:30:21.245000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:16.451000" end="0:30:21.245000" age_lower="65" age_upper="999">
 ja	-	-	-	0:30:16.451000	0:30:17.425000
 <<lachend>	-	-	-	0:30:17.425000	0:30:19.351000
 da	-	-	-	0:30:17.425000	0:30:19.351000
@@ -3467,9 +3467,9 @@ ich	-	-	-	0:30:19.351000	0:30:21.245000
 dann	-	-	-	0:30:19.351000	0:30:21.245000
 schon	-	-	-	0:30:19.351000	0:30:21.245000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:21.245000" end="0:30:21.838000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:21.245000" end="0:30:21.838000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:21.245000" end="0:30:24.385000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:21.245000" end="0:30:24.385000" age_lower="65" age_upper="999">
 obowohl	-	-	-	0:30:21.838000	0:30:24.385000
 ich	-	-	-	0:30:21.838000	0:30:24.385000
 nicht	-	-	-	0:30:21.838000	0:30:24.385000
@@ -3480,10 +3480,10 @@ schriftsproch	-	-	-	0:30:21.838000	0:30:24.385000
 was	-	-	-	0:30:21.838000	0:30:24.385000
 halt	-	-	-	0:30:21.838000	0:30:24.385000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:22.198000" end="0:30:22.645000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:22.198000" end="0:30:22.645000" age_lower="1" age_upper="999">
 und	-	-	-	0:30:22.198000	0:30:22.645000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:24.385000" end="0:30:26.618000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:24.385000" end="0:30:26.618000" age_lower="65" age_upper="999">
 aber	-	-	-	0:30:24.385000	0:30:26.618000
 wenn	-	-	-	0:30:24.385000	0:30:26.618000
 die	-	-	-	0:30:24.385000	0:30:26.618000
@@ -3491,16 +3491,16 @@ im	-	-	-	0:30:24.385000	0:30:26.618000
 ORT	ORT	-	-	0:30:24.385000	0:30:26.618000
 ORT	ORT	-	-	0:30:24.385000	0:30:26.618000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:24.525000" end="0:30:24.898000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:24.525000" end="0:30:24.898000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:26.618000" end="0:30:28.465000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:26.618000" end="0:30:28.465000" age_lower="65" age_upper="999">
 das	-	-	-	0:30:26.618000	0:30:28.465000
 das	-	-	-	0:30:26.618000	0:30:28.465000
 ist	-	-	-	0:30:26.618000	0:30:28.465000
 schon	-	-	-	0:30:26.618000	0:30:28.465000
 arg	-	-	-	0:30:26.618000	0:30:28.465000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:28.465000" end="0:30:32.918000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:28.465000" end="0:30:32.918000" age_lower="1" age_upper="999">
 und	-	-	-	0:30:28.465000	0:30:31.245000
 wo	-	-	-	0:30:28.465000	0:30:31.245000
 was	-	-	-	0:30:28.465000	0:30:31.245000
@@ -3514,7 +3514,7 @@ da	-	-	-	0:30:31.245000	0:30:32.918000
 irgendwas	-	-	-	0:30:31.245000	0:30:32.918000
 ein	-	-	-	0:30:31.245000	0:30:32.918000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:32.271000" end="0:30:37.091000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:32.271000" end="0:30:37.091000" age_lower="65" age_upper="999">
 nein	-	-	-	0:30:32.271000	0:30:32.778000
 ja	-	-	-	0:30:32.271000	0:30:32.778000
 kann	-	-	-	0:30:32.778000	0:30:34.285000
@@ -3530,9 +3530,9 @@ Sprache	-	-	-	0:30:34.285000	0:30:37.091000
 ist	-	-	-	0:30:34.285000	0:30:37.091000
 anders	-	-	-	0:30:34.285000	0:30:37.091000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:36.305000" end="0:30:36.965000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:36.305000" end="0:30:36.965000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:37.091000" end="0:30:41.098000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:37.091000" end="0:30:41.098000" age_lower="65" age_upper="999">
 es	-	-	-	0:30:37.091000	0:30:41.098000
 ist	-	-	-	0:30:37.091000	0:30:41.098000
 vielleicht	-	-	-	0:30:37.091000	0:30:41.098000
@@ -3541,9 +3541,9 @@ bisschen	-	-	-	0:30:37.091000	0:30:41.098000
 mehr	-	-	-	0:30:37.091000	0:30:41.098000
 Arbeitermilieu	-	-	-	0:30:37.091000	0:30:41.098000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:41.098000" end="0:30:41.925000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:30:41.098000" end="0:30:41.925000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:41.925000" end="0:31:04.258000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:30:41.925000" end="0:31:04.258000" age_lower="65" age_upper="999">
 und	-	-	-	0:30:41.925000	0:30:45.851000
 f	-	-	-	0:30:41.925000	0:30:45.851000
 da	-	-	-	0:30:41.925000	0:30:45.851000
@@ -3601,11 +3601,11 @@ gonz>	-	-	-	0:31:01.418000	0:31:04.258000
 was	-	-	-	0:31:01.418000	0:31:04.258000
 anderes	-	-	-	0:31:01.418000	0:31:04.258000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:02.611000" end="0:31:03.438000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:02.611000" end="0:31:03.438000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:04.258000" end="0:31:04.525000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:04.258000" end="0:31:04.525000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:04.391000" end="0:31:07.598000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:04.391000" end="0:31:07.598000" age_lower="1" age_upper="999">
 aso	-	-	-	0:31:04.991000	0:31:06.278000
 auch	-	-	-	0:31:04.991000	0:31:06.278000
 so	-	-	-	0:31:04.991000	0:31:06.278000
@@ -3616,20 +3616,20 @@ wir	-	-	-	0:31:06.278000	0:31:07.598000
 miteinander	-	-	-	0:31:06.278000	0:31:07.598000
 redet	-	-	-	0:31:06.278000	0:31:07.598000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:06.371000" end="0:31:07.871000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:06.371000" end="0:31:07.871000" age_lower="65" age_upper="999">
 ja	-	-	-	0:31:06.371000	0:31:06.698000
 auch	-	-	-	0:31:06.905000	0:31:07.871000
 von	-	-	-	0:31:06.905000	0:31:07.871000
 der	-	-	-	0:31:06.905000	0:31:07.871000
 Art	-	-	-	0:31:06.905000	0:31:07.871000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:07.731000" end="0:31:08.151000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:07.731000" end="0:31:08.151000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:07.871000" end="0:31:08.151000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:07.871000" end="0:31:08.151000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:08.151000" end="0:31:09.238000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:08.151000" end="0:31:09.238000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:09.238000" end="0:31:26.451000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:09.238000" end="0:31:26.451000" age_lower="65" age_upper="999">
 vielleicht	-	-	-	0:31:09.238000	0:31:12.078000
 es	-	-	-	0:31:09.238000	0:31:12.078000
 mischt	-	-	-	0:31:09.238000	0:31:12.078000
@@ -3675,9 +3675,9 @@ sich	-	-	-	0:31:24.471000	0:31:26.451000
 immer	-	-	-	0:31:24.471000	0:31:26.451000
 mehr	-	-	-	0:31:24.471000	0:31:26.451000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:26.451000" end="0:31:27.278000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:26.451000" end="0:31:27.278000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:27.278000" end="0:31:46.658000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:27.278000" end="0:31:46.658000" age_lower="65" age_upper="999">
 we	-	-	-	0:31:27.278000	0:31:29.078000
 man	-	-	-	0:31:27.278000	0:31:29.078000
 anfach	-	-	-	0:31:27.278000	0:31:29.078000
@@ -3721,9 +3721,9 @@ ist	-	-	-	0:31:43.918000	0:31:46.658000
 das	-	-	-	0:31:43.918000	0:31:46.658000
 ORT	ORT	-	-	0:31:43.918000	0:31:46.658000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:46.658000" end="0:31:47.778000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:46.658000" end="0:31:47.778000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:46.658000" end="0:31:58.051000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:46.658000" end="0:31:58.051000" age_lower="65" age_upper="999">
 nein	-	-	-	0:31:46.658000	0:31:46.958000
 also	-	-	-	0:31:47.778000	0:31:50.605000
 diese	-	-	-	0:31:47.778000	0:31:50.605000
@@ -3754,9 +3754,9 @@ Bezirk	-	-	-	0:31:56.791000	0:31:58.051000
 wer	-	-	-	0:31:56.791000	0:31:58.051000
 ist	-	-	-	0:31:56.791000	0:31:58.051000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:58.051000" end="0:31:58.758000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:31:58.051000" end="0:31:58.758000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:58.758000" end="0:32:04.585000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:31:58.758000" end="0:32:04.585000" age_lower="65" age_upper="999">
 ja	-	-	-	0:31:58.758000	0:31:59.425000
 oder	-	-	-	0:31:59.425000	0:32:01.505000
 ORT	ORT	-	-	0:31:59.425000	0:32:01.505000
@@ -3770,9 +3770,9 @@ Blöde	-	-	-	0:32:02.031000	0:32:04.585000
 L	-	-	-	0:32:02.031000	0:32:04.585000
 sagen	-	-	-	0:32:02.031000	0:32:04.585000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:04.585000" end="0:32:05.125000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:04.585000" end="0:32:05.125000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:04.585000" end="0:32:08.351000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:04.585000" end="0:32:08.351000" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:04.585000	0:32:05.125000
 das	-	-	-	0:32:05.125000	0:32:06.991000
 können	-	-	-	0:32:05.125000	0:32:06.991000
@@ -3780,9 +3780,9 @@ nur	-	-	-	0:32:05.125000	0:32:06.991000
 die	-	-	-	0:32:05.125000	0:32:06.991000
 ORT	ORT	-	-	0:32:05.125000	0:32:06.991000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:07.338000" end="0:32:08.351000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:07.338000" end="0:32:08.351000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:08.351000" end="0:32:16.638000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:08.351000" end="0:32:16.638000" age_lower="65" age_upper="999">
 aber	-	-	-	0:32:08.351000	0:32:11.191000
 et	-	-	-	0:32:08.351000	0:32:11.191000
 äh	-	-	-	0:32:08.351000	0:32:11.191000
@@ -3808,12 +3808,12 @@ das	-	-	-	0:32:14.091000	0:32:16.638000
 ganz	-	-	-	0:32:14.091000	0:32:16.638000
 arg	-	-	-	0:32:14.091000	0:32:16.638000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:15.645000" end="0:32:17.251000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:15.645000" end="0:32:17.251000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:17.251000" end="0:32:18.185000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:17.251000" end="0:32:18.185000" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:17.251000	0:32:17.578000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:18.185000" end="0:32:21.598000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:18.185000" end="0:32:21.598000" age_lower="1" age_upper="999">
 und	-	-	-	0:32:18.185000	0:32:21.598000
 wie	-	-	-	0:32:18.185000	0:32:21.598000
 würden	-	-	-	0:32:18.185000	0:32:21.598000
@@ -3825,7 +3825,7 @@ von	-	-	-	0:32:18.185000	0:32:21.598000
 Dialekt	-	-	-	0:32:18.185000	0:32:21.598000
 nennen	-	-	-	0:32:18.185000	0:32:21.598000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:21.598000" end="0:32:25.405000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:21.598000" end="0:32:25.405000" age_lower="65" age_upper="999">
 nein	-	-	-	0:32:21.598000	0:32:25.405000
 ja	-	-	-	0:32:21.598000	0:32:25.405000
 wer	-	-	-	0:32:21.598000	0:32:25.405000
@@ -3835,26 +3835,26 @@ bei	-	-	-	0:32:21.598000	0:32:25.405000
 uns	-	-	-	0:32:21.598000	0:32:25.405000
 Hochdeutsch	-	-	-	0:32:21.598000	0:32:25.405000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:25.405000" end="0:32:28.758000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:25.405000" end="0:32:28.758000" age_lower="1" age_upper="999">
 also	-	-	-	0:32:25.405000	0:32:28.758000
 Hochdeutsch	-	-	-	0:32:25.405000	0:32:28.758000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:27.885000" end="0:32:28.478000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:27.885000" end="0:32:28.478000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:28.758000" end="0:32:29.765000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:28.758000" end="0:32:29.765000" age_lower="1" age_upper="999">
 Sie	-	-	-	0:32:28.758000	0:32:29.765000
 es	-	-	-	0:32:28.758000	0:32:29.765000
 nennen	-	-	-	0:32:28.758000	0:32:29.765000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:29.225000" end="0:32:30.605000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:29.225000" end="0:32:30.605000" age_lower="65" age_upper="999">
 ich	-	-	-	0:32:29.225000	0:32:30.605000
 würde	-	-	-	0:32:29.225000	0:32:30.605000
 Hochdeutsch	-	-	-	0:32:29.225000	0:32:30.605000
 sagen	-	-	-	0:32:29.225000	0:32:30.605000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:30.278000" end="0:32:30.605000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:30.278000" end="0:32:30.605000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:30.605000" end="0:32:35.318000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:30.605000" end="0:32:35.318000" age_lower="65" age_upper="999">
 ich	-	-	-	0:32:31.098000	0:32:31.938000
 weiss	-	-	-	0:32:31.098000	0:32:31.938000
 nicht	-	-	-	0:32:31.098000	0:32:31.938000
@@ -3865,7 +3865,7 @@ man	-	-	-	0:32:31.938000	0:32:34.205000
 sagt	-	-	-	0:32:31.938000	0:32:34.205000
 dazu	-	-	-	0:32:31.938000	0:32:34.205000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:34.451000" end="0:32:40.291000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:34.451000" end="0:32:40.291000" age_lower="1" age_upper="999">
 und	-	-	-	0:32:34.451000	0:32:36.998000
 also	-	-	-	0:32:34.451000	0:32:36.998000
 weil	-	-	-	0:32:34.451000	0:32:36.998000
@@ -3883,21 +3883,21 @@ uns	-	-	-	0:32:36.998000	0:32:38.565000
 Sie	-	-	-	0:32:38.565000	0:32:40.291000
 Dialekt	-	-	-	0:32:38.565000	0:32:40.291000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:40.165000" end="0:32:41.145000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:40.165000" end="0:32:41.145000" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:40.165000	0:32:41.145000
 natürlich	-	-	-	0:32:40.165000	0:32:41.145000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:40.538000" end="0:32:41.885000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:40.538000" end="0:32:41.885000" age_lower="1" age_upper="999">
 und	-	-	-	0:32:40.538000	0:32:41.885000
 Hochdeutsch	-	-	-	0:32:40.538000	0:32:41.885000
 auch	-	-	-	0:32:40.538000	0:32:41.885000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:41.885000" end="0:32:42.765000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:41.885000" end="0:32:42.765000" age_lower="65" age_upper="999">
 wenn	-	-	-	0:32:41.885000	0:32:42.765000
 ich	-	-	-	0:32:41.885000	0:32:42.765000
 muss	-	-	-	0:32:41.885000	0:32:42.765000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:42.765000" end="0:32:46.211000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:42.765000" end="0:32:46.211000" age_lower="1" age_upper="999">
 wenn	-	-	-	0:32:42.765000	0:32:43.451000
 Sie	-	-	-	0:32:42.765000	0:32:43.451000
 müssen	-	-	-	0:32:42.765000	0:32:43.451000
@@ -3906,7 +3906,7 @@ Deutschen	-	-	-	0:32:43.451000	0:32:46.211000
 Kollegen	-	-	-	0:32:43.451000	0:32:46.211000
 oder	-	-	-	0:32:43.451000	0:32:46.211000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:44.258000" end="0:32:47.645000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:44.258000" end="0:32:47.645000" age_lower="65" age_upper="999">
 ja	-	-	-	0:32:44.258000	0:32:45.765000
 mit	-	-	-	0:32:44.258000	0:32:45.765000
 mit	-	-	-	0:32:44.258000	0:32:45.765000
@@ -3919,18 +3919,18 @@ gut	-	-	-	0:32:45.765000	0:32:47.645000
 deutsch	-	-	-	0:32:45.765000	0:32:47.645000
 können	-	-	-	0:32:45.765000	0:32:47.645000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:46.778000" end="0:32:47.505000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:46.778000" end="0:32:47.505000" age_lower="1" age_upper="999">
 ja	-	-	-	0:32:46.778000	0:32:47.505000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:47.645000" end="0:32:48.871000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:47.645000" end="0:32:48.871000" age_lower="65" age_upper="999">
 wenn	-	-	-	0:32:47.645000	0:32:48.871000
 ich	-	-	-	0:32:47.645000	0:32:48.871000
 Tschechen	-	-	-	0:32:47.645000	0:32:48.871000
 dohob	-	-	-	0:32:47.645000	0:32:48.871000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:48.211000" end="0:32:48.871000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:48.211000" end="0:32:48.871000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:48.871000" end="0:32:51.425000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:48.871000" end="0:32:51.425000" age_lower="65" age_upper="999">
 ein	-	-	-	0:32:48.871000	0:32:50.085000
 bisschen	-	-	-	0:32:48.871000	0:32:50.085000
 Deutsch	-	-	-	0:32:48.871000	0:32:50.085000
@@ -3940,9 +3940,9 @@ man	-	-	-	0:32:50.085000	0:32:51.198000
 sich	-	-	-	0:32:50.085000	0:32:51.198000
 bemühen	-	-	-	0:32:50.085000	0:32:51.198000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:51.425000" end="0:32:52.065000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:32:51.425000" end="0:32:52.065000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:52.065000" end="0:33:38.265000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:32:52.065000" end="0:33:38.265000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:32:52.065000	0:32:54.318000
 ich	-	-	-	0:32:52.065000	0:32:54.318000
 habe	-	-	-	0:32:52.065000	0:32:54.318000
@@ -4070,9 +4070,9 @@ war	-	-	-	0:33:36.611000	0:33:38.265000
 ganz	-	-	-	0:33:36.611000	0:33:38.265000
 eigenartig	-	-	-	0:33:36.611000	0:33:38.265000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:37.978000" end="0:33:38.698000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:37.978000" end="0:33:38.698000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:38.698000" end="0:33:53.078000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:38.698000" end="0:33:53.078000" age_lower="65" age_upper="999">
 weil	-	-	-	0:33:38.698000	0:33:39.811000
 habe	-	-	-	0:33:38.698000	0:33:39.811000
 mir	-	-	-	0:33:38.698000	0:33:39.811000
@@ -4106,11 +4106,11 @@ mich	-	-	-	0:33:51.611000	0:33:53.078000
 gar	-	-	-	0:33:51.611000	0:33:53.078000
 nix	-	-	-	0:33:51.611000	0:33:53.078000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:53.078000" end="0:33:55.531000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:53.078000" end="0:33:55.531000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:33:53.078000	0:33:55.531000
 wos>	-	-	-	0:33:53.078000	0:33:55.531000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:53.078000" end="0:33:56.765000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:53.078000" end="0:33:56.765000" age_lower="65" age_upper="999">
 ist	-	-	-	0:33:53.078000	0:33:55.211000
 ganz	-	-	-	0:33:53.078000	0:33:55.211000
 das	-	-	-	0:33:53.078000	0:33:55.211000
@@ -4124,13 +4124,13 @@ was	-	-	-	0:33:55.531000	0:33:56.765000
 das	-	-	-	0:33:55.531000	0:33:56.765000
 heißt	-	-	-	0:33:55.531000	0:33:56.765000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:56.765000" end="0:33:57.711000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:56.765000" end="0:33:57.711000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:33:56.765000	0:33:57.711000
 was	-	-	-	0:33:56.765000	0:33:57.711000
 hasst	-	-	-	0:33:56.765000	0:33:57.711000
 des,>	-	-	-	0:33:56.765000	0:33:57.711000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:57.711000" end="0:34:00.131000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:33:57.711000" end="0:34:00.131000" age_lower="65" age_upper="999">
 ein	-	-	-	0:33:57.711000	0:33:58.265000
 Blaue	-	-	-	0:33:57.711000	0:33:58.265000
 das	-	-	-	0:33:58.265000	0:34:00.131000
@@ -4141,12 +4141,12 @@ tausend	-	-	-	0:33:58.265000	0:34:00.131000
 Schilling	-	-	-	0:33:58.265000	0:34:00.131000
 Schein	-	-	-	0:33:58.265000	0:34:00.131000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:59.931000" end="0:34:01.691000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:33:59.931000" end="0:34:01.691000" age_lower="1" age_upper="999">
 ah	-	-	-	0:33:59.931000	0:34:00.378000
 <<kichernd>	-	-	-	0:34:00.378000	0:34:01.691000
 okay;>	-	-	-	0:34:00.378000	0:34:01.691000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:01.325000" end="0:34:24.364000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:01.325000" end="0:34:24.364000" age_lower="65" age_upper="999">
 ja	-	-	-	0:34:01.325000	0:34:01.691000
 <<kichernd>	-	-	-	0:34:02.465000	0:34:06.085000
 aso>	-	-	-	0:34:02.465000	0:34:06.085000
@@ -4220,9 +4220,9 @@ den	-	-	-	0:34:21.105000	0:34:24.364000
 waggon	-	-	-	0:34:21.105000	0:34:24.364000
 auslon	-	-	-	0:34:21.105000	0:34:24.364000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:23.598000" end="0:34:24.364000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:23.598000" end="0:34:24.364000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:24.364000" end="0:34:31.378000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:24.364000" end="0:34:31.378000" age_lower="65" age_upper="999">
 geis	-	-	-	0:34:24.364000	0:34:25.465000
 hast	-	-	-	0:34:24.364000	0:34:25.465000
 da	-	-	-	0:34:25.465000	0:34:27.304000
@@ -4246,7 +4246,7 @@ nicht	-	-	-	0:34:29.284000	0:34:30.425000
 ausglon	-	-	-	0:34:29.284000	0:34:30.425000
 nein	-	-	-	0:34:30.670000	0:34:31.378000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:31.378000" end="0:34:34.531000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:31.378000" end="0:34:34.531000" age_lower="1" age_upper="999">
 aso	-	-	-	0:34:31.378000	0:34:34.531000
 da	-	-	-	0:34:31.378000	0:34:34.531000
 würde	-	-	-	0:34:31.378000	0:34:34.531000
@@ -4259,20 +4259,20 @@ mit	-	-	-	0:34:31.378000	0:34:34.531000
 unterschiedlichen	-	-	-	0:34:31.378000	0:34:34.531000
 Leuten	-	-	-	0:34:31.378000	0:34:34.531000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:32.251000" end="0:34:32.558000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:32.251000" end="0:34:32.558000" age_lower="65" age_upper="999">
 un	-	-	-	0:34:32.251000	0:34:32.558000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:34.531000" end="0:34:35.731000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:34.531000" end="0:34:35.731000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:34:34.531000	0:34:35.731000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:35.170000" end="0:34:36.291000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:35.170000" end="0:34:36.291000" age_lower="65" age_upper="999">
 na	-	-	-	0:34:35.170000	0:34:36.291000
 natürlich	-	-	-	0:34:35.170000	0:34:36.291000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:35.971000" end="0:34:36.291000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:35.971000" end="0:34:36.291000" age_lower="1" age_upper="999">
 ja	-	-	-	0:34:35.971000	0:34:36.291000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:36.291000" end="0:34:37.891000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:36.291000" end="0:34:37.891000" age_lower="65" age_upper="999">
 es	-	-	-	0:34:36.291000	0:34:37.891000
 kommt	-	-	-	0:34:36.291000	0:34:37.891000
 darauf	-	-	-	0:34:36.291000	0:34:37.891000
@@ -4282,13 +4282,13 @@ wem	-	-	-	0:34:36.291000	0:34:37.891000
 man	-	-	-	0:34:36.291000	0:34:37.891000
 spricht	-	-	-	0:34:36.291000	0:34:37.891000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:36.518000" end="0:34:38.210000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:36.518000" end="0:34:38.210000" age_lower="1" age_upper="999">
 n	-	-	-	0:34:37.565000	0:34:38.210000
 ja	-	-	-	0:34:37.565000	0:34:38.210000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:37.891000" end="0:34:38.210000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:37.891000" end="0:34:38.210000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:38.210000" end="0:34:47.078000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:38.210000" end="0:34:47.078000" age_lower="1" age_upper="999">
 und	-	-	-	0:34:39.245000	0:34:43.105000
 bei	-	-	-	0:34:39.245000	0:34:43.105000
 welchen	-	-	-	0:34:39.245000	0:34:43.105000
@@ -4303,7 +4303,7 @@ sprechen	-	-	-	0:34:43.105000	0:34:47.078000
 Sie	-	-	-	0:34:43.105000	0:34:47.078000
 Dialekt	-	-	-	0:34:43.105000	0:34:47.078000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:47.078000" end="0:34:51.498000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:47.078000" end="0:34:51.498000" age_lower="65" age_upper="999">
 na	-	-	-	0:34:47.078000	0:34:49.284000
 ja	-	-	-	0:34:47.078000	0:34:49.284000
 es	-	-	-	0:34:49.284000	0:34:51.178000
@@ -4316,9 +4316,9 @@ von	-	-	-	0:34:49.284000	0:34:51.178000
 mir	-	-	-	0:34:49.284000	0:34:51.178000
 ist	-	-	-	0:34:49.284000	0:34:51.178000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:51.498000" end="0:34:51.951000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:51.498000" end="0:34:51.951000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:51.951000" end="0:34:53.777000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:51.951000" end="0:34:53.777000" age_lower="65" age_upper="999">
 wenn	-	-	-	0:34:51.951000	0:34:52.791000
 der	-	-	-	0:34:51.951000	0:34:52.791000
 Dialekt	-	-	-	0:34:51.951000	0:34:52.791000
@@ -4327,22 +4327,22 @@ ich	-	-	-	0:34:52.791000	0:34:53.777000
 auch	-	-	-	0:34:52.791000	0:34:53.777000
 Dialekt	-	-	-	0:34:52.791000	0:34:53.777000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:53.777000" end="0:34:54.690000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:53.777000" end="0:34:54.690000" age_lower="1" age_upper="999">
 okay	-	-	-	0:34:53.777000	0:34:54.284000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:54.690000" end="0:34:55.178000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:54.690000" end="0:34:55.178000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:34:54.690000	0:34:55.178000
 aso	-	-	-	0:34:54.690000	0:34:55.178000
 ma>	-	-	-	0:34:54.690000	0:34:55.178000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:55.178000" end="0:34:57.911000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:34:55.178000" end="0:34:57.911000" age_lower="1" age_upper="999">
 und	-	-	-	0:34:55.178000	0:34:56.205000
 umgekehrt	-	-	-	0:34:55.178000	0:34:56.205000
 auch	-	-	-	0:34:55.178000	0:34:56.205000
 hochspra	-	-	-	0:34:56.205000	0:34:56.991000
 Hochdeutsch	-	-	-	0:34:56.991000	0:34:57.911000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:56.991000" end="0:35:06.785000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:34:56.991000" end="0:35:06.785000" age_lower="65" age_upper="999">
 ja	-	-	-	0:34:56.991000	0:34:57.451000
 wenn	-	-	-	0:34:57.451000	0:34:58.445000
 jetzt	-	-	-	0:34:57.451000	0:34:58.445000
@@ -4363,9 +4363,9 @@ int	-	-	-	0:35:02.631000	0:35:06.785000
 instinktiv	-	-	-	0:35:02.631000	0:35:06.785000
 an	-	-	-	0:35:02.631000	0:35:06.785000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:05.805000" end="0:35:06.298000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:05.805000" end="0:35:06.298000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:06.785000" end="0:35:08.285000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:06.785000" end="0:35:08.285000" age_lower="65" age_upper="999">
 aber	-	-	-	0:35:06.785000	0:35:08.285000
 ich	-	-	-	0:35:06.785000	0:35:08.285000
 glab	-	-	-	0:35:06.785000	0:35:08.285000
@@ -4374,9 +4374,9 @@ macht	-	-	-	0:35:06.785000	0:35:08.285000
 ja	-	-	-	0:35:06.785000	0:35:08.285000
 jeder	-	-	-	0:35:06.785000	0:35:08.285000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:07.118000" end="0:35:07.418000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:07.118000" end="0:35:07.418000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:08.285000" end="0:35:25.145000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:08.285000" end="0:35:25.145000" age_lower="65" age_upper="999">
 nein	-	-	-	0:35:08.485000	0:35:09.458000
 ja	-	-	-	0:35:08.485000	0:35:09.458000
 gibt	-	-	-	0:35:09.458000	0:35:11.218000
@@ -4425,9 +4425,9 @@ mit	-	-	-	0:35:22.738000	0:35:25.145000
 dem	-	-	-	0:35:22.738000	0:35:25.145000
 sprechen	-	-	-	0:35:22.738000	0:35:25.145000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:25.145000" end="0:35:26.431000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:25.145000" end="0:35:26.431000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:25.871000" end="0:35:27.931000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:25.871000" end="0:35:27.931000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:35:25.871000	0:35:27.931000
 aso	-	-	-	0:35:25.871000	0:35:27.931000
 man	-	-	-	0:35:25.871000	0:35:27.931000
@@ -4437,11 +4437,11 @@ da	-	-	-	0:35:25.871000	0:35:27.931000
 schon	-	-	-	0:35:25.871000	0:35:27.931000
 onpassen;>	-	-	-	0:35:25.871000	0:35:27.931000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:27.931000" end="0:35:28.325000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:27.931000" end="0:35:28.325000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:28.325000" end="0:35:29.245000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:28.325000" end="0:35:29.245000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:29.245000" end="0:35:40.138000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:29.245000" end="0:35:40.138000" age_lower="1" age_upper="999">
 und	-	-	-	0:35:29.245000	0:35:33.985000
 welche	-	-	-	0:35:29.245000	0:35:33.985000
 Sprechweise	-	-	-	0:35:29.245000	0:35:33.985000
@@ -4461,17 +4461,17 @@ fällt	-	-	-	0:35:37.905000	0:35:40.138000
 Ihnen	-	-	-	0:35:37.905000	0:35:40.138000
 da	-	-	-	0:35:37.905000	0:35:40.138000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:39.398000" end="0:35:40.845000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:39.398000" end="0:35:40.845000" age_lower="65" age_upper="999">
 ja	-	-	-	0:35:39.398000	0:35:40.845000
 Umgangssprache	-	-	-	0:35:39.398000	0:35:40.845000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:40.478000" end="0:35:41.585000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:40.478000" end="0:35:41.585000" age_lower="1" age_upper="999">
 ja	-	-	-	0:35:40.478000	0:35:40.845000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:41.178000" end="0:35:42.085000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:41.178000" end="0:35:42.085000" age_lower="65" age_upper="999">
 eigentlich	-	-	-	0:35:41.178000	0:35:42.085000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:42.085000" end="0:35:52.618000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:42.085000" end="0:35:52.618000" age_lower="1" age_upper="999">
 okay	-	-	-	0:35:42.085000	0:35:43.858000
 und	-	-	-	0:35:43.858000	0:35:44.785000
 früher	-	-	-	0:35:43.858000	0:35:44.785000
@@ -4501,11 +4501,11 @@ lager	-	-	-	0:35:48.191000	0:35:52.618000
 oder	-	-	-	0:35:48.191000	0:35:52.618000
 so	-	-	-	0:35:48.191000	0:35:52.618000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:49.971000" end="0:35:52.011000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:49.971000" end="0:35:52.011000" age_lower="65" age_upper="999">
 ja	-	-	-	0:35:49.971000	0:35:50.198000
 ja	-	-	-	0:35:51.658000	0:35:52.011000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:52.618000" end="0:35:57.371000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:52.618000" end="0:35:57.371000" age_lower="1" age_upper="999">
 ist	-	-	-	0:35:52.618000	0:35:55.151000
 es	-	-	-	0:35:52.618000	0:35:55.151000
 Ihnen	-	-	-	0:35:52.618000	0:35:55.151000
@@ -4517,32 +4517,32 @@ das	-	-	-	0:35:55.151000	0:35:57.371000
 heute	-	-	-	0:35:55.151000	0:35:57.371000
 schwer	-	-	-	0:35:55.151000	0:35:57.371000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:56.451000" end="0:35:56.798000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:56.451000" end="0:35:56.798000" age_lower="65" age_upper="999">
 nein	-	-	-	0:35:56.451000	0:35:56.798000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:57.371000" end="0:35:58.498000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:57.371000" end="0:35:58.498000" age_lower="1" age_upper="999">
 zu	-	-	-	0:35:57.371000	0:35:58.498000
 wechseln	-	-	-	0:35:57.371000	0:35:58.498000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:57.371000" end="0:35:58.985000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:57.371000" end="0:35:58.985000" age_lower="65" age_upper="999">
 das	-	-	-	0:35:57.371000	0:35:58.985000
 macht	-	-	-	0:35:57.371000	0:35:58.985000
 mir	-	-	-	0:35:57.371000	0:35:58.985000
 ganz	-	-	-	0:35:57.371000	0:35:58.985000
 unbewusst	-	-	-	0:35:57.371000	0:35:58.985000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:58.985000" end="0:36:00.345000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:35:58.985000" end="0:36:00.345000" age_lower="1" age_upper="999">
 ganz	-	-	-	0:35:58.985000	0:35:59.825000
 unbewusst	-	-	-	0:35:58.985000	0:35:59.825000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:59.825000" end="0:36:01.431000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:35:59.825000" end="0:36:01.431000" age_lower="65" age_upper="999">
 das	-	-	-	0:35:59.825000	0:36:01.431000
 macht	-	-	-	0:35:59.825000	0:36:01.431000
 mir	-	-	-	0:35:59.825000	0:36:01.431000
 einfach	-	-	-	0:35:59.825000	0:36:01.431000
 unbewusst	-	-	-	0:35:59.825000	0:36:01.431000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:01.431000" end="0:36:08.171000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:01.431000" end="0:36:08.171000" age_lower="1" age_upper="999">
 ah	-	-	-	0:36:01.431000	0:36:03.998000
 was	-	-	-	0:36:01.431000	0:36:03.998000
 glauben	-	-	-	0:36:01.431000	0:36:03.998000
@@ -4555,7 +4555,7 @@ hier	-	-	-	0:36:03.998000	0:36:08.171000
 in	-	-	-	0:36:03.998000	0:36:08.171000
 ORT	ORT	-	-	0:36:03.998000	0:36:08.171000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:08.171000" end="0:36:12.065000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:08.171000" end="0:36:12.065000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:36:08.171000	0:36:12.065000
 aso	-	-	-	0:36:08.171000	0:36:12.065000
 da	-	-	-	0:36:08.171000	0:36:12.065000
@@ -4566,9 +4566,9 @@ keiner	-	-	-	0:36:08.171000	0:36:12.065000
 Gedanken	-	-	-	0:36:08.171000	0:36:12.065000
 drüber;>	-	-	-	0:36:08.171000	0:36:12.065000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:12.065000" end="0:36:12.545000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:12.065000" end="0:36:12.545000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:12.545000" end="0:36:18.785000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:12.545000" end="0:36:18.785000" age_lower="65" age_upper="999">
 also	-	-	-	0:36:12.545000	0:36:13.298000
 das	-	-	-	0:36:12.545000	0:36:13.298000
 es	-	-	-	0:36:13.298000	0:36:17.378000
@@ -4586,9 +4586,9 @@ schon	-	-	-	0:36:17.378000	0:36:18.785000
 andere	-	-	-	0:36:17.378000	0:36:18.785000
 Sprache	-	-	-	0:36:17.378000	0:36:18.785000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:18.785000" end="0:36:19.431000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:18.785000" end="0:36:19.431000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:19.431000" end="0:36:29.945000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:19.431000" end="0:36:29.945000" age_lower="65" age_upper="999">
 aber	-	-	-	0:36:19.431000	0:36:24.465000
 ich	-	-	-	0:36:19.431000	0:36:24.465000
 habe	-	-	-	0:36:19.431000	0:36:24.465000
@@ -4610,9 +4610,9 @@ viel	-	-	-	0:36:28.158000	0:36:29.945000
 Einheimische	-	-	-	0:36:28.158000	0:36:29.945000
 da	-	-	-	0:36:28.158000	0:36:29.945000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:29.738000" end="0:36:30.258000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:29.738000" end="0:36:30.258000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:29.945000" end="0:36:36.618000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:29.945000" end="0:36:36.618000" age_lower="65" age_upper="999">
 sind	-	-	-	0:36:29.945000	0:36:31.205000
 die	-	-	-	0:36:29.945000	0:36:31.205000
 paar	-	-	-	0:36:29.945000	0:36:31.205000
@@ -4632,9 +4632,9 @@ ist	-	-	-	0:36:34.478000	0:36:36.618000
 da	-	-	-	0:36:34.478000	0:36:36.618000
 nicht	-	-	-	0:36:34.478000	0:36:36.618000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:35.611000" end="0:36:36.071000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:35.611000" end="0:36:36.071000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:36.618000" end="0:36:43.425000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:36.618000" end="0:36:43.425000" age_lower="65" age_upper="999">
 da	-	-	-	0:36:36.618000	0:36:39.005000
 da	-	-	-	0:36:36.618000	0:36:39.005000
 da	-	-	-	0:36:36.618000	0:36:39.005000
@@ -4650,9 +4650,9 @@ so	-	-	-	0:36:40.891000	0:36:43.425000
 Zugereiste	-	-	-	0:36:40.891000	0:36:43.425000
 ORT	ORT	-	-	0:36:40.891000	0:36:43.425000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:43.425000" end="0:36:43.878000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:43.425000" end="0:36:43.878000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:43.878000" end="0:36:54.125000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:43.878000" end="0:36:54.125000" age_lower="65" age_upper="999">
 ab	-	-	-	0:36:43.878000	0:36:46.711000
 wenn	-	-	-	0:36:43.878000	0:36:46.711000
 es	-	-	-	0:36:43.878000	0:36:46.711000
@@ -4680,9 +4680,9 @@ banat	-	-	-	0:36:52.531000	0:36:54.125000
 viel	-	-	-	0:36:52.531000	0:36:54.125000
 Leute	-	-	-	0:36:52.531000	0:36:54.125000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:53.811000" end="0:36:54.538000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:36:53.811000" end="0:36:54.538000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:54.345000" end="0:37:15.751000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:36:54.345000" end="0:37:15.751000" age_lower="65" age_upper="999">
 die	-	-	-	0:36:54.345000	0:36:56.425000
 noch	-	-	-	0:36:54.345000	0:36:56.425000
 ein	-	-	-	0:36:54.345000	0:36:56.425000
@@ -4745,9 +4745,9 @@ aus	-	-	-	0:37:13.938000	0:37:15.751000
 wie	-	-	-	0:37:13.938000	0:37:15.751000
 da	-	-	-	0:37:13.938000	0:37:15.751000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:15.751000" end="0:37:16.551000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:15.751000" end="0:37:16.551000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:16.191000" end="0:37:32.044000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:16.191000" end="0:37:32.044000" age_lower="65" age_upper="999">
 aber	-	-	-	0:37:16.191000	0:37:21.878000
 die	-	-	-	0:37:16.191000	0:37:21.878000
 sind	-	-	-	0:37:16.191000	0:37:21.878000
@@ -4780,9 +4780,9 @@ wie	-	-	-	0:37:29.524000	0:37:31.264000
 da	-	-	-	0:37:29.524000	0:37:31.264000
 da	-	-	-	0:37:31.264000	0:37:32.044000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:31.444000" end="0:37:31.898000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:31.444000" end="0:37:31.898000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:32.044000" end="0:37:41.024000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:32.044000" end="0:37:41.024000" age_lower="65" age_upper="999">
 aber	-	-	-	0:37:32.044000	0:37:34.211000
 es	-	-	-	0:37:32.044000	0:37:34.211000
 macht	-	-	-	0:37:32.044000	0:37:34.211000
@@ -4810,9 +4810,9 @@ und	-	-	-	0:37:37.824000	0:37:40.304000
 so	-	-	-	0:37:37.824000	0:37:40.304000
 ja	-	-	-	0:37:40.304000	0:37:41.024000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:41.024000" end="0:37:41.824000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:41.024000" end="0:37:41.824000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:41.544000" end="0:37:44.804000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:41.544000" end="0:37:44.804000" age_lower="65" age_upper="999">
 die	-	-	-	0:37:41.544000	0:37:42.578000
 sind	-	-	-	0:37:41.544000	0:37:42.578000
 alle	-	-	-	0:37:41.544000	0:37:42.578000
@@ -4825,9 +4825,9 @@ wie	-	-	-	0:37:43.684000	0:37:44.804000
 die	-	-	-	0:37:43.684000	0:37:44.804000
 Ungarn	-	-	-	0:37:43.684000	0:37:44.804000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:43.871000" end="0:37:44.611000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:43.871000" end="0:37:44.611000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:44.804000" end="0:37:50.838000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:44.804000" end="0:37:50.838000" age_lower="65" age_upper="999">
 im	-	-	-	0:37:44.804000	0:37:46.258000
 fümfafuchzger	-	-	-	0:37:44.804000	0:37:46.258000
 Jahr	-	-	-	0:37:44.804000	0:37:46.258000
@@ -4847,9 +4847,9 @@ ongsiedelt	-	-	-	0:37:48.804000	0:37:50.838000
 worden	-	-	-	0:37:48.804000	0:37:50.838000
 sind	-	-	-	0:37:48.804000	0:37:50.838000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:50.431000" end="0:37:50.951000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:50.431000" end="0:37:50.951000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:50.838000" end="0:37:58.031000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:50.838000" end="0:37:58.031000" age_lower="65" age_upper="999">
 äh	-	-	-	0:37:50.838000	0:37:55.298000
 Stadtteile	-	-	-	0:37:50.838000	0:37:55.298000
 von	-	-	-	0:37:50.838000	0:37:55.298000
@@ -4865,9 +4865,9 @@ jetzt	-	-	-	0:37:55.298000	0:37:58.031000
 da	-	-	-	0:37:55.298000	0:37:58.031000
 sind	-	-	-	0:37:55.298000	0:37:58.031000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:56.504000" end="0:37:56.911000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:37:56.504000" end="0:37:56.911000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:58.031000" end="0:38:01.911000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:37:58.031000" end="0:38:01.911000" age_lower="65" age_upper="999">
 jungen	-	-	-	0:37:58.031000	0:37:58.558000
 ab	-	-	-	0:37:58.558000	0:37:59.911000
 es	-	-	-	0:37:58.558000	0:37:59.911000
@@ -4880,10 +4880,10 @@ grossvater	-	-	-	0:37:59.911000	0:38:01.591000
 Ungar	-	-	-	0:37:59.911000	0:38:01.591000
 war	-	-	-	0:37:59.911000	0:38:01.591000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:01.911000" end="0:38:02.991000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:01.911000" end="0:38:02.991000" age_lower="1" age_upper="999">
 ja	-	-	-	0:38:01.911000	0:38:02.991000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:02.991000" end="0:38:36.264000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:02.991000" end="0:38:36.264000" age_lower="65" age_upper="999">
 die	-	-	-	0:38:02.991000	0:38:04.644000
 passen	-	-	-	0:38:02.991000	0:38:04.644000
 sich	-	-	-	0:38:02.991000	0:38:04.644000
@@ -4994,9 +4994,9 @@ nur	-	-	-	0:38:33.538000	0:38:36.264000
 mehr	-	-	-	0:38:33.538000	0:38:36.264000
 Englisch	-	-	-	0:38:33.538000	0:38:36.264000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:36.264000" end="0:38:37.038000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:36.264000" end="0:38:37.038000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:37.038000" end="0:38:49.391000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:37.038000" end="0:38:49.391000" age_lower="65" age_upper="999">
 also	-	-	-	0:38:37.038000	0:38:38.471000
 über	-	-	-	0:38:37.038000	0:38:38.471000
 was	-	-	-	0:38:37.038000	0:38:38.471000
@@ -5036,16 +5036,16 @@ waren	-	-	-	0:38:48.071000	0:38:49.191000
 dn	-	-	-	0:38:48.071000	0:38:49.191000
 die	-	-	-	0:38:48.071000	0:38:49.191000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:49.391000" end="0:38:49.898000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:49.391000" end="0:38:49.898000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:49.898000" end="0:38:50.764000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:49.898000" end="0:38:50.764000" age_lower="65" age_upper="999">
 also	-	-	-	0:38:49.898000	0:38:50.764000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:50.764000" end="0:38:52.098000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:50.764000" end="0:38:52.098000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:51.504000" end="0:38:52.511000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:38:51.504000" end="0:38:52.511000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:52.511000" end="0:39:02.391000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:38:52.511000" end="0:39:02.391000" age_lower="1" age_upper="999">
 haben	-	-	-	0:38:52.511000	0:38:55.838000
 Sie	-	-	-	0:38:52.511000	0:38:55.838000
 den	-	-	-	0:38:52.511000	0:38:55.838000
@@ -5066,12 +5066,12 @@ ah	-	-	-	0:38:58.784000	0:39:01.544000
 sind	-	-	-	0:38:58.784000	0:39:01.544000
 beziehungsweise	-	-	-	0:39:01.544000	0:39:02.391000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:01.918000" end="0:39:02.391000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:01.918000" end="0:39:02.391000" age_lower="65" age_upper="999">
 nein	-	-	-	0:39:01.918000	0:39:02.391000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:02.391000" end="0:39:02.778000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:02.391000" end="0:39:02.778000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:02.504000" end="0:39:04.238000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:02.504000" end="0:39:04.238000" age_lower="65" age_upper="999">
 wir	-	-	-	0:39:02.504000	0:39:04.238000
 haben	-	-	-	0:39:02.504000	0:39:04.238000
 da	-	-	-	0:39:02.504000	0:39:04.238000
@@ -5079,10 +5079,10 @@ keinen	-	-	-	0:39:02.504000	0:39:04.238000
 eigenen	-	-	-	0:39:02.504000	0:39:04.238000
 Dialekt	-	-	-	0:39:02.504000	0:39:04.238000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:04.038000" end="0:39:04.664000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:04.038000" end="0:39:04.664000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:04.038000	0:39:04.664000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:04.664000" end="0:39:15.544000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:04.664000" end="0:39:15.544000" age_lower="65" age_upper="999">
 das	-	-	-	0:39:04.664000	0:39:06.611000
 ist	-	-	-	0:39:04.664000	0:39:06.611000
 hauptsächlich	-	-	-	0:39:04.664000	0:39:06.611000
@@ -5109,9 +5109,9 @@ ein	-	-	-	0:39:14.211000	0:39:15.544000
 Dialekt	-	-	-	0:39:14.211000	0:39:15.544000
 ist	-	-	-	0:39:14.211000	0:39:15.544000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:15.104000" end="0:39:15.544000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:15.104000" end="0:39:15.544000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:15.544000" end="0:39:21.491000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:15.544000" end="0:39:21.491000" age_lower="65" age_upper="999">
 das	-	-	-	0:39:15.544000	0:39:17.931000
 ist	-	-	-	0:39:15.544000	0:39:17.931000
 weder	-	-	-	0:39:15.544000	0:39:17.931000
@@ -5123,15 +5123,15 @@ hört	-	-	-	0:39:19.098000	0:39:20.791000
 man	-	-	-	0:39:19.098000	0:39:20.791000
 Kärntner	-	-	-	0:39:20.791000	0:39:21.491000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:20.951000" end="0:39:21.378000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:20.951000" end="0:39:21.378000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:21.491000" end="0:39:22.131000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:21.491000" end="0:39:22.131000" age_lower="65" age_upper="999">
 hört	-	-	-	0:39:21.491000	0:39:22.131000
 man	-	-	-	0:39:21.491000	0:39:22.131000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:22.131000" end="0:39:22.811000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:22.131000" end="0:39:22.811000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:22.811000" end="0:39:31.371000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:22.811000" end="0:39:31.371000" age_lower="65" age_upper="999">
 oder	-	-	-	0:39:22.811000	0:39:25.231000
 Salzburg	-	-	-	0:39:22.811000	0:39:25.231000
 kann	-	-	-	0:39:22.811000	0:39:25.231000
@@ -5155,15 +5155,15 @@ nicht	-	-	-	0:39:29.418000	0:39:31.371000
 so	-	-	-	0:39:29.418000	0:39:31.371000
 wirklich	-	-	-	0:39:29.418000	0:39:31.371000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:31.371000" end="0:39:32.104000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:31.371000" end="0:39:32.104000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:31.371000" end="0:39:32.104000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:31.371000" end="0:39:32.104000" age_lower="65" age_upper="999">
 ich	-	-	-	0:39:31.371000	0:39:32.104000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:32.104000" end="0:39:33.244000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:32.104000" end="0:39:33.244000" age_lower="1" age_upper="999">
 okay	-	-	-	0:39:32.104000	0:39:33.244000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:33.051000" end="0:39:40.218000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:33.051000" end="0:39:40.218000" age_lower="65" age_upper="999">
 man	-	-	-	0:39:33.051000	0:39:34.411000
 redet	-	-	-	0:39:33.051000	0:39:34.411000
 immer	-	-	-	0:39:33.051000	0:39:34.411000
@@ -5181,9 +5181,9 @@ herst	-	-	-	0:39:35.738000	0:39:38.864000
 an	-	-	-	0:39:38.864000	0:39:40.218000
 Tiroler	-	-	-	0:39:38.864000	0:39:40.218000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:40.218000" end="0:39:41.218000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:40.218000" end="0:39:41.218000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:41.218000" end="0:39:43.551000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:41.218000" end="0:39:43.551000" age_lower="65" age_upper="999">
 vorlberger	-	-	-	0:39:41.218000	0:39:42.784000
 habe	-	-	-	0:39:41.218000	0:39:42.784000
 ich	-	-	-	0:39:41.218000	0:39:42.784000
@@ -5195,10 +5195,10 @@ das	-	-	-	0:39:42.784000	0:39:43.551000
 hört	-	-	-	0:39:42.784000	0:39:43.551000
 man	-	-	-	0:39:42.784000	0:39:43.551000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:43.551000" end="0:39:43.871000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:43.551000" end="0:39:43.871000" age_lower="1" age_upper="999">
 ja	-	-	-	0:39:43.551000	0:39:43.871000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:43.871000" end="0:39:52.964000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:43.871000" end="0:39:52.964000" age_lower="65" age_upper="999">
 ober	-	-	-	0:39:43.871000	0:39:44.631000
 da	-	-	-	0:39:43.871000	0:39:44.631000
 ich	-	-	-	0:39:44.631000	0:39:45.318000
@@ -5222,13 +5222,13 @@ als	-	-	-	0:39:51.498000	0:39:52.964000
 die	-	-	-	0:39:51.498000	0:39:52.964000
 da	-	-	-	0:39:51.498000	0:39:52.964000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:52.964000" end="0:39:53.564000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:52.964000" end="0:39:53.564000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:53.291000" end="0:39:54.058000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:53.291000" end="0:39:54.058000" age_lower="65" age_upper="999">
 im	-	-	-	0:39:53.291000	0:39:54.058000
 Norden	-	-	-	0:39:53.291000	0:39:54.058000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:54.058000" end="0:39:59.418000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:54.058000" end="0:39:59.418000" age_lower="1" age_upper="999">
 also	-	-	-	0:39:54.058000	0:39:56.451000
 weil	-	-	-	0:39:54.058000	0:39:56.451000
 sie	-	-	-	0:39:54.058000	0:39:56.451000
@@ -5245,10 +5245,10 @@ weiter	-	-	-	0:39:56.451000	0:39:59.418000
 hört	-	-	-	0:39:56.451000	0:39:59.418000
 man	-	-	-	0:39:56.451000	0:39:59.418000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:59.418000" end="0:39:59.824000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:39:59.418000" end="0:39:59.824000" age_lower="65" age_upper="999">
 ja	-	-	-	0:39:59.418000	0:39:59.824000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:59.531000" end="0:40:03.204000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:39:59.531000" end="0:40:03.204000" age_lower="1" age_upper="999">
 aso	-	-	-	0:39:59.531000	0:40:03.204000
 Sie	-	-	-	0:39:59.531000	0:40:03.204000
 können	-	-	-	0:39:59.531000	0:40:03.204000
@@ -5256,14 +5256,14 @@ dann	-	-	-	0:39:59.531000	0:40:03.204000
 das	-	-	-	0:39:59.531000	0:40:03.204000
 zuordnen	-	-	-	0:39:59.531000	0:40:03.204000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:02.771000" end="0:40:03.851000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:02.771000" end="0:40:03.851000" age_lower="65" age_upper="999">
 na	-	-	-	0:40:02.771000	0:40:03.851000
 natürlich	-	-	-	0:40:02.771000	0:40:03.851000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:03.531000" end="0:40:04.684000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:03.531000" end="0:40:04.684000" age_lower="1" age_upper="999">
 ja	-	-	-	0:40:03.531000	0:40:03.851000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:04.684000" end="0:40:07.691000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:04.684000" end="0:40:07.691000" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:04.684000	0:40:07.691000
 du	-	-	-	0:40:04.684000	0:40:07.691000
 du	-	-	-	0:40:04.684000	0:40:07.691000
@@ -5272,18 +5272,18 @@ einen	-	-	-	0:40:04.684000	0:40:07.691000
 Kärntner	-	-	-	0:40:04.684000	0:40:07.691000
 kennst	-	-	-	0:40:04.684000	0:40:07.691000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:07.171000" end="0:40:07.691000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:07.171000" end="0:40:07.691000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:07.691000" end="0:40:09.084000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:07.691000" end="0:40:09.084000" age_lower="65" age_upper="999">
 zehn	-	-	-	0:40:07.691000	0:40:09.084000
 Meter	-	-	-	0:40:07.691000	0:40:09.084000
 geng	-	-	-	0:40:07.691000	0:40:09.084000
 an	-	-	-	0:40:07.691000	0:40:09.084000
 wind	-	-	-	0:40:07.691000	0:40:09.084000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:09.084000" end="0:40:10.791000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:09.084000" end="0:40:10.791000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:09.618000" end="0:40:12.178000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:09.618000" end="0:40:12.178000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:40:09.618000	0:40:11.398000
 oder	-	-	-	0:40:09.618000	0:40:11.398000
 wie	-	-	-	0:40:09.618000	0:40:11.398000
@@ -5293,21 +5293,21 @@ so;>	-	-	-	0:40:09.618000	0:40:11.398000
 <<lachend>	-	-	-	0:40:11.398000	0:40:12.178000
 jo,>	-	-	-	0:40:11.398000	0:40:12.178000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:11.771000" end="0:40:13.678000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:11.771000" end="0:40:13.678000" age_lower="1" age_upper="999">
 und	-	-	-	0:40:11.771000	0:40:13.678000
 woran	-	-	-	0:40:11.771000	0:40:13.678000
 erkennen	-	-	-	0:40:11.771000	0:40:13.678000
 Sie	-	-	-	0:40:11.771000	0:40:13.678000
 das	-	-	-	0:40:11.771000	0:40:13.678000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:13.678000" end="0:40:14.818000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:13.678000" end="0:40:14.818000" age_lower="65" age_upper="999">
 die	-	-	-	0:40:13.678000	0:40:14.818000
 Kärntner	-	-	-	0:40:13.678000	0:40:14.818000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:14.818000" end="0:40:16.211000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:14.818000" end="0:40:16.211000" age_lower="1" age_upper="999">
 Beispiel	-	-	-	0:40:15.244000	0:40:16.211000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:15.244000" end="0:40:17.798000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:15.244000" end="0:40:17.798000" age_lower="65" age_upper="999">
 nein	-	-	-	0:40:15.244000	0:40:16.211000
 ja	-	-	-	0:40:15.244000	0:40:16.211000
 der	-	-	-	0:40:15.244000	0:40:16.211000
@@ -5319,9 +5319,9 @@ es	-	-	-	0:40:16.211000	0:40:17.798000
 vor	-	-	-	0:40:16.211000	0:40:17.798000
 allem	-	-	-	0:40:16.211000	0:40:17.798000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:17.324000" end="0:40:17.644000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:17.324000" end="0:40:17.644000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:17.798000" end="0:40:22.271000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:17.798000" end="0:40:22.271000" age_lower="65" age_upper="999">
 ist	-	-	-	0:40:17.798000	0:40:20.171000
 nicht	-	-	-	0:40:17.798000	0:40:20.171000
 so	-	-	-	0:40:17.798000	0:40:20.171000
@@ -5339,9 +5339,9 @@ ja	-	-	-	0:40:20.171000	0:40:21.951000
 oft	-	-	-	0:40:20.171000	0:40:21.951000
 nicht	-	-	-	0:40:20.171000	0:40:21.951000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:22.071000" end="0:40:22.704000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:22.071000" end="0:40:22.704000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:22.704000" end="0:40:26.098000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:22.704000" end="0:40:26.098000" age_lower="65" age_upper="999">
 aber	-	-	-	0:40:22.704000	0:40:25.284000
 der	-	-	-	0:40:22.704000	0:40:25.284000
 Sound	-	-	-	0:40:22.704000	0:40:25.284000
@@ -5351,14 +5351,14 @@ das	-	-	-	0:40:25.284000	0:40:26.098000
 hört	-	-	-	0:40:25.284000	0:40:26.098000
 man	-	-	-	0:40:25.284000	0:40:26.098000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:26.098000" end="0:40:26.864000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:26.098000" end="0:40:26.864000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:26.444000" end="0:40:27.564000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:26.444000" end="0:40:27.564000" age_lower="65" age_upper="999">
 am	-	-	-	0:40:26.444000	0:40:27.258000
 am	-	-	-	0:40:26.444000	0:40:27.258000
 Sound	-	-	-	0:40:26.444000	0:40:27.258000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:27.564000" end="0:40:37.798000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:27.564000" end="0:40:37.798000" age_lower="1" age_upper="999">
 gibt	-	-	-	0:40:28.478000	0:40:33.618000
 es	-	-	-	0:40:28.478000	0:40:33.618000
 eine	-	-	-	0:40:28.478000	0:40:33.618000
@@ -5382,24 +5382,24 @@ besonders	-	-	-	0:40:35.504000	0:40:37.798000
 gut	-	-	-	0:40:35.504000	0:40:37.798000
 gefällt	-	-	-	0:40:35.504000	0:40:37.798000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:37.371000" end="0:40:38.918000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:37.371000" end="0:40:38.918000" age_lower="65" age_upper="999">
 ja	-	-	-	0:40:37.371000	0:40:37.584000
 gefallen	-	-	-	0:40:37.584000	0:40:38.918000
 die	-	-	-	0:40:37.584000	0:40:38.918000
 Kärntner	-	-	-	0:40:37.584000	0:40:38.918000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:38.558000" end="0:40:39.584000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:38.558000" end="0:40:39.584000" age_lower="1" age_upper="999">
 ah	-	-	-	0:40:38.558000	0:40:39.584000
 eh	-	-	-	0:40:38.558000	0:40:39.584000
 die	-	-	-	0:40:38.558000	0:40:39.584000
 Kärntner	-	-	-	0:40:38.558000	0:40:39.584000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:39.318000" end="0:40:39.711000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:39.318000" end="0:40:39.711000" age_lower="65" age_upper="999">
 jaja	-	-	-	0:40:39.318000	0:40:39.711000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:39.584000" end="0:40:41.544000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:39.584000" end="0:40:41.544000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:39.711000" end="0:40:46.564000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:39.711000" end="0:40:46.564000" age_lower="65" age_upper="999">
 mir	-	-	-	0:40:39.711000	0:40:40.558000
 gefällt	-	-	-	0:40:39.711000	0:40:40.558000
 des;>	-	-	-	0:40:39.711000	0:40:40.558000
@@ -5418,9 +5418,9 @@ darum	-	-	-	0:40:42.851000	0:40:45.118000
 Urlaub	-	-	-	0:40:45.118000	0:40:45.864000
 Sommer	-	-	-	0:40:45.864000	0:40:46.564000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:46.564000" end="0:40:47.784000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:46.564000" end="0:40:47.784000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:47.431000" end="0:40:55.224000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:47.431000" end="0:40:55.224000" age_lower="65" age_upper="999">
 auf	-	-	-	0:40:47.431000	0:40:48.438000
 einen	-	-	-	0:40:47.431000	0:40:48.438000
 Bauernhof	-	-	-	0:40:47.431000	0:40:48.438000
@@ -5441,9 +5441,9 @@ waren	-	-	-	0:40:53.031000	0:40:55.224000
 schöne	-	-	-	0:40:53.031000	0:40:55.224000
 Urlaube	-	-	-	0:40:53.031000	0:40:55.224000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:53.784000" end="0:40:55.898000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:53.784000" end="0:40:55.898000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:55.224000" end="0:40:57.324000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:55.224000" end="0:40:57.324000" age_lower="65" age_upper="999">
 darum	-	-	-	0:40:55.224000	0:40:57.324000
 liebe	-	-	-	0:40:55.224000	0:40:57.324000
 ich	-	-	-	0:40:55.224000	0:40:57.324000
@@ -5452,9 +5452,9 @@ vielleicht	-	-	-	0:40:55.224000	0:40:57.324000
 auch	-	-	-	0:40:55.224000	0:40:57.324000
 so	-	-	-	0:40:55.224000	0:40:57.324000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:57.324000" end="0:40:57.691000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:40:57.324000" end="0:40:57.691000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:57.691000" end="0:41:08.978000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:40:57.691000" end="0:41:08.978000" age_lower="65" age_upper="999">
 und	-	-	-	0:40:57.691000	0:40:58.798000
 vor	-	-	-	0:40:57.691000	0:40:58.798000
 allem	-	-	-	0:40:57.691000	0:40:58.798000
@@ -5490,9 +5490,9 @@ spün	-	-	-	0:41:04.831000	0:41:08.978000
 haupstächlich	-	-	-	0:41:04.831000	0:41:08.978000
 klarinetten	-	-	-	0:41:04.831000	0:41:08.978000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:08.978000" end="0:41:09.611000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:08.978000" end="0:41:09.611000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:09.224000" end="0:41:12.078000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:09.224000" end="0:41:12.078000" age_lower="65" age_upper="999">
 und	-	-	-	0:41:09.224000	0:41:10.364000
 das	-	-	-	0:41:09.224000	0:41:10.364000
 ist	-	-	-	0:41:09.224000	0:41:10.364000
@@ -5503,9 +5503,9 @@ ist	-	-	-	0:41:10.364000	0:41:11.538000
 ein	-	-	-	0:41:10.364000	0:41:11.538000
 spün	-	-	-	0:41:11.538000	0:41:12.078000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:12.078000" end="0:41:12.764000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:12.078000" end="0:41:12.764000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:12.078000" end="0:41:17.911000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:12.078000" end="0:41:17.911000" age_lower="65" age_upper="999">
 dann	-	-	-	0:41:12.078000	0:41:14.178000
 wird	-	-	-	0:41:12.078000	0:41:14.178000
 getanzt	-	-	-	0:41:12.078000	0:41:14.178000
@@ -5518,9 +5518,9 @@ den	-	-	-	0:41:15.444000	0:41:17.911000
 Boden	-	-	-	0:41:15.444000	0:41:17.911000
 nieder	-	-	-	0:41:15.444000	0:41:17.911000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:17.911000" end="0:41:18.618000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:17.911000" end="0:41:18.618000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:17.911000" end="0:41:25.351000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:17.911000" end="0:41:25.351000" age_lower="65" age_upper="999">
 bei	-	-	-	0:41:17.911000	0:41:18.618000
 diesem	-	-	-	0:41:17.911000	0:41:18.618000
 und	-	-	-	0:41:18.618000	0:41:21.191000
@@ -5539,9 +5539,9 @@ umtatata	-	-	-	0:41:22.791000	0:41:25.351000
 <<kichernd>	-	-	-	0:41:22.791000	0:41:25.351000
 umta>	-	-	-	0:41:22.791000	0:41:25.351000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:25.351000" end="0:41:26.244000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:25.351000" end="0:41:26.244000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:25.351000" end="0:41:33.078000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:25.351000" end="0:41:33.078000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:41:25.351000	0:41:26.244000
 blos>	-	-	-	0:41:25.351000	0:41:26.244000
 mit	-	-	-	0:41:26.244000	0:41:29.878000
@@ -5556,14 +5556,14 @@ mehr	-	-	-	0:41:30.518000	0:41:33.078000
 so	-	-	-	0:41:30.518000	0:41:33.078000
 trompetenortig	-	-	-	0:41:30.518000	0:41:33.078000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:32.904000" end="0:41:33.411000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:32.904000" end="0:41:33.411000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:33.078000" end="0:41:35.018000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:33.078000" end="0:41:35.018000" age_lower="65" age_upper="999">
 mir	-	-	-	0:41:33.078000	0:41:35.018000
 fällt	-	-	-	0:41:33.078000	0:41:35.018000
 jetzt	-	-	-	0:41:33.078000	0:41:35.018000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:34.758000" end="0:41:38.204000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:34.758000" end="0:41:38.204000" age_lower="1" age_upper="999">
 posaune	-	-	-	0:41:34.758000	0:41:35.871000
 oder	-	-	-	0:41:34.758000	0:41:35.871000
 was	-	-	-	0:41:34.758000	0:41:35.871000
@@ -5577,7 +5577,7 @@ ist	-	-	-	0:41:35.871000	0:41:38.204000
 was	-	-	-	0:41:35.871000	0:41:38.204000
 anderes	-	-	-	0:41:35.871000	0:41:38.204000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:36.218000" end="0:41:39.164000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:36.218000" end="0:41:39.164000" age_lower="65" age_upper="999">
 nein	-	-	-	0:41:36.218000	0:41:37.331000
 posaune	-	-	-	0:41:36.218000	0:41:37.331000
 nicht	-	-	-	0:41:36.218000	0:41:37.331000
@@ -5585,18 +5585,18 @@ flügelhorn	-	-	-	0:41:38.111000	0:41:39.164000
 und	-	-	-	0:41:38.111000	0:41:39.164000
 so	-	-	-	0:41:38.111000	0:41:39.164000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:39.164000" end="0:41:40.004000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:39.164000" end="0:41:40.004000" age_lower="1" age_upper="999">
 ah	-	-	-	0:41:39.164000	0:41:40.004000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:39.464000" end="0:41:40.331000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:39.464000" end="0:41:40.331000" age_lower="65" age_upper="999">
 diese	-	-	-	0:41:39.464000	0:41:40.331000
 grossen	-	-	-	0:41:39.464000	0:41:40.331000
 sind	-	-	-	0:41:39.464000	0:41:40.331000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:40.331000" end="0:41:40.724000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:40.331000" end="0:41:40.724000" age_lower="1" age_upper="999">
 ja	-	-	-	0:41:40.331000	0:41:40.724000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:40.331000" end="0:41:45.304000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:40.331000" end="0:41:45.304000" age_lower="65" age_upper="999">
 und	-	-	-	0:41:40.331000	0:41:41.444000
 so	-	-	-	0:41:40.331000	0:41:41.444000
 die	-	-	-	0:41:41.444000	0:41:45.304000
@@ -5610,9 +5610,9 @@ ist	-	-	-	0:41:41.444000	0:41:45.304000
 eine	-	-	-	0:41:41.444000	0:41:45.304000
 andere	-	-	-	0:41:41.444000	0:41:45.304000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:45.304000" end="0:41:45.898000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:45.304000" end="0:41:45.898000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:45.898000" end="0:41:55.958000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:45.898000" end="0:41:55.958000" age_lower="65" age_upper="999">
 ja	-	-	-	0:41:45.898000	0:41:46.164000
 ein	-	-	-	0:41:46.164000	0:41:48.291000
 Kärnten	-	-	-	0:41:46.164000	0:41:48.291000
@@ -5640,9 +5640,9 @@ Musik	-	-	-	0:41:52.951000	0:41:54.444000
 oder	-	-	-	0:41:54.444000	0:41:55.958000
 steirisch	-	-	-	0:41:54.444000	0:41:55.958000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:55.064000" end="0:41:56.624000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:41:55.064000" end="0:41:56.624000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:56.624000" end="0:42:15.891000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:41:56.624000" end="0:42:15.891000" age_lower="65" age_upper="999">
 nein	-	-	-	0:41:56.624000	0:41:58.824000
 die	-	-	-	0:41:56.624000	0:41:58.824000
 Niederösterreicher	-	-	-	0:41:56.624000	0:41:58.824000
@@ -5699,9 +5699,9 @@ dort	-	-	-	0:42:12.931000	0:42:15.891000
 besonders	-	-	-	0:42:12.931000	0:42:15.891000
 bemerkt	-	-	-	0:42:12.931000	0:42:15.891000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:14.411000" end="0:42:15.311000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:14.411000" end="0:42:15.311000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:15.891000" end="0:42:20.331000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:15.891000" end="0:42:20.331000" age_lower="65" age_upper="999">
 damals	-	-	-	0:42:15.891000	0:42:17.458000
 für	-	-	-	0:42:15.891000	0:42:17.458000
 mich	-	-	-	0:42:15.891000	0:42:17.458000
@@ -5721,9 +5721,9 @@ Alten	-	-	-	0:42:17.904000	0:42:20.331000
 <<kichernd>	-	-	-	0:42:17.904000	0:42:20.331000
 frauen;>	-	-	-	0:42:17.904000	0:42:20.331000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:20.331000" end="0:42:21.351000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:20.331000" end="0:42:21.351000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:20.331000" end="0:42:36.958000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:20.331000" end="0:42:36.958000" age_lower="65" age_upper="999">
 die	-	-	-	0:42:21.351000	0:42:23.084000
 haben	-	-	-	0:42:21.351000	0:42:23.084000
 links	-	-	-	0:42:21.351000	0:42:23.084000
@@ -5767,9 +5767,9 @@ Ihrem	-	-	-	0:42:33.438000	0:42:36.958000
 Flascherl	-	-	-	0:42:33.438000	0:42:36.958000
 bier,>	-	-	-	0:42:33.438000	0:42:36.958000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:36.958000" end="0:42:37.824000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:36.958000" end="0:42:37.824000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:36.958000" end="0:42:38.938000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:36.958000" end="0:42:38.938000" age_lower="65" age_upper="999">
 dann	-	-	-	0:42:36.958000	0:42:38.638000
 bewegen	-	-	-	0:42:36.958000	0:42:38.638000
 se	-	-	-	0:42:36.958000	0:42:38.638000
@@ -5778,9 +5778,9 @@ nimmer	-	-	-	0:42:36.958000	0:42:38.638000
 mehr;>	-	-	-	0:42:36.958000	0:42:38.638000
 ja	-	-	-	0:42:38.638000	0:42:38.938000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:38.938000" end="0:42:39.811000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:38.938000" end="0:42:39.811000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:39.211000" end="0:42:44.918000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:39.211000" end="0:42:44.918000" age_lower="65" age_upper="999">
 aber	-	-	-	0:42:39.211000	0:42:41.384000
 die	-	-	-	0:42:39.211000	0:42:41.384000
 die	-	-	-	0:42:39.211000	0:42:41.384000
@@ -5801,9 +5801,9 @@ die	-	-	-	0:42:43.344000	0:42:44.918000
 tanzt	-	-	-	0:42:43.344000	0:42:44.918000
 haben	-	-	-	0:42:43.344000	0:42:44.918000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:43.631000" end="0:42:44.151000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:43.631000" end="0:42:44.151000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:44.918000" end="0:42:47.671000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:44.918000" end="0:42:47.671000" age_lower="65" age_upper="999">
 links	-	-	-	0:42:44.918000	0:42:45.971000
 herum	-	-	-	0:42:44.918000	0:42:45.971000
 so	-	-	-	0:42:45.971000	0:42:47.671000
@@ -5814,12 +5814,12 @@ das	-	-	-	0:42:45.971000	0:42:47.671000
 kennen	-	-	-	0:42:45.971000	0:42:47.671000
 haben	-	-	-	0:42:45.971000	0:42:47.671000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:47.671000" end="0:42:49.738000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:47.671000" end="0:42:49.738000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:48.371000" end="0:42:49.738000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:48.371000" end="0:42:49.738000" age_lower="65" age_upper="999">
 ja	-	-	-	0:42:48.371000	0:42:48.711000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:49.738000" end="0:42:57.618000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:42:49.738000" end="0:42:57.618000" age_lower="1" age_upper="999">
 können	-	-	-	0:42:49.738000	0:42:53.544000
 Sie	-	-	-	0:42:49.738000	0:42:53.544000
 sich	-	-	-	0:42:49.738000	0:42:53.544000
@@ -5833,7 +5833,7 @@ untereinander	-	-	-	0:42:53.544000	0:42:57.618000
 gesprochen	-	-	-	0:42:53.544000	0:42:57.618000
 haben	-	-	-	0:42:53.544000	0:42:57.618000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:57.618000" end="0:43:31.951000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:42:57.618000" end="0:43:31.951000" age_lower="65" age_upper="999">
 nein	-	-	-	0:42:57.618000	0:43:02.271000
 ja	-	-	-	0:42:57.618000	0:43:02.271000
 meine	-	-	-	0:43:02.271000	0:43:04.531000
@@ -5895,9 +5895,9 @@ schwäbischen	-	-	-	0:43:28.284000	0:43:31.951000
 Einschlag	-	-	-	0:43:28.284000	0:43:31.951000
 gehabt	-	-	-	0:43:28.284000	0:43:31.951000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:43:31.951000" end="0:43:33.164000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:43:31.951000" end="0:43:33.164000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:31.951000" end="0:43:36.344000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:31.951000" end="0:43:36.344000" age_lower="65" age_upper="999">
 ja	-	-	-	0:43:31.951000	0:43:32.784000
 weil	-	-	-	0:43:33.164000	0:43:35.231000
 die	-	-	-	0:43:33.164000	0:43:35.231000
@@ -5909,9 +5909,9 @@ war	-	-	-	0:43:35.231000	0:43:35.738000
 denn	-	-	-	0:43:35.231000	0:43:35.738000
 das	-	-	-	0:43:35.231000	0:43:35.738000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:43:36.344000" end="0:43:37.358000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:43:36.344000" end="0:43:37.358000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:37.358000" end="0:43:59.078000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:37.358000" end="0:43:59.078000" age_lower="65" age_upper="999">
 die	-	-	-	0:43:37.358000	0:43:39.691000
 unter	-	-	-	0:43:37.358000	0:43:39.691000
 der	-	-	-	0:43:37.358000	0:43:39.691000
@@ -5976,9 +5976,9 @@ wo	-	-	-	0:43:58.078000	0:43:59.078000
 ich	-	-	-	0:43:58.078000	0:43:59.078000
 herkumm	-	-	-	0:43:58.078000	0:43:59.078000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:43:59.078000" end="0:43:59.718000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:43:59.078000" end="0:43:59.718000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:59.718000" end="0:44:09.764000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:43:59.718000" end="0:44:09.764000" age_lower="65" age_upper="999">
 weil	-	-	-	0:43:59.718000	0:44:02.424000
 das	-	-	-	0:43:59.718000	0:44:02.424000
 doch	-	-	-	0:43:59.718000	0:44:02.424000
@@ -6006,10 +6006,10 @@ dann	-	-	-	0:44:08.324000	0:44:09.764000
 so	-	-	-	0:44:08.324000	0:44:09.764000
 an	-	-	-	0:44:08.324000	0:44:09.764000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:09.764000" end="0:44:10.331000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:09.764000" end="0:44:10.331000" age_lower="1" age_upper="999">
 ja	-	-	-	0:44:09.764000	0:44:10.331000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:10.331000" end="0:44:19.644000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:10.331000" end="0:44:19.644000" age_lower="65" age_upper="999">
 jetzt	-	-	-	0:44:10.331000	0:44:12.158000
 nimmermehr	-	-	-	0:44:10.331000	0:44:12.158000
 so	-	-	-	0:44:10.331000	0:44:12.158000
@@ -6042,9 +6042,9 @@ in	-	-	-	0:44:18.464000	0:44:19.644000
 ORT	ORT	-	-	0:44:18.464000	0:44:19.644000
 geboren	-	-	-	0:44:18.464000	0:44:19.644000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:19.311000" end="0:44:19.991000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:19.311000" end="0:44:19.991000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:19.644000" end="0:44:28.977000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:19.644000" end="0:44:28.977000" age_lower="65" age_upper="999">
 aber	-	-	-	0:44:19.991000	0:44:24.151000
 bei	-	-	-	0:44:19.991000	0:44:24.151000
 meinen	-	-	-	0:44:19.991000	0:44:24.151000
@@ -6069,12 +6069,12 @@ von	-	-	-	0:44:27.531000	0:44:28.977000
 da	-	-	-	0:44:27.531000	0:44:28.977000
 sind	-	-	-	0:44:27.531000	0:44:28.977000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:28.977000" end="0:44:29.671000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:28.977000" end="0:44:29.671000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:29.671000" end="0:44:32.237000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:29.671000" end="0:44:32.237000" age_lower="65" age_upper="999">
 ja	-	-	-	0:44:29.671000	0:44:30.217000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:32.237000" end="0:44:40.277000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:32.237000" end="0:44:40.277000" age_lower="1" age_upper="999">
 haben	-	-	-	0:44:32.237000	0:44:35.037000
 Sie	-	-	-	0:44:32.237000	0:44:35.037000
 den	-	-	-	0:44:32.237000	0:44:35.037000
@@ -6092,7 +6092,7 @@ sprachform	-	-	-	0:44:37.911000	0:44:40.277000
 verändert	-	-	-	0:44:37.911000	0:44:40.277000
 hat	-	-	-	0:44:37.911000	0:44:40.277000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:40.277000" end="0:44:48.384000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:40.277000" end="0:44:48.384000" age_lower="65" age_upper="999">
 nein	-	-	-	0:44:40.277000	0:44:44.924000
 ja	-	-	-	0:44:40.277000	0:44:44.924000
 ist	-	-	-	0:44:44.924000	0:44:46.184000
@@ -6105,9 +6105,9 @@ glaube	-	-	-	0:44:46.184000	0:44:48.384000
 ich	-	-	-	0:44:46.184000	0:44:48.384000
 nicht	-	-	-	0:44:46.184000	0:44:48.384000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:48.384000" end="0:44:48.971000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:44:48.384000" end="0:44:48.971000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:48.971000" end="0:45:35.731000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:44:48.971000" end="0:45:35.731000" age_lower="65" age_upper="999">
 wir	-	-	-	0:44:48.971000	0:44:51.564000
 haben	-	-	-	0:44:48.971000	0:44:51.564000
 nur	-	-	-	0:44:48.971000	0:44:51.564000
@@ -6217,11 +6217,11 @@ wenigste	-	-	-	0:45:33.251000	0:45:35.731000
 Problem	-	-	-	0:45:33.251000	0:45:35.731000
 damit	-	-	-	0:45:33.251000	0:45:35.731000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:45:35.517000" end="0:45:36.471000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:45:35.517000" end="0:45:36.471000" age_lower="1" age_upper="999">
 ja	-	-	-	0:45:35.731000	0:45:36.471000
 sicher	-	-	-	0:45:35.731000	0:45:36.471000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:36.471000" end="0:46:05.044000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:45:36.471000" end="0:46:05.044000" age_lower="65" age_upper="999">
 aber	-	-	-	0:45:36.471000	0:45:38.704000
 wenn	-	-	-	0:45:36.471000	0:45:38.704000
 ich	-	-	-	0:45:36.471000	0:45:38.704000
@@ -6311,9 +6311,9 @@ eine	-	-	-	0:46:03.584000	0:46:05.044000
 Fremdsprache	-	-	-	0:46:03.584000	0:46:05.044000
 braucht	-	-	-	0:46:03.584000	0:46:05.044000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:05.044000" end="0:46:05.837000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:05.044000" end="0:46:05.837000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:05.044000" end="0:46:14.557000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:05.044000" end="0:46:14.557000" age_lower="65" age_upper="999">
 weil	-	-	-	0:46:05.837000	0:46:08.037000
 durchs	-	-	-	0:46:05.837000	0:46:08.037000
 Internet	-	-	-	0:46:05.837000	0:46:08.037000
@@ -6334,11 +6334,11 @@ damals	-	-	-	0:46:12.417000	0:46:14.557000
 nicht	-	-	-	0:46:12.417000	0:46:14.557000
 so	-	-	-	0:46:12.417000	0:46:14.557000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:14.557000" end="0:46:17.011000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:14.557000" end="0:46:17.011000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:17.011000" end="0:46:17.544000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:17.011000" end="0:46:17.544000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:17.544000" end="0:46:26.471000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:17.544000" end="0:46:26.471000" age_lower="1" age_upper="999">
 wie	-	-	-	0:46:17.544000	0:46:21.484000
 wurde	-	-	-	0:46:17.544000	0:46:21.484000
 bei	-	-	-	0:46:17.544000	0:46:21.484000
@@ -6353,19 +6353,19 @@ klar	-	-	-	0:46:21.484000	0:46:24.877000
 eher	-	-	-	0:46:24.877000	0:46:26.471000
 Dialekt	-	-	-	0:46:24.877000	0:46:26.471000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:25.091000" end="0:46:25.404000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:25.091000" end="0:46:25.404000" age_lower="65" age_upper="999">
 ja	-	-	-	0:46:25.091000	0:46:25.404000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:26.471000" end="0:46:29.231000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:26.471000" end="0:46:29.231000" age_lower="1" age_upper="999">
 eher	-	-	-	0:46:26.471000	0:46:28.324000
 Hochdeutsch	-	-	-	0:46:26.471000	0:46:28.324000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:28.817000" end="0:46:30.884000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:28.817000" end="0:46:30.884000" age_lower="65" age_upper="999">
 nein	-	-	-	0:46:28.817000	0:46:29.231000
 ja	-	-	-	0:46:28.817000	0:46:29.231000
 Hochdeutsch	-	-	-	0:46:29.231000	0:46:30.644000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:30.884000" end="0:46:37.351000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:30.884000" end="0:46:37.351000" age_lower="1" age_upper="999">
 und	-	-	-	0:46:30.884000	0:46:33.151000
 finden	-	-	-	0:46:30.884000	0:46:33.151000
 Sie	-	-	-	0:46:30.884000	0:46:33.151000
@@ -6384,7 +6384,7 @@ Meinung	-	-	-	0:46:34.251000	0:46:37.351000
 nach	-	-	-	0:46:34.251000	0:46:37.351000
 sprechen	-	-	-	0:46:34.251000	0:46:37.351000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:37.024000" end="0:46:47.857000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:37.024000" end="0:46:47.857000" age_lower="65" age_upper="999">
 ja	-	-	-	0:46:37.024000	0:46:37.351000
 sollte	-	-	-	0:46:37.351000	0:46:39.697000
 man	-	-	-	0:46:37.351000	0:46:39.697000
@@ -6419,9 +6419,9 @@ Sprache	-	-	-	0:46:45.857000	0:46:47.857000
 wie	-	-	-	0:46:45.857000	0:46:47.857000
 ich	-	-	-	0:46:45.857000	0:46:47.857000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:47.857000" end="0:46:48.831000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:47.857000" end="0:46:48.831000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:48.831000" end="0:46:56.677000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:48.831000" end="0:46:56.677000" age_lower="65" age_upper="999">
 also	-	-	-	0:46:48.831000	0:46:50.764000
 das	-	-	-	0:46:48.831000	0:46:50.764000
 merkt	-	-	-	0:46:48.831000	0:46:50.764000
@@ -6442,9 +6442,9 @@ Uni	-	-	-	0:46:54.271000	0:46:56.677000
 sehr	-	-	-	0:46:54.271000	0:46:56.677000
 geprägt	-	-	-	0:46:54.271000	0:46:56.677000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:56.677000" end="0:46:57.397000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:56.677000" end="0:46:57.397000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:57.397000" end="0:46:59.724000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:46:57.397000" end="0:46:59.724000" age_lower="65" age_upper="999">
 also	-	-	-	0:46:57.397000	0:46:59.724000
 meine	-	-	-	0:46:57.397000	0:46:59.724000
 Sohn	-	-	-	0:46:57.397000	0:46:59.724000
@@ -6455,7 +6455,7 @@ Sprache	-	-	-	0:46:57.397000	0:46:59.724000
 wie	-	-	-	0:46:57.397000	0:46:59.724000
 ich	-	-	-	0:46:57.397000	0:46:59.724000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:59.724000" end="0:47:09.371000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:46:59.724000" end="0:47:09.371000" age_lower="1" age_upper="999">
 hat	-	-	-	0:46:59.724000	0:47:09.371000
 sich	-	-	-	0:46:59.724000	0:47:09.371000
 an	-	-	-	0:46:59.724000	0:47:09.371000
@@ -6468,31 +6468,31 @@ Berufsleben	-	-	-	0:46:59.724000	0:47:09.371000
 etwas	-	-	-	0:46:59.724000	0:47:09.371000
 verändert	-	-	-	0:46:59.724000	0:47:09.371000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:09.371000" end="0:47:12.404000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:09.371000" end="0:47:12.404000" age_lower="65" age_upper="999">
 nein	-	-	-	0:47:09.371000	0:47:10.997000
 wirklich	-	-	-	0:47:10.997000	0:47:11.951000
 nein	-	-	-	0:47:11.951000	0:47:12.404000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:12.404000" end="0:47:16.424000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:12.404000" end="0:47:16.424000" age_lower="1" age_upper="999">
 und	-	-	-	0:47:14.284000	0:47:16.424000
 mit	-	-	-	0:47:14.284000	0:47:16.424000
 pensionsantritt	-	-	-	0:47:14.284000	0:47:16.424000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:16.424000" end="0:47:20.337000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:16.424000" end="0:47:20.337000" age_lower="65" age_upper="999">
 ich	-	-	-	0:47:16.424000	0:47:20.337000
 glaube	-	-	-	0:47:16.424000	0:47:20.337000
 nicht	-	-	-	0:47:16.424000	0:47:20.337000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:20.337000" end="0:47:21.664000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:20.337000" end="0:47:21.664000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:47:20.337000	0:47:21.664000
 okay;>	-	-	-	0:47:20.337000	0:47:21.664000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:21.164000" end="0:47:21.664000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:21.164000" end="0:47:21.664000" age_lower="65" age_upper="999">
 das	-	-	-	0:47:21.164000	0:47:21.664000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:21.664000" end="0:47:23.331000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:21.664000" end="0:47:23.331000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:23.004000" end="0:47:30.117000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:23.004000" end="0:47:30.117000" age_lower="65" age_upper="999">
 das	-	-	-	0:47:23.004000	0:47:23.551000
 is	-	-	-	0:47:23.551000	0:47:26.991000
 in	-	-	-	0:47:23.551000	0:47:26.991000
@@ -6509,17 +6509,17 @@ dann	-	-	-	0:47:26.991000	0:47:30.117000
 nicht	-	-	-	0:47:26.991000	0:47:30.117000
 mehr	-	-	-	0:47:26.991000	0:47:30.117000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:29.651000" end="0:47:30.117000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:29.651000" end="0:47:30.117000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:30.117000" end="0:47:31.497000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:30.117000" end="0:47:31.497000" age_lower="65" age_upper="999">
 we	-	-	-	0:47:30.117000	0:47:31.224000
 man	-	-	-	0:47:30.117000	0:47:31.224000
 nicht	-	-	-	0:47:30.117000	0:47:31.224000
 muss	-	-	-	0:47:30.117000	0:47:31.224000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:31.497000" end="0:47:32.171000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:31.497000" end="0:47:32.171000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:32.171000" end="0:47:43.204000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:32.171000" end="0:47:43.204000" age_lower="65" age_upper="999">
 kommt	-	-	-	0:47:32.171000	0:47:33.764000
 darauf	-	-	-	0:47:32.171000	0:47:33.764000
 an	-	-	-	0:47:32.171000	0:47:33.764000
@@ -6552,11 +6552,11 @@ Sonntag	-	-	-	0:47:37.964000	0:47:43.204000
 was	-	-	-	0:47:37.964000	0:47:43.204000
 tun;>	-	-	-	0:47:37.964000	0:47:43.204000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:38.397000" end="0:47:39.924000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:38.397000" end="0:47:39.924000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:43.204000" end="0:47:44.704000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:43.204000" end="0:47:44.704000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:43.897000" end="0:47:58.811000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:47:43.897000" end="0:47:58.811000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:47:44.704000	0:47:49.124000
 sie	-	-	-	0:47:44.704000	0:47:49.124000
 eigentlich	-	-	-	0:47:44.704000	0:47:49.124000
@@ -6574,7 +6574,7 @@ oder	-	-	-	0:47:54.177000	0:47:55.784000
 unterschiedlich	-	-	-	0:47:54.177000	0:47:55.784000
 so	-	-	-	0:47:55.784000	0:47:56.897000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:58.811000" end="0:48:11.471000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:47:58.811000" end="0:48:11.471000" age_lower="65" age_upper="999">
 nein	-	-	-	0:47:58.811000	0:48:02.351000
 ja	-	-	-	0:47:58.811000	0:48:02.351000
 eigentlich	-	-	-	0:48:02.351000	0:48:06.084000
@@ -6591,17 +6591,17 @@ anzupassen	-	-	-	0:48:07.411000	0:48:10.131000
 nicht	-	-	-	0:48:10.131000	0:48:11.471000
 wirklich	-	-	-	0:48:10.131000	0:48:11.471000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:11.471000" end="0:48:12.391000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:11.471000" end="0:48:12.391000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:12.391000" end="0:48:16.324000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:12.391000" end="0:48:16.324000" age_lower="65" age_upper="999">
 der	-	-	-	0:48:12.391000	0:48:16.324000
 spricht	-	-	-	0:48:12.391000	0:48:16.324000
 eher	-	-	-	0:48:12.391000	0:48:16.324000
 Hochdeutsch	-	-	-	0:48:12.391000	0:48:16.324000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:16.324000" end="0:48:16.837000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:16.324000" end="0:48:16.837000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:16.837000" end="0:48:25.971000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:16.837000" end="0:48:25.971000" age_lower="65" age_upper="999">
 ja	-	-	-	0:48:16.837000	0:48:18.177000
 der	-	-	-	0:48:18.177000	0:48:20.817000
 der	-	-	-	0:48:18.177000	0:48:20.817000
@@ -6627,9 +6627,9 @@ Ausdrücke	-	-	-	0:48:22.691000	0:48:25.971000
 nicht	-	-	-	0:48:22.691000	0:48:25.971000
 mehr	-	-	-	0:48:22.691000	0:48:25.971000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:25.971000" end="0:48:26.317000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:25.971000" end="0:48:26.317000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:25.971000" end="0:48:30.071000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:25.971000" end="0:48:30.071000" age_lower="65" age_upper="999">
 gar	-	-	-	0:48:25.971000	0:48:30.071000
 keine	-	-	-	0:48:25.971000	0:48:30.071000
 Fremdsprache	-	-	-	0:48:25.971000	0:48:30.071000
@@ -6639,9 +6639,9 @@ sind;>	-	-	-	0:48:25.971000	0:48:30.071000
 für	-	-	-	0:48:25.971000	0:48:30.071000
 mein	-	-	-	0:48:25.971000	0:48:30.071000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:30.071000" end="0:48:33.057000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:30.071000" end="0:48:33.057000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:30.071000" end="0:48:39.944000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:30.071000" end="0:48:39.944000" age_lower="65" age_upper="999">
 Sohn	-	-	-	0:48:30.071000	0:48:33.057000
 ist	-	-	-	0:48:30.071000	0:48:33.057000
 das	-	-	-	0:48:30.071000	0:48:33.057000
@@ -6671,7 +6671,7 @@ ja	-	-	-	0:48:37.297000	0:48:39.124000
 <<lachend>	-	-	-	0:48:39.124000	0:48:39.944000
 hm;>	-	-	-	0:48:39.124000	0:48:39.944000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:39.944000" end="0:48:42.631000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:39.944000" end="0:48:42.631000" age_lower="1" age_upper="999">
 ah	-	-	-	0:48:39.944000	0:48:42.631000
 Ihr	-	-	-	0:48:39.944000	0:48:42.631000
 Sohn	-	-	-	0:48:39.944000	0:48:42.631000
@@ -6681,10 +6681,10 @@ hier	-	-	-	0:48:39.944000	0:48:42.631000
 aufgewachsen	-	-	-	0:48:39.944000	0:48:42.631000
 oder	-	-	-	0:48:39.944000	0:48:42.631000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:42.631000" end="0:48:43.037000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:42.631000" end="0:48:43.037000" age_lower="65" age_upper="999">
 ja	-	-	-	0:48:42.631000	0:48:43.037000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:43.037000" end="0:48:44.571000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:43.037000" end="0:48:44.571000" age_lower="1" age_upper="999">
 darf	-	-	-	0:48:43.037000	0:48:44.571000
 ich	-	-	-	0:48:43.037000	0:48:44.571000
 fragen	-	-	-	0:48:43.037000	0:48:44.571000
@@ -6693,7 +6693,7 @@ alt	-	-	-	0:48:43.037000	0:48:44.571000
 der	-	-	-	0:48:43.037000	0:48:44.571000
 ist	-	-	-	0:48:43.037000	0:48:44.571000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:44.571000" end="0:48:50.404000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:44.571000" end="0:48:50.404000" age_lower="65" age_upper="999">
 er	-	-	-	0:48:44.571000	0:48:50.404000
 ist	-	-	-	0:48:44.571000	0:48:50.404000
 jetzt	-	-	-	0:48:44.571000	0:48:50.404000
@@ -6701,7 +6701,7 @@ so	-	-	-	0:48:44.571000	0:48:50.404000
 dreif	-	-	-	0:48:44.571000	0:48:50.404000
 vierunvierzig	-	-	-	0:48:44.571000	0:48:50.404000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:50.404000" end="0:48:53.391000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:50.404000" end="0:48:53.391000" age_lower="1" age_upper="999">
 aso	-	-	-	0:48:50.404000	0:48:51.444000
 okay	-	-	-	0:48:50.404000	0:48:51.444000
 passt	-	-	-	0:48:51.444000	0:48:53.391000
@@ -6711,9 +6711,9 @@ in	-	-	-	0:48:51.444000	0:48:53.391000
 unsere	-	-	-	0:48:51.444000	0:48:53.391000
 Altersgruppe	-	-	-	0:48:51.444000	0:48:53.391000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:52.977000" end="0:48:53.977000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:48:52.977000" end="0:48:53.977000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:53.977000" end="0:49:06.644000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:48:53.977000" end="0:49:06.644000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:48:53.977000	0:48:57.624000
 Sie	-	-	-	0:48:53.977000	0:48:57.624000
 sie	-	-	-	0:48:57.624000	0:48:59.691000
@@ -6745,9 +6745,9 @@ tanzverein	-	-	-	0:49:03.751000	0:49:06.644000
 etwas	-	-	-	0:49:03.751000	0:49:06.644000
 organisieren	-	-	-	0:49:03.751000	0:49:06.644000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:04.844000" end="0:49:05.297000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:04.844000" end="0:49:05.297000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:49:06.644000" end="0:49:14.984000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:49:06.644000" end="0:49:14.984000" age_lower="1" age_upper="999">
 sprechen	-	-	-	0:49:06.644000	0:49:10.731000
 Sie	-	-	-	0:49:06.644000	0:49:10.731000
 da	-	-	-	0:49:06.644000	0:49:10.731000
@@ -6776,15 +6776,15 @@ nicht	-	-	-	0:49:12.651000	0:49:14.984000
 auf	-	-	-	0:49:12.651000	0:49:14.984000
 Deutsch	-	-	-	0:49:12.651000	0:49:14.984000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:12.844000" end="0:49:14.697000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:12.844000" end="0:49:14.697000" age_lower="65" age_upper="999">
 ja	-	-	-	0:49:14.304000	0:49:14.697000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:49:14.984000" end="0:49:16.291000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:49:14.984000" end="0:49:16.291000" age_lower="1" age_upper="999">
 regeln	-	-	-	0:49:14.984000	0:49:16.291000
 können	-	-	-	0:49:14.984000	0:49:16.291000
 oder	-	-	-	0:49:14.984000	0:49:16.291000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:16.291000" end="0:49:21.204000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:16.291000" end="0:49:21.204000" age_lower="65" age_upper="999">
 na	-	-	-	0:49:16.291000	0:49:17.291000
 ja	-	-	-	0:49:16.291000	0:49:17.291000
 ist	-	-	-	0:49:17.291000	0:49:18.071000
@@ -6801,10 +6801,10 @@ der	-	-	-	0:49:18.071000	0:49:21.204000
 ganzen	-	-	-	0:49:18.071000	0:49:21.204000
 wöt	-	-	-	0:49:18.071000	0:49:21.204000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:49:21.204000" end="0:49:21.957000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:49:21.204000" end="0:49:21.957000" age_lower="1" age_upper="999">
 eben	-	-	-	0:49:21.204000	0:49:21.617000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:21.957000" end="0:50:16.377000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:49:21.957000" end="0:50:16.377000" age_lower="65" age_upper="999">
 und	-	-	-	0:49:21.957000	0:49:23.697000
 beim	-	-	-	0:49:21.957000	0:49:23.697000
 squaredance	-	-	-	0:49:21.957000	0:49:23.697000
@@ -6945,9 +6945,9 @@ angefangt	-	-	-	0:50:12.177000	0:50:15.384000
 zu	-	-	-	0:50:15.384000	0:50:16.377000
 lernen	-	-	-	0:50:15.384000	0:50:16.377000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:50:16.377000" end="0:50:16.997000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:50:16.377000" end="0:50:16.997000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:16.777000" end="0:50:29.897000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:16.777000" end="0:50:29.897000" age_lower="65" age_upper="999">
 weil	-	-	-	0:50:16.777000	0:50:18.211000
 dann	-	-	-	0:50:16.777000	0:50:18.211000
 liest	-	-	-	0:50:16.777000	0:50:18.211000
@@ -6990,9 +6990,9 @@ miteinander	-	-	-	0:50:28.097000	0:50:29.897000
 nicht	-	-	-	0:50:28.097000	0:50:29.897000
 kommunizieren	-	-	-	0:50:28.097000	0:50:29.897000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:50:29.604000" end="0:50:30.551000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:50:29.604000" end="0:50:30.551000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:29.897000" end="0:50:37.037000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:29.897000" end="0:50:37.037000" age_lower="65" age_upper="999">
 oder	-	-	-	0:50:30.551000	0:50:33.057000
 hat	-	-	-	0:50:30.551000	0:50:33.057000
 noch	-	-	-	0:50:30.551000	0:50:33.057000
@@ -7010,9 +7010,9 @@ super	-	-	-	0:50:34.824000	0:50:37.037000
 für	-	-	-	0:50:34.824000	0:50:37.037000
 mich	-	-	-	0:50:34.824000	0:50:37.037000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:50:37.037000" end="0:50:37.817000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:50:37.037000" end="0:50:37.817000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:37.817000" end="0:51:00.051000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:50:37.817000" end="0:51:00.051000" age_lower="65" age_upper="999">
 und	-	-	-	0:50:37.817000	0:50:39.691000
 seit	-	-	-	0:50:37.817000	0:50:39.691000
 ich	-	-	-	0:50:37.817000	0:50:39.691000
@@ -7074,9 +7074,9 @@ kein	-	-	-	0:50:58.157000	0:51:00.051000
 Englisch	-	-	-	0:50:58.157000	0:51:00.051000
 gesprochen	-	-	-	0:50:58.157000	0:51:00.051000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:00.051000" end="0:51:00.671000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:00.051000" end="0:51:00.671000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:00.671000" end="0:51:23.384000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:00.671000" end="0:51:23.384000" age_lower="65" age_upper="999">
 haben	-	-	-	0:51:00.671000	0:51:02.524000
 das	-	-	-	0:51:00.671000	0:51:02.524000
 schon	-	-	-	0:51:00.671000	0:51:02.524000
@@ -7147,10 +7147,10 @@ und	-	-	-	0:51:20.891000	0:51:23.384000
 ich	-	-	-	0:51:20.891000	0:51:23.384000
 merke	-	-	-	0:51:20.891000	0:51:23.384000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:23.104000" end="0:51:23.671000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:23.104000" end="0:51:23.671000" age_lower="1" age_upper="999">
 sicher	-	-	-	0:51:23.104000	0:51:23.671000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:23.384000" end="0:51:29.684000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:23.384000" end="0:51:29.684000" age_lower="65" age_upper="999">
 es	-	-	-	0:51:23.384000	0:51:25.157000
 jedes	-	-	-	0:51:23.384000	0:51:25.157000
 Jahr	-	-	-	0:51:23.384000	0:51:25.157000
@@ -7172,14 +7172,14 @@ schon	-	-	-	0:51:27.891000	0:51:29.684000
 Englisch	-	-	-	0:51:27.891000	0:51:29.684000
 denke	-	-	-	0:51:27.891000	0:51:29.684000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:29.684000" end="0:51:30.351000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:29.684000" end="0:51:30.351000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:30.351000" end="0:51:30.857000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:30.351000" end="0:51:30.857000" age_lower="65" age_upper="999">
 ja	-	-	-	0:51:30.351000	0:51:30.857000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:30.677000" end="0:51:31.217000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:30.677000" end="0:51:31.217000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:31.217000" end="0:51:36.977000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:31.217000" end="0:51:36.977000" age_lower="65" age_upper="999">
 das	-	-	-	0:51:31.217000	0:51:32.997000
 ist	-	-	-	0:51:31.217000	0:51:32.997000
 wirklich	-	-	-	0:51:31.217000	0:51:32.997000
@@ -7200,9 +7200,9 @@ eine	-	-	-	0:51:34.731000	0:51:36.977000
 andere	-	-	-	0:51:34.731000	0:51:36.977000
 Sprache	-	-	-	0:51:34.731000	0:51:36.977000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:36.977000" end="0:51:37.457000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:36.977000" end="0:51:37.457000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:37.457000" end="0:51:48.404000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:37.457000" end="0:51:48.404000" age_lower="65" age_upper="999">
 das	-	-	-	0:51:37.457000	0:51:39.797000
 ist	-	-	-	0:51:37.457000	0:51:39.797000
 für	-	-	-	0:51:37.457000	0:51:39.797000
@@ -7240,41 +7240,41 @@ kommt	-	-	-	0:51:45.731000	0:51:47.551000
 Englisch	-	-	-	0:51:47.551000	0:51:48.404000
 weiter	-	-	-	0:51:47.551000	0:51:48.404000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:48.124000" end="0:51:49.090000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:48.124000" end="0:51:49.090000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:48.404000" end="0:51:50.070000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:48.404000" end="0:51:50.070000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:51:48.404000	0:51:50.070000
 das	-	-	-	0:51:48.404000	0:51:50.070000
 des>	-	-	-	0:51:48.404000	0:51:50.070000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:49.490000" end="0:51:50.070000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:49.490000" end="0:51:50.070000" age_lower="1" age_upper="999">
 ja	-	-	-	0:51:49.490000	0:51:50.070000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:50.070000" end="0:51:52.750000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:50.070000" end="0:51:52.750000" age_lower="65" age_upper="999">
 also	-	-	-	0:51:50.070000	0:51:52.750000
 das	-	-	-	0:51:50.070000	0:51:52.750000
 Hirn	-	-	-	0:51:50.070000	0:51:52.750000
 schalte	-	-	-	0:51:50.070000	0:51:52.750000
 um	-	-	-	0:51:50.070000	0:51:52.750000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:52.750000" end="0:51:53.377000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:52.750000" end="0:51:53.377000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:53.377000" end="0:51:54.724000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:53.377000" end="0:51:54.724000" age_lower="65" age_upper="999">
 das	-	-	-	0:51:53.377000	0:51:54.724000
 ist	-	-	-	0:51:53.377000	0:51:54.724000
 interessant	-	-	-	0:51:53.377000	0:51:54.724000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:53.924000" end="0:51:55.104000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:53.924000" end="0:51:55.104000" age_lower="1" age_upper="999">
 Wahnsinn	-	-	-	0:51:53.924000	0:51:54.724000
 ja	-	-	-	0:51:54.724000	0:51:55.104000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:54.897000" end="0:51:55.224000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:54.897000" end="0:51:55.224000" age_lower="65" age_upper="999">
 ja	-	-	-	0:51:54.897000	0:51:55.224000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:55.104000" end="0:51:55.897000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:51:55.104000" end="0:51:55.897000" age_lower="1" age_upper="999">
 stimmt	-	-	-	0:51:55.104000	0:51:55.897000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:55.897000" end="0:52:07.544000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:51:55.897000" end="0:52:07.544000" age_lower="65" age_upper="999">
 und	-	-	-	0:51:55.897000	0:51:57.150000
 es	-	-	-	0:51:55.897000	0:51:57.150000
 es	-	-	-	0:51:55.897000	0:51:57.150000
@@ -7312,11 +7312,11 @@ keine	-	-	-	0:52:05.630000	0:52:07.544000
 <<lachend>	-	-	-	0:52:05.630000	0:52:07.544000
 zeit;>	-	-	-	0:52:05.630000	0:52:07.544000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:07.544000" end="0:52:09.230000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:07.544000" end="0:52:09.230000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:07.544000" end="0:52:08.717000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:07.544000" end="0:52:08.717000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:09.230000" end="0:52:14.430000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:09.230000" end="0:52:14.430000" age_lower="1" age_upper="999">
 und	-	-	-	0:52:09.230000	0:52:10.884000
 Sie	-	-	-	0:52:09.230000	0:52:10.884000
 haben	-	-	-	0:52:09.230000	0:52:10.884000
@@ -7336,15 +7336,15 @@ nur	-	-	-	0:52:13.237000	0:52:14.430000
 einen	-	-	-	0:52:13.237000	0:52:14.430000
 Sohn	-	-	-	0:52:13.237000	0:52:14.430000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:14.324000" end="0:52:15.184000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:14.324000" end="0:52:15.184000" age_lower="65" age_upper="999">
 einen	-	-	-	0:52:14.324000	0:52:15.184000
 Sohn	-	-	-	0:52:14.324000	0:52:15.184000
 habe	-	-	-	0:52:14.324000	0:52:15.184000
 ich	-	-	-	0:52:14.324000	0:52:15.184000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:14.430000" end="0:52:15.057000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:14.430000" end="0:52:15.057000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:15.184000" end="0:52:29.490000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:15.184000" end="0:52:29.490000" age_lower="65" age_upper="999">
 nein	-	-	-	0:52:15.524000	0:52:16.390000
 ja	-	-	-	0:52:15.524000	0:52:16.390000
 wenn	-	-	-	0:52:16.390000	0:52:19.224000
@@ -7376,15 +7376,15 @@ nicht	-	-	-	0:52:27.184000	0:52:29.490000
 bewusst	-	-	-	0:52:27.184000	0:52:29.490000
 sondern	-	-	-	0:52:27.184000	0:52:29.490000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:27.470000" end="0:52:29.390000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:27.470000" end="0:52:29.390000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:29.490000" end="0:52:32.144000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:29.490000" end="0:52:32.144000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:52:29.784000	0:52:32.144000
 i>	-	-	-	0:52:29.784000	0:52:32.144000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:32.144000" end="0:52:32.664000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:32.144000" end="0:52:32.664000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:32.144000" end="0:52:40.524000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:32.144000" end="0:52:40.524000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	0:52:32.664000	0:52:33.750000
 ich	-	-	-	0:52:32.664000	0:52:33.750000
 versuch,>	-	-	-	0:52:32.664000	0:52:33.750000
@@ -7405,20 +7405,20 @@ jo;>	-	-	-	0:52:38.790000	0:52:40.524000
 aber	-	-	-	0:52:38.790000	0:52:40.524000
 wenn	-	-	-	0:52:38.790000	0:52:40.524000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:39.257000" end="0:52:41.937000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:39.257000" end="0:52:41.937000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:52:40.524000	0:52:41.937000
 damit	-	-	-	0:52:40.524000	0:52:41.937000
 er	-	-	-	0:52:40.524000	0:52:41.937000
 sie	-	-	-	0:52:40.524000	0:52:41.937000
 versteht;>	-	-	-	0:52:40.524000	0:52:41.937000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:41.717000" end="0:52:42.170000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:41.717000" end="0:52:42.170000" age_lower="65" age_upper="999">
 ich	-	-	-	0:52:41.717000	0:52:42.170000
 mit	-	-	-	0:52:41.717000	0:52:42.170000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:42.170000" end="0:52:44.117000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:42.170000" end="0:52:44.117000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:42.170000" end="0:52:53.044000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:42.170000" end="0:52:53.044000" age_lower="65" age_upper="999">
 einen	-	-	-	0:52:44.117000	0:52:45.630000
 richtigen	-	-	-	0:52:44.117000	0:52:45.630000
 Wiener	-	-	-	0:52:44.117000	0:52:45.630000
@@ -7453,9 +7453,9 @@ eine	-	-	-	0:52:49.477000	0:52:52.770000
 eigene	-	-	-	0:52:49.477000	0:52:52.770000
 Sprache	-	-	-	0:52:49.477000	0:52:52.770000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:53.044000" end="0:52:53.484000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:52:53.044000" end="0:52:53.484000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:53.484000" end="0:53:01.950000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:52:53.484000" end="0:53:01.950000" age_lower="65" age_upper="999">
 aber	-	-	-	0:52:53.484000	0:52:54.884000
 das	-	-	-	0:52:53.484000	0:52:54.884000
 weiß	-	-	-	0:52:53.484000	0:52:54.884000
@@ -7491,11 +7491,11 @@ ganz	-	-	-	0:53:00.444000	0:53:01.950000
 normal	-	-	-	0:53:00.444000	0:53:01.950000
 gesprochen	-	-	-	0:53:00.444000	0:53:01.950000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:01.950000" end="0:53:03.117000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:01.950000" end="0:53:03.117000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:53:01.950000	0:53:03.117000
 witzig;>	-	-	-	0:53:01.950000	0:53:03.117000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:02.317000" end="0:53:05.104000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:02.317000" end="0:53:05.104000" age_lower="65" age_upper="999">
 ab	-	-	-	0:53:02.317000	0:53:03.370000
 in	-	-	-	0:53:02.317000	0:53:03.370000
 darüber	-	-	-	0:53:02.317000	0:53:03.370000
@@ -7507,10 +7507,10 @@ nicht	-	-	-	0:53:03.370000	0:53:05.104000
 normal	-	-	-	0:53:03.370000	0:53:05.104000
 gesprochen	-	-	-	0:53:03.370000	0:53:05.104000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:04.657000" end="0:53:05.104000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:04.657000" end="0:53:05.104000" age_lower="1" age_upper="999">
 ja	-	-	-	0:53:04.657000	0:53:05.104000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:05.104000" end="0:53:08.550000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:05.104000" end="0:53:08.550000" age_lower="65" age_upper="999">
 wirklich	-	-	-	0:53:05.104000	0:53:06.650000
 äh	-	-	-	0:53:05.104000	0:53:06.650000
 wie	-	-	-	0:53:05.104000	0:53:06.650000
@@ -7518,17 +7518,17 @@ arm	-	-	-	0:53:05.104000	0:53:06.650000
 versteht	-	-	-	0:53:06.650000	0:53:07.604000
 nix	-	-	-	0:53:06.650000	0:53:07.604000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:08.390000" end="0:53:09.557000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:08.390000" end="0:53:09.557000" age_lower="1" age_upper="999">
 das	-	-	-	0:53:08.390000	0:53:09.557000
 ist	-	-	-	0:53:08.390000	0:53:09.557000
 wirklich	-	-	-	0:53:08.390000	0:53:09.557000
 lustig	-	-	-	0:53:08.390000	0:53:09.557000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:09.557000" end="0:53:09.877000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:09.557000" end="0:53:09.877000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:53:09.557000	0:53:09.877000
 ja>	-	-	-	0:53:09.557000	0:53:09.877000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:09.877000" end="0:53:18.864000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:09.877000" end="0:53:18.864000" age_lower="1" age_upper="999">
 ich	-	-	-	0:53:10.197000	0:53:13.750000
 weiß	-	-	-	0:53:10.197000	0:53:13.750000
 jetzt	-	-	-	0:53:10.197000	0:53:13.750000
@@ -7548,23 +7548,23 @@ der	-	-	-	0:53:13.750000	0:53:18.024000
 ORT	ORT	-	-	0:53:13.750000	0:53:18.024000
 ORT	ORT	-	-	0:53:13.750000	0:53:18.024000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:18.864000" end="0:53:20.897000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:18.864000" end="0:53:20.897000" age_lower="65" age_upper="999">
 neu	-	-	-	0:53:18.864000	0:53:19.450000
 eigentich	-	-	-	0:53:19.450000	0:53:20.350000
 war	-	-	-	0:53:20.350000	0:53:20.897000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:20.510000" end="0:53:21.924000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:20.510000" end="0:53:21.924000" age_lower="1" age_upper="999">
 aber	-	-	-	0:53:20.510000	0:53:21.924000
 so	-	-	-	0:53:20.510000	0:53:21.924000
 steirisch	-	-	-	0:53:20.510000	0:53:21.924000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:21.924000" end="0:53:23.237000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:21.924000" end="0:53:23.237000" age_lower="65" age_upper="999">
 nein	-	-	-	0:53:21.924000	0:53:22.384000
 ja	-	-	-	0:53:21.924000	0:53:22.384000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:23.237000" end="0:53:23.804000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:23.237000" end="0:53:23.804000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:23.804000" end="0:53:27.977000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:23.804000" end="0:53:27.977000" age_lower="65" age_upper="999">
 ich	-	-	-	0:53:23.804000	0:53:25.517000
 habe	-	-	-	0:53:23.804000	0:53:25.517000
 auch	-	-	-	0:53:23.804000	0:53:25.517000
@@ -7582,9 +7582,9 @@ Freunde	-	-	-	0:53:25.517000	0:53:27.977000
 und	-	-	-	0:53:25.517000	0:53:27.977000
 so	-	-	-	0:53:25.517000	0:53:27.977000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:26.630000" end="0:53:27.124000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:26.630000" end="0:53:27.124000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:27.977000" end="0:53:36.850000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:27.977000" end="0:53:36.850000" age_lower="65" age_upper="999">
 aber	-	-	-	0:53:27.977000	0:53:31.870000
 so	-	-	-	0:53:27.977000	0:53:31.870000
 ex	-	-	-	0:53:27.977000	0:53:31.870000
@@ -7614,9 +7614,9 @@ viele	-	-	-	0:53:34.910000	0:53:36.590000
 ein	-	-	-	0:53:34.910000	0:53:36.590000
 aso	-	-	-	0:53:36.590000	0:53:36.850000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:36.850000" end="0:53:37.284000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:36.850000" end="0:53:37.284000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:37.284000" end="0:53:39.570000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:37.284000" end="0:53:39.570000" age_lower="65" age_upper="999">
 ja	-	-	-	0:53:37.284000	0:53:38.510000
 ich	-	-	-	0:53:37.284000	0:53:38.510000
 weiß	-	-	-	0:53:37.284000	0:53:38.510000
@@ -7626,19 +7626,19 @@ Steirer	-	-	-	0:53:37.284000	0:53:38.510000
 bellen	-	-	-	0:53:38.510000	0:53:39.224000
 ja	-	-	-	0:53:38.510000	0:53:39.224000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:39.570000" end="0:53:40.377000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:39.570000" end="0:53:40.377000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:39.990000" end="0:53:40.937000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:39.990000" end="0:53:40.937000" age_lower="65" age_upper="999">
 wou	-	-	-	0:53:39.990000	0:53:40.377000
 Sau	-	-	-	0:53:40.377000	0:53:40.937000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:40.937000" end="0:53:41.344000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:40.937000" end="0:53:41.344000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:40.937000" end="0:53:41.437000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:40.937000" end="0:53:41.437000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:41.344000" end="0:53:41.670000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:41.344000" end="0:53:41.670000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:41.670000" end="0:53:47.430000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:41.670000" end="0:53:47.430000" age_lower="65" age_upper="999">
 ja	-	-	-	0:53:41.670000	0:53:42.130000
 aber	-	-	-	0:53:42.130000	0:53:43.770000
 ich	-	-	-	0:53:42.130000	0:53:43.770000
@@ -7656,7 +7656,7 @@ einen	-	-	-	0:53:43.770000	0:53:47.430000
 Steirer	-	-	-	0:53:43.770000	0:53:47.430000
 geheiratet	-	-	-	0:53:43.770000	0:53:47.430000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:47.430000" end="0:53:49.197000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:47.430000" end="0:53:49.197000" age_lower="1" age_upper="999">
 ist	-	-	-	0:53:47.930000	0:53:49.197000
 der	-	-	-	0:53:47.930000	0:53:49.197000
 wenn	-	-	-	0:53:47.930000	0:53:49.197000
@@ -7664,26 +7664,26 @@ ich	-	-	-	0:53:47.930000	0:53:49.197000
 fragen	-	-	-	0:53:47.930000	0:53:49.197000
 darf	-	-	-	0:53:47.930000	0:53:49.197000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:49.197000" end="0:53:51.764000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:49.197000" end="0:53:51.764000" age_lower="65" age_upper="999">
 der	-	-	-	0:53:49.197000	0:53:51.764000
 ist	-	-	-	0:53:49.197000	0:53:51.764000
 aus	-	-	-	0:53:49.197000	0:53:51.764000
 ORT	ORT	-	-	0:53:49.197000	0:53:51.764000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:51.764000" end="0:53:52.210000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:51.764000" end="0:53:52.210000" age_lower="1" age_upper="999">
 aha	-	-	-	0:53:51.764000	0:53:52.210000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:51.917000" end="0:53:53.210000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:51.917000" end="0:53:53.210000" age_lower="65" age_upper="999">
 das	-	-	-	0:53:51.917000	0:53:53.210000
 ist	-	-	-	0:53:51.917000	0:53:53.210000
 noch	-	-	-	0:53:51.917000	0:53:53.210000
 ein	-	-	-	0:53:51.917000	0:53:53.210000
 ORT	ORT	-	-	0:53:51.917000	0:53:53.210000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:53.210000" end="0:53:54.297000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:53:53.210000" end="0:53:54.297000" age_lower="1" age_upper="999">
 okay	-	-	-	0:53:53.210000	0:53:53.810000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:54.297000" end="0:54:05.737000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:53:54.297000" end="0:54:05.737000" age_lower="65" age_upper="999">
 und	-	-	-	0:53:54.297000	0:53:56.217000
 das	-	-	-	0:53:54.297000	0:53:56.217000
 war	-	-	-	0:53:54.297000	0:53:56.217000
@@ -7721,9 +7721,9 @@ Anfang	-	-	-	0:54:03.597000	0:54:05.737000
 nicht	-	-	-	0:54:03.597000	0:54:05.737000
 verstonden	-	-	-	0:54:03.597000	0:54:05.737000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:05.737000" end="0:54:06.424000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:05.737000" end="0:54:06.424000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:05.984000" end="0:54:09.897000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:05.984000" end="0:54:09.897000" age_lower="65" age_upper="999">
 und	-	-	-	0:54:05.984000	0:54:07.937000
 heute	-	-	-	0:54:05.984000	0:54:07.937000
 habe	-	-	-	0:54:05.984000	0:54:07.937000
@@ -7744,7 +7744,7 @@ nicht	-	-	-	0:54:07.937000	0:54:09.897000
 verstanden	-	-	-	0:54:07.937000	0:54:09.897000
 habe	-	-	-	0:54:07.937000	0:54:09.897000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:09.897000" end="0:54:21.190000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:09.897000" end="0:54:21.190000" age_lower="1" age_upper="999">
 also	-	-	-	0:54:10.590000	0:54:14.770000
 wenn	-	-	-	0:54:10.590000	0:54:14.770000
 Sie	-	-	-	0:54:10.590000	0:54:14.770000
@@ -7767,7 +7767,7 @@ sich	-	-	-	0:54:18.757000	0:54:21.190000
 das	-	-	-	0:54:18.757000	0:54:21.190000
 unterscheidet	-	-	-	0:54:18.757000	0:54:21.190000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:21.190000" end="0:54:26.524000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:21.190000" end="0:54:26.524000" age_lower="65" age_upper="999">
 ja	-	-	-	0:54:21.190000	0:54:23.624000
 na	-	-	-	0:54:21.190000	0:54:23.624000
 sicher	-	-	-	0:54:21.190000	0:54:23.624000
@@ -7775,9 +7775,9 @@ das	-	-	-	0:54:23.624000	0:54:26.524000
 ist	-	-	-	0:54:23.624000	0:54:26.524000
 ein	-	-	-	0:54:23.624000	0:54:26.524000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:25.464000" end="0:54:25.910000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:25.464000" end="0:54:25.910000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:26.524000" end="0:54:30.230000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:26.524000" end="0:54:30.230000" age_lower="65" age_upper="999">
 es	-	-	-	0:54:26.524000	0:54:30.230000
 kommt	-	-	-	0:54:26.524000	0:54:30.230000
 immer	-	-	-	0:54:26.524000	0:54:30.230000
@@ -7788,9 +7788,9 @@ wem	-	-	-	0:54:26.524000	0:54:30.230000
 man	-	-	-	0:54:26.524000	0:54:30.230000
 spricht	-	-	-	0:54:26.524000	0:54:30.230000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:30.230000" end="0:54:30.904000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:30.230000" end="0:54:30.904000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:30.230000" end="0:54:39.690000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:30.230000" end="0:54:39.690000" age_lower="65" age_upper="999">
 aber	-	-	-	0:54:30.904000	0:54:35.264000
 ich	-	-	-	0:54:30.904000	0:54:35.264000
 möchte	-	-	-	0:54:30.904000	0:54:35.264000
@@ -7816,7 +7816,7 @@ ein	-	-	-	0:54:38.130000	0:54:39.690000
 anderes	-	-	-	0:54:38.130000	0:54:39.690000
 steirisch	-	-	-	0:54:38.130000	0:54:39.690000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:38.537000" end="0:54:43.304000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:38.537000" end="0:54:43.304000" age_lower="1" age_upper="999">
 und	-	-	-	0:54:39.690000	0:54:41.857000
 was	-	-	-	0:54:39.690000	0:54:41.857000
 wäre	-	-	-	0:54:39.690000	0:54:41.857000
@@ -7825,16 +7825,16 @@ typisch	-	-	-	0:54:39.690000	0:54:41.857000
 aso	-	-	-	0:54:41.857000	0:54:43.304000
 äh	-	-	-	0:54:41.857000	0:54:43.304000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:43.304000" end="0:54:44.424000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:43.304000" end="0:54:44.424000" age_lower="65" age_upper="999">
 kann	-	-	-	0:54:43.304000	0:54:44.424000
 ich	-	-	-	0:54:43.304000	0:54:44.424000
 nicht	-	-	-	0:54:43.304000	0:54:44.424000
 so	-	-	-	0:54:43.304000	0:54:44.424000
 sagen	-	-	-	0:54:43.304000	0:54:44.424000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:44.184000" end="0:54:44.604000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:44.184000" end="0:54:44.604000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:44.424000" end="0:54:48.824000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:44.424000" end="0:54:48.824000" age_lower="65" age_upper="999">
 so	-	-	-	0:54:44.424000	0:54:45.304000
 äh	-	-	-	0:54:45.304000	0:54:48.437000
 für	-	-	-	0:54:45.304000	0:54:48.437000
@@ -7846,9 +7846,9 @@ der	-	-	-	0:54:45.304000	0:54:48.437000
 Sound	-	-	-	0:54:45.304000	0:54:48.437000
 nein	-	-	-	0:54:48.437000	0:54:48.824000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:48.624000" end="0:54:49.224000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:54:48.624000" end="0:54:49.224000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:49.224000" end="0:55:07.490000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:54:49.224000" end="0:55:07.490000" age_lower="65" age_upper="999">
 der	-	-	-	0:54:49.224000	0:54:49.757000
 Sprache	-	-	-	0:54:49.224000	0:54:49.757000
 ich	-	-	-	0:54:49.757000	0:54:52.890000
@@ -7889,7 +7889,7 @@ ganz	-	-	-	0:55:06.170000	0:55:07.490000
 anders	-	-	-	0:55:06.170000	0:55:07.490000
 an	-	-	-	0:55:06.170000	0:55:07.490000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:07.490000" end="0:55:11.230000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:07.490000" end="0:55:11.230000" age_lower="1" age_upper="999">
 also	-	-	-	0:55:07.490000	0:55:11.230000
 eher	-	-	-	0:55:07.490000	0:55:11.230000
 das	-	-	-	0:55:07.490000	0:55:11.230000
@@ -7900,7 +7900,7 @@ Aussprache	-	-	-	0:55:07.490000	0:55:11.230000
 irgendwie	-	-	-	0:55:07.490000	0:55:11.230000
 oder	-	-	-	0:55:07.490000	0:55:11.230000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:10.997000" end="0:55:13.244000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:10.997000" end="0:55:13.244000" age_lower="65" age_upper="999">
 ja	-	-	-	0:55:10.997000	0:55:11.284000
 die	-	-	-	0:55:11.284000	0:55:13.244000
 haben	-	-	-	0:55:11.284000	0:55:13.244000
@@ -7908,14 +7908,14 @@ sicher	-	-	-	0:55:11.284000	0:55:13.244000
 Ihre	-	-	-	0:55:11.284000	0:55:13.244000
 Ausdrücke	-	-	-	0:55:11.284000	0:55:13.244000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:13.244000" end="0:55:17.170000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:13.244000" end="0:55:17.170000" age_lower="1" age_upper="999">
 fallen	-	-	-	0:55:13.704000	0:55:17.170000
 Ihnen	-	-	-	0:55:13.704000	0:55:17.170000
 da	-	-	-	0:55:13.704000	0:55:17.170000
 ausspracheeigenheiten	-	-	-	0:55:13.704000	0:55:17.170000
 ein	-	-	-	0:55:13.704000	0:55:17.170000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:17.170000" end="0:55:22.390000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:17.170000" end="0:55:22.390000" age_lower="65" age_upper="999">
 nein	-	-	-	0:55:17.170000	0:55:21.184000
 eigenlich	-	-	-	0:55:17.170000	0:55:21.184000
 kann	-	-	-	0:55:21.184000	0:55:22.390000
@@ -7923,11 +7923,11 @@ das	-	-	-	0:55:21.184000	0:55:22.390000
 nicht	-	-	-	0:55:21.184000	0:55:22.390000
 sagen	-	-	-	0:55:21.184000	0:55:22.390000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:22.390000" end="0:55:23.270000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:22.390000" end="0:55:23.270000" age_lower="1" age_upper="999">
 so	-	-	-	0:55:22.390000	0:55:23.270000
 konkret	-	-	-	0:55:22.390000	0:55:23.270000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:22.930000" end="0:55:24.817000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:22.930000" end="0:55:24.817000" age_lower="65" age_upper="999">
 über	-	-	-	0:55:22.930000	0:55:24.817000
 das	-	-	-	0:55:22.930000	0:55:24.817000
 habe	-	-	-	0:55:22.930000	0:55:24.817000
@@ -7938,9 +7938,9 @@ gar	-	-	-	0:55:22.930000	0:55:24.817000
 nie	-	-	-	0:55:22.930000	0:55:24.817000
 nachdenke	-	-	-	0:55:22.930000	0:55:24.817000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:23.270000" end="0:55:25.190000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:23.270000" end="0:55:25.190000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:24.817000" end="0:55:27.350000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:24.817000" end="0:55:27.350000" age_lower="65" age_upper="999">
 ich	-	-	-	0:55:24.817000	0:55:26.330000
 einmal	-	-	-	0:55:24.817000	0:55:26.330000
 man	-	-	-	0:55:24.817000	0:55:26.330000
@@ -7953,14 +7953,14 @@ man	-	-	-	0:55:26.330000	0:55:27.350000
 ja	-	-	-	0:55:26.330000	0:55:27.350000
 nachfragen	-	-	-	0:55:26.330000	0:55:27.350000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:27.084000" end="0:55:27.657000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:27.084000" end="0:55:27.657000" age_lower="1" age_upper="999">
 jaja	-	-	-	0:55:27.084000	0:55:27.657000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:27.350000" end="0:55:27.657000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:27.350000" end="0:55:27.657000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:27.657000" end="0:55:28.224000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:27.657000" end="0:55:28.224000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:28.224000" end="0:55:33.530000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:28.224000" end="0:55:33.530000" age_lower="65" age_upper="999">
 ich	-	-	-	0:55:28.224000	0:55:31.097000
 meine	-	-	-	0:55:28.224000	0:55:31.097000
 meine	-	-	-	0:55:28.224000	0:55:31.097000
@@ -7975,9 +7975,9 @@ wenn	-	-	-	0:55:31.097000	0:55:33.530000
 die	-	-	-	0:55:31.097000	0:55:33.530000
 loslegt	-	-	-	0:55:31.097000	0:55:33.530000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:33.530000" end="0:55:34.057000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:33.530000" end="0:55:34.057000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:34.057000" end="0:55:40.197000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:34.057000" end="0:55:40.197000" age_lower="65" age_upper="999">
 also	-	-	-	0:55:34.057000	0:55:35.157000
 das	-	-	-	0:55:34.057000	0:55:35.157000
 ist	-	-	-	0:55:34.057000	0:55:35.157000
@@ -7989,9 +7989,9 @@ ja	-	-	-	0:55:35.890000	0:55:36.904000
 die	-	-	-	0:55:37.444000	0:55:40.197000
 ORT	ORT	-	-	0:55:37.444000	0:55:40.197000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:38.050000" end="0:55:40.197000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:38.050000" end="0:55:40.197000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:40.197000" end="0:55:41.777000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:40.197000" end="0:55:41.777000" age_lower="65" age_upper="999">
 wir	-	-	-	0:55:40.197000	0:55:41.777000
 haben	-	-	-	0:55:40.197000	0:55:41.777000
 ja	-	-	-	0:55:40.197000	0:55:41.777000
@@ -7999,9 +7999,9 @@ viele	-	-	-	0:55:40.197000	0:55:41.777000
 ORT	ORT	-	-	0:55:40.197000	0:55:41.777000
 da	-	-	-	0:55:40.197000	0:55:41.777000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:41.357000" end="0:55:41.777000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:41.357000" end="0:55:41.777000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:41.777000" end="0:55:48.564000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:41.777000" end="0:55:48.564000" age_lower="65" age_upper="999">
 aso	-	-	-	0:55:42.144000	0:55:44.357000
 das	-	-	-	0:55:42.144000	0:55:44.357000
 ist	-	-	-	0:55:42.144000	0:55:44.357000
@@ -8025,9 +8025,9 @@ denke	-	-	-	0:55:47.884000	0:55:48.564000
 ich	-	-	-	0:55:47.884000	0:55:48.564000
 mir	-	-	-	0:55:47.884000	0:55:48.564000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:48.564000" end="0:55:50.990000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:48.564000" end="0:55:50.990000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:48.564000" end="0:55:53.984000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:55:48.564000" end="0:55:53.984000" age_lower="65" age_upper="999">
 Gottes	-	-	-	0:55:48.564000	0:55:49.764000
 Willen	-	-	-	0:55:48.564000	0:55:49.764000
 aber	-	-	-	0:55:50.990000	0:55:51.864000
@@ -8039,7 +8039,7 @@ es	-	-	-	0:55:52.204000	0:55:53.984000
 ist	-	-	-	0:55:52.204000	0:55:53.984000
 ORT	ORT	-	-	0:55:52.204000	0:55:53.984000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:53.984000" end="0:56:04.597000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:55:53.984000" end="0:56:04.597000" age_lower="1" age_upper="999">
 glauben	-	-	-	0:55:53.984000	0:56:00.270000
 Sie	-	-	-	0:55:53.984000	0:56:00.270000
 dass	-	-	-	0:55:53.984000	0:56:00.270000
@@ -8061,7 +8061,7 @@ ganz	-	-	-	0:56:00.270000	0:56:04.597000
 generell	-	-	-	0:56:00.270000	0:56:04.597000
 hat	-	-	-	0:56:00.270000	0:56:04.597000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:04.597000" end="0:56:09.277000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:04.597000" end="0:56:09.277000" age_lower="65" age_upper="999">
 glaube	-	-	-	0:56:04.597000	0:56:09.277000
 nicht	-	-	-	0:56:04.597000	0:56:09.277000
 dass	-	-	-	0:56:04.597000	0:56:09.277000
@@ -8070,9 +8070,9 @@ irgendwer	-	-	-	0:56:04.597000	0:56:09.277000
 beeinflussen	-	-	-	0:56:04.597000	0:56:09.277000
 lässt	-	-	-	0:56:04.597000	0:56:09.277000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:09.277000" end="0:56:10.324000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:09.277000" end="0:56:10.324000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:10.324000" end="0:56:19.824000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:10.324000" end="0:56:19.824000" age_lower="65" age_upper="999">
 die	-	-	-	0:56:10.324000	0:56:11.484000
 Gegend	-	-	-	0:56:10.324000	0:56:11.484000
 spricht	-	-	-	0:56:10.324000	0:56:11.484000
@@ -8101,7 +8101,7 @@ hat	-	-	-	0:56:17.190000	0:56:19.824000
 ihr	-	-	-	0:56:17.190000	0:56:19.824000
 Sprache	-	-	-	0:56:17.190000	0:56:19.824000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:19.824000" end="0:56:26.517000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:19.824000" end="0:56:26.517000" age_lower="1" age_upper="999">
 und	-	-	-	0:56:19.824000	0:56:22.124000
 ORT	ORT	-	-	0:56:19.824000	0:56:22.124000
 die	-	-	-	0:56:22.124000	0:56:23.904000
@@ -8113,10 +8113,10 @@ immerhin	-	-	-	0:56:24.424000	0:56:26.517000
 die	-	-	-	0:56:24.424000	0:56:26.517000
 zweitgrößte	-	-	-	0:56:24.424000	0:56:26.517000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:26.517000" end="0:56:26.784000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:26.517000" end="0:56:26.784000" age_lower="65" age_upper="999">
 ja	-	-	-	0:56:26.517000	0:56:26.784000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:26.784000" end="0:56:31.857000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:26.784000" end="0:56:31.857000" age_lower="1" age_upper="999">
 haben	-	-	-	0:56:26.784000	0:56:28.397000
 sie	-	-	-	0:56:26.784000	0:56:28.397000
 da	-	-	-	0:56:26.784000	0:56:28.397000
@@ -8130,15 +8130,15 @@ ah	-	-	-	0:56:29.944000	0:56:31.857000
 gegenseitig	-	-	-	0:56:29.944000	0:56:31.857000
 beeinflussen	-	-	-	0:56:29.944000	0:56:31.857000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:31.857000" end="0:56:32.844000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:31.857000" end="0:56:32.844000" age_lower="65" age_upper="999">
 nein	-	-	-	0:56:31.857000	0:56:32.130000
 nicht	-	-	-	0:56:32.130000	0:56:32.844000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:32.557000" end="0:56:33.310000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:32.557000" end="0:56:33.310000" age_lower="1" age_upper="999">
 auch	-	-	-	0:56:32.557000	0:56:33.310000
 nicht	-	-	-	0:56:32.557000	0:56:33.310000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:33.310000" end="0:56:35.097000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:33.310000" end="0:56:35.097000" age_lower="65" age_upper="999">
 sind	-	-	-	0:56:33.310000	0:56:35.097000
 ja	-	-	-	0:56:33.310000	0:56:35.097000
 <<kichernd>	-	-	-	0:56:33.310000	0:56:35.097000
@@ -8147,11 +8147,11 @@ zu	-	-	-	0:56:33.310000	0:56:35.097000
 weit	-	-	-	0:56:33.310000	0:56:35.097000
 weg;>	-	-	-	0:56:33.310000	0:56:35.097000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:33.424000" end="0:56:33.677000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:33.424000" end="0:56:33.677000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:35.097000" end="0:56:35.764000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:35.097000" end="0:56:35.764000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:35.764000" end="0:56:44.597000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:35.764000" end="0:56:44.597000" age_lower="1" age_upper="999">
 unterscheidet	-	-	-	0:56:36.604000	0:56:42.484000
 sich	-	-	-	0:56:36.604000	0:56:42.484000
 Ihrer	-	-	-	0:56:36.604000	0:56:42.484000
@@ -8165,7 +8165,7 @@ der	-	-	-	0:56:42.484000	0:56:44.597000
 in	-	-	-	0:56:42.484000	0:56:44.597000
 ORT	ORT	-	-	0:56:42.484000	0:56:44.597000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:44.597000" end="0:56:49.884000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:44.597000" end="0:56:49.884000" age_lower="65" age_upper="999">
 also	-	-	-	0:56:44.597000	0:56:48.424000
 f	-	-	-	0:56:44.597000	0:56:48.424000
 <<lachend>	-	-	-	0:56:44.597000	0:56:48.424000
@@ -8179,9 +8179,9 @@ als	-	-	-	0:56:48.424000	0:56:49.884000
 die	-	-	-	0:56:48.424000	0:56:49.884000
 ORT	ORT	-	-	0:56:48.424000	0:56:49.884000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:49.884000" end="0:56:50.350000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:49.884000" end="0:56:50.350000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:50.350000" end="0:56:55.944000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:50.350000" end="0:56:55.944000" age_lower="65" age_upper="999">
 das	-	-	-	0:56:50.350000	0:56:52.844000
 ist	-	-	-	0:56:50.350000	0:56:52.844000
 w	-	-	-	0:56:50.350000	0:56:52.844000
@@ -8201,7 +8201,7 @@ sprechen	-	-	-	0:56:54.250000	0:56:55.944000
 schon	-	-	-	0:56:54.250000	0:56:55.944000
 anders	-	-	-	0:56:54.250000	0:56:55.944000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:55.944000" end="0:57:00.477000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:56:55.944000" end="0:57:00.477000" age_lower="1" age_upper="999">
 und	-	-	-	0:56:56.750000	0:57:00.477000
 w	-	-	-	0:56:56.750000	0:57:00.477000
 können	-	-	-	0:56:56.750000	0:57:00.477000
@@ -8211,20 +8211,20 @@ an	-	-	-	0:56:56.750000	0:57:00.477000
 irgendwas	-	-	-	0:56:56.750000	0:57:00.477000
 festmachen	-	-	-	0:56:56.750000	0:57:00.477000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:57.897000" end="0:57:00.744000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:56:57.897000" end="0:57:00.744000" age_lower="65" age_upper="999">
 ja	-	-	-	0:56:57.897000	0:56:58.224000
 nein	-	-	-	0:56:59.777000	0:57:00.137000
 g	-	-	-	0:57:00.137000	0:57:00.744000
 nein	-	-	-	0:57:00.137000	0:57:00.744000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:00.477000" end="0:57:00.744000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:00.477000" end="0:57:00.744000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:00.744000" end="0:57:00.984000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:00.744000" end="0:57:00.984000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:00.984000" end="0:57:01.410000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:00.984000" end="0:57:01.410000" age_lower="1" age_upper="999">
 okay	-	-	-	0:57:00.984000	0:57:01.410000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:01.110000" end="0:57:10.470000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:01.110000" end="0:57:10.470000" age_lower="65" age_upper="999">
 kann	-	-	-	0:57:01.110000	0:57:01.877000
 ich	-	-	-	0:57:01.110000	0:57:01.877000
 nicht	-	-	-	0:57:01.110000	0:57:01.877000
@@ -8244,17 +8244,17 @@ ich	-	-	-	0:57:04.044000	0:57:10.470000
 gscherter;>	-	-	-	0:57:04.044000	0:57:10.470000
 wir	-	-	-	0:57:04.044000	0:57:10.470000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:10.470000" end="0:57:11.310000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:10.470000" end="0:57:11.310000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:10.470000" end="0:57:12.284000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:10.470000" end="0:57:12.284000" age_lower="65" age_upper="999">
 sind	-	-	-	0:57:10.470000	0:57:12.284000
 halt	-	-	-	0:57:10.470000	0:57:12.284000
 Wienerisch	-	-	-	0:57:10.470000	0:57:12.284000
 sonst	-	-	-	0:57:10.470000	0:57:12.284000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:11.810000" end="0:57:15.017000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:11.810000" end="0:57:15.017000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:12.284000" end="0:57:15.017000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:12.284000" end="0:57:15.017000" age_lower="65" age_upper="999">
 jo,>	-	-	-	0:57:12.284000	0:57:12.557000
 <<lachend>	-	-	-	0:57:12.557000	0:57:13.610000
 song;>	-	-	-	0:57:12.557000	0:57:13.610000
@@ -8263,11 +8263,11 @@ halt	-	-	-	0:57:12.557000	0:57:13.610000
 so	-	-	-	0:57:12.557000	0:57:13.610000
 an	-	-	-	0:57:12.557000	0:57:13.610000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:15.017000" end="0:57:15.550000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:15.017000" end="0:57:15.550000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	0:57:15.017000	0:57:15.550000
 okay;>	-	-	-	0:57:15.017000	0:57:15.550000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:15.550000" end="0:57:18.197000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:15.550000" end="0:57:18.197000" age_lower="65" age_upper="999">
 g	-	-	-	0:57:15.550000	0:57:16.877000
 typisch	-	-	-	0:57:15.550000	0:57:16.877000
 Sie	-	-	-	0:57:15.550000	0:57:16.877000
@@ -8278,15 +8278,15 @@ d	-	-	-	0:57:16.877000	0:57:18.017000
 die	-	-	-	0:57:16.877000	0:57:18.017000
 gscherten	-	-	-	0:57:16.877000	0:57:18.017000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:18.197000" end="0:57:18.664000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:18.197000" end="0:57:18.664000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:18.324000" end="0:57:19.350000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:18.324000" end="0:57:19.350000" age_lower="65" age_upper="999">
 so	-	-	-	0:57:18.324000	0:57:18.984000
 rede	-	-	-	0:57:18.324000	0:57:18.984000
 man	-	-	-	0:57:18.324000	0:57:18.984000
 halt	-	-	-	0:57:18.324000	0:57:18.984000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:19.350000" end="0:57:28.284000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:19.350000" end="0:57:28.284000" age_lower="1" age_upper="999">
 und	-	-	-	0:57:19.350000	0:57:23.250000
 ah	-	-	-	0:57:19.350000	0:57:23.250000
 würden	-	-	-	0:57:19.350000	0:57:23.250000
@@ -8304,12 +8304,12 @@ in	-	-	-	0:57:25.010000	0:57:28.284000
 ORT	ORT	-	-	0:57:25.010000	0:57:28.284000
 ausübt	-	-	-	0:57:25.010000	0:57:28.284000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:28.284000" end="0:57:29.104000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:28.284000" end="0:57:29.104000" age_lower="65" age_upper="999">
 ja	-	-	-	0:57:28.284000	0:57:28.537000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:29.104000" end="0:57:29.510000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:29.104000" end="0:57:29.510000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:29.510000" end="0:57:44.457000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:29.510000" end="0:57:44.457000" age_lower="65" age_upper="999">
 es	-	-	-	0:57:29.510000	0:57:30.564000
 sind	-	-	-	0:57:29.510000	0:57:30.564000
 ja	-	-	-	0:57:29.510000	0:57:30.564000
@@ -8345,9 +8345,9 @@ sind	-	-	-	0:57:40.797000	0:57:43.697000
 das	-	-	-	0:57:43.697000	0:57:44.457000
 viel	-	-	-	0:57:43.697000	0:57:44.457000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:44.457000" end="0:57:45.057000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:44.457000" end="0:57:45.057000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:44.457000" end="0:57:52.350000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:44.457000" end="0:57:52.350000" age_lower="65" age_upper="999">
 andere	-	-	-	0:57:44.457000	0:57:47.410000
 ist	-	-	-	0:57:44.457000	0:57:47.410000
 alles	-	-	-	0:57:44.457000	0:57:47.410000
@@ -8361,7 +8361,7 @@ was	-	-	-	0:57:49.410000	0:57:52.350000
 weiß	-	-	-	0:57:49.410000	0:57:52.350000
 ich	-	-	-	0:57:49.410000	0:57:52.350000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:52.350000" end="0:57:59.964000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:57:52.350000" end="0:57:59.964000" age_lower="1" age_upper="999">
 und	-	-	-	0:57:53.077000	0:57:54.770000
 umgekehrt	-	-	-	0:57:53.077000	0:57:54.770000
 haben	-	-	-	0:57:54.770000	0:57:56.090000
@@ -8377,10 +8377,10 @@ auch	-	-	-	0:57:58.264000	0:57:59.964000
 mit	-	-	-	0:57:58.264000	0:57:59.964000
 ORT	ORT	-	-	0:57:58.264000	0:57:59.964000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:59.964000" end="0:58:00.457000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:57:59.964000" end="0:58:00.457000" age_lower="65" age_upper="999">
 ja	-	-	-	0:57:59.964000	0:58:00.457000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:00.457000" end="0:58:07.630000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:00.457000" end="0:58:07.630000" age_lower="1" age_upper="999">
 von	-	-	-	0:58:00.457000	0:58:03.457000
 ORT	ORT	-	-	0:58:00.457000	0:58:03.457000
 eben	-	-	-	0:58:00.457000	0:58:03.457000
@@ -8395,7 +8395,7 @@ in	-	-	-	0:58:03.457000	0:58:07.630000
 ORT	ORT	-	-	0:58:03.457000	0:58:07.630000
 ausüben	-	-	-	0:58:03.457000	0:58:07.630000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:07.630000" end="0:58:12.990000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:07.630000" end="0:58:12.990000" age_lower="65" age_upper="999">
 nein	-	-	-	0:58:07.630000	0:58:10.024000
 nicht	-	-	-	0:58:10.024000	0:58:12.990000
 dass	-	-	-	0:58:10.024000	0:58:12.990000
@@ -8408,9 +8408,9 @@ was	-	-	-	0:58:10.024000	0:58:12.990000
 beeinflussen	-	-	-	0:58:10.024000	0:58:12.990000
 lässt	-	-	-	0:58:10.024000	0:58:12.990000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:12.990000" end="0:58:14.037000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:12.990000" end="0:58:14.037000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:13.537000" end="0:58:16.217000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:13.537000" end="0:58:16.217000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	0:58:13.537000	0:58:14.904000
 der	-	-	-	0:58:13.537000	0:58:14.904000
 wohnt	-	-	-	0:58:13.537000	0:58:14.904000
@@ -8421,9 +8421,9 @@ wird	-	-	-	0:58:14.904000	0:58:16.217000
 so	-	-	-	0:58:14.904000	0:58:16.217000
 gsprochen;>	-	-	-	0:58:14.904000	0:58:16.217000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:16.217000" end="0:58:16.824000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:16.217000" end="0:58:16.824000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:16.824000" end="0:58:20.730000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:16.824000" end="0:58:20.730000" age_lower="65" age_upper="999">
 und	-	-	-	0:58:16.824000	0:58:18.537000
 wann	-	-	-	0:58:16.824000	0:58:18.537000
 da	-	-	-	0:58:16.824000	0:58:18.537000
@@ -8435,7 +8435,7 @@ sich	-	-	-	0:58:18.537000	0:58:20.730000
 meistens	-	-	-	0:58:18.537000	0:58:20.730000
 an	-	-	-	0:58:18.537000	0:58:20.730000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:20.730000" end="0:58:25.817000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:20.730000" end="0:58:25.817000" age_lower="1" age_upper="999">
 und	-	-	-	0:58:21.330000	0:58:24.257000
 wie	-	-	-	0:58:21.330000	0:58:24.257000
 würden	-	-	-	0:58:21.330000	0:58:24.257000
@@ -8447,24 +8447,24 @@ in	-	-	-	0:58:24.257000	0:58:25.817000
 ORT	ORT	-	-	0:58:24.257000	0:58:25.817000
 spricht	-	-	-	0:58:24.257000	0:58:25.817000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:25.817000" end="0:58:27.610000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:25.817000" end="0:58:27.610000" age_lower="65" age_upper="999">
 ja	-	-	-	0:58:25.817000	0:58:27.610000
 ORT	ORT	-	-	0:58:25.817000	0:58:27.610000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:27.610000" end="0:58:28.637000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:27.610000" end="0:58:28.637000" age_lower="1" age_upper="999">
 ORT	ORT	-	-	0:58:27.610000	0:58:28.337000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:28.637000" end="0:58:29.970000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:28.637000" end="0:58:29.970000" age_lower="65" age_upper="999">
 ja	-	-	-	0:58:28.637000	0:58:28.984000
 würde	-	-	-	0:58:28.984000	0:58:29.970000
 ich	-	-	-	0:58:28.984000	0:58:29.970000
 es	-	-	-	0:58:28.984000	0:58:29.970000
 nennen	-	-	-	0:58:28.984000	0:58:29.970000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:29.970000" end="0:58:31.830000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:29.970000" end="0:58:31.830000" age_lower="1" age_upper="999">
 und	-	-	-	0:58:30.870000	0:58:31.830000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:31.830000" end="0:58:34.484000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:31.830000" end="0:58:34.484000" age_lower="65" age_upper="999">
 obwohl	-	-	-	0:58:31.830000	0:58:33.224000
 in	-	-	-	0:58:31.830000	0:58:33.224000
 jeden	-	-	-	0:58:31.830000	0:58:33.224000
@@ -8474,10 +8474,10 @@ eigener	-	-	-	0:58:33.224000	0:58:34.484000
 Sound	-	-	-	0:58:33.224000	0:58:34.484000
 ist	-	-	-	0:58:33.224000	0:58:34.484000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:33.464000" end="0:58:33.857000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:33.464000" end="0:58:33.857000" age_lower="1" age_upper="999">
 ja	-	-	-	0:58:33.464000	0:58:33.857000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:34.484000" end="0:58:36.504000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:34.484000" end="0:58:36.504000" age_lower="65" age_upper="999">
 das	-	-	-	0:58:34.484000	0:58:35.824000
 gehört	-	-	-	0:58:34.484000	0:58:35.824000
 wer	-	-	-	0:58:34.484000	0:58:35.824000
@@ -8486,10 +8486,10 @@ nicht	-	-	-	0:58:34.484000	0:58:35.824000
 hören	-	-	-	0:58:35.824000	0:58:36.504000
 wir	-	-	-	0:58:35.824000	0:58:36.504000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:36.504000" end="0:58:36.790000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:36.504000" end="0:58:36.790000" age_lower="1" age_upper="999">
 ja	-	-	-	0:58:36.504000	0:58:36.790000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:36.790000" end="0:58:39.177000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:36.790000" end="0:58:39.177000" age_lower="65" age_upper="999">
 ich	-	-	-	0:58:36.790000	0:58:37.577000
 denke	-	-	-	0:58:36.790000	0:58:37.577000
 ein	-	-	-	0:58:36.790000	0:58:37.577000
@@ -8501,14 +8501,14 @@ typisch	-	-	-	0:58:37.577000	0:58:38.924000
 von	-	-	-	0:58:37.577000	0:58:38.924000
 ORT	ORT	-	-	0:58:37.577000	0:58:38.924000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:39.177000" end="0:58:40.144000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:39.177000" end="0:58:40.144000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:39.804000" end="0:58:40.877000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:39.804000" end="0:58:40.877000" age_lower="65" age_upper="999">
 ja	-	-	-	0:58:39.804000	0:58:40.144000
 <<kichernd>	-	-	-	0:58:40.144000	0:58:40.877000
 na;>	-	-	-	0:58:40.144000	0:58:40.877000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:40.877000" end="0:58:45.657000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:40.877000" end="0:58:45.657000" age_lower="1" age_upper="999">
 und	-	-	-	0:58:40.877000	0:58:45.657000
 ah	-	-	-	0:58:40.877000	0:58:45.657000
 was	-	-	-	0:58:40.877000	0:58:45.657000
@@ -8518,7 +8518,7 @@ ORT	ORT	-	-	0:58:40.877000	0:58:45.657000
 eigentlich	-	-	-	0:58:40.877000	0:58:45.657000
 aus	-	-	-	0:58:40.877000	0:58:45.657000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:45.657000" end="0:59:00.064000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:58:45.657000" end="0:59:00.064000" age_lower="65" age_upper="999">
 das	-	-	-	0:58:45.657000	0:58:49.064000
 ist	-	-	-	0:58:45.657000	0:58:49.064000
 die	-	-	-	0:58:45.657000	0:58:49.064000
@@ -8555,9 +8555,9 @@ mehr	-	-	-	0:58:57.497000	0:59:00.064000
 zum	-	-	-	0:58:57.497000	0:59:00.064000
 vermischen	-	-	-	0:58:57.497000	0:59:00.064000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:57.597000" end="0:59:00.710000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:58:57.597000" end="0:59:00.710000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:00.710000" end="0:59:18.083000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:00.710000" end="0:59:18.083000" age_lower="65" age_upper="999">
 aber	-	-	-	0:59:00.710000	0:59:06.057000
 früher	-	-	-	0:59:00.710000	0:59:06.057000
 hast	-	-	-	0:59:00.710000	0:59:06.057000
@@ -8608,9 +8608,9 @@ irgendwie	-	-	-	0:59:14.963000	0:59:18.083000
 so	-	-	-	0:59:14.963000	0:59:18.083000
 ob	-	-	-	0:59:14.963000	0:59:18.083000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:18.083000" end="0:59:18.623000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:18.083000" end="0:59:18.623000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:18.490000" end="0:59:34.897000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:18.490000" end="0:59:34.897000" age_lower="65" age_upper="999">
 es	-	-	-	0:59:18.490000	0:59:19.897000
 ist	-	-	-	0:59:18.490000	0:59:19.897000
 nimmer	-	-	-	0:59:18.490000	0:59:19.897000
@@ -8650,10 +8650,10 @@ Bezirk	-	-	-	0:59:30.770000	0:59:34.897000
 was	-	-	-	0:59:30.770000	0:59:34.897000
 mit	-	-	-	0:59:30.770000	0:59:34.897000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:34.897000" end="0:59:36.610000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:34.897000" end="0:59:36.610000" age_lower="1" age_upper="999">
 ja	-	-	-	0:59:35.510000	0:59:36.610000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:36.457000" end="0:59:48.103000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:36.457000" end="0:59:48.103000" age_lower="65" age_upper="999">
 und	-	-	-	0:59:36.457000	0:59:39.270000
 dadurch	-	-	-	0:59:36.457000	0:59:39.270000
 hast	-	-	-	0:59:36.457000	0:59:39.270000
@@ -8688,10 +8688,10 @@ einen	-	-	-	0:59:46.150000	0:59:48.103000
 Bezirk	-	-	-	0:59:46.150000	0:59:48.103000
 wohnen	-	-	-	0:59:46.150000	0:59:48.103000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:47.543000" end="0:59:47.917000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:47.543000" end="0:59:47.917000" age_lower="1" age_upper="999">
 ja	-	-	-	0:59:47.543000	0:59:47.917000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:48.103000" end="0:59:49.890000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:48.103000" end="0:59:49.890000" age_lower="65" age_upper="999">
 das	-	-	-	0:59:48.103000	0:59:49.890000
 wird	-	-	-	0:59:48.103000	0:59:49.890000
 immer	-	-	-	0:59:48.103000	0:59:49.890000
@@ -8699,7 +8699,7 @@ weniger	-	-	-	0:59:48.103000	0:59:49.890000
 glaube	-	-	-	0:59:48.103000	0:59:49.890000
 ich	-	-	-	0:59:48.103000	0:59:49.890000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:49.890000" end="0:59:53.483000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:49.890000" end="0:59:53.483000" age_lower="1" age_upper="999">
 und	-	-	-	0:59:50.543000	0:59:53.483000
 wie	-	-	-	0:59:50.543000	0:59:53.483000
 gefällt	-	-	-	0:59:50.543000	0:59:53.483000
@@ -8707,12 +8707,12 @@ Ihnen	-	-	-	0:59:50.543000	0:59:53.483000
 das	-	-	-	0:59:50.543000	0:59:53.483000
 ORT	ORT	-	-	0:59:50.543000	0:59:53.483000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:53.483000" end="0:59:56.737000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="0:59:53.483000" end="0:59:56.737000" age_lower="65" age_upper="999">
 nein	-	-	-	0:59:53.483000	0:59:54.710000
 ja	-	-	-	0:59:53.483000	0:59:54.710000
 gut	-	-	-	0:59:54.710000	0:59:55.157000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:56.170000" end="1:00:00.870000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="0:59:56.170000" end="1:00:00.870000" age_lower="1" age_upper="999">
 und	-	-	-	0:59:56.170000	0:59:57.843000
 haben	-	-	-	0:59:56.170000	0:59:57.843000
 Sie	-	-	-	0:59:56.170000	0:59:57.843000
@@ -8729,10 +8729,10 @@ spricht	-	-	-	0:59:57.843000	1:00:00.870000
 irgendwie	-	-	-	0:59:57.843000	1:00:00.870000
 eigen	-	-	-	0:59:57.843000	1:00:00.870000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:00.870000" end="1:00:01.357000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:00.870000" end="1:00:01.357000" age_lower="65" age_upper="999">
 ja	-	-	-	1:00:00.870000	1:00:01.357000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:01.123000" end="1:00:04.783000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:01.123000" end="1:00:04.783000" age_lower="1" age_upper="999">
 haben	-	-	-	1:00:01.123000	1:00:02.663000
 Sie	-	-	-	1:00:01.123000	1:00:02.663000
 da	-	-	-	1:00:01.123000	1:00:02.663000
@@ -8743,7 +8743,7 @@ bs	-	-	-	1:00:02.663000	1:00:04.783000
 an	-	-	-	1:00:02.663000	1:00:04.783000
 lieblingssound	-	-	-	1:00:02.663000	1:00:04.783000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:04.783000" end="1:00:08.777000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:04.783000" end="1:00:08.777000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	1:00:04.783000	1:00:06.950000
 n	-	-	-	1:00:04.783000	1:00:06.950000
 ja	-	-	-	1:00:04.783000	1:00:06.950000
@@ -8754,15 +8754,15 @@ ORT	ORT	-	-	1:00:04.783000	1:00:06.950000
 bezirk;>	-	-	-	1:00:04.783000	1:00:06.950000
 dieses	-	-	-	1:00:06.950000	1:00:08.777000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:08.777000" end="1:00:09.563000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:08.777000" end="1:00:09.563000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:08.777000" end="1:00:13.397000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:08.777000" end="1:00:13.397000" age_lower="65" age_upper="999">
 das	-	-	-	1:00:09.563000	1:00:13.063000
 ist	-	-	-	1:00:09.563000	1:00:13.063000
 natürlich	-	-	-	1:00:09.563000	1:00:13.063000
 eigen	-	-	-	1:00:09.563000	1:00:13.063000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:13.197000" end="1:00:16.463000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:13.197000" end="1:00:16.463000" age_lower="1" age_upper="999">
 also	-	-	-	1:00:13.197000	1:00:15.257000
 das	-	-	-	1:00:13.197000	1:00:15.257000
 ist	-	-	-	1:00:13.197000	1:00:15.257000
@@ -8781,7 +8781,7 @@ durch	-	-	-	1:00:15.257000	1:00:16.463000
 die	-	-	-	1:00:15.257000	1:00:16.463000
 Nase	-	-	-	1:00:15.257000	1:00:16.463000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:15.257000" end="1:00:18.697000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:15.257000" end="1:00:18.697000" age_lower="65" age_upper="999">
 ja	-	-	-	1:00:15.257000	1:00:15.570000
 ja	-	-	-	1:00:16.237000	1:00:16.623000
 nasale	-	-	-	1:00:16.623000	1:00:17.510000
@@ -8789,11 +8789,11 @@ da	-	-	-	1:00:17.830000	1:00:18.697000
 sind	-	-	-	1:00:17.830000	1:00:18.697000
 ja	-	-	-	1:00:17.830000	1:00:18.697000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:18.037000" end="1:00:18.450000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:18.037000" end="1:00:18.450000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	1:00:18.037000	1:00:18.450000
 hm,>	-	-	-	1:00:18.037000	1:00:18.450000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:18.697000" end="1:00:20.657000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:18.697000" end="1:00:20.657000" age_lower="65" age_upper="999">
 und	-	-	-	1:00:18.697000	1:00:20.657000
 vor	-	-	-	1:00:18.697000	1:00:20.657000
 allem	-	-	-	1:00:18.697000	1:00:20.657000
@@ -8801,9 +8801,9 @@ die	-	-	-	1:00:18.697000	1:00:20.657000
 ganzen	-	-	-	1:00:18.697000	1:00:20.657000
 Redewendungen	-	-	-	1:00:18.697000	1:00:20.657000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:20.657000" end="1:00:21.203000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:20.657000" end="1:00:21.203000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:20.657000" end="1:00:22.857000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:20.657000" end="1:00:22.857000" age_lower="65" age_upper="999">
 kommt	-	-	-	1:00:20.657000	1:00:22.857000
 ja	-	-	-	1:00:20.657000	1:00:22.857000
 es	-	-	-	1:00:20.657000	1:00:22.857000
@@ -8812,7 +8812,7 @@ ja	-	-	-	1:00:20.657000	1:00:22.857000
 andere	-	-	-	1:00:20.657000	1:00:22.857000
 Redewendungen	-	-	-	1:00:20.657000	1:00:22.857000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:22.703000" end="1:00:24.330000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:22.703000" end="1:00:24.330000" age_lower="1" age_upper="999">
 fällt	-	-	-	1:00:22.703000	1:00:24.330000
 Ihnen	-	-	-	1:00:22.703000	1:00:24.330000
 da	-	-	-	1:00:22.703000	1:00:24.330000
@@ -8820,7 +8820,7 @@ zufällig	-	-	-	1:00:22.703000	1:00:24.330000
 eine	-	-	-	1:00:22.703000	1:00:24.330000
 ein	-	-	-	1:00:22.703000	1:00:24.330000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:24.070000" end="1:00:27.910000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:24.070000" end="1:00:27.910000" age_lower="65" age_upper="999">
 nein	-	-	-	1:00:24.070000	1:00:25.050000
 ja	-	-	-	1:00:24.070000	1:00:25.050000
 das	-	-	-	1:00:24.070000	1:00:25.050000
@@ -8837,18 +8837,18 @@ Hand	-	-	-	1:00:26.717000	1:00:27.910000
 gnä	-	-	-	1:00:26.717000	1:00:27.910000
 Frau	-	-	-	1:00:26.717000	1:00:27.910000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:27.710000" end="1:00:28.137000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:27.710000" end="1:00:28.137000" age_lower="1" age_upper="999">
 ja	-	-	-	1:00:27.710000	1:00:28.137000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:27.910000" end="1:00:29.563000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:27.910000" end="1:00:29.563000" age_lower="65" age_upper="999">
 das	-	-	-	1:00:28.137000	1:00:29.257000
 durch	-	-	-	1:00:28.137000	1:00:29.257000
 die	-	-	-	1:00:28.137000	1:00:29.257000
 Nase	-	-	-	1:00:28.137000	1:00:29.257000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:29.563000" end="1:00:30.543000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:29.563000" end="1:00:30.543000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:29.890000" end="1:00:33.103000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:29.890000" end="1:00:33.103000" age_lower="65" age_upper="999">
 ich	-	-	-	1:00:29.890000	1:00:31.577000
 meine	-	-	-	1:00:29.890000	1:00:31.577000
 das	-	-	-	1:00:29.890000	1:00:31.577000
@@ -8863,9 +8863,9 @@ alte	-	-	-	1:00:31.577000	1:00:32.517000
 geht	-	-	-	1:00:32.517000	1:00:33.103000
 es	-	-	-	1:00:32.517000	1:00:33.103000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:33.103000" end="1:00:34.050000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:33.103000" end="1:00:34.050000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:33.103000" end="1:00:40.663000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:33.103000" end="1:00:40.663000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	1:00:33.610000	1:00:35.883000
 und	-	-	-	1:00:33.610000	1:00:35.883000
 die	-	-	-	1:00:33.610000	1:00:35.883000
@@ -8883,9 +8883,9 @@ lang	-	-	-	1:00:38.363000	1:00:40.023000
 nicht	-	-	-	1:00:38.363000	1:00:40.023000
 gesehen	-	-	-	1:00:38.363000	1:00:40.023000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:40.663000" end="1:00:41.310000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:40.663000" end="1:00:41.310000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:41.310000" end="1:00:43.710000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:41.310000" end="1:00:43.710000" age_lower="65" age_upper="999">
 das	-	-	-	1:00:41.310000	1:00:43.710000
 ist	-	-	-	1:00:41.310000	1:00:43.710000
 das	-	-	-	1:00:41.310000	1:00:43.710000
@@ -8893,11 +8893,11 @@ ist	-	-	-	1:00:41.310000	1:00:43.710000
 was	-	-	-	1:00:41.310000	1:00:43.710000
 anderes	-	-	-	1:00:41.310000	1:00:43.710000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:43.710000" end="1:00:44.063000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:00:43.710000" end="1:00:44.063000" age_lower="1" age_upper="999">
 m	-	-	-	1:00:43.710000	1:00:44.063000
 hm	-	-	-	1:00:43.710000	1:00:44.063000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:44.063000" end="1:01:00.857000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:00:44.063000" end="1:01:00.857000" age_lower="65" age_upper="999">
 ja	-	-	-	1:00:44.063000	1:00:44.477000
 und	-	-	-	1:00:44.477000	1:00:46.303000
 die	-	-	-	1:00:44.477000	1:00:46.303000
@@ -8942,9 +8942,9 @@ ich	-	-	-	1:00:59.590000	1:01:00.857000
 kaum	-	-	-	1:00:59.590000	1:01:00.857000
 umziehen	-	-	-	1:00:59.590000	1:01:00.857000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:00.857000" end="1:01:01.490000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:00.857000" end="1:01:01.490000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:00.857000" end="1:01:11.043000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:00.857000" end="1:01:11.043000" age_lower="65" age_upper="999">
 ja	-	-	-	1:01:00.857000	1:01:01.243000
 wenn	-	-	-	1:01:01.490000	1:01:02.750000
 ich	-	-	-	1:01:01.490000	1:01:02.750000
@@ -8967,9 +8967,9 @@ ja	-	-	-	1:01:08.923000	1:01:09.677000
 <<kichernd>	-	-	-	1:01:09.677000	1:01:11.043000
 da>	-	-	-	1:01:09.677000	1:01:11.043000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:11.043000" end="1:01:11.877000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:11.043000" end="1:01:11.877000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:11.043000" end="1:01:17.170000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:11.043000" end="1:01:17.170000" age_lower="65" age_upper="999">
 also	-	-	-	1:01:12.317000	1:01:14.270000
 aber	-	-	-	1:01:12.317000	1:01:14.270000
 ich	-	-	-	1:01:12.317000	1:01:14.270000
@@ -8987,21 +8987,21 @@ nicht	-	-	-	1:01:15.957000	1:01:17.170000
 ausziehen	-	-	-	1:01:15.957000	1:01:17.170000
 muss	-	-	-	1:01:15.957000	1:01:17.170000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:16.470000" end="1:01:16.857000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:16.470000" end="1:01:16.857000" age_lower="1" age_upper="999">
 ja	-	-	-	1:01:16.470000	1:01:16.857000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:17.170000" end="1:01:17.970000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:17.170000" end="1:01:17.970000" age_lower="65" age_upper="999">
 weggeht	-	-	-	1:01:17.170000	1:01:17.970000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:17.383000" end="1:01:18.610000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:17.383000" end="1:01:18.610000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:18.610000" end="1:01:18.990000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:18.610000" end="1:01:18.990000" age_lower="65" age_upper="999">
 ja	-	-	-	1:01:18.610000	1:01:18.990000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:18.990000" end="1:01:19.403000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:18.990000" end="1:01:19.403000" age_lower="1" age_upper="999">
 ja	-	-	-	1:01:18.990000	1:01:19.403000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:19.210000" end="1:01:23.490000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:19.210000" end="1:01:23.490000" age_lower="65" age_upper="999">
 und	-	-	-	1:01:19.210000	1:01:21.443000
 dadurch	-	-	-	1:01:19.210000	1:01:21.443000
 bleiben	-	-	-	1:01:19.210000	1:01:21.443000
@@ -9017,16 +9017,16 @@ sich	-	-	-	1:01:21.443000	1:01:23.490000
 länger	-	-	-	1:01:21.443000	1:01:23.490000
 halten	-	-	-	1:01:21.443000	1:01:23.490000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:23.490000" end="1:01:24.137000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:23.490000" end="1:01:24.137000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:23.897000" end="1:01:27.090000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:23.897000" end="1:01:27.090000" age_lower="65" age_upper="999">
 diese	-	-	-	1:01:23.897000	1:01:24.610000
 Sprache	-	-	-	1:01:23.897000	1:01:24.610000
 das	-	-	-	1:01:24.943000	1:01:27.090000
 vermute	-	-	-	1:01:24.943000	1:01:27.090000
 ich	-	-	-	1:01:24.943000	1:01:27.090000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:27.090000" end="1:01:39.637000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:27.090000" end="1:01:39.637000" age_lower="1" age_upper="999">
 da	-	-	-	1:01:27.090000	1:01:30.917000
 sie	-	-	-	1:01:27.090000	1:01:30.917000
 wir	-	-	-	1:01:27.090000	1:01:30.917000
@@ -9055,10 +9055,10 @@ mit	-	-	-	1:01:36.597000	1:01:39.637000
 anderen	-	-	-	1:01:36.597000	1:01:39.637000
 Sprachen	-	-	-	1:01:36.597000	1:01:39.637000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:39.410000" end="1:01:40.470000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:39.410000" end="1:01:40.470000" age_lower="65" age_upper="999">
 ja	-	-	-	1:01:39.410000	1:01:39.770000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:40.057000" end="1:01:42.430000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:40.057000" end="1:01:42.430000" age_lower="1" age_upper="999">
 und	-	-	-	1:01:40.057000	1:01:42.430000
 durch	-	-	-	1:01:40.057000	1:01:42.430000
 den	-	-	-	1:01:40.057000	1:01:42.430000
@@ -9067,13 +9067,13 @@ von	-	-	-	1:01:40.057000	1:01:42.430000
 anderen	-	-	-	1:01:40.057000	1:01:42.430000
 Sprachen	-	-	-	1:01:40.057000	1:01:42.430000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:41.677000" end="1:01:42.810000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:41.677000" end="1:01:42.810000" age_lower="65" age_upper="999">
 ja	-	-	-	1:01:41.677000	1:01:41.997000
 schon	-	-	-	1:01:42.430000	1:01:42.810000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:42.810000" end="1:01:43.297000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:42.810000" end="1:01:43.297000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:43.297000" end="1:01:51.023000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:43.297000" end="1:01:51.023000" age_lower="65" age_upper="999">
 ich	-	-	-	1:01:43.297000	1:01:47.290000
 meine	-	-	-	1:01:43.297000	1:01:47.290000
 von	-	-	-	1:01:43.297000	1:01:47.290000
@@ -9089,9 +9089,9 @@ mehr	-	-	-	1:01:47.290000	1:01:51.023000
 englische	-	-	-	1:01:47.290000	1:01:51.023000
 Wörter	-	-	-	1:01:47.290000	1:01:51.023000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:51.023000" end="1:01:51.510000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:01:51.023000" end="1:01:51.510000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:51.510000" end="1:02:10.963000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:01:51.510000" end="1:02:10.963000" age_lower="65" age_upper="999">
 aber	-	-	-	1:01:51.510000	1:01:53.137000
 das	-	-	-	1:01:51.510000	1:01:53.137000
 ist	-	-	-	1:01:51.510000	1:01:53.137000
@@ -9141,9 +9141,9 @@ heißt	-	-	-	1:02:09.623000	1:02:10.963000
 euch	-	-	-	1:02:09.623000	1:02:10.963000
 haarspray	-	-	-	1:02:09.623000	1:02:10.963000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:10.963000" end="1:02:11.550000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:10.963000" end="1:02:11.550000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:11.550000" end="1:02:26.863000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:11.550000" end="1:02:26.863000" age_lower="65" age_upper="999">
 aber	-	-	-	1:02:11.550000	1:02:12.570000
 ich	-	-	-	1:02:11.550000	1:02:12.570000
 kaufe	-	-	-	1:02:11.550000	1:02:12.570000
@@ -9186,16 +9186,16 @@ taft	-	-	-	1:02:25.497000	1:02:26.863000
 ist	-	-	-	1:02:25.497000	1:02:26.863000
 ausgegangen	-	-	-	1:02:25.497000	1:02:26.863000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:26.543000" end="1:02:27.357000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:26.543000" end="1:02:27.357000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:27.357000" end="1:02:28.770000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:27.357000" end="1:02:28.770000" age_lower="65" age_upper="999">
 jeder	-	-	-	1:02:27.357000	1:02:28.770000
 versteht	-	-	-	1:02:27.357000	1:02:28.770000
 mich	-	-	-	1:02:27.357000	1:02:28.770000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:28.770000" end="1:02:29.083000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:28.770000" end="1:02:29.083000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:29.083000" end="1:02:30.783000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:29.083000" end="1:02:30.783000" age_lower="65" age_upper="999">
 aber	-	-	-	1:02:29.083000	1:02:30.783000
 mich	-	-	-	1:02:29.083000	1:02:30.783000
 mein	-	-	-	1:02:29.083000	1:02:30.783000
@@ -9203,9 +9203,9 @@ euch	-	-	-	1:02:29.083000	1:02:30.783000
 an	-	-	-	1:02:29.083000	1:02:30.783000
 hoorspray	-	-	-	1:02:29.083000	1:02:30.783000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:30.783000" end="1:02:31.837000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:30.783000" end="1:02:31.837000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:31.450000" end="1:02:43.217000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:31.450000" end="1:02:43.217000" age_lower="65" age_upper="999">
 wenn	-	-	-	1:02:31.450000	1:02:32.870000
 ich	-	-	-	1:02:31.450000	1:02:32.870000
 jetzt	-	-	-	1:02:31.450000	1:02:32.870000
@@ -9238,9 +9238,9 @@ es	-	-	-	1:02:40.290000	1:02:43.217000
 viele	-	-	-	1:02:40.290000	1:02:43.217000
 Wörter	-	-	-	1:02:40.290000	1:02:43.217000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:43.217000" end="1:02:43.630000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:43.217000" end="1:02:43.630000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:43.630000" end="1:02:55.970000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:43.630000" end="1:02:55.970000" age_lower="65" age_upper="999">
 die	-	-	-	1:02:43.630000	1:02:47.357000
 eigenlich	-	-	-	1:02:43.630000	1:02:47.357000
 so	-	-	-	1:02:43.630000	1:02:47.357000
@@ -9271,10 +9271,10 @@ das	-	-	-	1:02:53.797000	1:02:55.970000
 Wort	-	-	-	1:02:53.797000	1:02:55.970000
 so	-	-	-	1:02:53.797000	1:02:55.970000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:55.970000" end="1:02:56.777000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:02:55.970000" end="1:02:56.777000" age_lower="1" age_upper="999">
 ja	-	-	-	1:02:55.970000	1:02:56.777000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:56.777000" end="1:03:03.963000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:02:56.777000" end="1:03:03.963000" age_lower="65" age_upper="999">
 denkt	-	-	-	1:02:56.777000	1:02:57.830000
 noch	-	-	-	1:02:56.777000	1:02:57.830000
 ah	-	-	-	1:02:57.830000	1:02:58.983000
@@ -9292,7 +9292,7 @@ halt	-	-	-	1:03:00.477000	1:03:02.823000
 so	-	-	-	1:03:00.477000	1:03:02.823000
 nein	-	-	-	1:03:02.823000	1:03:03.963000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:03.963000" end="1:03:15.010000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:03.963000" end="1:03:15.010000" age_lower="1" age_upper="999">
 und	-	-	-	1:03:03.963000	1:03:06.537000
 ausser	-	-	-	1:03:03.963000	1:03:06.537000
 das	-	-	-	1:03:03.963000	1:03:06.537000
@@ -9316,7 +9316,7 @@ als	-	-	-	1:03:09.723000	1:03:15.010000
 einflussreich	-	-	-	1:03:09.723000	1:03:15.010000
 an	-	-	-	1:03:09.723000	1:03:15.010000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:14.637000" end="1:03:44.483000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:14.637000" end="1:03:44.483000" age_lower="65" age_upper="999">
 ein	-	-	-	1:03:14.637000	1:03:16.557000
 ja	-	-	-	1:03:14.637000	1:03:16.557000
 das	-	-	-	1:03:14.637000	1:03:16.557000
@@ -9393,9 +9393,9 @@ ich	-	-	-	1:03:42.103000	1:03:44.483000
 sage	-	-	-	1:03:42.103000	1:03:44.483000
 plafond	-	-	-	1:03:42.103000	1:03:44.483000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:44.483000" end="1:03:45.050000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:44.483000" end="1:03:45.050000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:45.050000" end="1:03:54.790000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:45.050000" end="1:03:54.790000" age_lower="65" age_upper="999">
 die	-	-	-	1:03:45.050000	1:03:46.170000
 Trottoir	-	-	-	1:03:45.050000	1:03:46.170000
 sage	-	-	-	1:03:46.170000	1:03:47.477000
@@ -9425,14 +9425,14 @@ ein	-	-	-	1:03:52.123000	1:03:54.790000
 Namen	-	-	-	1:03:52.123000	1:03:54.790000
 haben	-	-	-	1:03:52.123000	1:03:54.790000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:53.743000" end="1:03:54.790000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:53.743000" end="1:03:54.790000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:54.790000" end="1:03:55.177000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:54.790000" end="1:03:55.177000" age_lower="65" age_upper="999">
 ja	-	-	-	1:03:54.790000	1:03:55.177000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:55.037000" end="1:03:55.403000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:55.037000" end="1:03:55.403000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:55.177000" end="1:03:59.903000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:03:55.177000" end="1:03:59.903000" age_lower="65" age_upper="999">
 und	-	-	-	1:03:55.177000	1:03:56.203000
 wir	-	-	-	1:03:56.203000	1:03:58.083000
 sagen	-	-	-	1:03:56.203000	1:03:58.083000
@@ -9444,9 +9444,9 @@ sagt	-	-	-	1:03:58.083000	1:03:59.903000
 nimmermehr	-	-	-	1:03:58.083000	1:03:59.903000
 Trottoir	-	-	-	1:03:58.083000	1:03:59.903000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:59.903000" end="1:04:00.950000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:03:59.903000" end="1:04:00.950000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:00.950000" end="1:04:05.063000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:00.950000" end="1:04:05.063000" age_lower="65" age_upper="999">
 oder	-	-	-	1:04:00.950000	1:04:01.737000
 Lavoir	-	-	-	1:04:00.950000	1:04:01.737000
 typisch	-	-	-	1:04:02.083000	1:04:03.743000
@@ -9454,9 +9454,9 @@ ORT	ORT	-	-	1:04:02.083000	1:04:03.743000
 ein	-	-	-	1:04:03.743000	1:04:05.063000
 Lavoir	-	-	-	1:04:03.743000	1:04:05.063000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:05.063000" end="1:04:06.970000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:05.063000" end="1:04:06.970000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:05.523000" end="1:04:08.323000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:05.523000" end="1:04:08.323000" age_lower="65" age_upper="999">
 nein	-	-	-	1:04:05.523000	1:04:05.797000
 <<lachend>	-	-	-	1:04:05.797000	1:04:08.323000
 wissen	-	-	-	1:04:05.797000	1:04:08.323000
@@ -9466,9 +9466,9 @@ ein	-	-	-	1:04:05.797000	1:04:08.323000
 Lavoir	-	-	-	1:04:05.797000	1:04:08.323000
 is,>	-	-	-	1:04:05.797000	1:04:08.323000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:07.917000" end="1:04:08.323000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:07.917000" end="1:04:08.323000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:08.323000" end="1:04:13.377000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:08.323000" end="1:04:13.377000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:08.323000	1:04:08.577000
 na	-	-	-	1:04:09.023000	1:04:09.970000
 gut	-	-	-	1:04:09.023000	1:04:09.970000
@@ -9484,7 +9484,7 @@ ka	-	-	-	1:04:09.970000	1:04:13.377000
 Lavoir	-	-	-	1:04:09.970000	1:04:13.377000
 mehr	-	-	-	1:04:09.970000	1:04:13.377000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:11.063000" end="1:04:13.617000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:11.063000" end="1:04:13.617000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:11.063000	1:04:13.243000
 meine	-	-	-	1:04:11.063000	1:04:13.243000
 Eltern	-	-	-	1:04:11.063000	1:04:13.243000
@@ -9495,7 +9495,7 @@ noch	-	-	-	1:04:11.063000	1:04:13.243000
 gesagee	-	-	-	1:04:11.063000	1:04:13.243000
 ja	-	-	-	1:04:13.377000	1:04:13.617000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:13.377000" end="1:04:14.270000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:13.377000" end="1:04:14.270000" age_lower="65" age_upper="999">
 aso	-	-	-	1:04:13.377000	1:04:14.270000
 sagt	-	-	-	1:04:13.377000	1:04:14.270000
 man	-	-	-	1:04:13.377000	1:04:14.270000
@@ -9503,10 +9503,10 @@ es	-	-	-	1:04:13.377000	1:04:14.270000
 auch	-	-	-	1:04:13.377000	1:04:14.270000
 nimmer	-	-	-	1:04:13.377000	1:04:14.270000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:14.190000" end="1:04:14.437000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:14.190000" end="1:04:14.437000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:14.190000	1:04:14.437000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:14.270000" end="1:04:15.870000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:14.270000" end="1:04:15.870000" age_lower="65" age_upper="999">
 Sohn	-	-	-	1:04:14.270000	1:04:15.870000
 weiß	-	-	-	1:04:14.270000	1:04:15.870000
 nimmer	-	-	-	1:04:14.270000	1:04:15.870000
@@ -9514,10 +9514,10 @@ was	-	-	-	1:04:14.270000	1:04:15.870000
 das	-	-	-	1:04:14.270000	1:04:15.870000
 ist	-	-	-	1:04:14.270000	1:04:15.870000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:14.437000" end="1:04:15.643000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:14.437000" end="1:04:15.643000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:15.310000	1:04:15.643000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:15.870000" end="1:04:18.690000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:15.870000" end="1:04:18.690000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:15.870000	1:04:16.583000
 aber	-	-	-	1:04:16.583000	1:04:18.690000
 wir	-	-	-	1:04:16.583000	1:04:18.690000
@@ -9529,19 +9529,19 @@ im	-	-	-	1:04:16.583000	1:04:18.690000
 Lavoir	-	-	-	1:04:16.583000	1:04:18.690000
 gewaschen	-	-	-	1:04:16.583000	1:04:18.690000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:18.690000" end="1:04:20.217000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:18.690000" end="1:04:20.217000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:18.690000	1:04:20.217000
 sogar	-	-	-	1:04:18.690000	1:04:20.217000
 ich	-	-	-	1:04:18.690000	1:04:20.217000
 noch	-	-	-	1:04:18.690000	1:04:20.217000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:20.023000" end="1:04:21.810000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:20.023000" end="1:04:21.810000" age_lower="65" age_upper="999">
 <<lachend>	-	-	-	1:04:20.023000	1:04:20.457000
 jo;>	-	-	-	1:04:20.023000	1:04:20.457000
 nein	-	-	-	1:04:20.457000	1:04:21.050000
 jo,>	-	-	-	1:04:20.457000	1:04:21.050000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:21.243000" end="1:04:28.457000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:21.243000" end="1:04:28.457000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:21.243000	1:04:22.783000
 weil	-	-	-	1:04:21.243000	1:04:22.783000
 meine	-	-	-	1:04:21.243000	1:04:22.783000
@@ -9565,22 +9565,22 @@ war	-	-	-	1:04:26.150000	1:04:28.457000
 und	-	-	-	1:04:26.150000	1:04:28.457000
 haben	-	-	-	1:04:26.150000	1:04:28.457000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:26.417000" end="1:04:28.790000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:26.417000" end="1:04:28.790000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:26.417000	1:04:26.837000
 ja	-	-	-	1:04:27.990000	1:04:28.230000
 ja	-	-	-	1:04:28.457000	1:04:28.790000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:28.790000" end="1:04:31.737000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:28.790000" end="1:04:31.737000" age_lower="1" age_upper="999">
 in	-	-	-	1:04:28.790000	1:04:31.737000
 so	-	-	-	1:04:28.790000	1:04:31.737000
 einer	-	-	-	1:04:28.790000	1:04:31.737000
 zwazimmerwohnung	-	-	-	1:04:28.790000	1:04:31.737000
 gewohnt	-	-	-	1:04:28.790000	1:04:31.737000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:31.383000" end="1:04:31.677000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:31.383000" end="1:04:31.677000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:31.383000	1:04:31.677000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:31.737000" end="1:04:34.123000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:31.737000" end="1:04:34.123000" age_lower="1" age_upper="999">
 ganz	-	-	-	1:04:31.737000	1:04:32.903000
 mini	-	-	-	1:04:31.737000	1:04:32.903000
 klan	-	-	-	1:04:31.737000	1:04:32.903000
@@ -9590,20 +9590,20 @@ Zimmer	-	-	-	1:04:32.903000	1:04:34.123000
 eigenlich	-	-	-	1:04:32.903000	1:04:34.123000
 so	-	-	-	1:04:32.903000	1:04:34.123000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:33.330000" end="1:04:33.603000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:33.330000" end="1:04:33.603000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:33.330000	1:04:33.603000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:34.123000" end="1:04:36.070000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:34.123000" end="1:04:36.070000" age_lower="1" age_upper="999">
 Küche	-	-	-	1:04:34.123000	1:04:36.070000
 und	-	-	-	1:04:34.123000	1:04:36.070000
 ein	-	-	-	1:04:34.123000	1:04:36.070000
 Zimmer	-	-	-	1:04:34.123000	1:04:36.070000
 halt	-	-	-	1:04:34.123000	1:04:36.070000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:35.950000" end="1:04:36.383000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:35.950000" end="1:04:36.383000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:35.950000	1:04:36.383000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:36.383000" end="1:04:40.023000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:36.383000" end="1:04:40.023000" age_lower="1" age_upper="999">
 und	-	-	-	1:04:36.383000	1:04:40.023000
 deswegen	-	-	-	1:04:36.383000	1:04:40.023000
 da	-	-	-	1:04:36.383000	1:04:40.023000
@@ -9616,7 +9616,7 @@ das	-	-	-	1:04:36.383000	1:04:40.023000
 we	-	-	-	1:04:36.383000	1:04:40.023000
 ce	-	-	-	1:04:36.383000	1:04:40.023000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:38.250000" end="1:04:40.283000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:38.250000" end="1:04:40.283000" age_lower="65" age_upper="999">
 nein	-	-	-	1:04:38.250000	1:04:40.283000
 ich	-	-	-	1:04:38.250000	1:04:40.283000
 habe	-	-	-	1:04:38.250000	1:04:40.283000
@@ -9626,22 +9626,22 @@ in	-	-	-	1:04:38.250000	1:04:40.283000
 einen	-	-	-	1:04:38.250000	1:04:40.283000
 woschtrog	-	-	-	1:04:38.250000	1:04:40.283000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:40.023000" end="1:04:41.410000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:40.023000" end="1:04:41.410000" age_lower="1" age_upper="999">
 genau	-	-	-	1:04:40.023000	1:04:41.410000
 das	-	-	-	1:04:40.023000	1:04:41.410000
 we	-	-	-	1:04:40.023000	1:04:41.410000
 ce	-	-	-	1:04:40.023000	1:04:41.410000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:40.283000" end="1:04:41.643000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:40.283000" end="1:04:41.643000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:41.410000" end="1:04:43.870000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:41.410000" end="1:04:43.870000" age_lower="1" age_upper="999">
 die	-	-	-	1:04:41.410000	1:04:42.323000
 Dusche	-	-	-	1:04:41.410000	1:04:42.323000
 draußen	-	-	-	1:04:42.323000	1:04:43.870000
 im	-	-	-	1:04:42.323000	1:04:43.870000
 Gang	-	-	-	1:04:42.323000	1:04:43.870000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:43.870000" end="1:04:45.450000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:43.870000" end="1:04:45.450000" age_lower="65" age_upper="999">
 na	-	-	-	1:04:43.870000	1:04:45.450000
 dann	-	-	-	1:04:43.870000	1:04:45.450000
 waren	-	-	-	1:04:43.870000	1:04:45.450000
@@ -9650,11 +9650,11 @@ eh	-	-	-	1:04:43.870000	1:04:45.450000
 schon	-	-	-	1:04:43.870000	1:04:45.450000
 gut	-	-	-	1:04:43.870000	1:04:45.450000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:44.397000" end="1:04:45.223000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:44.397000" end="1:04:45.223000" age_lower="1" age_upper="999">
 und	-	-	-	1:04:44.397000	1:04:45.223000
 das	-	-	-	1:04:44.397000	1:04:45.223000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:45.450000" end="1:04:48.350000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:45.450000" end="1:04:48.350000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	1:04:45.450000	1:04:46.537000
 wir	-	-	-	1:04:45.450000	1:04:46.537000
 haben	-	-	-	1:04:45.450000	1:04:46.537000
@@ -9669,7 +9669,7 @@ woschtrog>	-	-	-	1:04:46.537000	1:04:48.350000
 Bad	-	-	-	1:04:46.537000	1:04:48.350000
 waren	-	-	-	1:04:46.537000	1:04:48.350000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:47.730000" end="1:04:51.543000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:47.730000" end="1:04:51.543000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:47.730000	1:04:49.003000
 und	-	-	-	1:04:47.730000	1:04:49.003000
 ich	-	-	-	1:04:47.730000	1:04:49.003000
@@ -9682,20 +9682,20 @@ Lavoir	-	-	-	1:04:49.003000	1:04:51.543000
 gewaschen	-	-	-	1:04:49.003000	1:04:51.543000
 worden	-	-	-	1:04:49.003000	1:04:51.543000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:51.263000" end="1:04:52.070000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:51.263000" end="1:04:52.070000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:51.263000	1:04:51.543000
 ja	-	-	-	1:04:51.543000	1:04:52.070000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:51.870000" end="1:04:52.070000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:51.870000" end="1:04:52.070000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:51.870000	1:04:52.070000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:52.070000" end="1:04:52.483000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:52.070000" end="1:04:52.483000" age_lower="65" age_upper="999">
 ja	-	-	-	1:04:52.070000	1:04:52.483000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:52.337000" end="1:04:53.377000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:52.337000" end="1:04:53.377000" age_lower="1" age_upper="999">
 lustig	-	-	-	1:04:52.777000	1:04:53.377000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:53.057000" end="1:04:55.977000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:53.057000" end="1:04:55.977000" age_lower="65" age_upper="999">
 <<kichernd>	-	-	-	1:04:53.057000	1:04:53.377000
 hm,>	-	-	-	1:04:53.057000	1:04:53.377000
 so	-	-	-	1:04:53.377000	1:04:55.977000
@@ -9704,10 +9704,10 @@ es	-	-	-	1:04:53.377000	1:04:55.977000
 viele	-	-	-	1:04:53.377000	1:04:55.977000
 Wörter	-	-	-	1:04:53.377000	1:04:55.977000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:54.757000" end="1:04:57.057000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:04:54.757000" end="1:04:57.057000" age_lower="1" age_upper="999">
 ja	-	-	-	1:04:55.977000	1:04:57.057000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:57.057000" end="1:05:15.890000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:04:57.057000" end="1:05:15.890000" age_lower="65" age_upper="999">
 heute	-	-	-	1:04:57.057000	1:05:00.510000
 ich	-	-	-	1:04:57.057000	1:05:00.510000
 ist	-	-	-	1:04:57.057000	1:05:00.510000
@@ -9752,22 +9752,22 @@ das	-	-	-	1:05:14.110000	1:05:15.890000
 Ticket	-	-	-	1:05:14.110000	1:05:15.890000
 mit	-	-	-	1:05:14.110000	1:05:15.890000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:14.317000" end="1:05:14.783000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:14.317000" end="1:05:14.783000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:15.890000" end="1:05:16.163000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:15.890000" end="1:05:16.163000" age_lower="65" age_upper="999">
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:16.163000" end="1:05:16.743000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:16.163000" end="1:05:16.743000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:16.523000" end="1:05:17.863000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:16.523000" end="1:05:17.863000" age_lower="65" age_upper="999">
 ja	-	-	-	1:05:16.523000	1:05:17.863000
 nein	-	-	-	1:05:16.523000	1:05:17.863000
 jeder	-	-	-	1:05:16.523000	1:05:17.863000
 versteht	-	-	-	1:05:16.523000	1:05:17.863000
 das	-	-	-	1:05:16.523000	1:05:17.863000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:17.863000" end="1:05:18.217000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:17.863000" end="1:05:18.217000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:17.863000" end="1:05:21.617000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:17.863000" end="1:05:21.617000" age_lower="65" age_upper="999">
 denkt	-	-	-	1:05:17.863000	1:05:19.343000
 sich	-	-	-	1:05:17.863000	1:05:19.343000
 überhaupt	-	-	-	1:05:17.863000	1:05:19.343000
@@ -9782,29 +9782,29 @@ unsrer	-	-	-	1:05:19.343000	1:05:21.617000
 Sprache	-	-	-	1:05:19.343000	1:05:21.617000
 kommt	-	-	-	1:05:19.343000	1:05:21.617000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:21.617000" end="1:05:22.070000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:21.617000" end="1:05:22.070000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:22.070000" end="1:05:23.083000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:22.070000" end="1:05:23.083000" age_lower="65" age_upper="999">
 das	-	-	-	1:05:22.070000	1:05:23.083000
 wird	-	-	-	1:05:22.070000	1:05:23.083000
 so	-	-	-	1:05:22.070000	1:05:23.083000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:22.223000" end="1:05:22.657000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:22.223000" end="1:05:22.657000" age_lower="1" age_upper="999">
 ja	-	-	-	1:05:22.223000	1:05:22.657000
 eh	-	-	-	1:05:22.223000	1:05:22.657000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:23.083000" end="1:05:25.477000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:23.083000" end="1:05:25.477000" age_lower="65" age_upper="999">
 und	-	-	-	1:05:23.083000	1:05:25.477000
 es	-	-	-	1:05:23.083000	1:05:25.477000
 wird	-	-	-	1:05:23.083000	1:05:25.477000
 immer	-	-	-	1:05:23.083000	1:05:25.477000
 ärger	-	-	-	1:05:23.083000	1:05:25.477000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:24.477000" end="1:05:24.803000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:24.477000" end="1:05:24.803000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	1:05:24.477000	1:05:24.803000
 hm;>	-	-	-	1:05:24.477000	1:05:24.803000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:25.477000" end="1:05:54.943000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:25.477000" end="1:05:54.943000" age_lower="65" age_upper="999">
 dass	-	-	-	1:05:25.477000	1:05:27.010000
 immer	-	-	-	1:05:25.477000	1:05:27.010000
 mehr	-	-	-	1:05:25.477000	1:05:27.010000
@@ -9879,7 +9879,7 @@ ein	-	-	-	1:05:52.177000	1:05:54.943000
 Bassena	-	-	-	1:05:52.177000	1:05:54.943000
 ist	-	-	-	1:05:52.177000	1:05:54.943000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:54.943000" end="1:05:57.477000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:05:54.943000" end="1:05:57.477000" age_lower="1" age_upper="999">
 ich	-	-	-	1:05:54.943000	1:05:56.123000
 wass	-	-	-	1:05:54.943000	1:05:56.123000
 nicht	-	-	-	1:05:54.943000	1:05:56.123000
@@ -9889,7 +9889,7 @@ das	-	-	-	1:05:56.123000	1:05:57.477000
 Wort	-	-	-	1:05:56.123000	1:05:57.477000
 aber	-	-	-	1:05:56.123000	1:05:57.477000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:56.557000" end="1:06:00.550000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:05:56.557000" end="1:06:00.550000" age_lower="65" age_upper="999">
 das	-	-	-	1:05:57.717000	1:05:59.503000
 ist	-	-	-	1:05:57.717000	1:05:59.503000
 die	-	-	-	1:05:57.717000	1:05:59.503000
@@ -9899,26 +9899,26 @@ Gang	-	-	-	1:05:57.717000	1:05:59.503000
 der	-	-	-	1:05:59.503000	1:06:00.550000
 Schale	-	-	-	1:05:59.503000	1:06:00.550000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:00.143000" end="1:06:01.303000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:00.143000" end="1:06:01.303000" age_lower="1" age_upper="999">
 ah	-	-	-	1:06:00.143000	1:06:00.763000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:00.763000" end="1:06:01.537000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:00.763000" end="1:06:01.537000" age_lower="65" age_upper="999">
 und	-	-	-	1:06:00.763000	1:06:01.537000
 mit	-	-	-	1:06:00.763000	1:06:01.537000
 der	-	-	-	1:06:00.763000	1:06:01.537000
 wosserleit	-	-	-	1:06:00.763000	1:06:01.537000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:01.537000" end="1:06:01.797000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:01.537000" end="1:06:01.797000" age_lower="1" age_upper="999">
 ja	-	-	-	1:06:01.537000	1:06:01.797000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:01.537000" end="1:06:02.370000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:01.537000" end="1:06:02.370000" age_lower="65" age_upper="999">
 es	-	-	-	1:06:01.537000	1:06:02.370000
 die	-	-	-	1:06:01.537000	1:06:02.370000
 Bassena	-	-	-	1:06:01.537000	1:06:02.370000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:01.797000" end="1:06:02.723000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:01.797000" end="1:06:02.723000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:02.723000" end="1:06:13.890000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:02.723000" end="1:06:13.890000" age_lower="65" age_upper="999">
 keine	-	-	-	1:06:02.723000	1:06:05.183000
 Ahnung	-	-	-	1:06:02.723000	1:06:05.183000
 aus	-	-	-	1:06:02.723000	1:06:05.183000
@@ -9953,10 +9953,10 @@ mit	-	-	-	1:06:09.070000	1:06:13.890000
 einer	-	-	-	1:06:09.070000	1:06:13.890000
 wosserkonne	-	-	-	1:06:09.070000	1:06:13.890000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:10.710000" end="1:06:10.963000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:10.710000" end="1:06:10.963000" age_lower="1" age_upper="999">
 es	-	-	-	1:06:10.710000	1:06:10.963000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:13.890000" end="1:06:39.430000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:13.890000" end="1:06:39.430000" age_lower="65" age_upper="999">
 das	-	-	-	1:06:13.890000	1:06:15.230000
 Wasser	-	-	-	1:06:13.890000	1:06:15.230000
 geholt	-	-	-	1:06:13.890000	1:06:15.230000
@@ -10034,11 +10034,11 @@ Gang	-	-	-	1:06:37.050000	1:06:38.943000
 getroffen	-	-	-	1:06:37.050000	1:06:38.943000
 nein	-	-	-	1:06:38.943000	1:06:39.430000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:39.430000" end="1:06:39.916000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:06:39.430000" end="1:06:39.916000" age_lower="1" age_upper="999">
 <<kichernd>	-	-	-	1:06:39.430000	1:06:39.916000
 hm;>	-	-	-	1:06:39.430000	1:06:39.916000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:39.916000" end="1:07:11.503000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:06:39.916000" end="1:07:11.503000" age_lower="65" age_upper="999">
 das	-	-	-	1:06:39.916000	1:06:41.596000
 war	-	-	-	1:06:39.916000	1:06:41.596000
 ganz	-	-	-	1:06:39.916000	1:06:41.596000
@@ -10116,9 +10116,9 @@ haben	-	-	-	1:07:09.616000	1:07:11.503000
 sich	-	-	-	1:07:09.616000	1:07:11.503000
 verstanden	-	-	-	1:07:09.616000	1:07:11.503000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:07:11.503000" end="1:07:12.283000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:07:11.503000" end="1:07:12.283000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:07:12.283000" end="1:07:30.550000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:07:12.283000" end="1:07:30.550000" age_lower="65" age_upper="999">
 das	-	-	-	1:07:12.283000	1:07:13.590000
 war	-	-	-	1:07:12.283000	1:07:13.590000
 interessant	-	-	-	1:07:12.283000	1:07:13.590000
@@ -10173,9 +10173,9 @@ eigenartige	-	-	-	1:07:27.976000	1:07:30.550000
 soch	-	-	-	1:07:27.976000	1:07:30.550000
 Sache	-	-	-	1:07:27.976000	1:07:30.550000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:07:29.603000" end="1:07:30.090000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:07:29.603000" end="1:07:30.090000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:07:30.550000" end="1:07:53.496000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:07:30.550000" end="1:07:53.496000" age_lower="65" age_upper="999">
 und	-	-	-	1:07:30.550000	1:07:32.443000
 das	-	-	-	1:07:30.550000	1:07:32.443000
 komische	-	-	-	1:07:30.550000	1:07:32.443000
@@ -10251,9 +10251,9 @@ der	-	-	-	1:07:52.476000	1:07:53.496000
 anderen	-	-	-	1:07:52.476000	1:07:53.496000
 Sprache	-	-	-	1:07:52.476000	1:07:53.496000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:07:53.010000" end="1:07:53.496000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:07:53.010000" end="1:07:53.496000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:07:53.496000" end="1:08:05.130000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:07:53.496000" end="1:08:05.130000" age_lower="65" age_upper="999">
 meine	-	-	-	1:07:53.496000	1:07:55.243000
 Großmutter	-	-	-	1:07:53.496000	1:07:55.243000
 hat	-	-	-	1:07:53.496000	1:07:55.243000
@@ -10299,9 +10299,9 @@ schon	-	-	-	1:08:04.070000	1:08:05.130000
 gewonnen	-	-	-	1:08:04.070000	1:08:05.130000
 gehabt	-	-	-	1:08:04.070000	1:08:05.130000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:04.910000" end="1:08:05.556000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:04.910000" end="1:08:05.556000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:05.556000" end="1:08:18.435000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:05.556000" end="1:08:18.435000" age_lower="65" age_upper="999">
 ja	-	-	-	1:08:05.556000	1:08:06.463000
 aber	-	-	-	1:08:06.463000	1:08:08.343000
 die	-	-	-	1:08:06.463000	1:08:08.343000
@@ -10338,9 +10338,9 @@ aus	-	-	-	1:08:16.723000	1:08:18.435000
 anderen	-	-	-	1:08:16.723000	1:08:18.435000
 Ländern	-	-	-	1:08:16.723000	1:08:18.435000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:18.435000" end="1:08:19.002000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:18.435000" end="1:08:19.002000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:19.002000" end="1:08:34.603000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:19.002000" end="1:08:34.603000" age_lower="65" age_upper="999">
 aso	-	-	-	1:08:19.002000	1:08:20.923000
 das	-	-	-	1:08:19.002000	1:08:20.923000
 muss	-	-	-	1:08:19.002000	1:08:20.923000
@@ -10384,11 +10384,11 @@ ist	-	-	-	1:08:31.023000	1:08:34.603000
 einfach	-	-	-	1:08:31.023000	1:08:34.603000
 so	-	-	-	1:08:31.023000	1:08:34.603000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:32.783000" end="1:08:35.370000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:32.783000" end="1:08:35.370000" age_lower="1" age_upper="999">
 ja	-	-	-	1:08:34.603000	1:08:35.370000
 sicher	-	-	-	1:08:34.603000	1:08:35.370000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:35.276000" end="1:08:43.176000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:35.276000" end="1:08:43.176000" age_lower="65" age_upper="999">
 und	-	-	-	1:08:35.276000	1:08:36.850000
 es	-	-	-	1:08:35.276000	1:08:36.850000
 Reisen	-	-	-	1:08:35.276000	1:08:36.850000
@@ -10416,9 +10416,9 @@ anderen	-	-	-	1:08:40.763000	1:08:43.176000
 Land	-	-	-	1:08:40.763000	1:08:43.176000
 waren	-	-	-	1:08:40.763000	1:08:43.176000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:43.176000" end="1:08:44.109000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:08:43.176000" end="1:08:44.109000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:44.109000" end="1:09:33.456000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:08:44.109000" end="1:09:33.456000" age_lower="65" age_upper="999">
 und	-	-	-	1:08:44.109000	1:08:51.149000
 da	-	-	-	1:08:44.109000	1:08:51.149000
 lernst	-	-	-	1:08:44.109000	1:08:51.149000
@@ -10522,9 +10522,9 @@ sogar	-	-	-	1:09:31.456000	1:09:33.456000
 verstanden	-	-	-	1:09:31.456000	1:09:33.456000
 jetzt	-	-	-	1:09:31.456000	1:09:33.456000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:33.456000" end="1:09:34.283000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:33.456000" end="1:09:34.283000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:33.456000" end="1:09:35.603000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:33.456000" end="1:09:35.603000" age_lower="65" age_upper="999">
 we	-	-	-	1:09:34.283000	1:09:35.603000
 man	-	-	-	1:09:34.283000	1:09:35.603000
 da	-	-	-	1:09:34.283000	1:09:35.603000
@@ -10532,14 +10532,14 @@ zuhört	-	-	-	1:09:34.283000	1:09:35.603000
 ein	-	-	-	1:09:34.283000	1:09:35.603000
 Weile	-	-	-	1:09:34.283000	1:09:35.603000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:34.983000" end="1:09:35.343000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:34.983000" end="1:09:35.343000" age_lower="1" age_upper="999">
 m	-	-	-	1:09:34.983000	1:09:35.343000
 hm	-	-	-	1:09:34.983000	1:09:35.343000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:35.603000" end="1:09:38.576000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:35.603000" end="1:09:38.576000" age_lower="65" age_upper="999">
 ja	-	-	-	1:09:35.956000	1:09:38.576000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:38.576000" end="1:09:49.109000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:38.576000" end="1:09:49.109000" age_lower="1" age_upper="999">
 ein	-	-	-	1:09:38.576000	1:09:43.216000
 hat	-	-	-	1:09:38.576000	1:09:43.216000
 sich	-	-	-	1:09:38.576000	1:09:43.216000
@@ -10560,7 +10560,7 @@ verändert	-	-	-	1:09:43.216000	1:09:46.403000
 dadurch	-	-	-	1:09:46.403000	1:09:49.109000
 eben	-	-	-	1:09:46.403000	1:09:49.109000
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:49.109000" end="1:09:51.796000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:49.109000" end="1:09:51.796000" age_lower="65" age_upper="999">
 ein	-	-	-	1:09:49.109000	1:09:50.850000
 die	-	-	-	1:09:49.109000	1:09:50.850000
 Leute	-	-	-	1:09:49.109000	1:09:50.850000
@@ -10570,9 +10570,9 @@ Dialekt	-	-	-	1:09:49.109000	1:09:50.850000
 sprechen	-	-	-	1:09:49.109000	1:09:50.850000
 nicht	-	-	-	1:09:50.850000	1:09:51.796000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:51.796000" end="1:09:52.603000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:09:51.796000" end="1:09:52.603000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:52.603000" end="1:10:07.030000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:09:52.603000" end="1:10:07.030000" age_lower="65" age_upper="999">
 weil	-	-	-	1:09:52.603000	1:09:55.216000
 die	-	-	-	1:09:52.603000	1:09:55.216000
 nur	-	-	-	1:09:52.603000	1:09:55.216000
@@ -10610,9 +10610,9 @@ alles	-	-	-	1:10:03.963000	1:10:05.590000
 an	-	-	-	1:10:05.890000	1:10:06.836000
 Ausdruck	-	-	-	1:10:05.890000	1:10:06.836000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:07.030000" end="1:10:07.370000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:07.030000" end="1:10:07.370000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:07.370000" end="1:10:12.103000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:07.370000" end="1:10:12.103000" age_lower="65" age_upper="999">
 das	-	-	-	1:10:07.370000	1:10:08.343000
 sind	-	-	-	1:10:07.370000	1:10:08.343000
 die	-	-	-	1:10:07.370000	1:10:08.343000
@@ -10631,9 +10631,9 @@ was	-	-	-	1:10:09.750000	1:10:12.103000
 das	-	-	-	1:10:09.750000	1:10:12.103000
 alles	-	-	-	1:10:09.750000	1:10:12.103000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:09.950000" end="1:10:10.496000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:09.950000" end="1:10:10.496000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:12.103000" end="1:10:28.516000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:12.103000" end="1:10:28.516000" age_lower="65" age_upper="999">
 und	-	-	-	1:10:12.103000	1:10:14.016000
 die	-	-	-	1:10:12.103000	1:10:14.016000
 kimmeltürken	-	-	-	1:10:12.103000	1:10:14.016000
@@ -10685,9 +10685,9 @@ so	-	-	-	1:10:25.576000	1:10:28.516000
 viele	-	-	-	1:10:25.576000	1:10:28.516000
 Wörter	-	-	-	1:10:25.576000	1:10:28.516000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:28.516000" end="1:10:29.070000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:28.516000" end="1:10:29.070000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:28.836000" end="1:10:44.063000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:28.836000" end="1:10:44.063000" age_lower="65" age_upper="999">
 was	-	-	-	1:10:28.836000	1:10:29.956000
 wir	-	-	-	1:10:28.836000	1:10:29.956000
 in	-	-	-	1:10:28.836000	1:10:29.956000
@@ -10729,9 +10729,9 @@ aber	-	-	-	1:10:42.303000	1:10:43.710000
 ganz	-	-	-	1:10:42.303000	1:10:43.710000
 unbewusst	-	-	-	1:10:42.303000	1:10:43.710000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:44.063000" end="1:10:44.776000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:10:44.063000" end="1:10:44.776000" age_lower="1" age_upper="999">
 </u>
-<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:44.776000" end="1:11:01.710000" persName="Informant 4063" residence="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" age_lower="65" age_upper="999">
+<u who="spk_697" sex="female" age="alt (65+) weiblich" name="Informant 4063" location="Gerasdorf bei Wien, Bezirk Korneuburg, Niederösterreich, 2201, Österreich" lat="48.294579" lon="16.4679227" start="1:10:44.776000" end="1:11:01.710000" age_lower="65" age_upper="999">
 vielleicht	-	-	-	1:10:44.776000	1:10:46.256000
 die	-	-	-	1:10:44.776000	1:10:46.256000
 Jüngeren	-	-	-	1:10:44.776000	1:10:46.256000
@@ -10769,7 +10769,7 @@ ich	-	-	-	1:10:58.783000	1:11:01.710000
 alles	-	-	-	1:10:58.783000	1:11:01.710000
 verstehe	-	-	-	1:10:58.783000	1:11:01.710000
 </u>
-<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:11:01.710000" end="1:11:02.730000" persName="Informant EXP15" age_lower="" age_upper="999">
+<u who="spk_630" sex="female" age="UNK" name="Informant EXP15" location="UNK" lat="None" lon="None" start="1:11:01.710000" end="1:11:02.730000" age_lower="1" age_upper="999">
 ja	-	-	-	1:11:01.710000	1:11:02.730000
 </u>
 </file>
