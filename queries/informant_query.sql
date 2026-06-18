@@ -3,6 +3,8 @@ select
 	pdti.inf_sigle as sigle,
 	pdtig.gruppe_bez as age_group,
 	pdtp.weiblich as is_female,
+	pdti.kompetenz_d as dialect_komp,
+	pdti.kompetenz_s as standard_komp, 
 	odto.ort_namekurz,
 	odto.ort_namelang,
 	odto.lat,
