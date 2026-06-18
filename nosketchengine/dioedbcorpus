@@ -43,6 +43,9 @@ STRUCTURE u {
     ATTRIBUTE age
     ATTRIBUTE name
     ATTRIBUTE start
+    ATTRIBUTE subproject
+    ATTRIBUTE dialect_competence
+    ATTRIBUTE standard_competence
     ATTRIBUTE end
     ATTRIBUTE location
     ATTRIBUTE lat
